@@ -1,0 +1,32 @@
+GIT
+  remote: git://github.com/tmtmtmtm/csv_to_popolo.git
+  revision: df58df5861cede0e39e00e123ae858af70a5a85c
+  specs:
+    csv_to_popolo (0.8.1)
+      json
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.0)
+    json (1.8.2)
+    method_source (0.8.2)
+    mini_portile (0.6.2)
+    nokogiri (1.6.6.2)
+      mini_portile (~> 0.6.0)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rake (10.4.2)
+    slop (3.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  csv_to_popolo (>= 0.8.1)!
+  json
+  nokogiri
+  pry
+  rake
