@@ -42,6 +42,7 @@ end
 
 task :remove_candidates => :remove_unwanted_orgs do
   @json[:memberships].delete_if { |m| m[:role].to_s.include? 'Candidate' }
+  @json[:memberships].delete_if { |m| m[:role].to_s.include? 'State Assembly Representative' }
 end
 
 task :remove_unwanted_orgs => :downcase_classifications do
