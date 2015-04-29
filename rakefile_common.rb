@@ -64,7 +64,7 @@ task :ensure_legislative_period => :ensure_legislature_exists do
 end
 
 task :switch_party_to_behalf => :ensure_legislature_exists do
-  # TODO: Only works if *all* Orgs are Parties
+  # TODO: Only works if *all* other Orgs are Parties
   # TODO: Only works for unicameral legislature
   @json[:organizations].find_all { |h| h[:classification] != 'legislature' }.each do |o|
     @json[:memberships].find_all { |m| m[:organization_id] == o[:id] }.each do |m|
@@ -76,12 +76,13 @@ task :switch_party_to_behalf => :ensure_legislature_exists do
 end
 
 task :default_memberships_to_current_term => [:ensure_legislative_period] do
-  @json[:memberships].find_all { |m| m[:organization_id] == 'legislature' && m[:role] == 'member' }.each do |m|
+  leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
+  @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
     m[:legislative_period_id] ||= 'term/current'
   end
 end
 
-# Individual country files should override this
+# Individual country files should extend this
 task :process_json => :load_json
 
 
