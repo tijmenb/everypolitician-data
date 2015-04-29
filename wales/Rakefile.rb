@@ -2,4 +2,10 @@ require_relative '../rakefile_common.rb'
 
 @DEST = 'wales'
 
-task :process_json => [:ensure_legislative_period, :default_memberships_to_current_term]
+@current_term = { 
+  id: 'term/4',
+  name: 'Fourth Assembly',
+  start_date: '2011-09-15',
+}
+
+task :process_json => :default_memberships_to_current_term
