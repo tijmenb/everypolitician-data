@@ -5,6 +5,12 @@ require_relative '../rakefile_common.rb'
 
 @DEST = 'denmark'
 
+@current_term = { 
+  id: 'term/2011',
+  name: 'Folketing 2011–15',
+  start_date: '2011-09-15'
+}
+
 task :dk_remove_not_current => :load_json do
   @json[:persons].keep_if { |p| p[:data] && p[:data][:currentMP] && p[:data][:currentMP].first == 'y' }
 end
@@ -35,19 +41,6 @@ task :add_party_names => :load_json do
   end
 end
 
-task :rename_current_term => :default_memberships_to_current_term do
-  leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-  if term = leg[:legislative_periods].find { |h| h[:id] == 'term/current' }
-    term[:id] = 'term/2011'
-    term[:name] = 'Folketing 2011–15'
-    term[:start_date] = '2011-09-15'
-  end
-
-  @json[:memberships].find_all { |m| m[:legislative_period_id] == 'term/current' }.each do |mem|
-    mem[:legislative_period_id] = 'term/2011'
-  end
-end
-  
 task :process_json => [
   :dk_remove_not_current,
   :clean_orphaned_memberships,
@@ -55,6 +48,5 @@ task :process_json => [
   :ensure_legislative_period,
   :switch_party_to_behalf,
   :default_memberships_to_current_term,
-  :rename_current_term,
 ] 
 

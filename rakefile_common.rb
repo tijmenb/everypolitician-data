@@ -52,14 +52,19 @@ task :ensure_legislature_exists => :load_json do
   end
 end
 
-task :ensure_legislative_period => :ensure_legislature_exists do
+task :build_term_info do
+  @_default_term = {
+    id: 'term/current',
+    name: 'current',
+    classification: 'legislative period',
+  }
+  @_default_term.merge! @current_term if @current_term
+end
+
+task :ensure_legislative_period => [ :ensure_legislature_exists, :build_term_info ] do
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
   unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
-    leg[:legislative_periods] = [{
-      id: 'term/current',
-      name: 'current',
-      classification: 'legislative period',
-    }]
+    leg[:legislative_periods] = [ @_default_term ]
   end
 end
 
@@ -78,7 +83,7 @@ end
 task :default_memberships_to_current_term => [:ensure_legislative_period] do
   leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
   @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
-    m[:legislative_period_id] ||= 'term/current'
+    m[:legislative_period_id] ||= @_default_term[:id] 
   end
 end
 
