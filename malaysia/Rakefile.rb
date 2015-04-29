@@ -40,6 +40,10 @@ task :clean_orphaned_people => :clean_orphaned_memberships do
   @json[:persons].keep_if { |p| keep_people.include? p[:id] }
 end
 
+task :remove_candidates => :remove_unwanted_orgs do
+  @json[:memberships].delete_if { |m| m[:role].to_s.include? 'Candidate' }
+end
+
 task :remove_unwanted_orgs => :downcase_classifications do
   keep_type = ['executive', 'legislature', 'chamber', 'party' ]
   keep_orgs = @json[:organizations].find_all { |o| keep_type.include? o[:classification] }.map { |o| o[:id] }
@@ -52,6 +56,7 @@ task :process_json => [
   :my_fixup_orgs,
   :downcase_classifications,
   :remove_unwanted_orgs,
+  :remove_candidates,
   :clean_orphaned_memberships, 
   :clean_orphaned_people,
   :ensure_legislative_period,
