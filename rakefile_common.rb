@@ -3,7 +3,7 @@ require 'open-uri'
 require 'rake/clean'
 require 'pry'
 
-CLEAN.include('processed.json')
+CLEAN.include('final.json')
 
 Numeric.class_eval { def empty?; false; end }
 
@@ -14,13 +14,9 @@ file 'popit.json' do
   File.write('popit.json', open(popit_src).read) 
 end
 
-task :rebuild => [ :clean, 'processed.json' ]
+task :rebuild => [ :clean, 'final.json' ]
 
-task :default => 'processed.json'
-
-task :install => 'processed.json' do
-  FileUtils.cp('processed.json', "../#{@DEST}.json")
-end
+task :default => 'final.json'
 
 task :load_json => 'popit.json' do
   @json = JSON.load(File.read(@JSON_FILE), lambda { |h| 
@@ -31,8 +27,8 @@ task :load_json => 'popit.json' do
   }, { symbolize_names: true })
 end
 
-file 'processed.json' => :process_json do
-  File.write('processed.json', JSON.pretty_generate(@json))
+file 'final.json' => :process_json do
+  File.write('final.json', JSON.pretty_generate(@json))
 end  
 
 task :clean_orphaned_memberships => :load_json do

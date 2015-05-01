@@ -24,14 +24,12 @@ file 'popit.csv' => 'popit.json' do
   csv = data.first.keys.to_csv  + data.map { |r| r.values.to_csv }.join
   File.write('popit.csv', csv.gsub(',null',','))
 end
-CLEAN.include('popit.csv')
 
 file 'fromcsv.json' => 'popit.csv' do
   data = Popolo::CSV.new('popit.csv').data
   json = JSON.pretty_generate(data)
   File.write('fromcsv.json', json)
 end
-CLEAN.include('fromcsv.json')
 
 task :load_json => 'fromcsv.json'
 
