@@ -1,37 +1,8 @@
-require 'csv'
-require 'csv_to_popolo'
 
 require_relative '../rakefile_common.rb'
 
 @DEST = 'australia'
-@JSON_FILE = 'fromcsv.json'
-
-file 'popit.csv' => 'popit.json' do
-  data = JSON.load(File.read('popit.json'))['persons'].map do |p|
-    { 
-      id: p['ids'].find { |i| i['provider'] == 'aph_id' }['id'],
-      name: p['name'],
-      party: p['data']['party'][0],
-      house: p['data']['house'][0],
-      source: (p['links'].find { |l| l['note'] == 'aph_profile_page' } || {})['url'],
-      website: (p['links'].find { |l| l['note'] == 'website' } || {})['url'],
-      photo: (p['links'].find { |l| l['note'] == 'aph_profile_photo' } || {})['url'],
-      email: (p['contact_details'].find { |l| l['type'] == 'email' } || {})['value'],
-      facebook: (p['contact_details'].find { |l| l['type'] == 'facebook' } || {})['value'],
-      twitter: (p['contact_details'].find { |l| l['type'] == 'twitter' } || {})['value'],
-    }
-  end
-  csv = data.first.keys.to_csv  + data.map { |r| r.values.to_csv }.join
-  File.write('popit.csv', csv.gsub(',null',','))
-end
-
-file 'fromcsv.json' => 'popit.csv' do
-  data = Popolo::CSV.new('popit.csv').data
-  json = JSON.pretty_generate(data)
-  File.write('fromcsv.json', json)
-end
-
-task :load_json => 'fromcsv.json'
+@POPIT = 'australia-test'
 
 
 task :connect_chambers => :ensure_legislature_exists do
