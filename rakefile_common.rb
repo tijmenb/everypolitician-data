@@ -7,29 +7,22 @@ CLEAN.include('final.json')
 
 Numeric.class_eval { def empty?; false; end }
 
-@JSON_FILE = 'popit.json'
-
-file 'popit.json' do 
-  popit_src = @POPIT_URL || "https://#{@POPIT || @DEST}.popit.mysociety.org/api/v0.1/export.json"
-  File.write('popit.json', open(popit_src).read) 
-end
-
 task :rebuild => [ :clean, 'final.json' ]
 
 task :default => 'final.json'
 
-task :load_json => 'popit.json' do
-  @json = JSON.load(File.read(@JSON_FILE), lambda { |h| 
-    if h.class == Hash 
-      h.reject! { |_, v| v.nil? or v.empty? }
-      h.reject! { |k, v| (k == :url or k == :html_url) and v[/popit.mysociety.org/] }
-    end
-  }, { symbolize_names: true })
+task :load_json => 'clean.json' do
+  @json = JSON.parse(File.read('clean.json'), symbolize_names: true )
 end
+
+task :process_json => :load_json
 
 file 'final.json' => :process_json do
   File.write('final.json', JSON.pretty_generate(@json))
 end  
+
+
+
 
 task :clean_orphaned_memberships => :load_json do
   @json[:memberships].keep_if { |m|
@@ -82,8 +75,5 @@ task :default_memberships_to_current_term => [:ensure_legislative_period] do
     m[:legislative_period_id] ||= @_default_term[:id] 
   end
 end
-
-# Individual country files should extend this
-task :process_json => :load_json
 
 
