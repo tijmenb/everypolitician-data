@@ -1,6 +1,6 @@
-require_relative '../rakefile_popit.rb'
+require_relative '../rakefile_morph.rb'
 
-@POPIT = 'canada-commons'
+@MORPH = 'tmtmtmtm/represent-ca'
 @DEST = 'canada'
 
 @current_term = { 
