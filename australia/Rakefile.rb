@@ -1,7 +1,7 @@
-require_relative '../rakefile_popit.rb'
+require_relative '../rakefile_morph.rb'
 
 @DEST = 'australia'
-@POPIT = 'australia-test'
+@MORPH = 'tmtmtmtm/popit-australia'
 
 @current_term = { 
   id: 'term/44',
