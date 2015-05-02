@@ -3,7 +3,7 @@ require_relative '../rakefile_morph.rb'
 @MORPH = 'tmtmtmtm/chile-opendata'
 @DEST = 'chile'
 
-file 'final.json' => :add_all_terms
+file 'final.json' => [:clean_zero_districts, :add_all_terms]
 
 # From http://opendata.congreso.cl/wscamaradiputados.asmx/getPeriodosLegislativos
 task :add_all_terms => :ensure_legislature_exists do
@@ -53,6 +53,12 @@ task :add_all_terms => :ensure_legislature_exists do
       classification: 'legislative period',
     }
   ]
+end
+
+task :clean_zero_districts => :load_json do
+  @json[:memberships].each do |m|
+    m.delete(:area) if m.has_key?(:area) and m[:area][:name] == '0'
+  end
 end
 
 
