@@ -1,20 +1,64 @@
-require_relative '../rakefile_popit.rb'
+require_relative '../rakefile_morph.rb'
 
-@POPIT = 'pmocl'
+@MORPH = 'tmtmtmtm/chile-opendata'
 @DEST = 'chile'
 
-@current_term = { 
-  id: "term/2014",
-  name: "Legislativo 2014-2018",
-  start_date: "2014-03-11",
-  end_date: "2018-03-10",
-}
+file 'final.json' => [:clean_zero_districts, :add_all_terms]
 
-# Must be done in correct order
-task :default_memberships_to_current_term => :switch_party_to_behalf
+# From http://opendata.congreso.cl/wscamaradiputados.asmx/getPeriodosLegislativos
+task :add_all_terms => :ensure_legislature_exists do
+  leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
+  leg[:legislative_periods] = [
+    {
+      id: 'term/1',
+      start_date: '1990-03-11',
+      end_date: '1994-03-10',
+      name: 'Legislativo 1990-1994',
+      classification: 'legislative period',
+    }, {
+      id: 'term/2',
+      start_date: '1994-03-11',
+      end_date: '1998-03-10',
+      name: 'Legislativo 1994-1998',
+      classification: 'legislative period',
+    }, {
+      id: 'term/3',
+      start_date: '1998-03-11',
+      end_date: '2002-03-10',
+      name: 'Legislativo 1998-2002',
+      classification: 'legislative period',
+    }, {
+      id: 'term/4',
+      start_date: '2002-03-11',
+      end_date: '2006-03-10',
+      name: 'Legislativo 2002-2006',
+      classification: 'legislative period',
+    }, {
+      id: 'term/5',
+      start_date: '2006-03-11',
+      end_date: '2010-03-10',
+      name: 'Legislativo 2006-2010',
+      classification: 'legislative period',
+    }, {
+      id: 'term/6',
+      start_date: '2010-03-11',
+      end_date: '2014-03-10',
+      name: 'Legislativo 2010-2014',
+      classification: 'legislative period',
+    }, {
+      id: 'term/8',
+      start_date: '2014-03-11',
+      end_date: '2018-03-10',
+      name: 'Legislativo 2014-2018',
+      classification: 'legislative period',
+    }
+  ]
+end
 
-task :process_json => [
-  :clean_orphaned_memberships, 
-  :ensure_legislative_period,
-  :default_memberships_to_current_term
-] 
+task :clean_zero_districts => :load_json do
+  @json[:memberships].each do |m|
+    m.delete(:area) if m.has_key?(:area) and m[:area][:name] == '0'
+  end
+end
+
+
