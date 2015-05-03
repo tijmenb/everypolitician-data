@@ -1,0 +1,48 @@
+import sys
+import os
+import json
+
+import vpapi
+
+parliaments = [
+    ('al/kuvendi', 'albania', 'kuvendi'),
+    ('cz/psp', 'czech_republic', 'psp'),
+    ('cz/senat', 'czech_republic', 'senat'),
+    ('hu/orszaggyules', 'hungary', 'orszaggyules'),
+    ('me/skupstina', 'macedonia', 'skupstina'),
+    ('pl/sejm', 'poland', 'sejm'),
+    ('pl/senat', 'poland', 'senat'),
+    ('rs/skupstina', 'serbia', 'skupstina'),
+    ('sk/nrsr', 'slovakia', 'nrsr'),
+    ]
+
+
+
+endpoints = [
+    'people',
+    'organizations',
+    'memberships',
+    'posts',
+#    'motions',
+#    'vote-events',
+#    'votes',
+    'areas',
+#    'speeches',
+    'events',
+#     'logs',
+    ]
+
+parliament = sys.argv[1]
+
+print "Handling {}".format(parliament)
+
+vpapi.parliament(parliament)
+
+output = {}
+for endpoint in endpoints:
+    output[endpoint] = list(vpapi.getall(endpoint))
+
+print json.dumps(output, indent=4, sort_keys = True)
+
+
+
