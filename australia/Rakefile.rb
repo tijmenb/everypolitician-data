@@ -20,5 +20,5 @@ task :connect_chambers => :ensure_legislature_exists do
   end
 end
 
-task :process_json => [:connect_chambers, :default_memberships_to_current_term]
+file 'final.json' => :connect_chambers
 

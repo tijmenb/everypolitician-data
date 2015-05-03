@@ -38,12 +38,12 @@ task :add_party_names => :load_json do
   end
 end
 
-task :process_json => [
+task 'final.json' => [
   :dk_remove_not_current,
   :clean_orphaned_memberships,
   :add_party_names,
-  :ensure_legislative_period,
-  :switch_party_to_behalf,
-  :default_memberships_to_current_term,
 ] 
+
+# Don't add term until the membership exists!
+task :ensure_memberships_have_term => :switch_party_to_behalf
 

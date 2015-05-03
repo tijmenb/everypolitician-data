@@ -9,4 +9,3 @@ require_relative '../rakefile_popit.rb'
   start_date: '2013-03-15'
 }
 
-task :process_json => :default_memberships_to_current_term
