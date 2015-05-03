@@ -1,101 +1,6 @@
 {
   "organizations": [
     {
-      "name": "Kuvendi i Shqipërisë: Legjislatura I",
-      "classification": "chamber",
-      "id": "chamber_I"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura II",
-      "classification": "chamber",
-      "id": "chamber_II"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura III",
-      "classification": "chamber",
-      "id": "chamber_III"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura IV",
-      "classification": "chamber",
-      "id": "chamber_IV"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura V",
-      "classification": "chamber",
-      "id": "chamber_V"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura VI",
-      "classification": "chamber",
-      "id": "chamber_VI"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura VII",
-      "classification": "chamber",
-      "id": "chamber_VII"
-    },
-    {
-      "name": "Kuvendi i Shqipërisë: Legjislatura VIII",
-      "classification": "chamber",
-      "id": "chamber_VIII"
-    },
-    {
-      "dissolution_date": "1992",
-      "founding_date": "1991",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XII",
-      "classification": "chamber",
-      "id": "chamber_XII"
-    },
-    {
-      "dissolution_date": "1996",
-      "founding_date": "1992",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XIII",
-      "classification": "chamber",
-      "id": "chamber_XIII"
-    },
-    {
-      "dissolution_date": "1997",
-      "founding_date": "1996",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XIV",
-      "classification": "chamber",
-      "id": "chamber_XIV"
-    },
-    {
-      "founding_date": "2013",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XIX",
-      "classification": "chamber",
-      "id": "chamber_XIX"
-    },
-    {
-      "dissolution_date": "2001",
-      "founding_date": "1997",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XV",
-      "classification": "chamber",
-      "id": "chamber_XV"
-    },
-    {
-      "dissolution_date": "2005",
-      "founding_date": "2001",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XVI",
-      "classification": "chamber",
-      "id": "chamber_XVI"
-    },
-    {
-      "dissolution_date": "2009",
-      "founding_date": "2005",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XVII",
-      "classification": "chamber",
-      "id": "chamber_XVII"
-    },
-    {
-      "dissolution_date": "2013",
-      "founding_date": "2009",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XVIII",
-      "classification": "chamber",
-      "id": "chamber_XVIII"
-    },
-    {
       "classification": "parliamentary_group",
       "sources": [
         {
@@ -252,10 +157,99 @@
       "id": "legislature",
       "legislative_periods": [
         {
-          "id": "term/44",
-          "name": "44th Parliament",
-          "classification": "legislative period",
-          "start_date": "2013-09-07"
+          "name": "Kuvendi i Shqipërisë: Legjislatura I",
+          "classification": "chamber",
+          "id": "chamber_I"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura II",
+          "classification": "chamber",
+          "id": "chamber_II"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura III",
+          "classification": "chamber",
+          "id": "chamber_III"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura IV",
+          "classification": "chamber",
+          "id": "chamber_IV"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura V",
+          "classification": "chamber",
+          "id": "chamber_V"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura VI",
+          "classification": "chamber",
+          "id": "chamber_VI"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura VII",
+          "classification": "chamber",
+          "id": "chamber_VII"
+        },
+        {
+          "name": "Kuvendi i Shqipërisë: Legjislatura VIII",
+          "classification": "chamber",
+          "id": "chamber_VIII"
+        },
+        {
+          "dissolution_date": "1992",
+          "founding_date": "1991",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XII",
+          "classification": "chamber",
+          "id": "chamber_XII"
+        },
+        {
+          "dissolution_date": "1996",
+          "founding_date": "1992",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XIII",
+          "classification": "chamber",
+          "id": "chamber_XIII"
+        },
+        {
+          "dissolution_date": "1997",
+          "founding_date": "1996",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XIV",
+          "classification": "chamber",
+          "id": "chamber_XIV"
+        },
+        {
+          "founding_date": "2013",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XIX",
+          "classification": "chamber",
+          "id": "chamber_XIX"
+        },
+        {
+          "dissolution_date": "2001",
+          "founding_date": "1997",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XV",
+          "classification": "chamber",
+          "id": "chamber_XV"
+        },
+        {
+          "dissolution_date": "2005",
+          "founding_date": "2001",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XVI",
+          "classification": "chamber",
+          "id": "chamber_XVI"
+        },
+        {
+          "dissolution_date": "2009",
+          "founding_date": "2005",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XVII",
+          "classification": "chamber",
+          "id": "chamber_XVII"
+        },
+        {
+          "dissolution_date": "2013",
+          "founding_date": "2009",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XVIII",
+          "classification": "chamber",
+          "id": "chamber_XVIII"
         }
       ]
     }
