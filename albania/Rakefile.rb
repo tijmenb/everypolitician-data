@@ -12,15 +12,19 @@ require_relative '../rakefile_kvapi.rb'
 task :ensure_legislative_period => :cleanup 
 
 task :cleanup => :ensure_legislature_exists do
-  committees, orgs = @json[:organizations].partition { |o| o[:classification] == 'committees' }
+  committees, orgs = @json[:organizations].partition { |o| o[:classification] == 'committee' }
+  terms,      orgs =                  orgs.partition { |o| o[:classification] == 'chamber' }
+
   committee_ids = committees.map { |c| c[:id] }.to_set
 
-  @json[:memberships].delete_if { |m| committee_ids.include? m[:id] }
+  require 'pry'
+  binding.pry
+  @json[:memberships].delete_if { |m| committee_ids.include? m[:organization_id] }
 
   # leg[:legislative_periods], @orgs[:organizations] = @orgs[:organizations].partition { |o| o[:classification] == 'chamber' }
-  terms, orgs = orgs.partition { |o| o[:classification] == 'chamber' }
 
   @json[:organizations] = orgs
+
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
   leg[:legislative_periods] = terms.map do |t|
     t[:classification] == 'legislative_period_id'
