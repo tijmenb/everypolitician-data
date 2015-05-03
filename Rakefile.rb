@@ -23,4 +23,10 @@ task :regenerate_all do
   end
 end
 
+desc "Publish data"
+task :publish do
+  @COUNTRIES.each do |country| 
+    cp "#{country}/final.json", "/Users/tony/Code/popolo-viewer-sinatra/data/#{country}.json"
+  end
+end
 
