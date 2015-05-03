@@ -15,7 +15,7 @@ task :load_json => 'clean.json' do
   @json = JSON.parse(File.read('clean.json'), symbolize_names: true )
 end
 
-task :process_json => :load_json
+task :process_json => :ensure_memberships_have_term
 
 file 'final.json' => :process_json do
   File.write('final.json', JSON.pretty_generate(@json))
@@ -53,6 +53,7 @@ end
 task :ensure_legislative_period => [ :ensure_legislature_exists, :build_term_info ] do
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
   unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
+    # TODO extend this also allow simple provision of historic terms
     leg[:legislative_periods] = [ @_default_term ]
   end
 end
@@ -69,7 +70,7 @@ task :switch_party_to_behalf => :ensure_legislature_exists do
   end
 end
 
-task :default_memberships_to_current_term => [:ensure_legislative_period] do
+task :ensure_memberships_have_term => :ensure_legislative_period do
   leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
   @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
     m[:legislative_period_id] ||= @_default_term[:id] 

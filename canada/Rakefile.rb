@@ -9,4 +9,3 @@ require_relative '../rakefile_morph.rb'
   start_date: "2011-06-02",
 }
 
-task :process_json => :default_memberships_to_current_term
