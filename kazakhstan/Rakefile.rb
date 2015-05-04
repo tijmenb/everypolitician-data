@@ -2,6 +2,9 @@ require_relative '../rakefile_morph.rb'
 
 @DEST = 'kazakhstan'
 @MORPH = 'tmtmtmtm/kazakh-mazhilis'
+@LEGISLATURE = {
+  name: 'Mazhilis'
+}
 
 # http://www.parlam.kz/en/mazhilis/history?id=history
 @current_term = { 
