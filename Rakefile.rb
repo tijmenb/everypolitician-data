@@ -41,7 +41,7 @@ task :publish do
     %x[ hub add data ]
     %x[ hub commit -m "Refresh with new data from #{last_commit}" ]
     %x[ hub push -u origin #{branch_name} ]
-    %x[ hub pull-request -m "Refresh with new data from #{last_commit}" ]
+    %x[ hub pull-request ]
   end
 end
 
