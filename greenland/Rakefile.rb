@@ -2,6 +2,9 @@ require_relative '../rakefile_popit.rb'
 
 @POPIT = 'inatsisartut'
 @DEST = 'greenland'
+@LEGISLATURE = {
+  name: 'Inatsisartut',
+}
 
 task :add_term_dates => :load_json do
   parl = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
