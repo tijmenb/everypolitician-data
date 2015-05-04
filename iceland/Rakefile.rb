@@ -10,6 +10,7 @@ task :add_term_dates => :ensure_legislative_period do
     (start_date, end_date) = t[:name].split(/\D+/)
     t[:start_date] = start_date if start_date
     t[:end_date] = end_date if end_date
+    t[:name].prepend 'Alþingi '
   end
 end
 
