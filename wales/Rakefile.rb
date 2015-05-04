@@ -1,6 +1,9 @@
 require_relative '../rakefile_popit.rb'
 
 @DEST = 'wales'
+@LEGISLATURE = {
+  name: 'National Assembly for Wales',
+}
 
 @current_term = { 
   id: 'term/4',
