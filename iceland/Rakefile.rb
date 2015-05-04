@@ -2,6 +2,9 @@ require_relative '../rakefile_morph.rb'
 
 @DEST = 'iceland'
 @MORPH = 'tmtmtmtm/iceland-althing-wp'
+@LEGISLATURE = {
+  name: 'Alþingi'
+}
 
 task 'final.json' => :add_term_dates
 task :add_term_dates => :ensure_legislative_period do
