@@ -41,6 +41,14 @@ task :ensure_legislature_exists => :load_json do
   end
 end
 
+task :name_legislature => :ensure_legislature_exists do
+  if (@LEGISLATURE)
+    leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
+    raise "More than one legislature exists, and @LEGISLATURE set" if leg.count > 1
+    leg.first.merge! @LEGISLATURE
+  end
+end
+
 task :build_term_info do
   @_default_term = {
     id: 'term/current',
@@ -50,7 +58,7 @@ task :build_term_info do
   @_default_term.merge! @current_term if @current_term
 end
 
-task :ensure_legislative_period => [ :ensure_legislature_exists, :build_term_info ] do
+task :ensure_legislative_period => [ :name_legislature, :build_term_info ] do
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
   unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
     # TODO extend this also allow simple provision of historic terms
