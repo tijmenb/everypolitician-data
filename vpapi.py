@@ -1,3 +1,6 @@
+# This python client script comes from the good people of KohoVolit
+# https://raw.githubusercontent.com/KohoVolit/api.parldata.eu/master/client/vpapi.py
+
 import json
 import base64
 from datetime import datetime, date, time
