@@ -6,11 +6,16 @@ file 'parldata.json' do
   venv_python = venv_path + "/bin/python"
   File.exist? venv_python or raise "No `python` binary found at #{venv_python}"
 
-  fetcher = File.expand_path("../bin/parldataeu.py", __FILE__)
-  cmd = [venv_python, fetcher, @PARLDATA].join ' '
-  data = %x[ #{cmd} ]
-  raise "No data from #{cmd}" if data.empty?
-  File.write('parldata.json', data)
+  [@PARLDATA].flatten.each_with_index do |house, i|
+    fetcher = File.expand_path("../bin/parldataeu.py", __FILE__)
+    cmd = [venv_python, fetcher, house].join ' '
+
+    outfile = 'parldata'
+    outfile << "-#{house.split('/').last}" unless i.zero?
+
+    data = %x[ #{cmd} ]
+    File.write("#{outfile}.json", data)
+  end
 end
 CLOBBER.include('parldata.json')
   
