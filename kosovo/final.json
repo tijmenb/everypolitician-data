@@ -1,65 +1,6 @@
 {
   "organizations": [
     {
-      "dissolution_date": "2004-11-23",
-      "founding_date": "2001-11-17",
-      "name": "Kuvendit të Kosovës - Periudha e parë Legjislative",
-      "classification": "chamber",
-      "sources": [
-        {
-          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
-        }
-      ],
-      "id": "chamber_2001-11-17"
-    },
-    {
-      "dissolution_date": "2007-12-12",
-      "founding_date": "2004-11-23",
-      "name": "Kuvendit të Kosovës - Periudha e dytë Legjislative",
-      "classification": "chamber",
-      "sources": [
-        {
-          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
-        }
-      ],
-      "id": "chamber_2004-11-23"
-    },
-    {
-      "dissolution_date": "2010-11-03",
-      "founding_date": "2007-12-13",
-      "name": "Kuvendit të Kosovës - Periudha e tretë Legjislative",
-      "classification": "chamber",
-      "sources": [
-        {
-          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
-        }
-      ],
-      "id": "chamber_2007-12-13"
-    },
-    {
-      "dissolution_date": "2014-05-07",
-      "founding_date": "2010-12-12",
-      "name": "Kuvendit të Kosovës - Periudha e katërt Legjislative",
-      "classification": "chamber",
-      "sources": [
-        {
-          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=4"
-        }
-      ],
-      "id": "chamber_2010-12-12"
-    },
-    {
-      "founding_date": "2014-07-17",
-      "name": "Kuvendit të Kosovës - Periudha e pestë Legjislative",
-      "classification": "chamber",
-      "sources": [
-        {
-          "url": "http://www.kuvendikosoves.org/?cid=1,102"
-        }
-      ],
-      "id": "chamber_2014-07-17"
-    },
-    {
       "classification": "parliamentary_group",
       "sources": [
         {
@@ -2195,6 +2136,72 @@
         }
       ],
       "id": "party_Vetëvendosje!"
+    },
+    {
+      "classification": "legislature",
+      "name": "Kuvendit",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "name": "Kuvendit të Kosovës - Periudha e parë Legjislative",
+          "classification": "legislative period",
+          "sources": [
+            {
+              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
+            }
+          ],
+          "id": "chamber_2001-11-17",
+          "start_date": "2001-11-17",
+          "end_date": "2004-11-23"
+        },
+        {
+          "name": "Kuvendit të Kosovës - Periudha e dytë Legjislative",
+          "classification": "legislative period",
+          "sources": [
+            {
+              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
+            }
+          ],
+          "id": "chamber_2004-11-23",
+          "start_date": "2004-11-23",
+          "end_date": "2007-12-12"
+        },
+        {
+          "name": "Kuvendit të Kosovës - Periudha e tretë Legjislative",
+          "classification": "legislative period",
+          "sources": [
+            {
+              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
+            }
+          ],
+          "id": "chamber_2007-12-13",
+          "start_date": "2007-12-13",
+          "end_date": "2010-11-03"
+        },
+        {
+          "name": "Kuvendit të Kosovës - Periudha e katërt Legjislative",
+          "classification": "legislative period",
+          "sources": [
+            {
+              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=4"
+            }
+          ],
+          "id": "chamber_2010-12-12",
+          "start_date": "2010-12-12",
+          "end_date": "2014-05-07"
+        },
+        {
+          "name": "Kuvendit të Kosovës - Periudha e pestë Legjislative",
+          "classification": "legislative period",
+          "sources": [
+            {
+              "url": "http://www.kuvendikosoves.org/?cid=1,102"
+            }
+          ],
+          "id": "chamber_2014-07-17",
+          "start_date": "2014-07-17"
+        }
+      ]
     }
   ],
   "people": [

@@ -43359,17 +43359,6 @@
   ],
   "organizations": [
     {
-      "classification": "chamber",
-      "id": "5509a8fb273a3904f6e71a64",
-      "identifiers": [
-        {
-          "identifier": "7",
-          "scheme": "mojepanstwo.pl/chamber"
-        }
-      ],
-      "name": "Sejm 2011 - "
-    },
-    {
       "classification": "party",
       "id": "5509a91d273a3904f6e7228c",
       "identifiers": [
@@ -43538,6 +43527,24 @@
         }
       ],
       "parent_id": "5509a8fb273a3904f6e71a64"
+    },
+    {
+      "classification": "legislature",
+      "name": "Parlament",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "classification": "legislative period",
+          "id": "5509a8fb273a3904f6e71a64",
+          "identifiers": [
+            {
+              "identifier": "7",
+              "scheme": "mojepanstwo.pl/chamber"
+            }
+          ],
+          "name": "Sejm 2011 - "
+        }
+      ]
     }
   ],
   "people": [

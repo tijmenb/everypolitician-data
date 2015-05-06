@@ -3913,17 +3913,6 @@
   ],
   "organizations": [
     {
-      "classification": "chamber",
-      "id": "550a7f50273a3965683bd824",
-      "identifiers": [
-        {
-          "identifier": "25",
-          "scheme": "skupstina.me/chamber"
-        }
-      ],
-      "name": "Skupština Crne Gore 2012 - 2015"
-    },
-    {
       "classification": "party",
       "id": "550a7f9a273a3965683bd96a",
       "identifiers": [
@@ -4042,6 +4031,24 @@
       ],
       "name": "Liberalna partija",
       "parent_id": "550a7f50273a3965683bd824"
+    },
+    {
+      "classification": "legislature",
+      "name": "Skupština",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "classification": "legislative period",
+          "id": "550a7f50273a3965683bd824",
+          "identifiers": [
+            {
+              "identifier": "25",
+              "scheme": "skupstina.me/chamber"
+            }
+          ],
+          "name": "Skupština Crne Gore 2012 - 2015"
+        }
+      ]
     }
   ],
   "people": [

@@ -32,3 +32,22 @@ file 'clean.json' => 'parldata.json' do
 end
 CLEAN.include('clean.json')
 
+
+# Migrate Chambers to Terms before adding a default one
+task :ensure_legislative_period => :migrate_to_terms
+
+task :migrate_to_terms => :ensure_legislature_exists do
+  # require 'pry'
+  # binding.pry
+  leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
+  @json[:organizations].find_all { |h| h[:classification] == 'chamber' }.each do |c|
+    (leg[:legislative_periods] ||= []) << c.merge({ 
+      classification: "legislative period",
+      start_date: c.delete(:founding_date),
+      end_date: c.delete(:dissolution_date),
+    }.reject { |_,v| v.nil? or v.empty? })
+  end
+  @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
+end
+
+

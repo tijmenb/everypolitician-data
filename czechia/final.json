@@ -29671,121 +29671,6 @@
       "parent_id": "165"
     },
     {
-      "classification": "chamber",
-      "dissolution_date": "1996-06-06",
-      "founding_date": "1992-06-06",
-      "id": "165",
-      "identifiers": [
-        {
-          "identifier": "1",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "165",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "1998-06-19",
-      "founding_date": "1996-06-01",
-      "id": "166",
-      "identifiers": [
-        {
-          "identifier": "2",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "166",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2002-06-20",
-      "founding_date": "1998-06-20",
-      "id": "167",
-      "identifiers": [
-        {
-          "identifier": "3",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "167",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2006-06-15",
-      "founding_date": "2002-06-15",
-      "id": "168",
-      "identifiers": [
-        {
-          "identifier": "4",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "168",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2010-06-03",
-      "founding_date": "2006-06-03",
-      "id": "169",
-      "identifiers": [
-        {
-          "identifier": "5",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "169",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
-    },
-    {
       "classification": "political group",
       "dissolution_date": "1996-06-06",
       "founding_date": "1992-06-06",
@@ -29804,51 +29689,6 @@
         }
       ],
       "parent_id": "165"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2013-08-28",
-      "founding_date": "2010-05-29",
-      "id": "170",
-      "identifiers": [
-        {
-          "identifier": "6",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "170",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
-    },
-    {
-      "classification": "chamber",
-      "founding_date": "2013-10-26",
-      "id": "171",
-      "identifiers": [
-        {
-          "identifier": "7",
-          "scheme": "psp.cz/term"
-        },
-        {
-          "identifier": "171",
-          "scheme": "psp.cz/organy"
-        }
-      ],
-      "name": "Poslanecká sněmovna",
-      "other_names": [
-        {
-          "name": "PSP",
-          "note": "abbreviation"
-        }
-      ]
     },
     {
       "classification": "political group",
@@ -30649,6 +30489,173 @@
         }
       ],
       "parent_id": "165"
+    },
+    {
+      "classification": "legislature",
+      "name": "Parlament",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "classification": "legislative period",
+          "id": "165",
+          "identifiers": [
+            {
+              "identifier": "1",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "165",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "1992-06-06",
+          "end_date": "1996-06-06"
+        },
+        {
+          "classification": "legislative period",
+          "id": "166",
+          "identifiers": [
+            {
+              "identifier": "2",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "166",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "1996-06-01",
+          "end_date": "1998-06-19"
+        },
+        {
+          "classification": "legislative period",
+          "id": "167",
+          "identifiers": [
+            {
+              "identifier": "3",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "167",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "1998-06-20",
+          "end_date": "2002-06-20"
+        },
+        {
+          "classification": "legislative period",
+          "id": "168",
+          "identifiers": [
+            {
+              "identifier": "4",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "168",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "2002-06-15",
+          "end_date": "2006-06-15"
+        },
+        {
+          "classification": "legislative period",
+          "id": "169",
+          "identifiers": [
+            {
+              "identifier": "5",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "169",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "2006-06-03",
+          "end_date": "2010-06-03"
+        },
+        {
+          "classification": "legislative period",
+          "id": "170",
+          "identifiers": [
+            {
+              "identifier": "6",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "170",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "2010-05-29",
+          "end_date": "2013-08-28"
+        },
+        {
+          "classification": "legislative period",
+          "id": "171",
+          "identifiers": [
+            {
+              "identifier": "7",
+              "scheme": "psp.cz/term"
+            },
+            {
+              "identifier": "171",
+              "scheme": "psp.cz/organy"
+            }
+          ],
+          "name": "Poslanecká sněmovna",
+          "other_names": [
+            {
+              "name": "PSP",
+              "note": "abbreviation"
+            }
+          ],
+          "start_date": "2013-10-26"
+        }
+      ]
     }
   ],
   "people": [
