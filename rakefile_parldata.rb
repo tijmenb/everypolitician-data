@@ -52,6 +52,7 @@ task :migrate_to_terms => :ensure_legislature_exists do
       m[:organization_id] = leg[:id]
       m[:legislative_period_id] = c[:id]
       # TODO m[:on_behalf_of] = '' 
+      m[:role] = 'member'
     end
   end
   @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
