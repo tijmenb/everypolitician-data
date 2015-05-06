@@ -27,6 +27,7 @@ file 'clean.json' => 'parldata.json' do
     end
   }, { symbolize_names: true })
 
+  json[:persons] = json.delete :people
   json[:organizations].delete_if { |o| o[:classification] == 'committee' }
   File.write('clean.json', JSON.pretty_generate(json))
 end
