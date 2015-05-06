@@ -2784,7 +2784,8 @@
         }
       ],
       "legislative_period_id": "chamber_V",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_V-mp_PalokaEdi",
@@ -2937,7 +2938,8 @@
         }
       ],
       "legislative_period_id": "chamber_V",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VI-mp_AbaziSadri",
@@ -3202,7 +3204,8 @@
         }
       ],
       "legislative_period_id": "chamber_VI",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VI-mp_NdokaNard",
@@ -3439,7 +3442,8 @@
         }
       ],
       "legislative_period_id": "chamber_VII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VII-mp_CaraIgli",
@@ -3536,7 +3540,8 @@
         }
       ],
       "legislative_period_id": "chamber_VII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VII-mp_FinoBashkim",
@@ -3689,7 +3694,8 @@
         }
       ],
       "legislative_period_id": "chamber_VII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VII-mp_MimaFlorjon",
@@ -3702,7 +3708,8 @@
         }
       ],
       "legislative_period_id": "chamber_VII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VII-mp_NokaFlamur",
@@ -4037,7 +4044,8 @@
         }
       ],
       "legislative_period_id": "chamber_VII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VII-mp_YlliFidel",
@@ -4246,7 +4254,8 @@
         }
       ],
       "legislative_period_id": "chamber_VIII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VIII-mp_BushatiHelidon",
@@ -4357,7 +4366,8 @@
         }
       ],
       "legislative_period_id": "chamber_VIII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VIII-mp_DedaAlbina",
@@ -4482,7 +4492,8 @@
         }
       ],
       "legislative_period_id": "chamber_VIII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VIII-mp_FinoBashkim",
@@ -4789,7 +4800,8 @@
         }
       ],
       "legislative_period_id": "chamber_VIII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VIII-mp_MimaFlorjon",
@@ -4802,7 +4814,8 @@
         }
       ],
       "legislative_period_id": "chamber_VIII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VIII-mp_NdokaArben",
@@ -5403,7 +5416,8 @@
         }
       ],
       "legislative_period_id": "chamber_VIII",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "chamber_VIII-mp_YlliFidel",
@@ -10592,6 +10606,11 @@
           "end_date": "2013"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
     }
   ],
   "persons": [

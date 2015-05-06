@@ -35,7 +35,7 @@ CLEAN.include('clean.json')
 
 
 # Migrate Chambers to Terms before adding a default one
-task :ensure_legislative_period => [:migrate_to_terms, :fill_behalfs]
+task :ensure_legislative_period => [:migrate_to_terms, :fill_behalfs, :add_independents_to_fake_party]
 
 task :migrate_to_terms => :ensure_legislature_exists do
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
@@ -78,28 +78,15 @@ task :fill_behalfs => :migrate_to_terms do
     }.reject { |pmem|
       term[:start_date] and pmem[:end_date] and pmem[:end_date] < term[:start_date]
     }
-    # TODO: if party_mems.count == 0 / > 1
+    # TODO: if party_mems.count  > 1
+    # Zero memberships will be picked up and by :add_independents_to_fake_party
     missing[:on_behalf_of_id] = party_mems.first[:organization_id] unless party_mems.count.zero?
   end
 end
 
-
-__END__
-
-      # Which party were they a member of then?
-      unless @PARTY_LABEL 
-        raise "Need label of Party Memberships in #{
-          @json[:memberships].find_all { |i| i[:person_id] == m[:person_id] }
-        }"
-      end
-
-    end
-
-# task :ensure_legislative_period => [:migrate_to_terms, :add_independents_to_fake_party]
-
 # This is a little nasty. We should simply cope better with someone not 
 # having `on_behalf_of` set at all.
-task :add_independents_to_fake_party => :migrate_to_terms do 
+task :add_independents_to_fake_party => :fill_behalfs do 
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
   indies = @json[:memberships].find_all { |m| 
     m[:organization_id] == leg[:id] and not m.has_key? :on_behalf_of_id
@@ -117,5 +104,3 @@ task :add_independents_to_fake_party => :migrate_to_terms do
     end
   end
 end
-
-

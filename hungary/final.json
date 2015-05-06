@@ -23510,7 +23510,8 @@
       "person_id": "550303bd273a39033bab34f7",
       "start_date": "2014-05-06",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "end_date": "2014-06-20",
@@ -52429,7 +52430,8 @@
       "person_id": "550303f4273a39033bab36b9",
       "start_date": "2014-05-06",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "55030463273a39033bab5cc5",
@@ -52444,7 +52446,8 @@
       "person_id": "550303f5273a39033bab36bb",
       "start_date": "2014-05-06",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "55030463273a39033bab5ccd",
@@ -56694,6 +56697,11 @@
           "name": "Országgyűlés 1990 - 94"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
     }
   ],
   "persons": [
