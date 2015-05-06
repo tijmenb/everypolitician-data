@@ -35,11 +35,9 @@ CLEAN.include('clean.json')
 
 
 # Migrate Chambers to Terms before adding a default one
-task :ensure_legislative_period => :migrate_to_terms
+task :ensure_legislative_period => [:migrate_to_terms, :fill_behalfs]
 
 task :migrate_to_terms => :ensure_legislature_exists do
-  # require 'pry'
-  # binding.pry
   leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
   @json[:organizations].find_all { |h| h[:classification] == 'chamber' }.each do |c|
     (leg[:legislative_periods] ||= []) << c.merge({ 
@@ -56,7 +54,68 @@ task :migrate_to_terms => :ensure_legislature_exists do
     end
   end
   @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
+end
 
+task :fill_behalfs => :migrate_to_terms do
+  leg      = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
+  parties  = @json[:organizations].find_all { |h| h[:classification] == 'party' }
+  parties  = @json[:organizations].find_all { |h| h[:classification] == 'political group' } if parties.empty?
+  parties  = @json[:organizations].find_all { |h| h[:classification] == 'parliamentary group' } if parties.empty?
+
+  partyids = parties.map { |p| p[:id] }.to_set
+  terms    = leg[:legislative_periods]
+
+  gaps = @json[:memberships].find_all { |m| 
+      m[:organization_id] == leg[:id] and m[:role] == 'member' and not m.has_key? :on_behalf_of_id 
+  }
+
+  gaps.each do |missing|
+    term = terms.find { |t| t[:id] == missing[:legislative_period_id] }
+    party_mems = @json[:memberships].find_all { |m| 
+      m[:person_id] == missing[:person_id] and partyids.include? m[:organization_id]
+    }.reject { |pmem|
+      term[:end_date] and pmem[:start_date] and pmem[:start_date] > term[:end_date]
+    }.reject { |pmem|
+      term[:start_date] and pmem[:end_date] and pmem[:end_date] < term[:start_date]
+    }
+    # TODO: if party_mems.count == 0 / > 1
+    missing[:on_behalf_of_id] = party_mems.first[:organization_id] unless party_mems.count.zero?
+  end
+end
+
+
+__END__
+
+      # Which party were they a member of then?
+      unless @PARTY_LABEL 
+        raise "Need label of Party Memberships in #{
+          @json[:memberships].find_all { |i| i[:person_id] == m[:person_id] }
+        }"
+      end
+
+    end
+
+# task :ensure_legislative_period => [:migrate_to_terms, :add_independents_to_fake_party]
+
+# This is a little nasty. We should simply cope better with someone not 
+# having `on_behalf_of` set at all.
+task :add_independents_to_fake_party => :migrate_to_terms do 
+  leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
+  indies = @json[:memberships].find_all { |m| 
+    m[:organization_id] == leg[:id] and not m.has_key? :on_behalf_of_id
+  }
+  unless indies.empty?
+    ind_part = @json[:organizations].find { |o| 
+      o[:classification] == 'party' and o[:name] == 'Independent'
+    } || (@json[:organizations] << {
+      classification: 'party',
+      id: 'party/independent',
+      name: 'Independent',
+    }).last
+    indies.each do |m|
+      m[:on_behalf_of_id] = ind_part[:id]
+    end
+  end
 end
 
 
