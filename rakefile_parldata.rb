@@ -57,9 +57,16 @@ namespace :transform do
         start_date: c.delete(:founding_date),
         end_date: c.delete(:dissolution_date),
       }.reject { |_,v| v.nil? or v.empty? })
+
+      @json[:memberships].find_all { |m| m[:organization_id] == c[:id] }.each do |m|
+        m[:organization_id] = leg[:id]
+        m[:legislative_period_id] = c[:id]
+        m[:role] = 'member'
+      end
     end
+
     @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
   end
-      
+
 end
 
