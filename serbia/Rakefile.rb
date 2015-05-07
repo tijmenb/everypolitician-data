@@ -6,5 +6,6 @@ require_relative '../rakefile_parldata.rb'
 @LEGISLATURE = {
   name: 'Skupština'
 }
+@FACTION_CLASSIFICATION = 'parliamentary_group'
 
 

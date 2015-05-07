@@ -43,6 +43,16 @@ namespace :whittle do
     @json[:organizations].delete_if { |o| o[:classification] == 'committee' }
   end
 
+  # TODO: push this up to a standardised way to rename any field
+  task :write => :standardise_terminology
+  task :standardise_terminology => :delete_unwanted_orgs do
+    if @FACTION_CLASSIFICATION
+      @json[:organizations].find_all { |o| o[:classification] == @FACTION_CLASSIFICATION }.each do |o|
+        o[:classification] = 'faction'
+      end
+    end
+  end
+
 end
 
 namespace :transform do
