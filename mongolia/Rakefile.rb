@@ -21,12 +21,15 @@ require_relative '../rakefile_morph.rb'
   },
 ]
 
-task 'final.json' => :add_term_dates
-task :add_term_dates => :ensure_legislative_period do
-  parl = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-  parl[:legislative_periods].each do |t|
-    t.merge! @TERMS.find { |termdata| termdata[:id] == t[:id] }
-  end
-end
+namespace :transform do
 
+  task :write => :add_term_dates
+  task :add_term_dates => :ensure_term do
+    parl = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
+    parl[:legislative_periods].each do |t|
+      t.merge! @TERMS.find { |termdata| termdata[:id] == t[:id] }
+    end
+  end
+
+end
 
