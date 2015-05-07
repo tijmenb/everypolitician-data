@@ -38,15 +38,3 @@ require_relative '../rakefile_morph.rb'
     end_date: '1999-04-18',
   },
 ]
-
-task 'final.json' => :add_term_dates
-task :add_term_dates => :ensure_legislative_period do
-  parl = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-  parl[:legislative_periods].each do |t|
-    warn "Term #{t}"
-    t.merge! @TERMS.find { |termdata| termdata[:id] == t[:id] }
-    warn "\tNow #{t}"
-  end
-end
-
-

@@ -20,8 +20,11 @@ namespace :whittle do
   file 'clean.json' => :write 
   CLOBBER.include('clean.json')
 
+  # TODO work out how to make this do the 'only run if needed'
   task :write => :load do
-    File.write('clean.json', JSON.pretty_generate(@json))
+    unless File.exists? 'clean.json'
+      File.write('clean.json', JSON.pretty_generate(@json))
+    end
   end
 
 
@@ -102,6 +105,18 @@ namespace :transform do
       leg[:legislative_periods] = [ default_term ]
     end
   end
+
+  # Helper: expand data of all terms, if requested, by supplying @TERMS
+  task :write => :add_term_dates
+  task :add_term_dates => :ensure_term do
+    if @TERMS
+      leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
+      leg[:legislative_periods].each do |t|
+        t.merge! @TERMS.find { |termdata| termdata[:id] == t[:id] }
+      end
+    end
+  end
+
 
   #---------------------------------------------------------------------
   # Rule: Legislative Memberships must be for a Term

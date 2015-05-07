@@ -61,16 +61,3 @@ namespace :whittle do
 end
 
 
-
-namespace :transform do
-
-  task :write => :add_all_terms
-
-  # From http://opendata.congreso.cl/wscamaradiputados.asmx/getPeriodosLegislativos
-  task :add_all_terms => :ensure_legislature do
-    leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-    leg[:legislative_periods] = @TERMS
-  end
-
-end
-
