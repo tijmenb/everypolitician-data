@@ -25,9 +25,11 @@ namespace :raw do
 end
    
 namespace :whittle do
+  CLOBBER.exclude 'clean.json'
 
   task :load => 'morph.csv' do
     @json = Popolo::CSV.new('morph.csv').data
   end
+
 
 end
