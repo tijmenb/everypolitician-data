@@ -38065,83 +38065,6 @@
   ],
   "organizations": [
     {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34df",
-      "identifiers": [
-        {
-          "identifier": "40",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 2014 - "
-    },
-    {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34e1",
-      "identifiers": [
-        {
-          "identifier": "39",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 2010 - 2014"
-    },
-    {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34e3",
-      "identifiers": [
-        {
-          "identifier": "38",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 2006 - 2010"
-    },
-    {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34e5",
-      "identifiers": [
-        {
-          "identifier": "37",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 2002 - 2006"
-    },
-    {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34e7",
-      "identifiers": [
-        {
-          "identifier": "36",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 1998 - 2002"
-    },
-    {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34e9",
-      "identifiers": [
-        {
-          "identifier": "35",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 1994 - 98"
-    },
-    {
-      "classification": "chamber",
-      "id": "550303bc273a39033bab34eb",
-      "identifiers": [
-        {
-          "identifier": "34",
-          "scheme": "parlament.hu/chamber"
-        }
-      ],
-      "name": "Országgyűlés 1990 - 94"
-    },
-    {
       "classification": "party",
       "id": "550303fa273a39033bab36e7",
       "identifiers": [
@@ -38271,9 +38194,81 @@
       "id": "legislature",
       "legislative_periods": [
         {
-          "id": "term/current",
-          "name": "current",
-          "classification": "legislative period"
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34df",
+          "identifiers": [
+            {
+              "identifier": "40",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 2014 - "
+        },
+        {
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34e1",
+          "identifiers": [
+            {
+              "identifier": "39",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 2010 - 2014"
+        },
+        {
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34e3",
+          "identifiers": [
+            {
+              "identifier": "38",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 2006 - 2010"
+        },
+        {
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34e5",
+          "identifiers": [
+            {
+              "identifier": "37",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 2002 - 2006"
+        },
+        {
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34e7",
+          "identifiers": [
+            {
+              "identifier": "36",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 1998 - 2002"
+        },
+        {
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34e9",
+          "identifiers": [
+            {
+              "identifier": "35",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 1994 - 98"
+        },
+        {
+          "classification": "legislative period",
+          "id": "550303bc273a39033bab34eb",
+          "identifiers": [
+            {
+              "identifier": "34",
+              "scheme": "parlament.hu/chamber"
+            }
+          ],
+          "name": "Országgyűlés 1990 - 94"
         }
       ]
     }

@@ -45,3 +45,21 @@ namespace :whittle do
 
 end
 
+namespace :transform do
+
+  task :ensure_term => :migrate_to_terms
+
+  task :migrate_to_terms => :ensure_legislature do
+    leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
+    @json[:organizations].find_all { |h| h[:classification] == 'chamber' }.each do |c|
+      (leg[:legislative_periods] ||= []) << c.merge({ 
+        classification: "legislative period",
+        start_date: c.delete(:founding_date),
+        end_date: c.delete(:dissolution_date),
+      }.reject { |_,v| v.nil? or v.empty? })
+    end
+    @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
+  end
+      
+end
+

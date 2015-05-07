@@ -7850,101 +7850,6 @@
   ],
   "organizations": [
     {
-      "classification": "chamber",
-      "id": "chamber_I",
-      "name": "Kuvendi i Shqipërisë: Legjislatura I"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_II",
-      "name": "Kuvendi i Shqipërisë: Legjislatura II"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_III",
-      "name": "Kuvendi i Shqipërisë: Legjislatura III"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_IV",
-      "name": "Kuvendi i Shqipërisë: Legjislatura IV"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_V",
-      "name": "Kuvendi i Shqipërisë: Legjislatura V"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_VI",
-      "name": "Kuvendi i Shqipërisë: Legjislatura VI"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_VII",
-      "name": "Kuvendi i Shqipërisë: Legjislatura VII"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber_VIII",
-      "name": "Kuvendi i Shqipërisë: Legjislatura VIII"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "1992",
-      "founding_date": "1991",
-      "id": "chamber_XII",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XII"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "1996",
-      "founding_date": "1992",
-      "id": "chamber_XIII",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XIII"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "1997",
-      "founding_date": "1996",
-      "id": "chamber_XIV",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XIV"
-    },
-    {
-      "classification": "chamber",
-      "founding_date": "2013",
-      "id": "chamber_XIX",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XIX"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2001",
-      "founding_date": "1997",
-      "id": "chamber_XV",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XV"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2005",
-      "founding_date": "2001",
-      "id": "chamber_XVI",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XVI"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2009",
-      "founding_date": "2005",
-      "id": "chamber_XVII",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XVII"
-    },
-    {
-      "classification": "chamber",
-      "dissolution_date": "2013",
-      "founding_date": "2009",
-      "id": "chamber_XVIII",
-      "name": "Kuvendi i Shqipërisë: Legjislatura XVIII"
-    },
-    {
       "classification": "parliamentary_group",
       "id": "parliamentary_group_",
       "sources": [
@@ -8101,9 +8006,99 @@
       "id": "legislature",
       "legislative_periods": [
         {
-          "id": "term/current",
-          "name": "current",
-          "classification": "legislative period"
+          "classification": "legislative period",
+          "id": "chamber_I",
+          "name": "Kuvendi i Shqipërisë: Legjislatura I"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_II",
+          "name": "Kuvendi i Shqipërisë: Legjislatura II"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_III",
+          "name": "Kuvendi i Shqipërisë: Legjislatura III"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_IV",
+          "name": "Kuvendi i Shqipërisë: Legjislatura IV"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_V",
+          "name": "Kuvendi i Shqipërisë: Legjislatura V"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_VI",
+          "name": "Kuvendi i Shqipërisë: Legjislatura VI"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_VII",
+          "name": "Kuvendi i Shqipërisë: Legjislatura VII"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_VIII",
+          "name": "Kuvendi i Shqipërisë: Legjislatura VIII"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XII",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XII",
+          "start_date": "1991",
+          "end_date": "1992"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XIII",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XIII",
+          "start_date": "1992",
+          "end_date": "1996"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XIV",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XIV",
+          "start_date": "1996",
+          "end_date": "1997"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XIX",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XIX",
+          "start_date": "2013"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XV",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XV",
+          "start_date": "1997",
+          "end_date": "2001"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XVI",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XVI",
+          "start_date": "2001",
+          "end_date": "2005"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XVII",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XVII",
+          "start_date": "2005",
+          "end_date": "2009"
+        },
+        {
+          "classification": "legislative period",
+          "id": "chamber_XVIII",
+          "name": "Kuvendi i Shqipërisë: Legjislatura XVIII",
+          "start_date": "2009",
+          "end_date": "2013"
         }
       ]
     }
