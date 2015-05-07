@@ -11,18 +11,24 @@ namespace :whittle do
     
   #TODO: remove Parliaments that aren't the National Assembly
   task :delete_unwanted_orgs => :load do
-    puts "We start with #{@json[:organizations].count} orgs"
+    # puts "Starting with #{@json[:organizations].count} orgs"
     keep = @json[:organizations].find_all { |o| @KEEP_ORG_TYPES.include? o[:classification].downcase }
     keepids = keep.map { |o| o[:id] }
     @json[:memberships].keep_if   { |m| keepids.include? m[:organization_id] }
     @json[:organizations].keep_if { |m| keepids.include? m[:id] }
-    puts "We now have #{@json[:organizations].count} orgs"
+    # puts "Ending with #{@json[:organizations].count} orgs"
   end
 
-  # Remove everyone who's not in any remaining organizations
+  # Delete everyone whose only Membership is to a Party
   task :clean_orphaned_people => :delete_unwanted_orgs do
-    keep_people = @json[:memberships].map { |m| m[:person_id] }
-    @json[:persons].keep_if { |p| keep_people.include? p[:id] }
+    # puts "Starting with #{@json[:persons].count} people"
+    orgt = Hash[@json[:organizations].map { |o| [ o[:id], o[:classification].downcase] } ]
+    @json[:persons].delete_if { |p| 
+      @json[:memberships].find_all { |m| 
+        m[:person_id] == p[:id] and orgt[ m[:organization_id] ]!= 'party' 
+      }.count.zero?
+    }
+    # puts "Ending with #{@json[:persons].count} people"
   end
 
   task :write => :remove_interest_register

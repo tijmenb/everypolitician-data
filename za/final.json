@@ -475,6 +475,18 @@
       "name": "Ximoko Party (XP)",
       "pa_url": "http://www.pa.org.za/organisation/xp/",
       "slug": "xp"
+    },
+    {
+      "classification": "legislature",
+      "name": "Legislature",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "id": "term/current",
+          "name": "current",
+          "classification": "legislative period"
+        }
+      ]
     }
   ],
   "persons": [
