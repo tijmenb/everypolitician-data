@@ -24,9 +24,22 @@ end
 
 namespace :winners do
   file 'winners.csv' => 'candidates.csv' do
-    all = CSV.read('candidates.csv', headers: true)
+    remap_csv_headers = {
+      'twitter_username' => 'twitter',
+      'facebook_page_url' => 'facebook',
+      'homepage_url' => 'homepage',
+      'wikipedia_url' => 'wikipedia',
+      'linkedin_url' => 'linkedin',
+    }
+    all = CSV.read('candidates.csv', {
+      headers: true, 
+      header_converters: lambda { |h| 
+        hc = h.to_s.encode(::CSV::ConverterEncoding).downcase.gsub(/\s+/, "_").gsub(/\W+/, "")
+        (remap_csv_headers[hc] || hc).to_sym
+      }
+    })
     headers = all.headers.to_csv
-    winners = all.find_all { |row| row['elected'] == 'True' }
+    winners = all.find_all { |row| row[:elected] == 'True' }
     output = winners.map { |row| row.to_hash.values.to_csv }.join
     File.write('winners.csv', headers + output)
   end
