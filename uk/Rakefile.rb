@@ -56,7 +56,6 @@ namespace :whittle do
       o[:name] = 'Speaker'
       puts "Now #{o}"
     end
-    binding.pry
   end
 
 end
