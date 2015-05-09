@@ -27,7 +27,6 @@ namespace :whittle do
     end
   end
 
-
   #---------------------------------------------------------------------
   # Rule: No orphaned memberships
   #---------------------------------------------------------------------
@@ -101,8 +100,8 @@ namespace :transform do
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
-      # TODO extend this also allow simple provision of historic terms
-      leg[:legislative_periods] = [ default_term ]
+      # use @TERM || @current_term || default_term()
+      leg[:legislative_periods] = [ @TERMS || default_term ].flatten
     end
   end
 
