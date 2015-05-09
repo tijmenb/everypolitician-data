@@ -36,7 +36,9 @@ task :publish do
     %x[ hub fork ]
     %x[ hub checkout -b #{branch_name} ]
     @COUNTRIES.each do |country| 
-      cp "#{cwd}/#{country}/final.json", "data/#{country}.json"
+      unless File.exist? "#{cwd}/#{country}/WIP"
+        cp "#{cwd}/#{country}/final.json", "data/#{country}.json" 
+      end
     end
     %x[ hub add data ]
     %x[ hub commit -m "Refresh with new data from #{last_commit}" ]
