@@ -63,3 +63,32 @@ namespace :whittle do
   end
 
 end
+
+namespace :transform do
+
+  task :write => :add_legislative_periods_to_memberships
+
+  task :add_legislative_periods_to_memberships => :add_term_dates do
+    leg  = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
+    terms = leg[:legislative_periods]
+    gaps = @json[:memberships].find_all { |m| 
+      m[:organization_id] == leg[:id] and m[:role].to_s.downcase == 'member' and not m.has_key? :legislative_period_id 
+    }
+
+    gaps.each do |missing|
+      overlapping_terms = terms.find_all { |term|
+        (missing[:start_date].nil? || (term[:end_date] >= missing[:start_date])) and (missing[:end_date].nil? || (term[:start_date] <= missing[:end_date]))
+      } 
+      if overlapping_terms.count == 1
+        missing[:legislative_period_id] = overlapping_terms.first[:id]
+      elsif overlapping_terms.count > 1
+        #TODO split 
+        missing[:legislative_period_id] = overlapping_terms.first[:id]
+      else
+        warn "No possible terms for #{missing}" 
+      end
+    end
+  end
+
+end
+
