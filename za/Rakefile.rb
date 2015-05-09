@@ -9,7 +9,7 @@ require_relative '../rakefile_popit.rb'
     id: 'term/26',
     name: '26th Parliament',
     start_date: '2014-05-21',
-    # end_date: '2019-05-21',
+    end_date: '2019-05-21',
   },
   { 
     id: 'term/25',
