@@ -1,4 +1,4 @@
-require_relative '../rakefile_parldata.rb'
+require_relative '../../rakefile_parldata.rb'
 
 @DEST = 'montenegro'
 @PARLDATA = 'me/skupstina'
