@@ -8,7 +8,7 @@ namespace :raw do
 
   file 'popit.json' do
     popit_src = @POPIT_URL || "https://#{@POPIT || @DEST}.popit.mysociety.org/api/v0.1/export.json"
-    File.write('popit.json', open(popit_src).read) 
+    json_write('popit.json', open(popit_src).read) 
   end
 
 end

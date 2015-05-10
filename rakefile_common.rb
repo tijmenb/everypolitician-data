@@ -6,6 +6,25 @@ require 'pry'
 
 Numeric.class_eval { def empty?; false; end }
 
+def deep_sort(element)
+  if element.is_a?(Hash)
+    element.keys.sort.each_with_object({}) { |k, newhash| newhash[k] = deep_sort(element[k]) }
+  elsif element.is_a?(Array)
+    element.map { |v| deep_sort(v) }
+  else
+    element
+  end
+end
+
+def json_write(file, json)
+  # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
+  json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
+  json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
+  json[:memberships].sort_by!   { |m| [ m[:person_id], m[:organization_id] ] }
+  final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
+  File.write(file, JSON.pretty_generate(final))
+end
+
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'final.json' ]
 task :default => 'final.json'
@@ -23,7 +42,7 @@ namespace :whittle do
   # TODO work out how to make this do the 'only run if needed'
   task :write => :load do
     unless File.exists? 'clean.json'
-      File.write('clean.json', JSON.pretty_generate(@json))
+      json_write('clean.json', @json)
     end
   end
 
@@ -50,7 +69,7 @@ namespace :transform do
   end
 
   task :write do
-    File.write('final.json', JSON.pretty_generate(@json))
+    json_write('final.json', @json)
   end  
 
   #---------------------------------------------------------------------
