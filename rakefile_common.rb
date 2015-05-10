@@ -46,6 +46,12 @@ namespace :whittle do
     @json[:meta][:source] = @SOURCE or abort "No @SOURCE defined"
   end
 
+  # Remove any 'warnings' left behind from (e.g.) csv-to-popolo
+  task :write => :remove_warnings
+  task :remove_warnings => :load do
+    @json.delete :warnings
+  end
+
   # TODO work out how to make this do the 'only run if needed'
   task :write => :meta_info do
     unless File.exists? 'clean.json'
