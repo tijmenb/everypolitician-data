@@ -19,7 +19,7 @@ namespace :raw do
   @DEFAULT_MORPH_QUERY = 'SELECT * FROM data'
 
   file 'morph.csv' do
-      File.write('morph.csv', morph_select(@MORPH_QUERY || @DEFAULT_MORPH_QUERY))
+    File.write('morph.csv', morph_select(@MORPH_QUERY || @DEFAULT_MORPH_QUERY))
   end
 
 end

@@ -6,6 +6,10 @@ require 'pry'
 
 Numeric.class_eval { def empty?; false; end }
 
+def json_write(file, json)
+  File.write(file, JSON.pretty_generate(json))
+end
+
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'final.json' ]
 task :default => 'final.json'
@@ -23,7 +27,7 @@ namespace :whittle do
   # TODO work out how to make this do the 'only run if needed'
   task :write => :load do
     unless File.exists? 'clean.json'
-      File.write('clean.json', JSON.pretty_generate(@json))
+      json_write('clean.json', @json)
     end
   end
 
@@ -50,7 +54,7 @@ namespace :transform do
   end
 
   task :write do
-    File.write('final.json', JSON.pretty_generate(@json))
+    json_write('final.json', @json)
   end  
 
   #---------------------------------------------------------------------
