@@ -1,6 +1,6 @@
 require 'tmpdir'
 
-@COUNTRIES = FileList['*/Rakefile.rb'].pathmap('%d')
+@COUNTRIES = FileList['data/*/Rakefile.rb'].pathmap('%d')
 
 @COUNTRIES.each do |country|
   desc "Regenerate #{country}"
@@ -37,7 +37,7 @@ task :publish do
     %x[ hub checkout -b #{branch_name} ]
     @COUNTRIES.each do |country| 
       unless File.exist? "#{cwd}/#{country}/WIP"
-        cp "#{cwd}/#{country}/final.json", "data/#{country}.json" 
+        cp "#{cwd}/#{country}/final.json", "data/#{country.split('/').last}.json" 
       end
     end
     %x[ hub add data ]
