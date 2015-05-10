@@ -131,21 +131,29 @@ namespace :transform do
 
   #---------------------------------------------------------------------
   # Rule: Legislative Memberships must have `on_behalf_of`
+  # Will be set to @INDEPENDENT, or first named "Independent" party
+  # (or one will be created)
   #---------------------------------------------------------------------
-  # This version only works if the only other Orgs are the Parties and
-  # only for unicameral legislatures, so it's not enabled by default.
-  # Trigger it if those are true, or hook in something better.
-  # task :write => :ensure_behalf_of
+
+  def default_behalf
+    if ind_party = @INDEPENDENT || @json[:organizations].find { |o| o[:classification] == 'party' and o[:name] == 'Independent' }
+      return ind_party
+    end
+    ind_party = {
+      classification: "party",
+      name: "Independent",
+      id: "party/independent",
+    }
+    @json[:organizations] << ind_party
+    ind_party
+  end
+
+  task :write => :ensure_behalf_of
   task :ensure_behalf_of => :ensure_legislature do
-    @json[:organizations].find_all { |h| h[:classification] != 'legislature' }.each do |o|
-      @json[:memberships].find_all { |m| m[:organization_id] == o[:id] }.each do |m|
-        m[:role] = 'member'
-        m[:on_behalf_of_id] = o[:id]
-        m[:organization_id] = 'legislature'
-      end
+    leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
+    @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
+      m[:on_behalf_of_id] ||= default_behalf[:id]
     end
   end
 
 end
-
-
