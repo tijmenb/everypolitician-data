@@ -5,6 +5,7 @@ require 'erb'
 require 'csv'
 require 'csv_to_popolo'
 
+
 def morph_select(qs)
   morph_api_key = ENV['MORPH_API_KEY'] or raise "Need a Morph API key"
   key = ERB::Util.url_encode(morph_api_key)
@@ -28,6 +29,7 @@ namespace :whittle do
   CLOBBER.exclude 'clean.json'
 
   task :load => 'morph.csv' do
+    @SOURCE = "https://morph.io/#{@MORPH}"
     @json = Popolo::CSV.new('morph.csv').data
   end
 

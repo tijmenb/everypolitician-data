@@ -25,6 +25,7 @@ end
 namespace :whittle do
 
   task :load => 'parldata.json' do
+    @SOURCE = 'http://api.parldata.eu/' + [@PARLDATA].flatten.first
     @json = JSON.load(File.read('parldata.json'), lambda { |h|
       if h.class == Hash 
         h.reject! { |_, v| v.nil? or v.empty? }
