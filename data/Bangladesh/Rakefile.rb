@@ -1,4 +1,4 @@
-require_relative '../rakefile_morph.rb'
+require_relative '../../rakefile_morph.rb'
 
 @DEST = 'bangladesh'
 @MORPH = 'tmtmtmtm/bangladesh-parliament-scraper'

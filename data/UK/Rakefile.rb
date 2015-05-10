@@ -1,4 +1,4 @@
-require_relative '../rakefile_common.rb'
+require_relative '../../rakefile_common.rb'
 
 require 'csv'
 require 'csv_to_popolo'
