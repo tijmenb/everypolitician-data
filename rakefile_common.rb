@@ -21,7 +21,8 @@ def json_write(file, json)
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
   json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
   json[:memberships].sort_by!   { |m| [ m[:person_id], m[:organization_id] ] }
-  File.write(file, JSON.pretty_generate(deep_sort(json)))
+  final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
+  File.write(file, JSON.pretty_generate(final))
 end
 
 desc "Rebuild from source data"
