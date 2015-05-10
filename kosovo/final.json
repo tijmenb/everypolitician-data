@@ -2202,6 +2202,11 @@
           "start_date": "2014-07-17"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "name": "Independent",
+      "id": "party/independent"
     }
   ],
   "memberships": [
@@ -10957,7 +10962,8 @@
       "person_id": "mp_EmilijaRedEpi",
       "id": "chamber_2014-07-17-mp_EmilijaRedEpi",
       "legislative_period_id": "chamber_2014-07-17",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "label": "MP",
@@ -11330,7 +11336,8 @@
       "person_id": "mp_JakupKrasniqi",
       "id": "chamber_2014-07-17-mp_JakupKrasniqi",
       "legislative_period_id": "chamber_2014-07-17",
-      "role": "member"
+      "role": "member",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "label": "MP",

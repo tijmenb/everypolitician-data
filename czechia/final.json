@@ -24336,7 +24336,8 @@
       "person_id": "71",
       "role": "member",
       "start_date": "1996-06-25",
-      "legislative_period_id": "167"
+      "legislative_period_id": "167",
+      "on_behalf_of_id": "party/independent"
     },
     {
       "id": "3230",
@@ -33691,6 +33692,11 @@
           "start_date": "2013-10-26"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "name": "Independent",
+      "id": "party/independent"
     }
   ],
   "persons": [
