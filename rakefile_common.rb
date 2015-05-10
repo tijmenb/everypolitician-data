@@ -17,9 +17,10 @@ def deep_sort(element)
 end
 
 def json_write(file, json)
-  json[:persons].sort_by!       { |p| [ p[:name], p[:id] ] }
-  json[:organizations].sort_by! { |p| [ p[:name], p[:id] ] }
-  json[:memberships].sort_by!   { |p| [ p[:person_id], p[:organization_id] ] }
+  # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
+  json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
+  json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
+  json[:memberships].sort_by!   { |m| [ m[:person_id], m[:organization_id] ] }
   File.write(file, JSON.pretty_generate(deep_sort(json)))
 end
 
