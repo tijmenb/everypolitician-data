@@ -1,33 +1,6 @@
 {
   "persons": [
     {
-      "birth_date": "1978-12-03",
-      "changes": [
-        {
-          "end_date": "2015-03-22",
-          "property": "name",
-          "value": "Jakub Rutnicki"
-        }
-      ],
-      "family_name": "Rutnicki",
-      "gender": "male",
-      "given_name": "Jakub Adam",
-      "id": "5509a907273a3904f6e71d42",
-      "identifiers": [
-        {
-          "identifier": "334",
-          "scheme": "mojepanstwo.pl/people"
-        }
-      ],
-      "image": "http://files.parldata.eu/pl/sejm/people/5509a907273a3904f6e71d42/image.jpeg",
-      "sort_name": "Rutnicki, Jakub Adam",
-      "sources": [
-        {
-          "url": "http://mojepanstwo.pl/dane/poslowie/334"
-        }
-      ]
-    },
-    {
       "birth_date": "1961-03-10",
       "family_name": "Abramowicz",
       "gender": "male",
@@ -3093,6 +3066,27 @@
       ]
     },
     {
+      "birth_date": "1945-08-31",
+      "family_name": "Olendzka",
+      "gender": "female",
+      "given_name": "Halina Bronisława",
+      "id": "554a3434273a395cd19194a3",
+      "identifiers": [
+        {
+          "identifier": "1170",
+          "scheme": "mojepanstwo.pl/people"
+        }
+      ],
+      "image": "http://resources.sejmometr.pl/mowcy/a/0/1578.jpg",
+      "name": "Halina Olendzka",
+      "sort_name": "Olendzka, Halina Bronisława",
+      "sources": [
+        {
+          "url": "http://mojepanstwo.pl/dane/poslowie/1170"
+        }
+      ]
+    },
+    {
       "birth_date": "1950-05-25",
       "family_name": "Rozpondek",
       "gender": "female",
@@ -3719,6 +3713,39 @@
       "sources": [
         {
           "url": "http://mojepanstwo.pl/dane/poslowie/235"
+        }
+      ]
+    },
+    {
+      "birth_date": "1978-12-03",
+      "changes": [
+        {
+          "end_date": "2015-05-05",
+          "property": "name",
+          "start_date": "2015-03-23"
+        },
+        {
+          "end_date": "2015-03-22",
+          "property": "name",
+          "value": "Jakub Rutnicki"
+        }
+      ],
+      "family_name": "Rutnicki",
+      "gender": "male",
+      "given_name": "Jakub Adam",
+      "id": "5509a907273a3904f6e71d42",
+      "identifiers": [
+        {
+          "identifier": "334",
+          "scheme": "mojepanstwo.pl/people"
+        }
+      ],
+      "image": "http://files.parldata.eu/pl/sejm/people/5509a907273a3904f6e71d42/image.jpeg",
+      "name": "Jakub Rutnicki",
+      "sort_name": "Rutnicki, Jakub Adam",
+      "sources": [
+        {
+          "url": "http://mojepanstwo.pl/dane/poslowie/334"
         }
       ]
     },
@@ -12859,6 +12886,11 @@
       "role": "member"
     },
     {
+      "id": "554a3463273a395cd19194b3",
+      "organization_id": "5509a91d273a3904f6e7228e",
+      "person_id": "5509a905273a3904f6e71cd2"
+    },
+    {
       "id": "5509a92d273a3904f6e72710",
       "organization_id": "5509a91d273a3904f6e72298",
       "person_id": "5509a905273a3904f6e71cd2"
@@ -12866,7 +12898,7 @@
     {
       "id": "5509a905273a3904f6e71cd4",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "5509a905273a3904f6e71cd2",
       "role": "member"
@@ -15871,6 +15903,11 @@
       "role": "member"
     },
     {
+      "id": "554a3455273a395cd19194a9",
+      "organization_id": "5509a91d273a3904f6e72290",
+      "person_id": "5509a914273a3904f6e72066"
+    },
+    {
       "id": "5509a944273a3904f6e72da2",
       "organization_id": "5509a91d273a3904f6e72292",
       "person_id": "5509a914273a3904f6e72066"
@@ -15878,7 +15915,7 @@
     {
       "id": "5509a914273a3904f6e72068",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72292",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "5509a914273a3904f6e72066",
       "role": "member"
@@ -17456,6 +17493,19 @@
       "on_behalf_of_id": "5509a91d273a3904f6e7228e",
       "organization_id": "legislature",
       "person_id": "5509a91c273a3904f6e72246",
+      "role": "member"
+    },
+    {
+      "id": "554a3457273a395cd19194ab",
+      "organization_id": "5509a91d273a3904f6e7228e",
+      "person_id": "554a3434273a395cd19194a3"
+    },
+    {
+      "id": "554a3434273a395cd19194a5",
+      "legislative_period_id": "5509a8fb273a3904f6e71a64",
+      "on_behalf_of_id": "5509a91d273a3904f6e7228e",
+      "organization_id": "legislature",
+      "person_id": "554a3434273a395cd19194a3",
       "role": "member"
     }
   ],
