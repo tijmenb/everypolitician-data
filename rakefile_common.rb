@@ -6,8 +6,21 @@ require 'pry'
 
 Numeric.class_eval { def empty?; false; end }
 
+def deep_sort(element)
+  if element.is_a?(Hash)
+    element.keys.sort.each_with_object({}) { |k, newhash| newhash[k] = deep_sort(element[k]) }
+  elsif element.is_a?(Array)
+    element.map { |v| deep_sort(v) }
+  else
+    element
+  end
+end
+
 def json_write(file, json)
-  File.write(file, JSON.pretty_generate(json))
+  json[:persons].sort_by!       { |p| [ p[:name], p[:id] ] }
+  json[:organizations].sort_by! { |p| [ p[:name], p[:id] ] }
+  json[:memberships].sort_by!   { |p| [ p[:person_id], p[:organization_id] ] }
+  File.write(file, JSON.pretty_generate(deep_sort(json)))
 end
 
 desc "Rebuild from source data"
