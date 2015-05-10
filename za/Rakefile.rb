@@ -66,7 +66,8 @@ end
 
 namespace :transform do
 
-  task :write => :fill_behalfs
+  # Don't fill in the defaults until we fill in ours
+  task :ensure_behalf_of => :fill_behalfs
 
   task :add_legislative_periods_to_memberships => :add_term_dates do
     leg  = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
@@ -104,12 +105,15 @@ namespace :transform do
     gaps.each do |missing|
       # What else was that Person a Member of during that Term?
       term = terms.find { |t| t[:id] == missing[:legislative_period_id] }
+      start_date = missing[:start_date] || term[:start_date] 
+      end_date   = missing[:end_date] || term[:end_date] 
+
       possibles = @json[:memberships].find_all { |m| 
-        m[:person_id] == missing[:person_id] and m[:organization_id] != leg[:id]
+        m[:person_id] == missing[:person_id] and m[:role] == 'Member' and m[:organization_id] != leg[:id]
       }.reject { |pmem|
-        term[:end_date] and pmem[:start_date] and pmem[:start_date] > term[:end_date]
+        pmem[:start_date] and pmem[:start_date] > end_date
       }.reject { |pmem|
-        term[:start_date] and pmem[:end_date] and pmem[:end_date] < term[:start_date]
+        pmem[:end_date]   and pmem[:end_date]   < start_date
       }
 
       party_mems = possibles.find_all { |m| partyids.include? m[:organization_id] }
@@ -120,10 +124,14 @@ namespace :transform do
 
       # Multiple parties. Again, first for now, but TODO
       elsif party_mems.count > 1
-        warn "Person #{missing[:person_id]} in multiple parties during Term #{term[:id]}"
+        require 'colorize'
+        warn "\nPerson #{missing[:person_id]} in multiple parties during Term #{term[:id]}".green
+        warn "Missing #{missing}".magenta
+        warn "Term Dates #{term}".cyan
+        warn party_mems.join("\n").yellow
         missing[:on_behalf_of_id] = party_mems.first[:organization_id]
 
-      # None? class as Independent
+      # None? fall through to default (class as Independent)
       else
         warn "Person #{missing[:person_id]} in no parties during Term #{term[:id]}"
       end
