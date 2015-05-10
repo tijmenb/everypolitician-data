@@ -40,8 +40,8 @@ task :publish do
     %x[ hub fork ]
     %x[ hub checkout -b #{branch_name} ]
     @COUNTRIES.each do |country| 
-      unless File.exist? "#{cwd}/#{country}/WIP"
-        cp "#{cwd}/#{country}/final.json", "data/#{country.split('/').last}.json" 
+      unless File.exist? "#{cwd}/#{country[:path]}/WIP"
+        cp "#{cwd}/#{country[:path]}/final.json", "data/#{country[:name]}.json" 
       end
     end
     %x[ hub add data ]
