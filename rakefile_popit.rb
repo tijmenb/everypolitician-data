@@ -16,7 +16,9 @@ end
 namespace :whittle do
 
   task :load => 'popit.json' do
-    @json = JSON.load(File.read('popit.json'), lambda { |h|
+    # TODO make Rake skip this (expensive) step if clean.json already exists
+    file = File.exist?('clean.json') ? 'clean.json' : 'popit.json'
+    @json = JSON.load(File.read(file), lambda { |h|
       if h.class == Hash 
         h.reject! { |_, v| v.nil? or v.empty? }
         h.reject! { |k, v| (k == :url or k == :html_url) and v[/popit.mysociety.org/] }
