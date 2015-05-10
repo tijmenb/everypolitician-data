@@ -5,4 +5,5 @@ gem 'nokogiri'
 gem 'pry'
 gem 'rake'
 gem 'csv_to_popolo', '>=0.8.4', :github => 'tmtmtmtm/csv_to_popolo'
+gem 'colorize'
 
