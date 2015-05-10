@@ -16,7 +16,7 @@ namespace :raw do
       outfile << "-#{house.split('/').last}" unless i.zero?
 
       data = %x[ #{cmd} ]
-      json_write("#{outfile}.json", data)
+      File.write("#{outfile}.json", data)
     end
   end
 
