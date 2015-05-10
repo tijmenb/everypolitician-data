@@ -39,8 +39,15 @@ namespace :whittle do
   file 'clean.json' => :write 
   CLOBBER.include('clean.json')
 
+  # Source-specific files must provide a @SOURCE
+
+  task :meta_info => :load do
+    @json[:meta] ||= {}
+    @json[:meta][:source] = @SOURCE or abort "No @SOURCE defined"
+  end
+
   # TODO work out how to make this do the 'only run if needed'
-  task :write => :load do
+  task :write => :meta_info do
     unless File.exists? 'clean.json'
       json_write('clean.json', @json)
     end

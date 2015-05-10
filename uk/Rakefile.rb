@@ -47,6 +47,7 @@ end
 
 namespace :whittle do
   task :load => 'winners.csv' do
+    @SOURCE = 'https://yournextmp.com/'
     @json = Popolo::CSV.new('winners.csv').data
   end
 
@@ -54,7 +55,6 @@ namespace :whittle do
   task :rename_party => :load do
     @json[:organizations].find_all { |o| o[:name] == 'Speaker seeking re-election' }.each do |o|
       o[:name] = 'Speaker'
-      puts "Now #{o}"
     end
   end
 
