@@ -66,7 +66,8 @@ end
 
 namespace :transform do
 
-  task :write => :fill_behalfs
+  # Don't fill in the defaults until we fill in ours
+  task :ensure_behalf_of => :fill_behalfs
 
   task :add_legislative_periods_to_memberships => :add_term_dates do
     leg  = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
@@ -123,7 +124,7 @@ namespace :transform do
         warn "Person #{missing[:person_id]} in multiple parties during Term #{term[:id]}"
         missing[:on_behalf_of_id] = party_mems.first[:organization_id]
 
-      # None? class as Independent
+      # None? fall through to default (class as Independent)
       else
         warn "Person #{missing[:person_id]} in no parties during Term #{term[:id]}"
       end
