@@ -100,9 +100,9 @@ namespace :transform do
       possibles = @json[:memberships].find_all { |m| 
         m[:person_id] == missing[:person_id] and m[:organization_id] != leg[:id]
       }.reject { |pmem|
-        term[:end_date] and pmem[:start_date] and pmem[:start_date] > term[:end_date]
+        term[:end_date] and pmem[:start_date] and pmem[:start_date] >= term[:end_date]
       }.reject { |pmem|
-        term[:start_date] and pmem[:end_date] and pmem[:end_date] < term[:start_date]
+        term[:start_date] and pmem[:end_date] and pmem[:end_date] <= term[:start_date]
       }
 
       group_mems = possibles.find_all { |m| groupids.include? m[:organization_id] }
@@ -119,11 +119,15 @@ namespace :transform do
 
       # Single faction match? Perfect!
       elsif group_mems.count == 1
-        warn "Person #{missing[:person_id]} in multiple factions during Term #{term[:id]}"
         missing[:on_behalf_of_id] = group_mems.first[:organization_id]
 
       # More than one? For now let's just take the first, though TODO take all
       elsif group_mems.count > 1
+        require 'colorize'
+        warn "Person #{missing[:person_id]} in multiple factions during Term #{term[:id]}"
+        warn "#{term}".magenta
+        warn "#{JSON.pretty_generate group_mems}".cyan
+        # binding.pry
         missing[:on_behalf_of_id] = group_mems.first[:organization_id]
 
       # None? class as Independent
