@@ -100,31 +100,37 @@ namespace :transform do
       possibles = @json[:memberships].find_all { |m| 
         m[:person_id] == missing[:person_id] and m[:organization_id] != leg[:id]
       }.reject { |pmem|
-        term[:end_date] and pmem[:start_date] and pmem[:start_date] > term[:end_date]
+        term[:end_date] and pmem[:start_date] and pmem[:start_date] >= term[:end_date]
       }.reject { |pmem|
-        term[:start_date] and pmem[:end_date] and pmem[:end_date] < term[:start_date]
+        term[:start_date] and pmem[:end_date] and pmem[:end_date] <= term[:start_date]
       }
 
       group_mems = possibles.find_all { |m| groupids.include? m[:organization_id] }
       party_mems = possibles.find_all { |m| partyids.include? m[:organization_id] }
 
-      # No factions, but single party? That'll do
-      if party_mems.count == 1
+      # Single faction match? 
+      if group_mems.count == 1
+        # warn "Single faction: #{group_mems.first[:organization_id]}" if term[:id] == 'chamber_2010-12-12'
+        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
+
+      # More than one? For now take the first, though TODO take all
+      elsif group_mems.count > 1
+        require 'colorize'
+        warn "Person #{missing[:person_id]} in multiple factions during Term #{term[:id]}"
+        warn "#{term}".magenta
+        warn "#{JSON.pretty_generate group_mems}".cyan
+        # binding.pry
+        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
+
+      # Single party? That'll do
+      elsif party_mems.count == 1
+        # warn "Single party: #{group_mems.first[:organization_id]}" if term[:id] == 'chamber_2010-12-12'
         missing[:on_behalf_of_id] = party_mems.first[:organization_id]
 
-      # Multiple parties. Again, first for now, but TODO
+      # Multiple parties. First for now, but TODO
       elsif party_mems.count == 1
         warn "Person #{missing[:person_id]} in multiple parties during Term #{term[:id]}"
         missing[:on_behalf_of_id] = party_mems.first[:organization_id]
-
-      # Single faction match? Perfect!
-      elsif group_mems.count == 1
-        warn "Person #{missing[:person_id]} in multiple factions during Term #{term[:id]}"
-        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
-
-      # More than one? For now let's just take the first, though TODO take all
-      elsif group_mems.count > 1
-        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
 
       # None? class as Independent
       else
