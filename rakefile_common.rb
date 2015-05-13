@@ -141,6 +141,7 @@ namespace :transform do
       @TERMS = [ @current_term || default_term ]
     end
 
+    @TERMS.each { |t| t[:classification] ||= 'legislative period' }
     return @TERMS
   end
 
