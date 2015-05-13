@@ -140,6 +140,17 @@ namespace :transform do
   # Helper: expand data of all terms, if requested, by supplying @TERMS
   task :write => :add_term_dates
   task :add_term_dates => :ensure_term do
+    if @TERMFILE 
+      @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
+        {
+          id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
+          name: row['name'],
+          start_date: row['start_date'],
+          end_date: row['end_date'],
+        }.reject { |_,v| v.nil? or v.empty? }
+      end
+    end
+
     if @TERMS
       leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
       leg[:legislative_periods].each do |t|
