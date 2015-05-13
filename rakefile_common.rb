@@ -138,8 +138,10 @@ namespace :transform do
   end
 
   # Helper: expand data of all terms, if requested, by supplying @TERMS
+  # or reading a CSV file of them (default name: terms.csv
   task :write => :add_term_dates
   task :add_term_dates => :ensure_term do
+    @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
     if @TERMFILE 
       @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
         {
