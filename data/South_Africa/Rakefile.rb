@@ -3,28 +3,6 @@ require_relative '../../rakefile_popit.rb'
 @POPIT = 'za-peoples-assembly'
 @DEST = 'za'
 
-# https://en.wikipedia.org/wiki/26th_South_African_Parliament etc
-@TERMS = [
-  { 
-    id: 'term/26',
-    name: '26th Parliament',
-    start_date: '2014-05-21',
-    end_date: '2019-05-21',
-  },
-  { 
-    id: 'term/25',
-    name: '25th Parliament',
-    start_date: '2009-05-06',
-    end_date: '2014-05-20',
-  },
-  { 
-    id: 'term/24',
-    name: '24th Parliament',
-    start_date: '2004-05-21',
-    end_date: '2009-04-22',
-  }  
-]
-
 @KEEP_ORG_TYPES = %w(executive parliament party)
 
 namespace :whittle do
@@ -69,7 +47,7 @@ namespace :transform do
   # Don't fill in the defaults until we fill in ours
   task :ensure_behalf_of => :fill_behalfs
 
-  task :add_legislative_periods_to_memberships => :add_term_dates do
+  task :add_legislative_periods_to_memberships => :ensure_term do
     leg  = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
     terms = leg[:legislative_periods]
     gaps = @json[:memberships].find_all { |m| 
