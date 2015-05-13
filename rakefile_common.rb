@@ -2,7 +2,7 @@ require 'json'
 require 'open-uri'
 require 'rake/clean'
 require 'pry'
-
+require 'csv'
 
 Numeric.class_eval { def empty?; false; end }
 
@@ -114,8 +114,35 @@ namespace :transform do
 
   #---------------------------------------------------------------------
   # Rule: There must be at least one term
+  # If there are none, we create them, by (in order of preference)
+  # 1) Reading them from a 'terms.csv'
+  # 2) Reading them from a file specified as @TERMFILE
+  # 3) Reading them from a @TERMS array
+  # 4) Reading them from a @current_term hash
+  # 5) Adding a default 'term/current'
   #---------------------------------------------------------------------
   task :write => :ensure_term
+
+  def termdata
+    @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
+
+    if @TERMFILE 
+      @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
+        {
+          id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
+          name: row['name'],
+          start_date: row['start_date'],
+          end_date: row['end_date'],
+        }.reject { |_,v| v.nil? or v.empty? }
+      end
+    end
+
+    if @TERMS.nil? or @TERMS.empty?
+      @TERMS = [ @current_term || default_term ]
+    end
+
+    return @TERMS
+  end
 
   def default_term 
     return @_default_term if @_default_term
@@ -129,38 +156,13 @@ namespace :transform do
     @_default_term
   end
 
+  task :write => :ensure_term
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
-      # use @TERM || @current_term || default_term()
-      leg[:legislative_periods] = [ @TERMS || default_term ].flatten
+      leg[:legislative_periods] = termdata
     end
   end
-
-  # Helper: expand data of all terms, if requested, by supplying @TERMS
-  # or reading a CSV file of them (default name: terms.csv
-  task :write => :add_term_dates
-  task :add_term_dates => :ensure_term do
-    @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
-    if @TERMFILE 
-      @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
-        {
-          id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
-          name: row['name'],
-          start_date: row['start_date'],
-          end_date: row['end_date'],
-        }.reject { |_,v| v.nil? or v.empty? }
-      end
-    end
-
-    if @TERMS
-      leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-      leg[:legislative_periods].each do |t|
-        t.merge! @TERMS.find { |termdata| termdata[:id] == t[:id] }
-      end
-    end
-  end
-
 
   #---------------------------------------------------------------------
   # Rule: Legislative Memberships must be for a Term
