@@ -1,10 +1,7 @@
-
 require_relative 'rakefile_common.rb'
 
 require 'erb'
-require 'csv'
 require 'csv_to_popolo'
-
 
 def morph_select(qs)
   morph_api_key = ENV['MORPH_API_KEY'] or raise "Need a Morph API key"

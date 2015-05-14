@@ -9,11 +9,11 @@ require 'csv'
 }
 @CSV_FILE = 'processed.csv'
 
-@current_term = { 
+@TERMS = [{
   id: "term/2012",
   name: "2012",
   start_date: "2012-09-23",
-}
+}]
 
 # http://www.comparty.by/deputati
 @comparty = [
@@ -24,8 +24,6 @@ require 'csv'
   'KUZMICH ALEKSEY',
   'LEONENKO VALENTINA',
 ]
-
-
 
 namespace :whittle do
   task :load => 'processed.csv'

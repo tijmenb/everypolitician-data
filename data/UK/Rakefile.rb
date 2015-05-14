@@ -8,11 +8,11 @@ require 'csv_to_popolo'
   name: 'House of Commons'
 }
 
-@current_term = { 
+@TERMS = [{ 
   id: 'term/2015',
   name: 'House of Commons 2015–',
   start_date: '2015'
-}
+}]
 
 
 namespace :raw do

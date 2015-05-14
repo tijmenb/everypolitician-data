@@ -3,11 +3,11 @@ require_relative '../../rakefile_morph.rb'
 @DEST = 'australia'
 @MORPH = 'tmtmtmtm/popit-australia'
 
-@current_term = { 
+@TERMS = [{ 
   id: 'term/44',
   name: '44th Parliament',
   start_date: '2013-09-07',
-}
+}]
 
 namespace :transform do
 

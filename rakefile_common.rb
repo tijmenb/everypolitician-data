@@ -2,7 +2,7 @@ require 'json'
 require 'open-uri'
 require 'rake/clean'
 require 'pry'
-
+require 'csv'
 
 Numeric.class_eval { def empty?; false; end }
 
@@ -114,40 +114,51 @@ namespace :transform do
 
   #---------------------------------------------------------------------
   # Rule: There must be at least one term
+  # If there are none, we create them, by (in order of preference)
+  # 1) Reading them from a 'terms.csv'
+  # 2) Reading them from a file specified as @TERMFILE
+  # 3) Reading them from a @TERMS array
   #---------------------------------------------------------------------
   task :write => :ensure_term
 
-  def default_term 
-    return @_default_term if @_default_term
-    @_default_term = {
-      id: 'term/current',
-      name: 'current',
-      classification: 'legislative period',
-    }
-    # Merge in anything defined by the individual country
-    @_default_term.merge! @current_term if @current_term
-    @_default_term
+  def extra_termdata
+    @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
+
+    if @TERMFILE 
+      @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
+        {
+          id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
+          name: row['name'],
+          start_date: row['start_date'],
+          end_date: row['end_date'],
+        }.reject { |_,v| v.nil? or v.empty? }
+      end
+    end
+
+    return [] if @TERMS.nil? or @TERMS.count.zero?
+    @TERMS.each { |t| t[:classification] ||= 'legislative period' } 
+    return @TERMS
   end
 
+  def latest_term 
+    @TERMS.sort_by { |t| t[:start_date].to_s }.last
+  end
+
+  task :write => :ensure_term
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-    unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
-      # use @TERM || @current_term || default_term()
-      leg[:legislative_periods] = [ @TERMS || default_term ].flatten
-    end
-  end
-
-  # Helper: expand data of all terms, if requested, by supplying @TERMS
-  task :write => :add_term_dates
-  task :add_term_dates => :ensure_term do
-    if @TERMS
-      leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
+    newterms = extra_termdata
+    if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
+      raise "No @TERMFILE or @TERMS" if newterms.count.zero?
+      leg[:legislative_periods] = newterms 
+    else 
       leg[:legislative_periods].each do |t|
-        t.merge! @TERMS.find { |termdata| termdata[:id] == t[:id] }
+        if extra = newterms.find { |nt| nt[:id] == t[:id] }
+          t.merge! extra
+        end
       end
     end
   end
-
 
   #---------------------------------------------------------------------
   # Rule: Legislative Memberships must be for a Term
@@ -156,7 +167,7 @@ namespace :transform do
   task :ensure_membership_terms => :ensure_term do
     leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
-      m[:legislative_period_id] ||= default_term[:id] 
+      m[:legislative_period_id] ||= latest_term[:id] 
     end
   end
 
