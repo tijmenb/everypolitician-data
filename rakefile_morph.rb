@@ -30,7 +30,7 @@ namespace :whittle do
 
   task :load => 'morph.csv' do
     @SOURCE = "https://morph.io/#{@MORPH}"
-    @json = Popolo::CSV.new('morph.csv').data
+    @json = Popolo::CSV.new(@CSV_FILE || 'morph.csv').data
   end
 
 
