@@ -1,6 +1,7 @@
 require_relative '../../rakefile_popit.rb'
 
-@DEST = 'denmark'
+@POPIT = 'denmark'
+
 @LEGISLATURE = {
   name: 'Folketing'
 }

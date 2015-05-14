@@ -1,12 +1,11 @@
 require_relative '../../rakefile_popit.rb'
 
 @POPIT = 'parlamento-test'
-@DEST = 'italy'
 @LEGISLATURE = {
   name: 'Parlamento'
 }
 
-@current_term = [{ 
+@TERMS = [{ 
   id: 'legislatura/17',
   name: 'XVII Legislatura',
   start_date: '2013-03-15'

@@ -1,7 +1,6 @@
 require_relative '../../rakefile_popit.rb'
 
 @POPIT = 'za-peoples-assembly'
-@DEST = 'za'
 
 @KEEP_ORG_TYPES = %w(executive parliament party)
 

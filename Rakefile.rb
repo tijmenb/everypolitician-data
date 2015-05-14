@@ -8,6 +8,7 @@ require 'tmpdir'
 @COUNTRIES.each do |country|
   desc "Regenerate #{country[:name]}"
   task country[:name].to_sym do 
+    warn "Regenerating #{country[:name]}"
     Rake::Task[:regenerate].execute(country: country) 
   end
 end
