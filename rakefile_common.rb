@@ -121,7 +121,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   task :write => :ensure_term
 
-  def termdata
+  def extra_termdata
     @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
 
     if @TERMFILE 
@@ -150,8 +150,13 @@ namespace :transform do
   task :write => :ensure_term
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-    unless leg.has_key?(:legislative_periods) and not leg[:legislative_periods].count.zero? 
-      leg[:legislative_periods] = termdata
+    newterms = extra_termdata
+    if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
+      leg[:legislative_periods] = newterms
+    else 
+      leg[:legislative_periods].each do |t|
+        t.merge! newterms.find { |nt| nt[:id] == t[:id] }
+      end
     end
   end
 
