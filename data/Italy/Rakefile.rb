@@ -5,7 +5,7 @@ require_relative '../../rakefile_popit.rb'
   name: 'Parlamento'
 }
 
-@current_term = [{ 
+@TERMS = [{ 
   id: 'legislatura/17',
   name: 'XVII Legislatura',
   start_date: '2013-03-15'
