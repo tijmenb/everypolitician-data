@@ -135,11 +135,8 @@ namespace :transform do
       end
     end
 
-    if @TERMS.nil? or @TERMS.empty?
-      raise "Can't find any terms"
-    end
-
-    @TERMS.each { |t| t[:classification] ||= 'legislative period' }
+    return [] if @TERMS.nil? or @TERMS.count.zero?
+    @TERMS.each { |t| t[:classification] ||= 'legislative period' } 
     return @TERMS
   end
 
@@ -152,10 +149,13 @@ namespace :transform do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     newterms = extra_termdata
     if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
-      leg[:legislative_periods] = newterms
+      raise "No @TERMFILE or @TERMS" if newterms.count.zero?
+      leg[:legislative_periods] = newterms 
     else 
       leg[:legislative_periods].each do |t|
-        t.merge! newterms.find { |nt| nt[:id] == t[:id] }
+        if extra = newterms.find { |nt| nt[:id] == t[:id] }
+          t.merge! extra
+        end
       end
     end
   end
