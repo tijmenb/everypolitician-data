@@ -1,6 +1,7 @@
-require_relative '../../rakefile_popit.rb'
+require_relative '../../rakefile_morph.rb'
 
 @DEST = 'wales'
+@MORPH = 'duncanparkes/welsh_assembly_members'
 @LEGISLATURE = {
   name: 'National Assembly for Wales',
 }
