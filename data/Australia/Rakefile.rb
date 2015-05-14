@@ -1,8 +1,6 @@
 require_relative '../../rakefile_morph.rb'
 
-@DEST = 'australia'
 @MORPH = 'tmtmtmtm/popit-australia'
-
 @TERMS = [{ 
   id: 'term/44',
   name: '44th Parliament',

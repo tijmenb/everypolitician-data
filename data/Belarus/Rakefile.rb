@@ -1,8 +1,6 @@
 require_relative '../../rakefile_morph.rb'
-
 require 'csv'
 
-@DEST = 'belarus'
 @MORPH = 'duncanparkes/belarus'
 @LEGISLATURE = {
   name: 'National Assembly'

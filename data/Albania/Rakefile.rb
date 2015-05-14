@@ -1,6 +1,5 @@
 require_relative '../../rakefile_parldata.rb'
 
-@DEST = 'albania'
 @PARLDATA = 'al/kuvendi'
 @LEGISLATURE = {
   name: 'Kuvendi'
@@ -8,7 +7,6 @@ require_relative '../../rakefile_parldata.rb'
 @FACTION_CLASSIFICATION = 'parliamentary_group'
 
 namespace :whittle do
-
   task :standardise_terminology do
     # binding.pry
   end

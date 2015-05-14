@@ -1,7 +1,6 @@
 require_relative '../../rakefile_popit.rb'
 
 @POPIT = 'parlamento-test'
-@DEST = 'italy'
 @LEGISLATURE = {
   name: 'Parlamento'
 }
