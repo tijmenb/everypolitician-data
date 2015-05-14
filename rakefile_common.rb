@@ -118,8 +118,6 @@ namespace :transform do
   # 1) Reading them from a 'terms.csv'
   # 2) Reading them from a file specified as @TERMFILE
   # 3) Reading them from a @TERMS array
-  # 4) Reading them from a @current_term hash
-  # 5) Adding a default 'term/current'
   #---------------------------------------------------------------------
   task :write => :ensure_term
 
@@ -138,23 +136,15 @@ namespace :transform do
     end
 
     if @TERMS.nil? or @TERMS.empty?
-      @TERMS = [ @current_term || default_term ]
+      raise "Can't find any terms"
     end
 
     @TERMS.each { |t| t[:classification] ||= 'legislative period' }
     return @TERMS
   end
 
-  def default_term 
-    return @_default_term if @_default_term
-    @_default_term = {
-      id: 'term/current',
-      name: 'current',
-      classification: 'legislative period',
-    }
-    # Merge in anything defined by the individual country
-    @_default_term.merge! @current_term if @current_term
-    @_default_term
+  def latest_term 
+    @TERMS.sort_by { |t| t[:start_date].to_s }.last
   end
 
   task :write => :ensure_term
@@ -172,7 +162,7 @@ namespace :transform do
   task :ensure_membership_terms => :ensure_term do
     leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
-      m[:legislative_period_id] ||= default_term[:id] 
+      m[:legislative_period_id] ||= latest_term[:id] 
     end
   end
 
