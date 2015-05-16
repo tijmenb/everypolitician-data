@@ -34,19 +34,20 @@ namespace :whittle do
     }, { symbolize_names: true })
   end
 
-  task :no_orphaned_memberships => [:delete_unwanted_orgs, :switch_people_to_persons]
+  task :no_orphaned_memberships => [:delete_unwanted_data, :switch_people_to_persons]
 
   task :switch_people_to_persons => :load do
     @json[:persons] = @json.delete :people
   end
 
-  task :delete_unwanted_orgs => :load do
+  task :delete_unwanted_data => :load do
     @json[:organizations].delete_if { |o| o[:classification] == 'committee' }
+    @json[:events].delete_if { |e| %w[session sitting].include? e[:type] } if @json[:events]
   end
 
   # TODO: push this up to a standardised way to rename any field
   task :write => :standardise_terminology
-  task :standardise_terminology => :delete_unwanted_orgs do
+  task :standardise_terminology => :delete_unwanted_data do
     if @FACTION_CLASSIFICATION
       @json[:organizations].find_all { |o| o[:classification] == @FACTION_CLASSIFICATION }.each do |o|
         o[:classification] = 'faction'
