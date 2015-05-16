@@ -3,7 +3,8 @@ require 'csv'
 
 @MORPH = 'duncanparkes/belarus'
 @LEGISLATURE = {
-  name: 'National Assembly'
+  name: 'National Assembly',
+  seats: 110,
 }
 @CSV_FILE = 'processed.csv'
 

@@ -2,7 +2,8 @@ require_relative '../../rakefile_morph.rb'
 
 @MORPH = 'tmtmtmtm/kazakh-mazhilis'
 @LEGISLATURE = {
-  name: 'Mazhilis'
+  name: 'Mazhilis',
+  seats: 77,
 }
 
 # http://www.parlam.kz/en/mazhilis/history?id=history

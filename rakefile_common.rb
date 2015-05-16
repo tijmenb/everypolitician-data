@@ -108,8 +108,10 @@ namespace :transform do
     if (@LEGISLATURE)
       leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
       raise "More than one legislature exists, and @LEGISLATURE set" if leg.count > 1
-      leg.first.merge! @LEGISLATURE
+      # Don't pass through the seat count until we work out how to do this properly
+      leg.first.merge! @LEGISLATURE.reject { |k,_| k == :seats }
     end
+
   end
 
   #---------------------------------------------------------------------
