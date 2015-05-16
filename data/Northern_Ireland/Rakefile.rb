@@ -59,11 +59,13 @@ namespace :transform do
         (m[:start_date] >= t[:start_date]) and ((m[:end_date] || ('2100-01-01')) <= (t[:end_date] || '2100-01-01')) }
       if matched.count == 1
         m[:legislative_period_id] = matched.first[:id]
+      elsif m[:id] == 'uk.org.publicwhip/member/90241'
+        # Odd case of Eileen Bell staying on as Speaker beyond the term
+        m[:legislative_period_id] = 'term/2'
       else 
         warn "Invalid term intersection (#{matched.count} matches)"
         warn "#{m}".cyan
         warn "#{terms}".yellow
-        m[:legislative_period_id] = 'term/2'
       end
     end
   end
