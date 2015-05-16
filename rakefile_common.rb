@@ -150,13 +150,14 @@ namespace :transform do
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     newterms = extra_termdata
+    binding.pry
     if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
       raise "No @TERMFILE or @TERMS" if newterms.count.zero?
       leg[:legislative_periods] = newterms 
     else 
       leg[:legislative_periods].each do |t|
-        if extra = newterms.find { |nt| nt[:id] == t[:id] }
-          t.merge! extra
+        if extra = newterms.find { |nt| nt[:id].split('/').last == t[:id].split('/').last }
+          t.merge! extra.reject { |k, _| k == :id }
         end
       end
     end

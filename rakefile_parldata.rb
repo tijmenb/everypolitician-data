@@ -59,10 +59,9 @@ end
 
 namespace :transform do
 
-  # Don't do the core Term-based processing until we've done our own transformations 
-  task :ensure_term => :fill_behalfs
-
-  task :migrate_to_terms => :ensure_legislature do
+  # Don't merge in the term info until we've done this.
+  task :ensure_term => :migrate_chambers_to_terms
+  task :migrate_chambers_to_terms => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
     @json[:organizations].find_all { |h| h[:classification] == 'chamber' }.each do |c|
       (leg[:legislative_periods] ||= []) << c.merge({ 
@@ -81,7 +80,10 @@ namespace :transform do
     @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
   end
 
-  task :fill_behalfs => :migrate_to_terms do
+
+  task :ensure_behalf_of => :fill_behalfs
+  task :fill_behalfs => :ensure_term do
+
     leg     = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
 
     want_class = @MEMBERSHIP_GROUPING || 'party'
@@ -110,7 +112,7 @@ namespace :transform do
 
       # Single group match? Excellent.
       if group_mems.count == 1
-        # warn "Single group: #{group_mems.first[:organization_id]}" if term[:id] == 'chamber_2010-12-12'
+        # warn "Single group: #{group_mems.first[:organization_id]}" 
         missing[:on_behalf_of_id] = group_mems.first[:organization_id]
 
       # More than one? For now take the first, though TODO take all
