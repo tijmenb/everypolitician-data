@@ -41,7 +41,7 @@ namespace :whittle do
     kept_posts = @json[:posts].map { |p| p[:id] }
     @json[:memberships].keep_if { |m| kept_posts.include? m[:post_id] }
     @json[:memberships].each do |m| 
-      post = @json[:posts].find { |p| p[:id] = m[:post_id] }
+      post = @json[:posts].find { |p| p[:id] == m[:post_id] }
       m[:organization_id] = post[:organization_id]
       m[:area] = post[:area]
       m[:role] = 'member'
