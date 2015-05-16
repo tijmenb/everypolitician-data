@@ -7,5 +7,7 @@ require_relative '../../rakefile_parldata.rb'
   seats: 150,
 }
 @FACTION_CLASSIFICATION = 'parliamentary group'
+@MEMBERSHIP_GROUPING = 'faction'
+
 
 

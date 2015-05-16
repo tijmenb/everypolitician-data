@@ -5,6 +5,7 @@ require_relative '../../rakefile_parldata.rb'
   name: 'Kuvendi',
   seats: 140,
 }
+
 @FACTION_CLASSIFICATION = 'parliamentary_group'
 
 namespace :whittle do
