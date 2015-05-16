@@ -59,10 +59,9 @@ end
 
 namespace :transform do
 
-  # Don't do the core Term-based processing until we've done our own transformations 
-  task :ensure_term => :fill_behalfs
-
-  task :migrate_to_terms => :ensure_legislature do
+  # Don't merge in the term info until we've done this.
+  task :ensure_term => :migrate_chambers_to_terms
+  task :migrate_chambers_to_terms => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' }
     @json[:organizations].find_all { |h| h[:classification] == 'chamber' }.each do |c|
       (leg[:legislative_periods] ||= []) << c.merge({ 
@@ -81,13 +80,16 @@ namespace :transform do
     @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
   end
 
-  task :fill_behalfs => :migrate_to_terms do
-    leg     = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
-    groups  = @json[:organizations].find_all { |h| h[:classification] == 'faction' }
-    parties = @json[:organizations].find_all { |h| h[:classification] == 'party' }
 
+  task :ensure_behalf_of => :fill_behalfs
+  task :fill_behalfs => :ensure_term do
+
+    leg     = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
+
+    want_class = @MEMBERSHIP_GROUPING || 'party'
+    groups  = @json[:organizations].find_all { |h| h[:classification] == want_class }
     groupids = groups.map  { |p| p[:id] }.to_set
-    partyids = parties.map { |p| p[:id] }.to_set
+
     terms    = leg[:legislative_periods]
 
     # All Memberships that have no :on_behalf_of
@@ -107,34 +109,26 @@ namespace :transform do
       }
 
       group_mems = possibles.find_all { |m| groupids.include? m[:organization_id] }
-      party_mems = possibles.find_all { |m| partyids.include? m[:organization_id] }
+      possible_groups = group_mems.map { |m| m[:organization_id] }.uniq
 
-      # Single faction match? 
-      if group_mems.count == 1
-        # warn "Single faction: #{group_mems.first[:organization_id]}" if term[:id] == 'chamber_2010-12-12'
-        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
+      # Single group match? Excellent.
+      if possible_groups.count == 1
+        # warn "Single group: #{group_mems.first[:organization_id]}" 
+        missing[:on_behalf_of_id] = possible_groups.first
 
       # More than one? For now take the first, though TODO take all
-      elsif group_mems.count > 1
+      elsif possible_groups.count > 1
         require 'colorize'
-        warn "Person #{missing[:person_id]} in multiple factions during Term #{term[:id]}"
+        warn "Person #{missing[:person_id]} in multiple groups during Term #{term[:id]}"
         warn "#{term}".magenta
         warn "#{JSON.pretty_generate group_mems}".cyan
         # binding.pry
-        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
-
-      # Single party? That'll do
-      elsif party_mems.count == 1
-        # warn "Single party: #{group_mems.first[:organization_id]}" if term[:id] == 'chamber_2010-12-12'
-        missing[:on_behalf_of_id] = party_mems.first[:organization_id]
-
-      # Multiple parties. First for now, but TODO
-      elsif party_mems.count == 1
-        warn "Person #{missing[:person_id]} in multiple parties during Term #{term[:id]}"
-        missing[:on_behalf_of_id] = party_mems.first[:organization_id]
+        missing[:on_behalf_of_id] = possible_groups.first
 
       # None? class as Independent
       else
+        warn "Person #{missing[:person_id]} in no suitable groups during Term #{term[:id]} (But in #{possibles})"
+        # binding.pry
       end
     end
   end

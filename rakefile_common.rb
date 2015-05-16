@@ -155,8 +155,8 @@ namespace :transform do
       leg[:legislative_periods] = newterms 
     else 
       leg[:legislative_periods].each do |t|
-        if extra = newterms.find { |nt| nt[:id] == t[:id] }
-          t.merge! extra
+        if extra = newterms.find { |nt| nt[:id].to_s.split('/').last == t[:id].to_s.split('/').last }
+          t.merge! extra.reject { |k, _| k == :id }
         end
       end
     end
