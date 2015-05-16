@@ -2,7 +2,8 @@ require_relative '../../rakefile_morph.rb'
 
 @MORPH = 'tmtmtmtm/new-zealand-parliament'
 @LEGISLATURE = {
-  name: 'New Zealand Parliament'
+  name: 'New Zealand Parliament',
+  seats: 120,
 }
 
 # http://www.parliament.nz/en-nz/pb/debates/debates?Criteria.Parliament=51&Criteria.PageNumber=16

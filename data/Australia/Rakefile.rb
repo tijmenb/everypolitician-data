@@ -1,6 +1,15 @@
 require_relative '../../rakefile_morph.rb'
 
 @MORPH = 'openaustralia/aus_mp_contact_details'
+
+@LEGISLATURE = {
+  name: 'Parliament',
+  seats: {
+    representatives: 150,
+    senate: 76,
+  }
+}
+
 @TERMS = [{ 
   id: 'term/44',
   name: '44th Parliament',

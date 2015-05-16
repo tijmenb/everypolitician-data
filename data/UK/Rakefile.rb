@@ -4,7 +4,8 @@ require 'csv'
 require 'csv_to_popolo'
 
 @LEGISLATURE = {
-  name: 'House of Commons'
+  name: 'House of Commons',
+  seats: 650,
 }
 
 @TERMS = [{ 

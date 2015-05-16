@@ -3,7 +3,8 @@ require_relative '../../rakefile_popit.rb'
 @POPIT = 'denmark'
 
 @LEGISLATURE = {
-  name: 'Folketing'
+  name: 'Folketing',
+  seats: 179,
 }
 
 @TERMS = [{ 
@@ -11,6 +12,7 @@ require_relative '../../rakefile_popit.rb'
   name: 'Folketing 2011–15',
   start_date: '2011-09-15'
 }]
+
 
 namespace :whittle do
 
