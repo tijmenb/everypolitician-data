@@ -150,7 +150,6 @@ namespace :transform do
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     newterms = extra_termdata
-    binding.pry
     if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
       raise "No @TERMFILE or @TERMS" if newterms.count.zero?
       leg[:legislative_periods] = newterms 

@@ -109,20 +109,21 @@ namespace :transform do
       }
 
       group_mems = possibles.find_all { |m| groupids.include? m[:organization_id] }
+      possible_groups = group_mems.map { |m| m[:organization_id] }.uniq
 
       # Single group match? Excellent.
-      if group_mems.count == 1
+      if possible_groups.count == 1
         # warn "Single group: #{group_mems.first[:organization_id]}" 
-        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
+        missing[:on_behalf_of_id] = possible_groups.first
 
       # More than one? For now take the first, though TODO take all
-      elsif group_mems.count > 1
+      elsif possible_groups.count > 1
         require 'colorize'
         warn "Person #{missing[:person_id]} in multiple groups during Term #{term[:id]}"
         warn "#{term}".magenta
         warn "#{JSON.pretty_generate group_mems}".cyan
         # binding.pry
-        missing[:on_behalf_of_id] = group_mems.first[:organization_id]
+        missing[:on_behalf_of_id] = possible_groups.first
 
       # None? class as Independent
       else
