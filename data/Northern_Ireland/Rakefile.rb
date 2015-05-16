@@ -1,18 +1,11 @@
 require_relative '../../rakefile_common.rb'
 
-require 'csv'
-require 'csv_to_popolo'
+require 'colorize'
 
 @LEGISLATURE = {
   name: 'Northern Ireland Assembly',
   seats: 108,
 }
-
-@TERMS = [{ 
-  id: 'term/2015',
-  name: 'House of Commons 2015–',
-  start_date: '2015'
-}]
 
 
 namespace :raw do
@@ -67,7 +60,6 @@ namespace :transform do
       if matched.count == 1
         m[:legislative_period_id] = matched.first[:id]
       else 
-        require 'colorize'
         warn "Invalid term intersection (#{matched.count} matches)"
         warn "#{m}".cyan
         warn "#{terms}".yellow
