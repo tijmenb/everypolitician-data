@@ -14,8 +14,6 @@ require 'csv_to_popolo'
   start_date: '2015'
 }]
 
-@SOURCE = 
-
 
 namespace :raw do
   file 'twfy.json' do
@@ -52,6 +50,30 @@ namespace :whittle do
 
     keep_mlas = @json[:memberships].map { |m| m[:person_id] }
     @json[:persons].keep_if { |p| keep_mlas.include? p[:id] }
+  end
+
+end
+
+namespace :transform do
+
+  task :ensure_membership_terms => :set_membership_terms
+
+  task :set_membership_terms => :load do
+    leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
+    terms = leg[:legislative_periods]
+    @json[:memberships].find_all { |m| m[:organization_id] == 'northern-ireland-assembly' and not m.has_key? :legislative_period_id }.each do |m|
+      matched = terms.find_all { |t| 
+        (m[:start_date] >= t[:start_date]) and ((m[:end_date] || ('2100-01-01')) <= (t[:end_date] || '2100-01-01')) }
+      if matched.count == 1
+        m[:legislative_period_id] = matched.first[:id]
+      else 
+        require 'colorize'
+        warn "Invalid term intersection (#{matched.count} matches)"
+        warn "#{m}".cyan
+        warn "#{terms}".yellow
+        m[:legislative_period_id] = 'term/2'
+      end
+    end
   end
 
 end
