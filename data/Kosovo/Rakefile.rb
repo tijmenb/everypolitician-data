@@ -6,6 +6,8 @@ require_relative '../../rakefile_parldata.rb'
   seats: 120,
 }
 
+@MEMBERSHIP_GROUPING = 'parliamentary_group'
+
 namespace :transform do
   task :write => :rename_terms 
   task :rename_terms => :ensure_term do
