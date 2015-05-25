@@ -60,7 +60,7 @@ task :install, :target_dir do |t, args|
     unless File.exist? "#{country[:path]}/WIP"
       cmd = "git log -p --format=%h --no-notes -s -1 #{country[:path]}/final.json > #{target_dir}/src/#{country[:name]}.src"
       warn cmd
-      #system(cmd)
+      system(cmd)
     end
   end
 end
