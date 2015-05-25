@@ -17,6 +17,6 @@ require_relative '../../rakefile_morph.rb'
   {
     id: 'term/2',
     name: "2nd Parliament",
-    start_date: '2013-07-01',
+    start_date: '2013-07-13',
   },
 ]
