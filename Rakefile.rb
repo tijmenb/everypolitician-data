@@ -58,7 +58,7 @@ task :install, :target_dir do |t, args|
   raise "No /src in #{target_dir}" unless Dir.exist? "#{target_dir}/src/"
   @COUNTRIES.each do |country| 
     unless File.exist? "#{country[:path]}/WIP"
-      cmd = "git log -p --format=%h --no-notes -s -1 #{country[:path]}/final.json > #{target_dir}/src/#{country[:name]}.src"
+      cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{country[:path]}/final.json > #{target_dir}/src/#{country[:name]}.src"
       warn cmd
       system(cmd)
     end
