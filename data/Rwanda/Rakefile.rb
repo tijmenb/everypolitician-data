@@ -7,7 +7,7 @@ require_relative '../../rakefile_morph.rb'
 }
 
 @TERMS = [{
-  id: 'term/2013',
+  id: 'term/3',
   name: '3rd Legislature',
   start_date: '2013'
 }]
