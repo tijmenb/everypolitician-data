@@ -7,7 +7,7 @@
     },
     {
       "email": "dburt@parliament.bm",
-      "id": "E",
+      "id": "E._David_Burt",
       "name": "David Burt"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "email": "ggibbons@parliament.bm",
-      "id": "Dr",
+      "id": "Dr._Grant_Gibbons",
       "name": "Grant Gibbons"
     },
     {
       "email": "",
-      "id": "Mr",
+      "id": "Mr._Jamahl_S._Simmons",
       "name": "Jamahl Simmons"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "email": "kwilson@parliament.bm",
-      "id": "Mrs",
+      "id": "Mrs._Kim_Wilson",
       "name": "Kim Wilson"
     },
     {
@@ -89,6 +89,11 @@
       "email": "mpettingill@parliament.bm",
       "id": "Mark_Pettingill",
       "name": "Mark Pettingill"
+    },
+    {
+      "email": "mdunkley@parliament.bm",
+      "id": "Mr._Michael_Dunkle",
+      "name": "Michael Dunkley"
     },
     {
       "email": "mscott@parliament.bm",
@@ -178,14 +183,14 @@
   ],
   "organizations": [
     {
-      "classification": "party",
-      "id": "",
-      "name": ""
-    },
-    {
       "classification": "executive",
       "id": "executive",
       "name": "Executive"
+    },
+    {
+      "classification": "party",
+      "id": "Independent",
+      "name": "Independent"
     },
     {
       "classification": "party",
@@ -255,7 +260,7 @@
     },
     {
       "area": {
-        "name": "12 - Devonshire South C*"
+        "name": "12 - Devonshire South Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
@@ -298,7 +303,7 @@
     {
       "legislative_period": "term/2012",
       "organization_id": "executive",
-      "person_id": "Dr",
+      "person_id": "Dr._Grant_Gibbons",
       "role": "Minister of Economic Development"
     },
     {
@@ -308,23 +313,23 @@
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
       "organization_id": "legislature",
-      "person_id": "Dr",
+      "person_id": "Dr._Grant_Gibbons",
       "role": "member"
     },
     {
       "legislative_period": "term/2012",
       "organization_id": "executive",
-      "person_id": "E",
+      "person_id": "E._David_Burt",
       "role": "Shadow Minister of Finance"
     },
     {
       "area": {
-        "name": "18 - Pembroke West C"
+        "name": "18 - Pembroke West Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
       "organization_id": "legislature",
-      "person_id": "E",
+      "person_id": "E._David_Burt",
       "role": "member"
     },
     {
@@ -335,7 +340,7 @@
     },
     {
       "area": {
-        "name": "13 - Devonshire North C"
+        "name": "13 - Devonshire North Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
@@ -447,7 +452,7 @@
     },
     {
       "area": {
-        "name": "30 - Southampton East C"
+        "name": "30 - Southampton East Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
@@ -463,7 +468,7 @@
     },
     {
       "area": {
-        "name": "26 - Warwick South C"
+        "name": "26 - Warwick South Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
@@ -511,7 +516,7 @@
     },
     {
       "area": {
-        "name": "16 - Pembroke East C"
+        "name": "16 - Pembroke East Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
@@ -522,7 +527,7 @@
     {
       "legislative_period": "term/2012",
       "organization_id": "executive",
-      "person_id": "Mr",
+      "person_id": "Mr._Jamahl_S._Simmons",
       "role": ""
     },
     {
@@ -532,13 +537,29 @@
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
       "organization_id": "legislature",
-      "person_id": "Mr",
+      "person_id": "Mr._Jamahl_S._Simmons",
       "role": "member"
     },
     {
       "legislative_period": "term/2012",
       "organization_id": "executive",
-      "person_id": "Mrs",
+      "person_id": "Mr._Michael_Dunkle",
+      "role": "Premier & Minister of National Security  "
+    },
+    {
+      "area": {
+        "name": "10 - Smiths North"
+      },
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "OBA",
+      "organization_id": "legislature",
+      "person_id": "Mr._Michael_Dunkle",
+      "role": "member"
+    },
+    {
+      "legislative_period": "term/2012",
+      "organization_id": "executive",
+      "person_id": "Mrs._Kim_Wilson",
       "role": "Shadow Minister of Health"
     },
     {
@@ -548,7 +569,7 @@
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PLP",
       "organization_id": "legislature",
-      "person_id": "Mrs",
+      "person_id": "Mrs._Kim_Wilson",
       "role": "member"
     },
     {
@@ -594,7 +615,7 @@
         "name": "32 - Southampton West"
       },
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "Independent",
       "organization_id": "legislature",
       "person_id": "Randy_Horton",
       "role": "member"
@@ -623,7 +644,7 @@
     },
     {
       "area": {
-        "name": "31 - Southampton West C"
+        "name": "31 - Southampton West Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
@@ -751,7 +772,7 @@
     },
     {
       "area": {
-        "name": "27 - Warwick North C"
+        "name": "27 - Warwick North Central"
       },
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
