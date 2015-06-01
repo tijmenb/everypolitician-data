@@ -264,20 +264,21 @@
       "legislative_periods": [
         {
           "classification": "legislative period",
-          "id": "term/2014",
-          "name": "2014"
+          "id": "term/2011",
+          "name": "2011–2016",
+          "start_date": "2011"
         }
       ],
       "name": "National Assembly"
     },
     {
       "classification": "party",
-      "id": "party/b38f12f5-9828-4e0c-8318-a4aa7c8adf30",
+      "id": "party/dbfe8a4d-37eb-49e1-8c6e-5429533ec8ee",
       "name": "PDM"
     },
     {
       "classification": "party",
-      "id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "name": "Parti Lepep"
     }
   ],
@@ -289,29 +290,38 @@
       "area": {
         "name": "ANSE AUX PINS"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "1031",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "area": {
+        "name": "Proportionally Elected"
+      },
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "364",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "area": {
+        "name": "Proportionally Elected"
+      },
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "371",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "area": {
+        "name": "Proportionally Elected"
+      },
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "374",
       "role": "member"
@@ -320,8 +330,8 @@
       "area": {
         "name": "BAIE LAZARE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "379",
       "role": "member"
@@ -330,8 +340,8 @@
       "area": {
         "name": "CASCADE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "383",
       "role": "member"
@@ -340,8 +350,8 @@
       "area": {
         "name": "GLACIS"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "385",
       "role": "member"
@@ -350,8 +360,8 @@
       "area": {
         "name": "GRAND ANSE PRASLIN"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "387",
       "role": "member"
@@ -360,8 +370,8 @@
       "area": {
         "name": "POINTE LARUE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "393",
       "role": "member"
@@ -370,8 +380,8 @@
       "area": {
         "name": "TAKAMAKA"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "601",
       "role": "member"
@@ -380,8 +390,8 @@
       "area": {
         "name": "MONT FLEURI"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "603",
       "role": "member"
@@ -390,8 +400,8 @@
       "area": {
         "name": "ANSE BOILEAU"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "604",
       "role": "member"
@@ -400,8 +410,8 @@
       "area": {
         "name": "THE INNER ISLANDS"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "605",
       "role": "member"
@@ -410,8 +420,8 @@
       "area": {
         "name": "ANSE ROYALE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "606",
       "role": "member"
@@ -420,8 +430,8 @@
       "area": {
         "name": "LES MAMELLES"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "607",
       "role": "member"
@@ -430,8 +440,8 @@
       "area": {
         "name": "BEL OMBRE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "608",
       "role": "member"
@@ -440,8 +450,8 @@
       "area": {
         "name": "ST. LOUIS"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "609",
       "role": "member"
@@ -450,8 +460,8 @@
       "area": {
         "name": "ROCHE CAIMAN"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "610",
       "role": "member"
@@ -460,8 +470,8 @@
       "area": {
         "name": "ENGLISH RIVER"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "612",
       "role": "member"
@@ -470,8 +480,8 @@
       "area": {
         "name": "GRAND ANSE MAHE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "613",
       "role": "member"
@@ -480,8 +490,8 @@
       "area": {
         "name": "ANSE ETOILE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "614",
       "role": "member"
@@ -490,8 +500,8 @@
       "area": {
         "name": "BEAU VALLON"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "615",
       "role": "member"
@@ -500,8 +510,8 @@
       "area": {
         "name": "AU CAP"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "617",
       "role": "member"
@@ -510,8 +520,8 @@
       "area": {
         "name": "BAIE STE ANNE PRASLIN"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "618",
       "role": "member"
@@ -520,8 +530,8 @@
       "area": {
         "name": "BEL AIR"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "619",
       "role": "member"
@@ -530,8 +540,8 @@
       "area": {
         "name": "PLAISANCE"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "620",
       "role": "member"
@@ -540,8 +550,8 @@
       "area": {
         "name": "MONT BUXTON"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "621",
       "role": "member"
@@ -550,15 +560,18 @@
       "area": {
         "name": "PORT GLAUD"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "622",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/b38f12f5-9828-4e0c-8318-a4aa7c8adf30",
+      "area": {
+        "name": "Proportionally Elected"
+      },
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/dbfe8a4d-37eb-49e1-8c6e-5429533ec8ee",
       "organization_id": "legislature",
       "person_id": "623",
       "role": "member"
@@ -567,8 +580,8 @@
       "area": {
         "name": "Proportionally Elected"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "624",
       "role": "member"
@@ -577,8 +590,8 @@
       "area": {
         "name": "Proportionally Elected"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "885",
       "role": "member"
@@ -587,8 +600,8 @@
       "area": {
         "name": "Proportionally Elected"
       },
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ab72513b-cd63-4760-9c6d-3e621e84c0df",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/064d8508-5731-4184-92eb-e72287ae9353",
       "organization_id": "legislature",
       "person_id": "908",
       "role": "member"
