@@ -1,6 +1,7 @@
 require_relative '../../rakefile_morph.rb'
 
 @MORPH = 'pudo/de-bundestag-mdbs' 
+@MORPH_QUERY = 'SELECT * FROM data ORDER BY last_update DESC LIMIT 1'
 
 @LEGISLATURE = {
   name: 'Bundestag',
@@ -25,13 +26,6 @@ namespace :whittle do
       @json[:memberships] << p.delete(:memberships)
     end
     @json[:memberships].flatten!
-
-    # Standardised org classifications
-    # https://github.com/popolo-project/popolo-spec/issues/91
-    @json[:organizations].find { |o| o[:id] == 'de.bundestag.data/bundestag' }[:classification] = 'legislature'
-    @json[:organizations].find_all { |o| o[:classification] == 'Partei' }.each do |o|
-      o[:classification] = 'party'
-    end
 
   end
 
