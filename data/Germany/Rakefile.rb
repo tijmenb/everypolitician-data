@@ -10,7 +10,7 @@ require_relative '../../rakefile_morph.rb'
 
 # https://de.wikipedia.org/wiki/18._Deutscher_Bundestag
 @TERMS = [{
-  id: 'de.bundestag.data:wahlperiode:18',
+  id: 'de.bundestag.data/wahlperiode/18',
   name: '18th Bundestag',
   start_date: '2013-10-22',
 }]
