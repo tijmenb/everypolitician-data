@@ -11,7 +11,7 @@ end
 namespace :raw do
 
   file 'popit.json' do
-    json_write('popit.json', open(popit_source).read) 
+    File.write('popit.json', open(popit_source).read) 
   end
 
 end
