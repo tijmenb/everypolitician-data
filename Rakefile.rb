@@ -1,4 +1,5 @@
 require 'tmpdir'
+require 'json'
 
 @COUNTRIES = FileList['data/*/Rakefile.rb'].map { |c| {
   path: c.pathmap('%d'),
@@ -27,4 +28,19 @@ task :regenerate_all do
   end
 end
 
+desc "Install country-list locally"
+task 'countries.json' do 
+  data = @COUNTRIES.reject { |c| File.exist? "#{c[:path]}/WIP" }.map do |country| 
+    popolo = country[:path] + '/final.json'
+    cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{popolo}"
+    (sha, lastmod) = %x(#{cmd}).chomp.split('|')
+    {
+      country: country[:name],
+      popolo: popolo,
+      lastmod: lastmod,
+      sha: sha,
+    }
+  end
+  File.write('countries.json', JSON.pretty_generate(data.to_a))
+end
 
