@@ -13,13 +13,15 @@ def morph_select(qs)
 end
 
 namespace :raw do
-
   @DEFAULT_MORPH_QUERY = 'SELECT * FROM data'
-
   file 'morph.csv' do
     File.write('morph.csv', morph_select(@MORPH_QUERY || @DEFAULT_MORPH_QUERY))
   end
 
+  @DEFAULT_MORPH_TERM_QUERY = 'SELECT * FROM terms'
+  file 'terms.csv' do
+    File.write('terms.csv', morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
+  end
 end
    
 namespace :whittle do
@@ -29,6 +31,6 @@ namespace :whittle do
     @SOURCE = "https://morph.io/#{@MORPH}"
     @json = Popolo::CSV.new(@CSV_FILE || 'morph.csv').data
   end
-
-
 end
+
+
