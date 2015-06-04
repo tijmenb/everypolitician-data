@@ -19,8 +19,11 @@ namespace :raw do
   end
 
   @DEFAULT_MORPH_TERM_QUERY = 'SELECT * FROM terms'
-  file 'terms.csv' do
-    File.write('terms.csv', morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
+  file 'morph.csv' => :get_terms
+  task :get_terms do
+    if @MORPH_TERMS
+      File.write('terms.csv', morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
+    end
   end
 end
    
