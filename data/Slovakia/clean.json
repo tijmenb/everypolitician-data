@@ -10232,6 +10232,13 @@
       ]
     },
     {
+      "family_name": "Nicholsovnová",
+      "given_name": "Lucia",
+      "id": "555c27e0273a3956dcbdea67",
+      "name": "Lucia Nicholsovnová",
+      "sort_name": "Nicholsovnová, Lucia"
+    },
+    {
       "birth_date": "1964-06-03",
       "contact_details": [
         {
@@ -15785,6 +15792,13 @@
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=137&CisObdobia=2"
         }
       ]
+    },
+    {
+      "family_name": "Vörös",
+      "given_name": "Peter",
+      "id": "556bf62e273a3965c773eb95",
+      "name": "Peter Vörös",
+      "sort_name": "Vörös, Peter"
     },
     {
       "birth_date": "1952-07-07",
@@ -24720,6 +24734,20 @@
       "start_date": "1998-10-29"
     },
     {
+      "end_date": "2001-11-27",
+      "id": "54d2a55d273a394ad5db9f8c",
+      "label": "V skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
+      "person_id": "54d2a42d273a394ad5db922c",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
+        }
+      ],
+      "start_date": "2000-02-15"
+    },
+    {
       "end_date": "2002-09-21",
       "id": "54d2a55d273a394ad5db9f8e",
       "label": "Člen v skupine Nezávislý",
@@ -24733,20 +24761,6 @@
         }
       ],
       "start_date": "2002-05-14"
-    },
-    {
-      "end_date": "2001-11-27",
-      "id": "54d2a55d273a394ad5db9f8c",
-      "label": "V skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a42d273a394ad5db922c",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2000-02-15"
     },
     {
       "end_date": "2002-05-14",
@@ -24869,21 +24883,6 @@
       "start_date": "1994-11-03"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a530273a394ad5db9a5c",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a49c273a394ad5db975a",
-      "person_id": "54d2a42f273a394ad5db9243",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2000-09-12"
-    },
-    {
       "end_date": "2000-07-06",
       "id": "54d2a52e273a394ad5db9a18",
       "label": "Poslanec Národnej rady SR",
@@ -24900,15 +24899,15 @@
     },
     {
       "end_date": "2002-09-21",
-      "id": "54d2a559273a394ad5db9ec8",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
+      "id": "54d2a530273a394ad5db9a5c",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a49c273a394ad5db975a",
       "person_id": "54d2a42f273a394ad5db9243",
       "role": "member",
       "sources": [
         {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
         }
       ],
       "start_date": "2000-09-12"
@@ -24927,6 +24926,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a559273a394ad5db9ec8",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a42f273a394ad5db9243",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "2000-09-12"
     },
     {
       "end_date": "1998-09-25",
@@ -26697,21 +26711,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a553273a394ad5db9dda",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a439273a394ad5db92a1",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a553273a394ad5db9ddc",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -26725,6 +26724,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a553273a394ad5db9dda",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a439273a394ad5db92a1",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "1998-09-25",
@@ -26757,21 +26771,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a552273a394ad5db9d90",
-      "label": "Člen v skupine Klub SMK – MKP",
-      "organization_id": "54d2a551273a394ad5db9d84",
-      "person_id": "54d2a43a273a394ad5db92a6",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=3"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1998-10-30",
       "id": "54d2a552273a394ad5db9d8e",
       "label": "Člen v skupine Klub SMK – MKP",
@@ -26785,6 +26784,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a552273a394ad5db9d90",
+      "label": "Člen v skupine Klub SMK – MKP",
+      "organization_id": "54d2a551273a394ad5db9d84",
+      "person_id": "54d2a43a273a394ad5db92a6",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=3"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "id": "54d2a5e5273a394ad5dba16c",
@@ -26966,21 +26980,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a559273a394ad5db9ed4",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a43c273a394ad5db92b7",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1998-10-30",
       "id": "54d2a559273a394ad5db9ed2",
       "label": "Člen v skupine Klub SDK",
@@ -26994,6 +26993,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a559273a394ad5db9ed4",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a43c273a394ad5db92b7",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "end_date": "1998-09-25",
@@ -27416,21 +27430,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a559273a394ad5db9edc",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a440273a394ad5db92e3",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1998-10-30",
       "id": "54d2a559273a394ad5db9eda",
       "label": "Člen v skupine Klub SDK",
@@ -27444,6 +27443,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a559273a394ad5db9edc",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a440273a394ad5db92e3",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "id": "54d2a5e5273a394ad5dba188",
@@ -28062,21 +28076,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a559273a394ad5db9ee2",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a445273a394ad5db930a",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1998-10-31",
       "id": "54d2a559273a394ad5db9ee0",
       "label": "Člen v skupine Klub SDK",
@@ -28090,6 +28089,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a559273a394ad5db9ee2",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a445273a394ad5db930a",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "end_date": "2004-04-29",
@@ -28137,21 +28151,6 @@
       "start_date": "2002-11-05"
     },
     {
-      "end_date": "2003-04-25",
-      "id": "54d2a61e273a394ad5dba832",
-      "label": "Člen v skupine Stála delegácia pozorovateľov NR SR v Európskom parlamente",
-      "organization_id": "54d2a61e273a394ad5dba828",
-      "person_id": "54d2a445273a394ad5db930a",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/delegacie/delegacia&ID=16"
-        }
-      ],
-      "start_date": "2002-11-05"
-    },
-    {
       "end_date": "2004-04-29",
       "id": "54d2a61e273a394ad5dba834",
       "label": "Vedúci v skupine Stála delegácia pozorovateľov NR SR v Európskom parlamente",
@@ -28165,6 +28164,21 @@
         }
       ],
       "start_date": "2003-04-25"
+    },
+    {
+      "end_date": "2003-04-25",
+      "id": "54d2a61e273a394ad5dba832",
+      "label": "Člen v skupine Stála delegácia pozorovateľov NR SR v Európskom parlamente",
+      "organization_id": "54d2a61e273a394ad5dba828",
+      "person_id": "54d2a445273a394ad5db930a",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/delegacie/delegacia&ID=16"
+        }
+      ],
+      "start_date": "2002-11-05"
     },
     {
       "end_date": "2012-03-10",
@@ -28364,21 +28378,6 @@
       "start_date": "1994-11-03"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a52c273a394ad5db99d6",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a49c273a394ad5db975a",
-      "person_id": "54d2a446273a394ad5db931b",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "1998-09-26"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a531273a394ad5db9a82",
       "label": "Poslanec Národnej rady SR",
@@ -28392,6 +28391,21 @@
         }
       ],
       "start_date": "2002-05-14"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a52c273a394ad5db99d6",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a49c273a394ad5db975a",
+      "person_id": "54d2a446273a394ad5db931b",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "1998-09-26"
     },
     {
       "end_date": "1998-10-30",
@@ -29827,21 +29841,6 @@
       "start_date": "1994-11-03"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a530273a394ad5db9a5e",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a49c273a394ad5db975a",
-      "person_id": "54d2a454273a394ad5db93a4",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2001-01-02"
-    },
-    {
       "end_date": "1998-10-30",
       "id": "54d2a52b273a394ad5db9992",
       "label": "Poslanec Národnej rady SR",
@@ -29855,6 +29854,21 @@
         }
       ],
       "start_date": "1998-09-26"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a530273a394ad5db9a5e",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a49c273a394ad5db975a",
+      "person_id": "54d2a454273a394ad5db93a4",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2001-01-02"
     },
     {
       "end_date": "2002-09-21",
@@ -30112,21 +30126,6 @@
       "start_date": "2002-05-14"
     },
     {
-      "end_date": "2002-05-14",
-      "id": "54d2a55f273a394ad5db9ff8",
-      "label": "Členka v skupine Klub PSNS",
-      "organization_id": "54d2a55f273a394ad5db9ff4",
-      "person_id": "54d2a458273a394ad5db93c5",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=10"
-        }
-      ],
-      "start_date": "2001-11-27"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a55f273a394ad5db9ffa",
       "label": "Členka v skupine Klub PSNS",
@@ -30140,6 +30139,21 @@
         }
       ],
       "start_date": "2002-07-29"
+    },
+    {
+      "end_date": "2002-05-14",
+      "id": "54d2a55f273a394ad5db9ff8",
+      "label": "Členka v skupine Klub PSNS",
+      "organization_id": "54d2a55f273a394ad5db9ff4",
+      "person_id": "54d2a458273a394ad5db93c5",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=10"
+        }
+      ],
+      "start_date": "2001-11-27"
     },
     {
       "end_date": "1998-09-25",
@@ -30981,21 +30995,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2005-09-21",
-      "id": "54d2a5ec273a394ad5dba28e",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a45f273a394ad5db940d",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2004-08-24"
-    },
-    {
       "end_date": "2006-06-17",
       "id": "54d2a5ed273a394ad5dba2a4",
       "label": "Poslanec Národnej rady SR",
@@ -31011,19 +31010,19 @@
       "start_date": "2005-09-21"
     },
     {
-      "end_date": "2006-06-16",
-      "id": "54d2a615273a394ad5dba6e0",
-      "label": "Člen v skupine Klub SMK – MKP",
-      "organization_id": "54d2a614273a394ad5dba6b4",
+      "end_date": "2005-09-21",
+      "id": "54d2a5ec273a394ad5dba28e",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
       "person_id": "54d2a45f273a394ad5db940d",
       "role": "member",
       "sources": [
         {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=17"
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
         }
       ],
-      "start_date": "2005-09-21"
+      "start_date": "2004-08-24"
     },
     {
       "end_date": "2005-09-21",
@@ -31039,6 +31038,21 @@
         }
       ],
       "start_date": "2004-08-24"
+    },
+    {
+      "end_date": "2006-06-16",
+      "id": "54d2a615273a394ad5dba6e0",
+      "label": "Člen v skupine Klub SMK – MKP",
+      "organization_id": "54d2a614273a394ad5dba6b4",
+      "person_id": "54d2a45f273a394ad5db940d",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=17"
+        }
+      ],
+      "start_date": "2005-09-21"
     },
     {
       "end_date": "1998-09-25",
@@ -31265,21 +31279,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a556273a394ad5db9e84",
-      "label": "Člen v skupine Klub SDĽ",
-      "organization_id": "54d2a556273a394ad5db9e4e",
-      "person_id": "54d2a464273a394ad5db943c",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a557273a394ad5db9e86",
       "label": "Člen v skupine Klub SDĽ",
@@ -31293,6 +31292,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a556273a394ad5db9e84",
+      "label": "Člen v skupine Klub SDĽ",
+      "organization_id": "54d2a556273a394ad5db9e4e",
+      "person_id": "54d2a464273a394ad5db943c",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "1998-09-25",
@@ -31835,21 +31849,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a55a273a394ad5db9f1c",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a469273a394ad5db9468",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1999-03-23",
       "id": "54d2a55a273a394ad5db9f1a",
       "label": "Člen v skupine Klub SDK",
@@ -31863,6 +31862,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a55a273a394ad5db9f1c",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a469273a394ad5db9468",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "end_date": "1998-09-25",
@@ -32810,21 +32824,6 @@
       "start_date": "1994-11-03"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a528273a394ad5db9916",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a49c273a394ad5db975a",
-      "person_id": "54d2a470273a394ad5db94ac",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "1998-09-26"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a530273a394ad5db9a4a",
       "label": "Poslanec Národnej rady SR",
@@ -32838,6 +32837,21 @@
         }
       ],
       "start_date": "1999-08-12"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a528273a394ad5db9916",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a49c273a394ad5db975a",
+      "person_id": "54d2a470273a394ad5db94ac",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "1998-09-26"
     },
     {
       "end_date": "1998-10-30",
@@ -33140,21 +33154,6 @@
       "start_date": "2001-05-15"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a55a273a394ad5db9f2c",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a471273a394ad5db94b9",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a55a273a394ad5db9f2e",
       "label": "Člen v skupine Klub SDK",
@@ -33168,6 +33167,21 @@
         }
       ],
       "start_date": "2001-05-15"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a55a273a394ad5db9f2c",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a471273a394ad5db94b9",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "1998-09-25",
@@ -33380,21 +33394,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2002-04-10",
-      "id": "54d2a55e273a394ad5db9fc4",
-      "label": "Člen v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a475273a394ad5db94dd",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2001-09-16"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a55e273a394ad5db9fc6",
       "label": "Člen v skupine Nezávislý",
@@ -33408,6 +33407,21 @@
         }
       ],
       "start_date": "2002-05-14"
+    },
+    {
+      "end_date": "2002-04-10",
+      "id": "54d2a55e273a394ad5db9fc4",
+      "label": "Člen v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
+      "person_id": "54d2a475273a394ad5db94dd",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
+        }
+      ],
+      "start_date": "2001-09-16"
     },
     {
       "end_date": "1998-09-25",
@@ -33650,21 +33664,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2004-04-29",
-      "id": "54d2a5e9273a394ad5dba250",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a479273a394ad5db9502",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2002-11-05"
-    },
-    {
       "end_date": "2006-06-17",
       "id": "54d2a5eb273a394ad5dba27a",
       "label": "Poslanec Národnej rady SR",
@@ -33678,6 +33677,21 @@
         }
       ],
       "start_date": "2004-04-29"
+    },
+    {
+      "end_date": "2004-04-29",
+      "id": "54d2a5e9273a394ad5dba250",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a479273a394ad5db9502",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2002-11-05"
     },
     {
       "end_date": "2006-06-16",
@@ -34160,21 +34174,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2002-07-29",
-      "id": "54d2a55e273a394ad5db9fd4",
-      "label": "Členka v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a47a273a394ad5db9513",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2002-05-14"
-    },
-    {
       "end_date": "2002-04-10",
       "id": "54d2a55e273a394ad5db9fd2",
       "label": "Členka v skupine Nezávislý",
@@ -34188,6 +34187,21 @@
         }
       ],
       "start_date": "2001-09-16"
+    },
+    {
+      "end_date": "2002-07-29",
+      "id": "54d2a55e273a394ad5db9fd4",
+      "label": "Členka v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
+      "person_id": "54d2a47a273a394ad5db9513",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
+        }
+      ],
+      "start_date": "2002-05-14"
     },
     {
       "end_date": "2002-09-21",
@@ -34295,21 +34309,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2001-11-27",
-      "id": "54d2a55e273a394ad5db9fd6",
-      "label": "Člen v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a47c273a394ad5db951f",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2001-09-16"
-    },
-    {
       "end_date": "2002-07-29",
       "id": "54d2a55e273a394ad5db9fd8",
       "label": "Člen v skupine Nezávislý",
@@ -34325,19 +34324,19 @@
       "start_date": "2002-05-14"
     },
     {
-      "end_date": "2002-05-14",
-      "id": "54d2a55f273a394ad5dba004",
-      "label": "Člen v skupine Klub PSNS",
-      "organization_id": "54d2a55f273a394ad5db9ff4",
+      "end_date": "2001-11-27",
+      "id": "54d2a55e273a394ad5db9fd6",
+      "label": "Člen v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
       "person_id": "54d2a47c273a394ad5db951f",
       "role": "member",
       "sources": [
         {
           "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=10"
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
         }
       ],
-      "start_date": "2001-11-27"
+      "start_date": "2001-09-16"
     },
     {
       "end_date": "2002-09-21",
@@ -34353,6 +34352,21 @@
         }
       ],
       "start_date": "2002-07-29"
+    },
+    {
+      "end_date": "2002-05-14",
+      "id": "54d2a55f273a394ad5dba004",
+      "label": "Člen v skupine Klub PSNS",
+      "organization_id": "54d2a55f273a394ad5db9ff4",
+      "person_id": "54d2a47c273a394ad5db951f",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=10"
+        }
+      ],
+      "start_date": "2001-11-27"
     },
     {
       "end_date": "2010-06-12",
@@ -34715,21 +34729,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a552273a394ad5db9db8",
-      "label": "Člen v skupine Klub SMK – MKP",
-      "organization_id": "54d2a551273a394ad5db9d84",
-      "person_id": "54d2a47e273a394ad5db9536",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=3"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1998-11-03",
       "id": "54d2a552273a394ad5db9db6",
       "label": "Člen v skupine Klub SMK – MKP",
@@ -34743,6 +34742,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a552273a394ad5db9db8",
+      "label": "Člen v skupine Klub SMK – MKP",
+      "organization_id": "54d2a551273a394ad5db9d84",
+      "person_id": "54d2a47e273a394ad5db9536",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=3"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "end_date": "2002-10-23",
@@ -34865,6 +34879,21 @@
       "start_date": "1994-11-03"
     },
     {
+      "end_date": "2002-09-21",
+      "id": "54d2a530273a394ad5db9a58",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a49c273a394ad5db975a",
+      "person_id": "54d2a47f273a394ad5db953c",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2000-07-06"
+    },
+    {
       "end_date": "1998-10-30",
       "id": "54d2a528273a394ad5db98f2",
       "label": "Poslanec Národnej rady SR",
@@ -34881,15 +34910,15 @@
     },
     {
       "end_date": "2002-09-21",
-      "id": "54d2a530273a394ad5db9a58",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a49c273a394ad5db975a",
+      "id": "54d2a55a273a394ad5db9f44",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
       "person_id": "54d2a47f273a394ad5db953c",
       "role": "member",
       "sources": [
         {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
         }
       ],
       "start_date": "2000-07-06"
@@ -34908,21 +34937,6 @@
         }
       ],
       "start_date": "1998-10-29"
-    },
-    {
-      "end_date": "2002-09-21",
-      "id": "54d2a55a273a394ad5db9f44",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a47f273a394ad5db953c",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "2000-07-06"
     },
     {
       "end_date": "1998-09-25",
@@ -35493,21 +35507,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2006-06-17",
-      "id": "54d2a5ec273a394ad5dba27e",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a483273a394ad5db9566",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2004-08-24"
-    },
-    {
       "end_date": "2004-03-05",
       "id": "54d2a5ea273a394ad5dba272",
       "label": "Poslanec Národnej rady SR",
@@ -35521,6 +35520,21 @@
         }
       ],
       "start_date": "2003-12-04"
+    },
+    {
+      "end_date": "2006-06-17",
+      "id": "54d2a5ec273a394ad5dba27e",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a483273a394ad5db9566",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2004-08-24"
     },
     {
       "end_date": "2004-03-05",
@@ -36467,21 +36481,6 @@
       "start_date": "1998-11-03"
     },
     {
-      "end_date": "2002-01-15",
-      "id": "54d2a559273a394ad5db9ecc",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a4a6273a394ad5db97a9",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "2000-11-28"
-    },
-    {
       "end_date": "2000-11-28",
       "id": "54d2a559273a394ad5db9eca",
       "label": "Člen v skupine Klub SDK",
@@ -36495,6 +36494,21 @@
         }
       ],
       "start_date": "1998-11-03"
+    },
+    {
+      "end_date": "2002-01-15",
+      "id": "54d2a559273a394ad5db9ecc",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a4a6273a394ad5db97a9",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "2000-11-28"
     },
     {
       "end_date": "2010-06-12",
@@ -36587,21 +36601,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2001-09-16",
-      "id": "54d2a551273a394ad5db9d64",
-      "label": "Členka v skupine Klub SNS",
-      "organization_id": "54d2a550273a394ad5db9d5e",
-      "person_id": "54d2a4a7273a394ad5db97b3",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=4"
-        }
-      ],
-      "start_date": "1999-10-19"
-    },
-    {
       "end_date": "1999-10-19",
       "id": "54d2a551273a394ad5db9d62",
       "label": "Predsedníčka v skupine Klub SNS",
@@ -36615,6 +36614,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2001-09-16",
+      "id": "54d2a551273a394ad5db9d64",
+      "label": "Členka v skupine Klub SNS",
+      "organization_id": "54d2a550273a394ad5db9d5e",
+      "person_id": "54d2a4a7273a394ad5db97b3",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=4"
+        }
+      ],
+      "start_date": "1999-10-19"
     },
     {
       "end_date": "2002-04-10",
@@ -37245,21 +37259,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2003-03-05",
-      "id": "54d2a61c273a394ad5dba7f6",
-      "label": "Člen v skupine Stála delegácia NR SR do Spoločného parlamentného výboru Európskej únie a SR",
-      "organization_id": "54d2a61c273a394ad5dba7ec",
-      "person_id": "54d2a4b0273a394ad5db97f3",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/delegacie/delegacia&ID=14"
-        }
-      ],
-      "start_date": "2002-11-05"
-    },
-    {
       "end_date": "2003-06-30",
       "id": "54d2a61c273a394ad5dba7f8",
       "label": "Náhradník v skupine Stála delegácia NR SR do Spoločného parlamentného výboru Európskej únie a SR",
@@ -37273,6 +37272,21 @@
         }
       ],
       "start_date": "2003-03-05"
+    },
+    {
+      "end_date": "2003-03-05",
+      "id": "54d2a61c273a394ad5dba7f6",
+      "label": "Člen v skupine Stála delegácia NR SR do Spoločného parlamentného výboru Európskej únie a SR",
+      "organization_id": "54d2a61c273a394ad5dba7ec",
+      "person_id": "54d2a4b0273a394ad5db97f3",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/delegacie/delegacia&ID=14"
+        }
+      ],
+      "start_date": "2002-11-05"
     },
     {
       "end_date": "2006-06-16",
@@ -37334,21 +37348,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a553273a394ad5db9dd6",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a4b0273a394ad5db97f9",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a553273a394ad5db9dd8",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -37362,6 +37361,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a553273a394ad5db9dd6",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a4b0273a394ad5db97f9",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2002-09-21",
@@ -38154,21 +38168,6 @@
       "start_date": "2006-02-08"
     },
     {
-      "end_date": "2006-06-16",
-      "id": "54d2a613273a394ad5dba692",
-      "label": "Člen v skupine Klub KDH",
-      "organization_id": "54d2a613273a394ad5dba684",
-      "person_id": "54d2a4c1273a394ad5db982a",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=14"
-        }
-      ],
-      "start_date": "2006-02-08"
-    },
-    {
       "end_date": "2002-10-16",
       "id": "54d2a613273a394ad5dba690",
       "label": "Člen v skupine Klub KDH",
@@ -38182,6 +38181,21 @@
         }
       ],
       "start_date": "2002-10-15"
+    },
+    {
+      "end_date": "2006-06-16",
+      "id": "54d2a613273a394ad5dba692",
+      "label": "Člen v skupine Klub KDH",
+      "organization_id": "54d2a613273a394ad5dba684",
+      "person_id": "54d2a4c1273a394ad5db982a",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=14"
+        }
+      ],
+      "start_date": "2006-02-08"
     },
     {
       "end_date": "2010-06-12",
@@ -39222,21 +39236,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a552273a394ad5db9da0",
-      "label": "Člen v skupine Klub SMK – MKP",
-      "organization_id": "54d2a551273a394ad5db9d84",
-      "person_id": "54d2a4ca273a394ad5db983c",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=3"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a552273a394ad5db9da2",
       "label": "Člen v skupine Klub SMK – MKP",
@@ -39250,6 +39249,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a552273a394ad5db9da0",
+      "label": "Člen v skupine Klub SMK – MKP",
+      "organization_id": "54d2a551273a394ad5db9d84",
+      "person_id": "54d2a4ca273a394ad5db983c",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=3"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "id": "54d2a5e6273a394ad5dba1aa",
@@ -39386,6 +39400,21 @@
       "start_date": "2001-01-30"
     },
     {
+      "end_date": "2002-09-21",
+      "id": "54d2a556273a394ad5db9e72",
+      "label": "Predseda v skupine Klub SDĽ",
+      "organization_id": "54d2a556273a394ad5db9e4e",
+      "person_id": "54d2a4cb273a394ad5db983e",
+      "role": "chairman",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
+        }
+      ],
+      "start_date": "2001-02-06"
+    },
+    {
       "end_date": "2001-02-06",
       "id": "54d2a556273a394ad5db9e70",
       "label": "Člen v skupine Klub SDĽ",
@@ -39414,21 +39443,6 @@
         }
       ],
       "start_date": "1998-11-03"
-    },
-    {
-      "end_date": "2002-09-21",
-      "id": "54d2a556273a394ad5db9e72",
-      "label": "Predseda v skupine Klub SDĽ",
-      "organization_id": "54d2a556273a394ad5db9e4e",
-      "person_id": "54d2a4cb273a394ad5db983e",
-      "role": "chairman",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
-        }
-      ],
-      "start_date": "2001-02-06"
     },
     {
       "end_date": "2002-09-21",
@@ -39776,21 +39790,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "1999-03-23",
-      "id": "54d2a556273a394ad5db9e74",
-      "label": "Člen v skupine Klub SDĽ",
-      "organization_id": "54d2a556273a394ad5db9e4e",
-      "person_id": "54d2a4ce273a394ad5db9846",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a556273a394ad5db9e76",
       "label": "Člen v skupine Klub SDĽ",
@@ -39804,6 +39803,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1999-03-23",
+      "id": "54d2a556273a394ad5db9e74",
+      "label": "Člen v skupine Klub SDĽ",
+      "organization_id": "54d2a556273a394ad5db9e4e",
+      "person_id": "54d2a4ce273a394ad5db9846",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2002-01-28",
@@ -40914,21 +40928,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2002-04-10",
-      "id": "54d2a55d273a394ad5db9fa6",
-      "label": "Člen v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a4dd273a394ad5db985e",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2001-09-16"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a55d273a394ad5db9fa8",
       "label": "Člen v skupine Nezávislý",
@@ -40942,6 +40941,21 @@
         }
       ],
       "start_date": "2002-05-14"
+    },
+    {
+      "end_date": "2002-04-10",
+      "id": "54d2a55d273a394ad5db9fa6",
+      "label": "Člen v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
+      "person_id": "54d2a4dd273a394ad5db985e",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
+        }
+      ],
+      "start_date": "2001-09-16"
     },
     {
       "end_date": "2010-06-12",
@@ -41362,21 +41376,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a554273a394ad5db9e0e",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a4e2273a394ad5db9868",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "2000-05-29"
-    },
-    {
       "end_date": "1998-10-30",
       "id": "54d2a554273a394ad5db9e0c",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -41390,6 +41389,21 @@
         }
       ],
       "start_date": "1998-10-29"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a554273a394ad5db9e0e",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a4e2273a394ad5db9868",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
+        }
+      ],
+      "start_date": "2000-05-29"
     },
     {
       "end_date": "2002-09-21",
@@ -41542,21 +41556,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a554273a394ad5db9e14",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a4e8273a394ad5db9872",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a554273a394ad5db9e16",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -41572,19 +41571,19 @@
       "start_date": "2000-05-29"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a531273a394ad5db9a6e",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a49c273a394ad5db975a",
-      "person_id": "54d2a4e9273a394ad5db9874",
+      "end_date": "1998-10-30",
+      "id": "54d2a554273a394ad5db9e14",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a4e8273a394ad5db9872",
       "role": "member",
       "sources": [
         {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
         }
       ],
-      "start_date": "2001-11-19"
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "1998-11-03",
@@ -41600,6 +41599,21 @@
         }
       ],
       "start_date": "1998-09-26"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a531273a394ad5db9a6e",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a49c273a394ad5db975a",
+      "person_id": "54d2a4e9273a394ad5db9874",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2001-11-19"
     },
     {
       "end_date": "2002-09-21",
@@ -41840,21 +41854,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a554273a394ad5db9e1a",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a4ed273a394ad5db987c",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a555273a394ad5db9e1c",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -41868,6 +41867,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a554273a394ad5db9e1a",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a4ed273a394ad5db987c",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2002-09-21",
@@ -42004,21 +42018,6 @@
       "start_date": "2002-04-11"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a555273a394ad5db9e1e",
-      "label": "Členka v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a4ef273a394ad5db9884",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a555273a394ad5db9e20",
       "label": "Členka v skupine Klub ĽS – HZDS",
@@ -42032,6 +42031,21 @@
         }
       ],
       "start_date": "2002-04-11"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a555273a394ad5db9e1e",
+      "label": "Členka v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a4ef273a394ad5db9884",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2002-09-21",
@@ -42544,19 +42558,19 @@
       "start_date": "1999-09-26"
     },
     {
-      "end_date": "2002-07-13",
-      "id": "54d2a557273a394ad5db9e92",
-      "label": "Podpredseda v skupine Klub SDĽ",
+      "end_date": "2001-02-06",
+      "id": "54d2a557273a394ad5db9e90",
+      "label": "Poverený vedením klubu v skupine Klub SDĽ",
       "organization_id": "54d2a556273a394ad5db9e4e",
       "person_id": "54d2a4f5273a394ad5db988c",
-      "role": "vice-chairman",
+      "role": "chairman",
       "sources": [
         {
           "note": "Profil na webe NRSR",
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
         }
       ],
-      "start_date": "2001-02-06"
+      "start_date": "2001-01-16"
     },
     {
       "end_date": "2000-05-03",
@@ -42574,21 +42588,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2001-02-06",
-      "id": "54d2a557273a394ad5db9e90",
-      "label": "Poverený vedením klubu v skupine Klub SDĽ",
-      "organization_id": "54d2a556273a394ad5db9e4e",
-      "person_id": "54d2a4f5273a394ad5db988c",
-      "role": "chairman",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
-        }
-      ],
-      "start_date": "2001-01-16"
-    },
-    {
       "end_date": "2001-01-16",
       "id": "54d2a557273a394ad5db9e8e",
       "label": "Člen v skupine Klub SDĽ",
@@ -42602,6 +42601,21 @@
         }
       ],
       "start_date": "2000-05-03"
+    },
+    {
+      "end_date": "2002-07-13",
+      "id": "54d2a557273a394ad5db9e92",
+      "label": "Podpredseda v skupine Klub SDĽ",
+      "organization_id": "54d2a556273a394ad5db9e4e",
+      "person_id": "54d2a4f5273a394ad5db988c",
+      "role": "vice-chairman",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
+        }
+      ],
+      "start_date": "2001-02-06"
     },
     {
       "end_date": "2002-09-21",
@@ -43026,21 +43040,6 @@
       "start_date": "2006-02-08"
     },
     {
-      "end_date": "2006-06-16",
-      "id": "54d2a613273a394ad5dba6aa",
-      "label": "Člen v skupine Klub KDH",
-      "organization_id": "54d2a613273a394ad5dba684",
-      "person_id": "54d2a4f8273a394ad5db9892",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=14"
-        }
-      ],
-      "start_date": "2006-02-08"
-    },
-    {
       "end_date": "2002-10-16",
       "id": "54d2a613273a394ad5dba6a8",
       "label": "Člen v skupine Klub KDH",
@@ -43054,6 +43053,21 @@
         }
       ],
       "start_date": "2002-10-15"
+    },
+    {
+      "end_date": "2006-06-16",
+      "id": "54d2a613273a394ad5dba6aa",
+      "label": "Člen v skupine Klub KDH",
+      "organization_id": "54d2a613273a394ad5dba684",
+      "person_id": "54d2a4f8273a394ad5db9892",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=14"
+        }
+      ],
+      "start_date": "2006-02-08"
     },
     {
       "end_date": "2010-06-12",
@@ -43131,21 +43145,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a55d273a394ad5db9fc0",
-      "label": "Člen v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a4f9273a394ad5db9894",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2002-05-14"
-    },
-    {
       "end_date": "2002-04-10",
       "id": "54d2a55d273a394ad5db9fbe",
       "label": "Člen v skupine Nezávislý",
@@ -43159,6 +43158,21 @@
         }
       ],
       "start_date": "2001-09-16"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a55d273a394ad5db9fc0",
+      "label": "Člen v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
+      "person_id": "54d2a4f9273a394ad5db9894",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
+        }
+      ],
+      "start_date": "2002-05-14"
     },
     {
       "end_date": "2009-07-14",
@@ -43951,21 +43965,6 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2000-09-12",
-      "id": "54d2a55a273a394ad5db9f34",
-      "label": "Člen v skupine Klub SDK",
-      "organization_id": "54d2a559273a394ad5db9ec2",
-      "person_id": "54d2a502273a394ad5db98aa",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a55a273a394ad5db9f36",
       "label": "Predseda v skupine Klub SDK",
@@ -43979,6 +43978,21 @@
         }
       ],
       "start_date": "2000-09-12"
+    },
+    {
+      "end_date": "2000-09-12",
+      "id": "54d2a55a273a394ad5db9f34",
+      "label": "Člen v skupine Klub SDK",
+      "organization_id": "54d2a559273a394ad5db9ec2",
+      "person_id": "54d2a502273a394ad5db98aa",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=2"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2006-06-17",
@@ -44116,21 +44130,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6ed273a394ad5dbb2f2",
-      "label": "Člen v skupine Klub SDKÚ – DS",
-      "organization_id": "54d2a6ec273a394ad5dbb2ac",
-      "person_id": "54d2a502273a394ad5db98aa",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=28"
-        }
-      ],
-      "start_date": "2009-09-08"
-    },
-    {
       "end_date": "2006-07-05",
       "id": "54d2a6ed273a394ad5dbb2f0",
       "label": "Člen v skupine Klub SDKÚ – DS",
@@ -44144,6 +44143,21 @@
         }
       ],
       "start_date": "2006-07-04"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6ed273a394ad5dbb2f2",
+      "label": "Člen v skupine Klub SDKÚ – DS",
+      "organization_id": "54d2a6ec273a394ad5dbb2ac",
+      "person_id": "54d2a502273a394ad5db98aa",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=28"
+        }
+      ],
+      "start_date": "2009-09-08"
     },
     {
       "end_date": "2002-09-21",
@@ -44460,21 +44474,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "2002-07-29",
-      "id": "54d2a55e273a394ad5db9fcc",
-      "label": "Člen v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a507273a394ad5db98b2",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2002-05-14"
-    },
-    {
       "end_date": "2001-11-27",
       "id": "54d2a55e273a394ad5db9fca",
       "label": "Člen v skupine Nezávislý",
@@ -44490,19 +44489,19 @@
       "start_date": "2001-09-16"
     },
     {
-      "end_date": "2002-09-21",
-      "id": "54d2a55f273a394ad5dba000",
-      "label": "Člen v skupine Klub PSNS",
-      "organization_id": "54d2a55f273a394ad5db9ff4",
+      "end_date": "2002-07-29",
+      "id": "54d2a55e273a394ad5db9fcc",
+      "label": "Člen v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
       "person_id": "54d2a507273a394ad5db98b2",
       "role": "member",
       "sources": [
         {
           "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=10"
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
         }
       ],
-      "start_date": "2002-07-29"
+      "start_date": "2002-05-14"
     },
     {
       "end_date": "2002-05-14",
@@ -44518,6 +44517,21 @@
         }
       ],
       "start_date": "2001-11-27"
+    },
+    {
+      "end_date": "2002-09-21",
+      "id": "54d2a55f273a394ad5dba000",
+      "label": "Člen v skupine Klub PSNS",
+      "organization_id": "54d2a55f273a394ad5db9ff4",
+      "person_id": "54d2a507273a394ad5db98b2",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=10"
+        }
+      ],
+      "start_date": "2002-07-29"
     },
     {
       "end_date": "2002-09-21",
@@ -46033,21 +46047,6 @@
       "start_date": "1998-10-29"
     },
     {
-      "end_date": "1998-10-30",
-      "id": "54d2a555273a394ad5db9e3c",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a553273a394ad5db9dba",
-      "person_id": "54d2a517273a394ad5db98d4",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
-        }
-      ],
-      "start_date": "1998-10-29"
-    },
-    {
       "end_date": "2002-09-21",
       "id": "54d2a555273a394ad5db9e3e",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -46061,6 +46060,21 @@
         }
       ],
       "start_date": "2000-05-29"
+    },
+    {
+      "end_date": "1998-10-30",
+      "id": "54d2a555273a394ad5db9e3c",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a553273a394ad5db9dba",
+      "person_id": "54d2a517273a394ad5db98d4",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=1"
+        }
+      ],
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2002-09-21",
@@ -46166,6 +46180,21 @@
       "start_date": "2005-06-09"
     },
     {
+      "end_date": "2005-03-02",
+      "id": "54d2a5ec273a394ad5dba294",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a51b273a394ad5db98da",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2005-01-27"
+    },
+    {
       "end_date": "2006-06-13",
       "id": "54d2a5ed273a394ad5dba2b4",
       "label": "Poslanec Národnej rady SR",
@@ -46196,23 +46225,8 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2005-03-02",
-      "id": "54d2a5ec273a394ad5dba294",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a51b273a394ad5db98da",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2005-01-27"
-    },
-    {
-      "end_date": "2005-03-02",
-      "id": "54d2a61a273a394ad5dba7ae",
+      "end_date": "2005-06-15",
+      "id": "54d2a61a273a394ad5dba7b0",
       "label": "Člen v skupine Klub ANO",
       "organization_id": "54d2a619273a394ad5dba76c",
       "person_id": "54d2a51b273a394ad5db98da",
@@ -46223,7 +46237,7 @@
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=18"
         }
       ],
-      "start_date": "2005-01-27"
+      "start_date": "2005-06-09"
     },
     {
       "end_date": "2002-10-24",
@@ -46241,8 +46255,8 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2005-06-15",
-      "id": "54d2a61a273a394ad5dba7b0",
+      "end_date": "2005-03-02",
+      "id": "54d2a61a273a394ad5dba7ae",
       "label": "Člen v skupine Klub ANO",
       "organization_id": "54d2a619273a394ad5dba76c",
       "person_id": "54d2a51b273a394ad5db98da",
@@ -46253,7 +46267,7 @@
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=18"
         }
       ],
-      "start_date": "2005-06-09"
+      "start_date": "2005-01-27"
     },
     {
       "end_date": "2006-06-13",
@@ -46316,8 +46330,8 @@
       "start_date": "1998-09-26"
     },
     {
-      "end_date": "2000-05-03",
-      "id": "54d2a557273a394ad5db9ea0",
+      "end_date": "2001-02-22",
+      "id": "54d2a557273a394ad5db9ea4",
       "label": "Člen v skupine Klub SDĽ",
       "organization_id": "54d2a556273a394ad5db9e4e",
       "person_id": "54d2a51d273a394ad5db98de",
@@ -46328,7 +46342,7 @@
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
         }
       ],
-      "start_date": "1998-10-29"
+      "start_date": "2001-01-16"
     },
     {
       "end_date": "2001-01-16",
@@ -46346,8 +46360,8 @@
       "start_date": "2000-05-03"
     },
     {
-      "end_date": "2001-02-22",
-      "id": "54d2a557273a394ad5db9ea4",
+      "end_date": "2000-05-03",
+      "id": "54d2a557273a394ad5db9ea0",
       "label": "Člen v skupine Klub SDĽ",
       "organization_id": "54d2a556273a394ad5db9e4e",
       "person_id": "54d2a51d273a394ad5db98de",
@@ -46358,7 +46372,7 @@
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=5"
         }
       ],
-      "start_date": "2001-01-16"
+      "start_date": "1998-10-29"
     },
     {
       "end_date": "2002-09-21",
@@ -46659,21 +46673,6 @@
       "start_date": "1999-10-19"
     },
     {
-      "end_date": "2002-07-29",
-      "id": "54d2a55e273a394ad5db9ff2",
-      "label": "Člen v skupine Nezávislý",
-      "organization_id": "54d2a55c273a394ad5db9f88",
-      "person_id": "54d2a523273a394ad5db98e8",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
-        }
-      ],
-      "start_date": "2002-05-14"
-    },
-    {
       "end_date": "2001-11-27",
       "id": "54d2a55e273a394ad5db9ff0",
       "label": "Člen v skupine Nezávislý",
@@ -46687,6 +46686,21 @@
         }
       ],
       "start_date": "2001-09-16"
+    },
+    {
+      "end_date": "2002-07-29",
+      "id": "54d2a55e273a394ad5db9ff2",
+      "label": "Člen v skupine Nezávislý",
+      "organization_id": "54d2a55c273a394ad5db9f88",
+      "person_id": "54d2a523273a394ad5db98e8",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=7"
+        }
+      ],
+      "start_date": "2002-05-14"
     },
     {
       "end_date": "2002-05-14",
@@ -46839,21 +46853,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2004-06-25",
-      "id": "54d2a61a273a394ad5dba7ba",
-      "label": "Predseda v skupine Klub nezávislých poslancov NR SR",
-      "organization_id": "54d2a61a273a394ad5dba7b6",
-      "person_id": "54d2a561273a394ad5dba026",
-      "role": "chairman",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=21"
-        }
-      ],
-      "start_date": "2004-06-14"
-    },
-    {
       "end_date": "2004-06-14",
       "id": "54d2a61a273a394ad5dba7b8",
       "label": "Podpredseda v skupine Klub nezávislých poslancov NR SR",
@@ -46867,6 +46866,21 @@
         }
       ],
       "start_date": "2003-02-25"
+    },
+    {
+      "end_date": "2004-06-25",
+      "id": "54d2a61a273a394ad5dba7ba",
+      "label": "Predseda v skupine Klub nezávislých poslancov NR SR",
+      "organization_id": "54d2a61a273a394ad5dba7b6",
+      "person_id": "54d2a561273a394ad5dba026",
+      "role": "chairman",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=21"
+        }
+      ],
+      "start_date": "2004-06-14"
     },
     {
       "end_date": "2006-06-16",
@@ -49857,20 +49871,6 @@
       "start_date": "2010-11-05"
     },
     {
-      "id": "54d2a864273a394ad5dbc54a",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a7e8273a394ad5dbc386",
-      "person_id": "54d2a577273a394ad5dba050",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2014-07-03"
-    },
-    {
       "id": "54d2a860273a394ad5dbc4f2",
       "label": "Poslanec Národnej rady SR",
       "organization_id": "54d2a7e8273a394ad5dbc386",
@@ -49883,6 +49883,20 @@
         }
       ],
       "start_date": "2012-04-04"
+    },
+    {
+      "id": "54d2a864273a394ad5dbc54a",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a7e8273a394ad5dbc386",
+      "person_id": "54d2a577273a394ad5dba050",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2014-07-03"
     },
     {
       "id": "54d2a87a273a394ad5dbc7a0",
@@ -50507,21 +50521,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2003-11-07",
-      "id": "54d2a618273a394ad5dba756",
-      "label": "Člen v skupine Klub KSS",
-      "organization_id": "54d2a618273a394ad5dba750",
-      "person_id": "54d2a579273a394ad5dba056",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=13"
-        }
-      ],
-      "start_date": "2002-10-15"
-    },
-    {
       "end_date": "2006-06-16",
       "id": "54d2a618273a394ad5dba758",
       "label": "Predseda v skupine Klub KSS",
@@ -50535,6 +50534,21 @@
         }
       ],
       "start_date": "2003-11-07"
+    },
+    {
+      "end_date": "2003-11-07",
+      "id": "54d2a618273a394ad5dba756",
+      "label": "Člen v skupine Klub KSS",
+      "organization_id": "54d2a618273a394ad5dba750",
+      "person_id": "54d2a579273a394ad5dba056",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=13"
+        }
+      ],
+      "start_date": "2002-10-15"
     },
     {
       "end_date": "2006-06-16",
@@ -52300,21 +52314,6 @@
       "start_date": "2002-11-19"
     },
     {
-      "end_date": "2003-09-09",
-      "id": "54d2a5ea273a394ad5dba25a",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a587273a394ad5dba06c",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2002-11-05"
-    },
-    {
       "end_date": "2006-06-17",
       "id": "54d2a5ea273a394ad5dba264",
       "label": "Poslanec Národnej rady SR",
@@ -52328,6 +52327,21 @@
         }
       ],
       "start_date": "2003-09-09"
+    },
+    {
+      "end_date": "2003-09-09",
+      "id": "54d2a5ea273a394ad5dba25a",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a587273a394ad5dba06c",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2002-11-05"
     },
     {
       "end_date": "2005-09-11",
@@ -52585,21 +52599,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2003-11-07",
-      "id": "54d2a618273a394ad5dba75c",
-      "label": "Predseda v skupine Klub KSS",
-      "organization_id": "54d2a618273a394ad5dba750",
-      "person_id": "54d2a589273a394ad5dba070",
-      "role": "chairman",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=13"
-        }
-      ],
-      "start_date": "2002-10-15"
-    },
-    {
       "end_date": "2004-07-19",
       "id": "54d2a618273a394ad5dba75e",
       "label": "Člen v skupine Klub KSS",
@@ -52613,6 +52612,21 @@
         }
       ],
       "start_date": "2003-11-07"
+    },
+    {
+      "end_date": "2003-11-07",
+      "id": "54d2a618273a394ad5dba75c",
+      "label": "Predseda v skupine Klub KSS",
+      "organization_id": "54d2a618273a394ad5dba750",
+      "person_id": "54d2a589273a394ad5dba070",
+      "role": "chairman",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=13"
+        }
+      ],
+      "start_date": "2002-10-15"
     },
     {
       "end_date": "2006-06-16",
@@ -55405,21 +55419,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2005-06-09",
-      "id": "54d2a5ec273a394ad5dba296",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a59f273a394ad5dba098",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2005-03-15"
-    },
-    {
       "end_date": "2006-04-05",
       "id": "54d2a5ed273a394ad5dba29e",
       "label": "Poslanec Národnej rady SR",
@@ -55435,6 +55434,21 @@
       "start_date": "2005-06-21"
     },
     {
+      "end_date": "2005-06-09",
+      "id": "54d2a5ec273a394ad5dba296",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a59f273a394ad5dba098",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2005-03-15"
+    },
+    {
       "end_date": "2006-06-17",
       "id": "54d2a5ee273a394ad5dba2b6",
       "label": "Poslanec Národnej rady SR",
@@ -55448,21 +55462,6 @@
         }
       ],
       "start_date": "2006-04-06"
-    },
-    {
-      "end_date": "2005-06-09",
-      "id": "54d2a619273a394ad5dba796",
-      "label": "Člen v skupine Klub ANO",
-      "organization_id": "54d2a619273a394ad5dba76c",
-      "person_id": "54d2a59f273a394ad5dba098",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=18"
-        }
-      ],
-      "start_date": "2005-03-15"
     },
     {
       "end_date": "2006-04-05",
@@ -55493,6 +55492,21 @@
         }
       ],
       "start_date": "2006-04-19"
+    },
+    {
+      "end_date": "2005-06-09",
+      "id": "54d2a619273a394ad5dba796",
+      "label": "Člen v skupine Klub ANO",
+      "organization_id": "54d2a619273a394ad5dba76c",
+      "person_id": "54d2a59f273a394ad5dba098",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=18"
+        }
+      ],
+      "start_date": "2005-03-15"
     },
     {
       "end_date": "2006-06-17",
@@ -55855,21 +55869,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2006-06-16",
-      "id": "54d2a615273a394ad5dba6e4",
-      "label": "Člen v skupine Klub SMK – MKP",
-      "organization_id": "54d2a614273a394ad5dba6b4",
-      "person_id": "54d2a5a2273a394ad5dba09e",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=17"
-        }
-      ],
-      "start_date": "2002-11-05"
-    },
-    {
       "end_date": "2002-10-16",
       "id": "54d2a615273a394ad5dba6e2",
       "label": "Člen v skupine Klub SMK – MKP",
@@ -55883,6 +55882,21 @@
         }
       ],
       "start_date": "2002-10-15"
+    },
+    {
+      "end_date": "2006-06-16",
+      "id": "54d2a615273a394ad5dba6e4",
+      "label": "Člen v skupine Klub SMK – MKP",
+      "organization_id": "54d2a614273a394ad5dba6b4",
+      "person_id": "54d2a5a2273a394ad5dba09e",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=17"
+        }
+      ],
+      "start_date": "2002-11-05"
     },
     {
       "end_date": "2006-06-16",
@@ -56255,21 +56269,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2002-10-16",
-      "id": "54d2a5e7273a394ad5dba1e4",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a5a4273a394ad5dba0a4",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2002-10-15"
-    },
-    {
       "end_date": "2006-06-17",
       "id": "54d2a5ed273a394ad5dba2ae",
       "label": "Poslanec Národnej rady SR",
@@ -56283,6 +56282,21 @@
         }
       ],
       "start_date": "2006-02-08"
+    },
+    {
+      "end_date": "2002-10-16",
+      "id": "54d2a5e7273a394ad5dba1e4",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a5a4273a394ad5dba0a4",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2002-10-15"
     },
     {
       "end_date": "2002-10-16",
@@ -57137,21 +57151,6 @@
       "start_date": "2002-10-15"
     },
     {
-      "end_date": "2003-09-24",
-      "id": "54d2a612273a394ad5dba664",
-      "label": "Členka v skupine Klub SDKÚ – DS",
-      "organization_id": "54d2a611273a394ad5dba63e",
-      "person_id": "54d2a5a9273a394ad5dba0b0",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=15"
-        }
-      ],
-      "start_date": "2002-10-15"
-    },
-    {
       "end_date": "2006-02-01",
       "id": "54d2a612273a394ad5dba666",
       "label": "Členka v skupine Klub SDKÚ – DS",
@@ -57165,6 +57164,21 @@
         }
       ],
       "start_date": "2003-10-21"
+    },
+    {
+      "end_date": "2003-09-24",
+      "id": "54d2a612273a394ad5dba664",
+      "label": "Členka v skupine Klub SDKÚ – DS",
+      "organization_id": "54d2a611273a394ad5dba63e",
+      "person_id": "54d2a5a9273a394ad5dba0b0",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=15"
+        }
+      ],
+      "start_date": "2002-10-15"
     },
     {
       "end_date": "2006-06-16",
@@ -58956,6 +58970,19 @@
       ]
     },
     {
+      "id": "55601b19273a3956dcbe2b64",
+      "label": "Člen v skupine Skupina priateľstva s Ruskou federáciou",
+      "organization_id": "54d2a892273a394ad5dbcb69",
+      "person_id": "54d2a5b3273a394ad5dba0c4",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/sp/sp&SkupinaId=86"
+        }
+      ]
+    },
+    {
       "end_date": "2006-06-17",
       "id": "54d2a5e8273a394ad5dba22a",
       "label": "Poslanec Národnej rady SR",
@@ -59121,21 +59148,6 @@
       "start_date": "2002-11-19"
     },
     {
-      "end_date": "2002-10-16",
-      "id": "54d2a5e8273a394ad5dba240",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a5b7273a394ad5dba0ca",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2002-10-15"
-    },
-    {
       "end_date": "2006-06-17",
       "id": "54d2a5ea273a394ad5dba268",
       "label": "Poslanec Národnej rady SR",
@@ -59149,6 +59161,21 @@
         }
       ],
       "start_date": "2003-09-10"
+    },
+    {
+      "end_date": "2002-10-16",
+      "id": "54d2a5e8273a394ad5dba240",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a5b7273a394ad5dba0ca",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2002-10-15"
     },
     {
       "end_date": "2002-10-16",
@@ -59665,21 +59692,6 @@
       "start_date": "2002-11-19"
     },
     {
-      "end_date": "2002-10-23",
-      "id": "54d2a5e7273a394ad5dba1f6",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a5ba273a394ad5dba0d2",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2002-10-15"
-    },
-    {
       "end_date": "2006-06-17",
       "id": "54d2a5ea273a394ad5dba26e",
       "label": "Poslanec Národnej rady SR",
@@ -59693,6 +59705,21 @@
         }
       ],
       "start_date": "2003-10-01"
+    },
+    {
+      "end_date": "2002-10-23",
+      "id": "54d2a5e7273a394ad5dba1f6",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a5ba273a394ad5dba0d2",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2002-10-15"
     },
     {
       "end_date": "2002-10-24",
@@ -60732,21 +60759,6 @@
       ]
     },
     {
-      "end_date": "2006-06-17",
-      "id": "54d2a5ed273a394ad5dba2a0",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a560273a394ad5dba024",
-      "person_id": "54d2a5c3273a394ad5dba0e0",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2005-08-25"
-    },
-    {
       "end_date": "2003-09-24",
       "id": "54d2a5e7273a394ad5dba208",
       "label": "Poslanec Národnej rady SR",
@@ -60760,6 +60772,21 @@
         }
       ],
       "start_date": "2002-10-15"
+    },
+    {
+      "end_date": "2006-06-17",
+      "id": "54d2a5ed273a394ad5dba2a0",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a560273a394ad5dba024",
+      "person_id": "54d2a5c3273a394ad5dba0e0",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2005-08-25"
     },
     {
       "end_date": "2003-09-24",
@@ -61692,21 +61719,6 @@
       "start_date": "2006-09-07"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6f7273a394ad5dbb468",
-      "label": "Predsedníčka v skupine Skupina priateľstva s Albánskom, Bosnou a Hercegovinou, Bulharskom, Chorvátskom, Srbskom a Čiernou horou, Macedónskom a Rumunskom",
-      "organization_id": "54d2a6f6273a394ad5dbb440",
-      "person_id": "54d2a5cf273a394ad5dba0ee",
-      "role": "chairwoman",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/sp/sp&SkupinaId=25"
-        }
-      ],
-      "start_date": "2009-09-17"
-    },
-    {
       "end_date": "2009-09-17",
       "id": "54d2a6f7273a394ad5dbb466",
       "label": "Členka v skupine Skupina priateľstva s Albánskom, Bosnou a Hercegovinou, Bulharskom, Chorvátskom, Srbskom a Čiernou horou, Macedónskom a Rumunskom",
@@ -61720,6 +61732,21 @@
         }
       ],
       "start_date": "2006-07-04"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6f7273a394ad5dbb468",
+      "label": "Predsedníčka v skupine Skupina priateľstva s Albánskom, Bosnou a Hercegovinou, Bulharskom, Chorvátskom, Srbskom a Čiernou horou, Macedónskom a Rumunskom",
+      "organization_id": "54d2a6f6273a394ad5dbb440",
+      "person_id": "54d2a5cf273a394ad5dba0ee",
+      "role": "chairwoman",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/sp/sp&SkupinaId=25"
+        }
+      ],
+      "start_date": "2009-09-17"
     },
     {
       "end_date": "2010-06-12",
@@ -62918,21 +62945,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2006-07-19",
-      "id": "54d2a6ec273a394ad5dbb2a0",
-      "label": "Člen v skupine Klub SMER – SD",
-      "organization_id": "54d2a6ea273a394ad5dbb212",
-      "person_id": "54d2a5d6273a394ad5dba0fc",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
-        }
-      ],
-      "start_date": "2006-07-04"
-    },
-    {
       "end_date": "2010-06-12",
       "id": "54d2a6ec273a394ad5dbb2a2",
       "label": "Člen v skupine Klub SMER – SD",
@@ -62946,6 +62958,21 @@
         }
       ],
       "start_date": "2006-11-09"
+    },
+    {
+      "end_date": "2006-07-19",
+      "id": "54d2a6ec273a394ad5dbb2a0",
+      "label": "Člen v skupine Klub SMER – SD",
+      "organization_id": "54d2a6ea273a394ad5dbb212",
+      "person_id": "54d2a5d6273a394ad5dba0fc",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
+        }
+      ],
+      "start_date": "2006-07-04"
     },
     {
       "end_date": "2012-03-10",
@@ -64996,21 +65023,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2006-11-08",
-      "id": "54d2a6c9273a394ad5dbaeb4",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a637273a394ad5dbac90",
-      "person_id": "54d2a640273a394ad5dbac9c",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2006-08-01"
-    },
-    {
       "end_date": "2010-06-12",
       "id": "54d2a6ca273a394ad5dbaec6",
       "label": "Poslanec Národnej rady SR",
@@ -65024,6 +65036,21 @@
         }
       ],
       "start_date": "2007-02-01"
+    },
+    {
+      "end_date": "2006-11-08",
+      "id": "54d2a6c9273a394ad5dbaeb4",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a637273a394ad5dbac90",
+      "person_id": "54d2a640273a394ad5dbac9c",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2006-08-01"
     },
     {
       "end_date": "2010-06-12",
@@ -67627,21 +67654,6 @@
       "start_date": "2009-04-28"
     },
     {
-      "end_date": "2006-07-05",
-      "id": "54d2a6ec273a394ad5dbb2ba",
-      "label": "Člen v skupine Klub SDKÚ – DS",
-      "organization_id": "54d2a6ec273a394ad5dbb2ac",
-      "person_id": "54d2a65a273a394ad5dbacc0",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=28"
-        }
-      ],
-      "start_date": "2006-07-04"
-    },
-    {
       "end_date": "2010-06-12",
       "id": "54d2a6ec273a394ad5dbb2bc",
       "label": "Člen v skupine Klub SDKÚ – DS",
@@ -67655,6 +67667,21 @@
         }
       ],
       "start_date": "2009-04-28"
+    },
+    {
+      "end_date": "2006-07-05",
+      "id": "54d2a6ec273a394ad5dbb2ba",
+      "label": "Člen v skupine Klub SDKÚ – DS",
+      "organization_id": "54d2a6ec273a394ad5dbb2ac",
+      "person_id": "54d2a65a273a394ad5dbacc0",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=28"
+        }
+      ],
+      "start_date": "2006-07-04"
     },
     {
       "end_date": "2012-03-10",
@@ -68165,21 +68192,6 @@
       "start_date": "2007-11-28"
     },
     {
-      "end_date": "2007-11-27",
-      "id": "54d2a6c9273a394ad5dbaeae",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a637273a394ad5dbac90",
-      "person_id": "54d2a65e273a394ad5dbacc8",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2006-08-01"
-    },
-    {
       "end_date": "2010-06-12",
       "id": "54d2a6cb273a394ad5dbaedc",
       "label": "Poslanec Národnej rady SR",
@@ -68195,19 +68207,19 @@
       "start_date": "2009-04-28"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6f2273a394ad5dbb3a0",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a6f2273a394ad5dbb394",
+      "end_date": "2007-11-27",
+      "id": "54d2a6c9273a394ad5dbaeae",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a637273a394ad5dbac90",
       "person_id": "54d2a65e273a394ad5dbacc8",
       "role": "member",
       "sources": [
         {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=25"
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
         }
       ],
-      "start_date": "2009-04-28"
+      "start_date": "2006-08-01"
     },
     {
       "end_date": "2007-11-27",
@@ -68223,6 +68235,21 @@
         }
       ],
       "start_date": "2006-08-01"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6f2273a394ad5dbb3a0",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a6f2273a394ad5dbb394",
+      "person_id": "54d2a65e273a394ad5dbacc8",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=25"
+        }
+      ],
+      "start_date": "2009-04-28"
     },
     {
       "end_date": "2008-08-18",
@@ -68465,21 +68492,6 @@
       "start_date": "2007-05-10"
     },
     {
-      "end_date": "2008-08-26",
-      "id": "54d2a6ea273a394ad5dbb242",
-      "label": "Člen v skupine Klub SMER – SD",
-      "organization_id": "54d2a6ea273a394ad5dbb212",
-      "person_id": "54d2a661273a394ad5dbaccc",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
-        }
-      ],
-      "start_date": "2007-05-10"
-    },
-    {
       "end_date": "2010-06-12",
       "id": "54d2a6ea273a394ad5dbb244",
       "label": "Člen v skupine Klub SMER – SD",
@@ -68493,6 +68505,21 @@
         }
       ],
       "start_date": "2008-08-26"
+    },
+    {
+      "end_date": "2008-08-26",
+      "id": "54d2a6ea273a394ad5dbb242",
+      "label": "Člen v skupine Klub SMER – SD",
+      "organization_id": "54d2a6ea273a394ad5dbb212",
+      "person_id": "54d2a661273a394ad5dbaccc",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
+        }
+      ],
+      "start_date": "2007-05-10"
     },
     {
       "end_date": "2010-06-12",
@@ -68764,21 +68791,6 @@
       "start_date": "2008-09-09"
     },
     {
-      "end_date": "2009-05-20",
-      "id": "54d2a6ef273a394ad5dbb33a",
-      "label": "Člen v skupine Klub SNS",
-      "organization_id": "54d2a6ef273a394ad5dbb326",
-      "person_id": "54d2a665273a394ad5dbacd2",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=29"
-        }
-      ],
-      "start_date": "2008-09-09"
-    },
-    {
       "end_date": "2010-06-12",
       "id": "54d2a6ef273a394ad5dbb33c",
       "label": "Člen v skupine Klub SNS",
@@ -68792,6 +68804,21 @@
         }
       ],
       "start_date": "2009-05-20"
+    },
+    {
+      "end_date": "2009-05-20",
+      "id": "54d2a6ef273a394ad5dbb33a",
+      "label": "Člen v skupine Klub SNS",
+      "organization_id": "54d2a6ef273a394ad5dbb326",
+      "person_id": "54d2a665273a394ad5dbacd2",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=29"
+        }
+      ],
+      "start_date": "2008-09-09"
     },
     {
       "end_date": "2006-07-05",
@@ -68824,21 +68851,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2010-10-12",
-      "id": "54d2a79f273a394ad5dbba66",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a70d273a394ad5dbb870",
-      "person_id": "54d2a665273a394ad5dbacd4",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2010-07-09"
-    },
-    {
       "end_date": "2012-03-10",
       "id": "54d2a7a0273a394ad5dbba6e",
       "label": "Poslanec Národnej rady SR",
@@ -68852,6 +68864,21 @@
         }
       ],
       "start_date": "2010-10-12"
+    },
+    {
+      "end_date": "2010-10-12",
+      "id": "54d2a79f273a394ad5dbba66",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a70d273a394ad5dbb870",
+      "person_id": "54d2a665273a394ad5dbacd4",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2010-07-09"
     },
     {
       "end_date": "2012-03-10",
@@ -69435,21 +69462,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6f2273a394ad5dbb3a4",
-      "label": "Člen v skupine Klub ĽS – HZDS",
-      "organization_id": "54d2a6f2273a394ad5dbb394",
-      "person_id": "54d2a669273a394ad5dbacda",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=25"
-        }
-      ],
-      "start_date": "2007-11-27"
-    },
-    {
       "end_date": "2006-07-05",
       "id": "54d2a6f2273a394ad5dbb3a2",
       "label": "Člen v skupine Klub ĽS – HZDS",
@@ -69463,6 +69475,21 @@
         }
       ],
       "start_date": "2006-07-04"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6f2273a394ad5dbb3a4",
+      "label": "Člen v skupine Klub ĽS – HZDS",
+      "organization_id": "54d2a6f2273a394ad5dbb394",
+      "person_id": "54d2a669273a394ad5dbacda",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=25"
+        }
+      ],
+      "start_date": "2007-11-27"
     },
     {
       "end_date": "2006-07-05",
@@ -69750,21 +69777,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6ca273a394ad5dbaec4",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a637273a394ad5dbac90",
-      "person_id": "54d2a670273a394ad5dbace6",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2007-02-01"
-    },
-    {
       "end_date": "2007-02-01",
       "id": "54d2a6c9273a394ad5dbaea8",
       "label": "Poslanec Národnej rady SR",
@@ -69781,15 +69793,15 @@
     },
     {
       "end_date": "2010-06-12",
-      "id": "54d2a6eb273a394ad5dbb256",
-      "label": "Členka v skupine Klub SMER – SD",
-      "organization_id": "54d2a6ea273a394ad5dbb212",
+      "id": "54d2a6ca273a394ad5dbaec4",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a637273a394ad5dbac90",
       "person_id": "54d2a670273a394ad5dbace6",
       "role": "member",
       "sources": [
         {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
         }
       ],
       "start_date": "2007-02-01"
@@ -69808,6 +69820,21 @@
         }
       ],
       "start_date": "2006-08-01"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6eb273a394ad5dbb256",
+      "label": "Členka v skupine Klub SMER – SD",
+      "organization_id": "54d2a6ea273a394ad5dbb212",
+      "person_id": "54d2a670273a394ad5dbace6",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
+        }
+      ],
+      "start_date": "2007-02-01"
     },
     {
       "end_date": "2010-06-12",
@@ -71409,21 +71436,6 @@
       ]
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6cb273a394ad5dbaee2",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a637273a394ad5dbac90",
-      "person_id": "54d2a67c273a394ad5dbacfa",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2009-07-15"
-    },
-    {
       "end_date": "2009-07-15",
       "id": "54d2a6c9273a394ad5dbaea0",
       "label": "Poslanec Národnej rady SR",
@@ -71437,6 +71449,21 @@
         }
       ],
       "start_date": "2006-08-01"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6cb273a394ad5dbaee2",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a637273a394ad5dbac90",
+      "person_id": "54d2a67c273a394ad5dbacfa",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2009-07-15"
     },
     {
       "end_date": "2009-07-15",
@@ -71544,21 +71571,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6ca273a394ad5dbaeca",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a637273a394ad5dbac90",
-      "person_id": "54d2a67d273a394ad5dbacfc",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2007-05-09"
-    },
-    {
       "end_date": "2007-05-09",
       "id": "54d2a6c9273a394ad5dbae9e",
       "label": "Poslanec Národnej rady SR",
@@ -71572,6 +71584,21 @@
         }
       ],
       "start_date": "2006-08-01"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6ca273a394ad5dbaeca",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a637273a394ad5dbac90",
+      "person_id": "54d2a67d273a394ad5dbacfc",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2007-05-09"
     },
     {
       "end_date": "2010-06-12",
@@ -72820,20 +72847,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "id": "54fe891d273a396696895180",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a7e8273a394ad5dbc386",
-      "person_id": "54d2a683273a394ad5dbad08",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2015-03-06"
-    },
-    {
       "id": "54d2a861273a394ad5dbc512",
       "label": "Poslanec Národnej rady SR",
       "organization_id": "54d2a7e8273a394ad5dbc386",
@@ -72846,6 +72859,20 @@
         }
       ],
       "start_date": "2012-04-04"
+    },
+    {
+      "id": "54fe891d273a396696895180",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a7e8273a394ad5dbc386",
+      "person_id": "54d2a683273a394ad5dbad08",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2015-03-06"
     },
     {
       "id": "54d2a87c273a394ad5dbc7ee",
@@ -73384,21 +73411,6 @@
       "start_date": "2006-07-04"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6f3273a394ad5dbb3d6",
-      "label": "Vedúca v skupine Stála delegácia NR SR v Parlamentnom zhromaždení Rady Európy",
-      "organization_id": "54d2a6f2273a394ad5dbb3c0",
-      "person_id": "54d2a68d273a394ad5dbad10",
-      "role": "chairwoman",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/delegacie/delegacia&ID=19"
-        }
-      ],
-      "start_date": "2009-06-17"
-    },
-    {
       "end_date": "2009-06-17",
       "id": "54d2a6f3273a394ad5dbb3d4",
       "label": "Členka v skupine Stála delegácia NR SR v Parlamentnom zhromaždení Rady Európy",
@@ -73412,6 +73424,21 @@
         }
       ],
       "start_date": "2007-06-20"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6f3273a394ad5dbb3d6",
+      "label": "Vedúca v skupine Stála delegácia NR SR v Parlamentnom zhromaždení Rady Európy",
+      "organization_id": "54d2a6f2273a394ad5dbb3c0",
+      "person_id": "54d2a68d273a394ad5dbad10",
+      "role": "chairwoman",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/delegacie/delegacia&ID=19"
+        }
+      ],
+      "start_date": "2009-06-17"
     },
     {
       "end_date": "2010-06-12",
@@ -74184,20 +74211,6 @@
       "start_date": "2010-11-05"
     },
     {
-      "id": "554b0004273a395cd1919cb0",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a7e8273a394ad5dbc386",
-      "person_id": "54d2a694273a394ad5dbad16",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2015-05-06"
-    },
-    {
       "id": "54d2a85d273a394ad5dbc43c",
       "label": "Poslanec Národnej rady SR",
       "organization_id": "54d2a7e8273a394ad5dbc386",
@@ -74210,6 +74223,20 @@
         }
       ],
       "start_date": "2012-04-04"
+    },
+    {
+      "id": "554b0004273a395cd1919cb0",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a7e8273a394ad5dbc386",
+      "person_id": "54d2a694273a394ad5dbad16",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2015-05-06"
     },
     {
       "id": "554b002c273a395cd1919cb9",
@@ -74465,20 +74492,6 @@
       "start_date": "2010-11-05"
     },
     {
-      "id": "54d2a864273a394ad5dbc54e",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a7e8273a394ad5dbc386",
-      "person_id": "54d2a695273a394ad5dbad18",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2014-11-25"
-    },
-    {
       "id": "54d2a85d273a394ad5dbc438",
       "label": "Poslanec Národnej rady SR",
       "organization_id": "54d2a7e8273a394ad5dbc386",
@@ -74491,6 +74504,20 @@
         }
       ],
       "start_date": "2012-04-04"
+    },
+    {
+      "id": "54d2a864273a394ad5dbc54e",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a7e8273a394ad5dbc386",
+      "person_id": "54d2a695273a394ad5dbad18",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2014-11-25"
     },
     {
       "id": "54d2a87c273a394ad5dbc7fe",
@@ -76239,21 +76266,6 @@
       "start_date": "2008-08-26"
     },
     {
-      "end_date": "2010-06-12",
-      "id": "54d2a6eb273a394ad5dbb28e",
-      "label": "Členka v skupine Klub SMER – SD",
-      "organization_id": "54d2a6ea273a394ad5dbb212",
-      "person_id": "54d2a69f273a394ad5dbad2e",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
-        }
-      ],
-      "start_date": "2008-08-26"
-    },
-    {
       "end_date": "2008-08-26",
       "id": "54d2a6eb273a394ad5dbb28c",
       "label": "Členka v skupine Klub SMER – SD",
@@ -76267,6 +76279,21 @@
         }
       ],
       "start_date": "2006-08-01"
+    },
+    {
+      "end_date": "2010-06-12",
+      "id": "54d2a6eb273a394ad5dbb28e",
+      "label": "Členka v skupine Klub SMER – SD",
+      "organization_id": "54d2a6ea273a394ad5dbb212",
+      "person_id": "54d2a69f273a394ad5dbad2e",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=26"
+        }
+      ],
+      "start_date": "2008-08-26"
     },
     {
       "end_date": "2012-03-10",
@@ -84913,21 +84940,6 @@
       "start_date": "2010-07-08"
     },
     {
-      "end_date": "2010-10-11",
-      "id": "54d2a7ca273a394ad5dbbeb0",
-      "label": "Člen v skupine Klub SaS",
-      "organization_id": "54d2a7c9273a394ad5dbbe84",
-      "person_id": "54d2a77c273a394ad5dbb8e2",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=34"
-        }
-      ],
-      "start_date": "2010-07-08"
-    },
-    {
       "end_date": "2012-03-10",
       "id": "54d2a7ca273a394ad5dbbeb2",
       "label": "Podpredseda v skupine Klub SaS",
@@ -84941,6 +84953,21 @@
         }
       ],
       "start_date": "2010-10-11"
+    },
+    {
+      "end_date": "2010-10-11",
+      "id": "54d2a7ca273a394ad5dbbeb0",
+      "label": "Člen v skupine Klub SaS",
+      "organization_id": "54d2a7c9273a394ad5dbbe84",
+      "person_id": "54d2a77c273a394ad5dbb8e2",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=34"
+        }
+      ],
+      "start_date": "2010-07-08"
     },
     {
       "end_date": "2012-03-10",
@@ -85288,21 +85315,6 @@
       "start_date": "2010-07-08"
     },
     {
-      "end_date": "2012-03-10",
-      "id": "54d2a7ca273a394ad5dbbeb8",
-      "label": "Člen v skupine Klub SaS",
-      "organization_id": "54d2a7c9273a394ad5dbbe84",
-      "person_id": "54d2a77f273a394ad5dbb8ea",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=34"
-        }
-      ],
-      "start_date": "2010-10-11"
-    },
-    {
       "end_date": "2010-10-11",
       "id": "54d2a7ca273a394ad5dbbeb6",
       "label": "Predseda v skupine Klub SaS",
@@ -85316,6 +85328,21 @@
         }
       ],
       "start_date": "2010-07-08"
+    },
+    {
+      "end_date": "2012-03-10",
+      "id": "54d2a7ca273a394ad5dbbeb8",
+      "label": "Člen v skupine Klub SaS",
+      "organization_id": "54d2a7c9273a394ad5dbbe84",
+      "person_id": "54d2a77f273a394ad5dbb8ea",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=34"
+        }
+      ],
+      "start_date": "2010-10-11"
     },
     {
       "end_date": "2012-03-10",
@@ -85646,21 +85673,6 @@
       "start_date": "2010-07-08"
     },
     {
-      "end_date": "2010-07-09",
-      "id": "54d2a7c7273a394ad5dbbe3c",
-      "label": "Člen v skupine Klub MOST-HÍD",
-      "organization_id": "54d2a7c6273a394ad5dbbe22",
-      "person_id": "54d2a785273a394ad5dbb8f2",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Profil na webe NRSR",
-          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=35"
-        }
-      ],
-      "start_date": "2010-07-08"
-    },
-    {
       "end_date": "2012-03-10",
       "id": "54d2a7c7273a394ad5dbbe3e",
       "label": "Člen v skupine Klub MOST-HÍD",
@@ -85674,6 +85686,21 @@
         }
       ],
       "start_date": "2010-10-12"
+    },
+    {
+      "end_date": "2010-07-09",
+      "id": "54d2a7c7273a394ad5dbbe3c",
+      "label": "Člen v skupine Klub MOST-HÍD",
+      "organization_id": "54d2a7c6273a394ad5dbbe22",
+      "person_id": "54d2a785273a394ad5dbb8f2",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=35"
+        }
+      ],
+      "start_date": "2010-07-08"
     },
     {
       "id": "54d2a85c273a394ad5dbc408",
@@ -87197,20 +87224,6 @@
       ]
     },
     {
-      "id": "54d2a863273a394ad5dbc528",
-      "label": "Poslanec Národnej rady SR",
-      "organization_id": "54d2a7e8273a394ad5dbc386",
-      "person_id": "54d2a7ee273a394ad5dbc38e",
-      "role": "member",
-      "sources": [
-        {
-          "note": "Zmeny v poslaneckom zbore na webe NRSR",
-          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
-        }
-      ],
-      "start_date": "2012-04-17"
-    },
-    {
       "id": "54d2a861273a394ad5dbc514",
       "label": "Poslanec Národnej rady SR",
       "organization_id": "54d2a7e8273a394ad5dbc386",
@@ -87223,6 +87236,20 @@
         }
       ],
       "start_date": "2012-04-04"
+    },
+    {
+      "id": "54d2a863273a394ad5dbc528",
+      "label": "Poslanec Národnej rady SR",
+      "organization_id": "54d2a7e8273a394ad5dbc386",
+      "person_id": "54d2a7ee273a394ad5dbc38e",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Zmeny v poslaneckom zbore na webe NRSR",
+          "url": "http://www.nrsr.sk/web/default.aspx?sid=poslanci/zmeny"
+        }
+      ],
+      "start_date": "2012-04-17"
     },
     {
       "id": "54d2a87a273a394ad5dbc796",
@@ -89534,6 +89561,19 @@
         {
           "note": "Profil na webe NRSR",
           "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/klub&ID=41"
+        }
+      ]
+    },
+    {
+      "id": "55601b18273a3956dcbe2b62",
+      "label": "Členka v skupine Skupina priateľstva s Ruskou federáciou",
+      "organization_id": "54d2a892273a394ad5dbcb69",
+      "person_id": "54d2a823273a394ad5dbc3bc",
+      "role": "member",
+      "sources": [
+        {
+          "note": "Profil na webe NRSR",
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=eu/sp/sp&SkupinaId=86"
         }
       ]
     },

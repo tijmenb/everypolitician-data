@@ -1987,6 +1987,13 @@
       "sort_name": "Baftija VV Besa"
     },
     {
+      "family_name": "Baftiu VV",
+      "given_name": "Besa",
+      "id": "mp_BesaBaftiuVv",
+      "name": "Besa Baftiu VV",
+      "sort_name": "Baftiu VV Besa"
+    },
+    {
       "changes": [
         {
           "end_date": "2015-03-15",
@@ -11048,6 +11055,13 @@
       "id": "mp_SelvijeHalimiPdk",
       "name": "Selvije Halimi PDK",
       "sort_name": "Halimi PDK Selvije"
+    },
+    {
+      "family_name": "Popovic SL",
+      "given_name": "Serdjan",
+      "id": "mp_SerdjanPopovicSl",
+      "name": "Serdjan Popovic SL",
+      "sort_name": "Popovic SL Serdjan"
     },
     {
       "family_name": "Popović",
@@ -29828,6 +29842,40 @@
       ]
     },
     {
+      "id": "chamber_2014-07-17-mp_Müferaªinik",
+      "label": "MP",
+      "legislative_period_id": "chamber_2014-07-17",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "mp_Müferaªinik",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,102"
+        },
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,102,869"
+        }
+      ]
+    },
+    {
+      "id": "chamber_2014-07-17-mp_Müferaªinik",
+      "label": "MP",
+      "legislative_period_id": "chamber_2014-07-17",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "mp_Müferaªinik",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,102"
+        },
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,102,869"
+        }
+      ]
+    },
+    {
       "end_date": "2014-05-07",
       "id": "parliamentary_group_41-mp_Müferaªinik",
       "label": "MP",
@@ -45699,6 +45747,118 @@
         }
       ],
       "start_date": "2015-04-27T10:00:00"
+    },
+    {
+      "id": "event_5927",
+      "name": "Plenarna sednica",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5927"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans_s_2015_05_06_10_5927_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-06T10:00:00"
+    },
+    {
+      "id": "event_5932",
+      "name": "Javna rasprava",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5932"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans__2015_05_13_13_5932_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-13T13:00:00"
+    },
+    {
+      "id": "event_5937",
+      "name": "Plenarna sednica",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5937"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans_s_2015_05_15_10_5937_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-15T10:00:00"
+    },
+    {
+      "id": "event_5938",
+      "name": "Plenarna sednica",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5938"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans_s_2015_05_18_10_5938_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-18T10:00:00"
+    },
+    {
+      "id": "event_5938",
+      "name": "Plenarna sednica",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5938"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans_s_2015_05_18_10_5938_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-18T10:00:00"
+    },
+    {
+      "id": "event_5954",
+      "name": "Plenarna sednica",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5954"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans_s_2015_05_21_10_5954_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-21T10:00:00"
+    },
+    {
+      "id": "event_5973",
+      "name": "Plenarna sednica",
+      "organization_id": "chamber_2014-07-17",
+      "sources": [
+        {
+          "note": "webpage",
+          "url": "http://www.kuvendikosoves.org/?cid=3,177,5973"
+        },
+        {
+          "note": "transcript",
+          "url": "http://www.kuvendikosoves.org/common/docs/proc/trans_s_2015_05_28_10_5973_sr.pdf"
+        }
+      ],
+      "start_date": "2015-05-28T10:00:00"
     }
   ]
 }
