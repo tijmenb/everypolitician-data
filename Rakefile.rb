@@ -18,7 +18,7 @@ end
 end
 
 task :regenerate, :country do |_t, args|
-  country = args[:country] || abort 'Need a country'
+  country = args[:country] || abort('Need a country')
   Dir.chdir country[:path] do
     sh 'rake rebuild'
   end
