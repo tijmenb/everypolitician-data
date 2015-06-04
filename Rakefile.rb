@@ -52,16 +52,3 @@ task :publish do
   end
 end
 
-desc "Install data locally"
-task :install, :target_dir do |t, args|
-  target_dir = args[:target_dir] || ENV['PVS_SOURCE_DIR'] || "../popolo-viewer-sinatra"
-  raise "No /src in #{target_dir}" unless Dir.exist? "#{target_dir}/src/"
-  @COUNTRIES.each do |country| 
-    unless File.exist? "#{country[:path]}/WIP"
-      cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{country[:path]}/final.json > #{target_dir}/src/#{country[:name]}.src"
-      warn cmd
-      system(cmd)
-    end
-  end
-end
-
