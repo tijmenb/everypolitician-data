@@ -32,23 +32,13 @@ end
 
 
 ISO = IsoCountryCodes.for_select
-ISO_REMAP = { 
-  'Congo-Brazzaville' => 'CG',
-  'Kosovo' => 'XK',
-  'UK' => 'GB',
-  'Scotland' => 'GB-SCT',
-  'Wales' => 'GB-WLS',
-  'Northern Ireland' => 'GB-NIR',
-}
 
 def name_to_iso_code(name)
-  if code = ISO_REMAP[name]
-    return code
-  elsif code = ISO.find { |iname, _| iname == name }
+  if code = ISO.find { |iname, _| iname == name }
     return code.last
   elsif code = ISO.find { |iname, _| iname.start_with? name }
     return code.last
-  else 
+  else
     raise "Can't find country code for #{name}"
   end
 end
@@ -56,15 +46,20 @@ end
 
 desc "Install country-list locally"
 task 'countries.json' do 
-  data = @COUNTRIES.reject { |c| File.exist? "#{c[:path]}/WIP" }.map do |country| 
-    name = country[:name].tr('_', ' ')
-    popolo = country[:path] + '/final.json'
-    cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{popolo}"
+
+  data = @COUNTRIES.reject { |c| File.exist? c[:path] + '/WIP' }.map do |c| 
+    meta_file = c[:path] + "/meta.json"
+    json_file = c[:path] + "/final.json"
+
+    name = c[:name].tr('_', ' ')
+    cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{json_file}"
     (sha, lastmod) = %x(#{cmd}).chomp.split('|')
+    meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
+
     {
       country: name,
-      code: name_to_iso_code(name),
-      popolo: popolo,
+      code: meta['iso_code'] || name_to_iso_code(name),
+      popolo: json_file,
       lastmod: lastmod,
       sha: sha,
     }
