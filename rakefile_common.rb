@@ -124,8 +124,7 @@ namespace :transform do
   task :write => :ensure_term
 
   def extra_termdata
-    @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
-
+    @TERMFILE ||= 'sources/terms.csv' if File.exists? 'sources/terms.csv'
     if @TERMFILE 
       @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
         {

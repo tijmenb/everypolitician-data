@@ -5,4 +5,3 @@ require_relative '../../rakefile_morph.rb'
   name: 'Grand National Assembly',
   seats: 550,
 }
-@TERMFILE = 'terms.csv'
