@@ -124,6 +124,7 @@ namespace :transform do
   task :write => :ensure_term
 
   def extra_termdata
+    @TERMFILE ||= 'sources/terms.csv' if File.exists? 'sources/terms.csv'
     @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
 
     if @TERMFILE 
