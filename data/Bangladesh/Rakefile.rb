@@ -5,4 +5,3 @@ require_relative '../../rakefile_morph.rb'
   name: 'Jatiyo Sangshad',
   seats: 350,
 }
-@TERMFILE = 'terms.csv'
