@@ -125,8 +125,6 @@ namespace :transform do
 
   def extra_termdata
     @TERMFILE ||= 'sources/terms.csv' if File.exists? 'sources/terms.csv'
-    @TERMFILE ||= 'terms.csv' if File.exists? 'terms.csv'
-
     if @TERMFILE 
       @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
         {
