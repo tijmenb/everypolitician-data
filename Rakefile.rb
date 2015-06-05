@@ -57,6 +57,7 @@ task 'countries.json' do
     {
       country: name,
       code: meta['iso_code'] || name_to_iso_code(name),
+      sources_directory: "data/#{name}/sources",
       popolo: json_file,
       lastmod: lastmod,
       sha: sha
