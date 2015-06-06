@@ -2,6 +2,7 @@ require_relative 'rakefile_common.rb'
 
 require 'erb'
 require 'csv_to_popolo'
+require 'fileutils'
 
 def morph_select(qs)
   morph_api_key = ENV['MORPH_API_KEY'] or raise "Need a Morph API key"
@@ -20,8 +21,10 @@ namespace :raw do
 
   @DEFAULT_MORPH_TERM_QUERY = 'SELECT * FROM terms'
   file 'morph.csv' => :get_terms
+
   task :get_terms do
     if @MORPH_TERMS
+      FileUtils.mkpath 'sources'
       File.write('sources/terms.csv', morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
     end
   end
