@@ -23,12 +23,12 @@ namespace :raw do
   FileUtils.mkpath @SOURCE_DIR
 
   file @MORPH_DATA_FILE do
-    File.write(@MORPH_DATA_FILE, morph_select(@MORPH_QUERY || @DEFAULT_MORPH_DATA_QUERY))
+    File.write(@MORPH_DATA_FILE, morph_select(@MORPH_QUERY || @DEFAULT_MORPH_DATA_QUERY)) unless File.exist? @MORPH_DATA_FILE
   end
 
   file @MORPH_DATA_FILE => :get_terms
   task :get_terms do
-    if @MORPH_TERMS
+    if @MORPH_TERMS and not File.exist? @MORPH_TERM_FILE
       File.write(@MORPH_TERM_FILE, morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
     end
   end
