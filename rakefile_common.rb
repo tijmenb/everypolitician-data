@@ -124,11 +124,9 @@ namespace :transform do
   task :write => :ensure_term
 
   def extra_termdata
-    @TERMFILES = Dir.glob("sources/**/terms.csv")
-    raise "Too many Termfiles [#{@TERMFILES}]" if @TERMFILES.count > 1
-
-    if @TERMFILES.count == 1
-      @TERMS = CSV.read(@TERMFILES.first, headers:true).map do |row|
+    @TERMFILE ||= 'sources/terms.csv' if File.exists? 'sources/terms.csv'
+    if @TERMFILE 
+      @TERMS = CSV.read(@TERMFILE, headers:true).map do |row|
         {
           id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
           name: row['name'],
