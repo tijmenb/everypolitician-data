@@ -43,7 +43,7 @@ id,name,party,district,website,email,twitter
 1785,Irwin Cotler,Liberal,Mount Royal,,irwin.cotler@parl.gc.ca,https://twitter.com/IrwinCotler
 1787,Judy Sgro,Liberal,York West,http://www.judysgro.ca,judy.sgro@parl.gc.ca,https://twitter.com/JudySgroMP
 1795,David Anderson,Conservative,Cypress Hills—Grasslands,http://www.davidanderson.ca,david.anderson@parl.gc.ca,https://twitter.com/DavidAndersonSK
-1803,Joe Comartin,NDP,Windsor—Tecumseh,http://www.joecomartin.ndp.ca,joe.comartin@parl.gc.ca,https://twitter.com/joecomartin
+1803,Joe Comartin,NDP,Windsor—Tecumseh,http://www.joecomartin.ca,joe.comartin@parl.gc.ca,https://twitter.com/joecomartin
 1804,Rodger Cuzner,Liberal,Cape Breton—Canso,http://rodgercuzner.liberal.ca,rodger.cuzner@parl.gc.ca,https://twitter.com/RodgerCuzner
 1806,Mark Eyking,Liberal,Sydney—Victoria,http://markeyking.liberal.ca,mark.eyking@parl.gc.ca,https://twitter.com/MarkEyking_MP
 1809,Cheryl Gallant,Conservative,Renfrew—Nipissing—Pembroke,http://www.cherylgallant.com,cheryl.gallant@parl.gc.ca,https://twitter.com/cherylgallant
@@ -72,7 +72,7 @@ id,name,party,district,website,email,twitter
 23897,Russ Hiebert,Conservative,South Surrey—White Rock—Cloverdale,http://www.russhiebert.ca,russ.hiebert@parl.gc.ca,https://twitter.com/HiebertRuss
 23915,Guy Caron,NDP,Rimouski-Neigette—Témiscouata—Les Basques,,Guy.Caron@parl.gc.ca,https://twitter.com/GuyCaronNPD
 25446,Dean Allison,Conservative,Niagara West—Glanbrook,http://www.deanallison.ca,dean.allison@parl.gc.ca,https://twitter.com/DeanAllisonMP
-25447,Rona Ambrose,Conservative,Edmonton—Spruce Grove,http://www.ronaambrose.com,rona.ambrose@parl.gc.ca,https://twitter.com/MinRonaAmbrose
+25447,Rona Ambrose,Conservative,Edmonton—Spruce Grove,http://www.ronaambrose.com,rona.ambrose@parl.gc.ca,https://twitter.com/RonaAmbrose
 25448,Joe Preston,Conservative,Elgin—Middlesex—London,http://www.joeprestonmp.ca,joe.preston@parl.gc.ca,https://twitter.com/Joe_Preston
 25453,Francis Scarpaleggia,Liberal,Lac-Saint-Louis,,francis.scarpaleggia@parl.gc.ca,https://twitter.com/ScarpaleggiaLSL
 25454,Andrew Scheer,Conservative,Regina—Qu'Appelle,http://www.andrewmp.ca,andrew.scheer@parl.gc.ca,https://twitter.com/andrewscheer
@@ -104,7 +104,7 @@ id,name,party,district,website,email,twitter
 25523,Gordon O'Connor,Conservative,Carleton—Mississippi Mills,http://www.gordonoconnor.ca,gordon.oconnor@parl.gc.ca,
 25524,Pierre Poilievre,Conservative,Nepean—Carleton,http://pierremp.ca,pierre.poilievre@parl.gc.ca,https://twitter.com/PierrePoilievre
 25533,Joy Smith,Conservative,Kildonan—St. Paul,http://www.joysmith.ca,joy.smith@parl.gc.ca,https://twitter.com/MPJoySmith
-26684,Thomas Mulcair,NDP,Outremont,,thomas.mulcair@parl.gc.ca,
+26684,Thomas Mulcair,NDP,Outremont,,thomas.mulcair@parl.gc.ca,https://twitter.com/ThomasMulcair
 29881,Philip Toone,NDP,Gaspésie—Îles-de-la-Madeleine,,Philip.Toone@parl.gc.ca,
 30314,Brad Butt,Conservative,Mississauga—Streetsville,http://www.bradbuttmp.ca,Brad.Butt@parl.gc.ca,https://twitter.com/BradButtMP
 30338,Rick Norlock,Conservative,Northumberland—Quinte West,http://www.ricknorlock.ca,rick.norlock@parl.gc.ca,https://twitter.com/RickNorlock
@@ -113,7 +113,7 @@ id,name,party,district,website,email,twitter
 30467,John Rafferty,NDP,Thunder Bay—Rainy River,http://www.johnrafferty.ndp.ca,john.rafferty@parl.gc.ca,https://twitter.com/JohnRaffertyMP
 30503,Chungsen Leung,Conservative,Willowdale,http://www.chungsenleung.ca,Chungsen.Leung@parl.gc.ca,https://twitter.com/csleungmp
 30552,Kevin Lamoureux,Liberal,Winnipeg North,http://www.mpkevin.ca,kevin.lamoureux@parl.gc.ca,https://twitter.com/Kevin_Lamoureux
-30645,Tim Uppal,Conservative,Edmonton—Sherwood Park,http://www.timuppal.ca,tim.uppal@parl.gc.ca,https://twitter.com/MinTimUppal
+30645,Tim Uppal,Conservative,Edmonton—Sherwood Park,http://www.timuppal.ca,tim.uppal@parl.gc.ca,https://twitter.com/TimUppal
 30812,Alice Wong,Conservative,Richmond,http://www.alicewong.ca,alice.wong@parl.gc.ca,
 30836,Dennis Bevington,NDP,Northwest Territories,http://www.dennisbevington.ca,dennis.bevington@parl.gc.ca,https://twitter.com/nwtdennis
 30892,Mike Allen,Conservative,Tobique—Mactaquac,http://www.mikeallen.ca,mike.allen@parl.gc.ca,https://twitter.com/mpmikea
@@ -263,7 +263,7 @@ id,name,party,district,website,email,twitter
 71553,Pierre-Luc Dusseault,NDP,Sherbrooke,,Pierre-Luc.Dusseault@parl.gc.ca,https://twitter.com/PLDusseault
 71557,Charmaine Borg,NDP,Terrebonne—Blainville,,Charmaine.Borg@parl.gc.ca,https://twitter.com/mpcharmaineborg
 71560,Robert Aubin,NDP,Trois-Rivières,,Robert.Aubin@parl.gc.ca,https://twitter.com/RobertAubinNPD
-71566,Jamie Nicholls,NDP,Vaudreuil-Soulanges,,Jamie.Nicholls@parl.gc.ca,https://twitter.com/JPNichollsNPD
+71566,Jamie Nicholls,NDP,Vaudreuil-Soulanges,,Jamie.Nicholls.C1A@parl.gc.ca,https://twitter.com/JPNichollsNPD
 71569,Sana Hassainia,Independent,Verchères—Les Patriotes,,Sana.Hassainia@parl.gc.ca,https://twitter.com/SanaHassainia
 71576,Chris Alexander,Conservative,Ajax—Pickering,http://www.chrisalexandermp.ca,Chris.Alexander@parl.gc.ca,https://twitter.com/calxandr
 71585,Matthew Kellway,NDP,Beaches—East York,http://matthewkellway.ndp.ca,Matthew.Kellway@parl.gc.ca,https://twitter.com/MatthewKellway

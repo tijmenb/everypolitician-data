@@ -17,9 +17,9 @@ require_relative '../../rakefile_morph.rb'
 
 namespace :whittle do
 
-  task :load => 'morph.csv' do
+  task :load => @MORPH_DATA_FILE do
     @json = JSON.load(
-      CSV.read('morph.csv').last.last, 
+      CSV.read(@MORPH_DATA_FILE).last.last, 
       lambda { |h| 
         if h.class == Hash 
           h.each do |k,v|

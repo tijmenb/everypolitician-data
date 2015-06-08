@@ -6,35 +6,43 @@ require 'csv'
   name: 'National Assembly',
   seats: 110,
 }
-@CSV_FILE = 'processed.csv'
 
-@TERMS = [{
-  id: "term/2012",
-  name: "2012",
-  start_date: "2012-09-23",
-}]
+# TODO: move these out to a data file
+@remap = {
+  'ZHILINSKY MARAT'       => ['KPB', 'Communist Party of Belarus'],
+  'ZHURAVSKAYA VALENTINA' => ['KPB', 'Communist Party of Belarus'],
+  'KLIMOVICH NATALIA'     => ['KPB', 'Communist Party of Belarus'],
+  'KUBRAKOVA LIUDMILA'    => ['KPB', 'Communist Party of Belarus'],
+  'KUZMICH ALEKSEY'       => ['KPB', 'Communist Party of Belarus'],
+  'LEONENKO VALENTINA'    => ['KPB', 'Communist Party of Belarus'],
+}
+# source = http://www.comparty.by/deputati
 
-# http://www.comparty.by/deputati
-@comparty = [
-  'ZHILINSKY MARAT',
-  'ZHURAVSKAYA VALENTINA',
-  'KLIMOVICH NATALIA',
-  'KUBRAKOVA LIUDMILA',
-  'KUZMICH ALEKSEY',
-  'LEONENKO VALENTINA',
-]
+namespace :transform do
 
-namespace :whittle do
-  task :load => 'processed.csv'
+  def find_or_create_party(data)
+    party_id = data.first.prepend "party/"
+    party = @json[:organizations].find { |o| o[:id] == party_id }
+    return party if party
+    party = {
+      classification: 'party',
+      id: party_id,
+      name: data.last,
+    }
+    @json[:organizations] << party
+    party
+  end
 
-  file 'processed.csv' => 'morph.csv' do
-    morph = CSV.read('morph.csv', headers: true)
-    headers = morph.headers.to_csv
-    morph.each do |row|
-      row['party'] = 'Communist Party of Belarus' if @comparty.include? row['name']
+
+  task :ensure_membership_terms do
+    @remap.each do |name, data|
+      party = find_or_create_party(data)
+      person = @json[:persons].find { |p| p[:name] == name }
+
+      @json[:memberships].find_all { |m| m[:person_id] == person[:id] }.each do |m|
+        m[:on_behalf_of_id] = party[:id]
+      end
     end
-    output = morph.map { |row| row.to_hash.values.to_csv }.join
-    File.write('processed.csv', headers + output)
   end
 
 end
