@@ -5,7 +5,7 @@ require 'csv_to_popolo'
 require 'fileutils'
 
 @SOURCE_DIR = 'sources/morph'
-@MORPH_DATA_FILE = @SOURCE_DIR + '/morph.csv'
+@MORPH_DATA_FILE = @SOURCE_DIR + '/data.csv'
 @MORPH_TERM_FILE = @SOURCE_DIR + '/terms.csv'
 
 def morph_select(qs)
