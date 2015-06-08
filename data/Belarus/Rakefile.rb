@@ -8,6 +8,12 @@ require 'csv'
 }
 @CSV_FILE = 'processed.csv'
 
+@TERMS = [{
+  id: "term/2012",
+  name: "2012",
+  start_date: "2012-09-23",
+}]
+
 # http://www.comparty.by/deputati
 @comparty = [
   'ZHILINSKY MARAT',
@@ -21,8 +27,8 @@ require 'csv'
 namespace :whittle do
   task :load => 'processed.csv'
 
-  file 'processed.csv' => @MORPH_DATA_FILE do
-    morph = CSV.read(@MORPH_DATA_FILE, headers: true)
+  file 'processed.csv' => 'morph.csv' do
+    morph = CSV.read('morph.csv', headers: true)
     headers = morph.headers.to_csv
     morph.each do |row|
       row['party'] = 'Communist Party of Belarus' if @comparty.include? row['name']
