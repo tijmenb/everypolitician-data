@@ -4,39 +4,41 @@ require 'erb'
 require 'csv_to_popolo'
 require 'fileutils'
 
+@SOURCE_DIR = 'sources/morph'
+@MORPH_DATA_FILE = @SOURCE_DIR + '/data.csv'
+@MORPH_TERM_FILE = @SOURCE_DIR + '/terms.csv'
+
 def morph_select(qs)
-  morph_api_key = ENV['MORPH_API_KEY'] or raise "Need a Morph API key"
+  morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
   key = ERB::Util.url_encode(morph_api_key)
   query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
   url = "https://api.morph.io/#{@MORPH}/data.csv?key=#{key}&query=#{query}"
   STDERR.puts "Fetching #{url}"
-  return open(url).read
+  open(url).read
 end
 
 namespace :raw do
-  @DEFAULT_MORPH_QUERY = 'SELECT * FROM data'
-  file 'morph.csv' do
-    File.write('morph.csv', morph_select(@MORPH_QUERY || @DEFAULT_MORPH_QUERY))
+  @DEFAULT_MORPH_DATA_QUERY = 'SELECT * FROM data'
+  @DEFAULT_MORPH_TERM_QUERY = 'SELECT * FROM terms'
+  FileUtils.mkpath @SOURCE_DIR
+
+  file @MORPH_DATA_FILE do
+    File.write(@MORPH_DATA_FILE, morph_select(@MORPH_QUERY || @DEFAULT_MORPH_DATA_QUERY))
   end
 
-  @DEFAULT_MORPH_TERM_QUERY = 'SELECT * FROM terms'
-  file 'morph.csv' => :get_terms
-
+  file @MORPH_DATA_FILE => :get_terms
   task :get_terms do
     if @MORPH_TERMS
-      FileUtils.mkpath 'sources'
-      File.write('sources/terms.csv', morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
+      File.write(@MORPH_TERM_FILE, morph_select(@MORPH_TERM_QUERY || @DEFAULT_MORPH_TERM_QUERY))
     end
   end
 end
-   
+
 namespace :whittle do
   CLOBBER.exclude 'clean.json'
 
-  task :load => 'morph.csv' do
+  task load: @MORPH_DATA_FILE do
     @SOURCE = "https://morph.io/#{@MORPH}"
-    @json = Popolo::CSV.new(@CSV_FILE || 'morph.csv').data
+    @json = Popolo::CSV.new(@MORPH_DATA_FILE).data
   end
 end
-
-
