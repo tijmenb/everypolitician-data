@@ -121,21 +121,26 @@ namespace :transform do
 
       # More than one? Make new memberships
       elsif possible_groups.count > 1
-        group_mems.each_with_index do |group_mem, i|
+        require 'colorize'
+        puts "Making #{group_mems.count} memberships for #{missing[:person_id]} in #{term}".yellow
+
+        group_mems.sort_by { |m| m[:start_date] }.each_with_index do |group_mem, i|
           raise "No membership ID in #{missing}" unless missing.key? :id
-          leg_mem = missing.clone
-          leg_mem[:id].concat("-#{i}")
-          leg_mem[:on_behalf_if_id] = group_mem[:organization_id]
+          leg_mem = missing.dup
+          # Careful with the shallow copy...
+          leg_mem[:id] = leg_mem[:id] + "-#{i + 1}"
+          leg_mem[:on_behalf_of_id] = group_mem[:organization_id]
           # TODO: were they in no groups for a while in the middle?
           leg_mem[:start_date] = group_mem[:start_date] if group_mem.key?(:start_date) # && group_mem[:start_date] > leg_mem[:start_date]
           leg_mem[:end_date]   = group_mem[:end_date]   if group_mem.key?(:end_date)   # && group_mem[:end_date]   < leg_mem[:end_date]
-          @json[:memberships] << leg_mem
+          puts "+ #{JSON.pretty_generate leg_mem}".green
+          @json[:memberships].push leg_mem
         end
         @json[:memberships].delete_if { |m| m[:id] == missing[:id] }
+        puts "- #{JSON.pretty_generate missing}".red
       # None? class as Independent
       else
         warn "Person #{missing[:person_id]} in no suitable groups during Term #{term[:id]} (But in #{possibles})"
-        # binding.pry
       end
     end
   end
