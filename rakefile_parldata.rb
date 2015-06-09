@@ -86,24 +86,25 @@ namespace :transform do
   task :ensure_behalf_of => :fill_behalfs
   task :fill_behalfs => :ensure_term do
 
-    leg     = @json[:organizations].find     { |h| h[:classification] == 'legislature' }
+    house = @json[:organizations].find { |h| h[:classification] == 'legislature' }
+    terms = house[:legislative_periods]
 
-    want_class = @MEMBERSHIP_GROUPING || 'party'
-    groups  = @json[:organizations].find_all { |h| h[:classification] == want_class }
-    groupids = groups.map  { |p| p[:id] }.to_set
+    # Which type of memberships do care about?
+    want_type = @MEMBERSHIP_GROUPING || 'party'
+    groups    = @json[:organizations].find_all { |h| h[:classification] == want_type }
+    groupids  = groups.map { |p| p[:id] }.to_set
 
-    terms    = leg[:legislative_periods]
 
     # All Memberships that have no :on_behalf_of
     gaps = @json[:memberships].find_all { |m| 
-        m[:organization_id] == leg[:id] and m[:role] == 'member' and not m.has_key? :on_behalf_of_id 
+      m[:organization_id] == house[:id] and m[:role] == 'member' and not m.has_key? :on_behalf_of_id 
     }
 
     gaps.each do |missing|
       # What else was that Person a Member of during that Term?
       term = terms.find { |t| t[:id] == missing[:legislative_period_id] }
       possibles = @json[:memberships].find_all { |m| 
-        m[:person_id] == missing[:person_id] and m[:organization_id] != leg[:id]
+        m[:person_id] == missing[:person_id] and m[:organization_id] != house[:id]
       }.reject { |pmem|
         term[:end_date] and pmem[:start_date] and pmem[:start_date] >= term[:end_date]
       }.reject { |pmem|
@@ -118,15 +119,19 @@ namespace :transform do
         # warn "Single group: #{group_mems.first[:organization_id]}" 
         missing[:on_behalf_of_id] = possible_groups.first
 
-      # More than one? For now take the first, though TODO take all
+      # More than one? Make new memberships
       elsif possible_groups.count > 1
-        require 'colorize'
-        warn "Person #{missing[:person_id]} in multiple groups during Term #{term[:id]}"
-        warn "#{term}".magenta
-        warn "#{JSON.pretty_generate group_mems}".cyan
-        # binding.pry
-        missing[:on_behalf_of_id] = possible_groups.first
-
+        group_mems.each_with_index do |group_mem, i|
+          raise "No membership ID in #{missing}" unless missing.key? :id
+          leg_mem = missing.clone
+          leg_mem[:id].concat("-#{i}")
+          leg_mem[:on_behalf_if_id] = group_mem[:organization_id]
+          # TODO: were they in no groups for a while in the middle?
+          leg_mem[:start_date] = group_mem[:start_date] if group_mem.key?(:start_date) # && group_mem[:start_date] > leg_mem[:start_date]
+          leg_mem[:end_date]   = group_mem[:end_date]   if group_mem.key?(:end_date)   # && group_mem[:end_date]   < leg_mem[:end_date]
+          @json[:memberships] << leg_mem
+        end
+        @json[:memberships].delete_if { |m| m[:id] == missing[:id] }
       # None? class as Independent
       else
         warn "Person #{missing[:person_id]} in no suitable groups during Term #{term[:id]} (But in #{possibles})"
@@ -134,7 +139,6 @@ namespace :transform do
       end
     end
   end
-    
 
 end
 
