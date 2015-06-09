@@ -10,18 +10,21 @@ end
 
 namespace :raw do
 
-  file 'popit.json' do
-    File.write('popit.json', open(popit_source).read) 
+  @POPIT_RAW_FILE = 'sources/popit/raw.json'
+
+  file @POPIT_RAW_FILE do
+    File.write(@POPIT_RAW_FILE, open(popit_source).read) 
   end
 
 end
 
 namespace :whittle do
 
-  task :load => 'popit.json' do
-    # TODO make Rake skip this (expensive) step if clean.json already exists
+  @POPIT_CLEAN_FILE = 'clean.json'
+
+  task :load => @POPIT_RAW_FILE do
     @SOURCE = popit_source.gsub('/api/.*','')
-    file = File.exist?('clean.json') ? 'clean.json' : 'popit.json'
+    file = File.exist?(@POPIT_CLEAN_FILE) ? @POPIT_CLEAN_FILE : @POPIT_RAW_FILE
     @json = JSON.load(File.read(file), lambda { |h|
       if h.class == Hash 
         h.reject! { |_, v| v.nil? or v.empty? }
