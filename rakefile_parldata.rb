@@ -131,8 +131,8 @@ namespace :transform do
           leg_mem[:id] = leg_mem[:id] + "-#{i + 1}"
           leg_mem[:on_behalf_of_id] = group_mem[:organization_id]
           # TODO: were they in no groups for a while in the middle?
-          leg_mem[:start_date] = group_mem[:start_date] if group_mem.key?(:start_date) # && group_mem[:start_date] > leg_mem[:start_date]
-          leg_mem[:end_date]   = group_mem[:end_date]   if group_mem.key?(:end_date)   # && group_mem[:end_date]   < leg_mem[:end_date]
+          leg_mem[:start_date] = group_mem[:start_date] if group_mem.key?(:start_date) && group_mem[:start_date] > leg_mem[:start_date]
+          leg_mem[:end_date]   = group_mem[:end_date]   if group_mem.key?(:end_date)   && group_mem[:end_date]   < leg_mem[:end_date]
           puts "+ #{JSON.pretty_generate leg_mem}".green
           @json[:memberships].push leg_mem
         end
