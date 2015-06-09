@@ -3,7 +3,9 @@ require_relative 'rakefile_common.rb'
 
 namespace :raw do
 
-  file 'parldata.json' do
+  @PARLDATA_RAW_FILE = 'sources/parldata/raw.json'
+
+  file @PARLDATA_RAW_FILE do
     venv_path = ENV['PARLDATA_VENV'] or raise "PARLDATA_VENV must be set to a virtualenv"
     venv_python = venv_path + "/bin/python"
     File.exist? venv_python or raise "No `python` binary found at #{venv_python}"
@@ -12,11 +14,11 @@ namespace :raw do
       fetcher = File.expand_path("../bin/parldataeu.py", __FILE__)
       cmd = [venv_python, fetcher, house].join ' '
 
-      outfile = 'parldata'
+      outfile = 'raw'
       outfile << "-#{house.split('/').last}" unless i.zero?
 
       data = %x[ #{cmd} ]
-      File.write("#{outfile}.json", data)
+      File.write("sources/parldata/#{outfile}.json", data)
     end
   end
 
@@ -24,9 +26,9 @@ end
     
 namespace :whittle do
 
-  task :load => 'parldata.json' do
+  task :load => @PARLDATA_RAW_FILE do
     @SOURCE = 'http://api.parldata.eu/' + [@PARLDATA].flatten.first
-    @json = JSON.load(File.read('parldata.json'), lambda { |h|
+    @json = JSON.load(File.read(@PARLDATA_RAW_FILE), lambda { |h|
       if h.class == Hash 
         h.reject! { |_, v| v.nil? or v.empty? }
         h.reject! { |k, v| [:created_at, :updated_at, :_links].include? k }
