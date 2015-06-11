@@ -14,16 +14,18 @@ require 'csv_to_popolo'
   start_date: '2015'
 }]
 
+@CANDIDATES_FILE = 'sources/YNMP/candidates.csv'
+@WINNERS_FILE = 'sources/YNMP/winners.csv'
 
 namespace :raw do
-  file 'candidates.csv' do
+  file @CANDIDATES_FILE do
     warn "Refetching CSV"
-    File.write('candidates.csv', open('https://edit.yournextmp.com/media/candidates.csv').read)
+    File.write(@CANDIDATES_FILE, open('https://edit.yournextmp.com/media/candidates.csv').read)
   end
 end
 
 namespace :winners do
-  file 'winners.csv' => 'candidates.csv' do
+  file @WINNERS_FILE => @CANDIDATES_FILE do
     remap_csv_headers = {
       'twitter_username' => 'twitter',
       'facebook_page_url' => 'facebook',
@@ -31,7 +33,7 @@ namespace :winners do
       'wikipedia_url' => 'wikipedia',
       'linkedin_url' => 'linkedin',
     }
-    all = CSV.read('candidates.csv', {
+    all = CSV.read(@CANDIDATES_FILE, {
       headers: true, 
       header_converters: lambda { |h| 
         hc = h.to_s.encode(::CSV::ConverterEncoding).downcase.gsub(/\s+/, "_").gsub(/\W+/, "")
@@ -41,14 +43,14 @@ namespace :winners do
     headers = all.headers.to_csv
     winners = all.find_all { |row| row[:elected] == 'True' }
     output = winners.map { |row| row.to_hash.values.to_csv }.join
-    File.write('winners.csv', headers + output)
+    File.write(@WINNERS_FILE, headers + output)
   end
 end
 
 namespace :whittle do
-  task :load => 'winners.csv' do
+  task :load => @WINNERS_FILE do
     @SOURCE = 'https://yournextmp.com/'
-    @json = Popolo::CSV.new('winners.csv').data
+    @json = Popolo::CSV.new(@WINNERS_FILE).data
   end
 
   task :write => :rename_party
