@@ -7,7 +7,6 @@ require 'colorize'
   seats: 129,
 }
 
-
 namespace :raw do
   file 'twfy.json' do
     warn "Refetching TWFY JSON"
@@ -76,10 +75,13 @@ namespace :transform do
   task :write => :ensure_names
   task :ensure_names => :set_membership_terms do
     @json[:persons].find_all { |p| not p.has_key? 'name' }.each do |p|
-      # TODO cope with name changes
-      name = @json[:memberships].find_all { |m| m[:person_id] == p[:id] }.sort_by { |m| m[:start_date] }.first[:name]
-      if name[:given_name].to_s.empty?
-        p[:name] = name[:honorific_prefix] + " " + name[:family_name]
+      # TODO cope better with name changes
+      main_names = p[:other_names].find_all { |n| n[:note] == 'Main' }
+      name = main_names.find { |n| n[:end_date].nil? } || main_names.sort_by { |n| n[:end_date] }.last
+      raise "Uncertain name for #{JSON.pretty_generate p}" unless name
+      if name.key? :lordname
+        p[:name] = "#{name[:honorific_prefix]} #{name[:lordname]}"
+        p[:name] += " of #{name[:lordofname]}" unless name[:lordofname].to_s.empty?
       else 
         p[:name] = name[:given_name] + " " + name[:family_name]
       end
