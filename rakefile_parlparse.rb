@@ -2,21 +2,23 @@ require_relative 'rakefile_common.rb'
 
 require 'colorize'
 
+@TWFY_RAW_FILE = 'sources/parlparse/twfy.json'
+
 namespace :raw do
-  file 'twfy.json' do
+  file @TWFY_RAW_FILE do
     warn "Refetching TWFY JSON"
-    File.write('twfy.json', open('https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json').read)
+    File.write(@TWFY_RAW_FILE, open('https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json').read)
   end
 end
 
 namespace :whittle do
 
-  file 'clean.json' => 'twfy.json'
-  task :load => 'twfy.json' do
+  file 'clean.json' => @TWFY_RAW_FILE
+  task :load => @TWFY_RAW_FILE do
     @SOURCE = "http://www.theyworkforyou.com/"
     @HOUSE_ID = @LEGISLATURE[:name].downcase.tr(' ','-')
 
-    @json = JSON.parse(File.read('twfy.json'), { symbolize_names: true })
+    @json = JSON.parse(File.read(@TWFY_RAW_FILE), { symbolize_names: true })
     @json[:organizations] << {
       id: @HOUSE_ID,
       classification: 'legislature',
