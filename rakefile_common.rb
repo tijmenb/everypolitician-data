@@ -181,7 +181,7 @@ namespace :transform do
   #---------------------------------------------------------------------
 
   def unknown_party
-    if unknown = @json[:organizations].find { |o| o[:classification] == 'party' and o[:name].downcase == 'Unknown' }
+    if unknown = @json[:organizations].find { |o| o[:classification] == 'party' and o[:name].downcase == 'unknown' }
       return unknown
     end
     unknown = {

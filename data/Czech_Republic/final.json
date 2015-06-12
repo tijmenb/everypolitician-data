@@ -20239,11 +20239,6 @@
   ],
   "organizations": [
     {
-      "classification": "party",
-      "id": "party/independent",
-      "name": "Independent"
-    },
-    {
       "classification": "faction",
       "dissolution_date": "2013-08-28",
       "founding_date": "2011-04-05",
@@ -21561,6 +21556,11 @@
         }
       ],
       "parent_id": "166"
+    },
+    {
+      "classification": "party",
+      "id": "party/_unknown",
+      "name": "Unknown"
     }
   ],
   "meta": {
@@ -62195,7 +62195,7 @@
       "id": "323",
       "label": "Člen",
       "legislative_period_id": "167",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "71",
       "role": "member",

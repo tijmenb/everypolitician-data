@@ -13999,11 +13999,6 @@
     },
     {
       "classification": "party",
-      "id": "party/independent",
-      "name": "Independent"
-    },
-    {
-      "classification": "party",
       "id": "party_IniciativaQytetareSerbia",
       "name": "Iniciativa Qytetare Serbia",
       "sources": [
@@ -15114,6 +15109,11 @@
           "url": "http://www.kuvendikosoves.org/?cid=1,158,384&secid=102&legid=1"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/_unknown",
+      "name": "Unknown"
     },
     {
       "classification": "party",
@@ -21015,7 +21015,7 @@
       "id": "chamber_2014-07-17-mp_EmilijaRedEpi",
       "label": "MP",
       "legislative_period_id": "chamber_2014-07-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_EmilijaRedEpi",
       "role": "member",
@@ -26596,7 +26596,7 @@
       "id": "chamber_2014-07-17-mp_JakupKrasniqi",
       "label": "MP",
       "legislative_period_id": "chamber_2014-07-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_JakupKrasniqi",
       "role": "member",
@@ -29845,7 +29845,7 @@
       "id": "chamber_2014-07-17-mp_Müferaªinik",
       "label": "MP",
       "legislative_period_id": "chamber_2014-07-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_Müferaªinik",
       "role": "member",
@@ -29862,7 +29862,7 @@
       "id": "chamber_2014-07-17-mp_Müferaªinik",
       "label": "MP",
       "legislative_period_id": "chamber_2014-07-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_Müferaªinik",
       "role": "member",
@@ -30143,7 +30143,7 @@
       "id": "chamber_2001-11-17-mp_NaimJerliu",
       "label": "MP",
       "legislative_period_id": "chamber_2001-11-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_NaimJerliu",
       "role": "member",
@@ -31073,7 +31073,7 @@
       "id": "chamber_2001-11-17-mp_NexhatDaci",
       "label": "MP",
       "legislative_period_id": "chamber_2001-11-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_NexhatDaci",
       "role": "member",
@@ -35635,7 +35635,7 @@
       "id": "chamber_2014-07-17-mp_SerdjanPopović",
       "label": "MP",
       "legislative_period_id": "chamber_2014-07-17",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "mp_SerdjanPopović",
       "role": "member",
