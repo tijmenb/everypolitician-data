@@ -43,6 +43,15 @@ def name_to_iso_code(name)
   end
 end
 
+def terms_from(json_file, c)
+  json = JSON.parse(File.read(json_file), symbolize_names: true)
+  json[:organizations].find { |o| o.key? :legislative_periods }[:legislative_periods].map { |t|
+    t.delete :classification
+    t[:csv] = c[:path] + "/term-#{t[:id].split('/').last}.csv"
+    t
+  }.select { |t| File.exist? t[:csv] }
+end
+
 desc 'Install country-list locally'
 task 'countries.json' do
   data = @COUNTRIES.reject { |c| File.exist? c[:path] + '/WIP' }.map do |c|
@@ -60,8 +69,10 @@ task 'countries.json' do
       sources_directory: "data/#{name}/sources",
       popolo: json_file,
       lastmod: lastmod,
-      sha: sha
+      sha: sha,
+      legislative_periods: terms_from(json_file, c),
     }
   end
   File.write('countries.json', JSON.pretty_generate(data.to_a))
 end
+

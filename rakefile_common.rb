@@ -180,25 +180,81 @@ namespace :transform do
   # (or one will be created)
   #---------------------------------------------------------------------
 
-  def default_behalf
-    if ind_party = @INDEPENDENT || @json[:organizations].find { |o| o[:classification] == 'party' and o[:name] == 'Independent' }
-      return ind_party
+  def unknown_party
+    if unknown = @json[:organizations].find { |o| o[:classification] == 'party' and o[:name].downcase == 'unknown' }
+      return unknown
     end
-    ind_party = {
+    unknown = {
       classification: "party",
-      name: "Independent",
-      id: "party/independent",
+      name: "Unknown",
+      id: "party/_unknown",
     }
-    @json[:organizations] << ind_party
-    ind_party
+    @json[:organizations] << unknown
+    unknown
   end
 
   task :write => :ensure_behalf_of
   task :ensure_behalf_of => :ensure_legislature do
     leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
-      m[:on_behalf_of_id] ||= default_behalf[:id]
+      m[:on_behalf_of_id] ||= unknown_party[:id]
     end
   end
 
 end
+
+
+desc "Build the term-table CSVs"
+task :csvs => ['term_csvs:term_tables']
+
+namespace :term_csvs do
+
+  def persons_twitter(p)
+    if p.key? :contact_details
+      if cd_twitter = p[:contact_details].find { |d| d[:type] == 'twitter' }
+        return cd_twitter[:value]
+      end
+    end
+
+    if p.key? 'links'
+      if l_twitter = p[:links].find { |d| d[:note][/twitter/i] }
+        return l_twitter[:url]
+      end
+    end
+  end
+
+
+  require 'csv'
+
+  task :term_tables => 'final.json' do
+    @json = JSON.parse(File.read('final.json'), symbolize_names: true )
+    data = @json[:memberships].find_all { |m| m.key? :legislative_period_id }.map do |m|
+      person = @json[:persons].find       { |r| (r[:id] == m[:person_id])       || (r[:id].end_with? "/#{m[:person_id]}") }
+      group  = @json[:organizations].find { |o| (o[:id] == m[:on_behalf_of_id]) || (o[:id].end_with? "/#{m[:on_behalf_of_id]}") }
+      house  = @json[:organizations].find { |o| (o[:id] == m[:organization_id]) || (o[:id].end_with? "/#{m[:organization_id]}") }
+      {
+        id: person[:id].split('/').last,
+        name: person[:name],
+        email: person[:email],
+        twitter: persons_twitter(person),
+        group: group[:name],
+        group_id: group[:id].split('/').last,
+        area: m[:area] && m[:area][:name],
+        chamber: house[:name],
+        term: m[:legislative_period_id].split('/').last,
+        start_date: m[:start_date],
+        end_date: m[:end_date],
+      }
+    end
+    data.group_by { |r| r[:term] }.each do |t, rs|
+      filename = "term-#{t}.csv"
+      header = rs.first.keys.to_csv
+      rows   = rs.sort_by { |r| [r[:name], r[:start_date]] }.map { |r| r.values.to_csv }
+      csv    = [header, rows].compact.join
+      warn "Creating #{filename}"
+      File.write(filename, csv)
+    end
+  end
+
+end
+
