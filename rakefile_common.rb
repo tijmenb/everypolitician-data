@@ -1,4 +1,4 @@
-require 'yajl/json_gem'
+require 'json'
 require 'open-uri'
 require 'rake/clean'
 require 'pry'
