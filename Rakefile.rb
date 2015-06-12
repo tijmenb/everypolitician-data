@@ -59,7 +59,7 @@ task 'countries.json' do
     json_file = c[:path] + '/final.json'
 
     name = c[:name].tr('_', ' ')
-    cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{json_file}"
+    cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{c[:path]}"
     (sha, lastmod) = `#{cmd}`.chomp.split('|')
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
 
