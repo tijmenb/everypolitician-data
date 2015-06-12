@@ -377,8 +377,8 @@
     "code": "CZ",
     "sources_directory": "data/Czech Republic/sources",
     "popolo": "data/Czech_Republic/final.json",
-    "lastmod": "1433860463",
-    "sha": "522186a",
+    "lastmod": "1434123894",
+    "sha": "bdb4801",
     "legislative_periods": [
       {
         "end_date": "1996-06-06",
@@ -791,7 +791,47 @@
     "lastmod": "1434111879",
     "sha": "3cd9a64",
     "legislative_periods": [
-
+      {
+        "id": "term/2013",
+        "name": "Alþingi 2013",
+        "start_date": "2013",
+        "csv": "data/Iceland/term-2013.csv"
+      },
+      {
+        "end_date": "1999",
+        "id": "term/1995",
+        "name": "Alþingi 1995",
+        "start_date": "1995",
+        "csv": "data/Iceland/term-1995.csv"
+      },
+      {
+        "end_date": "2003",
+        "id": "term/1999",
+        "name": "Alþingi 1999",
+        "start_date": "1999",
+        "csv": "data/Iceland/term-1999.csv"
+      },
+      {
+        "end_date": "2007",
+        "id": "term/2003",
+        "name": "Alþingi 2003",
+        "start_date": "2003",
+        "csv": "data/Iceland/term-2003.csv"
+      },
+      {
+        "end_date": "2009",
+        "id": "term/2007",
+        "name": "Alþingi 2007",
+        "start_date": "2007",
+        "csv": "data/Iceland/term-2007.csv"
+      },
+      {
+        "end_date": "2013",
+        "id": "term/2009",
+        "name": "Alþingi 2009",
+        "start_date": "2009",
+        "csv": "data/Iceland/term-2009.csv"
+      }
     ]
   },
   {
@@ -847,8 +887,8 @@
     "code": "XK",
     "sources_directory": "data/Kosovo/sources",
     "popolo": "data/Kosovo/final.json",
-    "lastmod": "1433851529",
-    "sha": "5f70ac4",
+    "lastmod": "1434123894",
+    "sha": "bdb4801",
     "legislative_periods": [
       {
         "end_date": "2007-12-12",
@@ -1395,8 +1435,8 @@
     "code": "GB",
     "sources_directory": "data/UK/sources",
     "popolo": "data/UK/final.json",
-    "lastmod": "1433346322",
-    "sha": "8231275",
+    "lastmod": "1434120800",
+    "sha": "e05c676",
     "legislative_periods": [
       {
         "end_date": "2001-05-14",
