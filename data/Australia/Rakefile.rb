@@ -1,6 +1,7 @@
 require_relative '../../rakefile_morph.rb'
 
 @MORPH = 'openaustralia/aus_mp_contact_details'
+@MORPH_QUERY = "SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data"
 
 @LEGISLATURE = {
   name: 'Parliament',
@@ -15,8 +16,6 @@ require_relative '../../rakefile_morph.rb'
   name: '44th Parliament',
   start_date: '2013-09-07',
 }]
-
-@MORPH_QUERY = 'SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, * FROM data'
 
 namespace :transform do
 
