@@ -1146,6 +1146,22 @@
     ]
   },
   {
+    "country": "Pakistan",
+    "code": "PK",
+    "sources_directory": "data/Pakistan/sources",
+    "popolo": "data/Pakistan/final.json",
+    "lastmod": "1434141901",
+    "sha": "39c1d71",
+    "legislative_periods": [
+      {
+        "id": "term/14",
+        "name": "14th National Assembly",
+        "start_date": "2013-06-01",
+        "csv": "data/Pakistan/term-14.csv"
+      }
+    ]
+  },
+  {
     "country": "Papua New Guinea",
     "code": "PG",
     "sources_directory": "data/Papua New Guinea/sources",
