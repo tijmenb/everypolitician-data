@@ -180,24 +180,24 @@ namespace :transform do
   # (or one will be created)
   #---------------------------------------------------------------------
 
-  def default_behalf
-    if ind_party = @INDEPENDENT || @json[:organizations].find { |o| o[:classification] == 'party' and o[:name] == 'Independent' }
-      return ind_party
+  def unknown_party
+    if unknown = @json[:organizations].find { |o| o[:classification] == 'party' and o[:name].downcase == 'Unknown' }
+      return unknown
     end
-    ind_party = {
+    unknown = {
       classification: "party",
-      name: "Independent",
-      id: "party/independent",
+      name: "Unknown",
+      id: "party/_unknown",
     }
-    @json[:organizations] << ind_party
-    ind_party
+    @json[:organizations] << unknown
+    unknown
   end
 
   task :write => :ensure_behalf_of
   task :ensure_behalf_of => :ensure_legislature do
     leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
-      m[:on_behalf_of_id] ||= default_behalf[:id]
+      m[:on_behalf_of_id] ||= unknown_party[:id]
     end
   end
 

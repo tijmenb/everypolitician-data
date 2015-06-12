@@ -52,14 +52,24 @@ namespace :transform do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     terms = leg[:legislative_periods]
     @json[:memberships].find_all { |m| m[:organization_id] == @HOUSE_ID and not m.has_key? :legislative_period_id }.each do |m|
-      matched = terms.find_all { |t| 
-        (m[:start_date] >= t[:start_date]) and ((m[:end_date] || ('2100-01-01')) <= (t[:end_date] || '2100-01-01')) }
+      s_date = m[:start_date]
+      s_date += "-12-31" if s_date.length == 4
+      e_date = m[:end_date] || '2100-01-01'
+      e_date += "-01-01" if e_date.length == 4
+      e_date = s_date if e_date < s_date
+      
+      matched = terms.find_all { |t| (s_date >= t[:start_date]) and (e_date <= (t[:end_date] || '2100-01-01')) }
       if matched.count == 1
         m[:legislative_period_id] = matched.first[:id]
+      elsif matched.count > 1 and probable = matched.find { |poss| poss[:start_date] == s_date || poss[:end_date] == e_date }
+        warn "#{matched.count} matches for #{m[:start_date]}–#{m[:end_date]}".magenta
+        warn "  — picking #{probable}".yellow
+        m[:legislative_period_id] = probable[:id]
       else 
         warn "Invalid term intersection (#{matched.count} matches)"
-        warn "#{m}".cyan
-        warn "#{terms}".yellow
+        warn "#{m[:start_date]}–#{m[:end_date]}".cyan
+        warn "#{matched}".yellow
+
       end
     end
   end
