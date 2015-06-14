@@ -2826,7 +2826,6 @@
         }
       ],
       "name": "Moulvi Agha Muhammad",
-      "patronymic_name": "",
       "sources": [
         {
           "url": "http://www.na.gov.pk/en/profile.php?uid=1034"
@@ -4953,6 +4952,28 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "0300-8848941"
+        }
+      ],
+      "id": "person/830",
+      "image": "http://www.na.gov.pk/uploads/images/162.JPG",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/uploads/images/162.JPG"
+        }
+      ],
+      "name": "Rai Hasan Nawaz Khan",
+      "patronymic_name": "Rai Muhammad Iqbal Khan",
+      "sources": [
+        {
+          "url": "http://www.na.gov.pk/en/profile.php?uid=830"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "0300-5501160"
         }
       ],
@@ -7060,6 +7081,9 @@
   },
   "memberships": [
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7068,6 +7092,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7076,6 +7103,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7084,6 +7114,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7092,6 +7125,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7100,6 +7136,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7108,6 +7147,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -7117,7 +7159,7 @@
     },
     {
       "area": {
-        "name": "NA-230(Tharparkar-II)"
+        "name": "NA-230 (Tharparkar-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -7128,7 +7170,7 @@
     },
     {
       "area": {
-        "name": "NA-229(Tharparkar-I)"
+        "name": "NA-229 (Tharparkar-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -7139,7 +7181,7 @@
     },
     {
       "area": {
-        "name": "NA-37(Tribal Area-II)"
+        "name": "NA-37 (Tribal Area-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7150,7 +7192,7 @@
     },
     {
       "area": {
-        "name": "NA-46(Tribal Area-XI)"
+        "name": "NA-46 (Tribal Area-XI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7160,6 +7202,9 @@
       "start_date": "2013-06-12"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7169,7 +7214,7 @@
     },
     {
       "area": {
-        "name": "NA-1(Peshawar-I)"
+        "name": "NA-1 (Peshawar-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "anp",
@@ -7180,7 +7225,7 @@
     },
     {
       "area": {
-        "name": "NA-48(Islamabad-I)"
+        "name": "NA-48 (Islamabad-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7191,7 +7236,7 @@
     },
     {
       "area": {
-        "name": "NA-68(Sargodha-V)"
+        "name": "NA-68 (Sargodha-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7202,7 +7247,7 @@
     },
     {
       "area": {
-        "name": "NA-71(Mianwali-I)"
+        "name": "NA-71 (Mianwali-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7213,7 +7258,7 @@
     },
     {
       "area": {
-        "name": "NA-83(Faisalabad-IX)"
+        "name": "NA-83 (Faisalabad-IX)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7224,7 +7269,7 @@
     },
     {
       "area": {
-        "name": "NA-103(Hafizabad-II)"
+        "name": "NA-103 (Hafizabad-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7235,7 +7280,7 @@
     },
     {
       "area": {
-        "name": "NA-129(Lahore-XII)"
+        "name": "NA-129 (Lahore-XII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7257,7 +7302,7 @@
     },
     {
       "area": {
-        "name": "NA-235 (SANGHAR-CUM-MIRPURKHAS-CUM-UMERKOT(OLD SANGHAR-II))"
+        "name": "NA-235 (SANGHAR-CUM-MIRPURKHAS-CUM-UMERKOT (OLD SANGHAR-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -7301,7 +7346,7 @@
     },
     {
       "area": {
-        "name": "NA-13(Swabi-II)"
+        "name": "NA-13 (Swabi-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7311,6 +7356,9 @@
       "start_date": "2013-08-30"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -7320,7 +7368,7 @@
     },
     {
       "area": {
-        "name": "NA-5(Nowshera-I)"
+        "name": "NA-5 (Nowshera-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7331,7 +7379,7 @@
     },
     {
       "area": {
-        "name": "NA-25(D.I.Khan-cum-Tank)"
+        "name": "NA-25 (D.I.Khan-cum-Tank)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7342,7 +7390,7 @@
     },
     {
       "area": {
-        "name": "NA-27(Lakki Marwat)"
+        "name": "NA-27 (Lakki Marwat)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7364,7 +7412,7 @@
     },
     {
       "area": {
-        "name": "NA-69(Khushab-I)"
+        "name": "NA-69 (Khushab-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7375,7 +7423,7 @@
     },
     {
       "area": {
-        "name": "NA-19(Haripur)"
+        "name": "NA-19 (Haripur)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7386,7 +7434,7 @@
     },
     {
       "area": {
-        "name": "NA-202(SHIKARPUR (OLD SHIKARPUR-I))"
+        "name": "NA-202 (SHIKARPUR (OLD SHIKARPUR-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -7396,6 +7444,9 @@
       "start_date": "2014-05-12"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
       "organization_id": "legislature",
@@ -7405,7 +7456,7 @@
     },
     {
       "area": {
-        "name": "NA-149(Multan-II)"
+        "name": "NA-149 (Multan-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7416,7 +7467,7 @@
     },
     {
       "area": {
-        "name": "NA-137(Nankana Sahib-III (Old Sheikhupra-VII))"
+        "name": "NA-137 (Nankana Sahib-III (Old Sheikhupra-VII))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7426,6 +7477,9 @@
       "start_date": "2015-03-24"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -7446,7 +7500,7 @@
     },
     {
       "area": {
-        "name": "NA-2(Peshawar-II)"
+        "name": "NA-2 (Peshawar-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7457,7 +7511,7 @@
     },
     {
       "area": {
-        "name": "NA-3(Peshawar-III)"
+        "name": "NA-3 (Peshawar-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7468,7 +7522,7 @@
     },
     {
       "area": {
-        "name": "NA-4(Peshawar-IV)"
+        "name": "NA-4 (Peshawar-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7479,7 +7533,7 @@
     },
     {
       "area": {
-        "name": "NA-6(Nowshera-II)"
+        "name": "NA-6 (Nowshera-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7490,7 +7544,7 @@
     },
     {
       "area": {
-        "name": "NA-7(Charsadda-I)"
+        "name": "NA-7 (Charsadda-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
@@ -7501,7 +7555,7 @@
     },
     {
       "area": {
-        "name": "NA-8(Charsadda-II)"
+        "name": "NA-8 (Charsadda-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "qwps",
@@ -7512,7 +7566,7 @@
     },
     {
       "area": {
-        "name": "NA-9(Mardan-I)"
+        "name": "NA-9 (Mardan-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "anp",
@@ -7523,7 +7577,7 @@
     },
     {
       "area": {
-        "name": "NA-10(Mardan-II)"
+        "name": "NA-10 (Mardan-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7534,7 +7588,7 @@
     },
     {
       "area": {
-        "name": "NA-11(Mardan-III)"
+        "name": "NA-11 (Mardan-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7545,7 +7599,7 @@
     },
     {
       "area": {
-        "name": "NA-12(Swabi-I)"
+        "name": "NA-12 (Swabi-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ajip",
@@ -7556,7 +7610,7 @@
     },
     {
       "area": {
-        "name": "NA-14(Kohat)"
+        "name": "NA-14 (Kohat)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7567,7 +7621,7 @@
     },
     {
       "area": {
-        "name": "NA-15(Karak)"
+        "name": "NA-15 (Karak)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7578,7 +7632,7 @@
     },
     {
       "area": {
-        "name": "NA-16(Hangu)"
+        "name": "NA-16 (Hangu)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7589,7 +7643,7 @@
     },
     {
       "area": {
-        "name": "NA-17(Abbottabad-I)"
+        "name": "NA-17 (Abbottabad-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7600,7 +7654,7 @@
     },
     {
       "area": {
-        "name": "NA-18(Abbottabad-II)"
+        "name": "NA-18 (Abbottabad-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7611,7 +7665,7 @@
     },
     {
       "area": {
-        "name": "NA-20(Mansehra-I)"
+        "name": "NA-20 (Mansehra-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7622,7 +7676,7 @@
     },
     {
       "area": {
-        "name": "NA-21(Mansehra-cum-Tor Ghar (Old Mansehra-II))"
+        "name": "NA-21 (Mansehra-cum-Tor Ghar (Old Mansehra-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7633,7 +7687,7 @@
     },
     {
       "area": {
-        "name": "NA-22(Battagram)"
+        "name": "NA-22 (Battagram)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
@@ -7644,7 +7698,7 @@
     },
     {
       "area": {
-        "name": "NA-23(Kohistan )"
+        "name": "NA-23 (Kohistan )"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7655,7 +7709,7 @@
     },
     {
       "area": {
-        "name": "NA-24(D.I.Khan )"
+        "name": "NA-24 (D.I.Khan )"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
@@ -7666,7 +7720,7 @@
     },
     {
       "area": {
-        "name": "NA-26(Bannu)"
+        "name": "NA-26 (Bannu)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
@@ -7677,7 +7731,7 @@
     },
     {
       "area": {
-        "name": "NA-28(Bunair )"
+        "name": "NA-28 (Bunair )"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ji",
@@ -7688,7 +7742,7 @@
     },
     {
       "area": {
-        "name": "NA-29(Swat-I)"
+        "name": "NA-29 (Swat-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7699,7 +7753,7 @@
     },
     {
       "area": {
-        "name": "NA-30(Swat-II)"
+        "name": "NA-30 (Swat-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7710,7 +7764,7 @@
     },
     {
       "area": {
-        "name": "NA-31(Shanglapar)"
+        "name": "NA-31 (Shanglapar)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7721,7 +7775,7 @@
     },
     {
       "area": {
-        "name": "NA-32(Chitral)"
+        "name": "NA-32 (Chitral)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "apml",
@@ -7732,7 +7786,7 @@
     },
     {
       "area": {
-        "name": "NA-33(Upper Dir-cum-Lower Dir (old Upper Dir))"
+        "name": "NA-33 (Upper Dir-cum-Lower Dir (old Upper Dir))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ji",
@@ -7743,7 +7797,7 @@
     },
     {
       "area": {
-        "name": "NA-34(Lower Dir)"
+        "name": "NA-34 (Lower Dir)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ji",
@@ -7754,7 +7808,7 @@
     },
     {
       "area": {
-        "name": "NA-35(MALAKAND PROTECTED AREA)"
+        "name": "NA-35 (MALAKAND PROTECTED AREA)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7765,7 +7819,7 @@
     },
     {
       "area": {
-        "name": "NA-36(Tribal Area-I)"
+        "name": "NA-36 (Tribal Area-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7776,7 +7830,7 @@
     },
     {
       "area": {
-        "name": "NA-39(Tribal Area-IV)"
+        "name": "NA-39 (Tribal Area-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7787,7 +7841,7 @@
     },
     {
       "area": {
-        "name": "NA-40(Tribal Area-V)"
+        "name": "NA-40 (Tribal Area-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7798,7 +7852,7 @@
     },
     {
       "area": {
-        "name": "NA-41(Tribal Area-VI)"
+        "name": "NA-41 (Tribal Area-VI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7809,7 +7863,7 @@
     },
     {
       "area": {
-        "name": "NA-42(Tribal Area-VII)"
+        "name": "NA-42 (Tribal Area-VII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
@@ -7820,7 +7874,7 @@
     },
     {
       "area": {
-        "name": "NA-43(Tribal Area-VIII)"
+        "name": "NA-43 (Tribal Area-VIII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7831,7 +7885,7 @@
     },
     {
       "area": {
-        "name": "NA-44(Tribal Area-IX)"
+        "name": "NA-44 (Tribal Area-IX)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7842,7 +7896,7 @@
     },
     {
       "area": {
-        "name": "NA-45(Tribal Area-X)"
+        "name": "NA-45 (Tribal Area-X)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7853,7 +7907,7 @@
     },
     {
       "area": {
-        "name": "NA-47(Tribal Area-XII)"
+        "name": "NA-47 (Tribal Area-XII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7864,7 +7918,7 @@
     },
     {
       "area": {
-        "name": "NA-49(Islamabad-II)"
+        "name": "NA-49 (Islamabad-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7875,7 +7929,7 @@
     },
     {
       "area": {
-        "name": "NA-50(Rawalpindi-I)"
+        "name": "NA-50 (Rawalpindi-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7886,7 +7940,7 @@
     },
     {
       "area": {
-        "name": "NA-51(Rawalpindi-II)"
+        "name": "NA-51 (Rawalpindi-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7897,7 +7951,7 @@
     },
     {
       "area": {
-        "name": "NA-52(Rawalpindi-III)"
+        "name": "NA-52 (Rawalpindi-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7908,7 +7962,7 @@
     },
     {
       "area": {
-        "name": "NA-53(Rawalpindi-IV)"
+        "name": "NA-53 (Rawalpindi-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7919,7 +7973,7 @@
     },
     {
       "area": {
-        "name": "NA-54(Rawalpindi-V)"
+        "name": "NA-54 (Rawalpindi-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7930,7 +7984,7 @@
     },
     {
       "area": {
-        "name": "NA-55(Rawalpindi-VI)"
+        "name": "NA-55 (Rawalpindi-VI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "aml",
@@ -7941,7 +7995,7 @@
     },
     {
       "area": {
-        "name": "NA-56(Rawalpindi-VII)"
+        "name": "NA-56 (Rawalpindi-VII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -7952,7 +8006,7 @@
     },
     {
       "area": {
-        "name": "NA-57(Attock-I)"
+        "name": "NA-57 (Attock-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7963,7 +8017,7 @@
     },
     {
       "area": {
-        "name": "NA-58(Attock-II)"
+        "name": "NA-58 (Attock-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7974,7 +8028,7 @@
     },
     {
       "area": {
-        "name": "NA-59(Attock-III)"
+        "name": "NA-59 (Attock-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ind",
@@ -7985,7 +8039,7 @@
     },
     {
       "area": {
-        "name": "NA-60(Chakwal-I)"
+        "name": "NA-60 (Chakwal-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -7996,7 +8050,7 @@
     },
     {
       "area": {
-        "name": "NA-61(Chakwal-II)"
+        "name": "NA-61 (Chakwal-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8007,7 +8061,7 @@
     },
     {
       "area": {
-        "name": "NA-62(Jhelum-I)"
+        "name": "NA-62 (Jhelum-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8018,7 +8072,7 @@
     },
     {
       "area": {
-        "name": "NA-63(Jhelum-II)"
+        "name": "NA-63 (Jhelum-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8029,7 +8083,7 @@
     },
     {
       "area": {
-        "name": "NA-64(Sargodha-I)"
+        "name": "NA-64 (Sargodha-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8040,7 +8094,7 @@
     },
     {
       "area": {
-        "name": "NA-65(Sargodha-II)"
+        "name": "NA-65 (Sargodha-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8051,7 +8105,7 @@
     },
     {
       "area": {
-        "name": "NA-66(Sargodha-III)"
+        "name": "NA-66 (Sargodha-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8062,7 +8116,7 @@
     },
     {
       "area": {
-        "name": "NA-67(Sargodha-IV)"
+        "name": "NA-67 (Sargodha-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8073,7 +8127,7 @@
     },
     {
       "area": {
-        "name": "NA-70(Khushab-II)"
+        "name": "NA-70 (Khushab-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8084,7 +8138,7 @@
     },
     {
       "area": {
-        "name": "NA-72(Mianwali-II)"
+        "name": "NA-72 (Mianwali-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -8095,7 +8149,7 @@
     },
     {
       "area": {
-        "name": "NA-73(Bhakkar-I)"
+        "name": "NA-73 (Bhakkar-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8106,7 +8160,7 @@
     },
     {
       "area": {
-        "name": "NA-74(Bhakkar-II)"
+        "name": "NA-74 (Bhakkar-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8117,7 +8171,7 @@
     },
     {
       "area": {
-        "name": "NA-75(Faisalabad-I)"
+        "name": "NA-75 (Faisalabad-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8128,7 +8182,7 @@
     },
     {
       "area": {
-        "name": "NA-76(Faisalabad-II)"
+        "name": "NA-76 (Faisalabad-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8139,7 +8193,7 @@
     },
     {
       "area": {
-        "name": "NA-77(Faisalabad-III)"
+        "name": "NA-77 (Faisalabad-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8150,7 +8204,7 @@
     },
     {
       "area": {
-        "name": "NA-78(Faisalabad-IV)"
+        "name": "NA-78 (Faisalabad-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8161,7 +8215,7 @@
     },
     {
       "area": {
-        "name": "NA-79(Faisalabad-V)"
+        "name": "NA-79 (Faisalabad-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8172,7 +8226,7 @@
     },
     {
       "area": {
-        "name": "NA-80(Faisalabad-VI)"
+        "name": "NA-80 (Faisalabad-VI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8183,7 +8237,7 @@
     },
     {
       "area": {
-        "name": "NA-81(Faisalabad-VII)"
+        "name": "NA-81 (Faisalabad-VII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8194,7 +8248,7 @@
     },
     {
       "area": {
-        "name": "NA-82(Faisalabad-VIII)"
+        "name": "NA-82 (Faisalabad-VIII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8205,7 +8259,7 @@
     },
     {
       "area": {
-        "name": "NA-84(Faisalabad-X)"
+        "name": "NA-84 (Faisalabad-X)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8216,7 +8270,7 @@
     },
     {
       "area": {
-        "name": "NA-85(Faisalabad-XI)"
+        "name": "NA-85 (Faisalabad-XI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8227,7 +8281,7 @@
     },
     {
       "area": {
-        "name": "NA-86(CHINIOT-I (Old NA-86 Jhang-I))"
+        "name": "NA-86 (CHINIOT-I (Old NA-86 Jhang-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8238,7 +8292,7 @@
     },
     {
       "area": {
-        "name": "NA-87(CHINIOT-II Cum-Jhang (Old NA-88 Jhang-III))"
+        "name": "NA-87 (CHINIOT-II Cum-Jhang (Old NA-88 Jhang-III))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8249,7 +8303,7 @@
     },
     {
       "area": {
-        "name": "NA-88(JHANG-Cum-Chiniot (Old NA-87 Jhang-II))"
+        "name": "NA-88 (JHANG-Cum-Chiniot (Old NA-87 Jhang-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8260,7 +8314,7 @@
     },
     {
       "area": {
-        "name": "NA-89(JHANG-I (Old NA-89 Jhang-IV))"
+        "name": "NA-89 (JHANG-I (Old NA-89 Jhang-IV))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8271,7 +8325,7 @@
     },
     {
       "area": {
-        "name": "NA-90(JHANG-II (Old NA-90 Jhang-V))"
+        "name": "NA-90 (JHANG-II (Old NA-90 Jhang-V))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8282,7 +8336,7 @@
     },
     {
       "area": {
-        "name": "NA-91(JHANG-III(Old NA-91 Jhang-VI))"
+        "name": "NA-91 (JHANG-III (Old NA-91 Jhang-VI))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8293,7 +8347,7 @@
     },
     {
       "area": {
-        "name": "NA-92(T.T.Singh-I)"
+        "name": "NA-92 (T.T.Singh-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8304,7 +8358,7 @@
     },
     {
       "area": {
-        "name": "NA-93(T.T.Singh-II)"
+        "name": "NA-93 (T.T.Singh-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8315,7 +8369,7 @@
     },
     {
       "area": {
-        "name": "NA-94(T.T.Singh-III)"
+        "name": "NA-94 (T.T.Singh-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8326,7 +8380,7 @@
     },
     {
       "area": {
-        "name": "NA-95(Gujranwala-I)"
+        "name": "NA-95 (Gujranwala-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8337,7 +8391,7 @@
     },
     {
       "area": {
-        "name": "NA-96(Gujranwala-II)"
+        "name": "NA-96 (Gujranwala-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8348,7 +8402,7 @@
     },
     {
       "area": {
-        "name": "NA-97(Gujranwala-III)"
+        "name": "NA-97 (Gujranwala-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8359,7 +8413,7 @@
     },
     {
       "area": {
-        "name": "NA-98(Gujranwala-IV)"
+        "name": "NA-98 (Gujranwala-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8370,7 +8424,7 @@
     },
     {
       "area": {
-        "name": "NA-99(Gujranwala-V)"
+        "name": "NA-99 (Gujranwala-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8381,7 +8435,7 @@
     },
     {
       "area": {
-        "name": "NA-100(Gujranwala-VI)"
+        "name": "NA-100 (Gujranwala-VI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8392,7 +8446,7 @@
     },
     {
       "area": {
-        "name": "NA-101(Gujranwala-VII)"
+        "name": "NA-101 (Gujranwala-VII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8403,7 +8457,7 @@
     },
     {
       "area": {
-        "name": "NA-102(Hafizabad-I)"
+        "name": "NA-102 (Hafizabad-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8414,7 +8468,7 @@
     },
     {
       "area": {
-        "name": "NA-104(Gujrat-I)"
+        "name": "NA-104 (Gujrat-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8425,7 +8479,7 @@
     },
     {
       "area": {
-        "name": "NA-105(Gujrat-II)"
+        "name": "NA-105 (Gujrat-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pml",
@@ -8436,7 +8490,7 @@
     },
     {
       "area": {
-        "name": "NA-106(Gujrat-III)"
+        "name": "NA-106 (Gujrat-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8447,7 +8501,7 @@
     },
     {
       "area": {
-        "name": "NA-107(Gujrat-IV)"
+        "name": "NA-107 (Gujrat-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8458,7 +8512,7 @@
     },
     {
       "area": {
-        "name": "NA-109(M.B.Din-II)"
+        "name": "NA-109 (M.B.Din-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8469,7 +8523,7 @@
     },
     {
       "area": {
-        "name": "NA-110(Sialkot-I)"
+        "name": "NA-110 (Sialkot-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8480,7 +8534,7 @@
     },
     {
       "area": {
-        "name": "NA-111(Sialkot-II)"
+        "name": "NA-111 (Sialkot-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8491,7 +8545,7 @@
     },
     {
       "area": {
-        "name": "NA-112(Sialkot-III)"
+        "name": "NA-112 (Sialkot-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8502,7 +8556,7 @@
     },
     {
       "area": {
-        "name": "NA-113(Sialkot-IV)"
+        "name": "NA-113 (Sialkot-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8513,7 +8567,7 @@
     },
     {
       "area": {
-        "name": "NA-114(Sialkot-V)"
+        "name": "NA-114 (Sialkot-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8524,7 +8578,7 @@
     },
     {
       "area": {
-        "name": "NA-115(Narowal-I)"
+        "name": "NA-115 (Narowal-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8535,7 +8589,7 @@
     },
     {
       "area": {
-        "name": "NA-116(Narowal-II)"
+        "name": "NA-116 (Narowal-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8546,7 +8600,7 @@
     },
     {
       "area": {
-        "name": "NA-117(Narowal-III)"
+        "name": "NA-117 (Narowal-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8557,7 +8611,7 @@
     },
     {
       "area": {
-        "name": "NA-118(Lahore-I)"
+        "name": "NA-118 (Lahore-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8568,7 +8622,7 @@
     },
     {
       "area": {
-        "name": "NA-119(Lahore-II)"
+        "name": "NA-119 (Lahore-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8579,7 +8633,7 @@
     },
     {
       "area": {
-        "name": "NA-120(Lahore-III)"
+        "name": "NA-120 (Lahore-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8590,7 +8644,7 @@
     },
     {
       "area": {
-        "name": "NA-121(Lahore-IV)"
+        "name": "NA-121 (Lahore-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8601,7 +8655,7 @@
     },
     {
       "area": {
-        "name": "NA-122(Lahore-V)"
+        "name": "NA-122 (Lahore-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8612,7 +8666,7 @@
     },
     {
       "area": {
-        "name": "NA-123(Lahore-VI)"
+        "name": "NA-123 (Lahore-VI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8623,7 +8677,7 @@
     },
     {
       "area": {
-        "name": "NA-124(Lahore-VII)"
+        "name": "NA-124 (Lahore-VII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8634,7 +8688,7 @@
     },
     {
       "area": {
-        "name": "NA-125(Lahore-VIII)"
+        "name": "NA-125 (Lahore-VIII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8645,7 +8699,7 @@
     },
     {
       "area": {
-        "name": "NA-126(Lahore-IX)"
+        "name": "NA-126 (Lahore-IX)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -8656,7 +8710,7 @@
     },
     {
       "area": {
-        "name": "NA-127(Lahore-X)"
+        "name": "NA-127 (Lahore-X)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8667,7 +8721,7 @@
     },
     {
       "area": {
-        "name": "NA-128(Lahore-XI)"
+        "name": "NA-128 (Lahore-XI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8678,7 +8732,7 @@
     },
     {
       "area": {
-        "name": "NA-130(Lahore-XIII)"
+        "name": "NA-130 (Lahore-XIII)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8689,7 +8743,7 @@
     },
     {
       "area": {
-        "name": "NA-131(Sheikhupura-I)"
+        "name": "NA-131 (Sheikhupura-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8700,7 +8754,7 @@
     },
     {
       "area": {
-        "name": "NA-132(SHEIKHUPURA-II-cum-Nankana Sahib (Old Sheikhupura-II))"
+        "name": "NA-132 (SHEIKHUPURA-II-cum-Nankana Sahib (Old Sheikhupura-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8711,7 +8765,7 @@
     },
     {
       "area": {
-        "name": "NA-133(SHEIKHUPURA-III)"
+        "name": "NA-133 (SHEIKHUPURA-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8722,7 +8776,7 @@
     },
     {
       "area": {
-        "name": "NA-134(SHEIKHUPURA-IV)"
+        "name": "NA-134 (SHEIKHUPURA-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8733,7 +8787,7 @@
     },
     {
       "area": {
-        "name": "NA-135(NANKANA SAHIB-I-Cum-Sheikhupura (Old Sheikhupura-V))"
+        "name": "NA-135 (NANKANA SAHIB-I-Cum-Sheikhupura (Old Sheikhupura-V))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8744,7 +8798,7 @@
     },
     {
       "area": {
-        "name": "NA-136(NANKANA SAHIB-II-CUM-SHEIKHUPURA (Old Sheikhupura-VI))"
+        "name": "NA-136 (NANKANA SAHIB-II-CUM-SHEIKHUPURA (Old Sheikhupura-VI))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8755,7 +8809,7 @@
     },
     {
       "area": {
-        "name": "NA-138(Kasur-I)"
+        "name": "NA-138 (Kasur-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8766,7 +8820,7 @@
     },
     {
       "area": {
-        "name": "NA-139(Kasur-II)"
+        "name": "NA-139 (Kasur-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8777,7 +8831,7 @@
     },
     {
       "area": {
-        "name": "NA-140(Kasur-III)"
+        "name": "NA-140 (Kasur-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8788,7 +8842,7 @@
     },
     {
       "area": {
-        "name": "NA-141(Kasur-IV)"
+        "name": "NA-141 (Kasur-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8799,7 +8853,7 @@
     },
     {
       "area": {
-        "name": "NA-142(Kasur-V)"
+        "name": "NA-142 (Kasur-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8810,7 +8864,7 @@
     },
     {
       "area": {
-        "name": "NA-143(Okara-I)"
+        "name": "NA-143 (Okara-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8821,7 +8875,7 @@
     },
     {
       "area": {
-        "name": "NA-144(Okara-II)"
+        "name": "NA-144 (Okara-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8832,7 +8886,7 @@
     },
     {
       "area": {
-        "name": "NA-145(Okara-III)"
+        "name": "NA-145 (Okara-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8843,7 +8897,7 @@
     },
     {
       "area": {
-        "name": "NA-146(Okara--IV)"
+        "name": "NA-146 (Okara--IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8854,7 +8908,7 @@
     },
     {
       "area": {
-        "name": "NA-147(Okara-V)"
+        "name": "NA-147 (Okara-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8865,7 +8919,7 @@
     },
     {
       "area": {
-        "name": "NA-148(Multan-I)"
+        "name": "NA-148 (Multan-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8876,7 +8930,7 @@
     },
     {
       "area": {
-        "name": "NA-150(Multan-III)"
+        "name": "NA-150 (Multan-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
@@ -8887,7 +8941,7 @@
     },
     {
       "area": {
-        "name": "NA-151(Multan-IV)"
+        "name": "NA-151 (Multan-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8898,7 +8952,7 @@
     },
     {
       "area": {
-        "name": "NA-152(Multan-V)"
+        "name": "NA-152 (Multan-V)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8909,7 +8963,7 @@
     },
     {
       "area": {
-        "name": "NA-154(Lodhran-I)"
+        "name": "NA-154 (Lodhran-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8920,7 +8974,7 @@
     },
     {
       "area": {
-        "name": "NA-155(Lodhran-II)"
+        "name": "NA-155 (Lodhran-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8931,7 +8985,7 @@
     },
     {
       "area": {
-        "name": "NA-156(Khanewal-I)"
+        "name": "NA-156 (Khanewal-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8942,7 +8996,7 @@
     },
     {
       "area": {
-        "name": "NA-157(Khanewal-II)"
+        "name": "NA-157 (Khanewal-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8953,7 +9007,7 @@
     },
     {
       "area": {
-        "name": "NA-158(Khanewal-III)"
+        "name": "NA-158 (Khanewal-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8964,7 +9018,7 @@
     },
     {
       "area": {
-        "name": "NA-159(Khanewal-IV)"
+        "name": "NA-159 (Khanewal-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8975,7 +9029,7 @@
     },
     {
       "area": {
-        "name": "NA-160(Sahiwal-I)"
+        "name": "NA-160 (Sahiwal-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8986,7 +9040,7 @@
     },
     {
       "area": {
-        "name": "NA-161(Sahiwal-II)"
+        "name": "NA-161 (Sahiwal-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -8997,7 +9051,18 @@
     },
     {
       "area": {
-        "name": "NA-163(Sahiwal-IV)"
+        "name": "NA-162 (Sahiwal-III)"
+      },
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "pti",
+      "organization_id": "legislature",
+      "person_id": "person/830",
+      "role": "member",
+      "start_date": "2013-06-01"
+    },
+    {
+      "area": {
+        "name": "NA-163 (Sahiwal-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -9008,7 +9073,7 @@
     },
     {
       "area": {
-        "name": "NA-164(Pakpattan-I)"
+        "name": "NA-164 (Pakpattan-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -9019,7 +9084,7 @@
     },
     {
       "area": {
-        "name": "NA-165(Pakpattan-II)"
+        "name": "NA-165 (Pakpattan-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -9030,7 +9095,7 @@
     },
     {
       "area": {
-        "name": "NA-166(Pakpattan-III)"
+        "name": "NA-166 (Pakpattan-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
@@ -9371,7 +9436,7 @@
     },
     {
       "area": {
-        "name": "NA-198(Sukkur-I)"
+        "name": "NA-198 (Sukkur-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9382,7 +9447,7 @@
     },
     {
       "area": {
-        "name": "NA-199(SUKKUR-CUM-SHIKARPUR(II)(OLD SUKKUR-II))"
+        "name": "NA-199 (SUKKUR-CUM-SHIKARPUR (II) (OLD SUKKUR-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9393,7 +9458,7 @@
     },
     {
       "area": {
-        "name": "NA-200(Ghotki-I)"
+        "name": "NA-200 (Ghotki-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9404,7 +9469,7 @@
     },
     {
       "area": {
-        "name": "NA-201(Ghotki-II)"
+        "name": "NA-201 (Ghotki-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9415,7 +9480,7 @@
     },
     {
       "area": {
-        "name": "NA-203(SHIKARPUR-CUM-SUKKUR (OLD SHIKARPUR-II))"
+        "name": "NA-203 (SHIKARPUR-CUM-SUKKUR (OLD SHIKARPUR-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmlf",
@@ -9426,7 +9491,7 @@
     },
     {
       "area": {
-        "name": "NA-204(LARKANA (Old Larkana))"
+        "name": "NA-204 (LARKANA (Old Larkana))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9437,7 +9502,7 @@
     },
     {
       "area": {
-        "name": "NA-205(LARKANA-CUM-KAMBER SHAHDADKOT (OLD LARKANA-II))"
+        "name": "NA-205 (LARKANA-CUM-KAMBER SHAHDADKOT (OLD LARKANA-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9448,7 +9513,7 @@
     },
     {
       "area": {
-        "name": "NA-206(KAMBER SHAHDADKOT (OLD LARKANA-III))"
+        "name": "NA-206 (KAMBER SHAHDADKOT (OLD LARKANA-III))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9459,7 +9524,7 @@
     },
     {
       "area": {
-        "name": "NA-207(LARKANA-CUM-KAMBER SHAHDADKOT (OLD LARKANA-IV))"
+        "name": "NA-207 (LARKANA-CUM-KAMBER SHAHDADKOT (OLD LARKANA-IV))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9470,7 +9535,7 @@
     },
     {
       "area": {
-        "name": "NA-208(JACOBABAD (OLD JACOBABAD-I))"
+        "name": "NA-208 (JACOBABAD (OLD JACOBABAD-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9481,7 +9546,7 @@
     },
     {
       "area": {
-        "name": "NA-209(JACOBABAD-CUM-KASHMORE (OLD JACOBABAD-II))"
+        "name": "NA-209 (JACOBABAD-CUM-KASHMORE (OLD JACOBABAD-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9492,7 +9557,7 @@
     },
     {
       "area": {
-        "name": "NA-210(KASHMORE (OLD JACOBABAD-III))"
+        "name": "NA-210 (KASHMORE (OLD JACOBABAD-III))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9503,7 +9568,7 @@
     },
     {
       "area": {
-        "name": "NA-211(Naushero Feroze-I)"
+        "name": "NA-211 (Naushero Feroze-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "npp",
@@ -9514,7 +9579,7 @@
     },
     {
       "area": {
-        "name": "NA-212(Naushero Feroze-II)"
+        "name": "NA-212 (Naushero Feroze-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9525,7 +9590,7 @@
     },
     {
       "area": {
-        "name": "NA-213(Nawabshah-I)"
+        "name": "NA-213 (Nawabshah-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9536,7 +9601,7 @@
     },
     {
       "area": {
-        "name": "NA-214(SHAHEED BENAZIR ABAD (OLD NAWABSHAH-II))"
+        "name": "NA-214 (SHAHEED BENAZIR ABAD (OLD NAWABSHAH-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9547,7 +9612,7 @@
     },
     {
       "area": {
-        "name": "NA-215(Khairpur-I)"
+        "name": "NA-215 (Khairpur-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9558,7 +9623,7 @@
     },
     {
       "area": {
-        "name": "NA-216(Khairpur-II)"
+        "name": "NA-216 (Khairpur-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmlf",
@@ -9569,7 +9634,7 @@
     },
     {
       "area": {
-        "name": "NA-217(Khairpur-III)"
+        "name": "NA-217 (Khairpur-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmlf",
@@ -9580,7 +9645,7 @@
     },
     {
       "area": {
-        "name": "NA-218(MATIARI-CUM-HYDERABAD (OLD HYDERABAD-I))"
+        "name": "NA-218 (MATIARI-CUM-HYDERABAD (OLD HYDERABAD-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9591,7 +9656,7 @@
     },
     {
       "area": {
-        "name": "NA-219(Hyderabad-II)"
+        "name": "NA-219 (Hyderabad-II)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
@@ -9602,7 +9667,7 @@
     },
     {
       "area": {
-        "name": "NA-220(Hyderabad-III)"
+        "name": "NA-220 (Hyderabad-III)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
@@ -9613,7 +9678,7 @@
     },
     {
       "area": {
-        "name": "NA-221(Hyderabad-IV)"
+        "name": "NA-221 (Hyderabad-IV)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9624,7 +9689,7 @@
     },
     {
       "area": {
-        "name": "NA-222(TANDO MUHAMMAD KHAN-CUM-HYDERABAD-CUM-BADIN (HYDERABAD-V))"
+        "name": "NA-222 (TANDO MUHAMMAD KHAN-CUM-HYDERABAD-CUM-BADIN (HYDERABAD-V))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9635,7 +9700,7 @@
     },
     {
       "area": {
-        "name": "NA-223(Hyderabad-VI)"
+        "name": "NA-223 (Hyderabad-VI)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9646,7 +9711,7 @@
     },
     {
       "area": {
-        "name": "NA-224(BADIN-CUM-TANDO MUHAMMAD KHAN-I (OLD BADIN-I))"
+        "name": "NA-224 (BADIN-CUM-TANDO MUHAMMAD KHAN-I (OLD BADIN-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9657,7 +9722,7 @@
     },
     {
       "area": {
-        "name": "NA-225(BADIN-CUM-TANDO MUHAMMAD KHAN-II(OLD BADIN-II))"
+        "name": "NA-225 (BADIN-CUM-TANDO MUHAMMAD KHAN-II (OLD BADIN-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9668,7 +9733,7 @@
     },
     {
       "area": {
-        "name": "NA-226(MIRPUR KHAS-CUM-UMERKOT (I) (OLD MIRPURKHAS-I))"
+        "name": "NA-226 (MIRPUR KHAS-CUM-UMERKOT (I) (OLD MIRPURKHAS-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9679,7 +9744,7 @@
     },
     {
       "area": {
-        "name": "NA-227(MIRPURKHAS-CUM-UMERKOT (II) (OLD MIRPURKHAS-II))"
+        "name": "NA-227 (MIRPURKHAS-CUM-UMERKOT (II) (OLD MIRPURKHAS-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9690,7 +9755,7 @@
     },
     {
       "area": {
-        "name": "NA-228(UMERKOT (OLD MIRPURKHAS-III))"
+        "name": "NA-228 (UMERKOT (OLD MIRPURKHAS-III))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9701,7 +9766,7 @@
     },
     {
       "area": {
-        "name": "NA-231(JAMSHORO(OLD DADU-I))"
+        "name": "NA-231 (JAMSHORO (OLD DADU-I))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9712,7 +9777,7 @@
     },
     {
       "area": {
-        "name": "NA-232(DADU-I (OLD DADU-II))"
+        "name": "NA-232 (DADU-I (OLD DADU-II))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9723,7 +9788,7 @@
     },
     {
       "area": {
-        "name": "NA-233(DADU-II (OLD DADU-III))"
+        "name": "NA-233 (DADU-II (OLD DADU-III))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -9734,7 +9799,7 @@
     },
     {
       "area": {
-        "name": "NA-234(Sanghar-I)"
+        "name": "NA-234 (Sanghar-I)"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmlf",
@@ -9745,7 +9810,7 @@
     },
     {
       "area": {
-        "name": "NA-236 (SANGHAR-II(OLD SNAGHAR-III))"
+        "name": "NA-236 (SANGHAR-II (OLD SNAGHAR-III))"
       },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
@@ -10096,6 +10161,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10104,6 +10172,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10112,6 +10183,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10120,6 +10194,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10128,6 +10205,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10136,6 +10216,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10144,6 +10227,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10152,6 +10238,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10160,6 +10249,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10168,6 +10260,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10176,6 +10271,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10184,6 +10282,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10192,6 +10293,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10200,6 +10304,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10208,6 +10315,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10216,6 +10326,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10224,6 +10337,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10232,6 +10348,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10240,6 +10359,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10248,6 +10370,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10256,6 +10381,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10264,6 +10392,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10272,6 +10403,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10280,6 +10414,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10288,6 +10425,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10296,6 +10436,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10304,6 +10447,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10312,6 +10458,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10320,6 +10469,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10328,6 +10480,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10336,6 +10491,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
       "organization_id": "legislature",
@@ -10344,6 +10502,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
       "organization_id": "legislature",
@@ -10352,6 +10513,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
       "organization_id": "legislature",
@@ -10360,6 +10524,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmlf",
       "organization_id": "legislature",
@@ -10368,6 +10535,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "npp",
       "organization_id": "legislature",
@@ -10376,6 +10546,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10384,6 +10557,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10392,6 +10568,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10400,6 +10579,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10408,6 +10590,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10416,6 +10601,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
       "organization_id": "legislature",
@@ -10424,6 +10612,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
       "organization_id": "legislature",
@@ -10432,6 +10623,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10440,6 +10634,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "ji",
       "organization_id": "legislature",
@@ -10448,6 +10645,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10456,6 +10656,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmap",
       "organization_id": "legislature",
@@ -10464,6 +10667,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
       "organization_id": "legislature",
@@ -10472,6 +10678,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10480,6 +10689,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10488,6 +10700,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10496,6 +10711,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10504,6 +10722,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10512,6 +10733,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pppp",
       "organization_id": "legislature",
@@ -10520,6 +10744,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pti",
       "organization_id": "legislature",
@@ -10528,6 +10755,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "mqm",
       "organization_id": "legislature",
@@ -10536,6 +10766,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "juif",
       "organization_id": "legislature",
@@ -10544,6 +10777,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10552,6 +10788,9 @@
       "start_date": "2013-06-01"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -10560,6 +10799,9 @@
       "start_date": "2013-06-03"
     },
     {
+      "area": {
+        "name": ""
+      },
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
