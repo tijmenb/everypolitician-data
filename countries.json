@@ -1081,42 +1081,56 @@
     "code": "NA",
     "sources_directory": "data/Namibia/sources",
     "popolo": "data/Namibia/final.json",
-    "lastmod": "1434277437",
-    "sha": "1ea95be",
+    "lastmod": "1434278458",
+    "sha": "dbb04e9",
     "legislative_periods": [
       {
+        "end_date": "1998",
         "id": "term/1",
-        "name": "1",
+        "name": "1st National Council: 1993 - 1998",
+        "start_date": "1993",
         "csv": "data/Namibia/term-1.csv"
       },
       {
+        "end_date": "1990",
         "id": "term/0",
-        "name": "0",
+        "name": "Constituent Assembly: 1989 - 1990",
+        "start_date": "1989",
         "csv": "data/Namibia/term-0.csv"
       },
       {
+        "end_date": "2010",
         "id": "term/3",
-        "name": "3",
+        "name": "3rd National Council: 2004 - 2010",
+        "start_date": "2004",
         "csv": "data/Namibia/term-3.csv"
       },
       {
+        "end_date": "2015",
         "id": "term/4",
-        "name": "4",
+        "name": "4th National Council: 2010 - 2015",
+        "start_date": "2010",
         "csv": "data/Namibia/term-4.csv"
       },
       {
+        "end_date": "2020",
         "id": "term/6",
-        "name": "6",
+        "name": "6th National Assembly: 2015 - 2020",
+        "start_date": "2015",
         "csv": "data/Namibia/term-6.csv"
       },
       {
+        "end_date": "2004",
         "id": "term/2",
-        "name": "2",
+        "name": "2nd National Council: 1998 - 2004",
+        "start_date": "1998",
         "csv": "data/Namibia/term-2.csv"
       },
       {
+        "end_date": "2015",
         "id": "term/5",
-        "name": "5",
+        "name": "5th National Assembly: 2010 - 2015",
+        "start_date": "2010",
         "csv": "data/Namibia/term-5.csv"
       }
     ]
