@@ -1077,6 +1077,51 @@
     ]
   },
   {
+    "country": "Namibia",
+    "code": "NA",
+    "sources_directory": "data/Namibia/sources",
+    "popolo": "data/Namibia/final.json",
+    "lastmod": "1434277437",
+    "sha": "1ea95be",
+    "legislative_periods": [
+      {
+        "id": "term/1",
+        "name": "1",
+        "csv": "data/Namibia/term-1.csv"
+      },
+      {
+        "id": "term/0",
+        "name": "0",
+        "csv": "data/Namibia/term-0.csv"
+      },
+      {
+        "id": "term/3",
+        "name": "3",
+        "csv": "data/Namibia/term-3.csv"
+      },
+      {
+        "id": "term/4",
+        "name": "4",
+        "csv": "data/Namibia/term-4.csv"
+      },
+      {
+        "id": "term/6",
+        "name": "6",
+        "csv": "data/Namibia/term-6.csv"
+      },
+      {
+        "id": "term/2",
+        "name": "2",
+        "csv": "data/Namibia/term-2.csv"
+      },
+      {
+        "id": "term/5",
+        "name": "5",
+        "csv": "data/Namibia/term-5.csv"
+      }
+    ]
+  },
+  {
     "country": "New Zealand",
     "code": "NZ",
     "sources_directory": "data/New Zealand/sources",
