@@ -1557,6 +1557,11 @@
       "classification": "party",
       "id": "union_fait_la_nation",
       "name": "Union fait la Nation"
+    },
+    {
+      "classification": "party",
+      "id": "party/_unknown",
+      "name": "Unknown"
     }
   ],
   "meta": {
@@ -1608,7 +1613,7 @@
         "name": "Collines"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/agoua_edmond",
       "role": "member"
@@ -1728,7 +1733,7 @@
         "name": "ALIBORI"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/bani_samari",
       "role": "member"
@@ -1818,7 +1823,7 @@
         "name": ""
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/djaouga_boubacar",
       "role": "member"
@@ -1828,7 +1833,7 @@
         "name": ""
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/domingo_cyriaque",
       "role": "member"
@@ -1908,7 +1913,7 @@
         "name": "ATLANTIQUE"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/gnigla_venance",
       "role": "member"
@@ -1918,7 +1923,7 @@
         "name": "DONGA"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/gobi_bado",
       "role": "member"
@@ -1948,7 +1953,7 @@
         "name": ""
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/goutolou_celestin",
       "role": "member"
@@ -2008,7 +2013,7 @@
         "name": ""
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/houngnibo_lucien",
       "role": "member"
@@ -2018,7 +2023,7 @@
         "name": ""
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/houssou_christophe",
       "role": "member"
@@ -2038,7 +2043,7 @@
         "name": "ALIBORI"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/issa_salifou",
       "role": "member"
@@ -2098,7 +2103,7 @@
         "name": "COLLINES"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/laourou_gregoire",
       "role": "member"
@@ -2178,7 +2183,7 @@
         "name": "LITTORAL"
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/quenum_epiphane",
       "role": "member"
@@ -2248,7 +2253,7 @@
         "name": ""
       },
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "person/sinkpota_evariste",
       "role": "member"
