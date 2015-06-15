@@ -1414,6 +1414,22 @@
     ]
   },
   {
+    "country": "Spain",
+    "code": "ES",
+    "sources_directory": "data/Spain/sources",
+    "popolo": "data/Spain/final.json",
+    "lastmod": "1434369302",
+    "sha": "3cd0fcb",
+    "legislative_periods": [
+      {
+        "id": "term/10",
+        "name": "X Legislatura",
+        "start_date": "2011-11-28",
+        "csv": "data/Spain/term-10.csv"
+      }
+    ]
+  },
+  {
     "country": "Suriname",
     "code": "SR",
     "sources_directory": "data/Suriname/sources",
