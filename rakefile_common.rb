@@ -197,7 +197,7 @@ namespace :transform do
   task :ensure_behalf_of => :ensure_legislature do
     leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
-      m[:on_behalf_of_id] ||= unknown_party[:id]
+      m[:on_behalf_of_id] = unknown_party[:id] if m[:on_behalf_of_id].to_s.empty?
     end
   end
 
