@@ -87,6 +87,22 @@
     ]
   },
   {
+    "country": "Benin",
+    "code": "BJ",
+    "sources_directory": "data/Benin/sources",
+    "popolo": "data/Benin/final.json",
+    "lastmod": "1434360680",
+    "sha": "dc24a0e",
+    "legislative_periods": [
+      {
+        "id": "term/6",
+        "name": "6e législature",
+        "start_date": "2015-04-26",
+        "csv": "data/Benin/term-6.csv"
+      }
+    ]
+  },
+  {
     "country": "Bermuda",
     "code": "BM",
     "sources_directory": "data/Bermuda/sources",
