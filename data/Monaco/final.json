@@ -838,7 +838,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "name": "HM Horizon Monaco"
     },
     {
@@ -849,7 +849,7 @@
           "classification": "legislative period",
           "end_date": "2018",
           "id": "term/2013",
-          "name": "2013-1018",
+          "name": "2013",
           "start_date": "2013-02-21"
         },
         {
@@ -871,88 +871,68 @@
     },
     {
       "classification": "party",
-      "id": "party/f9d2e92b-ebd6-4a63-aaed-a308ecd74ff9",
+      "id": "party/0feebeb9-fd7c-4456-a36a-9f037522a88c",
       "name": "PEP (Principauté Ethique Progrès)"
     },
     {
       "classification": "party",
-      "id": "party/d5bb8af5-d5f3-481f-b9ec-a22bee12068d",
+      "id": "party/23e29180-c742-4551-be8d-9086e5b00c13",
       "name": "PFM (Promotion de la Famille Monégasque)"
     },
     {
       "classification": "party",
-      "id": "party/3c01c947-1b66-4729-96f0-3cfec805e4df",
+      "id": "party/f670e4fe-9052-4932-87e7-d6783d35ab4f",
       "name": "PM (Parti Monégasque)"
     },
     {
       "classification": "party",
-      "id": "party/426fe98c-17b1-411c-a899-75b5ff3aff18",
+      "id": "party/5ea019ee-98bc-4c02-b5a2-461fa28de21d",
       "name": "R Renaissance"
     },
     {
       "classification": "party",
-      "id": "party/9b070dd6-5781-4df4-97ce-e72f2c1bca9e",
+      "id": "party/eb9553e9-7fda-4a9b-bbd6-5e0c3801f171",
       "name": "R&E Rassemblement et Enjeux"
     },
     {
       "classification": "party",
-      "id": "party/e9704868-b336-4d7c-a73b-0e017857efd6",
-      "name": "R&E Rassemblement et Enjeux "
-    },
-    {
-      "classification": "party",
-      "id": "party/7feb9673-f544-45cf-8ed3-a1464a65ae09",
+      "id": "party/9e5a9938-9710-43ff-bf7b-bec7581af68f",
       "name": "RPM (Rassemblement Pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/e81991e3-5891-4c75-b1c6-08d067196022",
+      "id": "party/85996fd7-ec9a-4076-92d1-7d4008619b60",
       "name": "Synergie Monégasque"
     },
     {
       "classification": "party",
-      "id": "party/7045bedd-c64b-471b-92e2-f8231db8401e",
+      "id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "name": "UDM Union Des Monégasques"
     },
     {
       "classification": "party",
-      "id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
-      "name": "UDM Union Des Monégasques "
-    },
-    {
-      "classification": "party",
-      "id": "party/38f258ae-7ff1-4603-9d33-9dc882d04a00",
+      "id": "party/bc7aa91e-6c2e-4c0c-9f57-9fdaa6f29f65",
       "name": "UM Union Monégasque"
     },
     {
       "classification": "party",
-      "id": "party/f676840e-d9a8-479c-bd8d-563638284d68",
-      "name": "UNAM (Union Nationale pour l'Avenir de Monaco), UpM (Union pour Monaco) "
-    },
-    {
-      "classification": "party",
-      "id": "party/9f2e8795-832b-4574-bd0b-89867db1e8c2",
+      "id": "party/1ea7b970-c5da-4f3d-80f0-6c5f9869e386",
       "name": "UNAM (Union Nationale pour l'Avenir de Monaco), appartenant à la majorité UpM (Union pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/2782af5f-f634-4024-b952-9160b71fe2b3",
+      "id": "party/7320c416-ee4f-4f6b-bcd5-d94aa723dc84",
       "name": "UNAM Union Nationale pour l'Avenir de Monaco UpM (Union pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "name": "UP (Union pour la Principauté), appartenant à la majorité UpM (Union pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/0692545a-4c7a-4c63-8b41-a4fb45e5a8ff",
+      "id": "party/92c2c171-2670-4022-ad98-ab9f96b542ad",
       "name": "UP Union pour la Principauté UpM (Union pour Monaco)"
-    },
-    {
-      "classification": "party",
-      "id": "party/d2c6fcd0-b8c0-449b-8982-35c03c6ecba6",
-      "name": "UP Union pour la PrincipautéUpM (Union pour Monaco)"
     }
   ],
   "meta": {
@@ -964,35 +944,35 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Alain-FICINI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Alexandre-BORDERO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Alexandre-BORDERO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/d2c6fcd0-b8c0-449b-8982-35c03c6ecba6",
+      "on_behalf_of_id": "party/92c2c171-2670-4022-ad98-ab9f96b542ad",
       "organization_id": "legislature",
       "person_id": "person/Anne-POYARD-VATRICAN",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Anne-POYARD-VATRICAN",
       "role": "member"
@@ -1002,21 +982,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Beatrice-FRESKO-ROLFO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Bernard-MARQUET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/9f2e8795-832b-4574-bd0b-89867db1e8c2",
+      "on_behalf_of_id": "party/1ea7b970-c5da-4f3d-80f0-6c5f9869e386",
       "organization_id": "legislature",
       "person_id": "person/Bernard-MARQUET",
       "role": "member"
@@ -1026,28 +1006,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/38f258ae-7ff1-4603-9d33-9dc882d04a00",
+      "on_behalf_of_id": "party/bc7aa91e-6c2e-4c0c-9f57-9fdaa6f29f65",
       "organization_id": "legislature",
       "person_id": "person/Bernard-PASQUIER",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Brigitte-BOCCONE-PAGES",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/0692545a-4c7a-4c63-8b41-a4fb45e5a8ff",
+      "on_behalf_of_id": "party/92c2c171-2670-4022-ad98-ab9f96b542ad",
       "organization_id": "legislature",
       "person_id": "person/Brigitte-BOCCONE-PAGES",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/9f2e8795-832b-4574-bd0b-89867db1e8c2",
+      "on_behalf_of_id": "party/1ea7b970-c5da-4f3d-80f0-6c5f9869e386",
       "organization_id": "legislature",
       "person_id": "person/Bruno-BLANCHY",
       "role": "member"
@@ -1057,14 +1037,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Caroline-ROUGAIGNON-VERNIN",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Catherine-FAUTRIER",
       "role": "member"
@@ -1074,14 +1054,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Christian-BARILARO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/3c01c947-1b66-4729-96f0-3cfec805e4df",
+      "on_behalf_of_id": "party/f670e4fe-9052-4932-87e7-d6783d35ab4f",
       "organization_id": "legislature",
       "person_id": "person/Christine-PASQUIER-CIULLA",
       "role": "member"
@@ -1091,14 +1071,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Christophe-ROBINO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Christophe-SPILIOTIS-SAQUET",
       "role": "member"
@@ -1108,21 +1088,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Christophe-STEINER",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/9b070dd6-5781-4df4-97ce-e72f2c1bca9e",
+      "on_behalf_of_id": "party/eb9553e9-7fda-4a9b-bbd6-5e0c3801f171",
       "organization_id": "legislature",
       "person_id": "person/Christophe-STEINER",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/e81991e3-5891-4c75-b1c6-08d067196022",
+      "on_behalf_of_id": "party/85996fd7-ec9a-4076-92d1-7d4008619b60",
       "organization_id": "legislature",
       "person_id": "person/Claude-BOISSON",
       "role": "member"
@@ -1132,21 +1112,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Claude-BOISSON",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/9f2e8795-832b-4574-bd0b-89867db1e8c2",
+      "on_behalf_of_id": "party/1ea7b970-c5da-4f3d-80f0-6c5f9869e386",
       "organization_id": "legislature",
       "person_id": "person/Claude-CELLARIO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/2782af5f-f634-4024-b952-9160b71fe2b3",
+      "on_behalf_of_id": "party/7320c416-ee4f-4f6b-bcd5-d94aa723dc84",
       "organization_id": "legislature",
       "person_id": "person/Claude-CELLARIO",
       "role": "member"
@@ -1156,14 +1136,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Daniel-BOERI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Daniel-RAYMOND",
       "role": "member"
@@ -1173,56 +1153,56 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/426fe98c-17b1-411c-a899-75b5ff3aff18",
+      "on_behalf_of_id": "party/5ea019ee-98bc-4c02-b5a2-461fa28de21d",
       "organization_id": "legislature",
       "person_id": "person/Eric-ELENA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/2782af5f-f634-4024-b952-9160b71fe2b3",
+      "on_behalf_of_id": "party/7320c416-ee4f-4f6b-bcd5-d94aa723dc84",
       "organization_id": "legislature",
       "person_id": "person/Eric-GUAZZONNE",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/7045bedd-c64b-471b-92e2-f8231db8401e",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Fabrice-NOTARI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Fabrice-NOTARI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Gerard-BERTRAND",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Guillaume-ROSE",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/7feb9673-f544-45cf-8ed3-a1464a65ae09",
+      "on_behalf_of_id": "party/9e5a9938-9710-43ff-bf7b-bec7581af68f",
       "organization_id": "legislature",
       "person_id": "person/Henry-REY",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/d5bb8af5-d5f3-481f-b9ec-a22bee12068d",
+      "on_behalf_of_id": "party/23e29180-c742-4551-be8d-9086e5b00c13",
       "organization_id": "legislature",
       "person_id": "person/Jacques-RIT",
       "role": "member"
@@ -1232,7 +1212,7 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Jacques-RIT",
       "role": "member"
@@ -1242,28 +1222,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Jean-Charles-ALLAVENA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Jean-Charles-GARDETTO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Jean-Charles-GARDETTO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Jean-Francois-ROBILLON",
       "role": "member"
@@ -1273,21 +1253,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/38f258ae-7ff1-4603-9d33-9dc882d04a00",
+      "on_behalf_of_id": "party/bc7aa91e-6c2e-4c0c-9f57-9fdaa6f29f65",
       "organization_id": "legislature",
       "person_id": "person/Jean-Francois-ROBILLON",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/7045bedd-c64b-471b-92e2-f8231db8401e",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Jean-Francois-ROBILLON",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/7feb9673-f544-45cf-8ed3-a1464a65ae09",
+      "on_behalf_of_id": "party/9e5a9938-9710-43ff-bf7b-bec7581af68f",
       "organization_id": "legislature",
       "person_id": "person/Jean-Joseph-PASTOR",
       "role": "member"
@@ -1297,21 +1277,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/38f258ae-7ff1-4603-9d33-9dc882d04a00",
+      "on_behalf_of_id": "party/bc7aa91e-6c2e-4c0c-9f57-9fdaa6f29f65",
       "organization_id": "legislature",
       "person_id": "person/Jean-Louis-GRINDA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/d5bb8af5-d5f3-481f-b9ec-a22bee12068d",
+      "on_behalf_of_id": "party/23e29180-c742-4551-be8d-9086e5b00c13",
       "organization_id": "legislature",
       "person_id": "person/Jean-Luc-NIGIONI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Jean-Michel-CUCCHI",
       "role": "member"
@@ -1321,21 +1301,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Jean-Michel-CUCCHI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/d5bb8af5-d5f3-481f-b9ec-a22bee12068d",
+      "on_behalf_of_id": "party/23e29180-c742-4551-be8d-9086e5b00c13",
       "organization_id": "legislature",
       "person_id": "person/Jean-Pierre-LICARI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/e9704868-b336-4d7c-a73b-0e017857efd6",
+      "on_behalf_of_id": "party/eb9553e9-7fda-4a9b-bbd6-5e0c3801f171",
       "organization_id": "legislature",
       "person_id": "person/Laurent-NOUVION",
       "role": "member"
@@ -1345,7 +1325,7 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Laurent-NOUVION",
       "role": "member"
@@ -1355,28 +1335,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Marc-BURINI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/e9704868-b336-4d7c-a73b-0e017857efd6",
+      "on_behalf_of_id": "party/eb9553e9-7fda-4a9b-bbd6-5e0c3801f171",
       "organization_id": "legislature",
       "person_id": "person/Marc-BURINI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f676840e-d9a8-479c-bd8d-563638284d68",
+      "on_behalf_of_id": "party/7320c416-ee4f-4f6b-bcd5-d94aa723dc84",
       "organization_id": "legislature",
       "person_id": "person/Michele-DITTLOT",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/9f2e8795-832b-4574-bd0b-89867db1e8c2",
+      "on_behalf_of_id": "party/1ea7b970-c5da-4f3d-80f0-6c5f9869e386",
       "organization_id": "legislature",
       "person_id": "person/Michele-DITTLOT",
       "role": "member"
@@ -1386,14 +1366,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Nathalie-AMORATTI-BLANC",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Nicole-MANZONE-SAQUET",
       "role": "member"
@@ -1403,14 +1383,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Philippe-CLERISSI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/7045bedd-c64b-471b-92e2-f8231db8401e",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Pierre-LORENZI",
       "role": "member"
@@ -1420,14 +1400,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Pierre-SVARA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/f39d71e1-e53c-4f58-b0d4-0594b60defa3",
+      "on_behalf_of_id": "party/3f206a13-289a-4a0c-90cb-1b62f018da26",
       "organization_id": "legislature",
       "person_id": "person/Roland-MARQUET",
       "role": "member"
@@ -1437,7 +1417,7 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Sophie-LAVAGNA",
       "role": "member"
@@ -1447,7 +1427,7 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Thierry-CROVETTO",
       "role": "member"
@@ -1457,14 +1437,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Thierry-POYET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/650b55dc-f003-433d-8212-4c2b3c0522ce",
+      "on_behalf_of_id": "party/3a73a2f0-58a2-47b6-8583-742a2d25dcb2",
       "organization_id": "legislature",
       "person_id": "person/Thomas-GIACCARDI",
       "role": "member"
@@ -1474,14 +1454,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/b41ff442-68ad-4d39-82d5-d0d564d7dd16",
+      "on_behalf_of_id": "party/261d29be-a325-4faf-8b43-a5bcb05f944a",
       "organization_id": "legislature",
       "person_id": "person/Valerie-ROSSI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/f9d2e92b-ebd6-4a63-aaed-a308ecd74ff9",
+      "on_behalf_of_id": "party/0feebeb9-fd7c-4456-a36a-9f037522a88c",
       "organization_id": "legislature",
       "person_id": "person/Vincent-PALMARO",
       "role": "member"
