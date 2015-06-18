@@ -45,8 +45,9 @@ end
 
 def terms_from(json_file, c)
   json = JSON.parse(File.read(json_file), symbolize_names: true)
-  json[:organizations].find { |o| o.key? :legislative_periods }[:legislative_periods].map { |t|
+  json[:events].find_all { |o| o[:classification] == 'legislative period' }.map { |t|
     t.delete :classification
+    t.delete :organization_id
     t[:csv] = c[:path] + "/term-#{t[:id].split('/').last}.csv"
     t
   }.select { |t| File.exist? t[:csv] }
