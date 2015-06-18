@@ -1968,62 +1968,62 @@
     },
     {
       "classification": "party",
-      "id": "party/78f19d66-f6fb-4a4b-82af-46dce722ae56",
+      "id": "party/club_2002_pur",
       "name": "CLUB 2002 PUR"
     },
     {
       "classification": "party",
-      "id": "party/37127093-320d-4bef-a49c-ce720210cd97",
+      "id": "party/cpr",
       "name": "CPR"
     },
     {
       "classification": "party",
-      "id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "id": "party/independent",
       "name": "Independent"
     },
     {
       "classification": "party",
-      "id": "party/400da107-d209-41bb-b9a0-be29cbc1a4ab",
+      "id": "party/mar",
       "name": "MAR"
     },
     {
       "classification": "party",
-      "id": "party/4d2f7adb-2c3e-4266-ac66-f399f4c938f9",
+      "id": "party/mcddi",
       "name": "MCDDI"
     },
     {
       "classification": "party",
-      "id": "party/a683a2cd-0f02-4f88-a305-e5425480caa0",
+      "id": "party/must",
       "name": "MUST"
     },
     {
       "classification": "party",
-      "id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "id": "party/pct",
       "name": "PCT"
     },
     {
       "classification": "party",
-      "id": "party/0bfd44cd-cb5e-494c-80fa-1d1991ce9151",
+      "id": "party/prl",
       "name": "PRL"
     },
     {
       "classification": "party",
-      "id": "party/05c98d71-34a8-4d5a-b812-592cf6ec93de",
+      "id": "party/rc",
       "name": "RC"
     },
     {
       "classification": "party",
-      "id": "party/080340c0-cab1-4995-9f44-4d23cbe85529",
+      "id": "party/rdps",
       "name": "RDPS"
     },
     {
       "classification": "party",
-      "id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "id": "party/upads",
       "name": "UPADS"
     },
     {
       "classification": "party",
-      "id": "party/deaaa4b6-72f1-4480-b084-2c98357c43dc",
+      "id": "party/ur",
       "name": "UR"
     }
   ],
@@ -2036,7 +2036,7 @@
         "name": "LOANGO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/400da107-d209-41bb-b9a0-be29cbc1a4ab",
+      "on_behalf_of_id": "party/mar",
       "organization_id": "legislature",
       "person_id": "person/1",
       "role": "member"
@@ -2046,7 +2046,7 @@
         "name": "Circonscription de"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/080340c0-cab1-4995-9f44-4d23cbe85529",
+      "on_behalf_of_id": "party/rdps",
       "organization_id": "legislature",
       "person_id": "person/10",
       "role": "member"
@@ -2056,7 +2056,7 @@
         "name": "MOUTAMBA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/100",
       "role": "member"
@@ -2066,7 +2066,7 @@
         "name": "NYANGA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/101",
       "role": "member"
@@ -2076,7 +2076,7 @@
         "name": "YAYA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/102",
       "role": "member"
@@ -2086,7 +2086,7 @@
         "name": "SIBITI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "on_behalf_of_id": "party/upads",
       "organization_id": "legislature",
       "person_id": "person/103",
       "role": "member"
@@ -2096,7 +2096,7 @@
         "name": "SIBITI2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/104",
       "role": "member"
@@ -2106,7 +2106,7 @@
         "name": "BAMBAMA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "on_behalf_of_id": "party/upads",
       "organization_id": "legislature",
       "person_id": "person/105",
       "role": "member"
@@ -2116,7 +2116,7 @@
         "name": "KOMONO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/106",
       "role": "member"
@@ -2126,7 +2126,7 @@
         "name": "MAYEYE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/107",
       "role": "member"
@@ -2136,7 +2136,7 @@
         "name": "ZANAGA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/108",
       "role": "member"
@@ -2146,7 +2146,7 @@
         "name": "MADINGOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/109",
       "role": "member"
@@ -2156,7 +2156,7 @@
         "name": "MVOU-MVOU2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/11",
       "role": "member"
@@ -2166,7 +2166,7 @@
         "name": "BOKO-SONGHO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/deaaa4b6-72f1-4480-b084-2c98357c43dc",
+      "on_behalf_of_id": "party/ur",
       "organization_id": "legislature",
       "person_id": "person/110",
       "role": "member"
@@ -2176,7 +2176,7 @@
         "name": "KAYES"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/111",
       "role": "member"
@@ -2186,7 +2186,7 @@
         "name": "KINGOUE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/112",
       "role": "member"
@@ -2196,7 +2196,7 @@
         "name": "LOUDIMA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "on_behalf_of_id": "party/upads",
       "organization_id": "legislature",
       "person_id": "person/113",
       "role": "member"
@@ -2206,7 +2206,7 @@
         "name": "MABOMBO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/114",
       "role": "member"
@@ -2216,7 +2216,7 @@
         "name": "MFOUATI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/115",
       "role": "member"
@@ -2226,7 +2226,7 @@
         "name": "MOUYONDZI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/a683a2cd-0f02-4f88-a305-e5425480caa0",
+      "on_behalf_of_id": "party/must",
       "organization_id": "legislature",
       "person_id": "person/116",
       "role": "member"
@@ -2236,7 +2236,7 @@
         "name": "NKAYI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/117",
       "role": "member"
@@ -2246,7 +2246,7 @@
         "name": "TSIAKI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/118",
       "role": "member"
@@ -2256,7 +2256,7 @@
         "name": "YAMBA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/a683a2cd-0f02-4f88-a305-e5425480caa0",
+      "on_behalf_of_id": "party/must",
       "organization_id": "legislature",
       "person_id": "person/119",
       "role": "member"
@@ -2266,7 +2266,7 @@
         "name": "LOANDJILI1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/080340c0-cab1-4995-9f44-4d23cbe85529",
+      "on_behalf_of_id": "party/rdps",
       "organization_id": "legislature",
       "person_id": "person/12",
       "role": "member"
@@ -2276,7 +2276,7 @@
         "name": "TALANGAI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/121",
       "role": "member"
@@ -2286,7 +2286,7 @@
         "name": "OUENZE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/122",
       "role": "member"
@@ -2296,7 +2296,7 @@
         "name": "TALANGAI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/123",
       "role": "member"
@@ -2306,7 +2306,7 @@
         "name": "LOANDJILI2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/13",
       "role": "member"
@@ -2316,7 +2316,7 @@
         "name": "LUMUMBA1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/14",
       "role": "member"
@@ -2326,7 +2326,7 @@
         "name": "LUMUMBA2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/15",
       "role": "member"
@@ -2336,7 +2336,7 @@
         "name": "LUMUMBA3"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/400da107-d209-41bb-b9a0-be29cbc1a4ab",
+      "on_behalf_of_id": "party/mar",
       "organization_id": "legislature",
       "person_id": "person/16",
       "role": "member"
@@ -2346,7 +2346,7 @@
         "name": "NGOYO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/17",
       "role": "member"
@@ -2356,7 +2356,7 @@
         "name": "MONGO MPOUKOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/080340c0-cab1-4995-9f44-4d23cbe85529",
+      "on_behalf_of_id": "party/rdps",
       "organization_id": "legislature",
       "person_id": "person/18",
       "role": "member"
@@ -2366,7 +2366,7 @@
         "name": "TCHIAMBA NZASSI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/080340c0-cab1-4995-9f44-4d23cbe85529",
+      "on_behalf_of_id": "party/rdps",
       "organization_id": "legislature",
       "person_id": "person/19",
       "role": "member"
@@ -2376,7 +2376,7 @@
         "name": "HINDA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/400da107-d209-41bb-b9a0-be29cbc1a4ab",
+      "on_behalf_of_id": "party/mar",
       "organization_id": "legislature",
       "person_id": "person/2",
       "role": "member"
@@ -2386,7 +2386,7 @@
         "name": "DOLISIE1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "on_behalf_of_id": "party/upads",
       "organization_id": "legislature",
       "person_id": "person/20",
       "role": "member"
@@ -2396,7 +2396,7 @@
         "name": "DOLISIE2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "on_behalf_of_id": "party/upads",
       "organization_id": "legislature",
       "person_id": "person/21",
       "role": "member"
@@ -2406,7 +2406,7 @@
         "name": "BANDA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/22",
       "role": "member"
@@ -2416,7 +2416,7 @@
         "name": "IMPFONDO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/23",
       "role": "member"
@@ -2426,7 +2426,7 @@
         "name": "BETOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/24",
       "role": "member"
@@ -2436,7 +2436,7 @@
         "name": "BOUANELA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/25",
       "role": "member"
@@ -2446,7 +2446,7 @@
         "name": "DONGOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/26",
       "role": "member"
@@ -2456,7 +2456,7 @@
         "name": "EPENA1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/27",
       "role": "member"
@@ -2466,7 +2466,7 @@
         "name": "EPENA2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/28",
       "role": "member"
@@ -2476,7 +2476,7 @@
         "name": "ENYELLE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/29",
       "role": "member"
@@ -2486,7 +2486,7 @@
         "name": "KAKAMOEKA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/3",
       "role": "member"
@@ -2496,7 +2496,7 @@
         "name": "Circonscription de"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/30",
       "role": "member"
@@ -2506,7 +2506,7 @@
         "name": "OUESSO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/31",
       "role": "member"
@@ -2516,7 +2516,7 @@
         "name": "MOKEKO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/32",
       "role": "member"
@@ -2526,7 +2526,7 @@
         "name": "NGBALA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/33",
       "role": "member"
@@ -2536,7 +2536,7 @@
         "name": "PIKOUNDA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/34",
       "role": "member"
@@ -2546,7 +2546,7 @@
         "name": "SEMBE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/35",
       "role": "member"
@@ -2556,7 +2556,7 @@
         "name": "SOUANKE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/36",
       "role": "member"
@@ -2566,7 +2566,7 @@
         "name": "EWO1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/37",
       "role": "member"
@@ -2576,7 +2576,7 @@
         "name": "EWO2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/38",
       "role": "member"
@@ -2586,7 +2586,7 @@
         "name": "ETOUMBI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/39",
       "role": "member"
@@ -2596,7 +2596,7 @@
         "name": "MADINGO-KAYES"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/400da107-d209-41bb-b9a0-be29cbc1a4ab",
+      "on_behalf_of_id": "party/mar",
       "organization_id": "legislature",
       "person_id": "person/4",
       "role": "member"
@@ -2606,7 +2606,7 @@
         "name": "KELLE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/40",
       "role": "member"
@@ -2616,7 +2616,7 @@
         "name": "MBAMA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/41",
       "role": "member"
@@ -2626,7 +2626,7 @@
         "name": "Circonscription de"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/42",
       "role": "member"
@@ -2636,7 +2636,7 @@
         "name": "OKOYO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/43",
       "role": "member"
@@ -2646,7 +2646,7 @@
         "name": "OWANDO1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/44",
       "role": "member"
@@ -2656,7 +2656,7 @@
         "name": "OWANDO2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/45",
       "role": "member"
@@ -2666,7 +2666,7 @@
         "name": "BOUNDJI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/46",
       "role": "member"
@@ -2676,7 +2676,7 @@
         "name": "LOUKOLELA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/47",
       "role": "member"
@@ -2686,7 +2686,7 @@
         "name": "MAKOUA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/48",
       "role": "member"
@@ -2696,7 +2696,7 @@
         "name": "MOSSAKA1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/49",
       "role": "member"
@@ -2706,7 +2706,7 @@
         "name": "MVOUTI1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/080340c0-cab1-4995-9f44-4d23cbe85529",
+      "on_behalf_of_id": "party/rdps",
       "organization_id": "legislature",
       "person_id": "person/5",
       "role": "member"
@@ -2716,7 +2716,7 @@
         "name": "MOSSAKA2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/50",
       "role": "member"
@@ -2726,7 +2726,7 @@
         "name": "NGOKO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/51",
       "role": "member"
@@ -2736,7 +2736,7 @@
         "name": "NTOKOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/52",
       "role": "member"
@@ -2746,7 +2746,7 @@
         "name": "OYO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/53",
       "role": "member"
@@ -2756,7 +2756,7 @@
         "name": "TCHIKAPIKA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/54",
       "role": "member"
@@ -2766,7 +2766,7 @@
         "name": "DJAMBALA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/55",
       "role": "member"
@@ -2776,7 +2776,7 @@
         "name": "ABALA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/56",
       "role": "member"
@@ -2786,7 +2786,7 @@
         "name": "ALLEMBE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/57",
       "role": "member"
@@ -2796,7 +2796,7 @@
         "name": "GAMBOMA1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/58",
       "role": "member"
@@ -2806,7 +2806,7 @@
         "name": "GAMBOMA2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/59",
       "role": "member"
@@ -2816,7 +2816,7 @@
         "name": "MVOUTI2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/6",
       "role": "member"
@@ -2826,7 +2826,7 @@
         "name": "LEKANA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/60",
       "role": "member"
@@ -2836,7 +2836,7 @@
         "name": "MAKOTIMPOKO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/61",
       "role": "member"
@@ -2846,7 +2846,7 @@
         "name": "MBON"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/62",
       "role": "member"
@@ -2856,7 +2856,7 @@
         "name": "MPOUYA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/63",
       "role": "member"
@@ -2866,7 +2866,7 @@
         "name": "NGO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/64",
       "role": "member"
@@ -2876,7 +2876,7 @@
         "name": "OLLMOBO1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/65",
       "role": "member"
@@ -2886,7 +2886,7 @@
         "name": "OLLOMBO2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/66",
       "role": "member"
@@ -2896,7 +2896,7 @@
         "name": "ONGOGNI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/67",
       "role": "member"
@@ -2906,7 +2906,7 @@
         "name": "MAKELEKELE"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/05c98d71-34a8-4d5a-b812-592cf6ec93de",
+      "on_behalf_of_id": "party/rc",
       "organization_id": "legislature",
       "person_id": "person/68",
       "role": "member"
@@ -2916,7 +2916,7 @@
         "name": "MAKELEKELE2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/4d2f7adb-2c3e-4266-ac66-f399f4c938f9",
+      "on_behalf_of_id": "party/mcddi",
       "organization_id": "legislature",
       "person_id": "person/69",
       "role": "member"
@@ -2926,7 +2926,7 @@
         "name": "NZAMBI"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/7",
       "role": "member"
@@ -2936,7 +2936,7 @@
         "name": "MAKELEKELE3"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/0bfd44cd-cb5e-494c-80fa-1d1991ce9151",
+      "on_behalf_of_id": "party/prl",
       "organization_id": "legislature",
       "person_id": "person/70",
       "role": "member"
@@ -2946,7 +2946,7 @@
         "name": "MAKELEKELE4"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/71",
       "role": "member"
@@ -2956,7 +2956,7 @@
         "name": "BACONGO1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/05c98d71-34a8-4d5a-b812-592cf6ec93de",
+      "on_behalf_of_id": "party/rc",
       "organization_id": "legislature",
       "person_id": "person/72",
       "role": "member"
@@ -2966,7 +2966,7 @@
         "name": "BACONGO2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/05c98d71-34a8-4d5a-b812-592cf6ec93de",
+      "on_behalf_of_id": "party/rc",
       "organization_id": "legislature",
       "person_id": "person/73",
       "role": "member"
@@ -2976,7 +2976,7 @@
         "name": "POTO-POTO1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/74",
       "role": "member"
@@ -2986,7 +2986,7 @@
         "name": "POTO-POTO2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/75",
       "role": "member"
@@ -2996,7 +2996,7 @@
         "name": "POTO-POTO3"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/76",
       "role": "member"
@@ -3006,7 +3006,7 @@
         "name": "MOUNGALI1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/37127093-320d-4bef-a49c-ce720210cd97",
+      "on_behalf_of_id": "party/cpr",
       "organization_id": "legislature",
       "person_id": "person/77",
       "role": "member"
@@ -3016,7 +3016,7 @@
         "name": "MOUNGALI2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/78",
       "role": "member"
@@ -3026,7 +3026,7 @@
         "name": "OUENZE2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/78f19d66-f6fb-4a4b-82af-46dce722ae56",
+      "on_behalf_of_id": "party/club_2002_pur",
       "organization_id": "legislature",
       "person_id": "person/79",
       "role": "member"
@@ -3036,7 +3036,7 @@
         "name": "TIE-TIE1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/8",
       "role": "member"
@@ -3046,7 +3046,7 @@
         "name": "OUENZE3"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/80",
       "role": "member"
@@ -3056,7 +3056,7 @@
         "name": "OUENZE4"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/81",
       "role": "member"
@@ -3066,7 +3066,7 @@
         "name": "TALANGAI3"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/82",
       "role": "member"
@@ -3076,7 +3076,7 @@
         "name": "TALANGAI4"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/83",
       "role": "member"
@@ -3086,7 +3086,7 @@
         "name": "TALANGAI5"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/84",
       "role": "member"
@@ -3096,7 +3096,7 @@
         "name": "MFILOU1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/4d2f7adb-2c3e-4266-ac66-f399f4c938f9",
+      "on_behalf_of_id": "party/mcddi",
       "organization_id": "legislature",
       "person_id": "person/85",
       "role": "member"
@@ -3106,7 +3106,7 @@
         "name": "MFILOU2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/86",
       "role": "member"
@@ -3116,7 +3116,7 @@
         "name": "MADIBOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/87",
       "role": "member"
@@ -3126,7 +3126,7 @@
         "name": "DJIRI1"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/88",
       "role": "member"
@@ -3136,7 +3136,7 @@
         "name": "DJIRI2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/89",
       "role": "member"
@@ -3146,7 +3146,7 @@
         "name": "TIE-TIE2"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/9",
       "role": "member"
@@ -3156,7 +3156,7 @@
         "name": "ILE MBAMOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/90",
       "role": "member"
@@ -3166,7 +3166,7 @@
         "name": "KIMONGO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/91",
       "role": "member"
@@ -3176,7 +3176,7 @@
         "name": "LONDELA-KAYES"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/92",
       "role": "member"
@@ -3186,7 +3186,7 @@
         "name": "LOUVAKOU"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/93",
       "role": "member"
@@ -3196,7 +3196,7 @@
         "name": "MAKABANA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/94",
       "role": "member"
@@ -3206,7 +3206,7 @@
         "name": "MAYOKO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/361caaf6-cbe1-4c48-9be7-57a1f7fea742",
+      "on_behalf_of_id": "party/upads",
       "organization_id": "legislature",
       "person_id": "person/95",
       "role": "member"
@@ -3216,7 +3216,7 @@
         "name": "MBINDA"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/96",
       "role": "member"
@@ -3226,7 +3226,7 @@
         "name": "MOUNGOUNDOU-NORD"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/f0948d0b-5162-41d8-8068-d87005516599",
+      "on_behalf_of_id": "party/pct",
       "organization_id": "legislature",
       "person_id": "person/97",
       "role": "member"
@@ -3236,7 +3236,7 @@
         "name": "MOUNGOUNDOU-SUD"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/98",
       "role": "member"
@@ -3246,7 +3246,7 @@
         "name": "MOSSENDJO"
       },
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/d2e28c77-acf9-457d-858f-6a8a141f6a3d",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/99",
       "role": "member"

@@ -3460,22 +3460,17 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/43487200-4e0f-45ea-a494-9e92474bd882",
-      "name": ""
-    },
-    {
-      "classification": "party",
-      "id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "id": "party/casa-ce",
       "name": "CASA-CE"
     },
     {
       "classification": "party",
-      "id": "party/4dce153c-d3ea-4b95-b9ab-f72643e0f971",
+      "id": "party/fnla",
       "name": "FNLA"
     },
     {
       "classification": "party",
-      "id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "id": "party/mpla",
       "name": "MPLA"
     },
     {
@@ -3493,13 +3488,18 @@
     },
     {
       "classification": "party",
-      "id": "party/11b3f251-5536-4533-81fa-28b5dcb90cb1",
+      "id": "party/prs",
       "name": "PRS"
     },
     {
       "classification": "party",
-      "id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "id": "party/unita",
       "name": "UNITA"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -3511,7 +3511,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/abilio.numa",
       "role": "member"
@@ -3521,7 +3521,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/adalberto.junior",
       "role": "member"
@@ -3531,7 +3531,7 @@
         "name": "Bengo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/adao.neto",
       "role": "member"
@@ -3541,7 +3541,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/adriano.vasconcelos",
       "role": "member"
@@ -3551,7 +3551,7 @@
         "name": "Cabinda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/afonso.vaba",
       "role": "member"
@@ -3561,7 +3561,7 @@
         "name": "Huíla"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/agata.raimundo",
       "role": "member"
@@ -3571,7 +3571,7 @@
         "name": "Província do Huambo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/agostinho.ndjaka",
       "role": "member"
@@ -3581,7 +3581,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/albertina.jose",
       "role": "member"
@@ -3591,7 +3591,7 @@
         "name": "Moxico"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/albertina.limueta",
       "role": "member"
@@ -3601,7 +3601,7 @@
         "name": "Uíge"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/albertina.muxindo",
       "role": "member"
@@ -3611,7 +3611,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/albertina.ngolo",
       "role": "member"
@@ -3621,7 +3621,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/alcides.simoes",
       "role": "member"
@@ -3631,7 +3631,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/alexandre.andre",
       "role": "member"
@@ -3641,7 +3641,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/alexandre.bastos",
       "role": "member"
@@ -3651,7 +3651,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/alfredo.berner",
       "role": "member"
@@ -3661,7 +3661,7 @@
         "name": "Malange"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/alfredo.dala",
       "role": "member"
@@ -3671,7 +3671,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/amelia.quinta",
       "role": "member"
@@ -3681,7 +3681,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/ana.fernandes",
       "role": "member"
@@ -3691,7 +3691,7 @@
         "name": "Malange"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/ana.jose",
       "role": "member"
@@ -3701,7 +3701,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/anabela.alberto",
       "role": "member"
@@ -3711,7 +3711,7 @@
         "name": "Bié"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/anabela.ngunga",
       "role": "member"
@@ -3721,7 +3721,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/ananias.escorcio",
       "role": "member"
@@ -3731,7 +3731,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/anatilde.campos",
       "role": "member"
@@ -3741,7 +3741,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/andre.carvalho",
       "role": "member"
@@ -3751,7 +3751,7 @@
         "name": "Lunda Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/angelina.macai",
       "role": "member"
@@ -3761,7 +3761,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/anita.filipe",
       "role": "member"
@@ -3771,7 +3771,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/antonio.cortez",
       "role": "member"
@@ -3781,7 +3781,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/antonio.franca",
       "role": "member"
@@ -3791,7 +3791,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/antonio.junior",
       "role": "member"
@@ -3801,7 +3801,7 @@
         "name": "Uíge"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/antonio.victorino",
       "role": "member"
@@ -3811,7 +3811,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/armando.dala",
       "role": "member"
@@ -3821,7 +3821,7 @@
         "name": ""
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/armndo.neto",
       "role": "member"
@@ -3831,7 +3831,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/aurora.cassule",
       "role": "member"
@@ -3841,7 +3841,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/11b3f251-5536-4533-81fa-28b5dcb90cb1",
+      "on_behalf_of_id": "party/prs",
       "organization_id": "legislature",
       "person_id": "person/benedito.daniel",
       "role": "member"
@@ -3851,7 +3851,7 @@
         "name": "Província de Luanda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/bento.bento",
       "role": "member"
@@ -3861,7 +3861,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/bento.kandala",
       "role": "member"
@@ -3871,7 +3871,7 @@
         "name": "Huambo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/bibiana.nandombua",
       "role": "member"
@@ -3881,7 +3881,7 @@
         "name": "Malange"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/boaventura.cardoso",
       "role": "member"
@@ -3891,7 +3891,7 @@
         "name": "Namibe"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/candida.silva",
       "role": "member"
@@ -3901,7 +3901,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/carlos.almeida",
       "role": "member"
@@ -3911,7 +3911,7 @@
         "name": "Namibe"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/carlos.cruz",
       "role": "member"
@@ -3921,7 +3921,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/carlos.fontoura",
       "role": "member"
@@ -3931,7 +3931,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/carlos.kandanda",
       "role": "member"
@@ -3941,7 +3941,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/carlos.pinto",
       "role": "member"
@@ -3951,7 +3951,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/carlos.van-dunem",
       "role": "member"
@@ -3961,7 +3961,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/carolina.cerqueira",
       "role": "member"
@@ -3971,7 +3971,7 @@
         "name": "Namibe"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/carolina.elias",
       "role": "member"
@@ -3981,7 +3981,7 @@
         "name": "Lunda Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/cassongo.cruz",
       "role": "member"
@@ -3991,7 +3991,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/clarice.kaputu",
       "role": "member"
@@ -4001,7 +4001,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/daniel.domingos",
       "role": "member"
@@ -4011,7 +4011,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/demostenes.chilingutila",
       "role": "member"
@@ -4021,7 +4021,7 @@
         "name": "Huíla"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/desiderio.wapota",
       "role": "member"
@@ -4031,7 +4031,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/diogenes.oliveira",
       "role": "member"
@@ -4041,7 +4041,7 @@
         "name": "Huambo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/domingos.dembele",
       "role": "member"
@@ -4051,7 +4051,7 @@
         "name": "Lunda Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/domingos.kajama",
       "role": "member"
@@ -4061,7 +4061,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/domingos.ngola",
       "role": "member"
@@ -4071,7 +4071,7 @@
         "name": "Cuanza Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/domingos.pinto",
       "role": "member"
@@ -4081,7 +4081,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/dulce.ginga",
       "role": "member"
@@ -4091,7 +4091,7 @@
         "name": "Benguela"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/eduarda.magalhaes",
       "role": "member"
@@ -4101,7 +4101,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/11b3f251-5536-4533-81fa-28b5dcb90cb1",
+      "on_behalf_of_id": "party/prs",
       "organization_id": "legislature",
       "person_id": "person/eduardo.kuangana",
       "role": "member"
@@ -4111,7 +4111,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/eduardo.nelumba",
       "role": "member"
@@ -4121,7 +4121,7 @@
         "name": "Cuando Cubango"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/elias.chimuco",
       "role": "member"
@@ -4131,7 +4131,7 @@
         "name": "Bié"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/elioth.ekolelo",
       "role": "member"
@@ -4141,7 +4141,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/elisa.kata",
       "role": "member"
@@ -4151,7 +4151,7 @@
         "name": "Cuanza Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/eliseu.segunda",
       "role": "member"
@@ -4161,7 +4161,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/elsa.ambriz",
       "role": "member"
@@ -4171,7 +4171,7 @@
         "name": "Bengo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/elvira.van-dunem",
       "role": "member"
@@ -4181,7 +4181,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/emilia.dias",
       "role": "member"
@@ -4191,7 +4191,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/emilio.gomes",
       "role": "member"
@@ -4201,7 +4201,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/ernesto.mulato",
       "role": "member"
@@ -4211,7 +4211,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/estevao.kachiungo",
       "role": "member"
@@ -4221,7 +4221,7 @@
         "name": "Cuando Cubango"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/eugenia.ngandalo",
       "role": "member"
@@ -4231,7 +4231,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/eugenio.manuvakola",
       "role": "member"
@@ -4241,7 +4241,7 @@
         "name": "Luanda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/eulalia.silva",
       "role": "member"
@@ -4251,7 +4251,7 @@
         "name": "Uíge"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/eva.cangudi",
       "role": "member"
@@ -4261,7 +4261,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/exalgina.gamboa",
       "role": "member"
@@ -4271,7 +4271,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/faustina.alves",
       "role": "member"
@@ -4281,7 +4281,7 @@
         "name": "Huíla"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/fernando.cativa",
       "role": "member"
@@ -4291,7 +4291,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/fernando.francisco",
       "role": "member"
@@ -4301,7 +4301,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/fernando.santos",
       "role": "member"
@@ -4311,7 +4311,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/fernando.van-dunem",
       "role": "member"
@@ -4321,7 +4321,7 @@
         "name": "Benguela"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/filipe.domingos",
       "role": "member"
@@ -4331,7 +4331,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/florentino.sambundo",
       "role": "member"
@@ -4341,7 +4341,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/francisca.carvalho",
       "role": "member"
@@ -4351,7 +4351,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/francisco.chitapa",
       "role": "member"
@@ -4361,7 +4361,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/francisco.cruz",
       "role": "member"
@@ -4371,7 +4371,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/francisco.maria",
       "role": "member"
@@ -4381,7 +4381,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/4dce153c-d3ea-4b95-b9ab-f72643e0f971",
+      "on_behalf_of_id": "party/fnla",
       "organization_id": "legislature",
       "person_id": "person/francisco.mendes",
       "role": "member"
@@ -4391,7 +4391,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/francisco.paiva",
       "role": "member"
@@ -4401,7 +4401,7 @@
         "name": "Zaire"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/garcia.vieria",
       "role": "member"
@@ -4411,7 +4411,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/genoveva.lino",
       "role": "member"
@@ -4421,7 +4421,7 @@
         "name": "Cunene"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/gerdina.didalelwa",
       "role": "member"
@@ -4431,7 +4431,7 @@
         "name": "Cuanza Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/gilberto.pereira",
       "role": "member"
@@ -4441,7 +4441,7 @@
         "name": "Cuanza Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/graciana.caetano",
       "role": "member"
@@ -4451,7 +4451,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/guilhermina.alkaim",
       "role": "member"
@@ -4461,7 +4461,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/guilhermina.prata",
       "role": "member"
@@ -4471,7 +4471,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/gustavo.conceicao",
       "role": "member"
@@ -4481,7 +4481,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/helena.abel",
       "role": "member"
@@ -4491,7 +4491,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/irene.neto",
       "role": "member"
@@ -4501,7 +4501,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/isabel.peliganga",
       "role": "member"
@@ -4511,7 +4511,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jeremias.dumbo",
       "role": "member"
@@ -4521,7 +4521,7 @@
         "name": "Luanda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jesuino.silva",
       "role": "member"
@@ -4531,7 +4531,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joana.candido",
       "role": "member"
@@ -4541,7 +4541,7 @@
         "name": "Malange"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joana.pedro",
       "role": "member"
@@ -4551,7 +4551,7 @@
         "name": "Lunda Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joana.santos",
       "role": "member"
@@ -4561,7 +4561,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joao.martins",
       "role": "member"
@@ -4571,7 +4571,7 @@
         "name": "Namibe"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joao.muatonguela",
       "role": "member"
@@ -4581,7 +4581,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joao.neto",
       "role": "member"
@@ -4591,7 +4591,7 @@
         "name": "Zaire"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/joao.ntiama",
       "role": "member"
@@ -4601,7 +4601,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joaquim.david",
       "role": "member"
@@ -4611,7 +4611,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/joaquim.junior",
       "role": "member"
@@ -4621,7 +4621,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jorge.dombolo",
       "role": "member"
@@ -4631,7 +4631,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/jose.chiwale",
       "role": "member"
@@ -4641,7 +4641,7 @@
         "name": "Lunda Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.cipriano",
       "role": "member"
@@ -4651,7 +4651,7 @@
         "name": "Namibe"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.jamba",
       "role": "member"
@@ -4661,7 +4661,7 @@
         "name": "Cunene"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.katiti",
       "role": "member"
@@ -4671,7 +4671,7 @@
         "name": "Lunda-Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.miudo",
       "role": "member"
@@ -4681,7 +4681,7 @@
         "name": "Bengo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.pedro",
       "role": "member"
@@ -4691,7 +4691,7 @@
         "name": "Cabinda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.tome",
       "role": "member"
@@ -4701,7 +4701,7 @@
         "name": "Lunda Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.uamahama",
       "role": "member"
@@ -4711,7 +4711,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/jose.ventura",
       "role": "member"
@@ -4721,7 +4721,7 @@
         "name": "Bengo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/josefa.jose",
       "role": "member"
@@ -4731,7 +4731,7 @@
         "name": "Cunene"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/josefina.haleinge",
       "role": "member"
@@ -4741,7 +4741,7 @@
         "name": "Huíla"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/julia.celeste",
       "role": "member"
@@ -4751,7 +4751,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/juliao.paulo",
       "role": "member"
@@ -4761,7 +4761,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/juliao.teixeira",
       "role": "member"
@@ -4771,7 +4771,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/kilamba.van-dunem",
       "role": "member"
@@ -4781,7 +4781,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/larissa.jose",
       "role": "member"
@@ -4791,7 +4791,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/leonel.gomes",
       "role": "member"
@@ -4801,7 +4801,7 @@
         "name": ""
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/43487200-4e0f-45ea-a494-9e92474bd882",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/leonor.gaspar",
       "role": "member"
@@ -4811,7 +4811,7 @@
         "name": "Moxico"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/leonora.morais",
       "role": "member"
@@ -4821,7 +4821,7 @@
         "name": "Huambo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/liberty.chiaka",
       "role": "member"
@@ -4831,7 +4831,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/lindo.tito",
       "role": "member"
@@ -4841,7 +4841,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/lourenco.neto",
       "role": "member"
@@ -4851,7 +4851,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/4dce153c-d3ea-4b95-b9ab-f72643e0f971",
+      "on_behalf_of_id": "party/fnla",
       "organization_id": "legislature",
       "person_id": "person/lucas.ngonda",
       "role": "member"
@@ -4861,7 +4861,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/luis.cuanga",
       "role": "member"
@@ -4871,7 +4871,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/luisa.damiao",
       "role": "member"
@@ -4881,7 +4881,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/lukamba.paulo",
       "role": "member"
@@ -4891,7 +4891,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/luzia.van-dunem",
       "role": "member"
@@ -4901,7 +4901,7 @@
         "name": "Cunene"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/madalena.hanosike",
       "role": "member"
@@ -4911,7 +4911,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manso.pascoal",
       "role": "member"
@@ -4921,7 +4921,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manuel.calunga",
       "role": "member"
@@ -4931,7 +4931,7 @@
         "name": "Cuanza Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manuel.domingos",
       "role": "member"
@@ -4941,7 +4941,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/manuel.fernandes",
       "role": "member"
@@ -4951,7 +4951,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manuel.junior",
       "role": "member"
@@ -4961,7 +4961,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manuel.morais",
       "role": "member"
@@ -4971,7 +4971,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manuel.pacavira",
       "role": "member"
@@ -4981,7 +4981,7 @@
         "name": "Província do Bié"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/manuel.savihemba",
       "role": "member"
@@ -4991,7 +4991,7 @@
         "name": "Cuando Cubango"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/manuel.tuta",
       "role": "member"
@@ -5001,7 +5001,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/marcelina.alexandre",
       "role": "member"
@@ -5011,7 +5011,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.alfredo",
       "role": "member"
@@ -5021,7 +5021,7 @@
         "name": "Huambo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.amadeu",
       "role": "member"
@@ -5031,7 +5031,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/maria.andrade",
       "role": "member"
@@ -5041,7 +5041,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.beua",
       "role": "member"
@@ -5051,7 +5051,7 @@
         "name": "Zaire"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.fernandes",
       "role": "member"
@@ -5061,7 +5061,7 @@
         "name": "Cuando Cubango"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.isabel",
       "role": "member"
@@ -5071,7 +5071,7 @@
         "name": "Cabinda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.makuala",
       "role": "member"
@@ -5081,7 +5081,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.mutunda",
       "role": "member"
@@ -5091,7 +5091,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.nascimento",
       "role": "member"
@@ -5101,7 +5101,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.ornelas",
       "role": "member"
@@ -5111,7 +5111,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/maria.valente",
       "role": "member"
@@ -5121,7 +5121,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/mariana.afonso",
       "role": "member"
@@ -5131,7 +5131,7 @@
         "name": "Lunda Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/mario.luandanda",
       "role": "member"
@@ -5141,7 +5141,7 @@
         "name": "Moxico"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/mario.salomao",
       "role": "member"
@@ -5151,7 +5151,7 @@
         "name": "Cabinda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/marta.issungo",
       "role": "member"
@@ -5161,7 +5161,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/martires.victor",
       "role": "member"
@@ -5171,7 +5171,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/mateus.junior",
       "role": "member"
@@ -5181,7 +5181,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/mawete.baptista",
       "role": "member"
@@ -5191,7 +5191,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/mfuca.muzemba",
       "role": "member"
@@ -5201,7 +5201,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/miguel.puna",
       "role": "member"
@@ -5211,7 +5211,7 @@
         "name": "Luanda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/mihaela.webba",
       "role": "member"
@@ -5221,7 +5221,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/miraldina.jamba",
       "role": "member"
@@ -5231,7 +5231,7 @@
         "name": "Malange"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/monteiro.kapunga",
       "role": "member"
@@ -5241,7 +5241,7 @@
         "name": "Moxico"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/morais.tomas",
       "role": "member"
@@ -5251,7 +5251,7 @@
         "name": "Bié"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/nicolau.sapalo",
       "role": "member"
@@ -5261,7 +5261,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/nuno.albino",
       "role": "member"
@@ -5271,7 +5271,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/nvunda.salucombo",
       "role": "member"
@@ -5281,7 +5281,7 @@
         "name": "Cuanza Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/odete.santos",
       "role": "member"
@@ -5291,7 +5291,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/fbf65c1d-6b87-4ff2-a83d-833404623de1",
+      "on_behalf_of_id": "party/casa-ce",
       "organization_id": "legislature",
       "person_id": "person/odeth.joaquim",
       "role": "member"
@@ -5301,7 +5301,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/palmira.bernardo",
       "role": "member"
@@ -5311,7 +5311,7 @@
         "name": "Uíge"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/panzo.joaquim",
       "role": "member"
@@ -5321,7 +5321,7 @@
         "name": "Uíge"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/pedro.diavova",
       "role": "member"
@@ -5331,7 +5331,7 @@
         "name": "Zaire"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/pedro.julia",
       "role": "member"
@@ -5341,7 +5341,7 @@
         "name": "Zaire"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/pedro.sebastiao",
       "role": "member"
@@ -5351,7 +5351,7 @@
         "name": "Bengo"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/pereira.alfredo",
       "role": "member"
@@ -5361,7 +5361,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/piedoso.bonga",
       "role": "member"
@@ -5371,7 +5371,7 @@
         "name": "Cabinda"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/raul.danda",
       "role": "member"
@@ -5381,7 +5381,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/raul.lima",
       "role": "member"
@@ -5391,7 +5391,7 @@
         "name": "Cuando Cubango"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/regina.txipoia",
       "role": "member"
@@ -5401,7 +5401,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/roberto.almeida",
       "role": "member"
@@ -5411,7 +5411,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/roberto.monteiro",
       "role": "member"
@@ -5421,7 +5421,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/rodolfo.bernardo",
       "role": "member"
@@ -5431,7 +5431,7 @@
         "name": "Cuanza Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/rosaria.silva",
       "role": "member"
@@ -5441,7 +5441,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/ruth.mendes",
       "role": "member"
@@ -5451,7 +5451,7 @@
         "name": "Bié"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/sabina.napolo",
       "role": "member"
@@ -5461,7 +5461,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/salomao.xirimbimbi",
       "role": "member"
@@ -5471,7 +5471,7 @@
         "name": "Cuanza Sul"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/serafim.prado",
       "role": "member"
@@ -5481,7 +5481,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/serafina.pinto",
       "role": "member"
@@ -5491,7 +5491,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/sergio.joaquim",
       "role": "member"
@@ -5501,7 +5501,7 @@
         "name": "Cunene"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/sergio.vaz",
       "role": "member"
@@ -5511,7 +5511,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/silvestre.samy",
       "role": "member"
@@ -5521,7 +5521,7 @@
         "name": "Cuanza Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/simao.carroba",
       "role": "member"
@@ -5531,7 +5531,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/sofia.mussonguela",
       "role": "member"
@@ -5541,7 +5541,7 @@
         "name": "Lunda-Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/sonia.nele",
       "role": "member"
@@ -5551,7 +5551,7 @@
         "name": "Cuanza Norte"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/suzana.bravo",
       "role": "member"
@@ -5561,7 +5561,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/tomas.silva",
       "role": "member"
@@ -5571,7 +5571,7 @@
         "name": "Moxico"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/valeriano.cassuaue",
       "role": "member"
@@ -5581,7 +5581,7 @@
         "name": "Benguela"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/verissimo.sapalo",
       "role": "member"
@@ -5591,7 +5591,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/victoria.conceicao",
       "role": "member"
@@ -5601,7 +5601,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/victoria.izata",
       "role": "member"
@@ -5611,7 +5611,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/f4d9c1a0-c5aa-4902-bfab-6c69002cb630",
+      "on_behalf_of_id": "party/unita",
       "organization_id": "legislature",
       "person_id": "person/victorino.nhany",
       "role": "member"
@@ -5621,7 +5621,7 @@
         "name": "Huíla"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/vigilio.tyova",
       "role": "member"
@@ -5631,7 +5631,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/virgilio.pereira",
       "role": "member"
@@ -5641,7 +5641,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/welwitchia.santos",
       "role": "member"
@@ -5651,7 +5651,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/yaba.alberto",
       "role": "member"
@@ -5661,7 +5661,7 @@
         "name": "Nacional"
       },
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/31ee900e-04e2-45ec-876c-0374f8aceeab",
+      "on_behalf_of_id": "party/mpla",
       "organization_id": "legislature",
       "person_id": "person/yolanda.sousa",
       "role": "member"

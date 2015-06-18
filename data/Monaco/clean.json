@@ -648,7 +648,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "id": "party/hm_horizon_monaco",
       "name": "HM Horizon Monaco"
     },
     {
@@ -675,68 +675,73 @@
     },
     {
       "classification": "party",
-      "id": "party/24003fe8-9586-4fde-a4d3-aac8502706f5",
+      "id": "party/pep_(principauté_ethique_progrès)",
       "name": "PEP (Principauté Ethique Progrès)"
     },
     {
       "classification": "party",
-      "id": "party/5209a9a9-152e-49ed-808c-23a18a8488e2",
+      "id": "party/pfm_(promotion_de_la_famille_monégasque)",
       "name": "PFM (Promotion de la Famille Monégasque)"
     },
     {
       "classification": "party",
-      "id": "party/03d038f3-3f8c-4dad-b66c-1e16795a209c",
+      "id": "party/pm_(parti_monégasque)",
       "name": "PM (Parti Monégasque)"
     },
     {
       "classification": "party",
-      "id": "party/bd9c7c5f-bd61-44c3-8a09-b715e93a4757",
+      "id": "party/r_renaissance",
       "name": "R Renaissance"
     },
     {
       "classification": "party",
-      "id": "party/9f856b5f-0aed-4fed-be55-380261d07a1b",
+      "id": "party/r&e_rassemblement_et_enjeux",
       "name": "R&E Rassemblement et Enjeux"
     },
     {
       "classification": "party",
-      "id": "party/440743a8-c439-4667-9ae6-4b611927a661",
+      "id": "party/rpm_(rassemblement_pour_monaco)",
       "name": "RPM (Rassemblement Pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/031c9289-cc4f-4a88-9b7e-4e9740204fdc",
+      "id": "party/synergie_monégasque",
       "name": "Synergie Monégasque"
     },
     {
       "classification": "party",
-      "id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "id": "party/udm_union_des_monégasques",
       "name": "UDM Union Des Monégasques"
     },
     {
       "classification": "party",
-      "id": "party/6101bfbd-195a-4d71-9122-89f8714c03f7",
+      "id": "party/um_union_monégasque",
       "name": "UM Union Monégasque"
     },
     {
       "classification": "party",
-      "id": "party/0560157a-120a-4c6a-a12a-e4f3d04c8242",
+      "id": "party/unam_(union_nationale_pour_l'avenir_de_monaco),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "name": "UNAM (Union Nationale pour l'Avenir de Monaco), appartenant à la majorité UpM (Union pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/2ea4a0c6-7513-4b6f-8814-2c12068fbf28",
+      "id": "party/unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
       "name": "UNAM Union Nationale pour l'Avenir de Monaco UpM (Union pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "name": "UP (Union pour la Principauté), appartenant à la majorité UpM (Union pour Monaco)"
     },
     {
       "classification": "party",
-      "id": "party/dfef9361-b086-4444-a432-5029aa7cccb4",
+      "id": "party/up_union_pour_la_principauté_upm_(union_pour_monaco)",
       "name": "UP Union pour la Principauté UpM (Union pour Monaco)"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -748,35 +753,35 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Alain-FICINI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Alexandre-BORDERO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Alexandre-BORDERO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Anne-POYARD-VATRICAN",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/dfef9361-b086-4444-a432-5029aa7cccb4",
+      "on_behalf_of_id": "party/up_union_pour_la_principauté_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Anne-POYARD-VATRICAN",
       "role": "member"
@@ -786,21 +791,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Beatrice-FRESKO-ROLFO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Bernard-MARQUET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/0560157a-120a-4c6a-a12a-e4f3d04c8242",
+      "on_behalf_of_id": "party/unam_(union_nationale_pour_l'avenir_de_monaco),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Bernard-MARQUET",
       "role": "member"
@@ -810,28 +815,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/6101bfbd-195a-4d71-9122-89f8714c03f7",
+      "on_behalf_of_id": "party/um_union_monégasque",
       "organization_id": "legislature",
       "person_id": "person/Bernard-PASQUIER",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Brigitte-BOCCONE-PAGES",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/dfef9361-b086-4444-a432-5029aa7cccb4",
+      "on_behalf_of_id": "party/up_union_pour_la_principauté_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Brigitte-BOCCONE-PAGES",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/0560157a-120a-4c6a-a12a-e4f3d04c8242",
+      "on_behalf_of_id": "party/unam_(union_nationale_pour_l'avenir_de_monaco),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Bruno-BLANCHY",
       "role": "member"
@@ -841,14 +846,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Caroline-ROUGAIGNON-VERNIN",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Catherine-FAUTRIER",
       "role": "member"
@@ -858,14 +863,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Christian-BARILARO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/03d038f3-3f8c-4dad-b66c-1e16795a209c",
+      "on_behalf_of_id": "party/pm_(parti_monégasque)",
       "organization_id": "legislature",
       "person_id": "person/Christine-PASQUIER-CIULLA",
       "role": "member"
@@ -875,27 +880,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Christophe-ROBINO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/Christophe-SPILIOTIS-SAQUET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Christophe-SPILIOTIS-SAQUET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/9f856b5f-0aed-4fed-be55-380261d07a1b",
+      "on_behalf_of_id": "party/r&e_rassemblement_et_enjeux",
       "organization_id": "legislature",
       "person_id": "person/Christophe-STEINER",
       "role": "member"
@@ -905,14 +911,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Christophe-STEINER",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/031c9289-cc4f-4a88-9b7e-4e9740204fdc",
+      "on_behalf_of_id": "party/synergie_monégasque",
       "organization_id": "legislature",
       "person_id": "person/Claude-BOISSON",
       "role": "member"
@@ -922,21 +928,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Claude-BOISSON",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/2ea4a0c6-7513-4b6f-8814-2c12068fbf28",
+      "on_behalf_of_id": "party/unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Claude-CELLARIO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/0560157a-120a-4c6a-a12a-e4f3d04c8242",
+      "on_behalf_of_id": "party/unam_(union_nationale_pour_l'avenir_de_monaco),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Claude-CELLARIO",
       "role": "member"
@@ -946,14 +952,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Daniel-BOERI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Daniel-RAYMOND",
       "role": "member"
@@ -963,49 +969,49 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/bd9c7c5f-bd61-44c3-8a09-b715e93a4757",
+      "on_behalf_of_id": "party/r_renaissance",
       "organization_id": "legislature",
       "person_id": "person/Eric-ELENA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/2ea4a0c6-7513-4b6f-8814-2c12068fbf28",
+      "on_behalf_of_id": "party/unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Eric-GUAZZONNE",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Fabrice-NOTARI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Fabrice-NOTARI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Gerard-BERTRAND",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Guillaume-ROSE",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/440743a8-c439-4667-9ae6-4b611927a661",
+      "on_behalf_of_id": "party/rpm_(rassemblement_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Henry-REY",
       "role": "member"
@@ -1015,14 +1021,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Jacques-RIT",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/5209a9a9-152e-49ed-808c-23a18a8488e2",
+      "on_behalf_of_id": "party/pfm_(promotion_de_la_famille_monégasque)",
       "organization_id": "legislature",
       "person_id": "person/Jacques-RIT",
       "role": "member"
@@ -1032,28 +1038,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Jean-Charles-ALLAVENA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Jean-Charles-GARDETTO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Jean-Charles-GARDETTO",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Jean-Francois-ROBILLON",
       "role": "member"
@@ -1063,21 +1069,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/6101bfbd-195a-4d71-9122-89f8714c03f7",
+      "on_behalf_of_id": "party/um_union_monégasque",
       "organization_id": "legislature",
       "person_id": "person/Jean-Francois-ROBILLON",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Jean-Francois-ROBILLON",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/440743a8-c439-4667-9ae6-4b611927a661",
+      "on_behalf_of_id": "party/rpm_(rassemblement_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Jean-Joseph-PASTOR",
       "role": "member"
@@ -1087,21 +1093,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/6101bfbd-195a-4d71-9122-89f8714c03f7",
+      "on_behalf_of_id": "party/um_union_monégasque",
       "organization_id": "legislature",
       "person_id": "person/Jean-Louis-GRINDA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/5209a9a9-152e-49ed-808c-23a18a8488e2",
+      "on_behalf_of_id": "party/pfm_(promotion_de_la_famille_monégasque)",
       "organization_id": "legislature",
       "person_id": "person/Jean-Luc-NIGIONI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Jean-Michel-CUCCHI",
       "role": "member"
@@ -1111,14 +1117,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Jean-Michel-CUCCHI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/5209a9a9-152e-49ed-808c-23a18a8488e2",
+      "on_behalf_of_id": "party/pfm_(promotion_de_la_famille_monégasque)",
       "organization_id": "legislature",
       "person_id": "person/Jean-Pierre-LICARI",
       "role": "member"
@@ -1128,14 +1134,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Laurent-NOUVION",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/9f856b5f-0aed-4fed-be55-380261d07a1b",
+      "on_behalf_of_id": "party/r&e_rassemblement_et_enjeux",
       "organization_id": "legislature",
       "person_id": "person/Laurent-NOUVION",
       "role": "member"
@@ -1145,28 +1151,28 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Marc-BURINI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/9f856b5f-0aed-4fed-be55-380261d07a1b",
+      "on_behalf_of_id": "party/r&e_rassemblement_et_enjeux",
       "organization_id": "legislature",
       "person_id": "person/Marc-BURINI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/2ea4a0c6-7513-4b6f-8814-2c12068fbf28",
+      "on_behalf_of_id": "party/unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Michele-DITTLOT",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/0560157a-120a-4c6a-a12a-e4f3d04c8242",
+      "on_behalf_of_id": "party/unam_(union_nationale_pour_l'avenir_de_monaco),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Michele-DITTLOT",
       "role": "member"
@@ -1176,20 +1182,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Nathalie-AMORATTI-BLANC",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Nicole-MANZONE-SAQUET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/Philippe-CLERISSI",
       "role": "member"
@@ -1199,20 +1206,21 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Philippe-CLERISSI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Pierre-LORENZI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/Pierre-SVARA",
       "role": "member"
@@ -1222,14 +1230,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Pierre-SVARA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/5eab5a28-e61e-4b10-86ac-1ecab3f72a5c",
+      "on_behalf_of_id": "party/udm_union_des_monégasques",
       "organization_id": "legislature",
       "person_id": "person/Roland-MARQUET",
       "role": "member"
@@ -1239,13 +1247,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Sophie-LAVAGNA",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/Stephane-VALERI",
       "role": "member"
@@ -1255,7 +1264,7 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Thierry-CROVETTO",
       "role": "member"
@@ -1265,14 +1274,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Thierry-POYET",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/be30541d-fb2c-48fd-b01a-ed812313f66c",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Thomas-GIACCARDI",
       "role": "member"
@@ -1282,14 +1291,14 @@
         "name": ""
       },
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/f7dccfff-bb09-47da-adfa-27f1697ace76",
+      "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
       "person_id": "person/Valerie-ROSSI",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/24003fe8-9586-4fde-a4d3-aac8502706f5",
+      "on_behalf_of_id": "party/pep_(principauté_ethique_progrès)",
       "organization_id": "legislature",
       "person_id": "person/Vincent-PALMARO",
       "role": "member"
