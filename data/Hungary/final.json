@@ -39914,11 +39914,6 @@
     },
     {
       "classification": "party",
-      "id": "party/independent",
-      "name": "Independent"
-    },
-    {
-      "classification": "party",
       "id": "550303fa273a39033bab36eb",
       "identifiers": [
         {
@@ -40110,6 +40105,11 @@
         }
       ],
       "name": "SZDSZ"
+    },
+    {
+      "classification": "party",
+      "id": "party/_unknown",
+      "name": "Unknown"
     }
   ],
   "meta": {
@@ -40361,7 +40361,7 @@
     {
       "id": "55030406273a39033bab3acc",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303bd273a39033bab34f3",
       "role": "member",
@@ -40415,7 +40415,7 @@
       "end_date": "2014-06-20",
       "id": "55030407273a39033bab3af0",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303bd273a39033bab34f5",
       "role": "member",
@@ -40435,7 +40435,7 @@
       "end_date": "2014-05-26",
       "id": "55030407273a39033bab3afe",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303bd273a39033bab34f7",
       "role": "member",
@@ -55020,7 +55020,7 @@
     {
       "id": "55030461273a39033bab5bb1",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f3273a39033bab36b1",
       "role": "member",
@@ -55201,7 +55201,7 @@
     {
       "id": "55030461273a39033bab5bdd",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f4273a39033bab36b3",
       "role": "member",
@@ -55267,7 +55267,7 @@
     {
       "id": "55030462273a39033bab5c29",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f4273a39033bab36b5",
       "role": "member",
@@ -55330,7 +55330,7 @@
     {
       "id": "55030462273a39033bab5c95",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f4273a39033bab36b7",
       "role": "member",
@@ -55339,7 +55339,7 @@
     {
       "id": "55030463273a39033bab5cc1",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f4273a39033bab36b9",
       "role": "member",
@@ -55348,7 +55348,7 @@
     {
       "id": "55030463273a39033bab5cc9",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f5273a39033bab36bb",
       "role": "member",
@@ -55381,7 +55381,7 @@
     {
       "id": "55030463273a39033bab5cdd",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f5273a39033bab36bd",
       "role": "member",
@@ -55559,7 +55559,7 @@
     {
       "id": "55030463273a39033bab5cff",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "550303f5273a39033bab36bf",
       "role": "member",
@@ -57466,7 +57466,7 @@
     {
       "id": "554a25a7273a395cd190013b",
       "legislative_period_id": "550303bc273a39033bab34df",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "554a2533273a395cd19000cd",
       "role": "member",
