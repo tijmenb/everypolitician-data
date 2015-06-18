@@ -1518,15 +1518,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/1",
-          "name": "1st Parliament",
-          "organization_id": "legislature",
-          "start_date": "2011-07-09"
-        }
-      ],
       "name": "National Legislative Assembly"
     },
     {
@@ -4215,6 +4206,15 @@
       "organization_id": "legislature",
       "person_id": "person/99",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1",
+      "name": "1st Parliament",
+      "organization_id": "legislature",
+      "start_date": "2011-07-09"
     }
   ]
 }

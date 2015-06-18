@@ -654,32 +654,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2018",
-          "id": "term/2013",
-          "name": "2013",
-          "organization_id": "legislature",
-          "start_date": "2013-02-21"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2013",
-          "id": "term/2008",
-          "name": "2008-2013",
-          "organization_id": "legislature",
-          "start_date": "2008"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2008",
-          "id": "term/2003",
-          "name": "2003-2008",
-          "organization_id": "legislature",
-          "start_date": "2003"
-        }
-      ],
       "name": "National Council"
     },
     {
@@ -1311,6 +1285,32 @@
       "organization_id": "legislature",
       "person_id": "person/Vincent-PALMARO",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2018",
+      "id": "term/2013",
+      "name": "2013",
+      "organization_id": "legislature",
+      "start_date": "2013-02-21"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2013",
+      "id": "term/2008",
+      "name": "2008-2013",
+      "organization_id": "legislature",
+      "start_date": "2008"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2008",
+      "id": "term/2003",
+      "name": "2003-2008",
+      "organization_id": "legislature",
+      "start_date": "2003"
     }
   ]
 }

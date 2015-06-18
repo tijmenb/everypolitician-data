@@ -421,15 +421,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2011",
-          "name": "2011–2016",
-          "organization_id": "legislature",
-          "start_date": "2011"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -766,6 +757,15 @@
       "organization_id": "legislature",
       "person_id": "person/908",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2011",
+      "name": "2011–2016",
+      "organization_id": "legislature",
+      "start_date": "2011"
     }
   ]
 }

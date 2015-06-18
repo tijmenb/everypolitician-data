@@ -1448,16 +1448,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2015",
-          "id": "term/2010",
-          "name": "2010–2015",
-          "organization_id": "legislature",
-          "start_date": "2010"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -1989,6 +1979,16 @@
       "organization_id": "legislature",
       "person_id": "person/winston-jessurun",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2015",
+      "id": "term/2010",
+      "name": "2010–2015",
+      "organization_id": "legislature",
+      "start_date": "2010"
     }
   ]
 }

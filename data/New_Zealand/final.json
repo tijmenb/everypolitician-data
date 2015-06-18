@@ -3261,15 +3261,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/51",
-          "name": "51st Parliament",
-          "organization_id": "legislature",
-          "start_date": "2014-10-20"
-        }
-      ],
       "name": "New Zealand Parliament"
     },
     {
@@ -4491,6 +4482,15 @@
       "organization_id": "legislature",
       "person_id": "person/51MP861",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/51",
+      "name": "51st Parliament",
+      "organization_id": "legislature",
+      "start_date": "2014-10-20"
     }
   ]
 }

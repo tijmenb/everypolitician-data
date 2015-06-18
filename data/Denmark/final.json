@@ -8182,15 +8182,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2011",
-          "name": "Folketing 2011–15",
-          "organization_id": "legislature",
-          "start_date": "2011-09-15"
-        }
-      ],
       "name": "Folketing"
     },
     {
@@ -9466,6 +9457,15 @@
       "organization_id": "legislature",
       "person_id": "54c6931e808848fe5d74a60a",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2011",
+      "name": "Folketing 2011–15",
+      "organization_id": "legislature",
+      "start_date": "2011-09-15"
     }
   ]
 }

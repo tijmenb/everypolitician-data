@@ -14165,67 +14165,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2007-12-12",
-          "id": "chamber_2004-11-23",
-          "name": "Periudha e dytë Legjislative",
-          "sources": [
-            {
-              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
-            }
-          ],
-          "start_date": "2004-11-23"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2014-05-07",
-          "id": "chamber_2010-12-12",
-          "name": "Periudha e katërt Legjislative",
-          "sources": [
-            {
-              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=4"
-            }
-          ],
-          "start_date": "2010-12-12"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2004-11-23",
-          "id": "chamber_2001-11-17",
-          "name": "Periudha e parë Legjislative",
-          "sources": [
-            {
-              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
-            }
-          ],
-          "start_date": "2001-11-17"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_2014-07-17",
-          "name": "Periudha e pestë Legjislative",
-          "sources": [
-            {
-              "url": "http://www.kuvendikosoves.org/?cid=1,102"
-            }
-          ],
-          "start_date": "2014-07-17"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2010-11-03",
-          "id": "chamber_2007-12-13",
-          "name": "Periudha e tretë Legjislative",
-          "sources": [
-            {
-              "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
-            }
-          ],
-          "start_date": "2007-12-13"
-        }
-      ],
       "name": "Kuvendit"
     },
     {
@@ -45875,6 +45814,65 @@
         }
       ],
       "start_date": "2015-06-04T10:00:00"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2007-12-12",
+      "id": "chamber_2004-11-23",
+      "name": "Periudha e dytë Legjislative",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
+        }
+      ],
+      "start_date": "2004-11-23"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-05-07",
+      "id": "chamber_2010-12-12",
+      "name": "Periudha e katërt Legjislative",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=4"
+        }
+      ],
+      "start_date": "2010-12-12"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2004-11-23",
+      "id": "chamber_2001-11-17",
+      "name": "Periudha e parë Legjislative",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
+        }
+      ],
+      "start_date": "2001-11-17"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_2014-07-17",
+      "name": "Periudha e pestë Legjislative",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,102"
+        }
+      ],
+      "start_date": "2014-07-17"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2010-11-03",
+      "id": "chamber_2007-12-13",
+      "name": "Periudha e tretë Legjislative",
+      "sources": [
+        {
+          "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
+        }
+      ],
+      "start_date": "2007-12-13"
     }
   ]
 }

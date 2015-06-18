@@ -481,15 +481,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2015",
-          "name": "2015",
-          "organization_id": "legislature",
-          "start_date": "2015-03-23"
-        }
-      ],
       "name": "Consell General"
     },
     {
@@ -791,6 +782,15 @@
       "organization_id": "legislature",
       "person_id": "person/victor-naudi-zamora",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2015",
+      "name": "2015",
+      "organization_id": "legislature",
+      "start_date": "2015-03-23"
     }
   ]
 }

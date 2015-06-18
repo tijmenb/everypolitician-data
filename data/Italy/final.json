@@ -4800,15 +4800,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "legislatura/17",
-          "name": "XVII Legislatura",
-          "organization_id": "legislature",
-          "start_date": "2013-03-15"
-        }
-      ],
       "name": "Parlamento"
     },
     {
@@ -15291,6 +15282,15 @@
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "9514",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "legislatura/17",
+      "name": "XVII Legislatura",
+      "organization_id": "legislature",
+      "start_date": "2013-03-15"
     }
   ]
 }

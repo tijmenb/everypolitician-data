@@ -49,8 +49,7 @@ namespace :transform do
 
   task :ensure_membership_terms => :set_membership_terms
   task :set_membership_terms => :load do
-    leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
-    terms = leg[:legislative_periods]
+    terms = @json[:events].find_all { |e| e[:classification] == 'legislative period' }
     @json[:memberships].find_all { |m| m[:organization_id] == @HOUSE_ID and not m.has_key? :legislative_period_id }.each do |m|
       s_date = m[:start_date]
       s_date += "-12-31" if s_date.length == 4

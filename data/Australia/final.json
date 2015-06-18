@@ -4982,15 +4982,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/44",
-          "name": "44th Parliament",
-          "organization_id": "legislature",
-          "start_date": "2013-09-07"
-        }
-      ],
       "name": "Parliament"
     },
     {
@@ -7418,6 +7409,15 @@
       "organization_id": "chamber/senate",
       "person_id": "person/xt4",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/44",
+      "name": "44th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2013-09-07"
     }
   ]
 }

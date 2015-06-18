@@ -829,15 +829,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/8",
-          "name": "8th Parliament",
-          "organization_id": "legislature",
-          "start_date": "2013"
-        }
-      ],
       "name": "House of Assembly"
     },
     {
@@ -3125,6 +3116,15 @@
       "organization_id": "legislature",
       "person_id": "person/ff38c471-abd0-4237-8f0a-96343668d8b9",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/8",
+      "name": "8th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2013"
     }
   ]
 }

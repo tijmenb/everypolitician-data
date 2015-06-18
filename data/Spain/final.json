@@ -6177,15 +6177,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/10",
-          "name": "X Legislatura",
-          "organization_id": "legislature",
-          "start_date": "2011-11-28"
-        }
-      ],
       "name": "Congreso de los Diputados"
     },
     {
@@ -10672,6 +10663,15 @@
       "person_id": "person/99",
       "role": "member",
       "start_date": "2011-11-30"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/10",
+      "name": "X Legislatura",
+      "organization_id": "legislature",
+      "start_date": "2011-11-28"
     }
   ]
 }

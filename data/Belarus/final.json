@@ -1184,15 +1184,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2012",
-          "name": "2012",
-          "organization_id": "legislature",
-          "start_date": "2012-09-23"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -2294,6 +2285,15 @@
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36073",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2012",
+      "name": "2012",
+      "organization_id": "legislature",
+      "start_date": "2012-09-23"
     }
   ]
 }

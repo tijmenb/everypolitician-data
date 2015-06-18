@@ -40001,105 +40001,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "1994-06-27",
-          "id": "550303bc273a39033bab34eb",
-          "identifiers": [
-            {
-              "identifier": "34",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 1990 - 94",
-          "organization_id": "legislature",
-          "start_date": "1990-05-02"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1998-06-17",
-          "id": "550303bc273a39033bab34e9",
-          "identifiers": [
-            {
-              "identifier": "35",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 1994 - 98",
-          "organization_id": "legislature",
-          "start_date": "1994-06-28"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2002-05-14",
-          "id": "550303bc273a39033bab34e7",
-          "identifiers": [
-            {
-              "identifier": "36",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 1998 - 2002",
-          "organization_id": "legislature",
-          "start_date": "1998-06-18"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2006-05-15",
-          "id": "550303bc273a39033bab34e5",
-          "identifiers": [
-            {
-              "identifier": "37",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 2002 - 2006",
-          "organization_id": "legislature",
-          "start_date": "2002-05-15"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2010-05-13",
-          "id": "550303bc273a39033bab34e3",
-          "identifiers": [
-            {
-              "identifier": "38",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 2006 - 2010",
-          "organization_id": "legislature",
-          "start_date": "2006-05-16"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2014-05-05",
-          "id": "550303bc273a39033bab34e1",
-          "identifiers": [
-            {
-              "identifier": "39",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 2010 - 2014",
-          "organization_id": "legislature",
-          "start_date": "2010-05-14"
-        },
-        {
-          "classification": "legislative period",
-          "id": "550303bc273a39033bab34df",
-          "identifiers": [
-            {
-              "identifier": "40",
-              "scheme": "parlament.hu/chamber"
-            }
-          ],
-          "name": "Országgyűlés 2014 - ",
-          "organization_id": "legislature",
-          "start_date": "2014-05-06"
-        }
-      ],
       "name": "Országgyűlés"
     },
     {
@@ -57501,6 +57402,102 @@
     }
   ],
   "events": [
-
+    {
+      "classification": "legislative period",
+      "end_date": "1994-06-27",
+      "id": "550303bc273a39033bab34eb",
+      "identifiers": [
+        {
+          "identifier": "34",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 1990 - 94",
+      "organization_id": "legislature",
+      "start_date": "1990-05-02"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1998-06-17",
+      "id": "550303bc273a39033bab34e9",
+      "identifiers": [
+        {
+          "identifier": "35",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 1994 - 98",
+      "organization_id": "legislature",
+      "start_date": "1994-06-28"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2002-05-14",
+      "id": "550303bc273a39033bab34e7",
+      "identifiers": [
+        {
+          "identifier": "36",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 1998 - 2002",
+      "organization_id": "legislature",
+      "start_date": "1998-06-18"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2006-05-15",
+      "id": "550303bc273a39033bab34e5",
+      "identifiers": [
+        {
+          "identifier": "37",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 2002 - 2006",
+      "organization_id": "legislature",
+      "start_date": "2002-05-15"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2010-05-13",
+      "id": "550303bc273a39033bab34e3",
+      "identifiers": [
+        {
+          "identifier": "38",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 2006 - 2010",
+      "organization_id": "legislature",
+      "start_date": "2006-05-16"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-05-05",
+      "id": "550303bc273a39033bab34e1",
+      "identifiers": [
+        {
+          "identifier": "39",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 2010 - 2014",
+      "organization_id": "legislature",
+      "start_date": "2010-05-14"
+    },
+    {
+      "classification": "legislative period",
+      "id": "550303bc273a39033bab34df",
+      "identifiers": [
+        {
+          "identifier": "40",
+          "scheme": "parlament.hu/chamber"
+        }
+      ],
+      "name": "Országgyűlés 2014 - ",
+      "organization_id": "legislature",
+      "start_date": "2014-05-06"
+    }
   ]
 }

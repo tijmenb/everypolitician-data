@@ -4274,103 +4274,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "chamber_I",
-          "name": "Kuvendi i Shqipërisë: Legjislatura I"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_II",
-          "name": "Kuvendi i Shqipërisë: Legjislatura II"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_III",
-          "name": "Kuvendi i Shqipërisë: Legjislatura III"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_IV",
-          "name": "Kuvendi i Shqipërisë: Legjislatura IV"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_V",
-          "name": "Kuvendi i Shqipërisë: Legjislatura V"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_VI",
-          "name": "Kuvendi i Shqipërisë: Legjislatura VI"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_VII",
-          "name": "Kuvendi i Shqipërisë: Legjislatura VII"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_VIII",
-          "name": "Kuvendi i Shqipërisë: Legjislatura VIII"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1992",
-          "id": "chamber_XII",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XII",
-          "start_date": "1991"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1996",
-          "id": "chamber_XIII",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XIII",
-          "start_date": "1992"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1997",
-          "id": "chamber_XIV",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XIV",
-          "start_date": "1996"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_XIX",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XIX",
-          "start_date": "2013"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2001",
-          "id": "chamber_XV",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XV",
-          "start_date": "1997"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2005",
-          "id": "chamber_XVI",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XVI",
-          "start_date": "2001"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2009",
-          "id": "chamber_XVII",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XVII",
-          "start_date": "2005"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2013",
-          "id": "chamber_XVIII",
-          "name": "Kuvendi i Shqipërisë: Legjislatura XVIII",
-          "start_date": "2009"
-        }
-      ],
       "name": "Kuvendi"
     },
     {
@@ -11443,6 +11346,100 @@
     }
   ],
   "events": [
-
+    {
+      "classification": "legislative period",
+      "id": "chamber_I",
+      "name": "Kuvendi i Shqipërisë: Legjislatura I"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_II",
+      "name": "Kuvendi i Shqipërisë: Legjislatura II"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_III",
+      "name": "Kuvendi i Shqipërisë: Legjislatura III"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_IV",
+      "name": "Kuvendi i Shqipërisë: Legjislatura IV"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_V",
+      "name": "Kuvendi i Shqipërisë: Legjislatura V"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_VI",
+      "name": "Kuvendi i Shqipërisë: Legjislatura VI"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_VII",
+      "name": "Kuvendi i Shqipërisë: Legjislatura VII"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_VIII",
+      "name": "Kuvendi i Shqipërisë: Legjislatura VIII"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1992",
+      "id": "chamber_XII",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XII",
+      "start_date": "1991"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1996",
+      "id": "chamber_XIII",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XIII",
+      "start_date": "1992"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1997",
+      "id": "chamber_XIV",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XIV",
+      "start_date": "1996"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_XIX",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XIX",
+      "start_date": "2013"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2001",
+      "id": "chamber_XV",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XV",
+      "start_date": "1997"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2005",
+      "id": "chamber_XVI",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XVI",
+      "start_date": "2001"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2009",
+      "id": "chamber_XVII",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XVII",
+      "start_date": "2005"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2013",
+      "id": "chamber_XVIII",
+      "name": "Kuvendi i Shqipërisë: Legjislatura XVIII",
+      "start_date": "2009"
+    }
   ]
 }

@@ -964,16 +964,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2015-04-30",
-          "id": "term/2010",
-          "name": "2010",
-          "organization_id": "legislature",
-          "start_date": "2010"
-        }
-      ],
       "name": "Assemblée nationale"
     },
     {
@@ -2060,6 +2050,16 @@
       "organization_id": "legislature",
       "person_id": "person/2010-99",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2015-04-30",
+      "id": "term/2010",
+      "name": "2010",
+      "organization_id": "legislature",
+      "start_date": "2010"
     }
   ]
 }

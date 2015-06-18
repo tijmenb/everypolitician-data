@@ -152,6 +152,10 @@ namespace :transform do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     newterms = extra_termdata
     newterms.each { |t| t[:organization_id] = leg[:id] }
+
+    # To cope (for now) with source data that already has terms attached
+    # to the legislature, build it all up there first (as before), and
+    # then migrate it en masse to Events.
     if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
       raise "No @TERMFILE or @TERMS" if newterms.count.zero?
       leg[:legislative_periods] = newterms 
@@ -162,6 +166,10 @@ namespace :transform do
         end
       end
     end
+
+    @json[:events] ||= []
+    leg[:legislative_periods].each { |t| @json[:events] << t }
+    leg.delete :legislative_periods
   end
 
   #---------------------------------------------------------------------

@@ -1145,15 +1145,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/7.1",
-          "name": "1ere Legislature de la 7eme Republique",
-          "organization_id": "legislature",
-          "start_date": "2011-10-06"
-        }
-      ],
       "name": "Assemblée nationale"
     },
     {
@@ -1966,6 +1957,15 @@
       "organization_id": "legislature",
       "person_id": "person/zara_elhadj_bako",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/7.1",
+      "name": "1ere Legislature de la 7eme Republique",
+      "organization_id": "legislature",
+      "start_date": "2011-10-06"
     }
   ]
 }

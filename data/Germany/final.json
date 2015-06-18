@@ -32482,15 +32482,6 @@
     {
       "classification": "legislature",
       "id": "de.bundestag.data/bundestag",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "de.bundestag.data/wahlperiode/18",
-          "name": "18th Bundestag",
-          "organization_id": "de.bundestag.data/bundestag",
-          "start_date": "2013-10-22"
-        }
-      ],
       "links": [
         {
           "note": "Bundestag.de",
@@ -67092,6 +67083,15 @@
       "organization_id": "de.bundestag.data/partei/cdu",
       "person_id": "de.bundestag.data/mdb/995",
       "role": "Mitglied"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "de.bundestag.data/wahlperiode/18",
+      "name": "18th Bundestag",
+      "organization_id": "de.bundestag.data/bundestag",
+      "start_date": "2013-10-22"
     }
   ]
 }

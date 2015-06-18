@@ -2267,15 +2267,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/5",
-          "name": "Fifth Convocation",
-          "organization_id": "legislature",
-          "start_date": "2012-01-15"
-        }
-      ],
       "name": "Mazhilis"
     },
     {
@@ -3041,6 +3032,15 @@
       "organization_id": "legislature",
       "person_id": "person/94",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/5",
+      "name": "Fifth Convocation",
+      "organization_id": "legislature",
+      "start_date": "2012-01-15"
     }
   ]
 }

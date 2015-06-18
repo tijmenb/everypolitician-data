@@ -4763,39 +4763,6 @@
     {
       "classification": "legislature",
       "id": "scottish-parliament",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2003-03-31",
-          "id": "term/1",
-          "name": "1st Parliament",
-          "organization_id": "scottish-parliament",
-          "start_date": "1999-05-06"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2007-04-02",
-          "id": "term/2",
-          "name": "2nd Parliament",
-          "organization_id": "scottish-parliament",
-          "start_date": "2003-05-01"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2011-05-04",
-          "id": "term/3",
-          "name": "3rd Parliament",
-          "organization_id": "scottish-parliament",
-          "start_date": "2007-05-03"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "4th Parliament",
-          "organization_id": "scottish-parliament",
-          "start_date": "2011-05-06"
-        }
-      ],
       "name": "Scottish Parliament"
     },
     {
@@ -13354,6 +13321,39 @@
       "role": "member",
       "start_date": "2013-09-04",
       "start_reason": "replaced_in_region"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2003-03-31",
+      "id": "term/1",
+      "name": "1st Parliament",
+      "organization_id": "scottish-parliament",
+      "start_date": "1999-05-06"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2007-04-02",
+      "id": "term/2",
+      "name": "2nd Parliament",
+      "organization_id": "scottish-parliament",
+      "start_date": "2003-05-01"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2011-05-04",
+      "id": "term/3",
+      "name": "3rd Parliament",
+      "organization_id": "scottish-parliament",
+      "start_date": "2007-05-03"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "4th Parliament",
+      "organization_id": "scottish-parliament",
+      "start_date": "2011-05-06"
     }
   ]
 }
