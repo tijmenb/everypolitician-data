@@ -43,6 +43,7 @@ task 'countries.json' do
         cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
         {
+          name: h.split('/').last.tr('_', ' '),
           sources_directory: "#{h}/sources",
           popolo: json_file,
           lastmod: lastmod,
