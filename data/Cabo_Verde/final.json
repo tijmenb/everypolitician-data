@@ -678,11 +678,6 @@
   ],
   "organizations": [
     {
-      "classification": "party",
-      "id": "",
-      "name": ""
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
@@ -714,6 +709,11 @@
       "classification": "party",
       "id": "UCID",
       "name": "UCID"
+    },
+    {
+      "classification": "party",
+      "id": "",
+      "name": "unknown"
     }
   ],
   "meta": {
