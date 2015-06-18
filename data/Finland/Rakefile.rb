@@ -6,17 +6,18 @@ require_relative '../../rakefile_common.rb'
   seats: 200,
 }
 
+@RAWFILE = 'sources/tmtmtmtm/eduskunta.json'
+
 namespace :raw do
   @GITHUB_SOURCE = 'https://raw.githubusercontent.com/tmtmtmtm/eduskunta-popolo/master/eduskunta.json'
-  file 'github.json' do
-    File.write('github.json', open(@GITHUB_SOURCE).read)
+  file @RAWFILE do
+    File.write(@RAWFILE, open(@GITHUB_SOURCE).read)
   end
 end
 
-# Can remove this once EduPop fixes this
 namespace :whittle do
-  task :load => 'github.json' do
-    @json = JSON.parse(File.read('github.json'), symbolize_names: true)
+  task :load => @RAWFILE do
+    @json = JSON.parse(File.read(@RAWFILE), symbolize_names: true)
   end
 end
 

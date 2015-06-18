@@ -2505,14 +2505,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/8",
-          "name": "VIII Legislature",
-          "start_date": "2015-01-12"
-        }
-      ],
       "name": "Assembleia da República"
     },
     {
@@ -5034,6 +5026,15 @@
       "organization_id": "legislature",
       "person_id": "person/99",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/8",
+      "name": "VIII Legislature",
+      "organization_id": "legislature",
+      "start_date": "2015-01-12"
     }
   ]
 }

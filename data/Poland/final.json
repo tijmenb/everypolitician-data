@@ -10704,19 +10704,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "5509a8fb273a3904f6e71a64",
-          "identifiers": [
-            {
-              "identifier": "7",
-              "scheme": "mojepanstwo.pl/chamber"
-            }
-          ],
-          "name": "Sejm 2011 - "
-        }
-      ],
       "name": "Parlament"
     },
     {
@@ -17813,6 +17800,16 @@
     }
   ],
   "events": [
-
+    {
+      "classification": "legislative period",
+      "id": "5509a8fb273a3904f6e71a64",
+      "identifiers": [
+        {
+          "identifier": "7",
+          "scheme": "mojepanstwo.pl/chamber"
+        }
+      ],
+      "name": "Sejm 2011 - "
+    }
   ]
 }

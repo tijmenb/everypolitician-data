@@ -1317,14 +1317,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "Fourth Assembly",
-          "start_date": "2011-09-15"
-        }
-      ],
       "name": "National Assembly for Wales"
     },
     {
@@ -2041,6 +2033,15 @@
       "organization_id": "legislature",
       "person_id": "person/584",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "Fourth Assembly",
+      "organization_id": "legislature",
+      "start_date": "2011-09-15"
     }
   ]
 }

@@ -1524,14 +1524,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/53",
-          "name": "53rd Session",
-          "start_date": "2011"
-        }
-      ],
       "name": "House of Representatives"
     },
     {
@@ -2313,6 +2305,15 @@
       "organization_id": "legislature",
       "person_id": "person/zoe-e-pennue-1",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/53",
+      "name": "53rd Session",
+      "organization_id": "legislature",
+      "start_date": "2011"
     }
   ]
 }

@@ -1575,15 +1575,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2018",
-          "id": "term/2013",
-          "name": "2013-1018",
-          "start_date": "2013-12-20"
-        }
-      ],
       "name": "National Parliament"
     },
     {
@@ -3710,6 +3701,16 @@
       "organization_id": "executive",
       "person_id": "person/zafimahatratra_abel",
       "role": "Président de commission"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2018",
+      "id": "term/2013",
+      "name": "2013-1018",
+      "organization_id": "legislature",
+      "start_date": "2013-12-20"
     }
   ]
 }

@@ -1449,13 +1449,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/riigikogu_xiii",
-          "name": "Riigikogu XIII"
-        }
-      ],
       "name": "Riigikogu"
     },
     {
@@ -2575,6 +2568,13 @@
       "organization_id": "legislature",
       "person_id": "fe748f4d-3f50-4af8-8069-92a460978d2b",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/riigikogu_xiii",
+      "name": "Riigikogu XIII"
     }
   ]
 }

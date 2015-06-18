@@ -1775,14 +1775,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2013",
-          "name": "2013–2018",
-          "start_date": "2013-04-21"
-        }
-      ],
       "name": "Chamber of Deputies"
     },
     {
@@ -2609,6 +2601,15 @@
       "organization_id": "legislature",
       "person_id": "person/P287",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013–2018",
+      "organization_id": "legislature",
+      "start_date": "2013-04-21"
     }
   ]
 }

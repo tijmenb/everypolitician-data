@@ -1503,14 +1503,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/6",
-          "name": "6e législature",
-          "start_date": "2015-04-26"
-        }
-      ],
       "name": "Assemblée Nationale"
     },
     {
@@ -2397,6 +2389,15 @@
       "organization_id": "legislature",
       "person_id": "person/zinsou_edmond",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/6",
+      "name": "6e législature",
+      "organization_id": "legislature",
+      "start_date": "2015-04-26"
     }
   ]
 }

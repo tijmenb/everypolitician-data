@@ -7025,14 +7025,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/14",
-          "name": "14th National Assembly",
-          "start_date": "2013-06-01"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -10808,6 +10800,15 @@
       "person_id": "person/999",
       "role": "member",
       "start_date": "2013-06-03"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/14",
+      "name": "14th National Assembly",
+      "organization_id": "legislature",
+      "start_date": "2013-06-01"
     }
   ]
 }

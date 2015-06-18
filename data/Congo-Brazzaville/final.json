@@ -1956,14 +1956,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/13",
-          "name": "13ème législature",
-          "start_date": "2012"
-        }
-      ],
       "name": "Assemblee Nationale"
     },
     {
@@ -3250,6 +3242,15 @@
       "organization_id": "legislature",
       "person_id": "person/99",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/13",
+      "name": "13ème législature",
+      "organization_id": "legislature",
+      "start_date": "2012"
     }
   ]
 }

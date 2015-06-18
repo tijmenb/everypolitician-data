@@ -1988,98 +1988,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "1983-04-11",
-          "id": "term/1979-05-01",
-          "name": "Inatsisartut 1",
-          "start_date": "1979-05-01"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1984-06-05",
-          "id": "term/1983-04-12",
-          "name": "Inatsisartut 2",
-          "start_date": "1983-04-12"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1987-05-25",
-          "id": "term/1984-06-06",
-          "name": "Inatsisartut 3",
-          "start_date": "1984-06-06"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1991-03-04",
-          "id": "term/1987-05-26",
-          "name": "Inatsisartut 4",
-          "start_date": "1987-05-26"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1995-03-03",
-          "id": "term/1991-03-05",
-          "name": "Inatsisartut 5",
-          "start_date": "1991-03-05"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1999-02-15",
-          "id": "term/1995-03-04",
-          "name": "Inatsisartut 6",
-          "start_date": "1995-03-04"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2002-12-02",
-          "id": "term/1999-02-16",
-          "name": "Inatsisartut 7",
-          "start_date": "1999-02-16"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2005-11-14",
-          "id": "term/2002-12-03",
-          "name": "Inatsisartut 8",
-          "start_date": "2002-12-03"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2009-06-01",
-          "id": "term/2005-11-15",
-          "name": "Inatsisartut 9",
-          "start_date": "2005-11-15"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2013-03-11",
-          "id": "term/2009-06-02",
-          "name": "Inatsisartut 10",
-          "start_date": "2009-06-02"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2014-11-27",
-          "id": "term/2013-03-12",
-          "name": "Inatsisartut 11",
-          "start_date": "2013-03-12"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2014-12-11",
-          "id": "term/2014-11-28",
-          "name": "Inatsisartut 12",
-          "start_date": "2014-11-28"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2014-12-12",
-          "name": "Inatsisartut 13",
-          "start_date": "2014-12-12"
-        }
-      ],
       "name": "Inatsisartut"
     },
     {
@@ -5078,6 +4986,111 @@
       "organization_id": "legislature",
       "person_id": "ffdf6ad5-015e-4bc4-af47-eae264780f94",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "1983-04-11",
+      "id": "term/1979-05-01",
+      "name": "Inatsisartut 1",
+      "organization_id": "legislature",
+      "start_date": "1979-05-01"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1984-06-05",
+      "id": "term/1983-04-12",
+      "name": "Inatsisartut 2",
+      "organization_id": "legislature",
+      "start_date": "1983-04-12"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1987-05-25",
+      "id": "term/1984-06-06",
+      "name": "Inatsisartut 3",
+      "organization_id": "legislature",
+      "start_date": "1984-06-06"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1991-03-04",
+      "id": "term/1987-05-26",
+      "name": "Inatsisartut 4",
+      "organization_id": "legislature",
+      "start_date": "1987-05-26"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1995-03-03",
+      "id": "term/1991-03-05",
+      "name": "Inatsisartut 5",
+      "organization_id": "legislature",
+      "start_date": "1991-03-05"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1999-02-15",
+      "id": "term/1995-03-04",
+      "name": "Inatsisartut 6",
+      "organization_id": "legislature",
+      "start_date": "1995-03-04"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2002-12-02",
+      "id": "term/1999-02-16",
+      "name": "Inatsisartut 7",
+      "organization_id": "legislature",
+      "start_date": "1999-02-16"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2005-11-14",
+      "id": "term/2002-12-03",
+      "name": "Inatsisartut 8",
+      "organization_id": "legislature",
+      "start_date": "2002-12-03"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2009-06-01",
+      "id": "term/2005-11-15",
+      "name": "Inatsisartut 9",
+      "organization_id": "legislature",
+      "start_date": "2005-11-15"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2013-03-11",
+      "id": "term/2009-06-02",
+      "name": "Inatsisartut 10",
+      "organization_id": "legislature",
+      "start_date": "2009-06-02"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-11-27",
+      "id": "term/2013-03-12",
+      "name": "Inatsisartut 11",
+      "organization_id": "legislature",
+      "start_date": "2013-03-12"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-12-11",
+      "id": "term/2014-11-28",
+      "name": "Inatsisartut 12",
+      "organization_id": "legislature",
+      "start_date": "2014-11-28"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014-12-12",
+      "name": "Inatsisartut 13",
+      "organization_id": "legislature",
+      "start_date": "2014-12-12"
     }
   ]
 }

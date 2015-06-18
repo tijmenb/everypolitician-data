@@ -151,6 +151,11 @@ namespace :transform do
   task :ensure_term => :ensure_legislature do
     leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     newterms = extra_termdata
+    newterms.each { |t| t[:organization_id] = leg[:id] }
+
+    # To cope (for now) with source data that already has terms attached
+    # to the legislature, build it all up there first (as before), and
+    # then migrate it en masse to Events.
     if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
       raise "No @TERMFILE or @TERMS" if newterms.count.zero?
       leg[:legislative_periods] = newterms 
@@ -161,6 +166,10 @@ namespace :transform do
         end
       end
     end
+
+    @json[:events] ||= []
+    leg[:legislative_periods].each { |t| @json[:events] << t }
+    leg.delete :legislative_periods
   end
 
   #---------------------------------------------------------------------
@@ -249,7 +258,7 @@ namespace :term_csvs do
     data.group_by { |r| r[:term] }.each do |t, rs|
       filename = "term-#{t}.csv"
       header = rs.first.keys.to_csv
-      rows   = rs.sort_by { |r| [r[:name], r[:start_date]] }.map { |r| r.values.to_csv }
+      rows   = rs.sort_by { |r| [r[:name], r[:start_date].to_s] }.map { |r| r.values.to_csv }
       csv    = [header, rows].compact.join
       warn "Creating #{filename}"
       File.write(filename, csv)

@@ -1179,21 +1179,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2012",
-          "name": "State Grand Khural 2012–",
-          "start_date": "2012-06-28"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2012-06-28",
-          "id": "term/2008",
-          "name": "State Grand Khural 2008–2012",
-          "start_date": "2008-07-23"
-        }
-      ],
       "name": "State Great Khural"
     }
   ],
@@ -2730,6 +2715,23 @@
       "organization_id": "legislature",
       "person_id": "person/Ölziisaikhany_enkhtüvshin",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2012",
+      "name": "State Grand Khural 2012–",
+      "organization_id": "legislature",
+      "start_date": "2012-06-28"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2012-06-28",
+      "id": "term/2008",
+      "name": "State Grand Khural 2008–2012",
+      "organization_id": "legislature",
+      "start_date": "2008-07-23"
     }
   ]
 }

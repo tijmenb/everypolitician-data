@@ -4063,57 +4063,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "1998",
-          "id": "term/1",
-          "name": "1st National Council: 1993 - 1998",
-          "start_date": "1993"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "1990",
-          "id": "term/0",
-          "name": "Constituent Assembly: 1989 - 1990",
-          "start_date": "1989"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2010",
-          "id": "term/3",
-          "name": "3rd National Council: 2004 - 2010",
-          "start_date": "2004"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2015",
-          "id": "term/4",
-          "name": "4th National Council: 2010 - 2015",
-          "start_date": "2010"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2020",
-          "id": "term/6",
-          "name": "6th National Assembly: 2015 - 2020",
-          "start_date": "2015"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2004",
-          "id": "term/2",
-          "name": "2nd National Council: 1998 - 2004",
-          "start_date": "1998"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2015",
-          "id": "term/5",
-          "name": "5th National Assembly: 2010 - 2015",
-          "start_date": "2010"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -9960,6 +9909,64 @@
       "organization_id": "legislature",
       "person_id": "person/kgosiemang-Constance",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "1998",
+      "id": "term/1",
+      "name": "1st National Council: 1993 - 1998",
+      "organization_id": "legislature",
+      "start_date": "1993"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "1990",
+      "id": "term/0",
+      "name": "Constituent Assembly: 1989 - 1990",
+      "organization_id": "legislature",
+      "start_date": "1989"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2010",
+      "id": "term/3",
+      "name": "3rd National Council: 2004 - 2010",
+      "organization_id": "legislature",
+      "start_date": "2004"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2015",
+      "id": "term/4",
+      "name": "4th National Council: 2010 - 2015",
+      "organization_id": "legislature",
+      "start_date": "2010"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2020",
+      "id": "term/6",
+      "name": "6th National Assembly: 2015 - 2020",
+      "organization_id": "legislature",
+      "start_date": "2015"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2004",
+      "id": "term/2",
+      "name": "2nd National Council: 1998 - 2004",
+      "organization_id": "legislature",
+      "start_date": "1998"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2015",
+      "id": "term/5",
+      "name": "5th National Assembly: 2010 - 2015",
+      "organization_id": "legislature",
+      "start_date": "2010"
     }
   ]
 }

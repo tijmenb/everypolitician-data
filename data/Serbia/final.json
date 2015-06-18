@@ -9749,67 +9749,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2007-02-13",
-          "id": "chamber_2004-01-27",
-          "name": "Народна скупштина Републике Србије - 2004",
-          "sources": [
-            {
-              "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
-            }
-          ],
-          "start_date": "2004-01-27"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2008-06-10",
-          "id": "chamber_2007-02-14",
-          "name": "Народна скупштина Републике Србије - 2007",
-          "sources": [
-            {
-              "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
-            }
-          ],
-          "start_date": "2007-02-14"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2012-05-30",
-          "id": "chamber_2008-06-11",
-          "name": "Народна скупштина Републике Србије - 2008",
-          "sources": [
-            {
-              "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
-            }
-          ],
-          "start_date": "2008-06-11"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2014-04-14",
-          "id": "chamber_2012-05-31",
-          "name": "Народна скупштина Републике Србије - 2012",
-          "sources": [
-            {
-              "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
-            }
-          ],
-          "start_date": "2012-05-31"
-        },
-        {
-          "classification": "legislative period",
-          "id": "chamber_2014-04-15",
-          "name": "Народна скупштина Републике Србије - 2014",
-          "sources": [
-            {
-              "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
-            }
-          ],
-          "start_date": "2014-04-15"
-        }
-      ],
       "name": "Skupština"
     },
     {
@@ -71132,6 +71071,65 @@
         }
       ],
       "start_date": "2004-08-18T00:00:00"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2007-02-13",
+      "id": "chamber_2004-01-27",
+      "name": "Народна скупштина Републике Србије - 2004",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
+        }
+      ],
+      "start_date": "2004-01-27"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2008-06-10",
+      "id": "chamber_2007-02-14",
+      "name": "Народна скупштина Републике Србије - 2007",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
+        }
+      ],
+      "start_date": "2007-02-14"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2012-05-30",
+      "id": "chamber_2008-06-11",
+      "name": "Народна скупштина Републике Србије - 2008",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
+        }
+      ],
+      "start_date": "2008-06-11"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-04-14",
+      "id": "chamber_2012-05-31",
+      "name": "Народна скупштина Републике Србије - 2012",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
+        }
+      ],
+      "start_date": "2012-05-31"
+    },
+    {
+      "classification": "legislative period",
+      "id": "chamber_2014-04-15",
+      "name": "Народна скупштина Републике Србије - 2014",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/народна-скупштина/састав/народни-посланици/актуелни-сазив.11.html"
+        }
+      ],
+      "start_date": "2014-04-15"
     }
   ]
 }

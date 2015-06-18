@@ -767,14 +767,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2",
-          "name": "2nd Parliament",
-          "start_date": "2013-07-13"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -1386,6 +1378,15 @@
       "organization_id": "legislature",
       "person_id": "person/9",
       "role": "member",
+      "start_date": "2013-07-13"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2nd Parliament",
+      "organization_id": "legislature",
       "start_date": "2013-07-13"
     }
   ]

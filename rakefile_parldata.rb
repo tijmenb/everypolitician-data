@@ -87,7 +87,7 @@ namespace :transform do
   task :fill_behalfs => :ensure_term do
 
     house = @json[:organizations].find { |h| h[:classification] == 'legislature' }
-    terms = house[:legislative_periods]
+    terms = @json[:events].find_all { |e| e[:classification] == 'legislative period' } or raise "No terms!"
 
     # Which type of memberships do care about?
     want_type = @MEMBERSHIP_GROUPING || 'party'

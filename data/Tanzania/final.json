@@ -10100,28 +10100,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "end_date": "2005-10-29",
-          "id": "term/2",
-          "name": "2nd Assembly",
-          "start_date": "2000-10-29"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2010-10-30",
-          "id": "term/3",
-          "name": "3rd Assembly",
-          "start_date": "2005-10-30"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "4th Assembly",
-          "start_date": "2010-10-31"
-        }
-      ],
       "name": "National Assembly"
     },
     {
@@ -16814,6 +16792,31 @@
       "organization_id": "legislature",
       "person_id": "person/1778",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2005-10-29",
+      "id": "term/2",
+      "name": "2nd Assembly",
+      "organization_id": "legislature",
+      "start_date": "2000-10-29"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2010-10-30",
+      "id": "term/3",
+      "name": "3rd Assembly",
+      "organization_id": "legislature",
+      "start_date": "2005-10-30"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "4th Assembly",
+      "organization_id": "legislature",
+      "start_date": "2010-10-31"
     }
   ]
 }

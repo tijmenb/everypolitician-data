@@ -11339,21 +11339,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/10",
-          "name": "10th Parliament",
-          "start_date": "2014-01-29"
-        },
-        {
-          "classification": "legislative period",
-          "end_date": "2014-01-24",
-          "id": "term/9",
-          "name": "9th Parliament",
-          "start_date": "2009-01-25"
-        }
-      ],
       "name": "Jatiyo Sangshad"
     },
     {
@@ -18305,6 +18290,23 @@
       "organization_id": "legislature",
       "person_id": "person/Z",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/10",
+      "name": "10th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2014-01-29"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-01-24",
+      "id": "term/9",
+      "name": "9th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2009-01-25"
     }
   ]
 }
