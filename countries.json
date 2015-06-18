@@ -74,17 +74,17 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "id": "term/10",
-            "name": "10th Parliament",
-            "start_date": "2014-01-29",
-            "csv": "data/Bangladesh/House/term-10.csv"
-          },
-          {
             "end_date": "2014-01-24",
             "id": "term/9",
             "name": "9th Parliament",
             "start_date": "2009-01-25",
             "csv": "data/Bangladesh/House/term-9.csv"
+          },
+          {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2014-01-29",
+            "csv": "data/Bangladesh/House/term-10.csv"
           }
         ]
       }
@@ -207,94 +207,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "id": "term/55",
-            "name": "55th Legislature",
-            "start_date": "2015",
-            "csv": "data/Brazil/Deputies/term-55.csv"
-          },
-          {
-            "end_date": "2015",
-            "id": "term/54",
-            "name": "54th Legislature",
-            "start_date": "2011",
-            "csv": "data/Brazil/Deputies/term-54.csv"
-          },
-          {
-            "end_date": "2011",
-            "id": "term/53",
-            "name": "53rd Legislature",
-            "start_date": "2007",
-            "csv": "data/Brazil/Deputies/term-53.csv"
-          },
-          {
-            "end_date": "2007",
-            "id": "term/52",
-            "name": "52nd Legislature",
-            "start_date": "2003",
-            "csv": "data/Brazil/Deputies/term-52.csv"
-          },
-          {
-            "end_date": "2003",
-            "id": "term/51",
-            "name": "51st Legislature",
-            "start_date": "1999",
-            "csv": "data/Brazil/Deputies/term-51.csv"
-          },
-          {
-            "end_date": "1999",
-            "id": "term/50",
-            "name": "50th Legislature",
-            "start_date": "1995",
-            "csv": "data/Brazil/Deputies/term-50.csv"
-          },
-          {
-            "end_date": "1995",
-            "id": "term/49",
-            "name": "49th Legislature",
-            "start_date": "1991",
-            "csv": "data/Brazil/Deputies/term-49.csv"
-          },
-          {
-            "end_date": "1991",
-            "id": "term/48",
-            "name": "48th Legislature",
-            "start_date": "1987",
-            "csv": "data/Brazil/Deputies/term-48.csv"
-          },
-          {
-            "end_date": "1987",
-            "id": "term/47",
-            "name": "47th Legislature",
-            "start_date": "1983",
-            "csv": "data/Brazil/Deputies/term-47.csv"
-          },
-          {
-            "end_date": "1983",
-            "id": "term/46",
-            "name": "46th Legislature",
-            "start_date": "1979",
-            "csv": "data/Brazil/Deputies/term-46.csv"
-          },
-          {
-            "end_date": "1979",
-            "id": "term/45",
-            "name": "45th Legislature",
-            "start_date": "1975",
-            "csv": "data/Brazil/Deputies/term-45.csv"
-          },
-          {
-            "end_date": "1975",
-            "id": "term/44",
-            "name": "44th Legislature",
-            "start_date": "1971",
-            "csv": "data/Brazil/Deputies/term-44.csv"
-          },
-          {
-            "end_date": "1971",
-            "id": "term/43",
-            "name": "43rd Legislature",
-            "start_date": "1967",
-            "csv": "data/Brazil/Deputies/term-43.csv"
+            "end_date": "1962",
+            "id": "term/41",
+            "name": "41st Legislature",
+            "start_date": "1959",
+            "csv": "data/Brazil/Deputies/term-41.csv"
           },
           {
             "end_date": "1967",
@@ -304,11 +221,94 @@
             "csv": "data/Brazil/Deputies/term-42.csv"
           },
           {
-            "end_date": "1962",
-            "id": "term/41",
-            "name": "41st Legislature",
-            "start_date": "1959",
-            "csv": "data/Brazil/Deputies/term-41.csv"
+            "end_date": "1971",
+            "id": "term/43",
+            "name": "43rd Legislature",
+            "start_date": "1967",
+            "csv": "data/Brazil/Deputies/term-43.csv"
+          },
+          {
+            "end_date": "1975",
+            "id": "term/44",
+            "name": "44th Legislature",
+            "start_date": "1971",
+            "csv": "data/Brazil/Deputies/term-44.csv"
+          },
+          {
+            "end_date": "1979",
+            "id": "term/45",
+            "name": "45th Legislature",
+            "start_date": "1975",
+            "csv": "data/Brazil/Deputies/term-45.csv"
+          },
+          {
+            "end_date": "1983",
+            "id": "term/46",
+            "name": "46th Legislature",
+            "start_date": "1979",
+            "csv": "data/Brazil/Deputies/term-46.csv"
+          },
+          {
+            "end_date": "1987",
+            "id": "term/47",
+            "name": "47th Legislature",
+            "start_date": "1983",
+            "csv": "data/Brazil/Deputies/term-47.csv"
+          },
+          {
+            "end_date": "1991",
+            "id": "term/48",
+            "name": "48th Legislature",
+            "start_date": "1987",
+            "csv": "data/Brazil/Deputies/term-48.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/49",
+            "name": "49th Legislature",
+            "start_date": "1991",
+            "csv": "data/Brazil/Deputies/term-49.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/50",
+            "name": "50th Legislature",
+            "start_date": "1995",
+            "csv": "data/Brazil/Deputies/term-50.csv"
+          },
+          {
+            "end_date": "2003",
+            "id": "term/51",
+            "name": "51st Legislature",
+            "start_date": "1999",
+            "csv": "data/Brazil/Deputies/term-51.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/52",
+            "name": "52nd Legislature",
+            "start_date": "2003",
+            "csv": "data/Brazil/Deputies/term-52.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/53",
+            "name": "53rd Legislature",
+            "start_date": "2007",
+            "csv": "data/Brazil/Deputies/term-53.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/54",
+            "name": "54th Legislature",
+            "start_date": "2011",
+            "csv": "data/Brazil/Deputies/term-54.csv"
+          },
+          {
+            "id": "term/55",
+            "name": "55th Legislature",
+            "start_date": "2015",
+            "csv": "data/Brazil/Deputies/term-55.csv"
           }
         ]
       }
@@ -390,39 +390,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "2018-03-10",
-            "id": "term/8",
-            "name": "Legislativo 2014-2018",
-            "start_date": "2014-03-11",
-            "csv": "data/Chile/Deputies/term-8.csv"
-          },
-          {
-            "end_date": "2014-03-10",
-            "id": "term/6",
-            "name": "Legislativo 2010-2014",
-            "start_date": "2010-03-11",
-            "csv": "data/Chile/Deputies/term-6.csv"
-          },
-          {
-            "end_date": "2010-03-10",
-            "id": "term/5",
-            "name": "Legislativo 2006-2010",
-            "start_date": "2006-03-11",
-            "csv": "data/Chile/Deputies/term-5.csv"
-          },
-          {
-            "end_date": "2006-03-10",
-            "id": "term/4",
-            "name": "Legislativo 2002-2006",
-            "start_date": "2002-03-11",
-            "csv": "data/Chile/Deputies/term-4.csv"
-          },
-          {
-            "end_date": "2002-03-10",
-            "id": "term/3",
-            "name": "Legislativo 1998-2002",
-            "start_date": "1998-03-11",
-            "csv": "data/Chile/Deputies/term-3.csv"
+            "end_date": "1994-03-10",
+            "id": "term/1",
+            "name": "Legislativo 1990-1994",
+            "start_date": "1990-03-11",
+            "csv": "data/Chile/Deputies/term-1.csv"
           },
           {
             "end_date": "1998-03-10",
@@ -432,11 +404,39 @@
             "csv": "data/Chile/Deputies/term-2.csv"
           },
           {
-            "end_date": "1994-03-10",
-            "id": "term/1",
-            "name": "Legislativo 1990-1994",
-            "start_date": "1990-03-11",
-            "csv": "data/Chile/Deputies/term-1.csv"
+            "end_date": "2002-03-10",
+            "id": "term/3",
+            "name": "Legislativo 1998-2002",
+            "start_date": "1998-03-11",
+            "csv": "data/Chile/Deputies/term-3.csv"
+          },
+          {
+            "end_date": "2006-03-10",
+            "id": "term/4",
+            "name": "Legislativo 2002-2006",
+            "start_date": "2002-03-11",
+            "csv": "data/Chile/Deputies/term-4.csv"
+          },
+          {
+            "end_date": "2010-03-10",
+            "id": "term/5",
+            "name": "Legislativo 2006-2010",
+            "start_date": "2006-03-11",
+            "csv": "data/Chile/Deputies/term-5.csv"
+          },
+          {
+            "end_date": "2014-03-10",
+            "id": "term/6",
+            "name": "Legislativo 2010-2014",
+            "start_date": "2010-03-11",
+            "csv": "data/Chile/Deputies/term-6.csv"
+          },
+          {
+            "end_date": "2018-03-10",
+            "id": "term/8",
+            "name": "Legislativo 2014-2018",
+            "start_date": "2014-03-11",
+            "csv": "data/Chile/Deputies/term-8.csv"
           }
         ]
       }
@@ -1029,12 +1029,6 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "id": "term/2013",
-            "name": "Alþingi 2013",
-            "start_date": "2013",
-            "csv": "data/Iceland/Assembly/term-2013.csv"
-          },
-          {
             "end_date": "1999",
             "id": "term/1995",
             "name": "Alþingi 1995",
@@ -1068,6 +1062,12 @@
             "name": "Alþingi 2009",
             "start_date": "2009",
             "csv": "data/Iceland/Assembly/term-2009.csv"
+          },
+          {
+            "id": "term/2013",
+            "name": "Alþingi 2013",
+            "start_date": "2013",
+            "csv": "data/Iceland/Assembly/term-2013.csv"
           }
         ]
       }
@@ -1148,6 +1148,18 @@
         "sha": "bb56872",
         "legislative_periods": [
           {
+            "end_date": "2004-11-23",
+            "id": "chamber_2001-11-17",
+            "name": "Periudha e parë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
+              }
+            ],
+            "start_date": "2001-11-17",
+            "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
+          },
+          {
             "end_date": "2007-12-12",
             "id": "chamber_2004-11-23",
             "name": "Periudha e dytë Legjislative",
@@ -1158,6 +1170,18 @@
             ],
             "start_date": "2004-11-23",
             "csv": "data/Kosovo/Assembly/term-chamber_2004-11-23.csv"
+          },
+          {
+            "end_date": "2010-11-03",
+            "id": "chamber_2007-12-13",
+            "name": "Periudha e tretë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
+              }
+            ],
+            "start_date": "2007-12-13",
+            "csv": "data/Kosovo/Assembly/term-chamber_2007-12-13.csv"
           },
           {
             "end_date": "2014-05-07",
@@ -1172,18 +1196,6 @@
             "csv": "data/Kosovo/Assembly/term-chamber_2010-12-12.csv"
           },
           {
-            "end_date": "2004-11-23",
-            "id": "chamber_2001-11-17",
-            "name": "Periudha e parë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
-              }
-            ],
-            "start_date": "2001-11-17",
-            "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
-          },
-          {
             "id": "chamber_2014-07-17",
             "name": "Periudha e pestë Legjislative",
             "sources": [
@@ -1193,18 +1205,6 @@
             ],
             "start_date": "2014-07-17",
             "csv": "data/Kosovo/Assembly/term-chamber_2014-07-17.csv"
-          },
-          {
-            "end_date": "2010-11-03",
-            "id": "chamber_2007-12-13",
-            "name": "Periudha e tretë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
-              }
-            ],
-            "start_date": "2007-12-13",
-            "csv": "data/Kosovo/Assembly/term-chamber_2007-12-13.csv"
           }
         ]
       }
@@ -1307,11 +1307,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "2018",
-            "id": "term/2013",
-            "name": "2013",
-            "start_date": "2013-02-21",
-            "csv": "data/Monaco/Council/term-2013.csv"
+            "end_date": "2008",
+            "id": "term/2003",
+            "name": "2003-2008",
+            "start_date": "2003",
+            "csv": "data/Monaco/Council/term-2003.csv"
           },
           {
             "end_date": "2013",
@@ -1321,11 +1321,11 @@
             "csv": "data/Monaco/Council/term-2008.csv"
           },
           {
-            "end_date": "2008",
-            "id": "term/2003",
-            "name": "2003-2008",
-            "start_date": "2003",
-            "csv": "data/Monaco/Council/term-2003.csv"
+            "end_date": "2018",
+            "id": "term/2013",
+            "name": "2013",
+            "start_date": "2013-02-21",
+            "csv": "data/Monaco/Council/term-2013.csv"
           }
         ]
       }
@@ -1343,17 +1343,17 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "id": "term/2012",
-            "name": "State Grand Khural 2012–",
-            "start_date": "2012-06-28",
-            "csv": "data/Mongolia/Assembly/term-2012.csv"
-          },
-          {
             "end_date": "2012-06-28",
             "id": "term/2008",
             "name": "State Grand Khural 2008–2012",
             "start_date": "2008-07-23",
             "csv": "data/Mongolia/Assembly/term-2008.csv"
+          },
+          {
+            "id": "term/2012",
+            "name": "State Grand Khural 2012–",
+            "start_date": "2012-06-28",
+            "csv": "data/Mongolia/Assembly/term-2012.csv"
           }
         ]
       }
@@ -1418,6 +1418,13 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
+            "end_date": "1990",
+            "id": "term/0",
+            "name": "Constituent Assembly: 1989 - 1990",
+            "start_date": "1989",
+            "csv": "data/Namibia/Assembly/term-0.csv"
+          },
+          {
             "end_date": "1998",
             "id": "term/1",
             "name": "1st National Council: 1993 - 1998",
@@ -1425,11 +1432,11 @@
             "csv": "data/Namibia/Assembly/term-1.csv"
           },
           {
-            "end_date": "1990",
-            "id": "term/0",
-            "name": "Constituent Assembly: 1989 - 1990",
-            "start_date": "1989",
-            "csv": "data/Namibia/Assembly/term-0.csv"
+            "end_date": "2004",
+            "id": "term/2",
+            "name": "2nd National Council: 1998 - 2004",
+            "start_date": "1998",
+            "csv": "data/Namibia/Assembly/term-2.csv"
           },
           {
             "end_date": "2010",
@@ -1446,25 +1453,18 @@
             "csv": "data/Namibia/Assembly/term-4.csv"
           },
           {
-            "end_date": "2020",
-            "id": "term/6",
-            "name": "6th National Assembly: 2015 - 2020",
-            "start_date": "2015",
-            "csv": "data/Namibia/Assembly/term-6.csv"
-          },
-          {
-            "end_date": "2004",
-            "id": "term/2",
-            "name": "2nd National Council: 1998 - 2004",
-            "start_date": "1998",
-            "csv": "data/Namibia/Assembly/term-2.csv"
-          },
-          {
             "end_date": "2015",
             "id": "term/5",
             "name": "5th National Assembly: 2010 - 2015",
             "start_date": "2010",
             "csv": "data/Namibia/Assembly/term-5.csv"
+          },
+          {
+            "end_date": "2020",
+            "id": "term/6",
+            "name": "6th National Assembly: 2015 - 2020",
+            "start_date": "2015",
+            "csv": "data/Namibia/Assembly/term-6.csv"
           }
         ]
       }
@@ -1630,41 +1630,6 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "2015",
-            "id": "term/12",
-            "name": "12ª Legislatura",
-            "start_date": "2011",
-            "csv": "data/Portugal/Assembly/term-12.csv"
-          },
-          {
-            "end_date": "2011",
-            "id": "term/11",
-            "name": "11ª Legislatura",
-            "start_date": "2009",
-            "csv": "data/Portugal/Assembly/term-11.csv"
-          },
-          {
-            "end_date": "2009",
-            "id": "term/10",
-            "name": "10ª Legislatura",
-            "start_date": "2005",
-            "csv": "data/Portugal/Assembly/term-10.csv"
-          },
-          {
-            "end_date": "2005",
-            "id": "term/9",
-            "name": "9ª Legislatura",
-            "start_date": "2002",
-            "csv": "data/Portugal/Assembly/term-9.csv"
-          },
-          {
-            "end_date": "2002",
-            "id": "term/8",
-            "name": "8ª Legislatura",
-            "start_date": "1999",
-            "csv": "data/Portugal/Assembly/term-8.csv"
-          },
-          {
             "end_date": "1995",
             "id": "term/6",
             "name": "6ª Legislatura",
@@ -1677,6 +1642,41 @@
             "name": "7ª Legislatura",
             "start_date": "1995",
             "csv": "data/Portugal/Assembly/term-7.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/8",
+            "name": "8ª Legislatura",
+            "start_date": "1999",
+            "csv": "data/Portugal/Assembly/term-8.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/9",
+            "name": "9ª Legislatura",
+            "start_date": "2002",
+            "csv": "data/Portugal/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/10",
+            "name": "10ª Legislatura",
+            "start_date": "2005",
+            "csv": "data/Portugal/Assembly/term-10.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/11",
+            "name": "11ª Legislatura",
+            "start_date": "2009",
+            "csv": "data/Portugal/Assembly/term-11.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/12",
+            "name": "12ª Legislatura",
+            "start_date": "2011",
+            "csv": "data/Portugal/Assembly/term-12.csv"
           }
         ]
       }
@@ -1899,24 +1899,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "id": "term/24",
-            "name": "24th Parliament",
-            "start_date": "2011-06-28",
-            "csv": "data/Turkey/Assembly/term-24.csv"
-          },
-          {
-            "end_date": "2011-06-28",
-            "id": "term/23",
-            "name": "23rd Parliament",
-            "start_date": "2007-07-23",
-            "csv": "data/Turkey/Assembly/term-23.csv"
-          },
-          {
-            "end_date": "2007-07-23",
-            "id": "term/22",
-            "name": "22nd Parliament",
-            "start_date": "2002-11-14",
-            "csv": "data/Turkey/Assembly/term-22.csv"
+            "end_date": "1999-04-18",
+            "id": "term/20",
+            "name": "20th Parliament",
+            "start_date": "1996-01-08",
+            "csv": "data/Turkey/Assembly/term-20.csv"
           },
           {
             "end_date": "2002-11-14",
@@ -1926,11 +1913,24 @@
             "csv": "data/Turkey/Assembly/term-21.csv"
           },
           {
-            "end_date": "1999-04-18",
-            "id": "term/20",
-            "name": "20th Parliament",
-            "start_date": "1996-01-08",
-            "csv": "data/Turkey/Assembly/term-20.csv"
+            "end_date": "2007-07-23",
+            "id": "term/22",
+            "name": "22nd Parliament",
+            "start_date": "2002-11-14",
+            "csv": "data/Turkey/Assembly/term-22.csv"
+          },
+          {
+            "end_date": "2011-06-28",
+            "id": "term/23",
+            "name": "23rd Parliament",
+            "start_date": "2007-07-23",
+            "csv": "data/Turkey/Assembly/term-23.csv"
+          },
+          {
+            "id": "term/24",
+            "name": "24th Parliament",
+            "start_date": "2011-06-28",
+            "csv": "data/Turkey/Assembly/term-24.csv"
           }
         ]
       }

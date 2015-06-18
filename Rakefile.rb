@@ -19,7 +19,8 @@ end
 
 def terms_from(json_file, h)
   json = JSON.parse(File.read(json_file), symbolize_names: true)
-  json[:events].find_all { |o| o[:classification] == 'legislative period' }.map { |t|
+  terms = json[:events].find_all { |o| o[:classification] == 'legislative period' }
+  terms.sort_by { |t| t[:start_date].to_s }.reverse.map { |t|
     t.delete :classification
     t.delete :organization_id
     t[:csv] = h + "/term-#{t[:id].split('/').last}.csv"
