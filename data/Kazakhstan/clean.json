@@ -2276,6 +2276,11 @@
       "classification": "party",
       "id": "1",
       "name": "Nur Otan"
+    },
+    {
+      "classification": "party",
+      "id": "4",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -2286,6 +2291,12 @@
       "on_behalf_of_id": "1",
       "organization_id": "legislature",
       "person_id": "person/107",
+      "role": "member"
+    },
+    {
+      "on_behalf_of_id": "4",
+      "organization_id": "legislature",
+      "person_id": "person/1125",
       "role": "member"
     },
     {
@@ -2757,6 +2768,12 @@
       "role": "member"
     },
     {
+      "on_behalf_of_id": "4",
+      "organization_id": "legislature",
+      "person_id": "person/1561",
+      "role": "member"
+    },
+    {
       "on_behalf_of_id": "1",
       "organization_id": "legislature",
       "person_id": "person/1564",
@@ -2796,6 +2813,12 @@
       "on_behalf_of_id": "1",
       "organization_id": "legislature",
       "person_id": "person/1585",
+      "role": "member"
+    },
+    {
+      "on_behalf_of_id": "4",
+      "organization_id": "legislature",
+      "person_id": "person/1588",
       "role": "member"
     },
     {
