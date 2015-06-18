@@ -258,7 +258,7 @@ namespace :term_csvs do
     data.group_by { |r| r[:term] }.each do |t, rs|
       filename = "term-#{t}.csv"
       header = rs.first.keys.to_csv
-      rows   = rs.sort_by { |r| [r[:name], r[:start_date]] }.map { |r| r.values.to_csv }
+      rows   = rs.sort_by { |r| [r[:name], r[:start_date].to_s] }.map { |r| r.values.to_csv }
       csv    = [header, rows].compact.join
       warn "Creating #{filename}"
       File.write(filename, csv)
