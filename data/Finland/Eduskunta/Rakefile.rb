@@ -1,4 +1,4 @@
-require_relative '../../rakefile_common.rb'
+require_relative '../../../rakefile_common.rb'
 
 @SOURCE = 'https://github.com/tmtmtmtm/eduskunta-popolo'
 @LEGISLATURE = {

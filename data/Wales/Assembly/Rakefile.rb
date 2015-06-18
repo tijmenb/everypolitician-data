@@ -1,4 +1,4 @@
-require_relative '../../rakefile_morph.rb'
+require_relative '../../../rakefile_morph.rb'
 
 @MORPH = 'duncanparkes/welsh_assembly_members'
 @LEGISLATURE = {

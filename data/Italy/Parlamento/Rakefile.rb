@@ -1,4 +1,4 @@
-require_relative '../../rakefile_popit.rb'
+require_relative '../../../rakefile_popit.rb'
 
 @POPIT = 'parlamento-test'
 @LEGISLATURE = {

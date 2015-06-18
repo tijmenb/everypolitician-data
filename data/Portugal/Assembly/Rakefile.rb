@@ -1,4 +1,4 @@
-require_relative '../../rakefile_morph.rb'
+require_relative '../../../rakefile_morph.rb'
 
 @MORPH = 'tmtmtmtm/portugal-democratica-scraper'
 @MORPH_TERMS = true

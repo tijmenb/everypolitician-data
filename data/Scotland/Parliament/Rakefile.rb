@@ -1,4 +1,4 @@
-require_relative '../../rakefile_parlparse.rb'
+require_relative '../../../rakefile_parlparse.rb'
 
 @LEGISLATURE = {
   name: 'Scottish Parliament',

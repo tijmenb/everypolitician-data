@@ -1,4 +1,4 @@
-require_relative '../../rakefile_morph.rb'
+require_relative '../../../rakefile_morph.rb'
 
 @MORPH = 'tmtmtmtm/andorra-consell-general'
 @LEGISLATURE = {

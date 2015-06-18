@@ -1,4 +1,4 @@
-require_relative '../../rakefile_morph.rb'
+require_relative '../../../rakefile_morph.rb'
 
 @MORPH = 'pudo/de-bundestag-mdbs' 
 @MORPH_QUERY = 'SELECT * FROM data ORDER BY last_update DESC LIMIT 1'

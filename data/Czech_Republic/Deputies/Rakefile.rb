@@ -1,5 +1,4 @@
-
-require_relative '../../rakefile_parldata.rb'
+require_relative '../../../rakefile_parldata.rb'
 
 @PARLDATA = [ 'cz/psp', 'cz/senat' ]
 @LEGISLATURE = {
