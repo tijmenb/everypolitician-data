@@ -1123,10 +1123,14 @@
         "name": "Jersey",
         "sources_directory": "data/Jersey/sources",
         "popolo": "data/Jersey/final.json",
-        "lastmod": "1434706508",
-        "sha": "d72f6d9",
+        "lastmod": "1434714916",
+        "sha": "b9e340c",
         "legislative_periods": [
-
+          {
+            "id": "term/2011",
+            "name": "2011",
+            "csv": "data/Jersey/term-2011.csv"
+          }
         ]
       }
     ]
