@@ -74,17 +74,17 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2014-01-29",
+            "csv": "data/Bangladesh/House/term-10.csv"
+          },
+          {
             "end_date": "2014-01-24",
             "id": "term/9",
             "name": "9th Parliament",
             "start_date": "2009-01-25",
             "csv": "data/Bangladesh/House/term-9.csv"
-          },
-          {
-            "id": "term/10",
-            "name": "10th Parliament",
-            "start_date": "2014-01-29",
-            "csv": "data/Bangladesh/House/term-10.csv"
           }
         ]
       }
@@ -207,95 +207,10 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1962",
-            "id": "term/41",
-            "name": "41st Legislature",
-            "start_date": "1959",
-            "csv": "data/Brazil/Deputies/term-41.csv"
-          },
-          {
-            "end_date": "1967",
-            "id": "term/42",
-            "name": "42nd Legislature",
-            "start_date": "1963",
-            "csv": "data/Brazil/Deputies/term-42.csv"
-          },
-          {
-            "end_date": "1971",
-            "id": "term/43",
-            "name": "43rd Legislature",
-            "start_date": "1967",
-            "csv": "data/Brazil/Deputies/term-43.csv"
-          },
-          {
-            "end_date": "1975",
-            "id": "term/44",
-            "name": "44th Legislature",
-            "start_date": "1971",
-            "csv": "data/Brazil/Deputies/term-44.csv"
-          },
-          {
-            "end_date": "1979",
-            "id": "term/45",
-            "name": "45th Legislature",
-            "start_date": "1975",
-            "csv": "data/Brazil/Deputies/term-45.csv"
-          },
-          {
-            "end_date": "1983",
-            "id": "term/46",
-            "name": "46th Legislature",
-            "start_date": "1979",
-            "csv": "data/Brazil/Deputies/term-46.csv"
-          },
-          {
-            "end_date": "1987",
-            "id": "term/47",
-            "name": "47th Legislature",
-            "start_date": "1983",
-            "csv": "data/Brazil/Deputies/term-47.csv"
-          },
-          {
-            "end_date": "1991",
-            "id": "term/48",
-            "name": "48th Legislature",
-            "start_date": "1987",
-            "csv": "data/Brazil/Deputies/term-48.csv"
-          },
-          {
-            "end_date": "1995",
-            "id": "term/49",
-            "name": "49th Legislature",
-            "start_date": "1991",
-            "csv": "data/Brazil/Deputies/term-49.csv"
-          },
-          {
-            "end_date": "1999",
-            "id": "term/50",
-            "name": "50th Legislature",
-            "start_date": "1995",
-            "csv": "data/Brazil/Deputies/term-50.csv"
-          },
-          {
-            "end_date": "2003",
-            "id": "term/51",
-            "name": "51st Legislature",
-            "start_date": "1999",
-            "csv": "data/Brazil/Deputies/term-51.csv"
-          },
-          {
-            "end_date": "2007",
-            "id": "term/52",
-            "name": "52nd Legislature",
-            "start_date": "2003",
-            "csv": "data/Brazil/Deputies/term-52.csv"
-          },
-          {
-            "end_date": "2011",
-            "id": "term/53",
-            "name": "53rd Legislature",
-            "start_date": "2007",
-            "csv": "data/Brazil/Deputies/term-53.csv"
+            "id": "term/55",
+            "name": "55th Legislature",
+            "start_date": "2015",
+            "csv": "data/Brazil/Deputies/term-55.csv"
           },
           {
             "end_date": "2015",
@@ -305,10 +220,95 @@
             "csv": "data/Brazil/Deputies/term-54.csv"
           },
           {
-            "id": "term/55",
-            "name": "55th Legislature",
-            "start_date": "2015",
-            "csv": "data/Brazil/Deputies/term-55.csv"
+            "end_date": "2011",
+            "id": "term/53",
+            "name": "53rd Legislature",
+            "start_date": "2007",
+            "csv": "data/Brazil/Deputies/term-53.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/52",
+            "name": "52nd Legislature",
+            "start_date": "2003",
+            "csv": "data/Brazil/Deputies/term-52.csv"
+          },
+          {
+            "end_date": "2003",
+            "id": "term/51",
+            "name": "51st Legislature",
+            "start_date": "1999",
+            "csv": "data/Brazil/Deputies/term-51.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/50",
+            "name": "50th Legislature",
+            "start_date": "1995",
+            "csv": "data/Brazil/Deputies/term-50.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/49",
+            "name": "49th Legislature",
+            "start_date": "1991",
+            "csv": "data/Brazil/Deputies/term-49.csv"
+          },
+          {
+            "end_date": "1991",
+            "id": "term/48",
+            "name": "48th Legislature",
+            "start_date": "1987",
+            "csv": "data/Brazil/Deputies/term-48.csv"
+          },
+          {
+            "end_date": "1987",
+            "id": "term/47",
+            "name": "47th Legislature",
+            "start_date": "1983",
+            "csv": "data/Brazil/Deputies/term-47.csv"
+          },
+          {
+            "end_date": "1983",
+            "id": "term/46",
+            "name": "46th Legislature",
+            "start_date": "1979",
+            "csv": "data/Brazil/Deputies/term-46.csv"
+          },
+          {
+            "end_date": "1979",
+            "id": "term/45",
+            "name": "45th Legislature",
+            "start_date": "1975",
+            "csv": "data/Brazil/Deputies/term-45.csv"
+          },
+          {
+            "end_date": "1975",
+            "id": "term/44",
+            "name": "44th Legislature",
+            "start_date": "1971",
+            "csv": "data/Brazil/Deputies/term-44.csv"
+          },
+          {
+            "end_date": "1971",
+            "id": "term/43",
+            "name": "43rd Legislature",
+            "start_date": "1967",
+            "csv": "data/Brazil/Deputies/term-43.csv"
+          },
+          {
+            "end_date": "1967",
+            "id": "term/42",
+            "name": "42nd Legislature",
+            "start_date": "1963",
+            "csv": "data/Brazil/Deputies/term-42.csv"
+          },
+          {
+            "end_date": "1962",
+            "id": "term/41",
+            "name": "41st Legislature",
+            "start_date": "1959",
+            "csv": "data/Brazil/Deputies/term-41.csv"
           }
         ]
       }
@@ -390,39 +390,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1994-03-10",
-            "id": "term/1",
-            "name": "Legislativo 1990-1994",
-            "start_date": "1990-03-11",
-            "csv": "data/Chile/Deputies/term-1.csv"
-          },
-          {
-            "end_date": "1998-03-10",
-            "id": "term/2",
-            "name": "Legislativo 1994-1998",
-            "start_date": "1994-03-11",
-            "csv": "data/Chile/Deputies/term-2.csv"
-          },
-          {
-            "end_date": "2002-03-10",
-            "id": "term/3",
-            "name": "Legislativo 1998-2002",
-            "start_date": "1998-03-11",
-            "csv": "data/Chile/Deputies/term-3.csv"
-          },
-          {
-            "end_date": "2006-03-10",
-            "id": "term/4",
-            "name": "Legislativo 2002-2006",
-            "start_date": "2002-03-11",
-            "csv": "data/Chile/Deputies/term-4.csv"
-          },
-          {
-            "end_date": "2010-03-10",
-            "id": "term/5",
-            "name": "Legislativo 2006-2010",
-            "start_date": "2006-03-11",
-            "csv": "data/Chile/Deputies/term-5.csv"
+            "end_date": "2018-03-10",
+            "id": "term/8",
+            "name": "Legislativo 2014-2018",
+            "start_date": "2014-03-11",
+            "csv": "data/Chile/Deputies/term-8.csv"
           },
           {
             "end_date": "2014-03-10",
@@ -432,11 +404,39 @@
             "csv": "data/Chile/Deputies/term-6.csv"
           },
           {
-            "end_date": "2018-03-10",
-            "id": "term/8",
-            "name": "Legislativo 2014-2018",
-            "start_date": "2014-03-11",
-            "csv": "data/Chile/Deputies/term-8.csv"
+            "end_date": "2010-03-10",
+            "id": "term/5",
+            "name": "Legislativo 2006-2010",
+            "start_date": "2006-03-11",
+            "csv": "data/Chile/Deputies/term-5.csv"
+          },
+          {
+            "end_date": "2006-03-10",
+            "id": "term/4",
+            "name": "Legislativo 2002-2006",
+            "start_date": "2002-03-11",
+            "csv": "data/Chile/Deputies/term-4.csv"
+          },
+          {
+            "end_date": "2002-03-10",
+            "id": "term/3",
+            "name": "Legislativo 1998-2002",
+            "start_date": "1998-03-11",
+            "csv": "data/Chile/Deputies/term-3.csv"
+          },
+          {
+            "end_date": "1998-03-10",
+            "id": "term/2",
+            "name": "Legislativo 1994-1998",
+            "start_date": "1994-03-11",
+            "csv": "data/Chile/Deputies/term-2.csv"
+          },
+          {
+            "end_date": "1994-03-10",
+            "id": "term/1",
+            "name": "Legislativo 1990-1994",
+            "start_date": "1990-03-11",
+            "csv": "data/Chile/Deputies/term-1.csv"
           }
         ]
       }
@@ -475,15 +475,14 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1996-06-06",
-            "id": "165",
+            "id": "171",
             "identifiers": [
               {
-                "identifier": "1",
+                "identifier": "7",
                 "scheme": "psp.cz/term"
               },
               {
-                "identifier": "165",
+                "identifier": "171",
                 "scheme": "psp.cz/organy"
               }
             ],
@@ -494,100 +493,8 @@
                 "note": "abbreviation"
               }
             ],
-            "start_date": "1992-06-06",
-            "csv": "data/Czech_Republic/Deputies/term-165.csv"
-          },
-          {
-            "end_date": "1998-06-19",
-            "id": "166",
-            "identifiers": [
-              {
-                "identifier": "2",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "166",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
-            "start_date": "1996-06-01",
-            "csv": "data/Czech_Republic/Deputies/term-166.csv"
-          },
-          {
-            "end_date": "2002-06-20",
-            "id": "167",
-            "identifiers": [
-              {
-                "identifier": "3",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "167",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
-            "start_date": "1998-06-20",
-            "csv": "data/Czech_Republic/Deputies/term-167.csv"
-          },
-          {
-            "end_date": "2006-06-15",
-            "id": "168",
-            "identifiers": [
-              {
-                "identifier": "4",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "168",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
-            "start_date": "2002-06-15",
-            "csv": "data/Czech_Republic/Deputies/term-168.csv"
-          },
-          {
-            "end_date": "2010-06-03",
-            "id": "169",
-            "identifiers": [
-              {
-                "identifier": "5",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "169",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
-            "start_date": "2006-06-03",
-            "csv": "data/Czech_Republic/Deputies/term-169.csv"
+            "start_date": "2013-10-26",
+            "csv": "data/Czech_Republic/Deputies/term-171.csv"
           },
           {
             "end_date": "2013-08-28",
@@ -613,14 +520,15 @@
             "csv": "data/Czech_Republic/Deputies/term-170.csv"
           },
           {
-            "id": "171",
+            "end_date": "2010-06-03",
+            "id": "169",
             "identifiers": [
               {
-                "identifier": "7",
+                "identifier": "5",
                 "scheme": "psp.cz/term"
               },
               {
-                "identifier": "171",
+                "identifier": "169",
                 "scheme": "psp.cz/organy"
               }
             ],
@@ -631,8 +539,100 @@
                 "note": "abbreviation"
               }
             ],
-            "start_date": "2013-10-26",
-            "csv": "data/Czech_Republic/Deputies/term-171.csv"
+            "start_date": "2006-06-03",
+            "csv": "data/Czech_Republic/Deputies/term-169.csv"
+          },
+          {
+            "end_date": "2006-06-15",
+            "id": "168",
+            "identifiers": [
+              {
+                "identifier": "4",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "168",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "2002-06-15",
+            "csv": "data/Czech_Republic/Deputies/term-168.csv"
+          },
+          {
+            "end_date": "2002-06-20",
+            "id": "167",
+            "identifiers": [
+              {
+                "identifier": "3",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "167",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "1998-06-20",
+            "csv": "data/Czech_Republic/Deputies/term-167.csv"
+          },
+          {
+            "end_date": "1998-06-19",
+            "id": "166",
+            "identifiers": [
+              {
+                "identifier": "2",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "166",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "1996-06-01",
+            "csv": "data/Czech_Republic/Deputies/term-166.csv"
+          },
+          {
+            "end_date": "1996-06-06",
+            "id": "165",
+            "identifiers": [
+              {
+                "identifier": "1",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "165",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "1992-06-06",
+            "csv": "data/Czech_Republic/Deputies/term-165.csv"
           }
         ]
       }
@@ -691,134 +691,16 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1972-01-21",
-            "id": "term/25",
+            "id": "term/36",
             "identifiers": [
               {
-                "identifier": "29",
+                "identifier": "1",
                 "scheme": "kansanmuisti.fi"
               }
             ],
-            "name": "Eduskunta 25 (1970)",
-            "start_date": "1970-03-23",
-            "csv": "data/Finland/Eduskunta/term-25.csv"
-          },
-          {
-            "end_date": "1975-09-26",
-            "id": "term/26",
-            "identifiers": [
-              {
-                "identifier": "30",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 26 (1972)",
-            "start_date": "1972-01-22",
-            "csv": "data/Finland/Eduskunta/term-26.csv"
-          },
-          {
-            "end_date": "1979-03-23",
-            "id": "term/27",
-            "identifiers": [
-              {
-                "identifier": "31",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 27 (1975 II)",
-            "start_date": "1975-09-27",
-            "csv": "data/Finland/Eduskunta/term-27.csv"
-          },
-          {
-            "end_date": "1983-03-25",
-            "id": "term/28",
-            "identifiers": [
-              {
-                "identifier": "32",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 28 (1979)",
-            "start_date": "1979-03-24",
-            "csv": "data/Finland/Eduskunta/term-28.csv"
-          },
-          {
-            "end_date": "1987-03-20",
-            "id": "term/29",
-            "identifiers": [
-              {
-                "identifier": "33",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 29 (1983)",
-            "start_date": "1983-03-26",
-            "csv": "data/Finland/Eduskunta/term-29.csv"
-          },
-          {
-            "end_date": "1991-03-21",
-            "id": "term/30",
-            "identifiers": [
-              {
-                "identifier": "34",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 30 (1987)",
-            "start_date": "1987-03-21",
-            "csv": "data/Finland/Eduskunta/term-30.csv"
-          },
-          {
-            "end_date": "1995-03-23",
-            "id": "term/31",
-            "identifiers": [
-              {
-                "identifier": "35",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 31 (1991)",
-            "start_date": "1991-03-22",
-            "csv": "data/Finland/Eduskunta/term-31.csv"
-          },
-          {
-            "end_date": "1999-03-23",
-            "id": "term/32",
-            "identifiers": [
-              {
-                "identifier": "36",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 32 (1995)",
-            "start_date": "1995-03-24",
-            "csv": "data/Finland/Eduskunta/term-32.csv"
-          },
-          {
-            "end_date": "2003-03-18",
-            "id": "term/33",
-            "identifiers": [
-              {
-                "identifier": "4",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 33 (1999)",
-            "start_date": "1999-03-24",
-            "csv": "data/Finland/Eduskunta/term-33.csv"
-          },
-          {
-            "end_date": "2007-03-20",
-            "id": "term/34",
-            "identifiers": [
-              {
-                "identifier": "3",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 34 (2003)",
-            "start_date": "2003-03-19",
-            "csv": "data/Finland/Eduskunta/term-34.csv"
+            "name": "Eduskunta 36 (2011)",
+            "start_date": "2011-04-20",
+            "csv": "data/Finland/Eduskunta/term-36.csv"
           },
           {
             "end_date": "2011-04-19",
@@ -834,16 +716,134 @@
             "csv": "data/Finland/Eduskunta/term-35.csv"
           },
           {
-            "id": "term/36",
+            "end_date": "2007-03-20",
+            "id": "term/34",
             "identifiers": [
               {
-                "identifier": "1",
+                "identifier": "3",
                 "scheme": "kansanmuisti.fi"
               }
             ],
-            "name": "Eduskunta 36 (2011)",
-            "start_date": "2011-04-20",
-            "csv": "data/Finland/Eduskunta/term-36.csv"
+            "name": "Eduskunta 34 (2003)",
+            "start_date": "2003-03-19",
+            "csv": "data/Finland/Eduskunta/term-34.csv"
+          },
+          {
+            "end_date": "2003-03-18",
+            "id": "term/33",
+            "identifiers": [
+              {
+                "identifier": "4",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 33 (1999)",
+            "start_date": "1999-03-24",
+            "csv": "data/Finland/Eduskunta/term-33.csv"
+          },
+          {
+            "end_date": "1999-03-23",
+            "id": "term/32",
+            "identifiers": [
+              {
+                "identifier": "36",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 32 (1995)",
+            "start_date": "1995-03-24",
+            "csv": "data/Finland/Eduskunta/term-32.csv"
+          },
+          {
+            "end_date": "1995-03-23",
+            "id": "term/31",
+            "identifiers": [
+              {
+                "identifier": "35",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 31 (1991)",
+            "start_date": "1991-03-22",
+            "csv": "data/Finland/Eduskunta/term-31.csv"
+          },
+          {
+            "end_date": "1991-03-21",
+            "id": "term/30",
+            "identifiers": [
+              {
+                "identifier": "34",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 30 (1987)",
+            "start_date": "1987-03-21",
+            "csv": "data/Finland/Eduskunta/term-30.csv"
+          },
+          {
+            "end_date": "1987-03-20",
+            "id": "term/29",
+            "identifiers": [
+              {
+                "identifier": "33",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 29 (1983)",
+            "start_date": "1983-03-26",
+            "csv": "data/Finland/Eduskunta/term-29.csv"
+          },
+          {
+            "end_date": "1983-03-25",
+            "id": "term/28",
+            "identifiers": [
+              {
+                "identifier": "32",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 28 (1979)",
+            "start_date": "1979-03-24",
+            "csv": "data/Finland/Eduskunta/term-28.csv"
+          },
+          {
+            "end_date": "1979-03-23",
+            "id": "term/27",
+            "identifiers": [
+              {
+                "identifier": "31",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 27 (1975 II)",
+            "start_date": "1975-09-27",
+            "csv": "data/Finland/Eduskunta/term-27.csv"
+          },
+          {
+            "end_date": "1975-09-26",
+            "id": "term/26",
+            "identifiers": [
+              {
+                "identifier": "30",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 26 (1972)",
+            "start_date": "1972-01-22",
+            "csv": "data/Finland/Eduskunta/term-26.csv"
+          },
+          {
+            "end_date": "1972-01-21",
+            "id": "term/25",
+            "identifiers": [
+              {
+                "identifier": "29",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 25 (1970)",
+            "start_date": "1970-03-23",
+            "csv": "data/Finland/Eduskunta/term-25.csv"
           }
         ]
       }
@@ -924,81 +924,10 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1983-04-11",
-            "id": "term/1979-05-01",
-            "name": "Inatsisartut 1",
-            "start_date": "1979-05-01",
-            "csv": "data/Greenland/Inatsisartut/term-1979-05-01.csv"
-          },
-          {
-            "end_date": "1984-06-05",
-            "id": "term/1983-04-12",
-            "name": "Inatsisartut 2",
-            "start_date": "1983-04-12",
-            "csv": "data/Greenland/Inatsisartut/term-1983-04-12.csv"
-          },
-          {
-            "end_date": "1987-05-25",
-            "id": "term/1984-06-06",
-            "name": "Inatsisartut 3",
-            "start_date": "1984-06-06",
-            "csv": "data/Greenland/Inatsisartut/term-1984-06-06.csv"
-          },
-          {
-            "end_date": "1991-03-04",
-            "id": "term/1987-05-26",
-            "name": "Inatsisartut 4",
-            "start_date": "1987-05-26",
-            "csv": "data/Greenland/Inatsisartut/term-1987-05-26.csv"
-          },
-          {
-            "end_date": "1995-03-03",
-            "id": "term/1991-03-05",
-            "name": "Inatsisartut 5",
-            "start_date": "1991-03-05",
-            "csv": "data/Greenland/Inatsisartut/term-1991-03-05.csv"
-          },
-          {
-            "end_date": "1999-02-15",
-            "id": "term/1995-03-04",
-            "name": "Inatsisartut 6",
-            "start_date": "1995-03-04",
-            "csv": "data/Greenland/Inatsisartut/term-1995-03-04.csv"
-          },
-          {
-            "end_date": "2002-12-02",
-            "id": "term/1999-02-16",
-            "name": "Inatsisartut 7",
-            "start_date": "1999-02-16",
-            "csv": "data/Greenland/Inatsisartut/term-1999-02-16.csv"
-          },
-          {
-            "end_date": "2005-11-14",
-            "id": "term/2002-12-03",
-            "name": "Inatsisartut 8",
-            "start_date": "2002-12-03",
-            "csv": "data/Greenland/Inatsisartut/term-2002-12-03.csv"
-          },
-          {
-            "end_date": "2009-06-01",
-            "id": "term/2005-11-15",
-            "name": "Inatsisartut 9",
-            "start_date": "2005-11-15",
-            "csv": "data/Greenland/Inatsisartut/term-2005-11-15.csv"
-          },
-          {
-            "end_date": "2013-03-11",
-            "id": "term/2009-06-02",
-            "name": "Inatsisartut 10",
-            "start_date": "2009-06-02",
-            "csv": "data/Greenland/Inatsisartut/term-2009-06-02.csv"
-          },
-          {
-            "end_date": "2014-11-27",
-            "id": "term/2013-03-12",
-            "name": "Inatsisartut 11",
-            "start_date": "2013-03-12",
-            "csv": "data/Greenland/Inatsisartut/term-2013-03-12.csv"
+            "id": "term/2014-12-12",
+            "name": "Inatsisartut 13",
+            "start_date": "2014-12-12",
+            "csv": "data/Greenland/Inatsisartut/term-2014-12-12.csv"
           },
           {
             "end_date": "2014-12-11",
@@ -1008,10 +937,81 @@
             "csv": "data/Greenland/Inatsisartut/term-2014-11-28.csv"
           },
           {
-            "id": "term/2014-12-12",
-            "name": "Inatsisartut 13",
-            "start_date": "2014-12-12",
-            "csv": "data/Greenland/Inatsisartut/term-2014-12-12.csv"
+            "end_date": "2014-11-27",
+            "id": "term/2013-03-12",
+            "name": "Inatsisartut 11",
+            "start_date": "2013-03-12",
+            "csv": "data/Greenland/Inatsisartut/term-2013-03-12.csv"
+          },
+          {
+            "end_date": "2013-03-11",
+            "id": "term/2009-06-02",
+            "name": "Inatsisartut 10",
+            "start_date": "2009-06-02",
+            "csv": "data/Greenland/Inatsisartut/term-2009-06-02.csv"
+          },
+          {
+            "end_date": "2009-06-01",
+            "id": "term/2005-11-15",
+            "name": "Inatsisartut 9",
+            "start_date": "2005-11-15",
+            "csv": "data/Greenland/Inatsisartut/term-2005-11-15.csv"
+          },
+          {
+            "end_date": "2005-11-14",
+            "id": "term/2002-12-03",
+            "name": "Inatsisartut 8",
+            "start_date": "2002-12-03",
+            "csv": "data/Greenland/Inatsisartut/term-2002-12-03.csv"
+          },
+          {
+            "end_date": "2002-12-02",
+            "id": "term/1999-02-16",
+            "name": "Inatsisartut 7",
+            "start_date": "1999-02-16",
+            "csv": "data/Greenland/Inatsisartut/term-1999-02-16.csv"
+          },
+          {
+            "end_date": "1999-02-15",
+            "id": "term/1995-03-04",
+            "name": "Inatsisartut 6",
+            "start_date": "1995-03-04",
+            "csv": "data/Greenland/Inatsisartut/term-1995-03-04.csv"
+          },
+          {
+            "end_date": "1995-03-03",
+            "id": "term/1991-03-05",
+            "name": "Inatsisartut 5",
+            "start_date": "1991-03-05",
+            "csv": "data/Greenland/Inatsisartut/term-1991-03-05.csv"
+          },
+          {
+            "end_date": "1991-03-04",
+            "id": "term/1987-05-26",
+            "name": "Inatsisartut 4",
+            "start_date": "1987-05-26",
+            "csv": "data/Greenland/Inatsisartut/term-1987-05-26.csv"
+          },
+          {
+            "end_date": "1987-05-25",
+            "id": "term/1984-06-06",
+            "name": "Inatsisartut 3",
+            "start_date": "1984-06-06",
+            "csv": "data/Greenland/Inatsisartut/term-1984-06-06.csv"
+          },
+          {
+            "end_date": "1984-06-05",
+            "id": "term/1983-04-12",
+            "name": "Inatsisartut 2",
+            "start_date": "1983-04-12",
+            "csv": "data/Greenland/Inatsisartut/term-1983-04-12.csv"
+          },
+          {
+            "end_date": "1983-04-11",
+            "id": "term/1979-05-01",
+            "name": "Inatsisartut 1",
+            "start_date": "1979-05-01",
+            "csv": "data/Greenland/Inatsisartut/term-1979-05-01.csv"
           }
         ]
       }
@@ -1029,32 +1029,10 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1999",
-            "id": "term/1995",
-            "name": "Alþingi 1995",
-            "start_date": "1995",
-            "csv": "data/Iceland/Assembly/term-1995.csv"
-          },
-          {
-            "end_date": "2003",
-            "id": "term/1999",
-            "name": "Alþingi 1999",
-            "start_date": "1999",
-            "csv": "data/Iceland/Assembly/term-1999.csv"
-          },
-          {
-            "end_date": "2007",
-            "id": "term/2003",
-            "name": "Alþingi 2003",
-            "start_date": "2003",
-            "csv": "data/Iceland/Assembly/term-2003.csv"
-          },
-          {
-            "end_date": "2009",
-            "id": "term/2007",
-            "name": "Alþingi 2007",
-            "start_date": "2007",
-            "csv": "data/Iceland/Assembly/term-2007.csv"
+            "id": "term/2013",
+            "name": "Alþingi 2013",
+            "start_date": "2013",
+            "csv": "data/Iceland/Assembly/term-2013.csv"
           },
           {
             "end_date": "2013",
@@ -1064,10 +1042,32 @@
             "csv": "data/Iceland/Assembly/term-2009.csv"
           },
           {
-            "id": "term/2013",
-            "name": "Alþingi 2013",
-            "start_date": "2013",
-            "csv": "data/Iceland/Assembly/term-2013.csv"
+            "end_date": "2009",
+            "id": "term/2007",
+            "name": "Alþingi 2007",
+            "start_date": "2007",
+            "csv": "data/Iceland/Assembly/term-2007.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/2003",
+            "name": "Alþingi 2003",
+            "start_date": "2003",
+            "csv": "data/Iceland/Assembly/term-2003.csv"
+          },
+          {
+            "end_date": "2003",
+            "id": "term/1999",
+            "name": "Alþingi 1999",
+            "start_date": "1999",
+            "csv": "data/Iceland/Assembly/term-1999.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/1995",
+            "name": "Alþingi 1995",
+            "start_date": "1995",
+            "csv": "data/Iceland/Assembly/term-1995.csv"
           }
         ]
       }
@@ -1118,15 +1118,16 @@
   {
     "country": "Jersey",
     "code": "JE",
-    "sources_directory": "data/Jersey/sources",
-    "popolo": "data/Jersey/final.json",
-    "lastmod": "1434666240",
-    "sha": "33271ca",
-    "legislative_periods": [
+    "legislatures": [
       {
-        "id": "term/2011",
-        "name": "2011",
-        "csv": "data/Jersey/term-2011.csv"
+        "name": "Jersey",
+        "sources_directory": "data/Jersey/sources",
+        "popolo": "data/Jersey/final.json",
+        "lastmod": "1434706508",
+        "sha": "d72f6d9",
+        "legislative_periods": [
+
+        ]
       }
     ]
   },
@@ -1163,40 +1164,15 @@
         "sha": "bb56872",
         "legislative_periods": [
           {
-            "end_date": "2004-11-23",
-            "id": "chamber_2001-11-17",
-            "name": "Periudha e parë Legjislative",
+            "id": "chamber_2014-07-17",
+            "name": "Periudha e pestë Legjislative",
             "sources": [
               {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
+                "url": "http://www.kuvendikosoves.org/?cid=1,102"
               }
             ],
-            "start_date": "2001-11-17",
-            "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
-          },
-          {
-            "end_date": "2007-12-12",
-            "id": "chamber_2004-11-23",
-            "name": "Periudha e dytë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
-              }
-            ],
-            "start_date": "2004-11-23",
-            "csv": "data/Kosovo/Assembly/term-chamber_2004-11-23.csv"
-          },
-          {
-            "end_date": "2010-11-03",
-            "id": "chamber_2007-12-13",
-            "name": "Periudha e tretë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
-              }
-            ],
-            "start_date": "2007-12-13",
-            "csv": "data/Kosovo/Assembly/term-chamber_2007-12-13.csv"
+            "start_date": "2014-07-17",
+            "csv": "data/Kosovo/Assembly/term-chamber_2014-07-17.csv"
           },
           {
             "end_date": "2014-05-07",
@@ -1211,15 +1187,40 @@
             "csv": "data/Kosovo/Assembly/term-chamber_2010-12-12.csv"
           },
           {
-            "id": "chamber_2014-07-17",
-            "name": "Periudha e pestë Legjislative",
+            "end_date": "2010-11-03",
+            "id": "chamber_2007-12-13",
+            "name": "Periudha e tretë Legjislative",
             "sources": [
               {
-                "url": "http://www.kuvendikosoves.org/?cid=1,102"
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
               }
             ],
-            "start_date": "2014-07-17",
-            "csv": "data/Kosovo/Assembly/term-chamber_2014-07-17.csv"
+            "start_date": "2007-12-13",
+            "csv": "data/Kosovo/Assembly/term-chamber_2007-12-13.csv"
+          },
+          {
+            "end_date": "2007-12-12",
+            "id": "chamber_2004-11-23",
+            "name": "Periudha e dytë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
+              }
+            ],
+            "start_date": "2004-11-23",
+            "csv": "data/Kosovo/Assembly/term-chamber_2004-11-23.csv"
+          },
+          {
+            "end_date": "2004-11-23",
+            "id": "chamber_2001-11-17",
+            "name": "Periudha e parë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
+              }
+            ],
+            "start_date": "2001-11-17",
+            "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
           }
         ]
       }
@@ -1322,11 +1323,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "2008",
-            "id": "term/2003",
-            "name": "2003-2008",
-            "start_date": "2003",
-            "csv": "data/Monaco/Council/term-2003.csv"
+            "end_date": "2018",
+            "id": "term/2013",
+            "name": "2013",
+            "start_date": "2013-02-21",
+            "csv": "data/Monaco/Council/term-2013.csv"
           },
           {
             "end_date": "2013",
@@ -1336,11 +1337,11 @@
             "csv": "data/Monaco/Council/term-2008.csv"
           },
           {
-            "end_date": "2018",
-            "id": "term/2013",
-            "name": "2013",
-            "start_date": "2013-02-21",
-            "csv": "data/Monaco/Council/term-2013.csv"
+            "end_date": "2008",
+            "id": "term/2003",
+            "name": "2003-2008",
+            "start_date": "2003",
+            "csv": "data/Monaco/Council/term-2003.csv"
           }
         ]
       }
@@ -1358,17 +1359,17 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
+            "id": "term/2012",
+            "name": "State Grand Khural 2012–",
+            "start_date": "2012-06-28",
+            "csv": "data/Mongolia/Assembly/term-2012.csv"
+          },
+          {
             "end_date": "2012-06-28",
             "id": "term/2008",
             "name": "State Grand Khural 2008–2012",
             "start_date": "2008-07-23",
             "csv": "data/Mongolia/Assembly/term-2008.csv"
-          },
-          {
-            "id": "term/2012",
-            "name": "State Grand Khural 2012–",
-            "start_date": "2012-06-28",
-            "csv": "data/Mongolia/Assembly/term-2012.csv"
           }
         ]
       }
@@ -1433,39 +1434,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1990",
-            "id": "term/0",
-            "name": "Constituent Assembly: 1989 - 1990",
-            "start_date": "1989",
-            "csv": "data/Namibia/Assembly/term-0.csv"
-          },
-          {
-            "end_date": "1998",
-            "id": "term/1",
-            "name": "1st National Council: 1993 - 1998",
-            "start_date": "1993",
-            "csv": "data/Namibia/Assembly/term-1.csv"
-          },
-          {
-            "end_date": "2004",
-            "id": "term/2",
-            "name": "2nd National Council: 1998 - 2004",
-            "start_date": "1998",
-            "csv": "data/Namibia/Assembly/term-2.csv"
-          },
-          {
-            "end_date": "2010",
-            "id": "term/3",
-            "name": "3rd National Council: 2004 - 2010",
-            "start_date": "2004",
-            "csv": "data/Namibia/Assembly/term-3.csv"
-          },
-          {
-            "end_date": "2015",
-            "id": "term/4",
-            "name": "4th National Council: 2010 - 2015",
-            "start_date": "2010",
-            "csv": "data/Namibia/Assembly/term-4.csv"
+            "end_date": "2020",
+            "id": "term/6",
+            "name": "6th National Assembly: 2015 - 2020",
+            "start_date": "2015",
+            "csv": "data/Namibia/Assembly/term-6.csv"
           },
           {
             "end_date": "2015",
@@ -1475,11 +1448,39 @@
             "csv": "data/Namibia/Assembly/term-5.csv"
           },
           {
-            "end_date": "2020",
-            "id": "term/6",
-            "name": "6th National Assembly: 2015 - 2020",
-            "start_date": "2015",
-            "csv": "data/Namibia/Assembly/term-6.csv"
+            "end_date": "2015",
+            "id": "term/4",
+            "name": "4th National Council: 2010 - 2015",
+            "start_date": "2010",
+            "csv": "data/Namibia/Assembly/term-4.csv"
+          },
+          {
+            "end_date": "2010",
+            "id": "term/3",
+            "name": "3rd National Council: 2004 - 2010",
+            "start_date": "2004",
+            "csv": "data/Namibia/Assembly/term-3.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/2",
+            "name": "2nd National Council: 1998 - 2004",
+            "start_date": "1998",
+            "csv": "data/Namibia/Assembly/term-2.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/1",
+            "name": "1st National Council: 1993 - 1998",
+            "start_date": "1993",
+            "csv": "data/Namibia/Assembly/term-1.csv"
+          },
+          {
+            "end_date": "1990",
+            "id": "term/0",
+            "name": "Constituent Assembly: 1989 - 1990",
+            "start_date": "1989",
+            "csv": "data/Namibia/Assembly/term-0.csv"
           }
         ]
       }
@@ -1539,18 +1540,10 @@
         "sha": "bb56872",
         "legislative_periods": [
           {
-            "end_date": "2003-04-28",
-            "id": "term/1",
-            "name": "1st Assembly",
-            "start_date": "1998-06-25",
-            "csv": "data/Northern_Ireland/Assembly/term-1.csv"
-          },
-          {
-            "end_date": "2007-01-30",
-            "id": "term/2",
-            "name": "2nd Assembly",
-            "start_date": "2003-11-26",
-            "csv": "data/Northern_Ireland/Assembly/term-2.csv"
+            "id": "term/4",
+            "name": "4th Assembly",
+            "start_date": "2011-05-06",
+            "csv": "data/Northern_Ireland/Assembly/term-4.csv"
           },
           {
             "end_date": "2011-03-24",
@@ -1560,10 +1553,18 @@
             "csv": "data/Northern_Ireland/Assembly/term-3.csv"
           },
           {
-            "id": "term/4",
-            "name": "4th Assembly",
-            "start_date": "2011-05-06",
-            "csv": "data/Northern_Ireland/Assembly/term-4.csv"
+            "end_date": "2007-01-30",
+            "id": "term/2",
+            "name": "2nd Assembly",
+            "start_date": "2003-11-26",
+            "csv": "data/Northern_Ireland/Assembly/term-2.csv"
+          },
+          {
+            "end_date": "2003-04-28",
+            "id": "term/1",
+            "name": "1st Assembly",
+            "start_date": "1998-06-25",
+            "csv": "data/Northern_Ireland/Assembly/term-1.csv"
           }
         ]
       }
@@ -1645,39 +1646,11 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1995",
-            "id": "term/6",
-            "name": "6ª Legislatura",
-            "start_date": "1991",
-            "csv": "data/Portugal/Assembly/term-6.csv"
-          },
-          {
-            "end_date": "1999",
-            "id": "term/7",
-            "name": "7ª Legislatura",
-            "start_date": "1995",
-            "csv": "data/Portugal/Assembly/term-7.csv"
-          },
-          {
-            "end_date": "2002",
-            "id": "term/8",
-            "name": "8ª Legislatura",
-            "start_date": "1999",
-            "csv": "data/Portugal/Assembly/term-8.csv"
-          },
-          {
-            "end_date": "2005",
-            "id": "term/9",
-            "name": "9ª Legislatura",
-            "start_date": "2002",
-            "csv": "data/Portugal/Assembly/term-9.csv"
-          },
-          {
-            "end_date": "2009",
-            "id": "term/10",
-            "name": "10ª Legislatura",
-            "start_date": "2005",
-            "csv": "data/Portugal/Assembly/term-10.csv"
+            "end_date": "2015",
+            "id": "term/12",
+            "name": "12ª Legislatura",
+            "start_date": "2011",
+            "csv": "data/Portugal/Assembly/term-12.csv"
           },
           {
             "end_date": "2011",
@@ -1687,11 +1660,39 @@
             "csv": "data/Portugal/Assembly/term-11.csv"
           },
           {
-            "end_date": "2015",
-            "id": "term/12",
-            "name": "12ª Legislatura",
-            "start_date": "2011",
-            "csv": "data/Portugal/Assembly/term-12.csv"
+            "end_date": "2009",
+            "id": "term/10",
+            "name": "10ª Legislatura",
+            "start_date": "2005",
+            "csv": "data/Portugal/Assembly/term-10.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/9",
+            "name": "9ª Legislatura",
+            "start_date": "2002",
+            "csv": "data/Portugal/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/8",
+            "name": "8ª Legislatura",
+            "start_date": "1999",
+            "csv": "data/Portugal/Assembly/term-8.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/7",
+            "name": "7ª Legislatura",
+            "start_date": "1995",
+            "csv": "data/Portugal/Assembly/term-7.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/6",
+            "name": "6ª Legislatura",
+            "start_date": "1991",
+            "csv": "data/Portugal/Assembly/term-6.csv"
           }
         ]
       }
@@ -1730,18 +1731,10 @@
         "sha": "bb56872",
         "legislative_periods": [
           {
-            "end_date": "2003-03-31",
-            "id": "term/1",
-            "name": "1st Parliament",
-            "start_date": "1999-05-06",
-            "csv": "data/Scotland/Parliament/term-1.csv"
-          },
-          {
-            "end_date": "2007-04-02",
-            "id": "term/2",
-            "name": "2nd Parliament",
-            "start_date": "2003-05-01",
-            "csv": "data/Scotland/Parliament/term-2.csv"
+            "id": "term/4",
+            "name": "4th Parliament",
+            "start_date": "2011-05-06",
+            "csv": "data/Scotland/Parliament/term-4.csv"
           },
           {
             "end_date": "2011-05-04",
@@ -1751,10 +1744,18 @@
             "csv": "data/Scotland/Parliament/term-3.csv"
           },
           {
-            "id": "term/4",
-            "name": "4th Parliament",
-            "start_date": "2011-05-06",
-            "csv": "data/Scotland/Parliament/term-4.csv"
+            "end_date": "2007-04-02",
+            "id": "term/2",
+            "name": "2nd Parliament",
+            "start_date": "2003-05-01",
+            "csv": "data/Scotland/Parliament/term-2.csv"
+          },
+          {
+            "end_date": "2003-03-31",
+            "id": "term/1",
+            "name": "1st Parliament",
+            "start_date": "1999-05-06",
+            "csv": "data/Scotland/Parliament/term-1.csv"
           }
         ]
       }
@@ -1857,11 +1858,10 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "2005-10-29",
-            "id": "term/2",
-            "name": "2nd Assembly",
-            "start_date": "2000-10-29",
-            "csv": "data/Tanzania/Assembly/term-2.csv"
+            "id": "term/4",
+            "name": "4th Assembly",
+            "start_date": "2010-10-31",
+            "csv": "data/Tanzania/Assembly/term-4.csv"
           },
           {
             "end_date": "2010-10-30",
@@ -1871,10 +1871,11 @@
             "csv": "data/Tanzania/Assembly/term-3.csv"
           },
           {
-            "id": "term/4",
-            "name": "4th Assembly",
-            "start_date": "2010-10-31",
-            "csv": "data/Tanzania/Assembly/term-4.csv"
+            "end_date": "2005-10-29",
+            "id": "term/2",
+            "name": "2nd Assembly",
+            "start_date": "2000-10-29",
+            "csv": "data/Tanzania/Assembly/term-2.csv"
           }
         ]
       }
@@ -1914,25 +1915,10 @@
         "sha": "6a160c6",
         "legislative_periods": [
           {
-            "end_date": "1999-04-18",
-            "id": "term/20",
-            "name": "20th Parliament",
-            "start_date": "1996-01-08",
-            "csv": "data/Turkey/Assembly/term-20.csv"
-          },
-          {
-            "end_date": "2002-11-14",
-            "id": "term/21",
-            "name": "21st Parliament",
-            "start_date": "1999-04-18",
-            "csv": "data/Turkey/Assembly/term-21.csv"
-          },
-          {
-            "end_date": "2007-07-23",
-            "id": "term/22",
-            "name": "22nd Parliament",
-            "start_date": "2002-11-14",
-            "csv": "data/Turkey/Assembly/term-22.csv"
+            "id": "term/24",
+            "name": "24th Parliament",
+            "start_date": "2011-06-28",
+            "csv": "data/Turkey/Assembly/term-24.csv"
           },
           {
             "end_date": "2011-06-28",
@@ -1942,10 +1928,25 @@
             "csv": "data/Turkey/Assembly/term-23.csv"
           },
           {
-            "id": "term/24",
-            "name": "24th Parliament",
-            "start_date": "2011-06-28",
-            "csv": "data/Turkey/Assembly/term-24.csv"
+            "end_date": "2007-07-23",
+            "id": "term/22",
+            "name": "22nd Parliament",
+            "start_date": "2002-11-14",
+            "csv": "data/Turkey/Assembly/term-22.csv"
+          },
+          {
+            "end_date": "2002-11-14",
+            "id": "term/21",
+            "name": "21st Parliament",
+            "start_date": "1999-04-18",
+            "csv": "data/Turkey/Assembly/term-21.csv"
+          },
+          {
+            "end_date": "1999-04-18",
+            "id": "term/20",
+            "name": "20th Parliament",
+            "start_date": "1996-01-08",
+            "csv": "data/Turkey/Assembly/term-20.csv"
           }
         ]
       }
@@ -1963,25 +1964,10 @@
         "sha": "bb56872",
         "legislative_periods": [
           {
-            "end_date": "2001-05-14",
-            "id": "term/52",
-            "name": "52nd Parliament of the United Kingdom",
-            "start_date": "1997-05-01",
-            "csv": "data/UK/Commons/term-52.csv"
-          },
-          {
-            "end_date": "2005-04-11",
-            "id": "term/53",
-            "name": "53rd Parliament of the United Kingdom",
-            "start_date": "2001-06-07",
-            "csv": "data/UK/Commons/term-53.csv"
-          },
-          {
-            "end_date": "2010-04-12",
-            "id": "term/54",
-            "name": "54th Parliament of the United Kingdom",
-            "start_date": "2005-05-05",
-            "csv": "data/UK/Commons/term-54.csv"
+            "id": "term/56",
+            "name": "56th Parliament of the United Kingdom",
+            "start_date": "2015-05-08",
+            "csv": "data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -1991,10 +1977,25 @@
             "csv": "data/UK/Commons/term-55.csv"
           },
           {
-            "id": "term/56",
-            "name": "56th Parliament of the United Kingdom",
-            "start_date": "2015-05-08",
-            "csv": "data/UK/Commons/term-56.csv"
+            "end_date": "2010-04-12",
+            "id": "term/54",
+            "name": "54th Parliament of the United Kingdom",
+            "start_date": "2005-05-05",
+            "csv": "data/UK/Commons/term-54.csv"
+          },
+          {
+            "end_date": "2005-04-11",
+            "id": "term/53",
+            "name": "53rd Parliament of the United Kingdom",
+            "start_date": "2001-06-07",
+            "csv": "data/UK/Commons/term-53.csv"
+          },
+          {
+            "end_date": "2001-05-14",
+            "id": "term/52",
+            "name": "52nd Parliament of the United Kingdom",
+            "start_date": "1997-05-01",
+            "csv": "data/UK/Commons/term-52.csv"
           }
         ]
       }
