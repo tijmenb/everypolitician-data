@@ -1120,16 +1120,16 @@
     "code": "JE",
     "legislatures": [
       {
-        "name": "Jersey",
-        "sources_directory": "data/Jersey/sources",
-        "popolo": "data/Jersey/final.json",
-        "lastmod": "1434714916",
-        "sha": "b9e340c",
+        "name": "States",
+        "sources_directory": "data/Jersey/States/sources",
+        "popolo": "data/Jersey/States/final.json",
+        "lastmod": "1434715593",
+        "sha": "2d85555",
         "legislative_periods": [
           {
             "id": "term/2011",
             "name": "2011",
-            "csv": "data/Jersey/term-2011.csv"
+            "csv": "data/Jersey/States/term-2011.csv"
           }
         ]
       }
