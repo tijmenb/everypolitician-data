@@ -27,7 +27,7 @@ end
 
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'final.json' ]
-task :default => 'final.json'
+task :default => :csvs
 
 desc "Remove unwanted data from source"
 task :whittle => [:clobber, 'clean.json']
