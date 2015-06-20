@@ -1231,6 +1231,27 @@
     ]
   },
   {
+    "country": "Lesotho",
+    "code": "LS",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "sources_directory": "data/Lesotho/Assembly/sources",
+        "popolo": "data/Lesotho/Assembly/final.json",
+        "lastmod": "1434812345",
+        "sha": "8f96559",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2015-03-10",
+            "csv": "data/Lesotho/Assembly/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Liberia",
     "code": "LR",
     "legislatures": [
