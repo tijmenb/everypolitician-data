@@ -241,6 +241,10 @@ namespace :term_csvs do
       person = @json[:persons].find       { |r| (r[:id] == m[:person_id])       || (r[:id].end_with? "/#{m[:person_id]}") }
       group  = @json[:organizations].find { |o| (o[:id] == m[:on_behalf_of_id]) || (o[:id].end_with? "/#{m[:on_behalf_of_id]}") }
       house  = @json[:organizations].find { |o| (o[:id] == m[:organization_id]) || (o[:id].end_with? "/#{m[:organization_id]}") }
+      if group.nil?
+        puts "No group for #{m}"
+        next
+      end
       {
         id: person[:id].split('/').last,
         name: person[:name],
