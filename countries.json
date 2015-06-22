@@ -1316,6 +1316,34 @@
     ]
   },
   {
+    "country": "Malaysia",
+    "code": "MY",
+    "legislatures": [
+      {
+        "name": "Dewan Rakyat",
+        "sources_directory": "data/Malaysia/Dewan_Rakyat/sources",
+        "popolo": "data/Malaysia/Dewan_Rakyat/final.json",
+        "lastmod": "1434990013",
+        "sha": "f9376dc",
+        "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "13th Parliament of Malaysia",
+            "start_date": "2013",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-13.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/12",
+            "name": "12th Parliament of Malaysia",
+            "start_date": "2008",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Moldova",
     "code": "MD",
     "legislatures": [
