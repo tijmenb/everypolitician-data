@@ -1421,6 +1421,41 @@
     ]
   },
   {
+    "country": "Micronesia",
+    "code": "FM",
+    "legislatures": [
+      {
+        "name": "Congress",
+        "sources_directory": "data/Micronesia/Congress/sources",
+        "popolo": "data/Micronesia/Congress/final.json",
+        "lastmod": "1435062045",
+        "sha": "ea2d82a",
+        "legislative_periods": [
+          {
+            "id": "term/19",
+            "name": "19th Congress",
+            "start_date": "2015-05-11",
+            "csv": "data/Micronesia/Congress/term-19.csv"
+          },
+          {
+            "end_date": "2015-05-10",
+            "id": "term/18",
+            "name": "18th Congress",
+            "start_date": "2013-05-11",
+            "csv": "data/Micronesia/Congress/term-18.csv"
+          },
+          {
+            "end_date": "2013-05-10",
+            "id": "term/17",
+            "name": "17th Congress",
+            "start_date": "2011-05-11",
+            "csv": "data/Micronesia/Congress/term-17.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Moldova",
     "code": "MD",
     "legislatures": [
