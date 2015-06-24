@@ -1421,6 +1421,27 @@
     ]
   },
   {
+    "country": "Mauritania",
+    "code": "MR",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "sources_directory": "data/Mauritania/National_Assembly/sources",
+        "popolo": "data/Mauritania/National_Assembly/final.json",
+        "lastmod": "1435158260",
+        "sha": "7c3d886",
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12th National Assembly",
+            "start_date": "2013-12-21",
+            "csv": "data/Mauritania/National_Assembly/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Micronesia",
     "code": "FM",
     "legislatures": [
