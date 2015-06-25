@@ -35,7 +35,7 @@ task 'countries.json' do
   data = countries.map do |c, hs|
     meta_file = hs.first + '/../meta.json'
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
-    name = c.tr('_', ' ')
+    name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
     {
       country: name,
