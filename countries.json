@@ -2,9 +2,11 @@
   {
     "country": "Andorra",
     "code": "AD",
+    "slug": "Andorra",
     "legislatures": [
       {
         "name": "General Council",
+        "slug": "General-Council",
         "sources_directory": "data/Andorra/General_Council/sources",
         "popolo": "data/Andorra/General_Council/final.json",
         "lastmod": "1434640918",
@@ -23,9 +25,11 @@
   {
     "country": "Angola",
     "code": "AO",
+    "slug": "Angola",
     "legislatures": [
       {
         "name": "National Assembly",
+        "slug": "National-Assembly",
         "sources_directory": "data/Angola/National_Assembly/sources",
         "popolo": "data/Angola/National_Assembly/final.json",
         "lastmod": "1434640918",
@@ -44,9 +48,11 @@
   {
     "country": "Australia",
     "code": "AU",
+    "slug": "Australia",
     "legislatures": [
       {
         "name": "Representatives",
+        "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/final.json",
         "lastmod": "1435159663",
@@ -62,6 +68,7 @@
       },
       {
         "name": "Senate",
+        "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/final.json",
         "lastmod": "1435223387",
@@ -80,9 +87,11 @@
   {
     "country": "Bangladesh",
     "code": "BD",
+    "slug": "Bangladesh",
     "legislatures": [
       {
         "name": "House",
+        "slug": "House",
         "sources_directory": "data/Bangladesh/House/sources",
         "popolo": "data/Bangladesh/House/final.json",
         "lastmod": "1434640918",
@@ -108,9 +117,11 @@
   {
     "country": "Belarus",
     "code": "BY",
+    "slug": "Belarus",
     "legislatures": [
       {
         "name": "Chamber",
+        "slug": "Chamber",
         "sources_directory": "data/Belarus/Chamber/sources",
         "popolo": "data/Belarus/Chamber/final.json",
         "lastmod": "1434640918",
@@ -129,9 +140,11 @@
   {
     "country": "Benin",
     "code": "BJ",
+    "slug": "Benin",
     "legislatures": [
       {
         "name": "National Assembly",
+        "slug": "National-Assembly",
         "sources_directory": "data/Benin/National_Assembly/sources",
         "popolo": "data/Benin/National_Assembly/final.json",
         "lastmod": "1434640918",
@@ -150,9 +163,11 @@
   {
     "country": "Bermuda",
     "code": "BM",
+    "slug": "Bermuda",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Bermuda/Assembly/sources",
         "popolo": "data/Bermuda/Assembly/final.json",
         "lastmod": "1434640918",
@@ -171,9 +186,11 @@
   {
     "country": "Bhutan",
     "code": "BT",
+    "slug": "Bhutan",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Bhutan/Assembly/sources",
         "popolo": "data/Bhutan/Assembly/final.json",
         "lastmod": "1434640918",
@@ -192,9 +209,11 @@
   {
     "country": "Botswana",
     "code": "BW",
+    "slug": "Botswana",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Botswana/Assembly/sources",
         "popolo": "data/Botswana/Assembly/final.json",
         "lastmod": "1434640918",
@@ -213,9 +232,11 @@
   {
     "country": "Brazil",
     "code": "BR",
+    "slug": "Brazil",
     "legislatures": [
       {
         "name": "Deputies",
+        "slug": "Deputies",
         "sources_directory": "data/Brazil/Deputies/sources",
         "popolo": "data/Brazil/Deputies/final.json",
         "lastmod": "1434640918",
@@ -332,9 +353,11 @@
   {
     "country": "Burundi",
     "code": "BI",
+    "slug": "Burundi",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Burundi/Assembly/sources",
         "popolo": "data/Burundi/Assembly/final.json",
         "lastmod": "1434640918",
@@ -354,9 +377,11 @@
   {
     "country": "Cabo Verde",
     "code": "CV",
+    "slug": "Cabo-Verde",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Cabo_Verde/Assembly/sources",
         "popolo": "data/Cabo_Verde/Assembly/final.json",
         "lastmod": "1434640918",
@@ -375,9 +400,11 @@
   {
     "country": "Canada",
     "code": "CA",
+    "slug": "Canada",
     "legislatures": [
       {
         "name": "Commons",
+        "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/final.json",
         "lastmod": "1434640918",
@@ -396,9 +423,11 @@
   {
     "country": "Chile",
     "code": "CL",
+    "slug": "Chile",
     "legislatures": [
       {
         "name": "Deputies",
+        "slug": "Deputies",
         "sources_directory": "data/Chile/Deputies/sources",
         "popolo": "data/Chile/Deputies/final.json",
         "lastmod": "1434640918",
@@ -460,9 +489,11 @@
   {
     "country": "Congo-Brazzaville",
     "code": "CG",
+    "slug": "Congo-Brazzaville",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Congo-Brazzaville/Assembly/sources",
         "popolo": "data/Congo-Brazzaville/Assembly/final.json",
         "lastmod": "1434642303",
@@ -481,9 +512,11 @@
   {
     "country": "Czech Republic",
     "code": "CZ",
+    "slug": "Czech-Republic",
     "legislatures": [
       {
         "name": "Deputies",
+        "slug": "Deputies",
         "sources_directory": "data/Czech_Republic/Deputies/sources",
         "popolo": "data/Czech_Republic/Deputies/final.json",
         "lastmod": "1434640918",
@@ -656,9 +689,11 @@
   {
     "country": "Denmark",
     "code": "DK",
+    "slug": "Denmark",
     "legislatures": [
       {
         "name": "Folketing",
+        "slug": "Folketing",
         "sources_directory": "data/Denmark/Folketing/sources",
         "popolo": "data/Denmark/Folketing/final.json",
         "lastmod": "1434640918",
@@ -677,9 +712,11 @@
   {
     "country": "Estonia",
     "code": "EE",
+    "slug": "Estonia",
     "legislatures": [
       {
         "name": "Riigikogu",
+        "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/final.json",
         "lastmod": "1434640918",
@@ -697,9 +734,11 @@
   {
     "country": "Finland",
     "code": "FI",
+    "slug": "Finland",
     "legislatures": [
       {
         "name": "Eduskunta",
+        "slug": "Eduskunta",
         "sources_directory": "data/Finland/Eduskunta/sources",
         "popolo": "data/Finland/Eduskunta/final.json",
         "lastmod": "1434640918",
@@ -867,9 +906,11 @@
   {
     "country": "Gabon",
     "code": "GA",
+    "slug": "Gabon",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Gabon/Assembly/sources",
         "popolo": "data/Gabon/Assembly/final.json",
         "lastmod": "1434640918",
@@ -888,9 +929,11 @@
   {
     "country": "Germany",
     "code": "DE",
+    "slug": "Germany",
     "legislatures": [
       {
         "name": "Bundestag",
+        "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/final.json",
         "lastmod": "1434640918",
@@ -909,9 +952,11 @@
   {
     "country": "Ghana",
     "code": "GH",
+    "slug": "Ghana",
     "legislatures": [
       {
         "name": "Parliament",
+        "slug": "Parliament",
         "sources_directory": "data/Ghana/Parliament/sources",
         "popolo": "data/Ghana/Parliament/final.json",
         "lastmod": "1434640918",
@@ -930,9 +975,11 @@
   {
     "country": "Greenland",
     "code": "GL",
+    "slug": "Greenland",
     "legislatures": [
       {
         "name": "Inatsisartut",
+        "slug": "Inatsisartut",
         "sources_directory": "data/Greenland/Inatsisartut/sources",
         "popolo": "data/Greenland/Inatsisartut/final.json",
         "lastmod": "1434640918",
@@ -1035,9 +1082,11 @@
   {
     "country": "Iceland",
     "code": "IS",
+    "slug": "Iceland",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Iceland/Assembly/sources",
         "popolo": "data/Iceland/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1091,9 +1140,11 @@
   {
     "country": "Iran",
     "code": "IR",
+    "slug": "Iran",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Iran/Assembly/sources",
         "popolo": "data/Iran/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1112,9 +1163,11 @@
   {
     "country": "Italy",
     "code": "IT",
+    "slug": "Italy",
     "legislatures": [
       {
         "name": "Parlamento",
+        "slug": "Parlamento",
         "sources_directory": "data/Italy/Parlamento/sources",
         "popolo": "data/Italy/Parlamento/final.json",
         "lastmod": "1434640918",
@@ -1133,9 +1186,11 @@
   {
     "country": "Jersey",
     "code": "JE",
+    "slug": "Jersey",
     "legislatures": [
       {
         "name": "States",
+        "slug": "States",
         "sources_directory": "data/Jersey/States/sources",
         "popolo": "data/Jersey/States/final.json",
         "lastmod": "1434715593",
@@ -1153,9 +1208,11 @@
   {
     "country": "Kazakhstan",
     "code": "KZ",
+    "slug": "Kazakhstan",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Kazakhstan/Assembly/sources",
         "popolo": "data/Kazakhstan/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1174,9 +1231,11 @@
   {
     "country": "Kosovo",
     "code": "XK",
+    "slug": "Kosovo",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Kosovo/Assembly/sources",
         "popolo": "data/Kosovo/Assembly/final.json",
         "lastmod": "1435159073",
@@ -1248,9 +1307,11 @@
   {
     "country": "Lesotho",
     "code": "LS",
+    "slug": "Lesotho",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Lesotho/Assembly/sources",
         "popolo": "data/Lesotho/Assembly/final.json",
         "lastmod": "1434812345",
@@ -1269,9 +1330,11 @@
   {
     "country": "Liberia",
     "code": "LR",
+    "slug": "Liberia",
     "legislatures": [
       {
         "name": "House",
+        "slug": "House",
         "sources_directory": "data/Liberia/House/sources",
         "popolo": "data/Liberia/House/final.json",
         "lastmod": "1434640918",
@@ -1290,9 +1353,11 @@
   {
     "country": "Madagascar",
     "code": "MG",
+    "slug": "Madagascar",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Madagascar/Assembly/sources",
         "popolo": "data/Madagascar/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1312,9 +1377,11 @@
   {
     "country": "Malawi",
     "code": "MW",
+    "slug": "Malawi",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Malawi/Assembly/sources",
         "popolo": "data/Malawi/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1333,9 +1400,11 @@
   {
     "country": "Malaysia",
     "code": "MY",
+    "slug": "Malaysia",
     "legislatures": [
       {
         "name": "Dewan Rakyat",
+        "slug": "Dewan-Rakyat",
         "sources_directory": "data/Malaysia/Dewan_Rakyat/sources",
         "popolo": "data/Malaysia/Dewan_Rakyat/final.json",
         "lastmod": "1435236388",
@@ -1438,9 +1507,11 @@
   {
     "country": "Mauritania",
     "code": "MR",
+    "slug": "Mauritania",
     "legislatures": [
       {
         "name": "National Assembly",
+        "slug": "National-Assembly",
         "sources_directory": "data/Mauritania/National_Assembly/sources",
         "popolo": "data/Mauritania/National_Assembly/final.json",
         "lastmod": "1435158260",
@@ -1459,9 +1530,11 @@
   {
     "country": "Micronesia",
     "code": "FM",
+    "slug": "Micronesia",
     "legislatures": [
       {
         "name": "Congress",
+        "slug": "Congress",
         "sources_directory": "data/Micronesia/Congress/sources",
         "popolo": "data/Micronesia/Congress/final.json",
         "lastmod": "1435062045",
@@ -1494,9 +1567,11 @@
   {
     "country": "Moldova",
     "code": "MD",
+    "slug": "Moldova",
     "legislatures": [
       {
         "name": "Parlamentul",
+        "slug": "Parlamentul",
         "sources_directory": "data/Moldova/Parlamentul/sources",
         "popolo": "data/Moldova/Parlamentul/final.json",
         "lastmod": "1434640918",
@@ -1515,9 +1590,11 @@
   {
     "country": "Monaco",
     "code": "MC",
+    "slug": "Monaco",
     "legislatures": [
       {
         "name": "Council",
+        "slug": "Council",
         "sources_directory": "data/Monaco/Council/sources",
         "popolo": "data/Monaco/Council/final.json",
         "lastmod": "1434640918",
@@ -1551,9 +1628,11 @@
   {
     "country": "Mongolia",
     "code": "MN",
+    "slug": "Mongolia",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Mongolia/Assembly/sources",
         "popolo": "data/Mongolia/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1579,9 +1658,11 @@
   {
     "country": "Montenegro",
     "code": "ME",
+    "slug": "Montenegro",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Montenegro/Assembly/sources",
         "popolo": "data/Montenegro/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1605,9 +1686,11 @@
   {
     "country": "Mozambique",
     "code": "MZ",
+    "slug": "Mozambique",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Mozambique/Assembly/sources",
         "popolo": "data/Mozambique/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1626,9 +1709,11 @@
   {
     "country": "Namibia",
     "code": "NA",
+    "slug": "Namibia",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Namibia/Assembly/sources",
         "popolo": "data/Namibia/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1690,9 +1775,11 @@
   {
     "country": "New Zealand",
     "code": "NZ",
+    "slug": "New-Zealand",
     "legislatures": [
       {
         "name": "House",
+        "slug": "House",
         "sources_directory": "data/New_Zealand/House/sources",
         "popolo": "data/New_Zealand/House/final.json",
         "lastmod": "1434640918",
@@ -1711,9 +1798,11 @@
   {
     "country": "Niger",
     "code": "NE",
+    "slug": "Niger",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Niger/Assembly/sources",
         "popolo": "data/Niger/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1732,9 +1821,11 @@
   {
     "country": "Northern Ireland",
     "code": "GB-NIR",
+    "slug": "Northern-Ireland",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/final.json",
         "lastmod": "1434642303",
@@ -1774,9 +1865,11 @@
   {
     "country": "Pakistan",
     "code": "PK",
+    "slug": "Pakistan",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Pakistan/Assembly/sources",
         "popolo": "data/Pakistan/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1795,9 +1888,11 @@
   {
     "country": "Papua New Guinea",
     "code": "PG",
+    "slug": "Papua-New-Guinea",
     "legislatures": [
       {
         "name": "Parliament",
+        "slug": "Parliament",
         "sources_directory": "data/Papua_New_Guinea/Parliament/sources",
         "popolo": "data/Papua_New_Guinea/Parliament/final.json",
         "lastmod": "1434640918",
@@ -1817,9 +1912,11 @@
   {
     "country": "Paraguay",
     "code": "PY",
+    "slug": "Paraguay",
     "legislatures": [
       {
         "name": "Deputies",
+        "slug": "Deputies",
         "sources_directory": "data/Paraguay/Deputies/sources",
         "popolo": "data/Paraguay/Deputies/final.json",
         "lastmod": "1434640918",
@@ -1838,9 +1935,11 @@
   {
     "country": "Portugal",
     "code": "PT",
+    "slug": "Portugal",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Portugal/Assembly/sources",
         "popolo": "data/Portugal/Assembly/final.json",
         "lastmod": "1434640918",
@@ -1902,9 +2001,11 @@
   {
     "country": "Rwanda",
     "code": "RW",
+    "slug": "Rwanda",
     "legislatures": [
       {
         "name": "Deputies",
+        "slug": "Deputies",
         "sources_directory": "data/Rwanda/Deputies/sources",
         "popolo": "data/Rwanda/Deputies/final.json",
         "lastmod": "1434640918",
@@ -1923,9 +2024,11 @@
   {
     "country": "San Marino",
     "code": "SM",
+    "slug": "San-Marino",
     "legislatures": [
       {
         "name": "Council",
+        "slug": "Council",
         "sources_directory": "data/San_Marino/Council/sources",
         "popolo": "data/San_Marino/Council/final.json",
         "lastmod": "1434728902",
@@ -1944,9 +2047,11 @@
   {
     "country": "Scotland",
     "code": "GB-SCT",
+    "slug": "Scotland",
     "legislatures": [
       {
         "name": "Parliament",
+        "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/final.json",
         "lastmod": "1434642303",
@@ -1986,9 +2091,11 @@
   {
     "country": "Seychelles",
     "code": "SC",
+    "slug": "Seychelles",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Seychelles/Assembly/sources",
         "popolo": "data/Seychelles/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2007,9 +2114,11 @@
   {
     "country": "South Sudan",
     "code": "SS",
+    "slug": "South-Sudan",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/South_Sudan/Assembly/sources",
         "popolo": "data/South_Sudan/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2028,9 +2137,11 @@
   {
     "country": "Spain",
     "code": "ES",
+    "slug": "Spain",
     "legislatures": [
       {
         "name": "Congress",
+        "slug": "Congress",
         "sources_directory": "data/Spain/Congress/sources",
         "popolo": "data/Spain/Congress/final.json",
         "lastmod": "1434640918",
@@ -2049,9 +2160,11 @@
   {
     "country": "Suriname",
     "code": "SR",
+    "slug": "Suriname",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Suriname/Assembly/sources",
         "popolo": "data/Suriname/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2071,9 +2184,11 @@
   {
     "country": "Swaziland",
     "code": "SZ",
+    "slug": "Swaziland",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Swaziland/Assembly/sources",
         "popolo": "data/Swaziland/Assembly/final.json",
         "lastmod": "1434805363",
@@ -2099,9 +2214,11 @@
   {
     "country": "Tanzania",
     "code": "TZ",
+    "slug": "Tanzania",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Tanzania/Assembly/sources",
         "popolo": "data/Tanzania/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2134,9 +2251,11 @@
   {
     "country": "Tonga",
     "code": "TO",
+    "slug": "Tonga",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Tonga/Assembly/sources",
         "popolo": "data/Tonga/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2156,9 +2275,11 @@
   {
     "country": "Turkey",
     "code": "TR",
+    "slug": "Turkey",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Turkey/Assembly/sources",
         "popolo": "data/Turkey/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2205,9 +2326,11 @@
   {
     "country": "UK",
     "code": "GB",
+    "slug": "UK",
     "legislatures": [
       {
         "name": "Commons",
+        "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/final.json",
         "lastmod": "1434642303",
@@ -2254,9 +2377,11 @@
   {
     "country": "Wales",
     "code": "GB-WLS",
+    "slug": "Wales",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/final.json",
         "lastmod": "1434642303",
@@ -2275,9 +2400,11 @@
   {
     "country": "Zambia",
     "code": "ZM",
+    "slug": "Zambia",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Zambia/Assembly/sources",
         "popolo": "data/Zambia/Assembly/final.json",
         "lastmod": "1434640918",
@@ -2296,9 +2423,11 @@
   {
     "country": "Zimbabwe",
     "code": "ZW",
+    "slug": "Zimbabwe",
     "legislatures": [
       {
         "name": "Assembly",
+        "slug": "Assembly",
         "sources_directory": "data/Zimbabwe/Assembly/sources",
         "popolo": "data/Zimbabwe/Assembly/final.json",
         "lastmod": "1434640918",
