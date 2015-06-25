@@ -210,6 +210,23 @@ namespace :transform do
     end
   end
 
+  #---------------------------------------------------------------------
+  # Rule: Areas should be first class, not just embedded
+  #---------------------------------------------------------------------
+
+  task :write => :promote_areas 
+  task :promote_areas => :ensure_legislature do
+    @json[:areas] ||= []
+    @json[:memberships].find_all { |m| m.key? :area }.each do |m|
+      area = m.delete :area
+      area[:type] ||= 'constituency'
+      raise "Area has no ID" unless area.key? :id
+      raise "area_id is empty" if area[:id].empty?
+      m[:area_id] = area[:id]
+      @json[:areas] << area unless @json[:areas].find { |a| a[:id] == area[:id] }
+    end
+  end
+
 end
 
 
@@ -252,7 +269,7 @@ namespace :term_csvs do
         twitter: persons_twitter(person),
         group: group[:name],
         group_id: group[:id].split('/').last,
-        area: m[:area] && m[:area][:name],
+        area: m[:area_id] && @json[:areas].find { |a| a[:id] == m[:area_id] }[:name],
         chamber: house[:name],
         term: m[:legislative_period_id].split('/').last,
         start_date: m[:start_date],

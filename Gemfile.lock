@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: 7047b20f9eec360f7ddb2f74c30a077f20c5ed4c
+  revision: 53fece5e0727b02fc928669f25ab662d2f3b6e0f
   specs:
-    csv_to_popolo (0.9.7)
+    csv_to_popolo (0.9.9)
       json
 
 GEM
@@ -27,7 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (>= 0.9.7)!
+  csv_to_popolo (>= 0.9.9)!
   json
   nokogiri
   pry
