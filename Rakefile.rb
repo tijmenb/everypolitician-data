@@ -36,15 +36,20 @@ task 'countries.json' do
     meta_file = hs.first + '/../meta.json'
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
     name = c.tr('_', ' ')
+    slug = c.tr('_', '-')
     {
       country: name,
       code: meta['iso_code'] || name_to_iso_code(name),
+      slug: slug,
       legislatures: hs.map { |h|
         json_file = h + '/final.json'
         cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
+        lname =  h.split('/').last.tr('_', ' ')
+        lslug =  lname.tr(' ', '-')
         {
-          name: h.split('/').last.tr('_', ' '),
+          name: lname,
+          slug: lslug,
           sources_directory: "#{h}/sources",
           popolo: json_file,
           lastmod: lastmod,
