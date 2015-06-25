@@ -46,17 +46,17 @@
     "code": "AU",
     "legislatures": [
       {
-        "name": "Parliament",
-        "sources_directory": "data/Australia/Parliament/sources",
-        "popolo": "data/Australia/Parliament/final.json",
-        "lastmod": "1434640918",
-        "sha": "6a160c6",
+        "name": "Representatives",
+        "sources_directory": "data/Australia/Representatives/sources",
+        "popolo": "data/Australia/Representatives/final.json",
+        "lastmod": "1435159663",
+        "sha": "bffa38b",
         "legislative_periods": [
           {
             "id": "term/44",
             "name": "44th Parliament",
             "start_date": "2013-09-07",
-            "csv": "data/Australia/Parliament/term-44.csv"
+            "csv": "data/Australia/Representatives/term-44.csv"
           }
         ]
       }
