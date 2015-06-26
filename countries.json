@@ -428,6 +428,78 @@
     ]
   },
   {
+    "country": "Cameroon",
+    "code": "CM",
+    "slug": "Cameroon",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Cameroon/Assembly/sources",
+        "popolo": "data/Cameroon/Assembly/final.json",
+        "lastmod": "1435334287",
+        "sha": "f6235a9",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9e législature",
+            "start_date": "2013",
+            "csv": "data/Cameroon/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/8",
+            "name": "8e législature",
+            "start_date": "2007",
+            "csv": "data/Cameroon/Assembly/term-8.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/7",
+            "name": "7e législature",
+            "start_date": "2002",
+            "csv": "data/Cameroon/Assembly/term-7.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/6",
+            "name": "6e législature",
+            "start_date": "1997",
+            "csv": "data/Cameroon/Assembly/term-6.csv"
+          },
+          {
+            "end_date": "1997",
+            "id": "term/5",
+            "name": "5e législature",
+            "start_date": "1992",
+            "csv": "data/Cameroon/Assembly/term-5.csv"
+          },
+          {
+            "end_date": "1992",
+            "id": "term/4",
+            "name": "4e législature",
+            "start_date": "1988",
+            "csv": "data/Cameroon/Assembly/term-4.csv"
+          },
+          {
+            "end_date": "1988",
+            "id": "term/3",
+            "name": "3e législature",
+            "start_date": "1983",
+            "csv": "data/Cameroon/Assembly/term-3.csv"
+          },
+          {
+            "end_date": "1978",
+            "id": "term/1",
+            "name": "1e législature",
+            "start_date": "1973",
+            "csv": "data/Cameroon/Assembly/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Canada",
     "code": "CA",
     "slug": "Canada",
