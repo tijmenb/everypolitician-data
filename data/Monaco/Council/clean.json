@@ -652,6 +652,11 @@
       "name": "HM Horizon Monaco"
     },
     {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
@@ -737,11 +742,6 @@
       "classification": "party",
       "id": "party/up_union_pour_la_principauté_upm_(union_pour_monaco)",
       "name": "UP Union pour la Principauté UpM (Union pour Monaco)"
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {
@@ -749,9 +749,6 @@
   },
   "memberships": [
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -787,9 +784,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -811,9 +805,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/um_union_monégasque",
       "organization_id": "legislature",
@@ -842,9 +833,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -859,9 +847,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -876,9 +861,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -887,7 +869,7 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/Christophe-SPILIOTIS-SAQUET",
       "role": "member"
@@ -907,9 +889,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -924,9 +903,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -948,9 +924,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -965,9 +938,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/r_renaissance",
       "organization_id": "legislature",
@@ -1017,9 +987,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1034,9 +1001,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1065,9 +1029,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/um_union_monégasque",
       "organization_id": "legislature",
@@ -1089,9 +1050,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/um_union_monégasque",
       "organization_id": "legislature",
@@ -1113,9 +1071,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1130,9 +1085,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1147,9 +1099,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1178,9 +1127,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1196,15 +1142,12 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/Philippe-CLERISSI",
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1220,15 +1163,12 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/Pierre-SVARA",
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1243,9 +1183,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1254,15 +1191,12 @@
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/up_(union_pour_la_principauté),_appartenant_à_la_majorité_upm_(union_pour_monaco)",
       "organization_id": "legislature",
       "person_id": "person/Stephane-VALERI",
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1270,9 +1204,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
@@ -1287,9 +1218,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hm_horizon_monaco",
       "organization_id": "legislature",
