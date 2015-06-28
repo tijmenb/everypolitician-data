@@ -546,6 +546,29 @@
     ]
   },
   {
+    "country": "Chad",
+    "code": "TD",
+    "slug": "Chad",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Chad/Assembly/sources",
+        "popolo": "data/Chad/Assembly/final.json",
+        "lastmod": "1435492349",
+        "sha": "76871d3",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011",
+            "csv": "data/Chad/Assembly/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Chile",
     "code": "CL",
     "slug": "Chile",
