@@ -2260,6 +2260,29 @@
     ]
   },
   {
+    "country": "Sierra Leone",
+    "code": "SL",
+    "slug": "Sierra-Leone",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Sierra_Leone/Parliament/sources",
+        "popolo": "data/Sierra_Leone/Parliament/final.json",
+        "lastmod": "1435601138",
+        "sha": "9c0daab",
+        "legislative_periods": [
+          {
+            "id": "term/2-4",
+            "name": "Fourth Parliament of the Second Republic",
+            "start_date": "2012",
+            "csv": "data/Sierra_Leone/Parliament/term-2-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "South Sudan",
     "code": "SS",
     "slug": "South-Sudan",
