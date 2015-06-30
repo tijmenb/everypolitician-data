@@ -1304,6 +1304,19 @@
     },
     {
       "birth_date": "1967-07-03",
+      "changes": [
+        {
+          "end_date": "2015-06-10",
+          "property": "name",
+          "start_date": "2015-06-10",
+          "value": "imie_nazwisko"
+        },
+        {
+          "end_date": "2015-06-09",
+          "property": "name",
+          "value": "Barbara Bartuś"
+        }
+      ],
       "family_name": "Bartuś",
       "gender": "female",
       "given_name": "Barbara Halina",
@@ -14472,6 +14485,11 @@
       "person_id": "5509a912273a3904f6e71fde"
     },
     {
+      "id": "5579aa77273a392ec8aeba7f",
+      "organization_id": "5509a91d273a3904f6e7229a",
+      "person_id": "5509a912273a3904f6e71fde"
+    },
+    {
       "id": "5509a912273a3904f6e71fe4",
       "organization_id": "5509a8fb273a3904f6e71a64",
       "person_id": "5509a912273a3904f6e71fe2"
@@ -15244,6 +15262,11 @@
     {
       "id": "5509a917273a3904f6e72110",
       "organization_id": "5509a8fb273a3904f6e71a64",
+      "person_id": "5509a917273a3904f6e7210e"
+    },
+    {
+      "id": "5579aa80273a392ec8aeba81",
+      "organization_id": "5509a91d273a3904f6e72298",
       "person_id": "5509a917273a3904f6e7210e"
     },
     {
