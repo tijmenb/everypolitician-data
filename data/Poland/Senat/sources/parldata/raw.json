@@ -58249,6 +58249,1520 @@
         {
             "_links": {
                 "self": {
+                    "href": "events/session_76", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-11T22:20:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76", 
+            "identifier": "419", 
+            "name": "76 posiedzenie", 
+            "organization_id": "chamber_VIII", 
+            "sources": [
+                {
+                    "note": "vote_events", 
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,1,glosowania.html"
+                }
+            ], 
+            "start_date": "2015-06-11T00:00:00", 
+            "type": "session", 
+            "updated_at": "2015-06-11T22:40:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_1", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-11T22:20:03", 
+            "end_date": "2015-06-11T00:00:00", 
+            "id": "session_76_1", 
+            "identifier": "419,1", 
+            "name": "Dzie\u0144 1", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76", 
+            "start_date": "2015-06-11T00:00:00", 
+            "type": "session", 
+            "updated_at": "2015-06-11T22:20:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-11T22:20:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2", 
+            "identifier": "419,2", 
+            "name": "Dzie\u0144 2", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "session", 
+            "updated_at": "2015-06-12T23:30:04"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-0", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-0", 
+            "name": "Wznowienie posiedzenia", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-1", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-1", 
+            "name": "Uzupe\u0142nienie porz\u0105dku obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-10", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-10", 
+            "name": "Punkt 16. porz\u0105dku obrad: ustawa o zmianie ustawy \u2013 Kodeks rodzinny i opieku\u0144czy oraz ustawy \u2013 Kodeks post\u0119powania cywilnego", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-11", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-11", 
+            "name": "Punkt 17. porz\u0105dku obrad: drugie czytanie projektu ustawy o zmianie ustawy o podatkach i op\u0142atach lokalnych", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-12", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-12", 
+            "name": "Punkt 18. porz\u0105dku obrad: drugie czytanie projektu ustawy o zmianie ustawy \u2013 Prawo o ruchu drogowym", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-13", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-13", 
+            "name": "Punkt 19. porz\u0105dku obrad: drugie czytanie projektu ustawy o zmianie ustawy o samorz\u0105dzie powiatowym oraz ustawy \u2013 Kodeks wyborczy", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-14", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-14", 
+            "name": "Punkt 20. porz\u0105dku obrad: ustawa o Trybunale Konstytucyjnym", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-15", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-15", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-16", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-16", 
+            "name": "Punkt 20. porz\u0105dku obrad: ustawa o Trybunale Konstytucyjnym (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-17", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-17", 
+            "name": "Komunikaty", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-18", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-18", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-19", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-19", 
+            "name": "Punkt 3. porz\u0105dku obrad: ustawa o zmianie ustawy o funkcjonowaniu bank\u00f3w sp\u00f3\u0142dzielczych, ich zrzeszaniu si\u0119 i bankach zrzeszaj\u0105cych si\u0119 oraz niekt\u00f3rych innych ustaw (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-2", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-2", 
+            "name": "Punkt 10. porz\u0105dku obrad: ustawa o zmianie ustawy o prawie autorskim i prawach pokrewnych", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-20", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-20", 
+            "name": "Punkt 5. porz\u0105dku obrad: ustawa o zmianie ustawy o \u015bwiadczeniach pieni\u0119\u017cnych z ubezpieczenia spo\u0142ecznego w razie choroby i macierzy\u0144stwa oraz niekt\u00f3rych innych ustaw (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-21", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-21", 
+            "name": "Punkt 6. porz\u0105dku obrad: ustawa o zmianie ustawy o \u015bwiadczeniach rodzinnych (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-22", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-22", 
+            "name": "Punkt 7. porz\u0105dku obrad: ustawa o zmianie ustawy o samorz\u0105dzie gminnym oraz niekt\u00f3rych innych ustaw (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-23", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-23", 
+            "name": "Punkt 8. porz\u0105dku obrad: ustawa o zmianie ustawy \u2013 Kodeks wyborczy (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-24", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-24", 
+            "name": "Punkt 9. porz\u0105dku obrad: ustawa o zmianie ustawy o cmentarzach i chowaniu zmar\u0142ych, ustawy o grobach i cmentarzach wojennych oraz ustawy o Instytucie Pami\u0119ci Narodowej \u2013 Komisji \u015acigania Zbrodni przeciwko Narodowi Polskiemu (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-25", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-25", 
+            "name": "Punkt 10. porz\u0105dku obrad: ustawa o zmianie ustawy o prawie autorskim i prawach pokrewnych (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-26", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-26", 
+            "name": "Punkt 11. porz\u0105dku obrad: ustawa o zmianie ustawy o szczeg\u00f3lnych rozwi\u0105zaniach zwi\u0105zanych z usuwaniem skutk\u00f3w powodzi oraz ustawy o wspieraniu przedsi\u0119biorc\u00f3w dotkni\u0119tych skutkami powodzi z 2010 r. (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-27", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-27", 
+            "name": "Punkt 12. porz\u0105dku obrad: ustawa o zmianie ustawy o gospodarce nieruchomo\u015bciami (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-28", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-28", 
+            "name": "Punkt 13. porz\u0105dku obrad: ustawa o zmianie ustawy o wyrobach budowlanych oraz ustawy \u2013 Prawo budowlane (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-29", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-29", 
+            "name": "Punkt 14. porz\u0105dku obrad: ustawa o zmianie ustawy o kosztach s\u0105dowych w sprawach cywilnych (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-3", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-3", 
+            "name": "Punkt 11. porz\u0105dku obrad: ustawa o zmianie ustawy o szczeg\u00f3lnych rozwi\u0105zaniach zwi\u0105zanych z usuwaniem skutk\u00f3w powodzi oraz ustawy o wspieraniu przedsi\u0119biorc\u00f3w dotkni\u0119tych skutkami powodzi z 2010 r.", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-30", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-30", 
+            "name": "Punkt 15. porz\u0105dku obrad: ustawa o zmianie ustawy o S\u0142u\u017cbie Wi\u0119ziennej (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-31", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-31", 
+            "name": "Punkt 16. porz\u0105dku obrad: ustawa o zmianie ustawy \u2013 Kodeks rodzinny i opieku\u0144czy oraz ustawy \u2013 Kodeks post\u0119powania cywilnego (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-32", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-32", 
+            "name": "Punkt 17. porz\u0105dku obrad: drugie czytanie projektu ustawy o zmianie ustawy o podatkach i op\u0142atach lokalnych (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-33", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-33", 
+            "name": "Punkt 18. porz\u0105dku obrad: drugie czytanie projektu ustawy o zmianie ustawy \u2013 Prawo o ruchu drogowym (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-34", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-34", 
+            "name": "Punkt 19. porz\u0105dku obrad: drugie czytanie projektu ustawy o zmianie ustawy o samorz\u0105dzie powiatowym oraz ustaw \u2013 Kodeks wyborczy (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-35", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-35", 
+            "name": "Punkt 20. porz\u0105dku obrad: ustawa o Trybunale Konstytucyjnym (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-36", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-36", 
+            "name": "Punkt 21. porz\u0105dku obrad: odwo\u0142anie sekretarza Senatu", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-37", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-37", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-38", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-38", 
+            "name": "Punkt 21. porz\u0105dku obrad: odwo\u0142anie sekretarza Senatu (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-39", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-39", 
+            "name": "Punkt 22. porz\u0105dku obrad: wyb\u00f3r sekretarza Senatu", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-4", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-4", 
+            "name": "Punkt 12. porz\u0105dku obrad: ustawa o zmianie ustawy o gospodarce nieruchomo\u015bciami", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-40", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-40", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-41", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-41", 
+            "name": "Punkt 22. porz\u0105dku obrad: wyb\u00f3r sekretarza Senatu (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-42", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-42", 
+            "name": "Zamkni\u0119cie posiedzenia", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-5", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-5", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-6", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-6", 
+            "name": "Punkt 12. porz\u0105dku obrad: ustawa o zmianie ustawy o gospodarce nieruchomo\u015bciami (cd.)", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-7", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-7", 
+            "name": "Punkt 13. porz\u0105dku obrad: ustawa o zmianie ustawy o wyrobach budowlanych oraz ustawy \u2013 Prawo budowlane", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-8", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-8", 
+            "name": "Punkt 14. porz\u0105dku obrad: ustawa o zmianie ustawy o kosztach s\u0105dowych w sprawach cywilnych", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_76_2-9", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-12T23:30:03", 
+            "end_date": "2015-06-12T00:00:00", 
+            "id": "session_76_2-9", 
+            "name": "Punkt 15. porz\u0105dku obrad: ustawa o zmianie ustawy o S\u0142u\u017cbie Wi\u0119ziennej", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_76_2", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,419,2.html"
+                }
+            ], 
+            "start_date": "2015-06-12T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-12T23:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:20:03", 
+            "end_date": "2015-06-25T00:00:00", 
+            "id": "session_77", 
+            "identifier": "420", 
+            "name": "77 posiedzenie", 
+            "organization_id": "chamber_VIII", 
+            "sources": [
+                {
+                    "note": "vote_events", 
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1,glosowania.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "session", 
+            "updated_at": "2015-06-24T22:40:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:20:03", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1", 
+            "identifier": "420,1", 
+            "name": "Dzie\u0144 1", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "session", 
+            "updated_at": "2015-06-24T22:30:03"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-0", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-0", 
+            "name": "Otwarcie posiedzenia", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-1", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-1", 
+            "name": "Projekt porz\u0105dku obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-10", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-10", 
+            "name": "Punkt 10. porz\u0105dku obrad: ustawa o ratyfikacji Umowy ustanawiaj\u0105cej stowarzyszenie mi\u0119dzy Uni\u0105 Europejsk\u0105 i jej pa\u0144stwami cz\u0142onkowskimi, z jednej strony, a Ameryk\u0105 \u015arodkow\u0105, z drugiej strony, sporz\u0105dzonej w Tegucigalpie dnia 29 czerwca 2012 r.", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-11", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-11", 
+            "name": "Punkt 11. porz\u0105dku obrad: ustawa o systemie handlu uprawnieniami do emisji gaz\u00f3w cieplarnianych", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-12", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-12", 
+            "name": "Punkt 12. porz\u0105dku obrad: ustawa o zmianie ustawy o j\u0119zyku polskim oraz ustawy o organizacji i funkcjonowaniu funduszy emerytalnych", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-13", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-13", 
+            "name": "Komunikaty", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-14", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-14", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-15", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-15", 
+            "name": "Punkt 13. porz\u0105dku obrad: informacja o dzia\u0142alno\u015bci S\u0105du Najwy\u017cszego w roku 2014", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-16", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-16", 
+            "name": "Wznowienie obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-17", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-17", 
+            "name": "Punkt 15. porz\u0105dku obrad: informacja o realizacji Programu Polskiej Energetyki J\u0105drowej (PPEJ), w tym o stanie prac nad projektem budowy pierwszej elektrowni j\u0105drowej w Polsce oraz o potencjalnych zagro\u017ceniach dla ludzi i \u015brodowiska naturalnego", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-18", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-18", 
+            "name": "Komunikaty", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-19", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-19", 
+            "name": "Przerwa w posiedzeniu", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-2", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-2", 
+            "name": "Zatwierdzenie porz\u0105dku obrad", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-3", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-3", 
+            "name": "Punkt 2. porz\u0105dku obrad: ustawa o administracji podatkowej", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-4", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-4", 
+            "name": "Punkt 3. porz\u0105dku obrad: ustawa o zmianie ustawy \u2013 Kodeks cywilny, ustawy \u2013 Kodeks post\u0119powania cywilnego oraz niekt\u00f3rych innych ustaw", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-5", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-5", 
+            "name": "Punkt 4. porz\u0105dku obrad: ustawa o finansowaniu wsp\u00f3lnej polityki rolnej", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-6", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-6", 
+            "name": "Punkt 5. porz\u0105dku obrad: ustawa o zmianie ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Si\u0142 Zbrojnych Rzeczypospolitej Polskiej oraz ustawy o finansach publicznych", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-7", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-7", 
+            "name": "Punkt 6. porz\u0105dku obrad: ustawa o zmianie ustawy o obowi\u0105zkach w zakresie informowania o zu\u017cyciu energii przez produkty wykorzystuj\u0105ce energi\u0119 oraz niekt\u00f3rych innych ustaw", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-8", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-8", 
+            "name": "Punkt 8. porz\u0105dku obrad: ustawa o zmianie ustawy o Pa\u0144stwowej Stra\u017cy Po\u017carnej", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_1-9", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "end_date": "2015-06-24T00:00:00", 
+            "id": "session_77_1-9", 
+            "name": "Punkt 9. porz\u0105dku obrad: ustawa o ratyfikacji Konstytucji Mi\u0119dzynarodowej Organizacji do Spraw Migracji, przyj\u0119tej w Genewie w dniu 19 pa\u017adziernika 1953 r.", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77_1", 
+            "sources": [
+                {
+                    "url": "http://senat.gov.pl/prace/senat/posiedzenia/przebieg,420,1.html"
+                }
+            ], 
+            "start_date": "2015-06-24T00:00:00", 
+            "type": "sitting", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "events/session_77_2", 
+                    "title": "Event"
+                }
+            }, 
+            "created_at": "2015-06-24T22:20:03", 
+            "end_date": "2015-06-25T00:00:00", 
+            "id": "session_77_2", 
+            "identifier": "420,2", 
+            "name": "Dzie\u0144 2", 
+            "organization_id": "chamber_VIII", 
+            "parent_id": "session_77", 
+            "start_date": "2015-06-25T00:00:00", 
+            "type": "session", 
+            "updated_at": "2015-06-24T22:20:03"
+        }, 
+        {
+            "_links": {
+                "self": {
                     "href": "events/session_7_1", 
                     "title": "Event"
                 }
@@ -68941,12 +70455,12 @@
                 }
             }, 
             "created_at": "2015-02-27T15:10:13", 
-            "end_date": "2015-06-09", 
+            "end_date": "2015-06-30", 
             "id": "parliamentary_group_70-249", 
             "organization_id": "parliamentary_group_70", 
             "person_id": "249", 
             "start_date": "2015-02-27", 
-            "updated_at": "2015-06-09T11:10:14"
+            "updated_at": "2015-06-30T17:10:15"
         }, 
         {
             "_links": {
@@ -68960,6 +70474,20 @@
             "organization_id": "parliamentary_group_70", 
             "person_id": "43", 
             "updated_at": "2015-02-21T21:57:25"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "memberships/parliamentary_group_70-51", 
+                    "title": "Membership"
+                }
+            }, 
+            "created_at": "2015-06-10T11:10:27", 
+            "id": "parliamentary_group_70-51", 
+            "organization_id": "parliamentary_group_70", 
+            "person_id": "51", 
+            "start_date": "2015-06-10", 
+            "updated_at": "2015-06-10T11:10:27"
         }, 
         {
             "_links": {
@@ -69198,7 +70726,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/"
                 }
             ], 
-            "updated_at": "2015-06-09T12:00:02"
+            "updated_at": "2015-06-30T17:00:02"
         }, 
         {
             "_links": {
@@ -69881,7 +71409,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,10,8,jan-michalski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:02"
+            "updated_at": "2015-06-30T17:10:03"
         }, 
         {
             "_links": {
@@ -69935,7 +71463,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,100,8,jadwiga-rotnicka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:02"
+            "updated_at": "2015-06-30T17:10:03"
         }, 
         {
             "_links": {
@@ -69989,7 +71517,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,101,8,piotr-gruszczynski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:03"
+            "updated_at": "2015-06-30T17:10:04"
         }, 
         {
             "_links": {
@@ -70043,7 +71571,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,102,8,ireneusz-niewiarowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:03"
+            "updated_at": "2015-06-30T17:10:04"
         }, 
         {
             "_links": {
@@ -70097,7 +71625,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,103,8,marian-poslednik.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:04"
+            "updated_at": "2015-06-30T17:10:05"
         }, 
         {
             "_links": {
@@ -70151,7 +71679,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,104,8,andzelika-mozdzanowska.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:04"
+            "updated_at": "2015-06-30T17:10:05"
         }, 
         {
             "_links": {
@@ -70205,7 +71733,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,105,8,witold-sitarz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:05"
+            "updated_at": "2015-06-30T17:10:05"
         }, 
         {
             "_links": {
@@ -70214,7 +71742,7 @@
                     "title": "person"
                 }
             }, 
-            "biography": "Urodzi\u0142 si\u0119 22 listopada 1972 r. w Szczecinie.\r\n\r\n W 1997 r. uko\u0144czy\u0142 germanistyk\u0119 na Wydziale Humanistycznym Uniwersytetu Szczeci\u0144skiego. Odby\u0142 tak\u017ce studia podyplomowe w zakresie integracji europejskiej w Krajowej Szkole Administracji Publicznej w Warszawie. W 1996 r. by\u0142 stypendyst\u0105 DAAD na Uniwersytecie w Greifswaldzie, w 1998 r. \u2013 \u00d6AD na Uniwersytecie Wiede\u0144skim. W latach 2001\u20132002 przebywa\u0142 na stypendium na Uniwersytecie Humboldt\u00f3w w Berlinie po\u0142\u0105czonym z praktyk\u0105 parlamentarn\u0105 w Bundestagu. By\u0142 tak\u017ce stypendyst\u0105 Departamentu Stanu USA w ramach International Visitor Leadership Program (2008).\r\n\r\n W latach 1998\u20132006 pracowa\u0142 jako t\u0142umacz przysi\u0119g\u0142y j\u0119zyka niemieckiego \u2013 bieg\u0142y s\u0105dowy. Od 2004 do 2006 r. by\u0142 lektorem j\u0119zyka niemieckiego w Wy\u017cszej Szkole Administracji Publicznej w Szczecinie. W tym samym czasie pe\u0142ni\u0142 funkcj\u0119 dyrektora biura Stowarzyszenia Gmin Polskich Eureregionu Pomerania. W latach 2009\u20132011 by\u0142 doradc\u0105 naukowym prezydenta Narodowej Akademii Administracji Publicznej w Kijowie, na Ukrainie.\r\n\r\n W latach 2006\u20132011 sprawowa\u0142 mandat radnego Sejmiku Wojew\u00f3dztwa Zachodniopomorskiego, od 2006 do 2008 r. pe\u0142ni\u0142 funkcj\u0119 marsza\u0142ka tego wojew\u00f3dztwa. By\u0142 m.in. przewodnicz\u0105cym Konwentu Marsza\u0142k\u00f3w RP, cia\u0142a opiniodawczo-doradczego przy Zwi\u0105zku Wojew\u00f3dztw RP. Dzia\u0142a\u0142 w europejskich strukturach regionalnych.\r\n\r\n Jest cz\u0142onkiem Rotary Club Szczecin, State Alumni Member (stowarzyszenie by\u0142ych stypendyst\u00f3w rz\u0105du USA), IPS Alumni Polska (stowarzyszenie by\u0142ych stypendyst\u00f3w rz\u0105du Niemiec i Bundestagu) oraz Humboldt Universit\u00e4t Alumni. Prezes Zachodniopomorskiej Federacji Sportu od 2013 r.\r\n\r\n Nale\u017cy do Platformy Obywatelskiej RP.\r\n\r\n Jest \u017conaty, ma dwoje dzieci.\r\n\r\n Okr\u0119g wyborczy nr 97 \u2013 powiat policki oraz miasto na prawach powiatu Szczecin. \r\n \r\n O\u015bwiadczenia maj\u0105tkowe i rejestr korzy\u015bci", 
+            "biography": "Urodzi\u0142 si\u0119 22 listopada 1972 r. w Szczecinie.\r\n\r\n Sekretarz Senatu od 12 czerwca 2015 r.\r\n\r\n W 1997 r. uko\u0144czy\u0142 germanistyk\u0119 na Wydziale Humanistycznym Uniwersytetu Szczeci\u0144skiego. Odby\u0142 tak\u017ce studia podyplomowe w zakresie integracji europejskiej w Krajowej Szkole Administracji Publicznej w Warszawie. W 1996 r. by\u0142 stypendyst\u0105 DAAD na Uniwersytecie w Greifswaldzie, w 1998 r. \u2013 \u00d6AD na Uniwersytecie Wiede\u0144skim. W latach 2001\u20132002 przebywa\u0142 na stypendium na Uniwersytecie Humboldt\u00f3w w Berlinie po\u0142\u0105czonym z praktyk\u0105 parlamentarn\u0105 w Bundestagu. By\u0142 tak\u017ce stypendyst\u0105 Departamentu Stanu USA w ramach International Visitor Leadership Program (2008).\r\n\r\n W latach 1998\u20132006 pracowa\u0142 jako t\u0142umacz przysi\u0119g\u0142y j\u0119zyka niemieckiego \u2013 bieg\u0142y s\u0105dowy. Od 2004 do 2006 r. by\u0142 lektorem j\u0119zyka niemieckiego w Wy\u017cszej Szkole Administracji Publicznej w Szczecinie. W tym samym czasie pe\u0142ni\u0142 funkcj\u0119 dyrektora biura Stowarzyszenia Gmin Polskich Eureregionu Pomerania. W latach 2009\u20132011 by\u0142 doradc\u0105 naukowym prezydenta Narodowej Akademii Administracji Publicznej w Kijowie, na Ukrainie.\r\n\r\n W latach 2006\u20132011 sprawowa\u0142 mandat radnego Sejmiku Wojew\u00f3dztwa Zachodniopomorskiego, od 2006 do 2008 r. pe\u0142ni\u0142 funkcj\u0119 marsza\u0142ka tego wojew\u00f3dztwa. By\u0142 m.in. przewodnicz\u0105cym Konwentu Marsza\u0142k\u00f3w RP, cia\u0142a opiniodawczo-doradczego przy Zwi\u0105zku Wojew\u00f3dztw RP. Dzia\u0142a\u0142 w europejskich strukturach regionalnych.\r\n\r\n Jest cz\u0142onkiem Rotary Club Szczecin, State Alumni Member (stowarzyszenie by\u0142ych stypendyst\u00f3w rz\u0105du USA), IPS Alumni Polska (stowarzyszenie by\u0142ych stypendyst\u00f3w rz\u0105du Niemiec i Bundestagu) oraz Humboldt Universit\u00e4t Alumni. Prezes Zachodniopomorskiej Federacji Sportu od 2013 r.\r\n\r\n Nale\u017cy do Platformy Obywatelskiej RP.\r\n\r\n Jest \u017conaty, ma dwoje dzieci.\r\n\r\n Okr\u0119g wyborczy nr 97 \u2013 powiat policki oraz miasto na prawach powiatu Szczecin. \r\n \r\n O\u015bwiadczenia maj\u0105tkowe i rejestr korzy\u015bci", 
             "birth_date": "1972-11-22", 
             "changes": [
                 {
@@ -70259,7 +71787,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,106,8,norbert-obrycki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:05"
+            "updated_at": "2015-06-30T17:10:06"
         }, 
         {
             "_links": {
@@ -70313,7 +71841,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,107,8,slawomir-preiss.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:06"
+            "updated_at": "2015-06-30T17:10:06"
         }, 
         {
             "_links": {
@@ -70362,7 +71890,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,108,8,grazyna-sztark.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:06"
+            "updated_at": "2015-06-30T17:10:07"
         }, 
         {
             "_links": {
@@ -70416,7 +71944,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,109,8,piotr-zientarski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:06"
+            "updated_at": "2015-06-30T17:10:07"
         }, 
         {
             "_links": {
@@ -70453,7 +71981,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,11,8,jozef-pinior.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:07"
+            "updated_at": "2015-06-30T17:10:08"
         }, 
         {
             "_links": {
@@ -70507,7 +72035,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,12,8,dorota-czudowska.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:07"
+            "updated_at": "2015-06-30T17:10:08"
         }, 
         {
             "_links": {
@@ -70556,7 +72084,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,13,8,wieslaw-kilian.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:08"
+            "updated_at": "2015-06-30T17:10:09"
         }, 
         {
             "_links": {
@@ -70610,7 +72138,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,14,8,stanislaw-jurcewicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:08"
+            "updated_at": "2015-06-30T17:10:09"
         }, 
         {
             "_links": {
@@ -70659,7 +72187,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,15,8,jaroslaw-duda.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:09"
+            "updated_at": "2015-06-30T17:10:10"
         }, 
         {
             "_links": {
@@ -70708,7 +72236,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,16,8,alicja-chybicka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:09"
+            "updated_at": "2015-06-30T17:10:10"
         }, 
         {
             "_links": {
@@ -70762,7 +72290,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,17,8,jaroslaw-obremski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:10"
+            "updated_at": "2015-06-30T17:10:11"
         }, 
         {
             "_links": {
@@ -70816,7 +72344,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,18,8,andrzej-kobiak.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:10"
+            "updated_at": "2015-06-30T17:10:11"
         }, 
         {
             "_links": {
@@ -70870,7 +72398,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,19,8,jan-rulewski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:11"
+            "updated_at": "2015-06-30T17:10:12"
         }, 
         {
             "_links": {
@@ -70924,7 +72452,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,20,8,jan-wyrowinski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:11"
+            "updated_at": "2015-06-30T17:10:12"
         }, 
         {
             "_links": {
@@ -70978,7 +72506,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,21,8,michal-wojtczak.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:12"
+            "updated_at": "2015-06-30T17:10:13"
         }, 
         {
             "_links": {
@@ -71032,7 +72560,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,22,8,andrzej-person.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:12"
+            "updated_at": "2015-06-30T17:10:13"
         }, 
         {
             "_links": {
@@ -71086,7 +72614,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,23,8,stanislaw-gogacz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:13"
+            "updated_at": "2015-06-30T17:10:13"
         }, 
         {
             "_links": {
@@ -71140,7 +72668,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,24,8,grzegorz-czelej.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:13"
+            "updated_at": "2015-06-30T17:10:14"
         }, 
         {
             "_links": {
@@ -71189,7 +72717,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,246,8,zdzislaw-pupa.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:14"
+            "updated_at": "2015-06-30T17:10:14"
         }, 
         {
             "_links": {
@@ -71238,7 +72766,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,249,8,czeslaw-ryszka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:14"
+            "updated_at": "2015-06-30T17:10:15"
         }, 
         {
             "_links": {
@@ -71292,7 +72820,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,25,8,henryk-cioch.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:15"
+            "updated_at": "2015-06-30T17:10:15"
         }, 
         {
             "_links": {
@@ -71346,7 +72874,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,26,8,grzegorz-bierecki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:15"
+            "updated_at": "2015-06-30T17:10:16"
         }, 
         {
             "_links": {
@@ -71400,7 +72928,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,27,8,jozef-zajac.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:16"
+            "updated_at": "2015-06-30T17:10:16"
         }, 
         {
             "_links": {
@@ -71454,7 +72982,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,28,8,jerzy-chroscikowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:16"
+            "updated_at": "2015-06-30T17:10:17"
         }, 
         {
             "_links": {
@@ -71508,7 +73036,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,29,8,stanislaw-iwan.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:17"
+            "updated_at": "2015-06-30T17:10:17"
         }, 
         {
             "_links": {
@@ -71562,7 +73090,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,30,8,helena-hatka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:17"
+            "updated_at": "2015-06-30T17:10:18"
         }, 
         {
             "_links": {
@@ -71616,7 +73144,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,31,8,robert-dowhan.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:18"
+            "updated_at": "2015-06-30T17:10:18"
         }, 
         {
             "_links": {
@@ -71670,7 +73198,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,32,8,maciej-grubski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:18"
+            "updated_at": "2015-06-30T17:10:19"
         }, 
         {
             "_links": {
@@ -71724,7 +73252,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,33,8,ryszard-bonislawski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:19"
+            "updated_at": "2015-06-30T17:10:19"
         }, 
         {
             "_links": {
@@ -71778,7 +73306,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,34,8,przemyslaw-blaszczyk.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:19"
+            "updated_at": "2015-06-30T17:10:19"
         }, 
         {
             "_links": {
@@ -71827,7 +73355,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,35,8,andrzej-owczarek.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:20"
+            "updated_at": "2015-06-30T17:10:20"
         }, 
         {
             "_links": {
@@ -71876,7 +73404,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,36,8,michal-sewerynski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:20"
+            "updated_at": "2015-06-30T17:10:20"
         }, 
         {
             "_links": {
@@ -71930,7 +73458,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,37,8,wieslaw-dobkowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:21"
+            "updated_at": "2015-06-30T17:10:21"
         }, 
         {
             "_links": {
@@ -71979,7 +73507,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,38,8,grzegorz-wojciechowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:21"
+            "updated_at": "2015-06-30T17:10:21"
         }, 
         {
             "_links": {
@@ -72033,7 +73561,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,39,8,andrzej-pajak.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:22"
+            "updated_at": "2015-06-30T17:10:22"
         }, 
         {
             "_links": {
@@ -72087,7 +73615,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,40,8,bogdan-pek.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:22"
+            "updated_at": "2015-06-30T17:10:22"
         }, 
         {
             "_links": {
@@ -72141,7 +73669,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,41,8,janusz-sepiol.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:23"
+            "updated_at": "2015-06-30T17:10:23"
         }, 
         {
             "_links": {
@@ -72195,7 +73723,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,42,8,bogdan-klich.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:23"
+            "updated_at": "2015-06-30T17:10:23"
         }, 
         {
             "_links": {
@@ -72249,7 +73777,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,43,8,maciej-klima.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:24"
+            "updated_at": "2015-06-30T17:10:24"
         }, 
         {
             "_links": {
@@ -72303,7 +73831,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,44,8,kazimierz-wiatr.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:24"
+            "updated_at": "2015-06-30T17:10:24"
         }, 
         {
             "_links": {
@@ -72352,7 +73880,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,45,8,stanislaw-hodorowicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:24"
+            "updated_at": "2015-06-30T17:10:25"
         }, 
         {
             "_links": {
@@ -72406,7 +73934,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,46,8,stanislaw-kogut.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:25"
+            "updated_at": "2015-06-30T17:10:25"
         }, 
         {
             "_links": {
@@ -72455,7 +73983,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,47,8,marek-martynowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:25"
+            "updated_at": "2015-06-30T17:10:26"
         }, 
         {
             "_links": {
@@ -72465,7 +73993,7 @@
                 }
             }, 
             "additional_name": "Maria", 
-            "biography": "Pose\u0142 III kadencji\r\n\r\n Urodzi\u0142 si\u0119 23 stycznia 1958 r. w Olsztynie.\r\n\r\n W 1982 r. uko\u0144czy\u0142 studia na Wydziale Historycznym Uniwersytetu Warszawskiego, a tak\u017ce Studium Fotografii Naukowej i Technicznej na Wydziale Biologii tej uczelni. W 2007 r. uko\u0144czy\u0142 studia podyplomowe z zarz\u0105dzania nieruchomo\u015bciami w Wy\u017cszej Szkole Zarz\u0105dzania i Przedsi\u0119biorczo\u015bci im Leona Ko\u017ami\u0144skiego w Warszawie.\r\n\r\n W latach 1982\u20131984 pracowa\u0142 jako nauczyciel w Liceum Og\u00f3lnokszta\u0142c\u0105cym im. Ruy Barbosy w Warszawie. Jest publicyst\u0105, autorem 10 publikacji ksi\u0105\u017ckowych i ponad 1100 prasowych. Od 1984 do 1990 r. by\u0142 dziennikarzem kwartalnika \u201eFotografia\u201d, a w okresie 1990\u20132010 pracowa\u0142 w Telewizji Polskiej, gdzie stworzy\u0142 lub wsp\u00f3\u0142tworzy\u0142 150 program\u00f3w wyemitowanych w tej stacji. Jest licencjonowanym zarz\u0105dc\u0105 nieruchomo\u015bci.\r\n\r\n W latach 2002\u20132006 sprawowa\u0142 mandat radnego Rady m.st. Warszawy, by\u0142 przewodnicz\u0105cym tej rady.\r\n\r\n Od 1993 do 1995&nbsp;r. zasiada\u0142 w Radzie przy Prezydencie RP ds. Medi\u00f3w i Komunikacji, a w latach 2005\u20132007 pe\u0142ni\u0142 funkcj\u0119 s\u0119dziego Trybuna\u0142u Stanu. Od 2001 r. jest cz\u0142onkiem Rady Powierniczej Zamku Kr\u00f3lewskiego w Warszawie.\r\n\r\n W Sejmie III kadencji przewodniczy\u0142 Komisji Kultury i \u015arodk\u00f3w Przekazu. Pracowa\u0142 tak\u017ce w Komisji Rodziny oraz w Komisji nadzwyczajnej \u2013 Komisji Prawa Europejskiego.\r\n\r\n Bezpartyjny.\r\n\r\n Jest \u017conaty, ma sze\u015bcioro dzieci.\r\n\r\n Okr\u0119g wyborczy nr 39 \u2013 powiaty: ciechanowski, m\u0142awski, p\u0142o\u0144ski, przasnyski i \u017curomi\u0144ski.", 
+            "biography": "Pose\u0142 III kadencji\r\n\r\n Urodzi\u0142 si\u0119 23 stycznia 1958 r. w Olsztynie.\r\n\r\n W 1982 r. uko\u0144czy\u0142 studia na Wydziale Historycznym Uniwersytetu Warszawskiego, a tak\u017ce Studium Fotografii Naukowej i Technicznej na Wydziale Biologii tej uczelni. W 2007 r. uko\u0144czy\u0142 studia podyplomowe z zarz\u0105dzania nieruchomo\u015bciami w Wy\u017cszej Szkole Zarz\u0105dzania i Przedsi\u0119biorczo\u015bci im Leona Ko\u017ami\u0144skiego w Warszawie.\r\n\r\n W latach 1982\u20131984 pracowa\u0142 jako nauczyciel w Liceum Og\u00f3lnokszta\u0142c\u0105cym im. Ruy Barbosy w Warszawie. Jest publicyst\u0105, autorem 10 publikacji ksi\u0105\u017ckowych i ponad 1100 prasowych. Od 1984 do 1990 r. by\u0142 dziennikarzem kwartalnika \u201eFotografia\u201d, a w okresie 1990\u20132010 pracowa\u0142 w Telewizji Polskiej, gdzie stworzy\u0142 lub wsp\u00f3\u0142tworzy\u0142 150 program\u00f3w wyemitowanych w tej stacji. Jest licencjonowanym zarz\u0105dc\u0105 nieruchomo\u015bci.\r\n\r\n W latach 2002\u20132006 sprawowa\u0142 mandat radnego Rady m.st. Warszawy, by\u0142 przewodnicz\u0105cym tej rady.\r\n\r\n Od 1993 do 1995&nbsp;r. zasiada\u0142 w Radzie przy Prezydencie RP ds. Medi\u00f3w i Komunikacji, a w latach 2005\u20132007 pe\u0142ni\u0142 funkcj\u0119 s\u0119dziego Trybuna\u0142u Stanu. Od 2001 r. jest cz\u0142onkiem Rady Powierniczej Zamku Kr\u00f3lewskiego w Warszawie.\r\n\r\n W Sejmie III kadencji przewodniczy\u0142 Komisji Kultury i \u015arodk\u00f3w Przekazu. Pracowa\u0142 tak\u017ce w Komisji Rodziny oraz w Komisji nadzwyczajnej \u2013 Komisji Prawa Europejskiego.\r\n\r\n Bezpartyjny.\r\n\r\n Jest \u017conaty, ma sze\u015bcioro dzieci.\r\n\r\n Okr\u0119g wyborczy nr 39 \u2013 powiaty: ciechanowski, m\u0142awski, p\u0142o\u0144ski, przasnyski i \u017curomi\u0144ski. \r\n \r\n O\u015bwiadczenia maj\u0105tkowe i rejestr korzy\u015bci", 
             "birth_date": "1958-01-23", 
             "changes": [
                 {
@@ -72510,7 +74038,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,48,8,jan-maria-jackowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:26"
+            "updated_at": "2015-06-30T17:10:26"
         }, 
         {
             "_links": {
@@ -72559,7 +74087,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,49,8,anna-aksamit.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:27"
+            "updated_at": "2015-06-30T17:10:27"
         }, 
         {
             "_links": {
@@ -72613,7 +74141,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,50,8,lukasz-abgarowicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:27"
+            "updated_at": "2015-06-30T17:10:27"
         }, 
         {
             "_links": {
@@ -72667,7 +74195,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,51,8,marek-borowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:27"
+            "updated_at": "2015-06-30T17:10:28"
         }, 
         {
             "_links": {
@@ -72721,7 +74249,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,52,8,marek-rocki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:28"
+            "updated_at": "2015-06-30T17:10:28"
         }, 
         {
             "_links": {
@@ -72775,7 +74303,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,53,8,barbara-borys-damiecka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:28"
+            "updated_at": "2015-06-30T17:10:29"
         }, 
         {
             "_links": {
@@ -72829,7 +74357,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,54,8,aleksander-pociej.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:29"
+            "updated_at": "2015-06-30T17:10:29"
         }, 
         {
             "_links": {
@@ -76035,7 +77563,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,55,8,robert-mamatow.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:29"
+            "updated_at": "2015-06-30T17:10:29"
         }, 
         {
             "_links": {
@@ -76294,6 +77822,36 @@
         {
             "_links": {
                 "self": {
+                    "href": "people/558b2f6a273a391a8919814f", 
+                    "title": "person"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "family_name": "Mr\u00f3z", 
+            "given_name": "Grzegorz", 
+            "id": "558b2f6a273a391a8919814f", 
+            "name": "Grzegorz Mr\u00f3z", 
+            "summary": "Zast\u0119pca Dyrektora Departamentu Administracji Podatkowej w Ministerstwie Finans\u00f3w", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "people/558b2f6a273a391a89198151", 
+                    "title": "person"
+                }
+            }, 
+            "created_at": "2015-06-24T22:30:02", 
+            "family_name": "Soczewica", 
+            "given_name": "Leszek", 
+            "id": "558b2f6a273a391a89198151", 
+            "name": "Leszek Soczewica", 
+            "summary": "Podsekretarz Stanu w Ministerstwie Spraw Zagranicznych", 
+            "updated_at": "2015-06-24T22:30:02"
+        }, 
+        {
+            "_links": {
+                "self": {
                     "href": "people/56", 
                     "title": "person"
                 }
@@ -76343,7 +77901,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,56,8,henryk-gorski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:30"
+            "updated_at": "2015-06-30T17:10:30"
         }, 
         {
             "_links": {
@@ -76397,7 +77955,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,57,8,waldemar-kraska.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:30"
+            "updated_at": "2015-06-30T17:10:30"
         }, 
         {
             "_links": {
@@ -76451,7 +78009,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,58,8,stanislaw-karczewski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:31"
+            "updated_at": "2015-06-30T17:10:31"
         }, 
         {
             "_links": {
@@ -76505,7 +78063,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,59,8,wojciech-skurkiewicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:31"
+            "updated_at": "2015-06-30T17:10:31"
         }, 
         {
             "_links": {
@@ -76559,7 +78117,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,60,8,ryszard-knosala.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:32"
+            "updated_at": "2015-06-30T17:10:32"
         }, 
         {
             "_links": {
@@ -76608,7 +78166,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,61,8,piotr-wach.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:32"
+            "updated_at": "2015-06-30T17:10:32"
         }, 
         {
             "_links": {
@@ -76662,7 +78220,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,62,8,aleksander-swieykowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:32"
+            "updated_at": "2015-06-30T17:10:33"
         }, 
         {
             "_links": {
@@ -76699,7 +78257,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,63,8,janina-sagatowska.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:33"
+            "updated_at": "2015-06-30T17:10:33"
         }, 
         {
             "_links": {
@@ -76748,7 +78306,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,64,8,wladyslaw-ortyl.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:33"
+            "updated_at": "2015-06-30T17:10:34"
         }, 
         {
             "_links": {
@@ -76757,7 +78315,7 @@
                     "title": "person"
                 }
             }, 
-            "biography": "Senator V i VII&nbsp;kadencji\r\n\r\n Urodzi\u0142 si\u0119 5 marca 1956 r. w&nbsp;Chmielniku.\r\n\r\n W 1983 r. uko\u0144czy\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce w&nbsp;Rzeszowie.\r\n\r\n Prowadzi gospodarstwo o&nbsp;profilu sadowniczym.\r\n\r\n W latach 1990\u20132004 by\u0142 w\u00f3jtem Gminy Chmielnik, a&nbsp;w&nbsp;latach 2006\u20132007 \u2013 wiceprzewodnicz\u0105cym Sejmiku Wojew\u00f3dztwa Podkarpackiego.\r\n\r\n W latach 2005\u20132006 pe\u0142ni\u0142 funkcj\u0119 doradcy ds. spo\u0142ecznych wsi ministra rolnictwa, a&nbsp;w&nbsp;latach 2006\u20132007 \u2013 doradcy prezesa Rady Ministr\u00f3w.\r\n\r\n Jest dzia\u0142aczem Akcji Katolickiej Archidiecezji Przemyskiej i&nbsp;Rzeszowskiej. Nale\u017cy do Regionalnego Towarzystwa Rolno-Przemys\u0142owego \u201eDolina Strugu\u201d w&nbsp;B\u0142a\u017cowej. Jest prezesem Stowarzyszenia \u201eTrze\u017awa Polska\u201d, cz\u0142onkiem Towarzystwa Przeciwdzia\u0142ania Uzale\u017cnieniom \u201eTrze\u017awa Gmina\u201d w&nbsp;Chmielniku.\r\n\r\n Nale\u017cy do NSZZ \u201eSolidarno\u015b\u0107\u201d.\r\n\r\n W Senacie V&nbsp;kadencji by\u0142 cz\u0142onkiem Komisji Emigracji i&nbsp;Polak\u00f3w za&nbsp;Granic\u0105 oraz Komisji Rolnictwa i&nbsp;Rozwoju Wsi. W VII kadencji pe\u0142ni\u0142 funkcj\u0119 zast\u0119pcy przewodnicz\u0105cego Komisji Rodziny i&nbsp;Polityki Spo\u0142ecznej, pracowa\u0142 te\u017c wKomisji Rolnictwa i&nbsp;Rozwoju Wsi.\r\n\r\n Nale\u017cy do Polski Razem.\r\n\r\n Jest \u017conaty, ma czworo dzieci.\r\n\r\n Okr\u0119g wyborczy nr 56 \u2013 powiaty \u0142a\u0144cucki i rzeszowski oraz miasto na prawach powiatu Rzesz\u00f3w.\r\n\r\n &nbsp;", 
+            "biography": "Cz\u0142onek Klubu Pralamentarnego Zjednoczona Prawica\r\n\r\n Senator V i VII&nbsp;kadencji\r\n\r\n Urodzi\u0142 si\u0119 5 marca 1956 r. w&nbsp;Chmielniku.\r\n\r\n W 1983 r. uko\u0144czy\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce w&nbsp;Rzeszowie.\r\n\r\n Prowadzi gospodarstwo o&nbsp;profilu sadowniczym.\r\n\r\n W latach 1990\u20132004 by\u0142 w\u00f3jtem Gminy Chmielnik, a&nbsp;w&nbsp;latach 2006\u20132007 \u2013 wiceprzewodnicz\u0105cym Sejmiku Wojew\u00f3dztwa Podkarpackiego.\r\n\r\n W latach 2005\u20132006 pe\u0142ni\u0142 funkcj\u0119 doradcy ds. spo\u0142ecznych wsi ministra rolnictwa, a&nbsp;w&nbsp;latach 2006\u20132007 \u2013 doradcy prezesa Rady Ministr\u00f3w.\r\n\r\n Jest dzia\u0142aczem Akcji Katolickiej Archidiecezji Przemyskiej i&nbsp;Rzeszowskiej. Nale\u017cy do Regionalnego Towarzystwa Rolno-Przemys\u0142owego \u201eDolina Strugu\u201d w&nbsp;B\u0142a\u017cowej. Jest prezesem Stowarzyszenia \u201eTrze\u017awa Polska\u201d, cz\u0142onkiem Towarzystwa Przeciwdzia\u0142ania Uzale\u017cnieniom \u201eTrze\u017awa Gmina\u201d w&nbsp;Chmielniku.\r\n\r\n Nale\u017cy do NSZZ \u201eSolidarno\u015b\u0107\u201d.\r\n\r\n W Senacie V&nbsp;kadencji by\u0142 cz\u0142onkiem Komisji Emigracji i&nbsp;Polak\u00f3w za&nbsp;Granic\u0105 oraz Komisji Rolnictwa i&nbsp;Rozwoju Wsi. W VII kadencji pe\u0142ni\u0142 funkcj\u0119 zast\u0119pcy przewodnicz\u0105cego Komisji Rodziny i&nbsp;Polityki Spo\u0142ecznej, pracowa\u0142 te\u017c wKomisji Rolnictwa i&nbsp;Rozwoju Wsi.\r\n\r\n Nale\u017cy do Polski Razem.\r\n\r\n Jest \u017conaty, ma czworo dzieci.\r\n\r\n Okr\u0119g wyborczy nr 56 \u2013 powiaty \u0142a\u0144cucki i rzeszowski oraz miasto na prawach powiatu Rzesz\u00f3w.\r\n\r\n &nbsp;", 
             "birth_date": "1956-03-05", 
             "changes": [
                 {
@@ -76802,7 +78360,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,65,8,kazimierz-jaworski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:34"
+            "updated_at": "2015-06-30T17:10:34"
         }, 
         {
             "_links": {
@@ -76856,7 +78414,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,66,8,alicja-zajac.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:34"
+            "updated_at": "2015-06-30T17:10:34"
         }, 
         {
             "_links": {
@@ -76910,7 +78468,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,67,8,andrzej-matusiewicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:35"
+            "updated_at": "2015-06-30T17:10:35"
         }, 
         {
             "_links": {
@@ -76964,7 +78522,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,68,8,bohdan-paszkowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:35"
+            "updated_at": "2015-06-30T17:10:35"
         }, 
         {
             "_links": {
@@ -77013,7 +78571,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,69,8,tadeusz-arlukowicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:36"
+            "updated_at": "2015-06-30T17:10:36"
         }, 
         {
             "_links": {
@@ -77067,7 +78625,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,70,8,wlodzimierz-cimoszewicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:36"
+            "updated_at": "2015-06-30T17:10:36"
         }, 
         {
             "_links": {
@@ -77121,7 +78679,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,71,8,kazimierz-kleina.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:37"
+            "updated_at": "2015-06-30T17:10:37"
         }, 
         {
             "_links": {
@@ -77170,7 +78728,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,72,8,roman-zaborowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:37"
+            "updated_at": "2015-06-30T17:10:37"
         }, 
         {
             "_links": {
@@ -77224,7 +78782,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,73,8,edmund-wittbrodt.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:38"
+            "updated_at": "2015-06-30T17:10:38"
         }, 
         {
             "_links": {
@@ -77278,7 +78836,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,74,8,bogdan-borusewicz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:38"
+            "updated_at": "2015-06-30T17:10:38"
         }, 
         {
             "_links": {
@@ -77332,7 +78890,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,75,8,andrzej-grzyb.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:38"
+            "updated_at": "2015-06-30T17:10:38"
         }, 
         {
             "_links": {
@@ -77386,7 +78944,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,76,8,leszek-czarnobaj.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:39"
+            "updated_at": "2015-06-30T17:10:39"
         }, 
         {
             "_links": {
@@ -77435,7 +78993,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,77,8,jaroslaw-lasecki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:39"
+            "updated_at": "2015-06-30T17:10:39"
         }, 
         {
             "_links": {
@@ -77489,7 +79047,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,78,8,andrzej-szewinski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:40"
+            "updated_at": "2015-06-30T17:10:40"
         }, 
         {
             "_links": {
@@ -77543,7 +79101,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,79,8,maria-panczyk-pozdziej.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:40"
+            "updated_at": "2015-06-30T17:10:40"
         }, 
         {
             "_links": {
@@ -77597,7 +79155,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,80,8,andrzej-misiolek.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:41"
+            "updated_at": "2015-06-30T17:10:41"
         }, 
         {
             "_links": {
@@ -77651,7 +79209,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,81,8,adam-zdzieblo.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:41"
+            "updated_at": "2015-06-30T17:10:41"
         }, 
         {
             "_links": {
@@ -77705,7 +79263,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,82,8,antoni-motyczka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:42"
+            "updated_at": "2015-06-30T17:10:42"
         }, 
         {
             "_links": {
@@ -77759,7 +79317,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,83,8,leszek-piechota.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:42"
+            "updated_at": "2015-06-30T17:10:42"
         }, 
         {
             "_links": {
@@ -77808,7 +79366,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,84,8,elzbieta-bienkowska.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:43"
+            "updated_at": "2015-06-30T17:10:42"
         }, 
         {
             "_links": {
@@ -77862,7 +79420,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,841,8,boleslaw-piecha.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:43"
+            "updated_at": "2015-06-30T17:10:43"
         }, 
         {
             "_links": {
@@ -77899,7 +79457,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,845,8,maria-koc.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:44"
+            "updated_at": "2015-06-30T17:10:43"
         }, 
         {
             "_links": {
@@ -77936,7 +79494,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,846,8,izabela-kloc.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:44"
+            "updated_at": "2015-06-30T17:10:44"
         }, 
         {
             "_links": {
@@ -77990,7 +79548,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,847,8,jaroslaw-rusiecki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:44"
+            "updated_at": "2015-06-30T17:10:44"
         }, 
         {
             "_links": {
@@ -78044,7 +79602,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,85,8,zbigniew-meres.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:45"
+            "updated_at": "2015-06-30T17:10:45"
         }, 
         {
             "_links": {
@@ -78093,7 +79651,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,86,8,boguslaw-smigielski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:45"
+            "updated_at": "2015-06-30T17:10:45"
         }, 
         {
             "_links": {
@@ -78142,7 +79700,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,87,8,rafal-muchacki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:46"
+            "updated_at": "2015-06-30T17:10:45"
         }, 
         {
             "_links": {
@@ -78151,7 +79709,7 @@
                     "title": "person"
                 }
             }, 
-            "biography": "Pose\u0142 V i VI kadencji\r\n\r\n Sekretarz Senatu\r\n\r\n Urodzi\u0142 si\u0119 24 sierpnia 1960 r. w Pier\u015bcu.\r\n\r\n W 1986 r. uko\u0144czy\u0142 studia na Wydziale G\u00f3rniczym Akademii G\u00f3rniczo-Hutniczej w Krakowie, a w 1998 r. \u2013 studia podyplomowe z zarz\u0105dzania finansami komunalnymi w Wy\u017cszej Szkole Bankowo\u015bci i Finans\u00f3w w Katowicach.\r\n\r\n W latach 1986\u20131993 pracowa\u0142 w Przedsi\u0119biorstwie Rob\u00f3t G\u00f3rniczych w Jastrz\u0119biu Zdroju jako zast\u0119pca kierownika Oddzia\u0142u Rob\u00f3t. W okresie 1993\u20131998 by\u0142 prezesem G\u00f3rniczej Sp\u00f3\u0142dzielni Mieszkaniowej w Cieszynie.\r\n\r\n W latach 1998\u20132005 sprawowa\u0142 mandat radnego Rady Powiatu Cieszy\u0144skiego, od 1999 do 2005 r. pe\u0142ni\u0142 funkcj\u0119 wicestarosty tego powiatu.\r\n\r\n Jest wolontariuszem wielu organizacji, m.in. Hospicjum \u201eOtwarte Drzwi\u201d w Cieszynie i \u201eHabitat for Humanity\u201d w Gliwicach.\r\n\r\n W Sejmie V kadencji pe\u0142ni\u0142 funkcj\u0119 zast\u0119pcy przewodnicz\u0105cego Podkomisji sta\u0142ej ds. rzemios\u0142a i us\u0142ug, by\u0142 cz\u0142onkiem Komisji: Samorz\u0105du Terytorialnego i Polityki Regionalnej; Rozwoju Przedsi\u0119biorczo\u015bci; Ustawodawczej; Polityki Spo\u0142ecznej. Zasiada\u0142 te\u017c w Podkomisji sta\u0142ej ds. finans\u00f3w samorz\u0105dowych. W VI kadencji pracowa\u0142 w Komisji: Infrastruktury; Polityki Spo\u0142ecznej i Rodziny; Odpowiedzialno\u015bci Konstytucyjnej; Gospodarki oraz w Podkomisji sta\u0142ej ds. budownictwa oraz gospodarki przestrzennej i mieszkaniowej.\r\n\r\n Nale\u017cy do Platformy Obywatelskiej RP, zasiada w Zarz\u0105dzie Powiatu tej partii.\r\n\r\n Jest \u017conaty, ma troje dzieci.\r\n\r\n Okr\u0119g wyborczy nr 79 \u2013 powiaty cieszy\u0144ski i \u017cywiecki.\r\n\r\n &nbsp; \r\n \r\n O\u015bwiadczenia maj\u0105tkowe i rejestr korzy\u015bci", 
+            "biography": "Obecnie senator niezrzeszony\r\n\r\n Pose\u0142 V i VI kadencji\r\n\r\n Sekretarz Senatu do 12 czerwca 2015 r.\r\n\r\n Urodzi\u0142 si\u0119 24 sierpnia 1960 r. w Pier\u015bcu.\r\n\r\n W 1986 r. uko\u0144czy\u0142 studia na Wydziale G\u00f3rniczym Akademii G\u00f3rniczo-Hutniczej w Krakowie, a w 1998 r. \u2013 studia podyplomowe z zarz\u0105dzania finansami komunalnymi w Wy\u017cszej Szkole Bankowo\u015bci i Finans\u00f3w w Katowicach.\r\n\r\n W latach 1986\u20131993 pracowa\u0142 w Przedsi\u0119biorstwie Rob\u00f3t G\u00f3rniczych w Jastrz\u0119biu Zdroju jako zast\u0119pca kierownika Oddzia\u0142u Rob\u00f3t. W okresie 1993\u20131998 by\u0142 prezesem G\u00f3rniczej Sp\u00f3\u0142dzielni Mieszkaniowej w Cieszynie.\r\n\r\n W latach 1998\u20132005 sprawowa\u0142 mandat radnego Rady Powiatu Cieszy\u0144skiego, od 1999 do 2005 r. pe\u0142ni\u0142 funkcj\u0119 wicestarosty tego powiatu.\r\n\r\n Jest wolontariuszem wielu organizacji, m.in. Hospicjum \u201eOtwarte Drzwi\u201d w Cieszynie i \u201eHabitat for Humanity\u201d w Gliwicach.\r\n\r\n W Sejmie V kadencji pe\u0142ni\u0142 funkcj\u0119 zast\u0119pcy przewodnicz\u0105cego Podkomisji sta\u0142ej ds. rzemios\u0142a i us\u0142ug, by\u0142 cz\u0142onkiem Komisji: Samorz\u0105du Terytorialnego i Polityki Regionalnej; Rozwoju Przedsi\u0119biorczo\u015bci; Ustawodawczej; Polityki Spo\u0142ecznej. Zasiada\u0142 te\u017c w Podkomisji sta\u0142ej ds. finans\u00f3w samorz\u0105dowych. W VI kadencji pracowa\u0142 w Komisji: Infrastruktury; Polityki Spo\u0142ecznej i Rodziny; Odpowiedzialno\u015bci Konstytucyjnej; Gospodarki oraz w Podkomisji sta\u0142ej ds. budownictwa oraz gospodarki przestrzennej i mieszkaniowej.\r\n\r\n Nale\u017cy do Platformy Obywatelskiej RP, zasiada w Zarz\u0105dzie Powiatu tej partii.\r\n\r\n Jest \u017conaty, ma troje dzieci.\r\n\r\n Okr\u0119g wyborczy nr 79 \u2013 powiaty cieszy\u0144ski i \u017cywiecki.\r\n\r\n &nbsp; \r\n \r\n O\u015bwiadczenia maj\u0105tkowe i rejestr korzy\u015bci", 
             "birth_date": "1960-08-24", 
             "changes": [
                 {
@@ -78191,7 +79749,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,88,8,tadeusz-kopec.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:46"
+            "updated_at": "2015-06-30T17:10:46"
         }, 
         {
             "_links": {
@@ -78245,7 +79803,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,89,8,kazimierz-kutz.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:47"
+            "updated_at": "2015-06-30T17:10:46"
         }, 
         {
             "_links": {
@@ -78294,7 +79852,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,90,8,mieczyslaw-gil.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:47"
+            "updated_at": "2015-06-30T17:10:47"
         }, 
         {
             "_links": {
@@ -78348,7 +79906,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,91,8,beata-gosiewska.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:48"
+            "updated_at": "2015-06-30T17:10:47"
         }, 
         {
             "_links": {
@@ -78402,7 +79960,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,92,8,krzysztof-slon.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:48"
+            "updated_at": "2015-06-30T17:10:48"
         }, 
         {
             "_links": {
@@ -78456,7 +80014,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,93,8,witold-gintowt-dziewaltowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:48"
+            "updated_at": "2015-06-30T17:10:48"
         }, 
         {
             "_links": {
@@ -78510,7 +80068,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,94,8,stanislaw-gorczyca.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:49"
+            "updated_at": "2015-06-30T17:10:49"
         }, 
         {
             "_links": {
@@ -78564,7 +80122,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,95,8,ryszard-gorecki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:49"
+            "updated_at": "2015-06-30T17:10:49"
         }, 
         {
             "_links": {
@@ -78618,7 +80176,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,96,8,marek-konopka.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:50"
+            "updated_at": "2015-06-30T17:10:50"
         }, 
         {
             "_links": {
@@ -78672,7 +80230,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,97,8,mieczyslaw-augustyn.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:50"
+            "updated_at": "2015-06-30T17:10:50"
         }, 
         {
             "_links": {
@@ -78727,7 +80285,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,98,8,jan-filip-libicki.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:51"
+            "updated_at": "2015-06-30T17:10:50"
         }, 
         {
             "_links": {
@@ -78781,7 +80339,7 @@
                     "url": "http://senat.gov.pl/sklad/senatorowie/senator,99,8,marek-ziolkowski.html"
                 }
             ], 
-            "updated_at": "2015-06-09T11:10:51"
+            "updated_at": "2015-06-30T17:10:51"
         }
     ], 
     "posts": []

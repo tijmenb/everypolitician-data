@@ -1304,6 +1304,19 @@
     },
     {
       "birth_date": "1967-07-03",
+      "changes": [
+        {
+          "end_date": "2015-06-10",
+          "property": "name",
+          "start_date": "2015-06-10",
+          "value": "imie_nazwisko"
+        },
+        {
+          "end_date": "2015-06-09",
+          "property": "name",
+          "value": "Barbara Bartuś"
+        }
+      ],
       "family_name": "Bartuś",
       "gender": "female",
       "given_name": "Barbara Halina",
@@ -10702,11 +10715,6 @@
       "parent_id": "5509a8fb273a3904f6e71a64"
     },
     {
-      "classification": "legislature",
-      "id": "legislature",
-      "name": "Parlament"
-    },
-    {
       "classification": "party",
       "id": "5509a91d273a3904f6e7228c",
       "identifiers": [
@@ -10773,6 +10781,11 @@
         }
       ],
       "parent_id": "5509a8fb273a3904f6e71a64"
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "name": "Sejm"
     },
     {
       "classification": "party",
@@ -11790,17 +11803,17 @@
       "person_id": "5509a900273a3904f6e71b7e"
     },
     {
-      "id": "5509a900273a3904f6e71b80-1",
+      "id": "5509a900273a3904f6e71b80-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72294",
+      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
       "organization_id": "legislature",
       "person_id": "5509a900273a3904f6e71b7e",
       "role": "member"
     },
     {
-      "id": "5509a900273a3904f6e71b80-2",
+      "id": "5509a900273a3904f6e71b80-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
+      "on_behalf_of_id": "5509a91d273a3904f6e72294",
       "organization_id": "legislature",
       "person_id": "5509a900273a3904f6e71b7e",
       "role": "member"
@@ -11816,17 +11829,17 @@
       "person_id": "5509a900273a3904f6e71b82"
     },
     {
-      "id": "5509a900273a3904f6e71b84-2",
+      "id": "5509a900273a3904f6e71b84-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
+      "on_behalf_of_id": "5509a91d273a3904f6e72294",
       "organization_id": "legislature",
       "person_id": "5509a900273a3904f6e71b82",
       "role": "member"
     },
     {
-      "id": "5509a900273a3904f6e71b84-1",
+      "id": "5509a900273a3904f6e71b84-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72294",
+      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
       "organization_id": "legislature",
       "person_id": "5509a900273a3904f6e71b82",
       "role": "member"
@@ -12037,17 +12050,17 @@
       "person_id": "5509a901273a3904f6e71bc2"
     },
     {
-      "id": "5509a901273a3904f6e71bc4-1",
+      "id": "5509a901273a3904f6e71bc4-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a901273a3904f6e71bc2",
       "role": "member"
     },
     {
-      "id": "5509a901273a3904f6e71bc4-2",
+      "id": "5509a901273a3904f6e71bc4-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
+      "on_behalf_of_id": "5509a91d273a3904f6e72298",
       "organization_id": "legislature",
       "person_id": "5509a901273a3904f6e71bc2",
       "role": "member"
@@ -12947,17 +12960,17 @@
       "person_id": "5509a905273a3904f6e71cd2"
     },
     {
-      "id": "5509a905273a3904f6e71cd4-1",
+      "id": "5509a905273a3904f6e71cd4-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7228e",
+      "on_behalf_of_id": "5509a91d273a3904f6e72298",
       "organization_id": "legislature",
       "person_id": "5509a905273a3904f6e71cd2",
       "role": "member"
     },
     {
-      "id": "5509a905273a3904f6e71cd4-2",
+      "id": "5509a905273a3904f6e71cd4-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "on_behalf_of_id": "5509a91d273a3904f6e7228e",
       "organization_id": "legislature",
       "person_id": "5509a905273a3904f6e71cd2",
       "role": "member"
@@ -13493,17 +13506,17 @@
       "person_id": "5509a908273a3904f6e71d66"
     },
     {
-      "id": "5509a908273a3904f6e71d68-2",
+      "id": "5509a908273a3904f6e71d68-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
+      "on_behalf_of_id": "5509a91d273a3904f6e72294",
       "organization_id": "legislature",
       "person_id": "5509a908273a3904f6e71d66",
       "role": "member"
     },
     {
-      "id": "5509a908273a3904f6e71d68-1",
+      "id": "5509a908273a3904f6e71d68-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72294",
+      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
       "organization_id": "legislature",
       "person_id": "5509a908273a3904f6e71d66",
       "role": "member"
@@ -14455,17 +14468,17 @@
       "person_id": "5509a90c273a3904f6e71e7a"
     },
     {
-      "id": "5509a90c273a3904f6e71e7c-2",
+      "id": "5509a90c273a3904f6e71e7c-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
+      "on_behalf_of_id": "5509a91d273a3904f6e72294",
       "organization_id": "legislature",
       "person_id": "5509a90c273a3904f6e71e7a",
       "role": "member"
     },
     {
-      "id": "5509a90c273a3904f6e71e7c-1",
+      "id": "5509a90c273a3904f6e71e7c-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72294",
+      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
       "organization_id": "legislature",
       "person_id": "5509a90c273a3904f6e71e7a",
       "role": "member"
@@ -14715,17 +14728,17 @@
       "person_id": "5509a90d273a3904f6e71ec2"
     },
     {
-      "id": "5509a90d273a3904f6e71ec4-2",
+      "id": "5509a90d273a3904f6e71ec4-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
+      "on_behalf_of_id": "5509a91d273a3904f6e72296",
       "organization_id": "legislature",
       "person_id": "5509a90d273a3904f6e71ec2",
       "role": "member"
     },
     {
-      "id": "5509a90d273a3904f6e71ec4-1",
+      "id": "5509a90d273a3904f6e71ec4-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72296",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a90d273a3904f6e71ec2",
       "role": "member"
@@ -14910,17 +14923,17 @@
       "person_id": "5509a90e273a3904f6e71efa"
     },
     {
-      "id": "5509a90e273a3904f6e71efc-1",
+      "id": "5509a90e273a3904f6e71efc-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a90e273a3904f6e71efa",
       "role": "member"
     },
     {
-      "id": "5509a90e273a3904f6e71efc-2",
+      "id": "5509a90e273a3904f6e71efc-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
+      "on_behalf_of_id": "5509a91d273a3904f6e72298",
       "organization_id": "legislature",
       "person_id": "5509a90e273a3904f6e71efa",
       "role": "member"
@@ -15092,17 +15105,17 @@
       "person_id": "5509a90f273a3904f6e71f2e"
     },
     {
-      "id": "5509a90f273a3904f6e71f30-2",
+      "id": "5509a90f273a3904f6e71f30-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
+      "on_behalf_of_id": "5509a91d273a3904f6e72298",
       "organization_id": "legislature",
       "person_id": "5509a90f273a3904f6e71f2e",
       "role": "member"
     },
     {
-      "id": "5509a90f273a3904f6e71f30-1",
+      "id": "5509a90f273a3904f6e71f30-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a90f273a3904f6e71f2e",
       "role": "member"
@@ -15248,17 +15261,17 @@
       "person_id": "5509a910273a3904f6e71f5a"
     },
     {
-      "id": "5509a910273a3904f6e71f5c-1",
+      "id": "5509a910273a3904f6e71f5c-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a910273a3904f6e71f5a",
       "role": "member"
     },
     {
-      "id": "5509a910273a3904f6e71f5c-2",
+      "id": "5509a910273a3904f6e71f5c-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
+      "on_behalf_of_id": "5509a91d273a3904f6e72298",
       "organization_id": "legislature",
       "person_id": "5509a910273a3904f6e71f5a",
       "role": "member"
@@ -15365,17 +15378,17 @@
       "person_id": "5509a910273a3904f6e71f7a"
     },
     {
-      "id": "5509a910273a3904f6e71f7c-1",
+      "id": "5509a910273a3904f6e71f7c-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72290",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a910273a3904f6e71f7a",
       "role": "member"
     },
     {
-      "id": "5509a910273a3904f6e71f7c-2",
+      "id": "5509a910273a3904f6e71f7c-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
+      "on_behalf_of_id": "5509a91d273a3904f6e72290",
       "organization_id": "legislature",
       "person_id": "5509a910273a3904f6e71f7a",
       "role": "member"
@@ -15711,9 +15724,22 @@
       "person_id": "5509a912273a3904f6e71fde"
     },
     {
-      "id": "5509a912273a3904f6e71fe0",
+      "id": "5579aa77273a392ec8aeba7f",
+      "organization_id": "5509a91d273a3904f6e7229a",
+      "person_id": "5509a912273a3904f6e71fde"
+    },
+    {
+      "id": "5509a912273a3904f6e71fe0-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
       "on_behalf_of_id": "5509a91d273a3904f6e72298",
+      "organization_id": "legislature",
+      "person_id": "5509a912273a3904f6e71fde",
+      "role": "member"
+    },
+    {
+      "id": "5509a912273a3904f6e71fe0-2",
+      "legislative_period_id": "5509a8fb273a3904f6e71a64",
+      "on_behalf_of_id": "5509a91d273a3904f6e7229a",
       "organization_id": "legislature",
       "person_id": "5509a912273a3904f6e71fde",
       "role": "member"
@@ -16327,17 +16353,17 @@
       "person_id": "5509a915273a3904f6e72092"
     },
     {
-      "id": "5509a915273a3904f6e72094-2",
+      "id": "5509a915273a3904f6e72094-1",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
+      "on_behalf_of_id": "5509a91d273a3904f6e72294",
       "organization_id": "legislature",
       "person_id": "5509a915273a3904f6e72092",
       "role": "member"
     },
     {
-      "id": "5509a915273a3904f6e72094-1",
+      "id": "5509a915273a3904f6e72094-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
-      "on_behalf_of_id": "5509a91d273a3904f6e72294",
+      "on_behalf_of_id": "550ff3d3273a3974baf6b76b",
       "organization_id": "legislature",
       "person_id": "5509a915273a3904f6e72092",
       "role": "member"
@@ -16746,14 +16772,27 @@
       "role": "member"
     },
     {
+      "id": "5579aa80273a392ec8aeba81",
+      "organization_id": "5509a91d273a3904f6e72298",
+      "person_id": "5509a917273a3904f6e7210e"
+    },
+    {
       "id": "5509a947273a3904f6e72ec6",
       "organization_id": "5509a91d273a3904f6e7229c",
       "person_id": "5509a917273a3904f6e7210e"
     },
     {
-      "id": "5509a917273a3904f6e72110",
+      "id": "5509a917273a3904f6e72110-2",
       "legislative_period_id": "5509a8fb273a3904f6e71a64",
       "on_behalf_of_id": "5509a91d273a3904f6e7229c",
+      "organization_id": "legislature",
+      "person_id": "5509a917273a3904f6e7210e",
+      "role": "member"
+    },
+    {
+      "id": "5509a917273a3904f6e72110-1",
+      "legislative_period_id": "5509a8fb273a3904f6e71a64",
+      "on_behalf_of_id": "5509a91d273a3904f6e72298",
       "organization_id": "legislature",
       "person_id": "5509a917273a3904f6e7210e",
       "role": "member"
@@ -17811,5 +17850,8 @@
       ],
       "name": "Sejm 2011 - "
     }
+  ],
+  "areas": [
+
   ]
 }

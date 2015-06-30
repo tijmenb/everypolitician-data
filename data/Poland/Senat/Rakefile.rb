@@ -1,9 +1,8 @@
 require_relative '../../../rakefile_parldata.rb'
 
-@PARLDATA = 'pl/sejm'
+@PARLDATA = 'pl/senat' 
 @LEGISLATURE = {
-  name: 'Sejm',
-  seats: 460,
+  name: 'Senat',
+  seats: 100,
 }
-
 
