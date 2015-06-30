@@ -1,7 +1,5 @@
 require_relative '../../../rakefile_morph.rb'
 
-@MORPH_QUERY = "SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data WHERE house = 'representatives'"
-
 @LEGISLATURE = {
   name: 'House of Representatives',
   seats: 150,

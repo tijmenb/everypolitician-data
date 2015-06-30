@@ -18,6 +18,7 @@ end
 if instructions = json_load("#{@SOURCE_DIR}/instructions.json")
   @MORPH = instructions[:source] or raise "No `source` in instructions.json"
   @MORPH_TERMS = instructions[:fetch_terms]
+  @MORPH_QUERY = instructions[:query]
 end
 
 @MORPH_DATA_FILE = @SOURCE_DIR + '/data.csv'
