@@ -4,8 +4,22 @@ require_relative 'lib/builder.rb'
 require 'erb'
 require 'csv_to_popolo'
 require 'fileutils'
+require 'json'
+require 'pry'
+
+def json_load(file)
+  return unless File.exist? file
+  JSON.parse(File.read(file), symbolize_names: true)
+end
+
 
 @SOURCE_DIR = 'sources/morph'
+
+if instructions = json_load("#{@SOURCE_DIR}/instructions.json")
+  @MORPH = instructions[:source] or raise "No `source` in instructions.json"
+  @MORPH_TERMS = instructions[:fetch_terms]
+end
+
 @MORPH_DATA_FILE = @SOURCE_DIR + '/data.csv'
 
 namespace :raw do
