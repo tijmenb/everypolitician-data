@@ -5,10 +5,3 @@ require_relative '../../../rakefile_morph.rb'
   name: 'National Assembly for Wales',
   seats: 60,
 }
-
-@TERMS = [{ 
-  id: 'term/4',
-  name: 'Fourth Assembly',
-  start_date: '2011-09-15',
-}]
-
