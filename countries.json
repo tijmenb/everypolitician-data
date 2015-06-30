@@ -858,6 +858,29 @@
     ]
   },
   {
+    "country": "Dominican Republic",
+    "code": "DO",
+    "slug": "Dominican-Republic",
+    "legislatures": [
+      {
+        "name": "Diputados",
+        "slug": "Diputados",
+        "sources_directory": "data/Dominican_Republic/Diputados/sources",
+        "popolo": "data/Dominican_Republic/Diputados/final.json",
+        "lastmod": "1435681342",
+        "sha": "5bb47c2",
+        "legislative_periods": [
+          {
+            "id": "term/2010",
+            "name": "2010–2016",
+            "start_date": "2010",
+            "csv": "data/Dominican_Republic/Diputados/term-2010.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Estonia",
     "code": "EE",
     "slug": "Estonia",
