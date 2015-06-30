@@ -20239,6 +20239,11 @@
   ],
   "organizations": [
     {
+      "classification": "legislature",
+      "id": "legislature",
+      "name": "Chamber of Deputies"
+    },
+    {
       "classification": "faction",
       "dissolution_date": "2013-08-28",
       "founding_date": "2011-04-05",
@@ -20396,11 +20401,6 @@
         }
       ],
       "parent_id": "169"
-    },
-    {
-      "classification": "legislature",
-      "id": "legislature",
-      "name": "Parlament"
     },
     {
       "classification": "faction",
@@ -63872,5 +63872,8 @@
       ],
       "start_date": "2013-10-26"
     }
+  ],
+  "areas": [
+
   ]
 }
