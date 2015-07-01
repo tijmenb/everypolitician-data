@@ -1163,11 +1163,6 @@
     },
     {
       "classification": "party",
-      "id": "party/independent",
-      "name": "Independent"
-    },
-    {
-      "classification": "party",
       "id": "party/lista_pdcs_ns",
       "name": "Lista PDCS NS"
     },
@@ -1195,6 +1190,11 @@
       "classification": "party",
       "id": "party/unione_per_la_repubblica",
       "name": "Unione per la Repubblica"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -1441,7 +1441,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/17016619",
       "role": "member"
@@ -1504,7 +1504,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/17016668",
       "role": "member"
@@ -1588,7 +1588,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/17132421",
       "role": "member"
@@ -1626,9 +1626,12 @@
     {
       "classification": "legislative period",
       "id": "term/2012",
-      "name": "Council 2012–",
+      "name": "Assembly 2012–",
       "organization_id": "legislature",
       "start_date": "2012-12-26"
     }
+  ],
+  "areas": [
+
   ]
 }
