@@ -1,10 +1,5 @@
 require_relative '../../../rakefile_morph.rb'
 
-@LEGISLATURE = {
-  name: 'Bundestag',
-  seats: 620,
-}
-
 namespace :whittle do
 
   task :load => @MORPH_DATA_FILE do
