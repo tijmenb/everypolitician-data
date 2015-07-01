@@ -17,6 +17,7 @@ end
 @SOURCE_DIR = 'sources/morph'
 GENERATED_FILES = FileList.new('clean.json', 'final.json', 'term-*.csv')
 CLEAN.include(GENERATED_FILES)
+CLOBBER.include(FileList.new('sources/morph/*.csv'))
 
 if instructions = json_load("#{@SOURCE_DIR}/instructions.json")
   @MORPH = instructions[:source] or raise "No `source` in instructions.json"
