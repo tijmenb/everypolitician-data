@@ -2125,6 +2125,48 @@
             "csv": "data/Namibia/Assembly/term-0.csv"
           }
         ]
+      },
+      {
+        "name": "Council",
+        "slug": "Council",
+        "sources_directory": "data/Namibia/Council/sources",
+        "popolo": "data/Namibia/Council/final.json",
+        "lastmod": "1435789961",
+        "sha": "ebff25a",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/4",
+            "name": "4th National Council: 2010 - 2015",
+            "start_date": "2010",
+            "slug": "4",
+            "csv": "data/Namibia/Council/term-4.csv"
+          },
+          {
+            "end_date": "2010",
+            "id": "term/3",
+            "name": "3rd National Council: 2004 - 2010",
+            "start_date": "2004",
+            "slug": "3",
+            "csv": "data/Namibia/Council/term-3.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/2",
+            "name": "2nd National Council: 1998 - 2004",
+            "start_date": "1998",
+            "slug": "2",
+            "csv": "data/Namibia/Council/term-2.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/1",
+            "name": "1st National Council: 1993 - 1998",
+            "start_date": "1993",
+            "slug": "1",
+            "csv": "data/Namibia/Council/term-1.csv"
+          }
+        ]
       }
     ]
   },
