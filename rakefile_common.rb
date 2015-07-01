@@ -289,15 +289,14 @@ namespace :term_csvs do
 end
 
 
-desc "Make a local terms.csv"
-task :generate_term_file do
-  columns = %w(id name start_date end_date source)
-  header = columns.to_csv
-  rows = @TERMS.map { |t|
-    [ t[:id].split('/').last, t[:name], t[:start_date], t[:end_date], t[:source] ].to_csv
+desc "Make the instructions.json file"
+task :generate_instructions_file do
+  data = { 
+    source: @MORPH,
+    fetch_terms: !!@MORPH_TERMS,
   }
-  csv = [header, rows].compact.join
+  data[:query] = @MORPH_QUERY if @MORPH_QUERY
   require 'fileutils'
-  FileUtils.mkpath 'sources/manual'
-  File.write 'sources/manual/terms.csv', csv
+  FileUtils.mkpath 'sources/morph'
+  File.write('sources/morph/instructions.json', JSON.pretty_generate(data))
 end

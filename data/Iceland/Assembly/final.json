@@ -2504,9 +2504,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2515,9 +2513,7 @@
       "start_date": "2003"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -2525,9 +2521,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2535,9 +2529,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -2546,9 +2538,7 @@
       "start_date": "2011-03-21"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2556,9 +2546,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "pirate_party",
       "organization_id": "legislature",
@@ -2567,9 +2555,7 @@
       "start_date": "2012"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2577,9 +2563,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -2587,9 +2571,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2597,9 +2579,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "end_date": "2008",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "progressive_party",
@@ -2608,9 +2588,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -2618,9 +2596,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2628,9 +2604,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2638,9 +2612,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -2648,9 +2620,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "bright_future",
       "organization_id": "legislature",
@@ -2658,9 +2628,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "end_date": "2005",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -2669,9 +2637,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "bright_future",
       "organization_id": "legislature",
@@ -2679,9 +2645,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2689,9 +2653,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2699,9 +2661,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "end_date": "2006",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
@@ -2710,9 +2670,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2720,9 +2678,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Eastern Region"
-      },
+      "area_id": "area/eastern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2730,9 +2686,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2740,9 +2694,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2750,9 +2702,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2761,9 +2711,7 @@
       "start_date": "2007-07-14"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -2771,9 +2719,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -2781,9 +2727,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2791,9 +2735,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2801,9 +2743,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2811,9 +2751,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik"
-      },
+      "area_id": "area/reykjavik",
       "end_date": "2000",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "progressive_party",
@@ -2822,9 +2760,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Capital Region"
-      },
+      "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2832,9 +2768,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2842,9 +2776,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2852,9 +2784,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "legislature",
@@ -2862,9 +2792,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "end_date": "2006",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
@@ -2873,9 +2801,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2883,9 +2809,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -2893,9 +2817,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2903,9 +2825,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2914,9 +2834,7 @@
       "start_date": "2005"
     },
     {
-      "area": {
-        "name": "Westfjords"
-      },
+      "area_id": "area/westfjords",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2924,9 +2842,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -2934,9 +2850,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2944,9 +2858,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -2954,9 +2866,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "West"
-      },
+      "area_id": "area/west",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2964,9 +2874,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -2974,9 +2882,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -2985,9 +2891,7 @@
       "start_date": "2006"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "legislature",
@@ -2995,9 +2899,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3005,9 +2907,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3015,9 +2915,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeastern Region"
-      },
+      "area_id": "area/northeastern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3025,9 +2923,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3035,9 +2931,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "end_date": "2005",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -3046,9 +2940,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "bright_future",
       "organization_id": "legislature",
@@ -3057,9 +2949,7 @@
       "start_date": "2011-08-22"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "end_date": "2008-11-17",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "progressive_party",
@@ -3068,9 +2958,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Capital Region"
-      },
+      "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "women's_list",
       "organization_id": "legislature",
@@ -3078,9 +2966,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3088,9 +2974,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "West"
-      },
+      "area_id": "area/west",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3098,9 +2982,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3108,9 +2990,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "end_date": "2006",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
@@ -3119,9 +2999,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3129,9 +3007,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3139,9 +3015,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3149,9 +3023,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3160,9 +3032,7 @@
       "start_date": "2008"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3170,9 +3040,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "pirate_party",
       "organization_id": "legislature",
@@ -3180,9 +3048,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "end_date": "2007-07-14",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
@@ -3191,9 +3057,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "end_date": "2001",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
@@ -3202,9 +3066,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3212,9 +3074,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Eastern Region"
-      },
+      "area_id": "area/eastern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "people's_alliance",
       "organization_id": "legislature",
@@ -3222,9 +3082,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3232,9 +3090,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3242,9 +3098,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3252,9 +3106,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3262,9 +3114,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "West"
-      },
+      "area_id": "area/west",
       "end_date": "2001",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "progressive_party",
@@ -3273,9 +3123,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3283,9 +3131,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3293,9 +3139,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3303,9 +3147,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -3314,9 +3156,7 @@
       "start_date": "2013-01-24"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3324,9 +3164,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Capital Region"
-      },
+      "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "social_democratic_party",
       "organization_id": "legislature",
@@ -3334,9 +3172,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3344,9 +3180,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3355,9 +3189,7 @@
       "start_date": "2009"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "pirate_party",
       "organization_id": "legislature",
@@ -3365,9 +3197,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3375,9 +3205,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3385,9 +3213,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3395,9 +3221,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "legislature",
@@ -3406,9 +3230,7 @@
       "start_date": "2009"
     },
     {
-      "area": {
-        "name": "Reykjavik"
-      },
+      "area_id": "area/reykjavik",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3416,9 +3238,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -3426,9 +3246,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3436,9 +3254,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3446,9 +3262,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -3456,9 +3270,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -3467,9 +3279,7 @@
       "start_date": "2009"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3477,9 +3287,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3487,9 +3295,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3497,9 +3303,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjanes"
-      },
+      "area_id": "area/reykjanes",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3507,9 +3311,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3517,9 +3319,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjanes"
-      },
+      "area_id": "area/reykjanes",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "women's_list",
       "organization_id": "legislature",
@@ -3527,9 +3327,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Capital Region"
-      },
+      "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "women's_list",
       "organization_id": "legislature",
@@ -3537,9 +3335,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -3547,9 +3343,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "solidarity",
       "organization_id": "legislature",
@@ -3558,9 +3352,7 @@
       "start_date": "2011-03-21"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -3568,9 +3360,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik"
-      },
+      "area_id": "area/reykjavik",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3578,9 +3368,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3588,9 +3376,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3598,9 +3384,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3609,9 +3393,7 @@
       "start_date": "2011"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "legislature",
@@ -3619,9 +3401,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3629,9 +3409,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3639,9 +3417,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3649,9 +3425,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "citizens'_movement",
       "organization_id": "legislature",
@@ -3659,9 +3433,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3670,9 +3442,7 @@
       "start_date": "2010"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3680,9 +3450,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3690,9 +3458,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3700,9 +3466,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3710,9 +3474,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "bright_future",
       "organization_id": "legislature",
@@ -3720,9 +3482,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3730,9 +3490,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3740,9 +3498,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwestern Region"
-      },
+      "area_id": "area/northwestern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "people's_alliance",
       "organization_id": "legislature",
@@ -3750,9 +3506,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3760,9 +3514,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3770,9 +3522,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3780,9 +3530,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3790,9 +3538,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "bright_future",
       "organization_id": "legislature",
@@ -3801,9 +3547,7 @@
       "start_date": "2012-10-12"
     },
     {
-      "area": {
-        "name": "West Fjords"
-      },
+      "area_id": "area/west_fjords",
       "end_date": "2001",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -3812,9 +3556,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3822,9 +3564,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3832,9 +3572,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3842,9 +3580,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3852,9 +3588,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3862,9 +3596,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3873,9 +3605,7 @@
       "start_date": "2001"
     },
     {
-      "area": {
-        "name": "Reykjanes"
-      },
+      "area_id": "area/reykjanes",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3883,9 +3613,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3893,9 +3621,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3903,9 +3629,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "legislature",
@@ -3913,9 +3637,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3924,9 +3646,7 @@
       "start_date": "2006"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3934,9 +3654,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3944,9 +3662,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -3954,9 +3670,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3964,9 +3678,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3974,9 +3686,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -3984,9 +3694,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwestern Region"
-      },
+      "area_id": "area/northwestern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -3994,9 +3702,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4004,9 +3710,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4014,9 +3718,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "end_date": "2010",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -4025,9 +3727,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4035,9 +3735,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4045,9 +3743,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4055,9 +3751,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Capital Region"
-      },
+      "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "people's_alliance",
       "organization_id": "legislature",
@@ -4065,9 +3759,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik"
-      },
+      "area_id": "area/reykjavik",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "legislature",
@@ -4075,9 +3767,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4086,9 +3776,7 @@
       "start_date": "2006"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4096,9 +3784,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4106,9 +3792,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "end_date": "2004",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
@@ -4117,9 +3801,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4127,9 +3809,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4137,9 +3817,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4148,9 +3826,7 @@
       "start_date": "2005"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4158,9 +3834,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4168,9 +3842,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4178,9 +3850,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4188,9 +3858,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4198,9 +3866,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest"
-      },
+      "area_id": "area/northwest",
       "end_date": "2003",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
@@ -4209,9 +3875,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4219,9 +3883,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4229,9 +3891,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjanes"
-      },
+      "area_id": "area/reykjanes",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "national_awakening",
       "organization_id": "legislature",
@@ -4239,9 +3899,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4249,9 +3907,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4259,9 +3915,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest"
-      },
+      "area_id": "area/southwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4269,9 +3923,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4279,9 +3931,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast"
-      },
+      "area_id": "area/northeast",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4289,9 +3939,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik North"
-      },
+      "area_id": "area/reykjavik_north",
       "end_date": "2006",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
@@ -4300,9 +3948,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4310,9 +3956,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4320,9 +3964,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4330,9 +3972,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4340,9 +3980,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4350,9 +3988,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4360,9 +3996,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4371,9 +4005,7 @@
       "start_date": "2011-06-01"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4381,9 +4013,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South Constituency"
-      },
+      "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4391,9 +4021,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4401,9 +4029,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik South"
-      },
+      "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4411,9 +4037,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "South"
-      },
+      "area_id": "area/south",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4421,9 +4045,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjanes"
-      },
+      "area_id": "area/reykjanes",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4431,9 +4053,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjanes"
-      },
+      "area_id": "area/reykjanes",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "people's_alliance",
       "organization_id": "legislature",
@@ -4441,9 +4061,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik"
-      },
+      "area_id": "area/reykjavik",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4451,9 +4069,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northwest Constituency"
-      },
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4461,9 +4077,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4471,9 +4085,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "bright_future",
       "organization_id": "legislature",
@@ -4481,9 +4093,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4491,9 +4101,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
       "organization_id": "legislature",
@@ -4501,9 +4109,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency South"
-      },
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4511,9 +4117,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southern Region"
-      },
+      "area_id": "area/southern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
       "organization_id": "legislature",
@@ -4521,9 +4125,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4531,9 +4133,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Reykjavik Constituency North"
-      },
+      "area_id": "area/reykjavik_constituency_north",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4542,9 +4142,7 @@
       "start_date": "2009-08-14"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "legislature",
@@ -4552,9 +4150,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "citizens'_movement",
       "organization_id": "legislature",
@@ -4562,9 +4158,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Northeast Constituency"
-      },
+      "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "legislature",
@@ -4572,9 +4166,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Southwest Constituency"
-      },
+      "area_id": "area/southwest_constituency",
       "end_date": "2011",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -4630,6 +4222,118 @@
       "name": "Alþingi 2009",
       "organization_id": "legislature",
       "start_date": "2009"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/northwest",
+      "name": "Northwest",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northeast",
+      "name": "Northeast",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_constituency",
+      "name": "South Constituency",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_constituency_south",
+      "name": "Reykjavik Constituency South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northeast_constituency",
+      "name": "Northeast Constituency",
+      "type": "constituency"
+    },
+    {
+      "id": "area/southwest_constituency",
+      "name": "Southwest Constituency",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south",
+      "name": "South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_south",
+      "name": "Reykjavik South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_constituency_north",
+      "name": "Reykjavik Constituency North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_north",
+      "name": "Reykjavik North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/eastern_region",
+      "name": "Eastern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northwest_constituency",
+      "name": "Northwest Constituency",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik",
+      "name": "Reykjavik",
+      "type": "constituency"
+    },
+    {
+      "id": "area/capital_region",
+      "name": "Capital Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/southwest",
+      "name": "Southwest",
+      "type": "constituency"
+    },
+    {
+      "id": "area/westfjords",
+      "name": "Westfjords",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west",
+      "name": "West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northeastern_region",
+      "name": "Northeastern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjanes",
+      "name": "Reykjanes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northwestern_region",
+      "name": "Northwestern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_fjords",
+      "name": "West Fjords",
+      "type": "constituency"
+    },
+    {
+      "id": "area/southern_region",
+      "name": "Southern Region",
+      "type": "constituency"
     }
   ]
 }
