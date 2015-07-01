@@ -1,6 +1,4 @@
-require_relative '../../../rakefile_morph.rb'
-
-@MORPH = 'tmtmtmtm/niger-assemblee'
+require_relative '../../../rakefile_morph.rb' 
 
 @LEGISLATURE = {
   name: 'Assemblée nationale',

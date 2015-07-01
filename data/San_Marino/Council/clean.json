@@ -1157,11 +1157,6 @@
       "name": "Federico Pedini Amati"
     },
     {
-      "classification": "party",
-      "id": "party/independent",
-      "name": "Independent"
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
@@ -1202,6 +1197,11 @@
       "classification": "party",
       "id": "party/unione_per_la_repubblica",
       "name": "Unione per la Repubblica"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -1448,7 +1448,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/17016619",
       "role": "member"
@@ -1511,7 +1511,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/17016668",
       "role": "member"
@@ -1595,7 +1595,7 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/17132421",
       "role": "member"

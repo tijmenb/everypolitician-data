@@ -296,6 +296,7 @@ task :generate_instructions_file do
     fetch_terms: !!@MORPH_TERMS,
   }
   data[:query] = @MORPH_QUERY if @MORPH_QUERY
+  data[:term_query] = @MORPH_TERM_QUERY if @MORPH_QUERY
   require 'fileutils'
   FileUtils.mkpath 'sources/morph'
   File.write('sources/morph/instructions.json', JSON.pretty_generate(data))

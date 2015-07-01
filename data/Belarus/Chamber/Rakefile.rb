@@ -1,7 +1,6 @@
 require_relative '../../../rakefile_morph.rb'
 require 'csv'
 
-@MORPH = 'duncanparkes/belarus'
 @LEGISLATURE = {
   name: 'National Assembly',
   seats: 110,
