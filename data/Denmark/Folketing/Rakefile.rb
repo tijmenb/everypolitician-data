@@ -7,12 +7,6 @@ require_relative '../../../rakefile_popit.rb'
   seats: 179,
 }
 
-@TERMS = [{ 
-  id: 'term/2011',
-  name: 'Folketing 2011–15',
-  start_date: '2011-09-15'
-}]
-
 
 namespace :whittle do
 
