@@ -1,6 +1,5 @@
 require_relative '../../../rakefile_morph.rb'
 
-@MORPH = 'tmtmtmtm/chile-opendata'
 @LEGISLATURE = { 
   name: 'National Congress',
   seats: 120,
