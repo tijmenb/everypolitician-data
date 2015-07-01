@@ -6,6 +6,10 @@ require 'csv'
 
 Numeric.class_eval { def empty?; false; end }
 
+GENERATED_FILES = FileList.new('clean.json', 'final.json', 'term-*.csv')
+CLEAN.include(GENERATED_FILES)
+
+
 def deep_sort(element)
   if element.is_a?(Hash)
     element.keys.sort.each_with_object({}) { |k, newhash| newhash[k] = deep_sort(element[k]) }

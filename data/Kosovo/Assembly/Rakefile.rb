@@ -1,11 +1,6 @@
 require_relative '../../../rakefile_parldata.rb'
 
 @PARLDATA = 'kv/kuvendi'
-@LEGISLATURE = {
-  name: 'Kuvendit',
-  seats: 120,
-}
-
 @MEMBERSHIP_GROUPING = 'parliamentary_group'
 
 namespace :transform do
