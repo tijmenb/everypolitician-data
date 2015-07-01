@@ -23,7 +23,8 @@ def terms_from(json_file, h)
   terms.sort_by { |t| t[:start_date].to_s }.reverse.map { |t|
     t.delete :classification
     t.delete :organization_id
-    t[:csv] = h + "/term-#{t[:id].split('/').last}.csv"
+    t[:slug] ||= t[:id].split('/').last
+    t[:csv] = h + "/term-#{t[:slug]}.csv"
     t
   }.select { |t| File.exist? t[:csv] }
 end
@@ -38,6 +39,8 @@ task 'countries.json' do
     name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
     {
+      name: name,
+      # Deprecated — will be removed soon!
       country: name,
       code: meta['iso_code'] || name_to_iso_code(name),
       slug: slug,
