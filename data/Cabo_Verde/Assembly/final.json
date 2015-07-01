@@ -713,9 +713,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "name": "Sal"
-      },
+      "area_id": "area/sal",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -723,9 +721,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "UCID",
       "organization_id": "legislature",
@@ -733,9 +729,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "UCID",
       "organization_id": "legislature",
@@ -743,9 +737,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -753,9 +745,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Brava"
-      },
+      "area_id": "area/brava",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -763,9 +753,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Boa Vista"
-      },
+      "area_id": "area/boa_vista",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -773,9 +761,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Fogo"
-      },
+      "area_id": "area/fogo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -783,9 +769,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Europa"
-      },
+      "area_id": "area/europa",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -793,9 +777,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -803,9 +785,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -813,9 +793,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -823,9 +801,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santo Antão"
-      },
+      "area_id": "area/santo_antão",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -833,9 +809,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sal"
-      },
+      "area_id": "area/sal",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -843,9 +817,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -853,9 +825,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Fogo"
-      },
+      "area_id": "area/fogo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -863,9 +833,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Fogo"
-      },
+      "area_id": "area/fogo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -873,9 +841,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -883,9 +849,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Nicolau"
-      },
+      "area_id": "area/são_nicolau",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -893,9 +857,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Fogo"
-      },
+      "area_id": "area/fogo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -903,9 +865,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -913,9 +873,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "América"
-      },
+      "area_id": "area/américa",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -923,9 +881,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -933,9 +889,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -943,9 +897,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santo Antão"
-      },
+      "area_id": "area/santo_antão",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -953,9 +905,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Brava"
-      },
+      "area_id": "area/brava",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -969,9 +919,7 @@
       "role": "Vice-Presidente"
     },
     {
-      "area": {
-        "name": "África"
-      },
+      "area_id": "area/África",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -979,9 +927,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -989,9 +935,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -999,9 +943,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1009,9 +951,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1019,9 +959,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1035,9 +973,7 @@
       "role": "Vice-Presidente"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1045,9 +981,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1061,9 +995,7 @@
       "role": "Presidente"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1071,9 +1003,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1081,9 +1011,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1091,9 +1019,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sal"
-      },
+      "area_id": "area/sal",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1101,9 +1027,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Maio"
-      },
+      "area_id": "area/maio",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1111,9 +1035,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1121,9 +1043,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1131,9 +1051,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santo Antão"
-      },
+      "area_id": "area/santo_antão",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1141,9 +1059,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1157,9 +1073,7 @@
       "role": "Vice-Presidente"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1167,9 +1081,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "América"
-      },
+      "area_id": "area/américa",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "MPD",
       "organization_id": "legislature",
@@ -1177,9 +1089,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "África"
-      },
+      "area_id": "area/África",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1187,9 +1097,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1197,9 +1105,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "América"
-      },
+      "area_id": "area/américa",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1207,9 +1113,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Boa Vista"
-      },
+      "area_id": "area/boa_vista",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1223,9 +1127,7 @@
       "role": "Vice-Presidente"
     },
     {
-      "area": {
-        "name": "Fogo"
-      },
+      "area_id": "area/fogo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1233,9 +1135,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Maio"
-      },
+      "area_id": "area/maio",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1243,9 +1143,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1259,9 +1157,7 @@
       "role": "Presidente"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1269,9 +1165,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1279,9 +1173,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1289,9 +1181,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1299,9 +1189,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1309,9 +1197,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santo Antão"
-      },
+      "area_id": "area/santo_antão",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1319,9 +1205,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santo Antão"
-      },
+      "area_id": "area/santo_antão",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1329,9 +1213,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Nicolau"
-      },
+      "area_id": "area/são_nicolau",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1345,9 +1227,7 @@
       "role": "Vice-Presidente"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1355,9 +1235,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Europa"
-      },
+      "area_id": "area/europa",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1365,9 +1243,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1375,9 +1251,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1385,9 +1259,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1395,9 +1267,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Norte"
-      },
+      "area_id": "area/santiago_norte",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1405,9 +1275,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1415,9 +1283,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1425,9 +1291,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1435,9 +1299,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1445,9 +1307,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1455,9 +1315,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santo Antão"
-      },
+      "area_id": "area/santo_antão",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1465,9 +1323,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "São Vicente"
-      },
+      "area_id": "area/são_vicente",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1475,9 +1331,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1485,9 +1339,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Santiago Sul"
-      },
+      "area_id": "area/santiago_sul",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PAICV",
       "organization_id": "legislature",
@@ -1495,9 +1347,6 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": ""
-      },
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "",
       "organization_id": "legislature",
@@ -1512,6 +1361,73 @@
       "name": "VIII Legislatura",
       "organization_id": "legislature",
       "start_date": "2011-03-11"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/sal",
+      "name": "Sal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/são_vicente",
+      "name": "São Vicente",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santiago_sul",
+      "name": "Santiago Sul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/brava",
+      "name": "Brava",
+      "type": "constituency"
+    },
+    {
+      "id": "area/boa_vista",
+      "name": "Boa Vista",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fogo",
+      "name": "Fogo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/europa",
+      "name": "Europa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santiago_norte",
+      "name": "Santiago Norte",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santo_antão",
+      "name": "Santo Antão",
+      "type": "constituency"
+    },
+    {
+      "id": "area/são_nicolau",
+      "name": "São Nicolau",
+      "type": "constituency"
+    },
+    {
+      "id": "area/américa",
+      "name": "América",
+      "type": "constituency"
+    },
+    {
+      "id": "area/África",
+      "name": "África",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maio",
+      "name": "Maio",
+      "type": "constituency"
     }
   ]
 }
