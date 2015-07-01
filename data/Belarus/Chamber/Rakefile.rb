@@ -1,11 +1,6 @@
 require_relative '../../../rakefile_morph.rb'
 require 'csv'
 
-@LEGISLATURE = {
-  name: 'National Assembly',
-  seats: 110,
-}
-
 # TODO: move these out to a data file
 @remap = {
   'ZHILINSKY MARAT'       => ['KPB', 'Communist Party of Belarus'],

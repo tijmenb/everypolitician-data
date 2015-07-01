@@ -104,12 +104,16 @@ namespace :transform do
   #---------------------------------------------------------------------
   task :write => :name_legislature
   task :name_legislature => :ensure_legislature do
-    # Can be defined in country-level rakefile
+    # Read legislature meta-info
+    if (File.exist? 'meta.json')
+      @LEGISLATURE = JSON.parse(File.read('meta.json'), symbolize_names: true )
+    end
+    # Or (old way) be defined in the Legislature's Rakefile TODO: remove
     if (@LEGISLATURE)
       leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
-      raise "More than one legislature exists, and @LEGISLATURE set" if leg.count > 1
+      raise "More than one legislature exists" if leg.count > 1
       # Don't pass through the seat count until we work out how to do this properly
-      leg.first.merge! @LEGISLATURE.reject { |k,_| k == :seats }
+      leg.first.merge! @LEGISLATURE
     end
 
   end
@@ -289,15 +293,11 @@ namespace :term_csvs do
 end
 
 
-desc "Make the instructions.json file"
-task :generate_instructions_file do
-  data = { 
-    source: @MORPH,
-    fetch_terms: !!@MORPH_TERMS,
-  }
-  data[:query] = @MORPH_QUERY if @MORPH_QUERY
-  data[:term_query] = @MORPH_TERM_QUERY if @MORPH_QUERY
+desc "Make the meta.json file for a legislature"
+task :generate_meta_file do
+  data = @LEGISLATURE 
+  raise "No name" unless data[:name]
+  raise "No seat count" unless data[:seats]
   require 'fileutils'
-  FileUtils.mkpath 'sources/morph'
-  File.write('sources/morph/instructions.json', JSON.pretty_generate(data))
+  File.write('meta.json', JSON.pretty_generate(data))
 end
