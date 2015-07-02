@@ -282,6 +282,7 @@ namespace :term_csvs do
         term: m[:legislative_period_id].split('/').last,
         start_date: m[:start_date],
         end_date: m[:end_date],
+        image: person[:image],
       }
     end
     data.group_by { |r| r[:term] }.each do |t, rs|
