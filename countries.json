@@ -2834,6 +2834,31 @@
     ]
   },
   {
+    "name": "Togo",
+    "country": "Togo",
+    "code": "TG",
+    "slug": "Togo",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Togo/Assembly/sources",
+        "popolo": "data/Togo/Assembly/final.json",
+        "lastmod": "1435848932",
+        "sha": "fa01b63",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Togo/Assembly/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tonga",
     "country": "Tonga",
     "code": "TO",
