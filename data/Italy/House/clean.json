@@ -1836,6 +1836,11 @@
       "name": "MADIA Maria Anna"
     },
     {
+      "family_name": "MAESTRI",
+      "id": "person/120799",
+      "name": "MAESTRI Andrea"
+    },
+    {
       "family_name": "MAGORNO",
       "id": "person/234144",
       "name": "MAGORNO Ernesto"
@@ -3026,6 +3031,11 @@
       "name": "VERINI Walter"
     },
     {
+      "family_name": "VICO",
+      "id": "person/776",
+      "name": "VICO Ludovico"
+    },
+    {
       "family_name": "VIGNALI",
       "id": "person/332948",
       "name": "VIGNALI Raffaello"
@@ -3285,6 +3295,16 @@
         "id": "area/emilia-romagna",
         "name": "Emilia-Romagna"
       },
+      "on_behalf_of_id": "party/gruppo_misto",
+      "organization_id": "chamber/chamber_of_deputies",
+      "person_id": "person/120799",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/emilia-romagna",
+        "name": "Emilia-Romagna"
+      },
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/122285",
@@ -3345,7 +3365,7 @@
         "id": "area/campania_1",
         "name": "Campania 1"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/128890",
       "role": "member"
@@ -4051,7 +4071,7 @@
         "id": "area/liguria",
         "name": "Liguria"
       },
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/244605",
       "role": "member"
@@ -5131,7 +5151,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/sinistra_ecologia_e_libertà",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/34065",
       "role": "member"
@@ -5141,7 +5161,7 @@
         "id": "area/veneto_1",
         "name": "Veneto 1"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/345364",
       "role": "member"
@@ -5431,7 +5451,7 @@
         "id": "area/veneto_2",
         "name": "Veneto 2"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/418631",
       "role": "member"
@@ -5611,7 +5631,7 @@
         "id": "area/lombardia_1",
         "name": "Lombardia 1"
       },
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/4537",
       "role": "member"
@@ -6041,7 +6061,7 @@
         "id": "area/campania_1",
         "name": "Campania 1"
       },
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/5000",
       "role": "member"
@@ -6261,7 +6281,7 @@
         "id": "area/lazio_1",
         "name": "Lazio 1"
       },
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/530483",
       "role": "member"
@@ -6871,7 +6891,7 @@
         "id": "area/veneto_1",
         "name": "Veneto 1"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/685848",
       "role": "member"
@@ -7811,7 +7831,7 @@
         "id": "area/lombardia_2",
         "name": "Lombardia 2"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/686387",
       "role": "member"
@@ -8121,7 +8141,7 @@
         "id": "area/sardegna",
         "name": "Sardegna"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/686509",
       "role": "member"
@@ -8281,7 +8301,7 @@
         "id": "area/sicilia_2",
         "name": "Sicilia 2"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/686660",
       "role": "member"
@@ -8501,7 +8521,7 @@
         "id": "area/lazio_1",
         "name": "Lazio 1"
       },
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/686763",
       "role": "member"
@@ -8881,7 +8901,7 @@
         "id": "area/valle_d'aosta",
         "name": "Valle d'Aosta"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/687445",
       "role": "member"
@@ -9001,7 +9021,7 @@
         "id": "area/europa",
         "name": "Europa"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/687613",
       "role": "member"
@@ -9258,6 +9278,16 @@
     },
     {
       "area": {
+        "id": "area/puglia",
+        "name": "Puglia"
+      },
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "chamber/chamber_of_deputies",
+      "person_id": "person/776",
+      "role": "member"
+    },
+    {
+      "area": {
         "id": "area/emilia-romagna",
         "name": "Emilia-Romagna"
       },
@@ -9341,7 +9371,7 @@
         "id": "area/lazio_2",
         "name": "Lazio 2"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/8344",
       "role": "member"
@@ -9471,7 +9501,7 @@
         "id": "area/veneto_1",
         "name": "Veneto 1"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/9048",
       "role": "member"

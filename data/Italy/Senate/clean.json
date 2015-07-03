@@ -1614,6 +1614,11 @@
     },
     {
       "classification": "party",
+      "id": "party/conservatori,_riformisti_italiani",
+      "name": "Conservatori, Riformisti italiani"
+    },
+    {
+      "classification": "party",
       "id": "party/grandi_autonomie_e_libertà",
       "name": "Grandi autonomie e libertà"
     },
@@ -1735,7 +1740,7 @@
         "id": "area/campania",
         "name": "Campania"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/128480",
       "role": "member"
@@ -1815,7 +1820,7 @@
         "id": "area/veneto",
         "name": "Veneto"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/1490",
       "role": "member"
@@ -1845,7 +1850,7 @@
         "id": "area/piemonte",
         "name": "Piemonte"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/senate",
       "person_id": "person/15141",
       "role": "member"
@@ -1865,7 +1870,7 @@
         "id": "area/senatore_a_vita",
         "name": "Senatore a vita"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/gruppo_per_le_autonomie-psi",
       "organization_id": "chamber/senate",
       "person_id": "person/1519",
       "role": "member"
@@ -2291,7 +2296,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/22198",
       "role": "member"
@@ -2311,7 +2316,7 @@
         "id": "area/lombardia",
         "name": "Lombardia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/senate",
       "person_id": "person/226",
       "role": "member"
@@ -2641,7 +2646,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/286531",
       "role": "member"
@@ -2781,7 +2786,7 @@
         "id": "area/veneto",
         "name": "Veneto"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/senate",
       "person_id": "person/332759",
       "role": "member"
@@ -2851,7 +2856,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/333065",
       "role": "member"
@@ -2961,7 +2966,7 @@
         "id": "area/basilicata",
         "name": "Basilicata"
       },
-      "on_behalf_of_id": "party/grandi_autonomie_e_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/342242",
       "role": "member"
@@ -3031,7 +3036,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/372722",
       "role": "member"
@@ -3091,7 +3096,7 @@
         "id": "area/veneto",
         "name": "Veneto"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/senate",
       "person_id": "person/434820",
       "role": "member"
@@ -3171,7 +3176,7 @@
         "id": "area/lombardia",
         "name": "Lombardia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/4590",
       "role": "member"
@@ -3301,7 +3306,7 @@
         "id": "area/campania",
         "name": "Campania"
       },
-      "on_behalf_of_id": "party/grandi_autonomie_e_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/5041",
       "role": "member"
@@ -3331,7 +3336,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/5070",
       "role": "member"
@@ -3431,7 +3436,7 @@
         "id": "area/veneto",
         "name": "Veneto"
       },
-      "on_behalf_of_id": "party/lega_nord_e_autonomie",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "chamber/senate",
       "person_id": "person/570842",
       "role": "member"
@@ -3461,7 +3466,7 @@
         "id": "area/campania",
         "name": "Campania"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/602597",
       "role": "member"
@@ -3631,7 +3636,7 @@
         "id": "area/veneto",
         "name": "Veneto"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/grandi_autonomie_e_libertà",
       "organization_id": "chamber/senate",
       "person_id": "person/685732",
       "role": "member"
@@ -4241,7 +4246,7 @@
         "id": "area/campania",
         "name": "Campania"
       },
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/grandi_autonomie_e_libertà",
       "organization_id": "chamber/senate",
       "person_id": "person/687073",
       "role": "member"
@@ -4533,7 +4538,7 @@
       "role": "member"
     },
     {
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/gruppo_per_le_autonomie-psi",
       "organization_id": "chamber/senate",
       "person_id": "person/708130",
       "role": "member"
@@ -4569,7 +4574,7 @@
         "id": "area/puglia",
         "name": "Puglia"
       },
-      "on_behalf_of_id": "party/popolo_della_libertà",
+      "on_behalf_of_id": "party/conservatori,_riformisti_italiani",
       "organization_id": "chamber/senate",
       "person_id": "person/7265",
       "role": "member"
