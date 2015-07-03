@@ -1,10 +1,6 @@
 require_relative '../../../rakefile_common.rb'
 
 @SOURCE = 'https://github.com/tmtmtmtm/eduskunta-popolo'
-@LEGISLATURE = {
-  name: 'Eduskunta',
-  seats: 200,
-}
 
 @RAWFILE = 'sources/tmtmtmtm/eduskunta.json'
 

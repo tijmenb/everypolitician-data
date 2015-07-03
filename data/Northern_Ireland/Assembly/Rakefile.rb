@@ -1,10 +1,5 @@
 require_relative '../../../rakefile_parlparse.rb'
 
-@LEGISLATURE = {
-  name: 'Northern Ireland Assembly',
-  seats: 108,
-}
-
 namespace :transform do
   task :load do
     # Odd case of Eileen Bell staying on as Speaker beyond the term
