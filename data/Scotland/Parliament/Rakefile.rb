@@ -1,10 +1,5 @@
 require_relative '../../../rakefile_parlparse.rb'
 
-@LEGISLATURE = {
-  name: 'Scottish Parliament',
-  seats: 129,
-}
-
 namespace :transform do
   task :load do
     # David Steel as Presiding Officer

@@ -4,6 +4,11 @@ require 'colorize'
 
 @TWFY_RAW_FILE = 'sources/parlparse/twfy.json'
 
+if (File.exist? 'meta.json')
+  @LEGISLATURE = JSON.parse(File.read('meta.json'), symbolize_names: true )
+end
+
+
 namespace :raw do
   file @TWFY_RAW_FILE do
     warn "Refetching TWFY JSON"

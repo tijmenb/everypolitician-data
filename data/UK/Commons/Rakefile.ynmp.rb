@@ -3,17 +3,6 @@ require_relative '../../rakefile_common.rb'
 require 'csv'
 require 'csv_to_popolo'
 
-@LEGISLATURE = {
-  name: 'House of Commons',
-  seats: 650,
-}
-
-@TERMS = [{ 
-  id: 'term/2015',
-  name: 'House of Commons 2015–',
-  start_date: '2015'
-}]
-
 @CANDIDATES_FILE = 'sources/YNMP/candidates.csv'
 @WINNERS_FILE = 'sources/YNMP/winners.csv'
 
