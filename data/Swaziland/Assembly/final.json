@@ -377,7 +377,8 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "name": "House of Assembly"
+      "name": "House of Assembly",
+      "seats": 55
     },
     {
       "classification": "party",
@@ -390,9 +391,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "name": "Nkwene"
-      },
+      "area_id": "area/nkwene",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -400,9 +399,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Timphisini"
-      },
+      "area_id": "area/timphisini",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -410,9 +407,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ludzeludze"
-      },
+      "area_id": "area/ludzeludze",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -420,9 +415,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Shiselweni II"
-      },
+      "area_id": "area/shiselweni_ii",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -430,9 +423,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Shiselweni II"
-      },
+      "area_id": "area/shiselweni_ii",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -440,9 +431,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ngudzeni"
-      },
+      "area_id": "area/ngudzeni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -450,9 +439,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Kukhanyeni"
-      },
+      "area_id": "area/kukhanyeni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -460,9 +447,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Madlangempisi"
-      },
+      "area_id": "area/madlangempisi",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -470,9 +455,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Madlangempisi"
-      },
+      "area_id": "area/madlangempisi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -480,9 +463,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Khubuta"
-      },
+      "area_id": "area/khubuta",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -490,9 +471,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mafutseni"
-      },
+      "area_id": "area/mafutseni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -500,9 +479,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Kukhanyeni"
-      },
+      "area_id": "area/kukhanyeni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -510,9 +487,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sigwe"
-      },
+      "area_id": "area/sigwe",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -520,9 +495,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Somntongo"
-      },
+      "area_id": "area/somntongo",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -530,9 +503,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ngudzeni"
-      },
+      "area_id": "area/ngudzeni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -540,9 +511,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nkhaba"
-      },
+      "area_id": "area/nkhaba",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -550,9 +519,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mbabane East"
-      },
+      "area_id": "area/mbabane_east",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -560,9 +527,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mbabane East"
-      },
+      "area_id": "area/mbabane_east",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -570,9 +535,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nhlambeni"
-      },
+      "area_id": "area/nhlambeni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -580,9 +543,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nhlambeni"
-      },
+      "area_id": "area/nhlambeni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -590,9 +551,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Hlane"
-      },
+      "area_id": "area/hlane",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -600,9 +559,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sandleni"
-      },
+      "area_id": "area/sandleni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -610,9 +567,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mkhiweni"
-      },
+      "area_id": "area/mkhiweni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -620,9 +575,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Siphofaneni"
-      },
+      "area_id": "area/siphofaneni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -630,9 +583,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Siphofaneni"
-      },
+      "area_id": "area/siphofaneni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -640,9 +591,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nkilongo"
-      },
+      "area_id": "area/nkilongo",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -650,9 +599,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nkilongo"
-      },
+      "area_id": "area/nkilongo",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -660,9 +607,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ntfonjeni"
-      },
+      "area_id": "area/ntfonjeni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -670,9 +615,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Pigg’s Peak"
-      },
+      "area_id": "area/pigg’s_peak",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -680,9 +623,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Pigg’s Peak"
-      },
+      "area_id": "area/pigg’s_peak",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -690,9 +631,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mpolonjeni"
-      },
+      "area_id": "area/mpolonjeni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -700,9 +639,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sandleni"
-      },
+      "area_id": "area/sandleni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -710,9 +647,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Manzini North"
-      },
+      "area_id": "area/manzini_north",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -720,9 +655,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Timphisini"
-      },
+      "area_id": "area/timphisini",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -730,9 +663,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ndzingeni"
-      },
+      "area_id": "area/ndzingeni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -740,9 +671,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mbabane West"
-      },
+      "area_id": "area/mbabane_west",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -750,9 +679,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mbabane West"
-      },
+      "area_id": "area/mbabane_west",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -760,9 +687,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Zombodze"
-      },
+      "area_id": "area/zombodze",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -770,9 +695,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lugongolweni"
-      },
+      "area_id": "area/lugongolweni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -780,9 +703,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lugongolweni"
-      },
+      "area_id": "area/lugongolweni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -790,9 +711,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nkhaba"
-      },
+      "area_id": "area/nkhaba",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -800,9 +719,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ndzingeni"
-      },
+      "area_id": "area/ndzingeni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -810,9 +727,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Kwaluseni"
-      },
+      "area_id": "area/kwaluseni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -820,9 +735,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Maphalaleni"
-      },
+      "area_id": "area/maphalaleni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -830,9 +743,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Manzini North"
-      },
+      "area_id": "area/manzini_north",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -840,9 +751,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sithobela"
-      },
+      "area_id": "area/sithobela",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -850,9 +759,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sithobela"
-      },
+      "area_id": "area/sithobela",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -860,9 +767,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lobamba"
-      },
+      "area_id": "area/lobamba",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -870,9 +775,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Shiselweni I"
-      },
+      "area_id": "area/shiselweni_i",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -880,9 +783,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lobamba Lomdzala"
-      },
+      "area_id": "area/lobamba_lomdzala",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -890,9 +791,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lobamba Lomdzala"
-      },
+      "area_id": "area/lobamba_lomdzala",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -900,9 +799,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mhlangatane"
-      },
+      "area_id": "area/mhlangatane",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -910,9 +807,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mhlangatane"
-      },
+      "area_id": "area/mhlangatane",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -920,9 +815,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Gege"
-      },
+      "area_id": "area/gege",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -930,9 +823,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mangcongco"
-      },
+      "area_id": "area/mangcongco",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -940,9 +831,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Hosea"
-      },
+      "area_id": "area/hosea",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -950,9 +839,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Hlane"
-      },
+      "area_id": "area/hlane",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -960,9 +847,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Maseyisini"
-      },
+      "area_id": "area/maseyisini",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -970,9 +855,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Maseyisini"
-      },
+      "area_id": "area/maseyisini",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -980,9 +863,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lobamba"
-      },
+      "area_id": "area/lobamba",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -990,9 +871,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mtfongwaneni"
-      },
+      "area_id": "area/mtfongwaneni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1000,9 +879,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Kwaluseni"
-      },
+      "area_id": "area/kwaluseni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1010,9 +887,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mstambama"
-      },
+      "area_id": "area/mstambama",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1020,9 +895,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ntondozi"
-      },
+      "area_id": "area/ntondozi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1030,9 +903,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Shiselweni II"
-      },
+      "area_id": "area/shiselweni_ii",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1040,9 +911,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Gege"
-      },
+      "area_id": "area/gege",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1050,9 +919,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mahlangatja"
-      },
+      "area_id": "area/mahlangatja",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1060,9 +927,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Dvokodvweni"
-      },
+      "area_id": "area/dvokodvweni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1070,9 +935,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lubulini"
-      },
+      "area_id": "area/lubulini",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1080,9 +943,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mpolonjeni"
-      },
+      "area_id": "area/mpolonjeni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1090,9 +951,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Khubuta"
-      },
+      "area_id": "area/khubuta",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1100,9 +959,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Matsanjeni North"
-      },
+      "area_id": "area/matsanjeni_north",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1110,9 +967,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ludzeludze"
-      },
+      "area_id": "area/ludzeludze",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1120,9 +975,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lamgabhi"
-      },
+      "area_id": "area/lamgabhi",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1130,9 +983,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Manzini South"
-      },
+      "area_id": "area/manzini_south",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1140,9 +991,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mtfongwaneni"
-      },
+      "area_id": "area/mtfongwaneni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1150,9 +999,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mangcongco"
-      },
+      "area_id": "area/mangcongco",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1160,9 +1007,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ntondozi"
-      },
+      "area_id": "area/ntondozi",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1170,9 +1015,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mhlambanyatsi"
-      },
+      "area_id": "area/mhlambanyatsi",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1180,9 +1023,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Motshane"
-      },
+      "area_id": "area/motshane",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1190,9 +1031,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Matsanjeni North"
-      },
+      "area_id": "area/matsanjeni_north",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1200,9 +1039,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mhlambanyatsi"
-      },
+      "area_id": "area/mhlambanyatsi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1210,9 +1047,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Matsanjeni South"
-      },
+      "area_id": "area/matsanjeni_south",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1220,9 +1055,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mtsambama"
-      },
+      "area_id": "area/mtsambama",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1230,9 +1063,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Motshane"
-      },
+      "area_id": "area/motshane",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1240,9 +1071,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mkhiweni"
-      },
+      "area_id": "area/mkhiweni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1250,9 +1079,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Hhukwini"
-      },
+      "area_id": "area/hhukwini",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1260,9 +1087,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Somntongo"
-      },
+      "area_id": "area/somntongo",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1270,9 +1095,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Maphalaleni"
-      },
+      "area_id": "area/maphalaleni",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1280,9 +1103,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lamgabhi"
-      },
+      "area_id": "area/lamgabhi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1290,9 +1111,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ntfonjeni"
-      },
+      "area_id": "area/ntfonjeni",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1300,9 +1119,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mhlume"
-      },
+      "area_id": "area/mhlume",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1310,9 +1127,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mayiwane"
-      },
+      "area_id": "area/mayiwane",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1320,9 +1135,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mayiwane"
-      },
+      "area_id": "area/mayiwane",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1330,9 +1143,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nkwene"
-      },
+      "area_id": "area/nkwene",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1340,9 +1151,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Matsanjeni South"
-      },
+      "area_id": "area/matsanjeni_south",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1350,9 +1159,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Mahlangatsha"
-      },
+      "area_id": "area/mahlangatsha",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1360,9 +1167,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Sigwe"
-      },
+      "area_id": "area/sigwe",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1370,9 +1175,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Manzini South"
-      },
+      "area_id": "area/manzini_south",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1380,9 +1183,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Hosea"
-      },
+      "area_id": "area/hosea",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1390,9 +1191,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Lubulini"
-      },
+      "area_id": "area/lubulini",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1400,9 +1199,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Zombodze"
-      },
+      "area_id": "area/zombodze",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1410,9 +1207,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Nkilongo"
-      },
+      "area_id": "area/nkilongo",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1420,9 +1215,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ngwemphisi"
-      },
+      "area_id": "area/ngwemphisi",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1430,9 +1223,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Ngwemphisi"
-      },
+      "area_id": "area/ngwemphisi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1440,9 +1231,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "name": "Shiselweni I"
-      },
+      "area_id": "area/shiselweni_i",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -1465,6 +1254,288 @@
       "name": "10th Parliament",
       "organization_id": "legislature",
       "start_date": "2013"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/nkwene",
+      "name": "Nkwene",
+      "type": "constituency"
+    },
+    {
+      "id": "area/timphisini",
+      "name": "Timphisini",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ludzeludze",
+      "name": "Ludzeludze",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shiselweni_ii",
+      "name": "Shiselweni II",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngudzeni",
+      "name": "Ngudzeni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kukhanyeni",
+      "name": "Kukhanyeni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madlangempisi",
+      "name": "Madlangempisi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/khubuta",
+      "name": "Khubuta",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mafutseni",
+      "name": "Mafutseni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sigwe",
+      "name": "Sigwe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/somntongo",
+      "name": "Somntongo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nkhaba",
+      "name": "Nkhaba",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mbabane_east",
+      "name": "Mbabane East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nhlambeni",
+      "name": "Nhlambeni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hlane",
+      "name": "Hlane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sandleni",
+      "name": "Sandleni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mkhiweni",
+      "name": "Mkhiweni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/siphofaneni",
+      "name": "Siphofaneni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nkilongo",
+      "name": "Nkilongo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ntfonjeni",
+      "name": "Ntfonjeni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pigg’s_peak",
+      "name": "Pigg’s Peak",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mpolonjeni",
+      "name": "Mpolonjeni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manzini_north",
+      "name": "Manzini North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ndzingeni",
+      "name": "Ndzingeni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mbabane_west",
+      "name": "Mbabane West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/zombodze",
+      "name": "Zombodze",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lugongolweni",
+      "name": "Lugongolweni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kwaluseni",
+      "name": "Kwaluseni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maphalaleni",
+      "name": "Maphalaleni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sithobela",
+      "name": "Sithobela",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lobamba",
+      "name": "Lobamba",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shiselweni_i",
+      "name": "Shiselweni I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lobamba_lomdzala",
+      "name": "Lobamba Lomdzala",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mhlangatane",
+      "name": "Mhlangatane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gege",
+      "name": "Gege",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mangcongco",
+      "name": "Mangcongco",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hosea",
+      "name": "Hosea",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maseyisini",
+      "name": "Maseyisini",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mtfongwaneni",
+      "name": "Mtfongwaneni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mstambama",
+      "name": "Mstambama",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ntondozi",
+      "name": "Ntondozi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahlangatja",
+      "name": "Mahlangatja",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dvokodvweni",
+      "name": "Dvokodvweni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lubulini",
+      "name": "Lubulini",
+      "type": "constituency"
+    },
+    {
+      "id": "area/matsanjeni_north",
+      "name": "Matsanjeni North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lamgabhi",
+      "name": "Lamgabhi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manzini_south",
+      "name": "Manzini South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mhlambanyatsi",
+      "name": "Mhlambanyatsi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/motshane",
+      "name": "Motshane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/matsanjeni_south",
+      "name": "Matsanjeni South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mtsambama",
+      "name": "Mtsambama",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hhukwini",
+      "name": "Hhukwini",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mhlume",
+      "name": "Mhlume",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mayiwane",
+      "name": "Mayiwane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahlangatsha",
+      "name": "Mahlangatsha",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngwemphisi",
+      "name": "Ngwemphisi",
+      "type": "constituency"
     }
   ]
 }
