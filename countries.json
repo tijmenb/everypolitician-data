@@ -1577,19 +1577,36 @@
     "slug": "Italy",
     "legislatures": [
       {
-        "name": "Parlamento",
-        "slug": "Parlamento",
-        "sources_directory": "data/Italy/Parlamento/sources",
-        "popolo": "data/Italy/Parlamento/final.json",
-        "lastmod": "1435698834",
-        "sha": "4ea85c4",
+        "name": "House",
+        "slug": "House",
+        "sources_directory": "data/Italy/House/sources",
+        "popolo": "data/Italy/House/final.json",
+        "lastmod": "1435934165",
+        "sha": "2f19f59",
         "legislative_periods": [
           {
-            "id": "legislatura/17",
+            "id": "term/17",
             "name": "XVII Legislatura",
             "start_date": "2013-03-15",
             "slug": "17",
-            "csv": "data/Italy/Parlamento/term-17.csv"
+            "csv": "data/Italy/House/term-17.csv"
+          }
+        ]
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Italy/Senate/sources",
+        "popolo": "data/Italy/Senate/final.json",
+        "lastmod": "1435934165",
+        "sha": "2f19f59",
+        "legislative_periods": [
+          {
+            "id": "term/17",
+            "name": "XVII Legislatura",
+            "start_date": "2013-03-15",
+            "slug": "17",
+            "csv": "data/Italy/Senate/term-17.csv"
           }
         ]
       }
