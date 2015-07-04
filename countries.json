@@ -726,6 +726,31 @@
     ]
   },
   {
+    "name": "Curaçao",
+    "country": "Curaçao",
+    "code": "CW",
+    "slug": "Curacao",
+    "legislatures": [
+      {
+        "name": "Estates",
+        "slug": "Estates",
+        "sources_directory": "data/Curacao/Estates/sources",
+        "popolo": "data/Curacao/Estates/final.json",
+        "lastmod": "1436032937",
+        "sha": "8311496",
+        "legislative_periods": [
+          {
+            "id": "term/2",
+            "name": "2nd Curaçaoan Estates",
+            "start_date": "2012",
+            "slug": "2",
+            "csv": "data/Curacao/Estates/term-2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Czech Republic",
     "country": "Czech Republic",
     "code": "CZ",
