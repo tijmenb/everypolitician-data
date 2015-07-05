@@ -34,6 +34,11 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(final))
 end
 
+def instructions(key)
+  @instructions ||= json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
+  @instructions[key]
+end
+
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'final.json' ]
 task :default => :csvs
@@ -52,7 +57,7 @@ namespace :whittle do
 
   task :meta_info => :load do
     @json[:meta] ||= {}
-    @json[:meta][:source] = @SOURCE or abort "No @SOURCE defined"
+    @json[:meta][:source] = @SOURCE || instructions(:source) || abort("No @SOURCE defined")
   end
 
   # Remove any 'warnings' left behind from (e.g.) csv-to-popolo

@@ -7,10 +7,7 @@ require_relative 'rakefile_common.rb'
 
 CLOBBER.include(@PARLDATA_RAW_FILE)
 
-if File.exist? @INSTRUCTIONS_FILE
-  instructions = json_load(@INSTRUCTIONS_FILE)
-  @PARLDATA_SRC = instructions[:source] or raise "No `source` in instructions.json"
-end
+@PARLDATA_SRC = instructions(:source) or raise "No `source` in instructions.json"
 
 namespace :raw do
   file @PARLDATA_RAW_FILE do
@@ -51,8 +48,8 @@ namespace :whittle do
   # TODO: push this up to a standardised way to rename any field
   task :write => :standardise_terminology
   task :standardise_terminology => :delete_unwanted_data do
-    if instructions[:faction_classification]
-      @json[:organizations].find_all { |o| o[:classification] == instructions[:faction_classification] }.each do |o|
+    if instructions(:faction_classification)
+      @json[:organizations].find_all { |o| o[:classification] == instructions(:faction_classification) }.each do |o|
         o[:classification] = 'faction'
       end
     end
@@ -91,7 +88,7 @@ namespace :transform do
     terms = @json[:events].find_all { |e| e[:classification] == 'legislative period' } or raise "No terms!"
 
     # Which type of memberships do care about?
-    want_type = instructions[:membership_grouping] || 'party'
+    want_type = instructions(:membership_grouping) || 'party'
     groups    = @json[:organizations].find_all { |h| h[:classification] == want_type }
     groupids  = groups.map { |p| p[:id] }.to_set
 
