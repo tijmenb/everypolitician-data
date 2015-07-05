@@ -1,8 +1,5 @@
 require_relative '../../../rakefile_popit.rb'
 
-@POPIT = 'za-peoples-assembly'
-
-
 @KEEP_ORG_TYPES = %w(executive parliament party)
 
 namespace :whittle do
