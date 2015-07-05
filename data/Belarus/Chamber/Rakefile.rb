@@ -1,42 +1,31 @@
 require_relative '../../../rakefile_morph.rb'
 require 'csv'
 
-# TODO: move these out to a data file
-@remap = {
-  'ZHILINSKY MARAT'       => ['KPB', 'Communist Party of Belarus'],
-  'ZHURAVSKAYA VALENTINA' => ['KPB', 'Communist Party of Belarus'],
-  'KLIMOVICH NATALIA'     => ['KPB', 'Communist Party of Belarus'],
-  'KUBRAKOVA LIUDMILA'    => ['KPB', 'Communist Party of Belarus'],
-  'KUZMICH ALEKSEY'       => ['KPB', 'Communist Party of Belarus'],
-  'LEONENKO VALENTINA'    => ['KPB', 'Communist Party of Belarus'],
-}
-# source = http://www.comparty.by/deputati
+@MERGED_FILE = "sources/merged.csv"
+CLEAN.include(@MERGED_FILE)
 
-namespace :transform do
+namespace :merge do
 
-  def find_or_create_party(data)
-    party_id = data.first.prepend "party/"
-    party = @json[:organizations].find { |o| o[:id] == party_id }
-    return party if party
-    party = {
-      classification: 'party',
-      id: party_id,
-      name: data.last,
-    }
-    @json[:organizations] << party
-    party
-  end
-
-
-  task :ensure_membership_terms do
-    @remap.each do |name, data|
-      party = find_or_create_party(data)
-      person = @json[:persons].find { |p| p[:name] == name }
-
-      @json[:memberships].find_all { |m| m[:person_id] == person[:id] }.each do |m|
-        m[:on_behalf_of_id] = party[:id]
-      end
+  file @MERGED_FILE => @MORPH_DATA_FILE do
+    original = CSV.table(@MORPH_DATA_FILE)
+    override = CSV.table('sources/manual/overrides.csv')
+    override.sort_by { |r| r[:timestamp] }.each do |change|
+      old_row = original.find { |r| r[:id] == change[:id] && r[:term] == change[:term] } or raise "No match for #{change[:id]} in term #{change[:term]}"
+      old_val = old_row[change[:field].to_sym]
+      old_val.to_s == change[:old].to_s or raise "#{change[:field]} is '#{old_val}' not '#{change[:old]}' for #{change[:id]} in term #{change[:term]}"
+      old_row[change[:field].to_sym] = change[:new]
     end
-  end
 
+    header = original.headers.to_csv
+    rows   = original.map { |r| r.to_hash.values.to_csv }
+    csv    = [header, rows].compact.join
+    warn "Creating #{@MERGED_FILE}"
+    File.write(@MERGED_FILE, csv)
+  end
+end
+
+namespace :whittle do
+  task load: @MERGED_FILE do
+    @json = Popolo::CSV.new(@MERGED_FILE).data
+  end
 end
