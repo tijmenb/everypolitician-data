@@ -1180,7 +1180,11 @@
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
-
+        {
+          "classification": "legislative period",
+          "id": "term/2012",
+          "name": "2012"
+        }
       ],
       "name": "Legislature"
     },
@@ -1199,6 +1203,7 @@
         "id": "90",
         "name": "Shklov constituency No. 90 (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35932",
@@ -1209,6 +1214,7 @@
         "id": "98",
         "name": "Grushevo constituency No. 98 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35933",
@@ -1219,6 +1225,7 @@
         "id": "22",
         "name": "Dokshytsy constituency No. 22  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35934",
@@ -1229,6 +1236,7 @@
         "id": "40",
         "name": "Zhlobin constituency No. 40 (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35935",
@@ -1239,6 +1247,7 @@
         "id": "4",
         "name": "Brest-border constituency No. 4 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35936",
@@ -1249,6 +1258,7 @@
         "id": "49",
         "name": "Grodno-Zanemansky constituency No. 49  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35937",
@@ -1259,6 +1269,7 @@
         "id": "3",
         "name": "Brest-Eastern Constituency No. 3  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35938",
@@ -1269,6 +1280,7 @@
         "id": "66",
         "name": "Kopyl constituency No. 66 (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35939",
@@ -1279,6 +1291,7 @@
         "id": "93",
         "name": "Vasnetsovsky constituency No. 93 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35940",
@@ -1289,6 +1302,7 @@
         "id": "19",
         "name": "Vitebsk-Zheleznodorozhny constituency No. 19  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35941",
@@ -1299,6 +1313,7 @@
         "id": "107",
         "name": "Vostochny constituency No. 107 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35942",
@@ -1309,6 +1324,7 @@
         "id": "109",
         "name": "Urutchsky constituency No. 109 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35943",
@@ -1319,6 +1335,7 @@
         "id": "1",
         "name": "Brest-Western constituency No. 1 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35944",
@@ -1329,6 +1346,7 @@
         "id": "84",
         "name": "Mogilev-Lenin constituency No. 84 (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35945",
@@ -1339,6 +1357,7 @@
         "id": "44",
         "name": "Rechitsa constituency No. 44 (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35946",
@@ -1349,6 +1368,7 @@
         "id": "13",
         "name": "Luninets constituency number 13 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35947",
@@ -1359,6 +1379,7 @@
         "id": "82",
         "name": "Goretsky constituency No. 82  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35948",
@@ -1369,6 +1390,7 @@
         "id": "18",
         "name": "Vitebsk-Chkalovsky constituency No. 18  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35949",
@@ -1379,6 +1401,7 @@
         "id": "110",
         "name": "Partizansky constituency No. 110 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35950",
@@ -1389,6 +1412,7 @@
         "id": "65",
         "name": "Pukhovichy constituency No. 65 (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35951",
@@ -1399,6 +1423,7 @@
         "id": "17",
         "name": "Vitebsk-Gorkovsky constituency No. 17 (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35952",
@@ -1409,6 +1434,7 @@
         "id": "28",
         "name": "Polotsk municipal constituency No. 28 (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35954",
@@ -1419,6 +1445,7 @@
         "id": "63",
         "name": "Borisov rural constituency district No. 63 (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35956",
@@ -1429,6 +1456,7 @@
         "id": "54",
         "name": "Lida constituency No. 54 (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35957",
@@ -1439,6 +1467,7 @@
         "id": "69",
         "name": "Soligorsk rural constituency district No. 69 (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35958",
@@ -1449,6 +1478,7 @@
         "id": "25",
         "name": "Novopolotsk constituency No. 25 (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35959",
@@ -1459,6 +1489,7 @@
         "id": "27",
         "name": "Orsha-Dnepr constituency No. 27 (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35960",
@@ -1469,6 +1500,7 @@
         "id": "26",
         "name": "Orsha municipal constituency No. 26 (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35961",
@@ -1479,6 +1511,7 @@
         "id": "10",
         "name": "Dnepr-Bug constituency No. 10 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35962",
@@ -1489,6 +1522,7 @@
         "id": "92",
         "name": "Avtozavod constituency No. 92  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35963",
@@ -1499,6 +1533,7 @@
         "id": "55",
         "name": "Dyatlovo constituency No. 55 (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35964",
@@ -1509,6 +1544,7 @@
         "id": "108",
         "name": "Kalinovsky constituency No. 108 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35965",
@@ -1519,6 +1555,7 @@
         "id": "32",
         "name": "Gomel-Selmash constituency No. 32  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35966",
@@ -1529,6 +1566,7 @@
         "id": "103",
         "name": "Matusevichsky constituency No. 103 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35967",
@@ -1539,6 +1577,7 @@
         "id": "12",
         "name": "Kobrin constituency No. 12 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35968",
@@ -1549,6 +1588,7 @@
         "id": "70",
         "name": "Stolbtsy constituency No. 70 (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35969",
@@ -1559,6 +1599,7 @@
         "id": "67",
         "name": "Slutsk constituency No. 67 (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35970",
@@ -1569,6 +1610,7 @@
         "id": "96",
         "name": "Chkalovsky constituency No. 96  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35971",
@@ -1579,6 +1621,7 @@
         "id": "11",
         "name": "Ivatsevichy constituency No. 11 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35972",
@@ -1589,6 +1632,7 @@
         "id": "59",
         "name": "Smorgon constituency No. 59 (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35973",
@@ -1599,6 +1643,7 @@
         "id": "89",
         "name": "Osipovichy constituency No. 89 (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35974",
@@ -1609,6 +1654,7 @@
         "id": "81",
         "name": "Bykhov constituency No. 81 (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35975",
@@ -1619,6 +1665,7 @@
         "id": "43",
         "name": "Polesye constituency No. 43 (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35991",
@@ -1629,6 +1676,7 @@
         "id": "56",
         "name": "Mosty constituency No. 56 (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35992",
@@ -1639,6 +1687,7 @@
         "id": "83",
         "name": "Krichev constituency No. 83 (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35993",
@@ -1649,6 +1698,7 @@
         "id": "62",
         "name": "Borisov rural constituency No. 62  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35994",
@@ -1659,6 +1709,7 @@
         "id": "102",
         "name": "Zapadny constituency No. 102 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35995",
@@ -1669,6 +1720,7 @@
         "id": "101",
         "name": "Frunzensky constituency No. 101 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35996",
@@ -1679,6 +1731,7 @@
         "id": "73",
         "name": "Molodechno rural constituency No. 73  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35997",
@@ -1689,6 +1742,7 @@
         "id": "53",
         "name": "Ivye constituency No. 53  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35998",
@@ -1699,6 +1753,7 @@
         "id": "72",
         "name": "Molodechno municipal constituency No. 72  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/35999",
@@ -1709,6 +1764,7 @@
         "id": "76",
         "name": "Minsk rural constituency No. 76  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36000",
@@ -1719,6 +1775,7 @@
         "id": "33",
         "name": "Gomel-Central constituency No. 33 (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36001",
@@ -1729,6 +1786,7 @@
         "id": "95",
         "name": "Kupalovsky constituency No. 95  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36002",
@@ -1739,6 +1797,7 @@
         "id": "51",
         "name": "Grodno-Nothern constituency No. 51 (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36003",
@@ -1749,6 +1808,7 @@
         "id": "35",
         "name": "Gomel-Promishlenny No. 35  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36004",
@@ -1759,6 +1819,7 @@
         "id": "14",
         "name": "Pinsk municipal constituency No. 14  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36005",
@@ -1769,6 +1830,7 @@
         "id": "52",
         "name": "Grodno rural constituency No. 52  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36006",
@@ -1779,6 +1841,7 @@
         "id": "2",
         "name": "Brest-Central constituency No. 2 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36007",
@@ -1789,6 +1852,7 @@
         "id": "39",
         "name": "Zhitkovichy constituency No. 39  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36008",
@@ -1799,6 +1863,7 @@
         "id": "50",
         "name": "Grodno-Central constituency No. 50  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36009",
@@ -1809,6 +1874,7 @@
         "id": "79",
         "name": "Bobruisk-Pervomaysky constituency No. 79  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36010",
@@ -1819,6 +1885,7 @@
         "id": "94",
         "name": "Svisloch constituency No. 94  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36011",
@@ -1829,6 +1896,7 @@
         "id": "29",
         "name": "Sharkovshchina constituency No. 29  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36012",
@@ -1839,6 +1907,7 @@
         "id": "75",
         "name": "Logoisk constituency No. 75  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36013",
@@ -1849,6 +1918,7 @@
         "id": "77",
         "name": "Zaslavl constituency No. 77  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36014",
@@ -1859,6 +1929,7 @@
         "id": "57",
         "name": "Novogrudok constituency No. 57  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36015",
@@ -1869,6 +1940,7 @@
         "id": "37",
         "name": "Gomel rural constituency No. 37  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36016",
@@ -1879,6 +1951,7 @@
         "id": "91",
         "name": "Shabany constituency No. 91  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36017",
@@ -1889,6 +1962,7 @@
         "id": "68",
         "name": "Soligorsk town constituency No. 68  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36018",
@@ -1899,6 +1973,7 @@
         "id": "100",
         "name": "Eseninsky constituency No. 100  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36019",
@@ -1909,6 +1984,7 @@
         "id": "24",
         "name": "Polotsk rural constituency No. 24 (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36020",
@@ -1919,6 +1995,7 @@
         "id": "78",
         "name": "Bobruisk - Lenin constituency No. 78  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36021",
@@ -1929,6 +2006,7 @@
         "id": "15",
         "name": "Pinsk rural constituency No. 15  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36022",
@@ -1939,6 +2017,7 @@
         "id": "5",
         "name": "Baranovichy  Zapadny constituency No. 5  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36023",
@@ -1949,6 +2028,7 @@
         "id": "30",
         "name": "Senno constituency No. 30  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36024",
@@ -1959,6 +2039,7 @@
         "id": "34",
         "name": "Gomel - Sovietsky constituency No. 34  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36025",
@@ -1969,6 +2050,7 @@
         "id": "8",
         "name": "Belovezhsky constituency No. 8  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36026",
@@ -1979,6 +2061,7 @@
         "id": "42",
         "name": "Mozyr constituency No. 42  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36027",
@@ -1989,6 +2072,7 @@
         "id": "88",
         "name": "Mogilev rural constituency No. 88  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36028",
@@ -1999,6 +2083,7 @@
         "id": "74",
         "name": "Vileika constituency No.74  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36029",
@@ -2009,6 +2094,7 @@
         "id": "104",
         "name": "Kalvariysky constituency No. 104 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36030",
@@ -2019,6 +2105,7 @@
         "id": "105",
         "name": "Starovilensky constituency No. 105  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36031",
@@ -2029,6 +2116,7 @@
         "id": "48",
         "name": "Volkovysk constituency No. 48 (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36032",
@@ -2039,6 +2127,7 @@
         "id": "85",
         "name": "Mogilev  Central constituency No. 85  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36033",
@@ -2049,6 +2138,7 @@
         "id": "58",
         "name": "Slonim constituency No. 58  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36034",
@@ -2059,6 +2149,7 @@
         "id": "87",
         "name": "Mogilev  Promyshlenny constituency No. 87  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36035",
@@ -2069,6 +2160,7 @@
         "id": "86",
         "name": "Mogilev  Oktyabrsky constituency No. 86  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36036",
@@ -2079,6 +2171,7 @@
         "id": "6",
         "name": "Baranovichy  Eastern constituency No. 6 (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36037",
@@ -2089,6 +2182,7 @@
         "id": "41",
         "name": "Kalinkovichy constituency No. 41  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36038",
@@ -2099,6 +2193,7 @@
         "id": "60",
         "name": "Shchuchin constituency No. 60  (Grodno region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36039",
@@ -2109,6 +2204,7 @@
         "id": "31",
         "name": "Gomel  Yubileyny constituency No. 31 (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36040",
@@ -2119,6 +2215,7 @@
         "id": "46",
         "name": "Svetlogorsk constituency No. 46  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36041",
@@ -2129,6 +2226,7 @@
         "id": "64",
         "name": "Zhodino constituency No. 64  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36058",
@@ -2139,6 +2237,7 @@
         "id": "20",
         "name": "Vitebsk - Oktyabrsky constituency No. 20  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36059",
@@ -2149,6 +2248,7 @@
         "id": "71",
         "name": "Dzerzhinsk constituency No. 71  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36060",
@@ -2159,6 +2259,7 @@
         "id": "47",
         "name": "Khoiniki constituency No. 47  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36061",
@@ -2169,6 +2270,7 @@
         "id": "97",
         "name": "Oktiabrsky constituency No. 97 (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36062",
@@ -2179,6 +2281,7 @@
         "id": "80",
         "name": "Bobruisk rural constituency No. 80  (Mogilev region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36063",
@@ -2189,6 +2292,7 @@
         "id": "106",
         "name": "Kolasovsky constituency No. 106  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36064",
@@ -2199,6 +2303,7 @@
         "id": "23",
         "name": "Lepel constituency No. 23  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36065",
@@ -2209,6 +2314,7 @@
         "id": "99",
         "name": "South-West constituency No. 99  (Minsk city)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36066",
@@ -2219,6 +2325,7 @@
         "id": "21",
         "name": "Vitebsk rural constituency No. 21  (Vitebsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36067",
@@ -2229,6 +2336,7 @@
         "id": "38",
         "name": "Buda-Koshelevo constituency No. 38  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36068",
@@ -2239,6 +2347,7 @@
         "id": "45",
         "name": "Rogachev constituency No. 45  (Gomel region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36069",
@@ -2249,6 +2358,7 @@
         "id": "61",
         "name": "Berezino constituency No. 61  (Minsk region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36070",
@@ -2259,6 +2369,7 @@
         "id": "9",
         "name": "Pruzhany constituency No. 9  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36071",
@@ -2269,6 +2380,7 @@
         "id": "7",
         "name": "Baranovichy rural constituency No. 7  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36072",
@@ -2279,6 +2391,7 @@
         "id": "16",
         "name": "Stolin constituency No. 16  (Brest region)"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "chamber/house_of_representatives",
       "person_id": "person/36073",
