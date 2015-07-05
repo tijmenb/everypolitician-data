@@ -296,3 +296,13 @@ namespace :term_csvs do
 
 end
 
+desc "Make the Parldata instructions.json file"
+task :generate_instructions_file do
+  data = { 
+    source: @PARLDATA,
+    faction_classification: @FACTION_CLASSIFICATION,
+  }.reject { |_,v| v.empty? }
+  require 'fileutils'
+  FileUtils.mkpath 'sources/parldata'
+  File.write('sources/parldata/instructions.json', JSON.pretty_generate(data))
+end
