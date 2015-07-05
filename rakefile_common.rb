@@ -34,6 +34,12 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(final))
 end
 
+def instructions(key)
+  @instructions ||= json_load(@INSTRUCTIONS_FILE)
+  raise "No `#{key}` in instructions.json" unless @instructions.key? key
+  @instructions[key]
+end
+
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'final.json' ]
 task :default => :csvs
