@@ -11,13 +11,8 @@ task :raw => 'popit.json'
 
 CLOBBER.include(@POPIT_RAW_FILE)
 
-if File.exist? @INSTRUCTIONS_FILE
-  @instructions = json_load(@INSTRUCTIONS_FILE)
-  raise "No `source` in instructions.json" unless @instructions.key? :source
-end
-
 def popit_source 
-  "https://%s.popit.mysociety.org/api/v0.1/export.json" % @instructions[:source]
+  "https://%s.popit.mysociety.org/api/v0.1/export.json" % instructions(:source)
 end
 
 namespace :raw do
