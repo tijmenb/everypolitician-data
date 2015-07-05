@@ -1,4 +1,5 @@
 {
   "source": "duncanparkes/belarus",
+  "query": "SELECT *, 2012 as term FROM data",
   "fetch_terms": false
 }
