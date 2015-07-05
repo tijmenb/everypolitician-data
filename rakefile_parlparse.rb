@@ -3,11 +3,7 @@ require_relative 'rakefile_common.rb'
 require 'colorize'
 
 @TWFY_RAW_FILE = 'sources/parlparse/twfy.json'
-
-if (File.exist? 'meta.json')
-  @LEGISLATURE = JSON.parse(File.read('meta.json'), symbolize_names: true )
-end
-
+@META = JSON.parse(File.read('meta.json'), symbolize_names: true )
 
 namespace :raw do
   file @TWFY_RAW_FILE do
@@ -21,7 +17,7 @@ namespace :whittle do
   file 'clean.json' => @TWFY_RAW_FILE
   task :load => @TWFY_RAW_FILE do
     @SOURCE = "http://www.theyworkforyou.com/"
-    @HOUSE_ID = @LEGISLATURE[:name].downcase.tr(' ','-')
+    @HOUSE_ID = @META[:name].downcase.tr(' ','-')
 
     @json = JSON.parse(File.read(@TWFY_RAW_FILE), { symbolize_names: true })
     @json[:organizations] << {

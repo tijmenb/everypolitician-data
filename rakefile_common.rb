@@ -105,21 +105,15 @@ namespace :transform do
 
   #---------------------------------------------------------------------
   # Rule: The legislature must be named
+  #   Get this from the meta.json file
   #---------------------------------------------------------------------
   task :write => :name_legislature
   task :name_legislature => :ensure_legislature do
-    # Read legislature meta-info
-    if (File.exist? 'meta.json')
-      @LEGISLATURE = JSON.parse(File.read('meta.json'), symbolize_names: true )
-    end
-    # Or (old way) be defined in the Legislature's Rakefile TODO: remove
-    if (@LEGISLATURE)
-      leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
-      raise "More than one legislature exists" if leg.count > 1
-      # Don't pass through the seat count until we work out how to do this properly
-      leg.first.merge! @LEGISLATURE
-    end
-
+    raise "No meta.json file available" unless File.exist? 'meta.json'
+    meta_info = JSON.parse(File.read('meta.json'), symbolize_names: true )
+    leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
+    raise "More than one legislature exists" if leg.count > 1
+    leg.first.merge! meta_info
   end
 
   #---------------------------------------------------------------------
@@ -297,12 +291,3 @@ namespace :term_csvs do
 
 end
 
-
-desc "Make the meta.json file for a legislature"
-task :generate_meta_file do
-  data = @LEGISLATURE 
-  raise "No name" unless data[:name]
-  raise "No seat count" unless data[:seats]
-  require 'fileutils'
-  File.write('meta.json', JSON.pretty_generate(data))
-end
