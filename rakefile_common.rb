@@ -301,6 +301,7 @@ task :generate_instructions_file do
   data = { 
     source: @PARLDATA,
     faction_classification: @FACTION_CLASSIFICATION,
+    membership_grouping: @MEMBERSHIP_GROUPING,
   }.reject { |_,v| v.empty? }
   require 'fileutils'
   FileUtils.mkpath 'sources/parldata'

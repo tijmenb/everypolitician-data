@@ -91,7 +91,7 @@ namespace :transform do
     terms = @json[:events].find_all { |e| e[:classification] == 'legislative period' } or raise "No terms!"
 
     # Which type of memberships do care about?
-    want_type = @MEMBERSHIP_GROUPING || 'party'
+    want_type = instructions[:membership_grouping] || 'party'
     groups    = @json[:organizations].find_all { |h| h[:classification] == want_type }
     groupids  = groups.map { |p| p[:id] }.to_set
 
