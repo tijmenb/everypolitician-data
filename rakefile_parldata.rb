@@ -1,33 +1,34 @@
 
 require_relative 'rakefile_common.rb'
 
+@SOURCE_DIR = 'sources/parldata'
+@PARLDATA_RAW_FILE = @SOURCE_DIR + '/raw.json'
+@INSTRUCTIONS_FILE = @SOURCE_DIR + '/instructions.json'
+
+CLOBBER.include(@PARLDATA_RAW_FILE)
+
+if File.exist? @INSTRUCTIONS_FILE
+  instructions = json_load(@INSTRUCTIONS_FILE)
+  @PARLDATA_SRC = instructions[:source] or raise "No `source` in instructions.json"
+end
+
 namespace :raw do
-
-  @PARLDATA_RAW_FILE = 'sources/parldata/raw.json'
-
   file @PARLDATA_RAW_FILE do
     venv_path = ENV['PARLDATA_VENV'] or raise "PARLDATA_VENV must be set to a virtualenv"
     venv_python = venv_path + "/bin/python"
     File.exist? venv_python or raise "No `python` binary found at #{venv_python}"
 
-    [@PARLDATA].flatten.each_with_index do |house, i|
-      fetcher = File.expand_path("../bin/parldataeu.py", __FILE__)
-      cmd = [venv_python, fetcher, house].join ' '
-
-      outfile = 'raw'
-      outfile << "-#{house.split('/').last}" unless i.zero?
-
-      data = %x[ #{cmd} ]
-      File.write("sources/parldata/#{outfile}.json", data)
-    end
+    fetcher = File.expand_path("../bin/parldataeu.py", __FILE__)
+    cmd = [venv_python, fetcher, @PARLDATA_SRC].join ' '
+    data = %x[ #{cmd} ]
+    File.write(@PARLDATA_RAW_FILE, data)
   end
-
 end
     
 namespace :whittle do
 
   task :load => @PARLDATA_RAW_FILE do
-    @SOURCE = 'http://api.parldata.eu/' + [@PARLDATA].flatten.first
+    @SOURCE = 'http://api.parldata.eu/' + @PARLDATA_SRC
     @json = JSON.load(File.read(@PARLDATA_RAW_FILE), lambda { |h|
       if h.class == Hash 
         h.reject! { |_, v| v.nil? or v.empty? }
@@ -50,8 +51,8 @@ namespace :whittle do
   # TODO: push this up to a standardised way to rename any field
   task :write => :standardise_terminology
   task :standardise_terminology => :delete_unwanted_data do
-    if @FACTION_CLASSIFICATION
-      @json[:organizations].find_all { |o| o[:classification] == @FACTION_CLASSIFICATION }.each do |o|
+    if instructions[:faction_classification]
+      @json[:organizations].find_all { |o| o[:classification] == instructions[:faction_classification] }.each do |o|
         o[:classification] = 'faction'
       end
     end
