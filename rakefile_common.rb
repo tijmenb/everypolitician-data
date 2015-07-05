@@ -36,7 +36,6 @@ end
 
 def instructions(key)
   @instructions ||= json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
-  raise "No `#{key}` in instructions.json" unless @instructions.key? key
   @instructions[key]
 end
 
