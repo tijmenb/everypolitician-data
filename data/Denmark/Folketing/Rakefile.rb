@@ -1,7 +1,5 @@
 require_relative '../../../rakefile_popit.rb'
 
-@POPIT = 'denmark'
-
 namespace :whittle do
 
   task :no_orphaned_memberships => :dk_remove_not_current
