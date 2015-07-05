@@ -8,12 +8,6 @@ require 'json'
 require 'pry'
 require 'rake/clean'
 
-def json_load(file)
-  return unless File.exist? file
-  JSON.parse(File.read(file), symbolize_names: true)
-end
-
-
 @SOURCE_DIR = 'sources/morph'
 CLOBBER.include(FileList.new('sources/morph/*.csv'))
 

@@ -20,6 +20,11 @@ def deep_sort(element)
   end
 end
 
+def json_load(file)
+  return unless File.exist? file
+  JSON.parse(File.read(file), symbolize_names: true)
+end
+
 def json_write(file, json)
   # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
