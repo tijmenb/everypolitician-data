@@ -295,13 +295,3 @@ namespace :term_csvs do
   end
 
 end
-
-desc "Make the Popit instructions.json file"
-task :generate_instructions_file do
-  data = { 
-    source: @POPIT,
-  }.reject { |_,v| v.to_s.empty? }
-  require 'fileutils'
-  FileUtils.mkpath 'sources/popit'
-  File.write('sources/popit/instructions.json', JSON.pretty_generate(data))
-end
