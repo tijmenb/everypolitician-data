@@ -2503,6 +2503,32 @@
     ]
   },
   {
+    "name": "Philippines",
+    "country": "Philippines",
+    "code": "PH",
+    "slug": "Philippines",
+    "legislatures": [
+      {
+        "name": "House",
+        "slug": "House",
+        "sources_directory": "data/Philippines/House/sources",
+        "popolo": "data/Philippines/House/final.json",
+        "lastmod": "1436096028",
+        "sha": "1a33a5e",
+        "legislative_periods": [
+          {
+            "end_date": "2016-06-30",
+            "id": "term/16",
+            "name": "16th Congress of the Philippines",
+            "start_date": "2013-06-30",
+            "slug": "16",
+            "csv": "data/Philippines/House/term-16.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Portugal",
     "country": "Portugal",
     "code": "PT",
