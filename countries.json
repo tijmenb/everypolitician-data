@@ -1819,6 +1819,31 @@
     ]
   },
   {
+    "name": "Libya",
+    "country": "Libya",
+    "code": "LY",
+    "slug": "Libya",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Libya/House_of_Representatives/sources",
+        "popolo": "data/Libya/House_of_Representatives/final.json",
+        "lastmod": "1436184216",
+        "sha": "62d55d0",
+        "legislative_periods": [
+          {
+            "id": "term/1",
+            "name": "1st House of Representatives",
+            "start_date": "2014-08-04",
+            "slug": "1",
+            "csv": "data/Libya/House_of_Representatives/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Madagascar",
     "country": "Madagascar",
     "code": "MG",
