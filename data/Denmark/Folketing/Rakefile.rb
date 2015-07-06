@@ -27,10 +27,10 @@ namespace :transform do
     }
     @json[:organizations].each do |o|
       if fullname = parties[o[:name]]
-        o[:other_names] = [{
-          name: o[:name],
-        }]
+        oldid = o[:id]
+        o[:id] = o[:name]
         o[:name] = fullname
+        @json[:memberships].each { |m| m[:on_behalf_of_id] = o[:id] if m[:on_behalf_of_id] == oldid }
       end 
     end
   end
