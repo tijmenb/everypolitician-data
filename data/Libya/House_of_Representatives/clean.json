@@ -2838,6 +2838,11 @@
   ],
   "organizations": [
     {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
@@ -2848,11 +2853,6 @@
         }
       ],
       "name": "Legislature"
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {
@@ -2866,7 +2866,7 @@
       },
       "end_date": "2014-08-04",
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulaghani_hasan_milad_altoumi",
       "role": "member"
@@ -2877,7 +2877,7 @@
         "name": "Zliten"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulghani_ahmed_alfthisi",
       "role": "member"
@@ -2888,7 +2888,7 @@
         "name": "Awbari"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulhafid_muhammed_alsaghir",
       "role": "member"
@@ -2899,7 +2899,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdullah_housein_allafi",
       "role": "member"
@@ -2910,7 +2910,7 @@
         "name": "Wadi Ashathi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdullah_muhammed_lehmish",
       "role": "member"
@@ -2921,7 +2921,7 @@
         "name": "Ajaylat"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulmun'aim_emar_balkour",
       "role": "member"
@@ -2932,7 +2932,7 @@
         "name": "Msallatah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulmun'aim_faraj_alfaqih",
       "role": "member"
@@ -2943,7 +2943,7 @@
         "name": "Merj"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulmunaim_jum'aa_hasan",
       "role": "member"
@@ -2954,7 +2954,7 @@
         "name": "Bayda"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulmuthalib_idris_hamed",
       "role": "member"
@@ -2965,7 +2965,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulnabi_albashir_abdulmawla",
       "role": "member"
@@ -2976,7 +2976,7 @@
         "name": "Khoms City"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulnaser_alameen_alna'as",
       "role": "member"
@@ -2987,7 +2987,7 @@
         "name": "Tripoli: Ain Zara"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulnaser_bashir_bennafi'a",
       "role": "member"
@@ -2998,7 +2998,7 @@
         "name": "Ghadamis"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulqader_bashir_hibah",
       "role": "member"
@@ -3009,7 +3009,7 @@
         "name": "Awbari"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulqader_hasen_sulieman",
       "role": "member"
@@ -3020,7 +3020,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulrahman_alhshibani_alsweihli",
       "role": "member"
@@ -3031,7 +3031,7 @@
         "name": "Tripoli: Abu Salim"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulraouf_ibrahim_almana'ai",
       "role": "member"
@@ -3042,7 +3042,7 @@
         "name": "Zintan"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulsalam_abdullah_nasiyah",
       "role": "member"
@@ -3053,7 +3053,7 @@
         "name": "Awbari"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulsalam_muhammed_ali",
       "role": "member"
@@ -3064,7 +3064,7 @@
         "name": "Alasab'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulwahhab_omar_zoliyah",
       "role": "member"
@@ -3076,7 +3076,7 @@
       },
       "end_date": "2014-08-04",
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abdulwahid_emar_'aashour_alqadi",
       "role": "member"
@@ -3087,7 +3087,7 @@
         "name": "Wadi Ashathi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abosalah_abdulsalam_shalbi",
       "role": "member"
@@ -3098,7 +3098,7 @@
         "name": "Tripoli: Tajoura"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aboualkhayer_alsha'ab_belkhayer",
       "role": "member"
@@ -3109,7 +3109,7 @@
         "name": "Tarhunah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aboubaker_ahmed_saleh",
       "role": "member"
@@ -3120,7 +3120,7 @@
         "name": "Khoms Coast"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aboubaker_ibrahim_milad",
       "role": "member"
@@ -3131,7 +3131,7 @@
         "name": "Sirte"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aboubaker_omar_muhammed",
       "role": "member"
@@ -3142,7 +3142,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/abubaker_mustafa_b'airah",
       "role": "member"
@@ -3153,7 +3153,7 @@
         "name": "Bayda"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/adam_saleh_busakhra",
       "role": "member"
@@ -3164,7 +3164,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/adel_faraj_ibrahim_althirah",
       "role": "member"
@@ -3175,7 +3175,7 @@
         "name": "Ajaylat"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/adel_mawloud_mahfoud",
       "role": "member"
@@ -3186,7 +3186,7 @@
         "name": "Msallatah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/adnan_fouzi_alsha'ab",
       "role": "member"
@@ -3197,7 +3197,7 @@
         "name": "Qubah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/agila_saleh_egwaider",
       "role": "member"
@@ -3208,7 +3208,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ahlam_muhammed_allafi",
       "role": "member"
@@ -3219,7 +3219,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ahmed_alsharef_rhouma",
       "role": "member"
@@ -3230,7 +3230,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ahmed_shihoub_alwahdi",
       "role": "member"
@@ -3241,7 +3241,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aisha_almahdi_shalabi",
       "role": "member"
@@ -3252,7 +3252,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aisha_yousef_althbelqi",
       "role": "member"
@@ -3263,7 +3263,7 @@
         "name": "Kikla + Qal'ah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/akram_esa_omar_khalifa",
       "role": "member"
@@ -3274,7 +3274,7 @@
         "name": "Wadi Ashathi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/alhadi_ali_alsaghir",
       "role": "member"
@@ -3285,7 +3285,7 @@
         "name": "Tripoli: Ain Zara"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_ahmed_ali_altekali",
       "role": "member"
@@ -3296,7 +3296,7 @@
         "name": "Wadi Ashathi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_als'aidi_alqaidi",
       "role": "member"
@@ -3307,7 +3307,7 @@
         "name": "Abyar"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_faraj_ibrahim_khaled",
       "role": "member"
@@ -3318,7 +3318,7 @@
         "name": "Kabaw"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_khalifa_al'aisawi",
       "role": "member"
@@ -3329,7 +3329,7 @@
         "name": "Castelverde"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_khalifa_salem_alsoul",
       "role": "member"
@@ -3340,7 +3340,7 @@
         "name": "Mseihel + Alsaeh + Sbi'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_muftah_omar_almjdoub",
       "role": "member"
@@ -3351,7 +3351,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_muhammed_hasan_abozriba",
       "role": "member"
@@ -3362,7 +3362,7 @@
         "name": "Aziziyah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_muhammed_housein_kshir",
       "role": "member"
@@ -3373,7 +3373,7 @@
         "name": "Tripoli Centre"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_omar_aboalqasem_altekbali",
       "role": "member"
@@ -3384,7 +3384,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_ramadan_abuz'akouk",
       "role": "member"
@@ -3395,7 +3395,7 @@
         "name": "Tripoli: Hay Alandulus"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ali_rhouma_alsaba'ai",
       "role": "member"
@@ -3406,7 +3406,7 @@
         "name": "Sabratah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/almabrouk_abdullah_alkabir",
       "role": "member"
@@ -3417,7 +3417,7 @@
         "name": "Um-Alaraneb"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/almahdi_masoud_al'awer",
       "role": "member"
@@ -3428,7 +3428,7 @@
         "name": "Cyrene"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/almuntasir_sa'ad_'ali",
       "role": "member"
@@ -3439,7 +3439,7 @@
         "name": "Tripoli: Tajoura"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/alsadeq_ali_alkahili",
       "role": "member"
@@ -3450,7 +3450,7 @@
         "name": "Tripoli: Ben Ghashir"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/alsadeq_muhammed_idris",
       "role": "member"
@@ -3461,7 +3461,7 @@
         "name": "Tripoli: Souq Aljum'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/alsadiq_muftah_hmoudah",
       "role": "member"
@@ -3472,7 +3472,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/amal_muhammed_b'ayyu",
       "role": "member"
@@ -3483,7 +3483,7 @@
         "name": "Sidra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/amer_omran_aboubaker",
       "role": "member"
@@ -3494,7 +3494,7 @@
         "name": "Tripoli: Ain Zara"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/asma_mahmoud_alkhouja",
       "role": "member"
@@ -3505,7 +3505,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/asmahan_abdulqader_bela'oun",
       "role": "member"
@@ -3516,7 +3516,7 @@
         "name": "Tobruk"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/assalhin_abdannabi_sa'ad",
       "role": "member"
@@ -3527,7 +3527,7 @@
         "name": "Gharyan"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/asseyyedah_kamel_aly'aqoubi",
       "role": "member"
@@ -3538,7 +3538,7 @@
         "name": "Janzur"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aymen_almbrouk_saif_alnaser",
       "role": "member"
@@ -3549,7 +3549,7 @@
         "name": "Sirte"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/aziza_kerkrah_abousetta",
       "role": "member"
@@ -3560,7 +3560,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/bader_ali_sulieman_musa",
       "role": "member"
@@ -3571,7 +3571,7 @@
         "name": "Janzur"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/bashir_ali_sa'ad_alahmar",
       "role": "member"
@@ -3582,7 +3582,7 @@
         "name": "Batin Aljabal"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ehfid_khalifa_shaninah",
       "role": "member"
@@ -3593,7 +3593,7 @@
         "name": "Tmassah - Zawilah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ehmid_hamed_ali_houma",
       "role": "member"
@@ -3604,7 +3604,7 @@
         "name": "Zliten"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/emar_milad_rajab_alablaq",
       "role": "member"
@@ -3615,7 +3615,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/emarah_ali_hasan_shenbaro",
       "role": "member"
@@ -3626,7 +3626,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/emhamed_ali_belqasem_sh'aib",
       "role": "member"
@@ -3637,7 +3637,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/esa_muhammed_al'aribi",
       "role": "member"
@@ -3648,7 +3648,7 @@
         "name": "Zliten"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ezeddine_abdulsalam_qweireb",
       "role": "member"
@@ -3659,7 +3659,7 @@
         "name": "Swani Ben Adam"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ezeddine_musbah_aborawi",
       "role": "member"
@@ -3670,7 +3670,7 @@
         "name": "Tripoli: Hay Alandulus"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/faez_mustafa_fouzi_alsaraj",
       "role": "member"
@@ -3681,7 +3681,7 @@
         "name": "Mizdah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fahmi_abdulrahman_altawati",
       "role": "member"
@@ -3692,7 +3692,7 @@
         "name": "Merj"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/faraj_abdullah_hashem",
       "role": "member"
@@ -3703,7 +3703,7 @@
         "name": "Sabratah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/faraj_bashir_abdulmalik",
       "role": "member"
@@ -3714,7 +3714,7 @@
         "name": "Ajdabiya"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fathallah_housein_abdulkarim",
       "role": "member"
@@ -3725,7 +3725,7 @@
         "name": "Awjilah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fathi_abdulrahim_alqabasi",
       "role": "member"
@@ -3736,7 +3736,7 @@
         "name": "Qasr Alakhyar"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fathi_abdulsalam_alsharif",
       "role": "member"
@@ -3747,7 +3747,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fathi_ali_bashagha",
       "role": "member"
@@ -3758,7 +3758,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fatima_aboubaker_abousa'adah",
       "role": "member"
@@ -3769,7 +3769,7 @@
         "name": "Awjilah + Jalu + Jakharrad"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fatima_ahmed_karis",
       "role": "member"
@@ -3780,7 +3780,7 @@
         "name": "Awbari"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fatimah_abdulsalam_alsou'ai",
       "role": "member"
@@ -3791,7 +3791,7 @@
         "name": "Surman"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fouzi_althaher_alnweiry",
       "role": "member"
@@ -3802,7 +3802,7 @@
         "name": "Tripoli Centre"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/fouziyyah_muhammed_aboghalya",
       "role": "member"
@@ -3813,7 +3813,7 @@
         "name": "Ajdabiya + Brega"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/friha_abdulsalam_alhadiri",
       "role": "member"
@@ -3824,7 +3824,7 @@
         "name": "Jalu + Jakharrad"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hamed_muhammed_maqiq",
       "role": "member"
@@ -3835,7 +3835,7 @@
         "name": "Tripoli Centre"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hamoudah_ahmed_sayyala",
       "role": "member"
@@ -3846,7 +3846,7 @@
         "name": "Tripoli: Hay Alandulus"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hana_khalifa_khalid_abodeib",
       "role": "member"
@@ -3857,7 +3857,7 @@
         "name": "Mesratha (Misrata)"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hanan_muhammed_shlouf",
       "role": "member"
@@ -3868,7 +3868,7 @@
         "name": "Awbari"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hasen_abubaker_omar_saleh",
       "role": "member"
@@ -3879,7 +3879,7 @@
         "name": "Tarhunah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hasen_alfurjani_salem",
       "role": "member"
@@ -3890,7 +3890,7 @@
         "name": "Bani Walid"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hasen_althaher_musbah",
       "role": "member"
@@ -3901,7 +3901,7 @@
         "name": "Sirte"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hasen_saleh_alzarqa",
       "role": "member"
@@ -3913,7 +3913,7 @@
       },
       "end_date": "2014-08-04",
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/hujrah_abdulsalam_eskenda",
       "role": "member"
@@ -3924,7 +3924,7 @@
         "name": "Gmines"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibrahim_abdullah_alzaghid",
       "role": "member"
@@ -3935,7 +3935,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibrahim_abubaker_aldarsi",
       "role": "member"
@@ -3946,7 +3946,7 @@
         "name": "Sirte"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibrahim_muftah_hamed_salem_excluded_because_of_isolation_law._the_only_winning_member_to_be_ejected_because_of_the_isolation_law.",
       "role": "member"
@@ -3957,7 +3957,7 @@
         "name": "Awbari"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibrahim_muhammed_krenfouda",
       "role": "member"
@@ -3968,7 +3968,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibrahim_musbah_alhadi",
       "role": "member"
@@ -3979,7 +3979,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibrahim _fathi_'ameish",
       "role": "member"
@@ -3990,7 +3990,7 @@
         "name": "Aziziyah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibtisam_abdulhafid_omar_salem",
       "role": "member"
@@ -4001,7 +4001,7 @@
         "name": "Castelverde"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ibtisam_abdulsalam_ben_jum'aa",
       "role": "member"
@@ -4012,7 +4012,7 @@
         "name": "Brega"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/idris_abdullah_faraj",
       "role": "member"
@@ -4023,7 +4023,7 @@
         "name": "Bayda"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/idris_omran_adam",
       "role": "member"
@@ -4034,7 +4034,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ism_abdullah_aljahani",
       "role": "member"
@@ -4045,7 +4045,7 @@
         "name": "Jufra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ismaeil_muhammed_ismaeil",
       "role": "member"
@@ -4056,7 +4056,7 @@
         "name": "Tawergha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/jaballah_muhammed_jaballah",
       "role": "member"
@@ -4067,7 +4067,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/jalal_saleh_ashwihdi",
       "role": "member"
@@ -4078,7 +4078,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/kamal_albashir_aljamel",
       "role": "member"
@@ -4089,7 +4089,7 @@
         "name": "Wadi Ashathi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/khadijah_ahmed_alzarouq",
       "role": "member"
@@ -4100,7 +4100,7 @@
         "name": "Tripoli: Tajoura"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/khalid_ali_muhammed_alostha",
       "role": "member"
@@ -4111,7 +4111,7 @@
         "name": "Qasr Libya"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/khalifa_saleh_aldghari",
       "role": "member"
@@ -4122,7 +4122,7 @@
         "name": "Tripoli: Souq Aljum'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/loua_muhammed_alghawi",
       "role": "member"
@@ -4133,7 +4133,7 @@
         "name": "Tripoli: Hay Alandulus"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/masa'ab_muhammed_abolqasem",
       "role": "member"
@@ -4144,7 +4144,7 @@
         "name": "Jufra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/mdellah_muhammed_qendah",
       "role": "member"
@@ -4155,7 +4155,7 @@
         "name": "Jufra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/mu'ad_rafi'a_saleh_masoud",
       "role": "member"
@@ -4166,7 +4166,7 @@
         "name": "Tobruk"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muftah_athiyah_alsha'ari",
       "role": "member"
@@ -4177,7 +4177,7 @@
         "name": "Wadi Ashathi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muftah_esa_alkertihi",
       "role": "member"
@@ -4188,7 +4188,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muftah_mraji'a_ekwider",
       "role": "member"
@@ -4199,7 +4199,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_abdulkarim_alra'id",
       "role": "member"
@@ -4210,7 +4210,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_abdulsalam_'arifah",
       "role": "member"
@@ -4221,7 +4221,7 @@
         "name": "Murzuq"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_adam_lino",
       "role": "member"
@@ -4232,7 +4232,7 @@
         "name": "Arrihibat"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_ahmed_niqro",
       "role": "member"
@@ -4243,7 +4243,7 @@
         "name": "Zliten"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_alhadi_ben_khalil",
       "role": "member"
@@ -4254,7 +4254,7 @@
         "name": "Wadi 'Aitbah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_ali_amoumen",
       "role": "member"
@@ -4265,7 +4265,7 @@
         "name": "Bani Walid"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_ali_ibrahim",
       "role": "member"
@@ -4276,7 +4276,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_almahdi_alhdiri",
       "role": "member"
@@ -4287,7 +4287,7 @@
         "name": "Tripoli: Ben Ghashir"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_bashir_alfayres",
       "role": "member"
@@ -4298,7 +4298,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_ibrahim_aldrrath",
       "role": "member"
@@ -4309,7 +4309,7 @@
         "name": "Traghen"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_ibrahim_tamer",
       "role": "member"
@@ -4320,7 +4320,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_ma'atoug_ejdid",
       "role": "member"
@@ -4331,7 +4331,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_mansour_hnish",
       "role": "member"
@@ -4342,7 +4342,7 @@
         "name": "Tazerbu"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_musa_douma",
       "role": "member"
@@ -4353,7 +4353,7 @@
         "name": "Tripoli: Souq Aljum'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_mustafa_rashed",
       "role": "member"
@@ -4364,7 +4364,7 @@
         "name": "Tarhunah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_omar_al'abani",
       "role": "member"
@@ -4376,7 +4376,7 @@
       },
       "end_date": "2014-08-04",
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_othman_ali_alshamakhi",
       "role": "member"
@@ -4387,7 +4387,7 @@
         "name": "Ajdabiya"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muhammed_sa'ad_saleh",
       "role": "member"
@@ -4398,7 +4398,7 @@
         "name": "Qubah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/muna_adam_alghithi",
       "role": "member"
@@ -4409,7 +4409,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/musbah_douma_ohidah",
       "role": "member"
@@ -4420,7 +4420,7 @@
         "name": "Nasiriyah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/musbah_miloud_albadawi",
       "role": "member"
@@ -4431,7 +4431,7 @@
         "name": "Tripoli: Souq Aljum'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/mustafa_abushagour_abushagour",
       "role": "member"
@@ -4442,7 +4442,7 @@
         "name": "Ajdabiya"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/mustafa_ahmed_abdulali",
       "role": "member"
@@ -4453,7 +4453,7 @@
         "name": "Gharyan"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/n'aim_muhammed_abdulrahman",
       "role": "member"
@@ -4464,7 +4464,7 @@
         "name": "Zliten"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/na'ima_ramadan_dalf",
       "role": "member"
@@ -4475,7 +4475,7 @@
         "name": "Ghat"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/naser_yousef _algheryani",
       "role": "member"
@@ -4486,7 +4486,7 @@
         "name": "Cyrene"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/nasereddin_mahni_muftah",
       "role": "member"
@@ -4497,7 +4497,7 @@
         "name": "Tobruk"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/nureddin_khalid_abdulhamid",
       "role": "member"
@@ -4508,7 +4508,7 @@
         "name": "Mayah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/omar_ali_alajili_tantoush",
       "role": "member"
@@ -4519,7 +4519,7 @@
         "name": "Zintan"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/omar_ghaith_abokader",
       "role": "member"
@@ -4530,7 +4530,7 @@
         "name": "Ryayna"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/omar_salem_alarabi",
       "role": "member"
@@ -4541,7 +4541,7 @@
         "name": "Tripoli: Ain Zara"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/osama_faraj_alsh'aafi",
       "role": "member"
@@ -4552,7 +4552,7 @@
         "name": "Qasr Libya"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/rabha_abdulsalam_alfurjani",
       "role": "member"
@@ -4563,7 +4563,7 @@
         "name": "Tripoli: Hay Alandulus"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/rabi'aa_abdulrahman_aboras",
       "role": "member"
@@ -4574,7 +4574,7 @@
         "name": "Tripoli: Souq Aljum'aa"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/rabi'aa_alsadeq_alfaqih",
       "role": "member"
@@ -4585,7 +4585,7 @@
         "name": "Murzuq"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/rahma_abubaker_ali_adam",
       "role": "member"
@@ -4596,7 +4596,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ramdan_muhammed_shembesh",
       "role": "member"
@@ -4607,7 +4607,7 @@
         "name": "Tukra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/s'aid_khalid_esbaqa",
       "role": "member"
@@ -4618,7 +4618,7 @@
         "name": "Abyar"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sa'ad_abdulqader_albadri",
       "role": "member"
@@ -4629,7 +4629,7 @@
         "name": "Tripoli: Abu Salim"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sa'ad_almeryami_almeryami",
       "role": "member"
@@ -4640,7 +4640,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sa'ad_muhammed_aljazwi",
       "role": "member"
@@ -4651,7 +4651,7 @@
         "name": "Tarhunah"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sabah_jum'aa_faraj",
       "role": "member"
@@ -4662,7 +4662,7 @@
         "name": "Gharyan"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/salah_ali_alshibani_zoubik",
       "role": "member"
@@ -4673,7 +4673,7 @@
         "name": "Rujban"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/salah_alsahbi_ali_balhouq",
       "role": "member"
@@ -4684,7 +4684,7 @@
         "name": "Sidra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/saleh_abdulkarim_efhima",
       "role": "member"
@@ -4695,7 +4695,7 @@
         "name": "Tobruk"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/saleh_hashem_altha'a",
       "role": "member"
@@ -4706,7 +4706,7 @@
         "name": "Ghat"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/saleh_hema_bekdah",
       "role": "member"
@@ -4717,7 +4717,7 @@
         "name": "Gatroun"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/saleh_qelma_yesko_derkoi",
       "role": "member"
@@ -4728,7 +4728,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/salem_masoud_ahmed_qnidi",
       "role": "member"
@@ -4739,7 +4739,7 @@
         "name": "Nalut"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/salem_masoud_qanan",
       "role": "member"
@@ -4750,7 +4750,7 @@
         "name": "Janzur"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sarah_amer_abduljalil_alsweih_ ",
       "role": "member"
@@ -4761,7 +4761,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/siham_salem_serqiwah",
       "role": "member"
@@ -4772,7 +4772,7 @@
         "name": "Tripoli: Abu Salim"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/so'aad_abdullah_alsheli",
       "role": "member"
@@ -4783,7 +4783,7 @@
         "name": "Merj"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/suleiman_khathab_'awed",
       "role": "member"
@@ -4794,7 +4794,7 @@
         "name": "Gharyan"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/suleiman_omar_alharai",
       "role": "member"
@@ -4805,7 +4805,7 @@
         "name": "Mesratha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sulieman_muhammed_alfaqih",
       "role": "member"
@@ -4816,7 +4816,7 @@
         "name": "Cyrene + Byda + Merj"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/sulthna_masoud_abdulrahim",
       "role": "member"
@@ -4827,7 +4827,7 @@
         "name": "Tripoli: Abu Salim"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/tareq_abdullah_alashter",
       "role": "member"
@@ -4838,7 +4838,7 @@
         "name": "Yefren"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/tareq_aboubaker_abouhisa",
       "role": "member"
@@ -4849,7 +4849,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/thariq_saqer_aljaroushi",
       "role": "member"
@@ -4860,7 +4860,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/younis_omar_fennoush",
       "role": "member"
@@ -4871,7 +4871,7 @@
         "name": "Khoms Coast"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/yousef_abdulsalam_alferjani",
       "role": "member"
@@ -4882,7 +4882,7 @@
         "name": "Sabha"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/yousef_kalikouri_qati_sidi",
       "role": "member"
@@ -4893,7 +4893,7 @@
         "name": "Suluq"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/yousef_muhammed_alfakhri",
       "role": "member"
@@ -4904,7 +4904,7 @@
         "name": "Tukra"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/yousif_ibrahim_hamed",
       "role": "member"
@@ -4915,7 +4915,7 @@
         "name": "Sirte"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/zayed_hadiyah_aboubaker",
       "role": "member"
@@ -4926,7 +4926,7 @@
         "name": "Benghazi"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ziyad_saleh_dghim",
       "role": "member"
@@ -4937,7 +4937,7 @@
         "name": "Zawia"
       },
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/ _muhammed_alfitouri_alhanish",
       "role": "member"
