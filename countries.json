@@ -996,14 +996,15 @@
         "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/final.json",
-        "lastmod": "1436110100",
-        "sha": "75bb97d",
+        "lastmod": "1436296606",
+        "sha": "45aebad",
         "legislative_periods": [
           {
-            "id": "term/riigikogu_xiii",
-            "name": "Riigikogu XIII",
-            "slug": "riigikogu_xiii",
-            "csv": "data/Estonia/Riigikogu/term-riigikogu_xiii.csv"
+            "id": "term/13",
+            "name": "13th Riigikogu",
+            "start_date": "2013-03-30",
+            "slug": "13",
+            "csv": "data/Estonia/Riigikogu/term-13.csv"
           }
         ]
       }
