@@ -1638,6 +1638,31 @@
     ]
   },
   {
+    "name": "Côte d'Ivoire",
+    "country": "Côte d'Ivoire",
+    "code": "CI",
+    "slug": "Ivory-Coast",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Ivory_Coast/Assembly/sources",
+        "popolo": "data/Ivory_Coast/Assembly/final.json",
+        "lastmod": "1436273217",
+        "sha": "2f89fed",
+        "legislative_periods": [
+          {
+            "id": "term/2.2",
+            "name": "2e législature de la 2e République",
+            "start_date": "2012-03-12",
+            "slug": "2.2",
+            "csv": "data/Ivory_Coast/Assembly/term-2.2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Jersey",
     "country": "Jersey",
     "code": "JE",
