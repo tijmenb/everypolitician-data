@@ -2803,6 +2803,31 @@
     ]
   },
   {
+    "name": "South Africa",
+    "country": "South Africa",
+    "code": "ZA",
+    "slug": "South-Africa",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/South_Africa/Assembly/sources",
+        "popolo": "data/South_Africa/Assembly/final.json",
+        "lastmod": "1436368004",
+        "sha": "8f294a7",
+        "legislative_periods": [
+          {
+            "id": "term/26",
+            "name": "26th Parliament",
+            "start_date": "2014",
+            "slug": "26",
+            "csv": "data/South_Africa/Assembly/term-26.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Sudan",
     "country": "South Sudan",
     "code": "SS",
