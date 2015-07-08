@@ -4763,7 +4763,8 @@
     {
       "classification": "legislature",
       "id": "scottish-parliament",
-      "name": "Scottish Parliament"
+      "name": "Scottish Parliament",
+      "seats": 129
     },
     {
       "classification": "party",
@@ -4811,9 +4812,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "name": "Falkirk West"
-      },
+      "area_id": "falkirk_west",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80139",
@@ -4827,9 +4826,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk West"
-      },
+      "area_id": "falkirk_west",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80017",
@@ -4843,9 +4840,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh North and Leith"
-      },
+      "area_id": "edinburgh_north_and_leith",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80140",
@@ -4859,9 +4854,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh North and Leith"
-      },
+      "area_id": "edinburgh_north_and_leith",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80018",
@@ -4875,9 +4868,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Northern and Leith"
-      },
+      "area_id": "edinburgh_northern_and_leith",
       "id": "uk.org.publicwhip/member/80439",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -4889,9 +4880,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh North and Leith"
-      },
+      "area_id": "edinburgh_north_and_leith",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80296",
@@ -4905,9 +4894,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Perthshire South and Kinross-shire"
-      },
+      "area_id": "perthshire_south_and_kinross-shire",
       "id": "uk.org.publicwhip/member/80452",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -4919,9 +4906,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Perth"
-      },
+      "area_id": "perth",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80021",
@@ -4935,9 +4920,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Perth"
-      },
+      "area_id": "perth",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80301",
@@ -4951,9 +4934,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Perth"
-      },
+      "area_id": "perth",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80143",
@@ -4967,9 +4948,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Anniesland"
-      },
+      "area_id": "glasgow_anniesland",
       "end_date": "2000-10-11",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80147",
@@ -4983,9 +4962,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Moray"
-      },
+      "area_id": "moray",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80151",
@@ -4999,9 +4976,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Moray"
-      },
+      "area_id": "moray",
       "end_date": "2006-03-21",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80263",
@@ -5015,9 +4990,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80312",
@@ -5031,9 +5004,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Strathkelvin and Bearsden"
-      },
+      "area_id": "strathkelvin_and_bearsden",
       "end_date": "2001-05-14",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80158",
@@ -5047,9 +5018,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80042",
@@ -5063,9 +5032,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80164",
@@ -5079,9 +5046,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Lothian"
-      },
+      "area_id": "east_lothian",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80047",
@@ -5095,9 +5060,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Lothian"
-      },
+      "area_id": "east_lothian",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80172",
@@ -5111,9 +5074,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee East"
-      },
+      "area_id": "dundee_east",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80198",
@@ -5127,9 +5088,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Fife"
-      },
+      "area_id": "central_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80205",
@@ -5143,9 +5102,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80366",
@@ -5159,9 +5116,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Galloway and Upper Nithsdale"
-      },
+      "area_id": "galloway_and_upper_nithsdale",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80213",
@@ -5175,9 +5130,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80089",
@@ -5191,9 +5144,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Banff and Buchan"
-      },
+      "area_id": "banff_and_buchan",
       "end_date": "2001-05-14",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80233",
@@ -5207,9 +5158,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Gordon"
-      },
+      "area_id": "gordon",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80382",
@@ -5223,9 +5172,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeenshire East"
-      },
+      "area_id": "aberdeenshire_east",
       "id": "uk.org.publicwhip/member/80457",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -5237,9 +5184,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North Tayside"
-      },
+      "area_id": "north_tayside",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80120",
@@ -5253,9 +5198,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North Tayside"
-      },
+      "area_id": "north_tayside",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80397",
@@ -5269,9 +5212,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Perthshire North"
-      },
+      "area_id": "perthshire_north",
       "id": "uk.org.publicwhip/member/80451",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -5283,9 +5224,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North Tayside"
-      },
+      "area_id": "north_tayside",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80247",
@@ -5299,9 +5238,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Orkney Islands"
-      },
+      "area_id": "orkney_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80252",
@@ -5315,9 +5252,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Orkney Islands"
-      },
+      "area_id": "orkney_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80123",
@@ -5331,9 +5266,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Angus"
-      },
+      "area_id": "angus",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80255",
@@ -5347,9 +5280,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Angus"
-      },
+      "area_id": "angus",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80401",
@@ -5363,9 +5294,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Angus"
-      },
+      "area_id": "angus",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80125",
@@ -5379,9 +5308,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80251",
@@ -5395,9 +5322,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2005-06-17",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80265",
@@ -5411,9 +5336,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80217",
@@ -5427,9 +5350,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80261",
@@ -5443,9 +5364,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80026",
@@ -5459,9 +5378,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "1999-05-11",
       "end_reason": "became_presiding_officer",
       "id": "uk.org.publicwhip/member/80242",
@@ -5475,9 +5392,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-05-06",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80277",
@@ -5491,9 +5406,7 @@
       "start_reason": "became_presiding_officer"
     },
     {
-      "area": {
-        "name": "Aberdeen North"
-      },
+      "area_id": "aberdeen_north",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80000",
@@ -5507,9 +5420,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen North"
-      },
+      "area_id": "aberdeen_north",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80278",
@@ -5523,9 +5434,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen Donside"
-      },
+      "area_id": "aberdeen_donside",
       "end_date": "2013-04-25",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80455",
@@ -5539,9 +5448,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80129",
@@ -5555,9 +5462,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2009-02-06",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80279",
@@ -5571,9 +5476,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80280",
@@ -5587,9 +5490,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80001",
@@ -5603,9 +5504,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80130",
@@ -5619,9 +5518,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Paisley North"
-      },
+      "area_id": "paisley_north",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80131",
@@ -5635,9 +5532,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Paisley North"
-      },
+      "area_id": "paisley_north",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80281",
@@ -5651,9 +5546,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Paisley North"
-      },
+      "area_id": "paisley_north",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80002",
@@ -5667,9 +5560,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Na h-Eileanan an Iar"
-      },
+      "area_id": "na_h-eileanan_an_iar",
       "id": "uk.org.publicwhip/member/80432",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -5681,9 +5572,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Western Isles"
-      },
+      "area_id": "western_isles",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80282",
@@ -5697,9 +5586,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80003",
@@ -5713,9 +5600,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "Dumbarton"
-      },
+      "area_id": "dumbarton",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80132",
@@ -5729,9 +5614,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumbarton"
-      },
+      "area_id": "dumbarton",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80004",
@@ -5745,9 +5628,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumbarton"
-      },
+      "area_id": "dumbarton",
       "id": "uk.org.publicwhip/member/80476",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -5759,9 +5640,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumbarton"
-      },
+      "area_id": "dumbarton",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80283",
@@ -5775,9 +5654,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80005",
@@ -5791,9 +5668,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80512",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -5805,9 +5680,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80285",
@@ -5821,9 +5694,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80518",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -5835,9 +5706,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80284",
@@ -5851,9 +5720,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80006",
@@ -5867,9 +5734,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80007",
@@ -5883,9 +5748,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80008",
@@ -5899,9 +5762,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline West"
-      },
+      "area_id": "dunfermline_west",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80133",
@@ -5915,9 +5776,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline West"
-      },
+      "area_id": "dunfermline_west",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80009",
@@ -5931,9 +5790,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Central"
-      },
+      "area_id": "edinburgh_central",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80010",
@@ -5947,9 +5804,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Central"
-      },
+      "area_id": "edinburgh_central",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80286",
@@ -5963,9 +5818,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "id": "uk.org.publicwhip/member/80504",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -5977,9 +5830,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Central"
-      },
+      "area_id": "edinburgh_central",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80134",
@@ -5993,9 +5844,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Midlothian"
-      },
+      "area_id": "midlothian",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80011",
@@ -6009,9 +5858,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Midlothian"
-      },
+      "area_id": "midlothian",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80287",
@@ -6025,9 +5872,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Midlothian"
-      },
+      "area_id": "midlothian",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80135",
@@ -6041,9 +5886,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80012",
@@ -6057,9 +5900,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80288",
@@ -6073,9 +5914,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80136",
@@ -6089,9 +5928,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80013",
@@ -6105,9 +5942,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80291",
@@ -6121,9 +5956,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80290",
@@ -6137,9 +5970,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "id": "uk.org.publicwhip/member/80508",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -6151,9 +5982,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clackmannanshire and Dunblane"
-      },
+      "area_id": "clackmannanshire_and_dunblane",
       "id": "uk.org.publicwhip/member/80445",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6165,9 +5994,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ochil"
-      },
+      "area_id": "ochil",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80289",
@@ -6181,9 +6008,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80014",
@@ -6197,9 +6022,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80292",
@@ -6213,9 +6036,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Anniesland"
-      },
+      "area_id": "glasgow_anniesland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80015",
@@ -6229,9 +6050,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Anniesland"
-      },
+      "area_id": "glasgow_anniesland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80137",
@@ -6245,9 +6064,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Glasgow Anniesland"
-      },
+      "area_id": "glasgow_anniesland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80293",
@@ -6261,9 +6078,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80269",
@@ -6277,9 +6092,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2006-09-03",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80016",
@@ -6293,9 +6106,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80138",
@@ -6309,9 +6120,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80294",
@@ -6325,9 +6134,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydesdale"
-      },
+      "area_id": "clydesdale",
       "id": "uk.org.publicwhip/member/80466",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6339,9 +6146,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80295",
@@ -6355,9 +6160,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80538",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -6369,9 +6172,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kilmarnock and Irvine Valley"
-      },
+      "area_id": "kilmarnock_and_irvine_valley",
       "id": "uk.org.publicwhip/member/80471",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6383,9 +6184,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kilmarnock and Loudoun"
-      },
+      "area_id": "kilmarnock_and_loudoun",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80297",
@@ -6399,9 +6198,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Almond Valley"
-      },
+      "area_id": "almond_valley",
       "id": "uk.org.publicwhip/member/80436",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6413,9 +6210,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Livingston"
-      },
+      "area_id": "livingston",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80298",
@@ -6429,9 +6224,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cumbernauld and Kilsyth"
-      },
+      "area_id": "cumbernauld_and_kilsyth",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80019",
@@ -6445,9 +6238,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cumbernauld and Kilsyth"
-      },
+      "area_id": "cumbernauld_and_kilsyth",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80299",
@@ -6461,9 +6252,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cumbernauld and Kilsyth"
-      },
+      "area_id": "cumbernauld_and_kilsyth",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80141",
@@ -6477,9 +6266,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80020",
@@ -6493,9 +6280,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Stirling"
-      },
+      "area_id": "stirling",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80300",
@@ -6509,9 +6294,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Stirling"
-      },
+      "area_id": "stirling",
       "id": "uk.org.publicwhip/member/80453",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6523,9 +6306,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80142",
@@ -6539,9 +6320,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80023",
@@ -6555,9 +6334,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Baillieston"
-      },
+      "area_id": "glasgow_baillieston",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80022",
@@ -6571,9 +6348,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Baillieston"
-      },
+      "area_id": "glasgow_baillieston",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80302",
@@ -6587,9 +6362,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Baillieston"
-      },
+      "area_id": "glasgow_baillieston",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80144",
@@ -6603,9 +6376,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80024",
@@ -6619,9 +6390,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80145",
@@ -6635,9 +6404,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh East and Musselburgh"
-      },
+      "area_id": "edinburgh_east_and_musselburgh",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80146",
@@ -6651,9 +6418,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh East and Musselburgh"
-      },
+      "area_id": "edinburgh_east_and_musselburgh",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80025",
@@ -6667,9 +6432,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Angus North and Mearns"
-      },
+      "area_id": "angus_north_and_mearns",
       "id": "uk.org.publicwhip/member/80459",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6681,9 +6444,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80303",
@@ -6697,9 +6458,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80494",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6711,9 +6470,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80304",
@@ -6727,9 +6484,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline East"
-      },
+      "area_id": "dunfermline_east",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80148",
@@ -6743,9 +6498,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline East"
-      },
+      "area_id": "dunfermline_east",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80305",
@@ -6759,9 +6512,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline East"
-      },
+      "area_id": "dunfermline_east",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80027",
@@ -6775,9 +6526,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cowdenbeath"
-      },
+      "area_id": "cowdenbeath",
       "end_date": "2013-11-09",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80446",
@@ -6791,9 +6540,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80275",
@@ -6807,9 +6554,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2002-04-30",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80262",
@@ -6823,9 +6568,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Inverness East, Nairn and Lochaber"
-      },
+      "area_id": "inverness_east,_nairn_and_lochaber",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80028",
@@ -6839,9 +6582,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Inverness East, Nairn and Lochaber"
-      },
+      "area_id": "inverness_east,_nairn_and_lochaber",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80150",
@@ -6855,9 +6596,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Inverness and Nairn"
-      },
+      "area_id": "inverness_and_nairn",
       "id": "uk.org.publicwhip/member/80430",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6869,9 +6608,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Inverness East, Nairn and Lochaber"
-      },
+      "area_id": "inverness_east,_nairn_and_lochaber",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80306",
@@ -6885,9 +6622,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80149",
@@ -6901,9 +6636,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80029",
@@ -6917,9 +6650,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80307",
@@ -6933,9 +6664,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Kilbride"
-      },
+      "area_id": "east_kilbride",
       "id": "uk.org.publicwhip/member/80413",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -6947,9 +6676,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80152",
@@ -6963,9 +6690,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ross, Skye and Inverness West"
-      },
+      "area_id": "ross,_skye_and_inverness_west",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80218",
@@ -6979,9 +6704,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ross, Skye and Inverness West"
-      },
+      "area_id": "ross,_skye_and_inverness_west",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80368",
@@ -6995,9 +6718,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ross, Skye and Inverness West"
-      },
+      "area_id": "ross,_skye_and_inverness_west",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80093",
@@ -7011,9 +6732,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Maryhill"
-      },
+      "area_id": "glasgow_maryhill",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80030",
@@ -7027,9 +6746,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Maryhill"
-      },
+      "area_id": "glasgow_maryhill",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80308",
@@ -7043,9 +6760,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Maryhill and Springburn"
-      },
+      "area_id": "glasgow_maryhill_and_springburn",
       "id": "uk.org.publicwhip/member/80422",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -7057,9 +6772,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Maryhill"
-      },
+      "area_id": "glasgow_maryhill",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80153",
@@ -7073,9 +6786,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Galloway and Upper Nithsdale"
-      },
+      "area_id": "galloway_and_upper_nithsdale",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80031",
@@ -7089,9 +6800,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80154",
@@ -7105,9 +6814,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Galloway and Upper Nithsdale"
-      },
+      "area_id": "galloway_and_upper_nithsdale",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80407",
@@ -7121,9 +6828,7 @@
       "start_reason": "became_presiding_officer"
     },
     {
-      "area": {
-        "name": "Galloway and West Dumfries"
-      },
+      "area_id": "galloway_and_west_dumfries",
       "id": "uk.org.publicwhip/member/80470",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -7135,9 +6840,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Galloway and Upper Nithsdale"
-      },
+      "area_id": "galloway_and_upper_nithsdale",
       "end_date": "2007-05-13",
       "end_reason": "became_presiding_officer",
       "id": "uk.org.publicwhip/member/80309",
@@ -7151,9 +6854,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80155",
@@ -7167,9 +6868,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80310",
@@ -7183,9 +6882,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80032",
@@ -7199,9 +6896,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee City West"
-      },
+      "area_id": "dundee_city_west",
       "id": "uk.org.publicwhip/member/80463",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -7213,9 +6908,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee West"
-      },
+      "area_id": "dundee_west",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80311",
@@ -7229,9 +6922,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Strathkelvin and Bearsden"
-      },
+      "area_id": "strathkelvin_and_bearsden",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80156",
@@ -7245,9 +6936,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80033",
@@ -7261,9 +6950,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80157",
@@ -7277,9 +6964,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80514",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -7291,9 +6976,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80313",
@@ -7307,9 +6990,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80034",
@@ -7323,9 +7004,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80159",
@@ -7339,9 +7018,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80035",
@@ -7355,9 +7032,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80036",
@@ -7371,9 +7046,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Caithness, Sutherland and Ross"
-      },
+      "area_id": "caithness,_sutherland_and_ross",
       "id": "uk.org.publicwhip/member/80429",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -7385,9 +7058,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80314",
@@ -7401,9 +7072,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80160",
@@ -7417,9 +7086,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame North"
-      },
+      "area_id": "cunninghame_north",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80315",
@@ -7433,9 +7100,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame North"
-      },
+      "area_id": "cunninghame_north",
       "id": "uk.org.publicwhip/member/80474",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -7447,9 +7112,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydesdale"
-      },
+      "area_id": "clydesdale",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80161",
@@ -7463,9 +7126,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydesdale"
-      },
+      "area_id": "clydesdale",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80037",
@@ -7479,9 +7140,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydesdale"
-      },
+      "area_id": "clydesdale",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80316",
@@ -7495,9 +7154,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80317",
@@ -7511,9 +7168,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80038",
@@ -7527,9 +7182,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Renfrewshire"
-      },
+      "area_id": "west_renfrewshire",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80162",
@@ -7543,9 +7196,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Renfrewshire"
-      },
+      "area_id": "west_renfrewshire",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80318",
@@ -7559,9 +7210,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Renfrewshire"
-      },
+      "area_id": "west_renfrewshire",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80039",
@@ -7575,9 +7224,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80163",
@@ -7591,9 +7238,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80040",
@@ -7607,9 +7252,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80537",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -7621,9 +7264,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80319",
@@ -7637,9 +7278,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Cathcart"
-      },
+      "area_id": "glasgow_cathcart",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80320",
@@ -7653,9 +7292,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Cathcart"
-      },
+      "area_id": "glasgow_cathcart",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80041",
@@ -7669,9 +7306,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80165",
@@ -7685,9 +7320,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80043",
@@ -7701,9 +7334,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Midlothian South, Tweeddale and Lauderdale"
-      },
+      "area_id": "midlothian_south,_tweeddale_and_lauderdale",
       "id": "uk.org.publicwhip/member/80472",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -7715,9 +7346,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80321",
@@ -7731,9 +7360,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80166",
@@ -7747,9 +7374,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80322",
@@ -7763,9 +7388,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80500",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -7777,9 +7400,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Pentlands"
-      },
+      "area_id": "edinburgh_pentlands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80167",
@@ -7793,9 +7414,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Lothian"
-      },
+      "area_id": "east_lothian",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80323",
@@ -7809,9 +7428,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Lothian"
-      },
+      "area_id": "east_lothian",
       "id": "uk.org.publicwhip/member/80468",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -7823,9 +7440,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80168",
@@ -7839,9 +7454,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80169",
@@ -7855,9 +7468,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80170",
@@ -7871,9 +7482,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80044",
@@ -7887,9 +7496,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80324",
@@ -7903,9 +7510,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80045",
@@ -7919,9 +7524,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80325",
@@ -7935,9 +7538,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80495",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "green",
@@ -7949,9 +7550,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80326",
@@ -7965,9 +7564,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Paisley South"
-      },
+      "area_id": "paisley_south",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80171",
@@ -7981,9 +7578,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Paisley South"
-      },
+      "area_id": "paisley_south",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80046",
@@ -7997,9 +7592,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Paisley South"
-      },
+      "area_id": "paisley_south",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80327",
@@ -8013,9 +7606,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Renfrewshire South"
-      },
+      "area_id": "renfrewshire_south",
       "id": "uk.org.publicwhip/member/80481",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -8027,9 +7618,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80328",
@@ -8043,9 +7632,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cumbernauld and Kilsyth"
-      },
+      "area_id": "cumbernauld_and_kilsyth",
       "id": "uk.org.publicwhip/member/80412",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -8057,9 +7644,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Rutherglen"
-      },
+      "area_id": "glasgow_rutherglen",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80048",
@@ -8073,9 +7658,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Rutherglen"
-      },
+      "area_id": "glasgow_rutherglen",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80173",
@@ -8089,9 +7672,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80329",
@@ -8105,9 +7686,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80531",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
@@ -8119,9 +7698,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80174",
@@ -8135,9 +7712,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80049",
@@ -8151,9 +7726,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Linlithgow"
-      },
+      "area_id": "linlithgow",
       "id": "uk.org.publicwhip/member/80443",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -8165,9 +7738,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80330",
@@ -8181,9 +7752,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80175",
@@ -8197,9 +7766,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80050",
@@ -8213,9 +7780,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80331",
@@ -8229,9 +7794,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Carrick, Cumnock and Doon Valley"
-      },
+      "area_id": "carrick,_cumnock_and_doon_valley",
       "id": "uk.org.publicwhip/member/80465",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -8243,9 +7806,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Govan"
-      },
+      "area_id": "glasgow_govan",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80177",
@@ -8259,9 +7820,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Govan"
-      },
+      "area_id": "glasgow_govan",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80052",
@@ -8275,9 +7834,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Stirling"
-      },
+      "area_id": "stirling",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80051",
@@ -8291,9 +7848,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Stirling"
-      },
+      "area_id": "stirling",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80176",
@@ -8307,9 +7862,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kilmarnock and Loudoun"
-      },
+      "area_id": "kilmarnock_and_loudoun",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80054",
@@ -8323,9 +7876,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kilmarnock and Loudoun"
-      },
+      "area_id": "kilmarnock_and_loudoun",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80179",
@@ -8339,9 +7890,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Carrick, Cumnock and Doon Valley"
-      },
+      "area_id": "carrick,_cumnock_and_doon_valley",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80178",
@@ -8355,9 +7904,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Carrick, Cumnock and Doon Valley"
-      },
+      "area_id": "carrick,_cumnock_and_doon_valley",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80053",
@@ -8371,9 +7918,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Carrick, Cumnock and Doon Valley"
-      },
+      "area_id": "carrick,_cumnock_and_doon_valley",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80332",
@@ -8387,9 +7932,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Tweeddale, Ettrick and Lauderdale"
-      },
+      "area_id": "tweeddale,_ettrick_and_lauderdale",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80180",
@@ -8403,9 +7946,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2001-08-10",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80181",
@@ -8419,9 +7960,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80182",
@@ -8435,9 +7974,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80055",
@@ -8451,9 +7988,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80521",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -8465,9 +8000,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80333",
@@ -8481,9 +8014,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80056",
@@ -8497,9 +8028,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Rutherglen"
-      },
+      "area_id": "glasgow_rutherglen",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80334",
@@ -8513,9 +8042,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Rutherglen"
-      },
+      "area_id": "rutherglen",
       "id": "uk.org.publicwhip/member/80427",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -8527,9 +8054,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Kilbride"
-      },
+      "area_id": "east_kilbride",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80183",
@@ -8543,9 +8068,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Kilbride"
-      },
+      "area_id": "east_kilbride",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80057",
@@ -8559,9 +8082,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "East Kilbride"
-      },
+      "area_id": "east_kilbride",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80335",
@@ -8575,9 +8096,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80336",
@@ -8591,9 +8110,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Anniesland"
-      },
+      "area_id": "glasgow_anniesland",
       "id": "uk.org.publicwhip/member/80419",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -8605,9 +8122,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Pollok"
-      },
+      "area_id": "glasgow_pollok",
       "id": "uk.org.publicwhip/member/80423",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -8619,9 +8134,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Pollok"
-      },
+      "area_id": "glasgow_pollok",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80058",
@@ -8635,9 +8148,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Pollok"
-      },
+      "area_id": "glasgow_pollok",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80338",
@@ -8651,9 +8162,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Pollok"
-      },
+      "area_id": "glasgow_pollok",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80184",
@@ -8667,9 +8176,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Roxburgh and Berwickshire"
-      },
+      "area_id": "roxburgh_and_berwickshire",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80337",
@@ -8683,9 +8190,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ettrick, Roxburgh and Berwickshire"
-      },
+      "area_id": "ettrick,_roxburgh_and_berwickshire",
       "id": "uk.org.publicwhip/member/80469",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -8697,9 +8202,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80059",
@@ -8713,9 +8216,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kirkcaldy"
-      },
+      "area_id": "kirkcaldy",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80185",
@@ -8729,9 +8230,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kirkcaldy"
-      },
+      "area_id": "kirkcaldy",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80060",
@@ -8745,9 +8244,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kirkcaldy"
-      },
+      "area_id": "kirkcaldy",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80339",
@@ -8761,9 +8258,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80186",
@@ -8777,9 +8272,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2006-04-07",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80061",
@@ -8793,9 +8286,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Moray"
-      },
+      "area_id": "moray",
       "id": "uk.org.publicwhip/member/80431",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -8807,9 +8298,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Moray"
-      },
+      "area_id": "moray",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80340",
@@ -8823,9 +8312,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Moray"
-      },
+      "area_id": "moray",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80264",
@@ -8839,9 +8326,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Argyll and Bute"
-      },
+      "area_id": "argyll_and_bute",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80187",
@@ -8855,9 +8340,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Argyll and Bute"
-      },
+      "area_id": "argyll_and_bute",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80062",
@@ -8871,9 +8354,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80188",
@@ -8887,9 +8368,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Eastern"
-      },
+      "area_id": "edinburgh_eastern",
       "id": "uk.org.publicwhip/member/80438",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -8901,9 +8380,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh East and Musselburgh"
-      },
+      "area_id": "edinburgh_east_and_musselburgh",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80341",
@@ -8917,9 +8394,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80063",
@@ -8933,9 +8408,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-01-27",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80190",
@@ -8949,9 +8422,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80276",
@@ -8965,9 +8436,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80065",
@@ -8981,9 +8450,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80343",
@@ -8997,9 +8464,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "end_date": "2014-04-04",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80510",
@@ -9013,9 +8478,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh South"
-      },
+      "area_id": "edinburgh_south",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80192",
@@ -9029,9 +8492,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen Central"
-      },
+      "area_id": "aberdeen_central",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80064",
@@ -9045,9 +8506,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80520",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -9059,9 +8518,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen Central"
-      },
+      "area_id": "aberdeen_central",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80342",
@@ -9075,9 +8532,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen Central"
-      },
+      "area_id": "aberdeen_central",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80189",
@@ -9091,9 +8546,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Eastwood"
-      },
+      "area_id": "eastwood",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80191",
@@ -9107,9 +8560,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Eastwood"
-      },
+      "area_id": "eastwood",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80344",
@@ -9123,9 +8574,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Eastwood"
-      },
+      "area_id": "eastwood",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80066",
@@ -9139,9 +8588,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee West"
-      },
+      "area_id": "dundee_west",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80193",
@@ -9155,9 +8602,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee West"
-      },
+      "area_id": "dundee_west",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80067",
@@ -9171,9 +8616,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80194",
@@ -9187,9 +8630,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80068",
@@ -9203,9 +8644,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Provan"
-      },
+      "area_id": "glasgow_provan",
       "id": "uk.org.publicwhip/member/80424",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -9217,9 +8656,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Springburn"
-      },
+      "area_id": "glasgow_springburn",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80070",
@@ -9233,9 +8670,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Springburn"
-      },
+      "area_id": "glasgow_springburn",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80345",
@@ -9249,9 +8684,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Springburn"
-      },
+      "area_id": "glasgow_springburn",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80195",
@@ -9265,9 +8698,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2004-07-10",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80069",
@@ -9281,9 +8712,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80270",
@@ -9297,9 +8726,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80196",
@@ -9313,9 +8740,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80071",
@@ -9329,9 +8754,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Fife and Glenrothes"
-      },
+      "area_id": "mid_fife_and_glenrothes",
       "id": "uk.org.publicwhip/member/80450",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -9343,9 +8766,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Fife"
-      },
+      "area_id": "central_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80346",
@@ -9359,9 +8780,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Argyll and Bute"
-      },
+      "area_id": "argyll_and_bute",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80347",
@@ -9375,9 +8794,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80072",
@@ -9391,9 +8808,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80197",
@@ -9407,9 +8822,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk West"
-      },
+      "area_id": "falkirk_west",
       "id": "uk.org.publicwhip/member/80415",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -9421,9 +8834,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk West"
-      },
+      "area_id": "falkirk_west",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80348",
@@ -9437,9 +8848,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80073",
@@ -9453,9 +8862,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80074",
@@ -9469,9 +8876,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80349",
@@ -9485,9 +8890,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80535",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -9499,9 +8902,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Fife"
-      },
+      "area_id": "central_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80075",
@@ -9515,9 +8916,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Orkney Islands"
-      },
+      "area_id": "orkney_islands",
       "id": "uk.org.publicwhip/member/80433",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
@@ -9529,9 +8928,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Orkney Islands"
-      },
+      "area_id": "orkney_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80350",
@@ -9545,9 +8942,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Shettleston"
-      },
+      "area_id": "glasgow_shettleston",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80199",
@@ -9561,9 +8956,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Shettleston"
-      },
+      "area_id": "glasgow_shettleston",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80351",
@@ -9577,9 +8970,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Shettleston"
-      },
+      "area_id": "glasgow_shettleston",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80076",
@@ -9593,9 +8984,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton South"
-      },
+      "area_id": "hamilton_south",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80200",
@@ -9609,9 +8998,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton South"
-      },
+      "area_id": "hamilton_south",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80077",
@@ -9625,9 +9012,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton South"
-      },
+      "area_id": "hamilton_south",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80352",
@@ -9641,9 +9026,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Motherwell and Wishaw"
-      },
+      "area_id": "motherwell_and_wishaw",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80201",
@@ -9657,9 +9040,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Motherwell and Wishaw"
-      },
+      "area_id": "motherwell_and_wishaw",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80078",
@@ -9673,9 +9054,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Motherwell and Wishaw"
-      },
+      "area_id": "motherwell_and_wishaw",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80353",
@@ -9689,9 +9068,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80079",
@@ -9705,9 +9082,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80202",
@@ -9721,9 +9096,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80080",
@@ -9737,9 +9110,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80354",
@@ -9753,9 +9124,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80502",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -9767,9 +9136,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80203",
@@ -9783,9 +9150,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80355",
@@ -9799,9 +9164,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80524",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
@@ -9813,9 +9176,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80204",
@@ -9829,9 +9190,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80356",
@@ -9845,9 +9204,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80357",
@@ -9861,9 +9218,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton, Larkhall and Stonehouse"
-      },
+      "area_id": "hamilton,_larkhall_and_stonehouse",
       "id": "uk.org.publicwhip/member/80416",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -9875,9 +9230,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80206",
@@ -9891,9 +9244,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Strathkelvin and Bearsden"
-      },
+      "area_id": "strathkelvin_and_bearsden",
       "id": "uk.org.publicwhip/member/80482",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -9905,9 +9256,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80207",
@@ -9921,9 +9270,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Pentlands"
-      },
+      "area_id": "edinburgh_pentlands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80081",
@@ -9937,9 +9284,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "end_date": "2013-08-12",
       "end_reason": "died",
       "id": "uk.org.publicwhip/member/80507",
@@ -9953,9 +9298,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Pentlands"
-      },
+      "area_id": "edinburgh_pentlands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80358",
@@ -9969,9 +9312,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton North and Bellshill"
-      },
+      "area_id": "hamilton_north_and_bellshill",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80208",
@@ -9985,9 +9326,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton North and Bellshill"
-      },
+      "area_id": "hamilton_north_and_bellshill",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80082",
@@ -10001,9 +9340,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Uddingston and Bellshill"
-      },
+      "area_id": "uddingston_and_bellshill",
       "id": "uk.org.publicwhip/member/80418",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -10015,9 +9352,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Hamilton North and Bellshill"
-      },
+      "area_id": "hamilton_north_and_bellshill",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80359",
@@ -10031,9 +9366,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80536",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -10045,9 +9378,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80360",
@@ -10061,9 +9392,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Greenock and Inverclyde"
-      },
+      "area_id": "greenock_and_inverclyde",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80209",
@@ -10077,9 +9406,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Greenock and Inverclyde"
-      },
+      "area_id": "greenock_and_inverclyde",
       "id": "uk.org.publicwhip/member/80478",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -10091,9 +9418,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Greenock and Inverclyde"
-      },
+      "area_id": "greenock_and_inverclyde",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80361",
@@ -10107,9 +9432,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Greenock and Inverclyde"
-      },
+      "area_id": "greenock_and_inverclyde",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80083",
@@ -10123,9 +9446,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Kelvin"
-      },
+      "area_id": "glasgow_kelvin",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80210",
@@ -10139,9 +9460,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Kelvin"
-      },
+      "area_id": "glasgow_kelvin",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80084",
@@ -10155,9 +9474,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Kelvin"
-      },
+      "area_id": "glasgow_kelvin",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80362",
@@ -10171,9 +9488,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydebank and Milngavie"
-      },
+      "area_id": "clydebank_and_milngavie",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80211",
@@ -10187,9 +9502,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydebank and Milngavie"
-      },
+      "area_id": "clydebank_and_milngavie",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80085",
@@ -10203,9 +9516,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydebank and Milngavie"
-      },
+      "area_id": "clydebank_and_milngavie",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80363",
@@ -10219,9 +9530,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80086",
@@ -10235,9 +9544,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80364",
@@ -10251,9 +9558,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80522",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -10265,9 +9570,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80087",
@@ -10281,9 +9584,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80365",
@@ -10297,9 +9598,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80489",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -10311,9 +9610,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80212",
@@ -10327,9 +9624,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2005-11-08",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80088",
@@ -10343,9 +9638,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80271",
@@ -10359,9 +9652,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Western Isles"
-      },
+      "area_id": "western_isles",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80090",
@@ -10375,9 +9666,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Western Isles"
-      },
+      "area_id": "western_isles",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80214",
@@ -10391,9 +9680,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Livingston"
-      },
+      "area_id": "livingston",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80215",
@@ -10407,9 +9694,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Livingston"
-      },
+      "area_id": "livingston",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80091",
@@ -10423,9 +9708,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Linlithgow"
-      },
+      "area_id": "linlithgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80216",
@@ -10439,9 +9722,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Linlithgow"
-      },
+      "area_id": "linlithgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80092",
@@ -10455,9 +9736,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Linlithgow"
-      },
+      "area_id": "linlithgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80367",
@@ -10471,9 +9750,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumfries"
-      },
+      "area_id": "dumfries",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80219",
@@ -10487,9 +9764,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumfriesshire"
-      },
+      "area_id": "dumfriesshire",
       "id": "uk.org.publicwhip/member/80467",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -10501,9 +9776,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumfries"
-      },
+      "area_id": "dumfries",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80369",
@@ -10517,9 +9790,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dumfries"
-      },
+      "area_id": "dumfries",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80094",
@@ -10533,9 +9804,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80220",
@@ -10549,9 +9818,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80095",
@@ -10565,9 +9832,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80370",
@@ -10581,9 +9846,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Airdrie and Shotts"
-      },
+      "area_id": "airdrie_and_shotts",
       "id": "uk.org.publicwhip/member/80410",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -10595,9 +9858,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80371",
@@ -10611,9 +9872,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame South"
-      },
+      "area_id": "cunninghame_south",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80221",
@@ -10627,9 +9886,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame South"
-      },
+      "area_id": "cunninghame_south",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80096",
@@ -10643,9 +9900,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame South"
-      },
+      "area_id": "cunninghame_south",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80372",
@@ -10659,9 +9914,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80373",
@@ -10675,9 +9928,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2012-12-07",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80511",
@@ -10691,9 +9942,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80222",
@@ -10707,9 +9956,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Clydebank and Milngavie"
-      },
+      "area_id": "clydebank_and_milngavie",
       "id": "uk.org.publicwhip/member/80473",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -10721,9 +9968,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80374",
@@ -10737,9 +9982,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80223",
@@ -10753,9 +9996,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80375",
@@ -10769,9 +10010,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80097",
@@ -10785,9 +10024,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk East"
-      },
+      "area_id": "falkirk_east",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80224",
@@ -10801,9 +10038,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk East"
-      },
+      "area_id": "falkirk_east",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80098",
@@ -10817,9 +10052,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk East"
-      },
+      "area_id": "falkirk_east",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80376",
@@ -10833,9 +10066,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80099",
@@ -10849,9 +10080,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "Edinburgh South"
-      },
+      "area_id": "edinburgh_south",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80100",
@@ -10865,9 +10094,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh South"
-      },
+      "area_id": "edinburgh_south",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80377",
@@ -10881,9 +10108,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Tweeddale, Ettrick and Lauderdale"
-      },
+      "area_id": "tweeddale,_ettrick_and_lauderdale",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80101",
@@ -10897,9 +10122,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Tweeddale, Ettrick and Lauderdale"
-      },
+      "area_id": "tweeddale,_ettrick_and_lauderdale",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80378",
@@ -10913,9 +10136,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80225",
@@ -10929,9 +10150,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Gordon"
-      },
+      "area_id": "gordon",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80102",
@@ -10945,9 +10164,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Gordon"
-      },
+      "area_id": "gordon",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80226",
@@ -10961,9 +10178,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80227",
@@ -10977,9 +10192,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2005-01-07",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80266",
@@ -10993,9 +10206,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80228",
@@ -11009,9 +10220,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ochil"
-      },
+      "area_id": "ochil",
       "end_date": "2003-05-06",
       "end_reason": "became_presiding_officer",
       "id": "uk.org.publicwhip/member/80103",
@@ -11025,9 +10234,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ochil"
-      },
+      "area_id": "ochil",
       "end_date": "2007-05-14",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80272",
@@ -11041,9 +10248,7 @@
       "start_reason": "became_presiding_officer"
     },
     {
-      "area": {
-        "name": "Dundee City East"
-      },
+      "area_id": "dundee_city_east",
       "id": "uk.org.publicwhip/member/80462",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -11055,9 +10260,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee East"
-      },
+      "area_id": "dundee_east",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80104",
@@ -11071,9 +10274,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dundee East"
-      },
+      "area_id": "dundee_east",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80379",
@@ -11087,9 +10288,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80229",
@@ -11103,9 +10302,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Roxburgh and Berwickshire"
-      },
+      "area_id": "roxburgh_and_berwickshire",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80230",
@@ -11119,9 +10316,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Roxburgh and Berwickshire"
-      },
+      "area_id": "roxburgh_and_berwickshire",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80105",
@@ -11135,9 +10330,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Aberdeenshire and Kincardine"
-      },
+      "area_id": "west_aberdeenshire_and_kincardine",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80231",
@@ -11151,9 +10344,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Aberdeenshire and Kincardine"
-      },
+      "area_id": "west_aberdeenshire_and_kincardine",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80106",
@@ -11167,9 +10358,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Aberdeenshire and Kincardine"
-      },
+      "area_id": "west_aberdeenshire_and_kincardine",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80380",
@@ -11183,9 +10372,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80107",
@@ -11199,9 +10386,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Argyll and Bute"
-      },
+      "area_id": "argyll_and_bute",
       "id": "uk.org.publicwhip/member/80428",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -11213,9 +10398,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80381",
@@ -11229,9 +10412,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80232",
@@ -11245,9 +10426,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80234",
@@ -11261,9 +10440,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2006-04-07",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80267",
@@ -11277,9 +10454,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80503",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -11291,9 +10466,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80383",
@@ -11307,9 +10480,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ayr"
-      },
+      "area_id": "ayr",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80235",
@@ -11323,9 +10494,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Ayr"
-      },
+      "area_id": "ayr",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80108",
@@ -11339,9 +10508,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ayr"
-      },
+      "area_id": "ayr",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80384",
@@ -11355,9 +10522,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ayr"
-      },
+      "area_id": "ayr",
       "id": "uk.org.publicwhip/member/80464",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -11369,9 +10534,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Shetland Islands"
-      },
+      "area_id": "shetland_islands",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80236",
@@ -11385,9 +10548,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Shetland Islands"
-      },
+      "area_id": "shetland_islands",
       "id": "uk.org.publicwhip/member/80434",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
@@ -11399,9 +10560,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Shetland Islands"
-      },
+      "area_id": "shetland_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80385",
@@ -11415,9 +10574,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Shetland Islands"
-      },
+      "area_id": "shetland_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80109",
@@ -11431,9 +10588,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80110",
@@ -11447,9 +10602,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80273",
@@ -11463,9 +10616,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2006-09-02",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80111",
@@ -11479,9 +10630,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80237",
@@ -11495,9 +10644,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ochil"
-      },
+      "area_id": "ochil",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80238",
@@ -11511,9 +10658,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80386",
@@ -11527,9 +10672,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80513",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -11541,9 +10684,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80515",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -11555,9 +10696,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80387",
@@ -11571,9 +10710,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh West"
-      },
+      "area_id": "edinburgh_west",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80389",
@@ -11587,9 +10724,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh West"
-      },
+      "area_id": "edinburgh_west",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80113",
@@ -11603,9 +10738,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh West"
-      },
+      "area_id": "edinburgh_west",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80241",
@@ -11619,9 +10752,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Fife"
-      },
+      "area_id": "north_east_fife",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80240",
@@ -11635,9 +10766,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Fife"
-      },
+      "area_id": "north_east_fife",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80114",
@@ -11651,9 +10780,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Fife"
-      },
+      "area_id": "north_east_fife",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80390",
@@ -11667,9 +10794,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Coatbridge and Chryston"
-      },
+      "area_id": "coatbridge_and_chryston",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80239",
@@ -11683,9 +10808,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Coatbridge and Chryston"
-      },
+      "area_id": "coatbridge_and_chryston",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80112",
@@ -11699,9 +10822,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Coatbridge and Chryston"
-      },
+      "area_id": "coatbridge_and_chryston",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80388",
@@ -11715,9 +10836,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Coatbridge and Chryston"
-      },
+      "area_id": "coatbridge_and_chryston",
       "id": "uk.org.publicwhip/member/80411",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -11729,9 +10848,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80391",
@@ -11745,9 +10862,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "Aberdeen South"
-      },
+      "area_id": "aberdeen_south",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80243",
@@ -11761,9 +10876,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen South"
-      },
+      "area_id": "aberdeen_south",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80115",
@@ -11777,9 +10890,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen South"
-      },
+      "area_id": "aberdeen_south",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80392",
@@ -11793,9 +10904,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Banff and Buchan"
-      },
+      "area_id": "banff_and_buchan",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80244",
@@ -11809,9 +10918,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Banff and Buchan"
-      },
+      "area_id": "banff_and_buchan",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80116",
@@ -11825,9 +10932,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Banffshire and Buchan Coast"
-      },
+      "area_id": "banffshire_and_buchan_coast",
       "id": "uk.org.publicwhip/member/80461",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -11839,9 +10944,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Banff and Buchan"
-      },
+      "area_id": "banff_and_buchan",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80393",
@@ -11855,9 +10958,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80394",
@@ -11871,9 +10972,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80501",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -11885,9 +10984,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Caithness, Sutherland and Easter Ross"
-      },
+      "area_id": "caithness,_sutherland_and_easter_ross",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80245",
@@ -11901,9 +10998,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Caithness, Sutherland and Easter Ross"
-      },
+      "area_id": "caithness,_sutherland_and_easter_ross",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80117",
@@ -11917,9 +11012,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Caithness, Sutherland and Easter Ross"
-      },
+      "area_id": "caithness,_sutherland_and_easter_ross",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80395",
@@ -11933,9 +11026,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80246",
@@ -11949,9 +11040,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80118",
@@ -11965,9 +11054,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Govan"
-      },
+      "area_id": "glasgow_govan",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80396",
@@ -11981,9 +11068,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Southside"
-      },
+      "area_id": "glasgow_southside",
       "id": "uk.org.publicwhip/member/80426",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -11995,9 +11080,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80119",
@@ -12011,9 +11094,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80398",
@@ -12027,9 +11108,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Skye, Lochaber and Badenoch"
-      },
+      "area_id": "skye,_lochaber_and_badenoch",
       "id": "uk.org.publicwhip/member/80435",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12041,9 +11120,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen North"
-      },
+      "area_id": "aberdeen_north",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80248",
@@ -12057,9 +11134,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline West"
-      },
+      "area_id": "dunfermline_west",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80399",
@@ -12073,9 +11148,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South of Scotland"
-      },
+      "area_id": "south_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80249",
@@ -12089,9 +11162,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80121",
@@ -12105,9 +11176,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Strathkelvin and Bearsden"
-      },
+      "area_id": "strathkelvin_and_bearsden",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80122",
@@ -12121,9 +11190,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothians"
-      },
+      "area_id": "lothians",
       "end_date": "2007-08-30",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80408",
@@ -12137,9 +11204,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80250",
@@ -12153,9 +11218,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Cathcart"
-      },
+      "area_id": "glasgow_cathcart",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80253",
@@ -12169,9 +11232,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Cathcart"
-      },
+      "area_id": "glasgow_cathcart",
       "end_date": "2005-09-05",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80274",
@@ -12185,9 +11246,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Glasgow Cathcart"
-      },
+      "area_id": "glasgow_cathcart",
       "end_date": "2004-11-15",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80268",
@@ -12201,9 +11260,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80124",
@@ -12217,9 +11274,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80400",
@@ -12233,9 +11288,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen South and North Kincardine"
-      },
+      "area_id": "aberdeen_south_and_north_kincardine",
       "id": "uk.org.publicwhip/member/80456",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12247,9 +11300,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Ayr"
-      },
+      "area_id": "ayr",
       "end_date": "1999-12-21",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80254",
@@ -12263,9 +11314,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80256",
@@ -12279,9 +11328,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80126",
@@ -12295,9 +11342,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Kelvin"
-      },
+      "area_id": "glasgow_kelvin",
       "id": "uk.org.publicwhip/member/80421",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12309,9 +11354,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80402",
@@ -12325,9 +11368,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Airdrie and Shotts"
-      },
+      "area_id": "airdrie_and_shotts",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80257",
@@ -12341,9 +11382,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Airdrie and Shotts"
-      },
+      "area_id": "airdrie_and_shotts",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80127",
@@ -12357,9 +11396,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Airdrie and Shotts"
-      },
+      "area_id": "airdrie_and_shotts",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80403",
@@ -12373,9 +11410,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Strathkelvin and Bearsden"
-      },
+      "area_id": "strathkelvin_and_bearsden",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80404",
@@ -12389,9 +11424,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80405",
@@ -12405,9 +11438,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80484",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12419,9 +11450,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame North"
-      },
+      "area_id": "cunninghame_north",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80258",
@@ -12435,9 +11464,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame North"
-      },
+      "area_id": "cunninghame_north",
       "end_date": "2007-04-02",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80128",
@@ -12451,9 +11478,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80259",
@@ -12467,9 +11492,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80406",
@@ -12483,9 +11506,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West of Scotland"
-      },
+      "area_id": "west_of_scotland",
       "end_date": "2003-03-31",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80260",
@@ -12499,9 +11520,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "end_date": "2011-03-23",
       "end_reason": "regional_election",
       "id": "uk.org.publicwhip/member/80409",
@@ -12515,9 +11534,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "Paisley"
-      },
+      "area_id": "paisley",
       "id": "uk.org.publicwhip/member/80479",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12529,9 +11546,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80485",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12543,9 +11558,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Midlothian North and Musselburgh"
-      },
+      "area_id": "midlothian_north_and_musselburgh",
       "id": "uk.org.publicwhip/member/80444",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12557,9 +11570,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Central"
-      },
+      "area_id": "edinburgh_central",
       "id": "uk.org.publicwhip/member/80437",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12571,9 +11582,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80533",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12585,9 +11594,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80528",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12599,9 +11606,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Cunninghame South"
-      },
+      "area_id": "cunninghame_south",
       "id": "uk.org.publicwhip/member/80475",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12613,9 +11618,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Fife"
-      },
+      "area_id": "north_east_fife",
       "id": "uk.org.publicwhip/member/80448",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12627,9 +11630,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80496",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -12641,9 +11642,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Angus South"
-      },
+      "area_id": "angus_south",
       "id": "uk.org.publicwhip/member/80460",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12655,9 +11654,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Cathcart"
-      },
+      "area_id": "glasgow_cathcart",
       "id": "uk.org.publicwhip/member/80420",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12669,9 +11666,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "id": "uk.org.publicwhip/member/80505",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12683,9 +11678,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Southern"
-      },
+      "area_id": "edinburgh_southern",
       "id": "uk.org.publicwhip/member/80441",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12697,9 +11690,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80516",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12711,9 +11702,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80532",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12725,9 +11714,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "id": "uk.org.publicwhip/member/80506",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12739,9 +11726,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80545",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
@@ -12753,9 +11738,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2012-10-23",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80497",
@@ -12769,9 +11752,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80487",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12783,9 +11764,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80529",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12797,9 +11776,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "id": "uk.org.publicwhip/member/80509",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "green",
@@ -12811,9 +11788,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Western"
-      },
+      "area_id": "edinburgh_western",
       "id": "uk.org.publicwhip/member/80442",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12825,9 +11800,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80483",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12839,9 +11812,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Falkirk East"
-      },
+      "area_id": "falkirk_east",
       "id": "uk.org.publicwhip/member/80414",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12853,9 +11824,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Edinburgh Pentlands"
-      },
+      "area_id": "edinburgh_pentlands",
       "id": "uk.org.publicwhip/member/80440",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12867,9 +11836,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Renfrewshire North and West"
-      },
+      "area_id": "renfrewshire_north_and_west",
       "id": "uk.org.publicwhip/member/80480",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12881,9 +11848,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80499",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12895,9 +11860,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Eastwood"
-      },
+      "area_id": "eastwood",
       "id": "uk.org.publicwhip/member/80477",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12909,9 +11872,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80490",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12923,9 +11884,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80519",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12937,9 +11896,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow Shettleston"
-      },
+      "area_id": "glasgow_shettleston",
       "id": "uk.org.publicwhip/member/80425",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12951,9 +11908,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80525",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12965,9 +11920,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80488",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -12979,9 +11932,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen Donside"
-      },
+      "area_id": "aberdeen_donside",
       "id": "uk.org.publicwhip/member/80541",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -12993,9 +11944,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "end_date": "2013-05-14",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80523",
@@ -13009,9 +11958,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "West Scotland"
-      },
+      "area_id": "west_scotland",
       "id": "uk.org.publicwhip/member/80534",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13023,9 +11970,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80526",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13037,9 +11982,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Central Scotland"
-      },
+      "area_id": "central_scotland",
       "id": "uk.org.publicwhip/member/80486",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13051,9 +11994,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80492",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13065,9 +12006,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80530",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13079,9 +12018,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Motherwell and Wishaw"
-      },
+      "area_id": "motherwell_and_wishaw",
       "id": "uk.org.publicwhip/member/80417",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13093,9 +12030,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80517",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
@@ -13107,9 +12042,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeenshire West"
-      },
+      "area_id": "aberdeenshire_west",
       "id": "uk.org.publicwhip/member/80458",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13121,9 +12054,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80491",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13135,9 +12066,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Aberdeen Central"
-      },
+      "area_id": "aberdeen_central",
       "id": "uk.org.publicwhip/member/80454",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13149,9 +12078,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Kirkcaldy"
-      },
+      "area_id": "kirkcaldy",
       "id": "uk.org.publicwhip/member/80449",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13163,9 +12090,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "end_date": "2012-10-23",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80498",
@@ -13179,9 +12104,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Highlands and Islands"
-      },
+      "area_id": "highlands_and_islands",
       "id": "uk.org.publicwhip/member/80546",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
@@ -13193,9 +12116,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "Dunfermline"
-      },
+      "area_id": "dunfermline",
       "end_date": "2012-04-08",
       "end_reason": "changed_party",
       "id": "uk.org.publicwhip/member/80447",
@@ -13209,9 +12130,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Dunfermline"
-      },
+      "area_id": "dunfermline",
       "end_date": "2013-09-07",
       "end_reason": "resigned",
       "id": "uk.org.publicwhip/member/80539",
@@ -13225,9 +12144,7 @@
       "start_reason": "changed_party"
     },
     {
-      "area": {
-        "name": "South Scotland"
-      },
+      "area_id": "south_scotland",
       "id": "uk.org.publicwhip/member/80527",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13239,9 +12156,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Glasgow"
-      },
+      "area_id": "glasgow",
       "id": "uk.org.publicwhip/member/80493",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13253,9 +12168,7 @@
       "start_reason": "regional_election"
     },
     {
-      "area": {
-        "name": "Mid Scotland and Fife"
-      },
+      "area_id": "mid_scotland_and_fife",
       "id": "uk.org.publicwhip/member/80540",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13267,9 +12180,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "North East Scotland"
-      },
+      "area_id": "north_east_scotland",
       "id": "uk.org.publicwhip/member/80542",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -13281,9 +12192,7 @@
       "start_reason": "replaced_in_region"
     },
     {
-      "area": {
-        "name": "Dunfermline"
-      },
+      "area_id": "dunfermline",
       "id": "uk.org.publicwhip/member/80544",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13295,9 +12204,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Cowdenbeath"
-      },
+      "area_id": "cowdenbeath",
       "id": "uk.org.publicwhip/member/80547",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -13309,9 +12216,7 @@
       "start_reason": "by_election"
     },
     {
-      "area": {
-        "name": "Lothian"
-      },
+      "area_id": "lothian",
       "id": "uk.org.publicwhip/member/80543",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -13354,6 +12259,623 @@
       "name": "4th Parliament",
       "organization_id": "scottish-parliament",
       "start_date": "2011-05-06"
+    }
+  ],
+  "areas": [
+    {
+      "id": "falkirk_west",
+      "name": "Falkirk West",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_north_and_leith",
+      "name": "Edinburgh North and Leith",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_northern_and_leith",
+      "name": "Edinburgh Northern and Leith",
+      "type": "constituency"
+    },
+    {
+      "id": "perthshire_south_and_kinross-shire",
+      "name": "Perthshire South and Kinross-shire",
+      "type": "constituency"
+    },
+    {
+      "id": "perth",
+      "name": "Perth",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_anniesland",
+      "name": "Glasgow Anniesland",
+      "type": "constituency"
+    },
+    {
+      "id": "moray",
+      "name": "Moray",
+      "type": "constituency"
+    },
+    {
+      "id": "lothians",
+      "name": "Lothians",
+      "type": "constituency"
+    },
+    {
+      "id": "strathkelvin_and_bearsden",
+      "name": "Strathkelvin and Bearsden",
+      "type": "constituency"
+    },
+    {
+      "id": "central_scotland",
+      "name": "Central Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "east_lothian",
+      "name": "East Lothian",
+      "type": "constituency"
+    },
+    {
+      "id": "dundee_east",
+      "name": "Dundee East",
+      "type": "constituency"
+    },
+    {
+      "id": "central_fife",
+      "name": "Central Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "south_of_scotland",
+      "name": "South of Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "galloway_and_upper_nithsdale",
+      "name": "Galloway and Upper Nithsdale",
+      "type": "constituency"
+    },
+    {
+      "id": "banff_and_buchan",
+      "name": "Banff and Buchan",
+      "type": "constituency"
+    },
+    {
+      "id": "gordon",
+      "name": "Gordon",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeenshire_east",
+      "name": "Aberdeenshire East",
+      "type": "constituency"
+    },
+    {
+      "id": "north_tayside",
+      "name": "North Tayside",
+      "type": "constituency"
+    },
+    {
+      "id": "perthshire_north",
+      "name": "Perthshire North",
+      "type": "constituency"
+    },
+    {
+      "id": "orkney_islands",
+      "name": "Orkney Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "angus",
+      "name": "Angus",
+      "type": "constituency"
+    },
+    {
+      "id": "north_east_scotland",
+      "name": "North East Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeen_north",
+      "name": "Aberdeen North",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeen_donside",
+      "name": "Aberdeen Donside",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow",
+      "name": "Glasgow",
+      "type": "constituency"
+    },
+    {
+      "id": "paisley_north",
+      "name": "Paisley North",
+      "type": "constituency"
+    },
+    {
+      "id": "na_h-eileanan_an_iar",
+      "name": "Na h-Eileanan an Iar",
+      "type": "constituency"
+    },
+    {
+      "id": "western_isles",
+      "name": "Western Isles",
+      "type": "constituency"
+    },
+    {
+      "id": "mid_scotland_and_fife",
+      "name": "Mid Scotland and Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "dumbarton",
+      "name": "Dumbarton",
+      "type": "constituency"
+    },
+    {
+      "id": "dunfermline_west",
+      "name": "Dunfermline West",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_central",
+      "name": "Edinburgh Central",
+      "type": "constituency"
+    },
+    {
+      "id": "lothian",
+      "name": "Lothian",
+      "type": "constituency"
+    },
+    {
+      "id": "midlothian",
+      "name": "Midlothian",
+      "type": "constituency"
+    },
+    {
+      "id": "clackmannanshire_and_dunblane",
+      "name": "Clackmannanshire and Dunblane",
+      "type": "constituency"
+    },
+    {
+      "id": "ochil",
+      "name": "Ochil",
+      "type": "constituency"
+    },
+    {
+      "id": "west_of_scotland",
+      "name": "West of Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "clydesdale",
+      "name": "Clydesdale",
+      "type": "constituency"
+    },
+    {
+      "id": "west_scotland",
+      "name": "West Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "kilmarnock_and_irvine_valley",
+      "name": "Kilmarnock and Irvine Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "kilmarnock_and_loudoun",
+      "name": "Kilmarnock and Loudoun",
+      "type": "constituency"
+    },
+    {
+      "id": "almond_valley",
+      "name": "Almond Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "livingston",
+      "name": "Livingston",
+      "type": "constituency"
+    },
+    {
+      "id": "cumbernauld_and_kilsyth",
+      "name": "Cumbernauld and Kilsyth",
+      "type": "constituency"
+    },
+    {
+      "id": "stirling",
+      "name": "Stirling",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_baillieston",
+      "name": "Glasgow Baillieston",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_east_and_musselburgh",
+      "name": "Edinburgh East and Musselburgh",
+      "type": "constituency"
+    },
+    {
+      "id": "angus_north_and_mearns",
+      "name": "Angus North and Mearns",
+      "type": "constituency"
+    },
+    {
+      "id": "dunfermline_east",
+      "name": "Dunfermline East",
+      "type": "constituency"
+    },
+    {
+      "id": "cowdenbeath",
+      "name": "Cowdenbeath",
+      "type": "constituency"
+    },
+    {
+      "id": "inverness_east,_nairn_and_lochaber",
+      "name": "Inverness East, Nairn and Lochaber",
+      "type": "constituency"
+    },
+    {
+      "id": "inverness_and_nairn",
+      "name": "Inverness and Nairn",
+      "type": "constituency"
+    },
+    {
+      "id": "highlands_and_islands",
+      "name": "Highlands and Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "east_kilbride",
+      "name": "East Kilbride",
+      "type": "constituency"
+    },
+    {
+      "id": "ross,_skye_and_inverness_west",
+      "name": "Ross, Skye and Inverness West",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_maryhill",
+      "name": "Glasgow Maryhill",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_maryhill_and_springburn",
+      "name": "Glasgow Maryhill and Springburn",
+      "type": "constituency"
+    },
+    {
+      "id": "galloway_and_west_dumfries",
+      "name": "Galloway and West Dumfries",
+      "type": "constituency"
+    },
+    {
+      "id": "dundee_city_west",
+      "name": "Dundee City West",
+      "type": "constituency"
+    },
+    {
+      "id": "dundee_west",
+      "name": "Dundee West",
+      "type": "constituency"
+    },
+    {
+      "id": "caithness,_sutherland_and_ross",
+      "name": "Caithness, Sutherland and Ross",
+      "type": "constituency"
+    },
+    {
+      "id": "cunninghame_north",
+      "name": "Cunninghame North",
+      "type": "constituency"
+    },
+    {
+      "id": "west_renfrewshire",
+      "name": "West Renfrewshire",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_cathcart",
+      "name": "Glasgow Cathcart",
+      "type": "constituency"
+    },
+    {
+      "id": "midlothian_south,_tweeddale_and_lauderdale",
+      "name": "Midlothian South, Tweeddale and Lauderdale",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_pentlands",
+      "name": "Edinburgh Pentlands",
+      "type": "constituency"
+    },
+    {
+      "id": "paisley_south",
+      "name": "Paisley South",
+      "type": "constituency"
+    },
+    {
+      "id": "renfrewshire_south",
+      "name": "Renfrewshire South",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_rutherglen",
+      "name": "Glasgow Rutherglen",
+      "type": "constituency"
+    },
+    {
+      "id": "south_scotland",
+      "name": "South Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "linlithgow",
+      "name": "Linlithgow",
+      "type": "constituency"
+    },
+    {
+      "id": "carrick,_cumnock_and_doon_valley",
+      "name": "Carrick, Cumnock and Doon Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_govan",
+      "name": "Glasgow Govan",
+      "type": "constituency"
+    },
+    {
+      "id": "tweeddale,_ettrick_and_lauderdale",
+      "name": "Tweeddale, Ettrick and Lauderdale",
+      "type": "constituency"
+    },
+    {
+      "id": "rutherglen",
+      "name": "Rutherglen",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_pollok",
+      "name": "Glasgow Pollok",
+      "type": "constituency"
+    },
+    {
+      "id": "roxburgh_and_berwickshire",
+      "name": "Roxburgh and Berwickshire",
+      "type": "constituency"
+    },
+    {
+      "id": "ettrick,_roxburgh_and_berwickshire",
+      "name": "Ettrick, Roxburgh and Berwickshire",
+      "type": "constituency"
+    },
+    {
+      "id": "kirkcaldy",
+      "name": "Kirkcaldy",
+      "type": "constituency"
+    },
+    {
+      "id": "argyll_and_bute",
+      "name": "Argyll and Bute",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_eastern",
+      "name": "Edinburgh Eastern",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_south",
+      "name": "Edinburgh South",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeen_central",
+      "name": "Aberdeen Central",
+      "type": "constituency"
+    },
+    {
+      "id": "eastwood",
+      "name": "Eastwood",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_provan",
+      "name": "Glasgow Provan",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_springburn",
+      "name": "Glasgow Springburn",
+      "type": "constituency"
+    },
+    {
+      "id": "mid_fife_and_glenrothes",
+      "name": "Mid Fife and Glenrothes",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_shettleston",
+      "name": "Glasgow Shettleston",
+      "type": "constituency"
+    },
+    {
+      "id": "hamilton_south",
+      "name": "Hamilton South",
+      "type": "constituency"
+    },
+    {
+      "id": "motherwell_and_wishaw",
+      "name": "Motherwell and Wishaw",
+      "type": "constituency"
+    },
+    {
+      "id": "hamilton,_larkhall_and_stonehouse",
+      "name": "Hamilton, Larkhall and Stonehouse",
+      "type": "constituency"
+    },
+    {
+      "id": "hamilton_north_and_bellshill",
+      "name": "Hamilton North and Bellshill",
+      "type": "constituency"
+    },
+    {
+      "id": "uddingston_and_bellshill",
+      "name": "Uddingston and Bellshill",
+      "type": "constituency"
+    },
+    {
+      "id": "greenock_and_inverclyde",
+      "name": "Greenock and Inverclyde",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_kelvin",
+      "name": "Glasgow Kelvin",
+      "type": "constituency"
+    },
+    {
+      "id": "clydebank_and_milngavie",
+      "name": "Clydebank and Milngavie",
+      "type": "constituency"
+    },
+    {
+      "id": "dumfries",
+      "name": "Dumfries",
+      "type": "constituency"
+    },
+    {
+      "id": "dumfriesshire",
+      "name": "Dumfriesshire",
+      "type": "constituency"
+    },
+    {
+      "id": "airdrie_and_shotts",
+      "name": "Airdrie and Shotts",
+      "type": "constituency"
+    },
+    {
+      "id": "cunninghame_south",
+      "name": "Cunninghame South",
+      "type": "constituency"
+    },
+    {
+      "id": "falkirk_east",
+      "name": "Falkirk East",
+      "type": "constituency"
+    },
+    {
+      "id": "dundee_city_east",
+      "name": "Dundee City East",
+      "type": "constituency"
+    },
+    {
+      "id": "west_aberdeenshire_and_kincardine",
+      "name": "West Aberdeenshire and Kincardine",
+      "type": "constituency"
+    },
+    {
+      "id": "ayr",
+      "name": "Ayr",
+      "type": "constituency"
+    },
+    {
+      "id": "shetland_islands",
+      "name": "Shetland Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_west",
+      "name": "Edinburgh West",
+      "type": "constituency"
+    },
+    {
+      "id": "north_east_fife",
+      "name": "North East Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "coatbridge_and_chryston",
+      "name": "Coatbridge and Chryston",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeen_south",
+      "name": "Aberdeen South",
+      "type": "constituency"
+    },
+    {
+      "id": "banffshire_and_buchan_coast",
+      "name": "Banffshire and Buchan Coast",
+      "type": "constituency"
+    },
+    {
+      "id": "caithness,_sutherland_and_easter_ross",
+      "name": "Caithness, Sutherland and Easter Ross",
+      "type": "constituency"
+    },
+    {
+      "id": "glasgow_southside",
+      "name": "Glasgow Southside",
+      "type": "constituency"
+    },
+    {
+      "id": "skye,_lochaber_and_badenoch",
+      "name": "Skye, Lochaber and Badenoch",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeen_south_and_north_kincardine",
+      "name": "Aberdeen South and North Kincardine",
+      "type": "constituency"
+    },
+    {
+      "id": "paisley",
+      "name": "Paisley",
+      "type": "constituency"
+    },
+    {
+      "id": "midlothian_north_and_musselburgh",
+      "name": "Midlothian North and Musselburgh",
+      "type": "constituency"
+    },
+    {
+      "id": "angus_south",
+      "name": "Angus South",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_southern",
+      "name": "Edinburgh Southern",
+      "type": "constituency"
+    },
+    {
+      "id": "edinburgh_western",
+      "name": "Edinburgh Western",
+      "type": "constituency"
+    },
+    {
+      "id": "renfrewshire_north_and_west",
+      "name": "Renfrewshire North and West",
+      "type": "constituency"
+    },
+    {
+      "id": "aberdeenshire_west",
+      "name": "Aberdeenshire West",
+      "type": "constituency"
+    },
+    {
+      "id": "dunfermline",
+      "name": "Dunfermline",
+      "type": "constituency"
     }
   ]
 }
