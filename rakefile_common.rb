@@ -232,7 +232,7 @@ namespace :transform do
     @json[:memberships].find_all { |m| m.key? :area }.each do |m|
       area = m.delete :area
       area[:type] ||= 'constituency'
-      raise "Area has no ID" unless area.key? :id
+      area[:id] ||= area[:name].downcase.gsub(/\s+/, '_') 
       raise "area_id is empty" if area[:id].empty?
       m[:area_id] = area[:id]
       @json[:areas] << area unless @json[:areas].find { |a| a[:id] == area[:id] }
