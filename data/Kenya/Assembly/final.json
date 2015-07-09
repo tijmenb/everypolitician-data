@@ -5632,23 +5632,28 @@
     },
     {
       "classification": "party",
-      "id": "Peace",
-      "name": "Amani"
-    },
-    {
-      "classification": "party",
-      "id": "",
+      "id": "party/chama_cha_uzalendo",
       "name": "Chama Cha Uzalendo"
     },
     {
       "classification": "party",
-      "id": "",
-      "name": "Coalition for Reforms & Democracy"
+      "id": "party/federal_party_of_kenya",
+      "name": "Federal Party of Kenya"
     },
     {
       "classification": "party",
-      "id": "",
+      "id": "party/ford_kenya",
+      "name": "Ford Kenya"
+    },
+    {
+      "classification": "party",
+      "id": "party/ford_people",
       "name": "Ford People"
+    },
+    {
+      "classification": "party",
+      "id": "party/forum_for_the_restoration_of_democracy_-_kenya",
+      "name": "Forum For The Restoration Of Democracy - Kenya"
     },
     {
       "classification": "party",
@@ -5657,13 +5662,28 @@
     },
     {
       "classification": "party",
-      "id": "",
+      "id": "party/independent_aspirant",
       "name": "Independent Aspirant"
     },
     {
       "classification": "party",
-      "id": "",
-      "name": "Jubilee Alliance"
+      "id": "party/kenya_african_democratic_union_-_asili",
+      "name": "Kenya African Democratic Union - Asili"
+    },
+    {
+      "classification": "party",
+      "id": "party/kenya_african_national_union",
+      "name": "Kenya African National Union"
+    },
+    {
+      "classification": "party",
+      "id": "party/kenya_national_congress",
+      "name": "Kenya National Congress"
+    },
+    {
+      "classification": "party",
+      "id": "party/labour_party_of_kenya",
+      "name": "Labour Party Of Kenya"
     },
     {
       "classification": "party",
@@ -5672,7 +5692,12 @@
     },
     {
       "classification": "party",
-      "id": "",
+      "id": "MDM",
+      "name": "Muungano Development Movement Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/narc_-_kenya",
       "name": "NARC - Kenya"
     },
     {
@@ -5683,13 +5708,53 @@
     },
     {
       "classification": "party",
-      "id": "",
-      "name": "The Eagle Coalition"
+      "id": "party/national_rainbow_coalition",
+      "name": "National Rainbow Coalition"
     },
     {
       "classification": "party",
-      "id": "party/_unknown",
-      "name": "Unknown"
+      "id": "party/new_ford_kenya",
+      "name": "New Ford Kenya"
+    },
+    {
+      "classification": "party",
+      "id": "party/orange_democratic_movement",
+      "name": "Orange Democratic Movement"
+    },
+    {
+      "classification": "party",
+      "id": "party/party_of_national_unity",
+      "name": "Party of National Unity"
+    },
+    {
+      "classification": "party",
+      "id": "PDP",
+      "name": "People's Democratic Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/the_independent_party",
+      "name": "The Independent Party"
+    },
+    {
+      "classification": "party",
+      "id": "TNA",
+      "name": "The National Alliance"
+    },
+    {
+      "classification": "party",
+      "id": "UDF",
+      "name": "United Democratic Forum Party"
+    },
+    {
+      "classification": "party",
+      "id": "URP",
+      "name": "United Republican Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/wiper_democratic_movement_kenya",
+      "name": "Wiper democratic Movement Kenya"
     }
   ],
   "meta": {
@@ -5699,7 +5764,7 @@
     {
       "area_id": "area/budalangi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/ababu-namwamba",
       "role": "member"
@@ -5707,14 +5772,14 @@
     {
       "area_id": "area/wajir_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/abass-sheikh-mohamed",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/abdi-noor-mohammed-ali",
       "role": "member"
@@ -5722,7 +5787,7 @@
     {
       "area_id": "area/balambala",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/abdikadir-omar-aden",
       "role": "member"
@@ -5730,7 +5795,7 @@
     {
       "area_id": "area/wajir_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/abdikadir-ore-ahmed",
       "role": "member"
@@ -5746,7 +5811,7 @@
     {
       "area_id": "area/mandera_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/abdulaziz-ali-farah",
       "role": "member"
@@ -5754,7 +5819,7 @@
     {
       "area_id": "area/isiolo_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/abdullahi-jaldesa-banticha",
       "role": "member"
@@ -5762,7 +5827,7 @@
     {
       "area_id": "area/mvita",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/abdulswamad-sheriff-nassir",
       "role": "member"
@@ -5770,7 +5835,7 @@
     {
       "area_id": "area/eldas",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/adan-keynan",
       "role": "member"
@@ -5778,7 +5843,7 @@
     {
       "area_id": "area/mandera_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/adan-mohamed-nooru",
       "role": "member"
@@ -5786,7 +5851,7 @@
     {
       "area_id": "area/garissa_township",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/aden-duale",
       "role": "member"
@@ -5794,7 +5859,7 @@
     {
       "area_id": "area/kilifi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/aisha-jumwa-katana",
       "role": "member"
@@ -5802,7 +5867,7 @@
     {
       "area_id": "area/tharaka",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/alex-mwiru",
       "role": "member"
@@ -5810,7 +5875,7 @@
     {
       "area_id": "area/emgwen",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/alexander-kimutai-kigen-kosgey-kosgey",
       "role": "member"
@@ -5818,7 +5883,7 @@
     {
       "area_id": "area/sabatia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/alfred-agoi-masadia",
       "role": "member"
@@ -5826,7 +5891,7 @@
     {
       "area_id": "area/kajiado_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/labour_party_of_kenya",
       "organization_id": "legislature",
       "person_id": "person/alfred-bwire",
       "role": "member"
@@ -5834,7 +5899,7 @@
     {
       "area_id": "area/nandi_hills",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/alfred-kiptoo-keter",
       "role": "member"
@@ -5842,7 +5907,7 @@
     {
       "area_id": "area/bura",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/ali-wario",
       "role": "member"
@@ -5850,7 +5915,7 @@
     {
       "area_id": "area/kandara",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/alice-muthoni-wahome",
       "role": "member"
@@ -5858,7 +5923,7 @@
     {
       "area_id": "area/nyamira",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/alice-nyanchoka-chae",
       "role": "member"
@@ -5866,7 +5931,7 @@
     {
       "area_id": "area/thika_town",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/alice-wambui-nganga",
       "role": "member"
@@ -5874,14 +5939,14 @@
     {
       "area_id": "area/samburu_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/alois-musa-lentoimaga",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/amina-abdalla",
       "role": "member"
@@ -5889,7 +5954,7 @@
     {
       "area_id": "area/mwatate",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/andrew-mwadime",
       "role": "member"
@@ -5897,7 +5962,7 @@
     {
       "area_id": "area/butere",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/andrew-toboso-anyanga",
       "role": "member"
@@ -5905,7 +5970,7 @@
     {
       "area_id": "area/kiambu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/annah-nyokabi-gathecha",
       "role": "member"
@@ -5913,7 +5978,7 @@
     {
       "area_id": "area/kikuyu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/anthony-kimani-ichungwah",
       "role": "member"
@@ -5921,7 +5986,7 @@
     {
       "area_id": "area/laikipia_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/anthony-mutahi-kimaru",
       "role": "member"
@@ -5929,7 +5994,7 @@
     {
       "area_id": "area/teso_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/arthur-papa-odera",
       "role": "member"
@@ -5937,7 +6002,7 @@
     {
       "area_id": "area/tiaty",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/asman-kamama",
       "role": "member"
@@ -5945,7 +6010,7 @@
     {
       "area_id": "area/kanduyi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/athanas-wamunyinyi",
       "role": "member"
@@ -5953,7 +6018,7 @@
     {
       "area_id": "area/ndhiwa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/augostinho-neto-oyugi",
       "role": "member"
@@ -5961,7 +6026,7 @@
     {
       "area_id": "area/lugari",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/ayub-savula-angatia",
       "role": "member"
@@ -5969,7 +6034,7 @@
     {
       "area_id": "area/jomvu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/bady-twalib-bady",
       "role": "member"
@@ -5977,7 +6042,7 @@
     {
       "area_id": "area/tharaka-nithi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/beatrice-nkatha-nyaga",
       "role": "member"
@@ -5985,7 +6050,7 @@
     {
       "area_id": "area/borabu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/ben-george-orori-momanyi",
       "role": "member"
@@ -5993,7 +6058,7 @@
     {
       "area_id": "area/bomet_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/benard-kipkirui-bett",
       "role": "member"
@@ -6001,7 +6066,7 @@
     {
       "area_id": "area/ikolomani",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/benard-masaka-shinali",
       "role": "member"
@@ -6009,7 +6074,7 @@
     {
       "area_id": "area/khwisero",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/benjamin-andola-andayi",
       "role": "member"
@@ -6017,7 +6082,7 @@
     {
       "area_id": "area/ainamoi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/benjamin-langat",
       "role": "member"
@@ -6025,7 +6090,7 @@
     {
       "area_id": "area/mumias_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/benjamin-washiali",
       "role": "member"
@@ -6033,7 +6098,7 @@
     {
       "area_id": "area/kitui_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/benson-makali-mulu",
       "role": "member"
@@ -6041,7 +6106,7 @@
     {
       "area_id": "area/masinga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/ford_people",
       "organization_id": "legislature",
       "person_id": "person/benson-mbai",
       "role": "member"
@@ -6049,7 +6114,7 @@
     {
       "area_id": "area/makadara",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/benson-mutura-kangara",
       "role": "member"
@@ -6057,7 +6122,7 @@
     {
       "area_id": "area/webuye_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/bernard-alfred-wekesa-sambu",
       "role": "member"
@@ -6065,7 +6130,7 @@
     {
       "area_id": "area/mwingi_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/bernard-munywoki-kitungi",
       "role": "member"
@@ -6073,7 +6138,7 @@
     {
       "area_id": "area/bumula",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/bonface-okhiya-otsiula",
       "role": "member"
@@ -6081,7 +6146,7 @@
     {
       "area_id": "area/buuri",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/independent_aspirant",
       "organization_id": "legislature",
       "person_id": "person/boniface-gatobu-kinoti",
       "role": "member"
@@ -6089,7 +6154,7 @@
     {
       "area_id": "area/bomet",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/cecilia-chelangat-ngetich",
       "role": "member"
@@ -6097,7 +6162,7 @@
     {
       "area_id": "area/runyenjes",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/cecily-mbarire",
       "role": "member"
@@ -6105,7 +6170,7 @@
     {
       "area_id": "area/hamisi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/federal_party_of_kenya",
       "organization_id": "legislature",
       "person_id": "person/charles-gumini-gimose",
       "role": "member"
@@ -6113,7 +6178,7 @@
     {
       "area_id": "area/north_mugirango",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/charles-mongare-geni",
       "role": "member"
@@ -6129,7 +6194,7 @@
     {
       "area_id": "area/kitui_rural",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/charles-nyamai",
       "role": "member"
@@ -6137,7 +6202,7 @@
     {
       "area_id": "area/kiminini",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/chrisantus-wamalwa-wakhungu",
       "role": "member"
@@ -6145,7 +6210,7 @@
     {
       "area_id": "area/turkana_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/chrisropher-doye-nakuleu",
       "role": "member"
@@ -6153,14 +6218,14 @@
     {
       "area_id": "area/siaya",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/christine-oduor-ombaka",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/christopher-omulele",
       "role": "member"
@@ -6168,7 +6233,7 @@
     {
       "area_id": "area/mathioya",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/clement-wambugu",
       "role": "member"
@@ -6176,7 +6241,7 @@
     {
       "area_id": "area/saku",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/col-rtd-ali-rasso-dido",
       "role": "member"
@@ -6184,7 +6249,7 @@
     {
       "area_id": "area/aldai",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/cornelly-serem",
       "role": "member"
@@ -6192,7 +6257,7 @@
     {
       "area_id": "area/igembe_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/cyprian-kubai-iringo",
       "role": "member"
@@ -6200,7 +6265,7 @@
     {
       "area_id": "area/rongo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/dalmas-otieno",
       "role": "member"
@@ -6208,7 +6273,7 @@
     {
       "area_id": "area/turkana_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/daniel-epuyo-nanok",
       "role": "member"
@@ -6216,7 +6281,7 @@
     {
       "area_id": "area/malindi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/daniel-kazungu-muzee",
       "role": "member"
@@ -6224,7 +6289,7 @@
     {
       "area_id": "area/makueni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/daniel-kitonga-maanzo",
       "role": "member"
@@ -6232,7 +6297,7 @@
     {
       "area_id": "area/webuye_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/daniel-wanyama-sitati",
       "role": "member"
@@ -6240,7 +6305,7 @@
     {
       "area_id": "area/tongaren",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/david-eseli",
       "role": "member"
@@ -6248,7 +6313,7 @@
     {
       "area_id": "area/nakuru_town_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/david-gikaria",
       "role": "member"
@@ -6256,7 +6321,7 @@
     {
       "area_id": "area/marakwet_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/david-kangongo-bowen",
       "role": "member"
@@ -6264,7 +6329,7 @@
     {
       "area_id": "area/tigania_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/david-karithi",
       "role": "member"
@@ -6272,7 +6337,7 @@
     {
       "area_id": "area/ol_kalou",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/david-njuguna-kiaraho",
       "role": "member"
@@ -6280,7 +6345,7 @@
     {
       "area_id": "area/ugenya",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/david-ouma-ochieng",
       "role": "member"
@@ -6288,7 +6353,7 @@
     {
       "area_id": "area/saboti",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/david-wafula-wekesa",
       "role": "member"
@@ -6296,7 +6361,7 @@
     {
       "area_id": "area/matungu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/david-were",
       "role": "member"
@@ -6304,7 +6369,7 @@
     {
       "area_id": "area/dagoretti_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/dennis-kariuki-waweru",
       "role": "member"
@@ -6312,7 +6377,7 @@
     {
       "area_id": "area/migori",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/dennitah-ghati",
       "role": "member"
@@ -6320,7 +6385,7 @@
     {
       "area_id": "area/wajir_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/diriye-abdullahi-mohamed",
       "role": "member"
@@ -6328,7 +6393,7 @@
     {
       "area_id": "area/vihiga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/dorcas-luvalitsa-kedogo",
       "role": "member"
@@ -6336,7 +6401,7 @@
     {
       "area_id": "area/soy",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/edwin-kipruto-barchilei",
       "role": "member"
@@ -6344,7 +6409,7 @@
     {
       "area_id": "area/gichugu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/ejidius-njogu-barua",
       "role": "member"
@@ -6352,7 +6417,7 @@
     {
       "area_id": "area/fafi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/elias-bare-shill",
       "role": "member"
@@ -6360,7 +6425,7 @@
     {
       "area_id": "area/chesumei",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/elijah-lagat",
       "role": "member"
@@ -6368,7 +6433,7 @@
     {
       "area_id": "area/kajiado_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/elijah-memusi-kanchory",
       "role": "member"
@@ -6376,7 +6441,7 @@
     {
       "area_id": "area/nyaribari_masaba",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/narc_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/elijah-mosomi-moindi",
       "role": "member"
@@ -6384,7 +6449,7 @@
     {
       "area_id": "area/turbo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/elisha-kipkorir-busienei",
       "role": "member"
@@ -6392,7 +6457,7 @@
     {
       "area_id": "area/navakholo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/emmanuel-wangwe",
       "role": "member"
@@ -6400,7 +6465,7 @@
     {
       "area_id": "area/likuyani",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/enoch-kibunguchy",
       "role": "member"
@@ -6408,7 +6473,7 @@
     {
       "area_id": "area/belgut",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/eric-arap-keter",
       "role": "member"
@@ -6416,7 +6481,7 @@
     {
       "area_id": "area/nyeri_town",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/esther-murugi",
       "role": "member"
@@ -6424,7 +6489,7 @@
     {
       "area_id": "area/ruiru",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/esther-nyambura-gathogo",
       "role": "member"
@@ -6432,7 +6497,7 @@
     {
       "area_id": "area/uasin_gishu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/eusilah-jepkosgei-ngeny",
       "role": "member"
@@ -6440,7 +6505,7 @@
     {
       "area_id": "area/wajir",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/fatuma-ibrahim-ali",
       "role": "member"
@@ -6448,7 +6513,7 @@
     {
       "area_id": "area/kwanza",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/ferdinard-kevin-wanyonyi",
       "role": "member"
@@ -6456,7 +6521,7 @@
     {
       "area_id": "area/meru",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/florence-kajuju",
       "role": "member"
@@ -6464,7 +6529,7 @@
     {
       "area_id": "area/busia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/florence-mwikali-mutua",
       "role": "member"
@@ -6472,7 +6537,7 @@
     {
       "area_id": "area/north_horr",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/francis-ganya",
       "role": "member"
@@ -6480,7 +6545,7 @@
     {
       "area_id": "area/gatundu_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/francis-kigo-njenga",
       "role": "member"
@@ -6488,7 +6553,7 @@
     {
       "area_id": "area/juja",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/francis-munyua-waititu",
       "role": "member"
@@ -6496,7 +6561,7 @@
     {
       "area_id": "area/yatta",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "MDM",
       "organization_id": "legislature",
       "person_id": "person/francis-mwangangi-kilonzo",
       "role": "member"
@@ -6504,7 +6569,7 @@
     {
       "area_id": "area/kitui_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/francis-mwanzia-nyenze",
       "role": "member"
@@ -6512,7 +6577,7 @@
     {
       "area_id": "area/ndaragwa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/francis-waweru-nderitu",
       "role": "member"
@@ -6520,7 +6585,7 @@
     {
       "area_id": "area/igembe_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/franklin-linturi",
       "role": "member"
@@ -6528,7 +6593,7 @@
     {
       "area_id": "area/nyando",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/fredrick-outa",
       "role": "member"
@@ -6536,7 +6601,7 @@
     {
       "area_id": "area/matayos",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/geoffrey-makokha-odanga",
       "role": "member"
@@ -6544,7 +6609,7 @@
     {
       "area_id": "area/rangwe",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/george-oner-ogalo",
       "role": "member"
@@ -6552,7 +6617,7 @@
     {
       "area_id": "area/homa_bay_town",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/george-peter-opondo-kaluma",
       "role": "member"
@@ -6560,7 +6625,7 @@
     {
       "area_id": "area/embakasi_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/george-theuri",
       "role": "member"
@@ -6568,7 +6633,7 @@
     {
       "area_id": "area/alego_usonga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/george-washinton-mallan-omondi",
       "role": "member"
@@ -6576,7 +6641,7 @@
     {
       "area_id": "area/kilgoris",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/gideon-konchella",
       "role": "member"
@@ -6584,7 +6649,7 @@
     {
       "area_id": "area/malindi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/gideon-maitha",
       "role": "member"
@@ -6600,7 +6665,7 @@
     {
       "area_id": "area/bondo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/gideon-ochanda-ogolla",
       "role": "member"
@@ -6608,7 +6673,7 @@
     {
       "area_id": "area/mwingi_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/gj-munuve-mati",
       "role": "member"
@@ -6616,7 +6681,7 @@
     {
       "area_id": "area/homa_bay",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/gladys-atieno-nyasuna",
       "role": "member"
@@ -6624,7 +6689,7 @@
     {
       "area_id": "area/baringo_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/grace-jelagat-kipchoim",
       "role": "member"
@@ -6632,7 +6697,7 @@
     {
       "area_id": "area/baringo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/grace-jemutai-kiptui",
       "role": "member"
@@ -6640,7 +6705,7 @@
     {
       "area_id": "area/tana_river",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/halima-ware-duri",
       "role": "member"
@@ -6648,7 +6713,7 @@
     {
       "area_id": "area/magarini",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/harrison-kombe",
       "role": "member"
@@ -6656,14 +6721,14 @@
     {
       "area_id": "area/galole",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/hassan-abdi-dukicha",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/hassan-aden-osman",
       "role": "member"
@@ -6671,7 +6736,7 @@
     {
       "area_id": "area/matuga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/hassan-mohamed-mwanyoha",
       "role": "member"
@@ -6679,7 +6744,7 @@
     {
       "area_id": "area/kericho",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/hellen-chelangat-chepkwony",
       "role": "member"
@@ -6687,7 +6752,7 @@
     {
       "area_id": "area/mogotio",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/hellen-sambili",
       "role": "member"
@@ -6695,7 +6760,7 @@
     {
       "area_id": "area/nyali",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/hezron-awiti-bollo",
       "role": "member"
@@ -6703,7 +6768,7 @@
     {
       "area_id": "area/gatanga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/national_rainbow_coalition",
       "organization_id": "legislature",
       "person_id": "person/humphrey-kimani-njuguna",
       "role": "member"
@@ -6711,7 +6776,7 @@
     {
       "area_id": "area/wajir_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/ibrahim-abdi-saney",
       "role": "member"
@@ -6719,7 +6784,7 @@
     {
       "area_id": "area/ijara",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/ibrahim-ahmed-abass",
       "role": "member"
@@ -6727,7 +6792,7 @@
     {
       "area_id": "area/garsen",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/ibrahim-ahmed-sane",
       "role": "member"
@@ -6735,7 +6800,7 @@
     {
       "area_id": "area/embakasi_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/irshadali-mohomed-sumra",
       "role": "member"
@@ -6743,14 +6808,14 @@
     {
       "area_id": "area/kiharu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/irungu-kangata",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/isaac-mwaura",
       "role": "member"
@@ -6758,7 +6823,7 @@
     {
       "area_id": "area/roysambu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/isaac-waihenya-ndirangu",
       "role": "member"
@@ -6766,7 +6831,7 @@
     {
       "area_id": "area/kipkelion_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/jackson-kipkorir-rop",
       "role": "member"
@@ -6774,7 +6839,7 @@
     {
       "area_id": "area/keiyo_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/jackson-kiptanui",
       "role": "member"
@@ -6782,7 +6847,7 @@
     {
       "area_id": "area/molo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/jacob-waweru-macharia",
       "role": "member"
@@ -6790,7 +6855,7 @@
     {
       "area_id": "area/gem",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/jakoyo-midiwo",
       "role": "member"
@@ -6798,7 +6863,7 @@
     {
       "area_id": "area/west_mugirango",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/james-gesami",
       "role": "member"
@@ -6806,7 +6871,7 @@
     {
       "area_id": "area/kesses",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/james-kimaru-bett",
       "role": "member"
@@ -6814,7 +6879,7 @@
     {
       "area_id": "area/keiyo_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/james-kipkosgei-murgor",
       "role": "member"
@@ -6822,7 +6887,7 @@
     {
       "area_id": "area/turkana_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/james-lomenen-ekomwa",
       "role": "member"
@@ -6830,7 +6895,7 @@
     {
       "area_id": "area/kabuchai",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/james-lusweti-mukwe",
       "role": "member"
@@ -6838,7 +6903,7 @@
     {
       "area_id": "area/kieni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/james-mathenge-kanini-kega",
       "role": "member"
@@ -6846,7 +6911,7 @@
     {
       "area_id": "area/embakasi_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/james-mwangi-gakuya",
       "role": "member"
@@ -6854,7 +6919,7 @@
     {
       "area_id": "area/tetu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/james-ndungu-gethenji",
       "role": "member"
@@ -6862,7 +6927,7 @@
     {
       "area_id": "area/seme",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/james-nyikal",
       "role": "member"
@@ -6870,7 +6935,7 @@
     {
       "area_id": "area/muhoroni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "PDP",
       "organization_id": "legislature",
       "person_id": "person/james-onyango-oyoo",
       "role": "member"
@@ -6878,7 +6943,7 @@
     {
       "area_id": "area/ugunja",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/james-opiyo-wandayi",
       "role": "member"
@@ -6886,7 +6951,7 @@
     {
       "area_id": "area/karachuonyo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/james-rege",
       "role": "member"
@@ -6894,7 +6959,7 @@
     {
       "area_id": "area/kigumo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/jamleck-kamau",
       "role": "member"
@@ -6902,14 +6967,14 @@
     {
       "area_id": "area/laikipia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/jane-agnes-wanjira-machira",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/janet-marania-teiyaa",
       "role": "member"
@@ -6917,7 +6982,7 @@
     {
       "area_id": "area/trans-nzoia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/janet-nangabo-wanyama",
       "role": "member"
@@ -6925,7 +6990,7 @@
     {
       "area_id": "area/maara",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/japhet-kareke-mbiuki",
       "role": "member"
@@ -6933,7 +6998,7 @@
     {
       "area_id": "area/awendo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/jared-odhiambo-opiyo",
       "role": "member"
@@ -6941,7 +7006,7 @@
     {
       "area_id": "area/kibwezi_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/jessica-mbalu",
       "role": "member"
@@ -6949,7 +7014,7 @@
     {
       "area_id": "area/kitutu_chache_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/jimmy-angwenyi",
       "role": "member"
@@ -6957,7 +7022,7 @@
     {
       "area_id": "area/langata",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joash-odhiambo-olum",
       "role": "member"
@@ -6965,7 +7030,7 @@
     {
       "area_id": "area/mwingi_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/joe-musyimi-mutambu",
       "role": "member"
@@ -6973,7 +7038,7 @@
     {
       "area_id": "area/bomachoge_borabu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/joel-onyancha",
       "role": "member"
@@ -6981,7 +7046,7 @@
     {
       "area_id": "area/emurua_dikirr",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/kenya_national_congress",
       "organization_id": "legislature",
       "person_id": "person/johana-ngeno-kipyegon",
       "role": "member"
@@ -6989,7 +7054,7 @@
     {
       "area_id": "area/kisumu_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/john-aluoch",
       "role": "member"
@@ -6997,7 +7062,7 @@
     {
       "area_id": "area/naivasha",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/john-karanja-kihagi",
       "role": "member"
@@ -7005,7 +7070,7 @@
     {
       "area_id": "area/limuru",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/john-kiragu-chege",
       "role": "member"
@@ -7013,7 +7078,7 @@
     {
       "area_id": "area/turkana_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/john-lodepe-nakara",
       "role": "member"
@@ -7021,7 +7086,7 @@
     {
       "area_id": "area/suba",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/john-mbadi",
       "role": "member"
@@ -7029,7 +7094,7 @@
     {
       "area_id": "area/manyatta",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/john-muchiri-nyaga",
       "role": "member"
@@ -7037,7 +7102,7 @@
     {
       "area_id": "area/ol_joro_orok",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/john-muriithi-waiganjo",
       "role": "member"
@@ -7045,7 +7110,7 @@
     {
       "area_id": "area/embakasi_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/john-ndirangu-kariuki",
       "role": "member"
@@ -7053,7 +7118,7 @@
     {
       "area_id": "area/kasarani",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/john-njoroge-chege",
       "role": "member"
@@ -7061,7 +7126,7 @@
     {
       "area_id": "area/embakasi_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/john-ogutu-omondi",
       "role": "member"
@@ -7069,7 +7134,7 @@
     {
       "area_id": "area/bonchari",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/john-oroo-oyioka",
       "role": "member"
@@ -7077,7 +7142,7 @@
     {
       "area_id": "area/uriri",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/john-owuor-onyango-kobado",
       "role": "member"
@@ -7085,7 +7150,7 @@
     {
       "area_id": "area/nambale",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/john-sakwa-bunyasi",
       "role": "member"
@@ -7093,7 +7158,7 @@
     {
       "area_id": "area/mt._elgon",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/independent_aspirant",
       "organization_id": "legislature",
       "person_id": "person/john-serut",
       "role": "member"
@@ -7101,14 +7166,14 @@
     {
       "area_id": "area/sirisia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/john-waluke-koyi",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/johnson-arthur-sakaja",
       "role": "member"
@@ -7116,7 +7181,7 @@
     {
       "area_id": "area/mumias_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/johnson-manya-naicca",
       "role": "member"
@@ -7124,7 +7189,7 @@
     {
       "area_id": "area/samburu_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/jonathan-lelelit-lati",
       "role": "member"
@@ -7132,7 +7197,7 @@
     {
       "area_id": "area/voi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/jones-mwagogo-mlolwa",
       "role": "member"
@@ -7140,7 +7205,7 @@
     {
       "area_id": "area/kirinyaga_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/joseph-gitari",
       "role": "member"
@@ -7148,7 +7213,7 @@
     {
       "area_id": "area/kipkelion_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/joseph-kirui-limo",
       "role": "member"
@@ -7156,7 +7221,7 @@
     {
       "area_id": "area/njoro",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/party_of_national_unity",
       "organization_id": "legislature",
       "person_id": "person/joseph-kiuna",
       "role": "member"
@@ -7164,7 +7229,7 @@
     {
       "area_id": "area/laisamis",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joseph-lekuton",
       "role": "member"
@@ -7172,7 +7237,7 @@
     {
       "area_id": "area/kasipul",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joseph-magwanga",
       "role": "member"
@@ -7180,7 +7245,7 @@
     {
       "area_id": "area/lari",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/joseph-mburu-kahangara",
       "role": "member"
@@ -7188,7 +7253,7 @@
     {
       "area_id": "area/igembe_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/joseph-meruaki-muthari",
       "role": "member"
@@ -7196,7 +7261,7 @@
     {
       "area_id": "area/kajiado_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joseph-nkaissery",
       "role": "member"
@@ -7204,7 +7269,7 @@
     {
       "area_id": "area/suna_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joseph-obiero-ndiege",
       "role": "member"
@@ -7212,7 +7277,7 @@
     {
       "area_id": "area/isiolo_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/joseph-samal-lomwa",
       "role": "member"
@@ -7220,7 +7285,7 @@
     {
       "area_id": "area/kajiado_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/joseph-wathigo-manje",
       "role": "member"
@@ -7228,7 +7293,7 @@
     {
       "area_id": "area/nyakach",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joshua-aduma-owuor",
       "role": "member"
@@ -7236,7 +7301,7 @@
     {
       "area_id": "area/turkana",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/joyce-akai-emanikor",
       "role": "member"
@@ -7244,7 +7309,7 @@
     {
       "area_id": "area/sotik",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/joyce-laboso",
       "role": "member"
@@ -7252,7 +7317,7 @@
     {
       "area_id": "area/taita_taveta",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/joyce-wanjalah-lay",
       "role": "member"
@@ -7260,7 +7325,7 @@
     {
       "area_id": "area/kiambu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/jude-l-kangethe-njomo",
       "role": "member"
@@ -7268,7 +7333,7 @@
     {
       "area_id": "area/tinderet",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/julius-kibiwott-melly",
       "role": "member"
@@ -7276,7 +7341,7 @@
     {
       "area_id": "area/lamu_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/kenya_national_congress",
       "organization_id": "legislature",
       "person_id": "person/julius-ndegwa-kariuki",
       "role": "member"
@@ -7284,7 +7349,7 @@
     {
       "area_id": "area/suna_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/junet-sheikh-nuh",
       "role": "member"
@@ -7292,7 +7357,7 @@
     {
       "area_id": "area/sigowet/soin",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/justice-kipsang-kemei",
       "role": "member"
@@ -7300,7 +7365,7 @@
     {
       "area_id": "area/mukurweini",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/kabando-kabando",
       "role": "member"
@@ -7308,7 +7373,7 @@
     {
       "area_id": "area/ruaraka",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/kajwang-tom-joseph-francis",
       "role": "member"
@@ -7316,7 +7381,7 @@
     {
       "area_id": "area/south_imenti",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/kathuri-murungi",
       "role": "member"
@@ -7324,7 +7389,7 @@
     {
       "area_id": "area/kisumu_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/ken-obura-mirenga",
       "role": "member"
@@ -7332,7 +7397,7 @@
     {
       "area_id": "area/kibra",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/kenneth-odhiambo-okoth",
       "role": "member"
@@ -7340,7 +7405,7 @@
     {
       "area_id": "area/lunga_lunga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/khatib-abdallah-mwashetani",
       "role": "member"
@@ -7348,7 +7413,7 @@
     {
       "area_id": "area/rongai",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/kipruto-moi",
       "role": "member"
@@ -7356,7 +7421,7 @@
     {
       "area_id": "area/narok_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/korei-ole-lemein",
       "role": "member"
@@ -7364,7 +7429,7 @@
     {
       "area_id": "area/tigania_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/lawrence-mpuru-aburi",
       "role": "member"
@@ -7372,7 +7437,7 @@
     {
       "area_id": "area/narok_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/lemanken-aramat",
       "role": "member"
@@ -7380,7 +7445,7 @@
     {
       "area_id": "area/bureti",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/leonard-kipkosgei-sang",
       "role": "member"
@@ -7388,7 +7453,7 @@
     {
       "area_id": "area/shinyalu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/lisamula-silverse-anami",
       "role": "member"
@@ -7396,7 +7461,7 @@
     {
       "area_id": "area/pokot_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/losiakou-david-pkosing",
       "role": "member"
@@ -7404,7 +7469,7 @@
     {
       "area_id": "area/mandera_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/maalim-mohamed",
       "role": "member"
@@ -7412,7 +7477,7 @@
     {
       "area_id": "area/mandera",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/mahbub-fathia",
       "role": "member"
@@ -7420,7 +7485,7 @@
     {
       "area_id": "area/samburu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/maison-leshoomo",
       "role": "member"
@@ -7428,7 +7493,7 @@
     {
       "area_id": "area/south_mugirango",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/manson-nyamweya",
       "role": "member"
@@ -7436,7 +7501,7 @@
     {
       "area_id": "area/kitui_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/marcus-mutua-muluvi",
       "role": "member"
@@ -7444,7 +7509,7 @@
     {
       "area_id": "area/kacheliba",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/mark-lomunokol",
       "role": "member"
@@ -7452,7 +7517,7 @@
     {
       "area_id": "area/teso_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/mary-emaase-otuch",
       "role": "member"
@@ -7460,7 +7525,7 @@
     {
       "area_id": "area/nakuru",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/mary-njoki-g-mbugua",
       "role": "member"
@@ -7468,7 +7533,7 @@
     {
       "area_id": "area/kisii",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/mary-sally-keraa",
       "role": "member"
@@ -7476,7 +7541,7 @@
     {
       "area_id": "area/othaya",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/mary-wambui-munene",
       "role": "member"
@@ -7484,7 +7549,7 @@
     {
       "area_id": "area/kajiado",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/mary-yiane-seneta",
       "role": "member"
@@ -7492,7 +7557,7 @@
     {
       "area_id": "area/laikipia_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/mathew-lekidime-lempurkel",
       "role": "member"
@@ -7500,7 +7565,7 @@
     {
       "area_id": "area/kuria_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/mathias-nyamabe-robi",
       "role": "member"
@@ -7508,7 +7573,7 @@
     {
       "area_id": "area/kangundo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/the_independent_party",
       "organization_id": "legislature",
       "person_id": "person/maweu-kyengo-katatha",
       "role": "member"
@@ -7516,7 +7581,7 @@
     {
       "area_id": "area/butula",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/federal_party_of_kenya",
       "organization_id": "legislature",
       "person_id": "person/michael-aringo-onyura",
       "role": "member"
@@ -7524,7 +7589,7 @@
     {
       "area_id": "area/mbooni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/michael-manthi-kisoi",
       "role": "member"
@@ -7532,7 +7597,7 @@
     {
       "area_id": "area/mbita",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/millie-odhiambo-mabona",
       "role": "member"
@@ -7540,7 +7605,7 @@
     {
       "area_id": "area/mombasa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/mishi-juma-khamisi",
       "role": "member"
@@ -7548,7 +7613,7 @@
     {
       "area_id": "area/banissa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/mohamed-abdi-haji-mohamed",
       "role": "member"
@@ -7556,7 +7621,7 @@
     {
       "area_id": "area/mandera_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/mohamed-adan-huka",
       "role": "member"
@@ -7564,15 +7629,15 @@
     {
       "area_id": "area/dadaab",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/mohamed-dahir-duale",
       "role": "member"
     },
     {
-      "area_id": "area/wajir_east",
+      "area_id": "area/tarbaj",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/mohamed-elmi",
       "role": "member"
@@ -7580,7 +7645,7 @@
     {
       "area_id": "area/lagdera",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/mohamed-muktar-shidiye",
       "role": "member"
@@ -7588,7 +7653,7 @@
     {
       "area_id": "area/kuresoi_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/moses-cheboi",
       "role": "member"
@@ -7596,7 +7661,7 @@
     {
       "area_id": "area/gatundu_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/moses-kuria",
       "role": "member"
@@ -7604,7 +7669,7 @@
     {
       "area_id": "area/eldama_ravine",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/moses-lessonet",
       "role": "member"
@@ -7620,15 +7685,15 @@
     {
       "area_id": "area/kajiado_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/moses-ole-sakuda",
       "role": "member"
     },
     {
-      "area_id": "area/embu",
+      "area_id": "area/mbeere_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/mutava-musyimi",
       "role": "member"
@@ -7636,7 +7701,7 @@
     {
       "area_id": "area/likoni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/mwalimu-mwahima",
       "role": "member"
@@ -7644,15 +7709,15 @@
     {
       "area_id": "area/kaloleni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/kenya_african_democratic_union_-_asili",
       "organization_id": "legislature",
       "person_id": "person/mwinga-gunga-chea",
       "role": "member"
     },
     {
-      "area_id": "area/taita_taveta",
+      "area_id": "area/taveta",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/naomi-shaban",
       "role": "member"
@@ -7660,7 +7725,7 @@
     {
       "area_id": "area/marsabit",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/nasra-ibrahim-ibren",
       "role": "member"
@@ -7668,7 +7733,7 @@
     {
       "area_id": "area/subukia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/nelson-gaichuhie",
       "role": "member"
@@ -7676,7 +7741,7 @@
     {
       "area_id": "area/rarieda",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/nicholas-gumbo",
       "role": "member"
@@ -7684,7 +7749,7 @@
     {
       "area_id": "area/turkana_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/nicholas-ngikor-nixon",
       "role": "member"
@@ -7692,7 +7757,7 @@
     {
       "area_id": "area/kitui",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/nyiva-mwendwa",
       "role": "member"
@@ -7700,7 +7765,7 @@
     {
       "area_id": "area/bondo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/oburu-odinga",
       "role": "member"
@@ -7708,7 +7773,7 @@
     {
       "area_id": "area/changamwe",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/omar-mwinyi-shimbwa",
       "role": "member"
@@ -7716,7 +7781,7 @@
     {
       "area_id": "area/bahati",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/onesmas-kimani-ngunjiri",
       "role": "member"
@@ -7732,7 +7797,7 @@
     {
       "area_id": "area/kapseret",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/oscar-kipchumba-sudi",
       "role": "member"
@@ -7740,7 +7805,7 @@
     {
       "area_id": "area/narok_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/patrick-keturet-ole-ntutu",
       "role": "member"
@@ -7748,7 +7813,7 @@
     {
       "area_id": "area/mavoko",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/patrick-makau-kingola",
       "role": "member"
@@ -7763,7 +7828,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/patrick-wangamati",
       "role": "member"
@@ -7771,7 +7836,7 @@
     {
       "area_id": "area/dagoretti_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/paul-arati-simba",
       "role": "member"
@@ -7779,7 +7844,7 @@
     {
       "area_id": "area/chepalungu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/paul-kipchirchir-bii",
       "role": "member"
@@ -7787,7 +7852,7 @@
     {
       "area_id": "area/kiambaa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/paul-koinange",
       "role": "member"
@@ -7795,7 +7860,7 @@
     {
       "area_id": "area/funyula",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/paul-otuoma",
       "role": "member"
@@ -7803,7 +7868,7 @@
     {
       "area_id": "area/kajiado_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/peris-pesi-tobiko",
       "role": "member"
@@ -7811,7 +7876,7 @@
     {
       "area_id": "area/nyatike",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/peter-anyanga",
       "role": "member"
@@ -7819,7 +7884,7 @@
     {
       "area_id": "area/githunguri",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/peter-baiya",
       "role": "member"
@@ -7827,7 +7892,7 @@
     {
       "area_id": "area/mwea",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/peter-gitau",
       "role": "member"
@@ -7835,7 +7900,7 @@
     {
       "area_id": "area/maragwa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/peter-kamande-mwangi",
       "role": "member"
@@ -7843,7 +7908,7 @@
     {
       "area_id": "area/ganze",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/federal_party_of_kenya",
       "organization_id": "legislature",
       "person_id": "person/peter-safari-shehe",
       "role": "member"
@@ -7851,7 +7916,7 @@
     {
       "area_id": "area/mathira",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/national_rainbow_coalition",
       "organization_id": "legislature",
       "person_id": "person/peter-weru-kinyua",
       "role": "member"
@@ -7859,7 +7924,7 @@
     {
       "area_id": "area/sigor",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/philip-lotiolo-ruto-rotino",
       "role": "member"
@@ -7867,7 +7932,7 @@
     {
       "area_id": "area/nyeri",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/priscilla-nyokabi-kanyua",
       "role": "member"
@@ -7875,7 +7940,7 @@
     {
       "area_id": "area/loima",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/protus-ewesit-akujah",
       "role": "member"
@@ -7883,7 +7948,7 @@
     {
       "area_id": "area/kitui_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/national_rainbow_coalition",
       "organization_id": "legislature",
       "person_id": "person/rachael-kaki-nyamai",
       "role": "member"
@@ -7891,7 +7956,7 @@
     {
       "area_id": "area/kakamega",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/rachel-ameso-amolo",
       "role": "member"
@@ -7899,7 +7964,7 @@
     {
       "area_id": "area/nairobi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/rachel-shebesh",
       "role": "member"
@@ -7907,7 +7972,7 @@
     {
       "area_id": "area/samburu_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/raphael-letimalo",
       "role": "member"
@@ -7915,7 +7980,7 @@
     {
       "area_id": "area/lurambi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/raphael-milikau-otaalo",
       "role": "member"
@@ -7923,7 +7988,7 @@
     {
       "area_id": "area/kisauni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/rashid-juma-bedzimba",
       "role": "member"
@@ -7931,7 +7996,7 @@
     {
       "area_id": "area/kilome",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/regina-nthambi-muia",
       "role": "member"
@@ -7939,7 +8004,7 @@
     {
       "area_id": "area/west_pokot",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/regina-nyeris-changorok",
       "role": "member"
@@ -7947,7 +8012,7 @@
     {
       "area_id": "area/bungoma",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "legislature",
       "person_id": "person/reginalda-nakhumicha-wanyonyi",
       "role": "member"
@@ -7955,7 +8020,7 @@
     {
       "area_id": "area/kaiti",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/richard-makenga-katemi",
       "role": "member"
@@ -7963,7 +8028,7 @@
     {
       "area_id": "area/narok_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/richard-moitalel-ole-kenta",
       "role": "member"
@@ -7971,7 +8036,7 @@
     {
       "area_id": "area/nyaribari_chache",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/richard-nyagaka-tongi",
       "role": "member"
@@ -7979,7 +8044,7 @@
     {
       "area_id": "area/kitutu_chache_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/richard-onyonka",
       "role": "member"
@@ -7987,7 +8052,7 @@
     {
       "area_id": "area/moyale",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/roba-duba-bonaya",
       "role": "member"
@@ -7995,14 +8060,14 @@
     {
       "area_id": "area/kathiani",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/robert-mbui",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/robert-mutemi-mutua",
       "role": "member"
@@ -8010,7 +8075,7 @@
     {
       "area_id": "area/endebess",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/robert-pukose",
       "role": "member"
@@ -8018,7 +8083,7 @@
     {
       "area_id": "area/bomet_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/ronald-kiprotich-tonui",
       "role": "member"
@@ -8026,7 +8091,7 @@
     {
       "area_id": "area/kisumu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/rose-auma-ogendo",
       "role": "member"
@@ -8034,7 +8099,7 @@
     {
       "area_id": "area/makueni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/rose-museo-mumo",
       "role": "member"
@@ -8042,7 +8107,7 @@
     {
       "area_id": "area/embu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/rose-rwamba-mitaru",
       "role": "member"
@@ -8050,7 +8115,7 @@
     {
       "area_id": "area/narok",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/roselinda-soipan-tuya",
       "role": "member"
@@ -8058,7 +8123,7 @@
     {
       "area_id": "area/murang'a",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/sabina-wanjiru-chege",
       "role": "member"
@@ -8066,7 +8131,7 @@
     {
       "area_id": "area/kilifi_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/salim-idd-mustafa",
       "role": "member"
@@ -8074,7 +8139,7 @@
     {
       "area_id": "area/konoin",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/sammy-cheruiyot-koech",
       "role": "member"
@@ -8082,7 +8147,7 @@
     {
       "area_id": "area/baringo_central",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/sammy-mwaita",
       "role": "member"
@@ -8090,7 +8155,7 @@
     {
       "area_id": "area/nakuru_town_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/samuel-arama",
       "role": "member"
@@ -8106,7 +8171,7 @@
     {
       "area_id": "area/ainabkoi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/samuel-kiprono-chepkonga",
       "role": "member"
@@ -8114,7 +8179,7 @@
     {
       "area_id": "area/gilgil",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/samuel-mathenge-ndiritu",
       "role": "member"
@@ -8122,7 +8187,7 @@
     {
       "area_id": "area/kapenguria",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/samuel-moroto",
       "role": "member"
@@ -8130,14 +8195,14 @@
     {
       "area_id": "area/kinango",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/samuel-rai",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/sara-paulata-korere",
       "role": "member"
@@ -8145,7 +8210,7 @@
     {
       "area_id": "area/lafey",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/shaaban-ali-isaack",
       "role": "member"
@@ -8153,7 +8218,7 @@
     {
       "area_id": "area/kuria_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "legislature",
       "person_id": "person/shadrack-roger-mwita-manga",
       "role": "member"
@@ -8161,7 +8226,7 @@
     {
       "area_id": "area/kisumu_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/shakeel-shabbir",
       "role": "member"
@@ -8169,7 +8234,7 @@
     {
       "area_id": "area/lamu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/shakila-abdalla-mohamed",
       "role": "member"
@@ -8177,7 +8242,7 @@
     {
       "area_id": "area/lamu_east",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/shariff-athman-ali",
       "role": "member"
@@ -8185,7 +8250,7 @@
     {
       "area_id": "area/garissa",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/shukran-hussein-gure",
       "role": "member"
@@ -8193,7 +8258,7 @@
     {
       "area_id": "area/moiben",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/silas-kipkoech-tiren",
       "role": "member"
@@ -8201,7 +8266,7 @@
     {
       "area_id": "area/kabondo_kasipul",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/silvance-osele-onyango",
       "role": "member"
@@ -8209,7 +8274,7 @@
     {
       "area_id": "area/bomachoge_chache",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/simon-ogari",
       "role": "member"
@@ -8217,7 +8282,7 @@
     {
       "area_id": "area/bobasi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/ford_people",
       "organization_id": "legislature",
       "person_id": "person/stephen-kengere-manoti",
       "role": "member"
@@ -8225,7 +8290,7 @@
     {
       "area_id": "area/kinangop",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/stephen-kinyanjui-mburu-kk",
       "role": "member"
@@ -8233,7 +8298,7 @@
     {
       "area_id": "area/mosop",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/stephen-kirwa-bitok",
       "role": "member"
@@ -8241,7 +8306,7 @@
     {
       "area_id": "area/ndia",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/stephen-muriuki-ngare",
       "role": "member"
@@ -8249,7 +8314,7 @@
     {
       "area_id": "area/matungulu",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/stephen-mutinda-mule",
       "role": "member"
@@ -8257,7 +8322,7 @@
     {
       "area_id": "area/laikipia_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/stephen-wachira-karani",
       "role": "member"
@@ -8265,7 +8330,7 @@
     {
       "area_id": "area/mathare",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/steven-kariuki",
       "role": "member"
@@ -8273,7 +8338,7 @@
     {
       "area_id": "area/msambweni",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/suleiman-dori-ramadhani",
       "role": "member"
@@ -8281,14 +8346,14 @@
     {
       "area_id": "area/kimilili",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/forum_for_the_restoration_of_democracy_-_kenya",
       "organization_id": "legislature",
       "person_id": "person/suleiman-murunga-kasuti",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/sunjeev-kour-birdi",
       "role": "member"
@@ -8296,7 +8361,7 @@
     {
       "area_id": "area/elgeyo-marakwet",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/susan-kipketer-chebet",
       "role": "member"
@@ -8304,7 +8369,7 @@
     {
       "area_id": "area/machakos",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "legislature",
       "person_id": "person/susan-mbinya-musyoka",
       "role": "member"
@@ -8312,7 +8377,7 @@
     {
       "area_id": "area/wundanyi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/thomas-mwadeghu",
       "role": "member"
@@ -8320,7 +8385,7 @@
     {
       "area_id": "area/kitutu_masaba",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/timothy-moseti-e-bosire",
       "role": "member"
@@ -8328,7 +8393,7 @@
     {
       "area_id": "area/westlands",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/timothy-wanyonyi-wetangula",
       "role": "member"
@@ -8336,7 +8401,7 @@
     {
       "area_id": "area/kangema",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/tirus-ngahu",
       "role": "member"
@@ -8344,7 +8409,7 @@
     {
       "area_id": "area/isiolo",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/tiyah-galgalo-ali",
       "role": "member"
@@ -8352,7 +8417,7 @@
     {
       "area_id": "area/machakos_town",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/chama_cha_uzalendo",
       "organization_id": "legislature",
       "person_id": "person/victor-munyaka",
       "role": "member"
@@ -8360,7 +8425,7 @@
     {
       "area_id": "area/mwala",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/chama_cha_uzalendo",
       "organization_id": "legislature",
       "person_id": "person/vincent-musyoka-musau",
       "role": "member"
@@ -8368,7 +8433,7 @@
     {
       "area_id": "area/nyandarua",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/wanjiku-muhia",
       "role": "member"
@@ -8376,7 +8441,7 @@
     {
       "area_id": "area/cherangany",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/independent_aspirant",
       "organization_id": "legislature",
       "person_id": "person/wesley-kipchumba-korir",
       "role": "member"
@@ -8384,7 +8449,7 @@
     {
       "area_id": "area/emuhaya",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/wilber-ottichilo",
       "role": "member"
@@ -8392,7 +8457,7 @@
     {
       "area_id": "area/rabai",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/william-kamoti-mwamkale",
       "role": "member"
@@ -8400,7 +8465,7 @@
     {
       "area_id": "area/marakwet_west",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/william-kipkemoi-kisang",
       "role": "member"
@@ -8408,7 +8473,7 @@
     {
       "area_id": "area/baringo_north",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/william-kipkiror",
       "role": "member"
@@ -8416,7 +8481,7 @@
     {
       "area_id": "area/starehe",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/william-maina-kamanda",
       "role": "member"
@@ -8424,7 +8489,7 @@
     {
       "area_id": "area/kirinyaga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/winnie-karimi-njuguna",
       "role": "member"
@@ -8432,7 +8497,7 @@
     {
       "area_id": "area/vihiga",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "Peace",
+      "on_behalf_of_id": "UDF",
       "organization_id": "legislature",
       "person_id": "person/yusuf-chanzu",
       "role": "member"
@@ -8440,7 +8505,7 @@
     {
       "area_id": "area/kamukunji",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
       "person_id": "person/yusuf-hassan-abdi",
       "role": "member"
@@ -8448,7 +8513,7 @@
     {
       "area_id": "area/kwale",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/zainab-kalekye-chidzuga",
       "role": "member"
@@ -8456,7 +8521,7 @@
     {
       "area_id": "area/kuresoi_south",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/zakayo-cheruiyot",
       "role": "member"
@@ -8464,14 +8529,14 @@
     {
       "area_id": "area/nandi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/zipporah-jesang-kurgat-kering",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
       "person_id": "person/zulekha-juma-hassan",
       "role": "member"
@@ -9613,6 +9678,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/tarbaj",
+      "name": "Tarbaj",
+      "type": "constituency"
+    },
+    {
       "id": "area/lagdera",
       "name": "Lagdera",
       "type": "constituency"
@@ -9643,8 +9713,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/embu",
-      "name": "Embu",
+      "id": "area/mbeere_south",
+      "name": "Mbeere South",
       "type": "constituency"
     },
     {
@@ -9655,6 +9725,11 @@
     {
       "id": "area/kaloleni",
       "name": "Kaloleni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/taveta",
+      "name": "Taveta",
       "type": "constituency"
     },
     {
@@ -9875,6 +9950,11 @@
     {
       "id": "area/kisumu",
       "name": "Kisumu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/embu",
+      "name": "Embu",
       "type": "constituency"
     },
     {
