@@ -6,9 +6,6 @@ require 'csv'
 
 Numeric.class_eval { def empty?; false; end }
 
-GENERATED_FILES = FileList.new('clean.json', 'sources/merged.json', 'final.json', 'term-*.csv')
-CLEAN.include(GENERATED_FILES)
-
 
 def deep_sort(element)
   if element.is_a?(Hash)
@@ -40,7 +37,7 @@ def instructions(key)
 end
 
 desc "Rebuild from source data"
-task :rebuild => [ :clobber, 'final.json' ]
+task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
 task :default => :csvs
 
 desc "Remove unwanted data from source"
@@ -51,7 +48,7 @@ namespace :whittle do
   # Source-specific files must provide a whittle:load
 
   file 'sources/merged.json' => :write 
-  CLOBBER.include('sources/merged.json')
+  CLEAN.include('sources/merged.json')
 
   # Source-specific files must provide a @SOURCE
 
@@ -88,15 +85,15 @@ end
 
 namespace :transform do
 
-  file 'final.json' => :write
-  CLOBBER.include('final.json')
+  file 'ep-popolo-v1.0.json' => :write
+  CLEAN.include('ep-popolo-v1.0.json', 'final.json')
 
   task :load => 'sources/merged.json' do
     @json = JSON.parse(File.read('sources/merged.json'), symbolize_names: true )
   end
 
   task :write do
-    json_write('final.json', @json)
+    json_write('ep-popolo-v1.0.json', @json)
   end  
 
   #---------------------------------------------------------------------
@@ -245,6 +242,8 @@ end
 desc "Build the term-table CSVs"
 task :csvs => ['term_csvs:term_tables']
 
+CLEAN.include('term-*.csv')
+
 namespace :term_csvs do
 
   def persons_twitter(p)
@@ -264,8 +263,8 @@ namespace :term_csvs do
 
   require 'csv'
 
-  task :term_tables => 'final.json' do
-    @json = JSON.parse(File.read('final.json'), symbolize_names: true )
+  task :term_tables => 'ep-popolo-v1.0.json' do
+    @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true )
     data = @json[:memberships].find_all { |m| m.key? :legislative_period_id }.map do |m|
       person = @json[:persons].find       { |r| (r[:id] == m[:person_id])       || (r[:id].end_with? "/#{m[:person_id]}") }
       group  = @json[:organizations].find { |o| (o[:id] == m[:on_behalf_of_id]) || (o[:id].end_with? "/#{m[:on_behalf_of_id]}") }
