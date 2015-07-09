@@ -6,7 +6,7 @@ require 'csv'
 
 Numeric.class_eval { def empty?; false; end }
 
-GENERATED_FILES = FileList.new('clean.json', 'final.json', 'term-*.csv')
+GENERATED_FILES = FileList.new('clean.json', 'sources/merged.json', 'final.json', 'term-*.csv')
 CLEAN.include(GENERATED_FILES)
 
 
@@ -44,14 +44,14 @@ task :rebuild => [ :clobber, 'final.json' ]
 task :default => :csvs
 
 desc "Remove unwanted data from source"
-task :whittle => [:clobber, 'clean.json']
+task :whittle => [:clobber, 'sources/merged.json']
 
 namespace :whittle do
 
   # Source-specific files must provide a whittle:load
 
-  file 'clean.json' => :write 
-  CLOBBER.include('clean.json')
+  file 'sources/merged.json' => :write 
+  CLOBBER.include('sources/merged.json')
 
   # Source-specific files must provide a @SOURCE
 
@@ -68,8 +68,8 @@ namespace :whittle do
 
   # TODO work out how to make this do the 'only run if needed'
   task :write => :meta_info do
-    unless File.exists? 'clean.json'
-      json_write('clean.json', @json)
+    unless File.exists? 'sources/merged.json'
+      json_write('sources/merged.json', @json)
     end
   end
 
@@ -91,8 +91,8 @@ namespace :transform do
   file 'final.json' => :write
   CLOBBER.include('final.json')
 
-  task :load => 'clean.json' do
-    @json = JSON.parse(File.read('clean.json'), symbolize_names: true )
+  task :load => 'sources/merged.json' do
+    @json = JSON.parse(File.read('sources/merged.json'), symbolize_names: true )
   end
 
   task :write do
