@@ -1713,6 +1713,31 @@
     ]
   },
   {
+    "name": "Kenya",
+    "country": "Kenya",
+    "code": "KE",
+    "slug": "Kenya",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Kenya/Assembly/sources",
+        "popolo": "data/Kenya/Assembly/final.json",
+        "lastmod": "1436453847",
+        "sha": "48d4cbf",
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Parliament",
+            "start_date": "2013-03-28",
+            "slug": "11",
+            "csv": "data/Kenya/Assembly/term-11.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Kosovo",
     "country": "Kosovo",
     "code": "XK",
