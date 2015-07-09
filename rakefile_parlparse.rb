@@ -14,7 +14,7 @@ end
 
 namespace :whittle do
 
-  file 'clean.json' => @TWFY_RAW_FILE
+  file 'sources/merged.json' => @TWFY_RAW_FILE
   task :load => @TWFY_RAW_FILE do
     @SOURCE = "http://www.theyworkforyou.com/"
     @HOUSE_ID = @META[:name].downcase.tr(' ','-')
