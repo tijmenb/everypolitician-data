@@ -86,7 +86,7 @@ end
 namespace :transform do
 
   file 'ep-popolo-v1.0.json' => :write
-  CLEAN.include('ep-popolo-v1.0.json')
+  CLEAN.include('ep-popolo-v1.0.json', 'final.json')
 
   task :load => 'sources/merged.json' do
     @json = JSON.parse(File.read('sources/merged.json'), symbolize_names: true )
