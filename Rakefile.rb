@@ -17,8 +17,11 @@ def name_to_iso_code(name)
   end
 end
 
-def terms_from(json_file, h)
-  json = JSON.parse(File.read(json_file), symbolize_names: true)
+def json_from(json_file)
+  JSON.parse(File.read(json_file), symbolize_names: true)
+end
+
+def terms_from(json, h)
   terms = json[:events].find_all { |o| o[:classification] == 'legislative period' }
   terms.sort_by { |t| t[:start_date].to_s }.reverse.map { |t|
     t.delete :classification
@@ -38,6 +41,8 @@ task 'countries.json' do
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
     name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
+
+
     {
       name: name,
       # Deprecated — will be removed soon!
@@ -45,7 +50,9 @@ task 'countries.json' do
       code: meta['iso_code'] || name_to_iso_code(name),
       slug: slug,
       legislatures: hs.map { |h|
-        json_file = h + '/final.json'
+        json_file = h + '/ep-popolo-v1.0.json'
+        popolo = json_from(json_file)
+
         cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
         lname =  h.split('/').last.tr('_', ' ')
@@ -57,7 +64,7 @@ task 'countries.json' do
           popolo: json_file,
           lastmod: lastmod,
           sha: sha,
-          legislative_periods: terms_from(json_file, h),
+          legislative_periods: terms_from(popolo, h),
         }
       }
     }
