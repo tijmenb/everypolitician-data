@@ -271,6 +271,7 @@ namespace :term_csvs do
       house  = @json[:organizations].find { |o| (o[:id] == m[:organization_id]) || (o[:id].end_with? "/#{m[:organization_id]}") }
       if group.nil?
         puts "No group for #{m}"
+        binding.pry
         next
       end
       {
