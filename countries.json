@@ -1572,6 +1572,31 @@
     ]
   },
   {
+    "name": "India",
+    "country": "India",
+    "code": "IN",
+    "slug": "India",
+    "legislatures": [
+      {
+        "name": "Lok Sabha",
+        "slug": "Lok-Sabha",
+        "sources_directory": "data/India/Lok_Sabha/sources",
+        "popolo": "data/India/Lok_Sabha/ep-popolo-v1.0.json",
+        "lastmod": "1436553087",
+        "sha": "fd0d58b",
+        "legislative_periods": [
+          {
+            "id": "term/16",
+            "name": "XVI Lok Sabha",
+            "start_date": "2014-05-26",
+            "slug": "16",
+            "csv": "data/India/Lok_Sabha/term-16.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Iran",
     "country": "Iran",
     "code": "IR",
