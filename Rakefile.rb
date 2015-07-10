@@ -32,6 +32,12 @@ def terms_from(json, h)
   }.select { |t| File.exist? t[:csv] }
 end
 
+def name_from(json)
+  orgs = json[:organizations].find_all { |o| o[:classification] == 'legislature' }
+  raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
+  orgs.first[:name]
+end
+
 desc 'Install country-list locally'
 task 'countries.json' do
   countries = @HOUSES.group_by { |h| h.split('/')[1] }
@@ -55,8 +61,8 @@ task 'countries.json' do
 
         cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
-        lname =  h.split('/').last.tr('_', ' ')
-        lslug =  lname.tr(' ', '-')
+        lname = name_from(popolo)
+        lslug = h.split('/').last.tr('_', '-')
         {
           name: lname,
           slug: lslug,
