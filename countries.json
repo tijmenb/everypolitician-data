@@ -1196,6 +1196,31 @@
     ]
   },
   {
+    "name": "France",
+    "country": "France",
+    "code": "FR",
+    "slug": "France",
+    "legislatures": [
+      {
+        "name": "Assemblée nationale",
+        "slug": "National-Assembly",
+        "sources_directory": "data/France/National_Assembly/sources",
+        "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1436633459",
+        "sha": "7a12bf7",
+        "legislative_periods": [
+          {
+            "id": "term/14",
+            "name": "XIVe législature de la Ve République",
+            "start_date": "2012-06-20",
+            "slug": "14",
+            "csv": "data/France/National_Assembly/term-14.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Gabon",
     "country": "Gabon",
     "code": "GA",
