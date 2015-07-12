@@ -2878,6 +2878,31 @@
     ]
   },
   {
+    "name": "Slovenia",
+    "country": "Slovenia",
+    "code": "SI",
+    "slug": "Slovenia",
+    "legislatures": [
+      {
+        "name": "Državni zbor",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Slovenia/National_Assembly/sources",
+        "popolo": "data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1436703755",
+        "sha": "c46a071",
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "7th National Assembly",
+            "start_date": "2014-08-01",
+            "slug": "7",
+            "csv": "data/Slovenia/National_Assembly/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Africa",
     "country": "South Africa",
     "code": "ZA",
