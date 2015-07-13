@@ -2117,6 +2117,31 @@
     ]
   },
   {
+    "name": "Maldives",
+    "country": "Maldives",
+    "code": "MV",
+    "slug": "Maldives",
+    "legislatures": [
+      {
+        "name": "Majlis",
+        "slug": "Majlis",
+        "sources_directory": "data/Maldives/Majlis/sources",
+        "popolo": "data/Maldives/Majlis/ep-popolo-v1.0.json",
+        "lastmod": "1436801628",
+        "sha": "77c8e0e",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Maldives/Majlis/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Mauritania",
     "country": "Mauritania",
     "code": "MR",
