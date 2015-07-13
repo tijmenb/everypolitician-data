@@ -287,6 +287,7 @@ namespace :term_csvs do
         start_date: m[:start_date],
         end_date: m[:end_date],
         image: person[:image],
+        gender: person[:gender],
       }
     end
     data.group_by { |r| r[:term] }.each do |t, rs|
