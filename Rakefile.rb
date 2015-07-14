@@ -1,11 +1,10 @@
-require 'json'
+require 'yajl/json_gem'
 require 'iso_country_codes'
 require 'tmpdir'
 
 ISO = IsoCountryCodes.for_select
 
 @HOUSES = FileList['data/**/Rakefile.rb'].map { |f| f.pathmap '%d' }.reject { |p| File.exist? "#{p}/WIP" }
-
 
 def name_to_iso_code(name)
   if code = ISO.find { |iname, _| iname == name }

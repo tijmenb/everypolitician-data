@@ -74,19 +74,29 @@ namespace :transform do
     end
   end
 
+  def display_name_from(name)
+    if name.key? :lordname
+      display = "#{name[:honorific_prefix]} #{name[:lordname]}"
+      display += " of #{name[:lordofname]}" unless name[:lordofname].to_s.empty?
+      return display
+    end
+    name[:given_name] + " " + name[:family_name]
+  end
+
+
   task :write => :ensure_names
   task :ensure_names => :set_membership_terms do
-    @json[:persons].find_all { |p| not p.has_key? 'name' }.each do |p|
-      # TODO cope better with name changes
-      main_names = p[:other_names].find_all { |n| n[:note] == 'Main' }
-      name = main_names.find { |n| n[:end_date].nil? } || main_names.sort_by { |n| n[:end_date] }.last
-      raise "Uncertain name for #{JSON.pretty_generate p}" unless name
-      if name.key? :lordname
-        p[:name] = "#{name[:honorific_prefix]} #{name[:lordname]}"
-        p[:name] += " of #{name[:lordofname]}" unless name[:lordofname].to_s.empty?
-      else 
-        p[:name] = name[:given_name] + " " + name[:family_name]
+    @json[:persons].each do |p| 
+      p[:other_names].delete_if { |n| n[:note] != 'Main' } 
+      p[:other_names].find_all { |n| not n.key? :name }.each do |n|
+        n[:name] = display_name_from(n)
       end
+    end
+    @json[:persons].find_all { |p| not p.key? :name }.each do |p|
+      main_names = p[:other_names].find_all { |n| n[:note] == 'Main' }
+      most_recent = main_names.find { |n| n[:end_date].nil? } || main_names.sort_by { |n| n[:end_date] }.last
+      raise "Uncertain name for #{JSON.pretty_generate p}" unless most_recent
+      p[:name] = most_recent[:name]
     end
   end
 

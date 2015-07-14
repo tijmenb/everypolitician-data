@@ -1,4 +1,4 @@
-require 'json'
+require 'yajl/json_gem'
 require 'open-uri'
 require 'rake/clean'
 require 'pry'
@@ -263,20 +263,38 @@ namespace :term_csvs do
 
   require 'csv'
 
+  def name_at(p, date)
+    return p[:name] unless date && p.key?(:other_names)
+    historic = p[:other_names].find_all { |n| n.key?(:end_date) } 
+    return p[:name] unless historic.any?
+    at_date = historic.find_all { |n|
+      n[:end_date] >= date && (n[:start_date] || '0000-00-00') <= date
+    }
+    return p[:name] if at_date.empty?
+    raise "Too many names at #{date}: #{at_date}" if at_date.count > 1
+    
+    return at_date.first[:name]
+  end
+
   task :term_tables => 'ep-popolo-v1.0.json' do
     @json = JSON.parse(File.read('ep-popolo-v1.0.json'), symbolize_names: true )
+    terms = {}
+
     data = @json[:memberships].find_all { |m| m.key? :legislative_period_id }.map do |m|
       person = @json[:persons].find       { |r| (r[:id] == m[:person_id])       || (r[:id].end_with? "/#{m[:person_id]}") }
       group  = @json[:organizations].find { |o| (o[:id] == m[:on_behalf_of_id]) || (o[:id].end_with? "/#{m[:on_behalf_of_id]}") }
       house  = @json[:organizations].find { |o| (o[:id] == m[:organization_id]) || (o[:id].end_with? "/#{m[:organization_id]}") }
+      terms[m[:legislative_period_id]] ||= @json[:events].find { |e| e[:id].split('/').last == m[:legislative_period_id].split('/').last }
+
       if group.nil?
         puts "No group for #{m}"
         binding.pry
         next
       end
+
       {
         id: person[:id].split('/').last,
-        name: person[:name],
+        name: name_at(person, m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
         email: person[:email],
         twitter: persons_twitter(person),
         group: group[:name],

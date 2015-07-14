@@ -1,10 +1,7 @@
 require_relative 'rakefile_common.rb'
 require_relative 'lib/builder.rb'
 
-require 'erb'
 require 'csv_to_popolo'
-require 'fileutils'
-require 'json'
 require 'pry'
 require 'rake/clean'
 
