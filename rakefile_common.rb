@@ -264,7 +264,7 @@ namespace :term_csvs do
   require 'csv'
 
   def name_at(p, date)
-    return p[:name] unless date 
+    return p[:name] unless date && p.key?(:other_names)
     historic = p[:other_names].find_all { |n| n.key?(:end_date) } 
     return p[:name] unless historic.any?
     at_date = historic.find_all { |n|
@@ -295,7 +295,6 @@ namespace :term_csvs do
       {
         id: person[:id].split('/').last,
         name: name_at(person, m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
-        # name: person[:name],
         email: person[:email],
         twitter: persons_twitter(person),
         group: group[:name],
