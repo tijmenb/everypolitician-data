@@ -1,5 +1,6 @@
 
 require_relative 'rakefile_common.rb'
+require 'json'
 
 @SOURCE_DIR = 'sources/parldata'
 @PARLDATA_RAW_FILE = @SOURCE_DIR + '/raw.json'
