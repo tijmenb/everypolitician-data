@@ -284,7 +284,7 @@ namespace :term_csvs do
       person = @json[:persons].find       { |r| (r[:id] == m[:person_id])       || (r[:id].end_with? "/#{m[:person_id]}") }
       group  = @json[:organizations].find { |o| (o[:id] == m[:on_behalf_of_id]) || (o[:id].end_with? "/#{m[:on_behalf_of_id]}") }
       house  = @json[:organizations].find { |o| (o[:id] == m[:organization_id]) || (o[:id].end_with? "/#{m[:organization_id]}") }
-      terms[m[:legislative_period_id]] ||= @json[:events].find { |e| e[:id] == m[:legislative_period_id] }
+      terms[m[:legislative_period_id]] ||= @json[:events].find { |e| e[:id].split('/').last == m[:legislative_period_id].split('/').last }
 
       if group.nil?
         puts "No group for #{m}"

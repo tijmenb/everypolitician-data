@@ -1,5 +1,7 @@
 require_relative '../../../rakefile_morph.rb'
 
+require 'json'
+
 namespace :whittle do
 
   task :load => @MORPH_DATA_FILE do
