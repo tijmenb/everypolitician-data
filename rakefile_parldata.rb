@@ -52,7 +52,14 @@ namespace :whittle do
     if instructions(:faction_classification)
       @json[:organizations].find_all { |o| o[:classification] == instructions(:faction_classification) }.each do |o|
         o[:classification] = 'faction'
+        # Force the role to be 'member'
+        # TODO: capture somewhere the other things this could be (leader, etc)
+        @json[:memberships].find_all { |m| m[:organization_id] == o[:id] }.each do |m|
+          # warn "role = #{m[:role]}" unless m[:role] == 'member'
+          m[:role] = 'member'
+        end
       end
+
     end
   end
 
@@ -92,7 +99,6 @@ namespace :transform do
     want_type = instructions(:membership_grouping) || 'party'
     groups    = @json[:organizations].find_all { |h| h[:classification] == want_type }
     groupids  = groups.map { |p| p[:id] }.to_set
-
 
     # All Memberships that have no :on_behalf_of
     gaps = @json[:memberships].find_all { |m| 
