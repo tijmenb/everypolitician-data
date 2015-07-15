@@ -55,7 +55,7 @@ namespace :whittle do
         # Force the role to be 'member'
         # TODO: capture somewhere the other things this could be (leader, etc)
         @json[:memberships].find_all { |m| m[:organization_id] == o[:id] }.each do |m|
-          warn "role = #{m[:role]}" unless m[:role] == 'member'
+          # warn "role = #{m[:role]}" unless m[:role] == 'member'
           m[:role] = 'member'
         end
       end
