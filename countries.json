@@ -602,6 +602,31 @@
     ]
   },
   {
+    "name": "Cayman Islands",
+    "country": "Cayman Islands",
+    "code": "KY",
+    "slug": "Cayman-Islands",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Legislative-Assembly",
+        "sources_directory": "data/Cayman_Islands/Legislative_Assembly/sources",
+        "popolo": "data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1437001814",
+        "sha": "f43d419",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–2017",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Cayman_Islands/Legislative_Assembly/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Chad",
     "country": "Chad",
     "code": "TD",
