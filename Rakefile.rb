@@ -68,6 +68,7 @@ task 'countries.json' do
           sources_directory: "#{h}/sources",
           popolo: json_file,
           lastmod: lastmod,
+          person_count: popolo[:persons].size,
           sha: sha,
           legislative_periods: terms_from(popolo, h),
         }
