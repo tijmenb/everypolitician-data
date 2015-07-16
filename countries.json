@@ -164,6 +164,32 @@
     ]
   },
   {
+    "name": "Barbados",
+    "country": "Barbados",
+    "code": "BB",
+    "slug": "Barbados",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "House-of-Assembly",
+        "sources_directory": "data/Barbados/House_of_Assembly/sources",
+        "popolo": "data/Barbados/House_of_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1437068645",
+        "person_count": 30,
+        "sha": "be38fb9",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–2018",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Barbados/House_of_Assembly/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Belarus",
     "country": "Belarus",
     "code": "BY",
