@@ -1960,15 +1960,16 @@
         "slug": "States",
         "sources_directory": "data/Jersey/States/sources",
         "popolo": "data/Jersey/States/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1437142976",
         "person_count": 58,
-        "sha": "80fde5a",
+        "sha": "a8aee17",
         "legislative_periods": [
           {
-            "id": "term/2011",
-            "name": "2011",
-            "slug": "2011",
-            "csv": "data/Jersey/States/term-2011.csv"
+            "id": "term/6",
+            "name": "Assembly 2011–",
+            "start_date": "2011",
+            "slug": "6",
+            "csv": "data/Jersey/States/term-6.csv"
           }
         ]
       }
