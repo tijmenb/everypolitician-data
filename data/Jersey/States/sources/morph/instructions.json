@@ -1,5 +1,5 @@
 {
   "source": "tmtmtmtm/jersey-assembly",
   "fetch_terms": true,
-  "query": "SELECT *, parish AS area FROM data"
+  "query": "SELECT *, parish AS area, 6 as term FROM data"
 }
