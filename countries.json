@@ -1698,6 +1698,56 @@
     ]
   },
   {
+    "name": "Guam",
+    "country": "Guam",
+    "code": "GU",
+    "slug": "Guam",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Guam/Parliament/sources",
+        "popolo": "data/Guam/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1437321928",
+        "person_count": 28,
+        "sha": "7c3b616",
+        "legislative_periods": [
+          {
+            "id": "term/33",
+            "name": "33rd Guam Legislature",
+            "start_date": "2015-02-16",
+            "slug": "33",
+            "csv": "data/Guam/Parliament/term-33.csv"
+          },
+          {
+            "end_date": "2015-01-02",
+            "id": "term/32",
+            "name": "32nd Guam Legislature",
+            "start_date": "2013-01-11",
+            "slug": "32",
+            "csv": "data/Guam/Parliament/term-32.csv"
+          },
+          {
+            "end_date": "2013-01-04",
+            "id": "term/31",
+            "name": "31st Guam Legislature",
+            "start_date": "2011-02-21",
+            "slug": "31",
+            "csv": "data/Guam/Parliament/term-31.csv"
+          },
+          {
+            "end_date": "2010-12-22",
+            "id": "term/30",
+            "name": "30th Guam Legislature",
+            "start_date": "2009-02-16",
+            "slug": "30",
+            "csv": "data/Guam/Parliament/term-30.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hungary",
     "country": "Hungary",
     "code": "HU",
