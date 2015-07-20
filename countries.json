@@ -2301,27 +2301,33 @@
         "slug": "Landtag",
         "sources_directory": "data/Liechtenstein/Landtag/sources",
         "popolo": "data/Liechtenstein/Landtag/ep-popolo-v1.0.json",
-        "lastmod": "1437428618",
+        "lastmod": "1437429782",
         "person_count": 51,
-        "sha": "de4f7fd",
+        "sha": "eb03993",
         "legislative_periods": [
           {
-            "id": "term/2005-2009",
-            "name": "2005-2009",
-            "slug": "2005-2009",
-            "csv": "data/Liechtenstein/Landtag/term-2005-2009.csv"
-          },
-          {
-            "id": "term/2009-2013",
-            "name": "2009-2013",
-            "slug": "2009-2013",
-            "csv": "data/Liechtenstein/Landtag/term-2009-2013.csv"
-          },
-          {
-            "id": "term/2013-2017",
+            "end_date": "2017",
+            "id": "term/2013",
             "name": "2013-2017",
-            "slug": "2013-2017",
-            "csv": "data/Liechtenstein/Landtag/term-2013-2017.csv"
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Liechtenstein/Landtag/term-2013.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/2009",
+            "name": "2009-2013",
+            "start_date": "2009",
+            "slug": "2009",
+            "csv": "data/Liechtenstein/Landtag/term-2009.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/2005",
+            "name": "2005-2009",
+            "start_date": "2005",
+            "slug": "2005",
+            "csv": "data/Liechtenstein/Landtag/term-2005.csv"
           }
         ]
       }
