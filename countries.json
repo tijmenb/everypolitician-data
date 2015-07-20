@@ -2291,6 +2291,43 @@
     ]
   },
   {
+    "name": "Liechtenstein",
+    "country": "Liechtenstein",
+    "code": "LI",
+    "slug": "Liechtenstein",
+    "legislatures": [
+      {
+        "name": "Landtag",
+        "slug": "Landtag",
+        "sources_directory": "data/Liechtenstein/Landtag/sources",
+        "popolo": "data/Liechtenstein/Landtag/ep-popolo-v1.0.json",
+        "lastmod": "1437415239",
+        "person_count": 70,
+        "sha": "8c949f8",
+        "legislative_periods": [
+          {
+            "id": "term/2005-2009",
+            "name": "2005-2009",
+            "slug": "2005-2009",
+            "csv": "data/Liechtenstein/Landtag/term-2005-2009.csv"
+          },
+          {
+            "id": "term/2009-2013",
+            "name": "2009-2013",
+            "slug": "2009-2013",
+            "csv": "data/Liechtenstein/Landtag/term-2009-2013.csv"
+          },
+          {
+            "id": "term/2013-2017",
+            "name": "2013-2017",
+            "slug": "2013-2017",
+            "csv": "data/Liechtenstein/Landtag/term-2013-2017.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Madagascar",
     "country": "Madagascar",
     "code": "MG",
