@@ -2535,6 +2535,32 @@
     ]
   },
   {
+    "name": "Marshall Islands",
+    "country": "Marshall Islands",
+    "code": "MH",
+    "slug": "Marshall-Islands",
+    "legislatures": [
+      {
+        "name": "Nitijela",
+        "slug": "Nitijela",
+        "sources_directory": "data/Marshall_Islands/Nitijela/sources",
+        "popolo": "data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
+        "lastmod": "1437462158",
+        "person_count": 33,
+        "sha": "eb2cb93",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Marshall_Islands/Nitijela/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Mauritania",
     "country": "Mauritania",
     "code": "MR",
