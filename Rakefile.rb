@@ -75,6 +75,6 @@ task 'countries.json' do
       }
     }
   end
-  File.write('countries.json', JSON.pretty_generate(data.to_a))
+  File.write('countries.json', JSON.pretty_generate(data.sort_by { |c| c[:name] }.to_a))
 end
 
