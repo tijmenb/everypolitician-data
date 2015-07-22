@@ -1,39 +1,5 @@
 [
   {
-    "name": "Åland",
-    "country": "Åland",
-    "code": "AX",
-    "slug": "Aland",
-    "legislatures": [
-      {
-        "name": "Lagting",
-        "slug": "Lagting",
-        "sources_directory": "data/Aland/Lagting/sources",
-        "popolo": "data/Aland/Lagting/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
-        "person_count": 47,
-        "sha": "80fde5a",
-        "legislative_periods": [
-          {
-            "id": "term/2011",
-            "name": "2011–",
-            "start_date": "2011",
-            "slug": "2011",
-            "csv": "data/Aland/Lagting/term-2011.csv"
-          },
-          {
-            "end_date": "2011",
-            "id": "term/2007",
-            "name": "2007–2011",
-            "start_date": "2007",
-            "slug": "2007",
-            "csv": "data/Aland/Lagting/term-2007.csv"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
@@ -1004,6 +970,32 @@
             "start_date": "1992-06-06",
             "slug": "165",
             "csv": "data/Czech_Republic/Deputies/term-165.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "country": "Côte d'Ivoire",
+    "code": "CI",
+    "slug": "Ivory-Coast",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Ivory_Coast/Assembly/sources",
+        "popolo": "data/Ivory_Coast/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1436785093",
+        "person_count": 241,
+        "sha": "80fde5a",
+        "legislative_periods": [
+          {
+            "id": "term/2.2",
+            "name": "2e législature de la 2e République",
+            "start_date": "2012-03-12",
+            "slug": "2.2",
+            "csv": "data/Ivory_Coast/Assembly/term-2.2.csv"
           }
         ]
       }
@@ -2026,32 +2018,6 @@
     ]
   },
   {
-    "name": "Côte d'Ivoire",
-    "country": "Côte d'Ivoire",
-    "code": "CI",
-    "slug": "Ivory-Coast",
-    "legislatures": [
-      {
-        "name": "National Assembly",
-        "slug": "Assembly",
-        "sources_directory": "data/Ivory_Coast/Assembly/sources",
-        "popolo": "data/Ivory_Coast/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
-        "person_count": 241,
-        "sha": "80fde5a",
-        "legislative_periods": [
-          {
-            "id": "term/2.2",
-            "name": "2e législature de la 2e République",
-            "start_date": "2012-03-12",
-            "slug": "2.2",
-            "csv": "data/Ivory_Coast/Assembly/term-2.2.csv"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Jersey",
     "country": "Jersey",
     "code": "JE",
@@ -2902,6 +2868,32 @@
             "start_date": "1993",
             "slug": "1",
             "csv": "data/Namibia/Council/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nauru",
+    "country": "Nauru",
+    "code": "NR",
+    "slug": "Nauru",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Nauru/Parliament/sources",
+        "popolo": "data/Nauru/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1437548508",
+        "person_count": 19,
+        "sha": "d07e185",
+        "legislative_periods": [
+          {
+            "id": "term/21",
+            "name": "21st Parliament",
+            "start_date": "2013-06-11",
+            "slug": "21",
+            "csv": "data/Nauru/Parliament/term-21.csv"
           }
         ]
       }
@@ -3793,6 +3785,40 @@
             "start_date": "2013",
             "slug": "8",
             "csv": "data/Zimbabwe/Assembly/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Åland",
+    "country": "Åland",
+    "code": "AX",
+    "slug": "Aland",
+    "legislatures": [
+      {
+        "name": "Lagting",
+        "slug": "Lagting",
+        "sources_directory": "data/Aland/Lagting/sources",
+        "popolo": "data/Aland/Lagting/ep-popolo-v1.0.json",
+        "lastmod": "1436785093",
+        "person_count": 47,
+        "sha": "80fde5a",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Aland/Lagting/term-2011.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/2007",
+            "name": "2007–2011",
+            "start_date": "2007",
+            "slug": "2007",
+            "csv": "data/Aland/Lagting/term-2007.csv"
           }
         ]
       }
