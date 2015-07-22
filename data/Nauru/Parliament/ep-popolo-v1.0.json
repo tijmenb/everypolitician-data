@@ -298,6 +298,7 @@
   },
   "memberships": [
     {
+      "area_id": "area/aiwo",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -305,6 +306,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/boe",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -312,6 +314,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/yaren",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -319,6 +322,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/anetan",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -326,6 +330,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/ubenide",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -333,6 +338,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/yaren",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/opposition",
       "organization_id": "legislature",
@@ -340,6 +346,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/anabar",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -347,6 +354,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/meneng",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -354,6 +362,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/anetan",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/opposition",
       "organization_id": "legislature",
@@ -361,6 +370,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/boe",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/opposition",
       "organization_id": "legislature",
@@ -368,6 +378,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/aiwo",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -375,6 +386,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/ubenide",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -382,6 +394,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/anabar",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -389,6 +402,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/buada",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/opposition",
       "organization_id": "legislature",
@@ -396,6 +410,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/ubenide",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/opposition",
       "organization_id": "legislature",
@@ -403,6 +418,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/buada",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -410,6 +426,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/meneng",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -417,6 +434,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/meneng",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -424,6 +442,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/ubenide",
       "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/government",
       "organization_id": "legislature",
@@ -441,6 +460,45 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "area/aiwo",
+      "name": "Aiwo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/boe",
+      "name": "Boe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/yaren",
+      "name": "Yaren",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anetan",
+      "name": "Anetan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ubenide",
+      "name": "Ubenide",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anabar",
+      "name": "Anabar",
+      "type": "constituency"
+    },
+    {
+      "id": "area/meneng",
+      "name": "Meneng",
+      "type": "constituency"
+    },
+    {
+      "id": "area/buada",
+      "name": "Buada",
+      "type": "constituency"
+    }
   ]
 }
