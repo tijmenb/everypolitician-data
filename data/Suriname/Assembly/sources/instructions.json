@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "file": "members-2010.csv"
+    },
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/suriname-nationale-assemblee",
+        "query": "SELECT * FROM data"
+      }
+    }
+  ]
+}
