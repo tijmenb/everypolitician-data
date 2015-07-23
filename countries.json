@@ -1750,9 +1750,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Hungary/Assembly/sources",
         "popolo": "data/Hungary/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
-        "person_count": 260,
-        "sha": "80fde5a",
+        "lastmod": "1437667903",
+        "person_count": 215,
+        "sha": "03bc5db",
         "legislative_periods": [
           {
             "id": "550303bc273a39033bab34df",
@@ -2106,9 +2106,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Kosovo/Assembly/sources",
         "popolo": "data/Kosovo/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
-        "person_count": 1138,
-        "sha": "80fde5a",
+        "lastmod": "1437667992",
+        "person_count": 400,
+        "sha": "261217b",
         "legislative_periods": [
           {
             "id": "chamber_2014-07-17",
@@ -2708,9 +2708,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Montenegro/Assembly/sources",
         "popolo": "data/Montenegro/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1437148551",
-        "person_count": 790,
-        "sha": "ce2b132",
+        "lastmod": "1437668010",
+        "person_count": 82,
+        "sha": "7575418",
         "legislative_periods": [
           {
             "id": "550a7f50273a3965683bd824",
@@ -3357,6 +3357,32 @@
             "start_date": "2014-08-01",
             "slug": "7",
             "csv": "data/Slovenia/National_Assembly/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "country": "Solomon Islands",
+    "code": "SB",
+    "slug": "Solomon-Islands",
+    "legislatures": [
+      {
+        "name": "National Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Solomon_Islands/Parliament/sources",
+        "popolo": "data/Solomon_Islands/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1437636759",
+        "person_count": 46,
+        "sha": "fde883c",
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2014",
+            "slug": "10",
+            "csv": "data/Solomon_Islands/Parliament/term-10.csv"
           }
         ]
       }
