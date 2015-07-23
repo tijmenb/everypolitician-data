@@ -3363,6 +3363,32 @@
     ]
   },
   {
+    "name": "Solomon Islands",
+    "country": "Solomon Islands",
+    "code": "SB",
+    "slug": "Solomon-Islands",
+    "legislatures": [
+      {
+        "name": "National Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Solomon_Islands/Parliament/sources",
+        "popolo": "data/Solomon_Islands/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1437636759",
+        "person_count": 46,
+        "sha": "fde883c",
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2014",
+            "slug": "10",
+            "csv": "data/Solomon_Islands/Parliament/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Africa",
     "country": "South Africa",
     "code": "ZA",
