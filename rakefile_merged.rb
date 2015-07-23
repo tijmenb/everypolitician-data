@@ -18,6 +18,11 @@ raise "No sources" if @instructions[:sources].count.zero?
 @recreatable = @instructions[:sources].find_all { |i| i.key? :create }
 CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
 
+# For now, write the merged file to manual/members.csv so we can then
+# fall-back on the old-style rake task that looks there
+# TODO: consolidate these
+CLOBBER.include 'manual/members.csv'
+
 def morph_select(src, qs)
   morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
   key = ERB::Util.url_encode(morph_api_key)
@@ -38,5 +43,31 @@ def fetch_missing
   end 
 end
 
-fetch_missing
+# http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
+def combine_sources
+  inputs = @instructions[:sources].map { |src| src[:file] }
 
+  all_headers = inputs.reduce([]) do |all_headers, file|
+    header_line = File.open(file, &:gets)     
+    all_headers | CSV.parse_line(header_line) 
+  end
+
+  CSV.open("manual/members.csv", "w") do |out|
+    out << all_headers
+    inputs.each do |file|
+      CSV.foreach(file, headers: true) do |row|
+        out << all_headers.map { |header| row[header] }
+      end
+    end
+  end
+end
+
+task :fetch_missing do
+  fetch_missing
+end
+
+task 'manual/members.csv' => :fetch_missing do
+  combine_sources
+end
+
+task :default => [ 'manual/members.csv' ]
