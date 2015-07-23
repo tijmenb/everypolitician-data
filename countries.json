@@ -3451,10 +3451,17 @@
         "slug": "Assembly",
         "sources_directory": "data/Suriname/Assembly/sources",
         "popolo": "data/Suriname/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
-        "person_count": 51,
-        "sha": "80fde5a",
+        "lastmod": "1437665805",
+        "person_count": 82,
+        "sha": "7e0b73a",
         "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Suriname/Assembly/term-2015.csv"
+          },
           {
             "end_date": "2015",
             "id": "term/2010",
