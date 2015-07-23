@@ -1,7 +1,7 @@
 
 class EveryPolitician
 
-  class Builder
+  class Fetcher
 
     class Morph
 
