@@ -1,5 +1,5 @@
 require_relative 'rakefile_common.rb'
-require_relative 'lib/builder.rb'
+require_relative 'lib/fetcher.rb'
 
 require 'csv_to_popolo'
 require 'pry'
@@ -13,13 +13,12 @@ CLOBBER.include(FileList.new('sources/morph/*.csv'))
 
 namespace :raw do
   file 'sources/morph/data.csv' do
-    builder = EveryPolitician::Builder::Morph.new(
+    EveryPolitician::Fetcher::Morph.new(
       instructions(:source), 
       get_terms: instructions(:fetch_terms),
       data_query: instructions(:query),
       term_query: instructions(:term_query),
-    )
-    builder.fetch! 
+    ).fetch! 
   end
 end
 
