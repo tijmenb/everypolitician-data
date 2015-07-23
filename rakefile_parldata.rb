@@ -42,7 +42,11 @@ namespace :whittle do
   end
 
   task :delete_unwanted_data => :load do
-    @json[:organizations].delete_if { |o| ['committee', 'friendship group', 'friendship_group', 'delegation'].include? o[:classification] }
+    unwanted_orgs = @json[:organizations].find_all { |o| ['committee', 'friendship group', 'friendship_group', 'delegation'].include? o[:classification] }
+    unwanted_org_ids = unwanted_orgs.map { |o| o[:id] }.to_set
+
+    @json[:memberships].delete_if { |m| unwanted_org_ids.include? m[:organization_id] }
+    @json[:organizations].delete_if { |o| unwanted_org_ids.include? o[:id] }
     @json[:events].delete_if { |e| %w[session sitting].include? e[:type] } if @json[:events]
   end
 
@@ -148,6 +152,12 @@ namespace :transform do
         warn "Person #{missing[:person_id]} in no suitable groups during Term #{term[:id]} (But in #{possibles})"
       end
     end
+
+    # Delete all the people with no parliamentary memberships
+    # TODO: who are these people?
+    ok_ppl = @json[:memberships].find_all { |m| m[:organization_id] == 'legislature' }.map { |m| m[:person_id] }.uniq.to_set
+    @json[:persons].keep_if { |p| ok_ppl.include? p[:id] }
+
   end
 
 end
