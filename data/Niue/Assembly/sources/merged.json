@@ -1,0 +1,428 @@
+{
+  "persons": [
+    {
+      "id": "person/bill_vakaafi_motufoou",
+      "name": "Bill Vakaafi Motufoou",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/billy_graham_talagi",
+      "name": "Billy Graham Talagi",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/crossley_tatui",
+      "name": "Crossley Tatui",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/dalton_tagelagi",
+      "name": "Dalton Tagelagi",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/dion_paki_taufitu",
+      "name": "Dion Paki Taufitu",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/fisa_igilisi_pihigia",
+      "name": "Fisa Igilisi Pihigia",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/jack_willie_lipitoa,_qsm",
+      "name": "Jack Willie Lipitoa, QSM",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/joan_sisiata_tahafa_viliamu",
+      "name": "Joan Sisiata Tahafa Viliamu",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/kupa_magatogia",
+      "name": "Kupa Magatogia",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/mititaiagimene_young_vivian",
+      "name": "Mititaiagimene Young Vivian",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/opili_talafasi",
+      "name": "Opili Talafasi",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/peter_andrew_funaki",
+      "name": "Peter Andrew Funaki",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/pokotoa_sipeli",
+      "name": "Pokotoa Sipeli",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/stanley_atuvaha_kalauni",
+      "name": "Stanley Atuvaha Kalauni",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/talaititama_talaiti",
+      "name": "Talaititama Talaiti",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/terry_donald_coe",
+      "name": "Terry Donald Coe",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/tofua_puletama",
+      "name": "Tofua Puletama",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/togia_likalika_sioneholo",
+      "name": "Togia Likalika Sioneholo",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/toke_tufukia_talagi",
+      "name": "Toke Tufukia Talagi",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "person/va’aiga_tukuitoga",
+      "name": "Va’aiga Tukuitoga",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "classification": "legislative period",
+          "id": "term/15",
+          "name": "15"
+        }
+      ],
+      "name": "Legislature"
+    }
+  ],
+  "meta": {
+    "source": "https://morph.io/tmtmtmtm/niue-assembly"
+  },
+  "memberships": [
+    {
+      "area": {
+        "id": "area/mutalau",
+        "name": "Mutalau"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/bill_vakaafi_motufoou",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/avatele",
+        "name": "Avatele"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/billy_graham_talagi",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/common_roll",
+        "name": "Common Roll"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/crossley_tatui",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/alofi_south",
+        "name": "Alofi South"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/dalton_tagelagi",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/toi",
+        "name": "Toi"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/dion_paki_taufitu",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/tuapa",
+        "name": "Tuapa"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/fisa_igilisi_pihigia",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/namukulu",
+        "name": "Namukulu"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/jack_willie_lipitoa,_qsm",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/common_roll",
+        "name": "Common Roll"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/joan_sisiata_tahafa_viliamu",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/lakepa",
+        "name": "Lakepa"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/kupa_magatogia",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/hakupu",
+        "name": "Hakupu"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/mititaiagimene_young_vivian",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/hikutavake",
+        "name": "Hikutavake"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/opili_talafasi",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/tamakautoga",
+        "name": "Tamakautoga"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/peter_andrew_funaki",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/liku",
+        "name": "Liku"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/pokotoa_sipeli",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/common_roll",
+        "name": "Common Roll"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/stanley_atuvaha_kalauni",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/vaiea",
+        "name": "Vaiea"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/talaititama_talaiti",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/common_roll",
+        "name": "Common Roll"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/terry_donald_coe",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/makefu",
+        "name": "Makefu"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/tofua_puletama",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/common_roll",
+        "name": "Common Roll"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/togia_likalika_sioneholo",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/common_roll",
+        "name": "Common Roll"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/toke_tufukia_talagi",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/alofi_north",
+        "name": "Alofi North"
+      },
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/va’aiga_tukuitoga",
+      "role": "member"
+    }
+  ]
+}

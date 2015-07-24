@@ -2952,6 +2952,32 @@
     ]
   },
   {
+    "name": "Niue",
+    "country": "Niue",
+    "code": "NU",
+    "slug": "Niue",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Niue/Assembly/sources",
+        "popolo": "data/Niue/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1437732748",
+        "person_count": 20,
+        "sha": "7b139f0",
+        "legislative_periods": [
+          {
+            "id": "term/15",
+            "name": "15th Assembly",
+            "start_date": "2014-04-23",
+            "slug": "15",
+            "csv": "data/Niue/Assembly/term-15.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Northern Ireland",
     "country": "Northern Ireland",
     "code": "GB-NIR",
