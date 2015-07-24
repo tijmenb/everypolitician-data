@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "file": "manual/sheet.csv",
+      "type": "membership"
+    },
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/estonia-riigikogu",
+        "query": "SELECT id,name,image,phone,email,source FROM data"
+      },
+      "type": "person"
+    }
+  ]
+}

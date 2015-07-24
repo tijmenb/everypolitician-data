@@ -45,20 +45,38 @@ end
 
 # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
 def combine_sources
-  inputs = @instructions[:sources].map { |src| src[:file] }
 
-  all_headers = inputs.reduce([]) do |all_headers, file|
+  # build headers for everything
+  all_headers = @instructions[:sources].map { |src| src[:file] }.reduce([]) do |all_headers, file|
     header_line = File.open(file, &:gets)     
     all_headers | CSV.parse_line(header_line) 
   end
 
-  CSV.open("manual/members.csv", "w") do |out|
-    out << all_headers
-    inputs.each do |file|
-      CSV.foreach(file, headers: true) do |row|
-        out << all_headers.map { |header| row[header] }
+  # First concat everything that's a "membership" (or default)
+  all_rows = []
+  @instructions[:sources].find_all { |src|
+    src[:type].to_s.empty? || src[:type].to_s.downcase == 'membership'
+  }.map { |src| src[:file] }.each do |file|
+    CSV.table(file).each do |row|
+      all_rows << row
+    end
+  end
+
+  # Then merge in Person files
+  @instructions[:sources].find_all { |src| 
+    src[:type].to_s.downcase == 'person' 
+  }.map { |src| src[:file] }.each do |file|
+    CSV.table(file).each do |p|
+      all_rows.find_all { |r| r[:id] == p[:id] }.each do |r|
+        p.headers.each { |h| r[h] ||= p[h] }
       end
     end
+  end
+
+  # Then write it all out
+  CSV.open("manual/members.csv", "w") do |out|
+    out << all_headers
+    all_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
   end
 end
 
