@@ -9,7 +9,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/estonia-riigikogu",
-        "query": "SELECT * FROM data"
+        "query": "SELECT id,name,image,phone,email,source FROM data"
       },
       "type": "person"
     }
