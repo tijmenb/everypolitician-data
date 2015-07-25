@@ -764,6 +764,32 @@
     ]
   },
   {
+    "name": "Cook Islands",
+    "country": "Cook Islands",
+    "code": "CK",
+    "slug": "Cook-Islands",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Cook_Islands/Parliament/sources",
+        "popolo": "data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1437812091",
+        "person_count": 24,
+        "sha": "283ea08",
+        "legislative_periods": [
+          {
+            "id": "term/14",
+            "name": "14th Parliament",
+            "start_date": "2014",
+            "slug": "14",
+            "csv": "data/Cook_Islands/Parliament/term-14.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Curaçao",
     "country": "Curaçao",
     "code": "CW",
