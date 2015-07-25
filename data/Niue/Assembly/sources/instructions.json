@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "file": "morph/gov.nu.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/niue-assembly",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.gov.nu/wb/pages/parliament/assembly.php",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikipedia-2014-election.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/niue-election-2014",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/w/index.php?title=Niuean_general_election,_2014",
+      "type": "person",
+      "merge": { 
+        "field": "name",
+        "approximate": true,
+        "clobber": false
+      }
+    }
+  ]
+}

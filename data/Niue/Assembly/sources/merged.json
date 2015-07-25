@@ -1,7 +1,15 @@
 {
   "persons": [
     {
+      "gender": "male",
+      "given_name": "Bill",
       "id": "person/bill_vakaafi_motufoou",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bill_Vakaafi_Motufoou"
+        }
+      ],
       "name": "Bill Vakaafi Motufoou",
       "sources": [
         {
@@ -28,7 +36,14 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/dalton_tagelagi",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dalton_Tagelagi"
+        }
+      ],
       "name": "Dalton Tagelagi",
       "sources": [
         {
@@ -64,7 +79,16 @@
       ]
     },
     {
+      "birth_date": "1966-03-22",
+      "gender": "female",
+      "given_name": "Joan",
       "id": "person/joan_sisiata_tahafa_viliamu",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joan_Viliamu"
+        }
+      ],
       "name": "Joan Sisiata Tahafa Viliamu",
       "sources": [
         {
@@ -82,7 +106,16 @@
       ]
     },
     {
+      "birth_date": "1935-11-12",
+      "family_name": "Vivian",
+      "gender": "male",
       "id": "person/mititaiagimene_young_vivian",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Young_Vivian"
+        }
+      ],
       "name": "Mititaiagimene Young Vivian",
       "sources": [
         {
@@ -109,7 +142,14 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/pokotoa_sipeli",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pokotoa_Sipeli"
+        }
+      ],
       "name": "Pokotoa Sipeli",
       "sources": [
         {
@@ -136,7 +176,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Terry",
       "id": "person/terry_donald_coe",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Terry_Coe"
+        }
+      ],
       "name": "Terry Donald Coe",
       "sources": [
         {
@@ -154,7 +202,14 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/togia_likalika_sioneholo",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Togia_Sioneholo"
+        }
+      ],
       "name": "Togia Likalika Sioneholo",
       "sources": [
         {
@@ -163,7 +218,22 @@
       ]
     },
     {
+      "birth_date": "1960-12-06",
+      "gender": "male",
+      "given_name": "Toke",
       "id": "person/toke_tufukia_talagi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Toke_Talagi"
+        }
+      ],
       "name": "Toke Tufukia Talagi",
       "sources": [
         {
@@ -201,7 +271,7 @@
     }
   ],
   "meta": {
-    "source": "https://morph.io/tmtmtmtm/niue-assembly"
+    "source": "http://www.gov.nu/wb/pages/parliament/assembly.php"
   },
   "memberships": [
     {
