@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "file": "morph/2014.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/cook-islands-2014-election",
+        "query": "SELECT * FROM data"
+      },
+      "type": "membership"
+    },
+    {
+      "file": "morph/2010.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/cook-islands-2010-election",
+        "query": "SELECT * FROM data"
+      },
+      "type": "membership"
+    }
+  ]
+}
