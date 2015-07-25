@@ -94,11 +94,26 @@ def combine_sources
   # Then merge in Person files
   @instructions[:sources].find_all { |src| 
     src[:type].to_s.downcase == 'person' 
-  }.map { |src| src[:file] }.each do |file|
+  }.each do |src|
+    file = src[:file]
     puts "Merging #{file}".magenta
+    field = (src[:merge][:field] || 'id').to_sym
+    warn "Build by #{field}"
     CSV.table(file).each do |p|
-      all_rows.find_all { |r| r[:id] == p[:id] }.each do |r|
-        p.headers.each { |h| r[h] ||= p[h] }
+      if src[:merge][:approximate]
+        fuzzer ||= FuzzyMatch.new(all_rows, read: field, must_match_at_least_one_word: true )
+        found = fuzzer.find(p[field]) or warn "No match for #{p[field]}"
+        puts "Matched #{p[field]} to #{found}".yellow if found
+      else
+        found = all_rows.find { |r| r[field] == p[field] }.each 
+      end
+
+      if found
+        if src[:merge][:clobber]
+          p.headers.each { |h| found[h] = p[h] unless p[h].to_s.empty? || p[h].to_s.downcase == 'unknown' }
+        else
+          p.headers.each { |h| found[h] ||= p[h] }
+        end
       end
     end
   end
