@@ -10,6 +10,7 @@ GEM
   specs:
     coderay (1.1.0)
     colorize (0.7.7)
+    fuzzy_match (2.1.0)
     iso_country_codes (0.7.1)
     json (1.8.2)
     method_source (0.8.2)
@@ -30,6 +31,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   csv_to_popolo (>= 0.9.10)!
+  fuzzy_match
   iso_country_codes
   json
   nokogiri

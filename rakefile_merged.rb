@@ -1,7 +1,9 @@
 
+require 'colorize'
 require 'csv'
 require 'erb'
 require 'fileutils'
+require 'fuzzy_match'
 require 'json'
 require 'open-uri'
 require 'pry'
@@ -38,6 +40,7 @@ def fetch_missing
       c = i[:create]
       raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
       data = morph_select(c[:scraper], c[:query])
+      FileUtils.mkpath File.dirname i[:file]
       File.write(i[:file], data)
     end
   end 
@@ -47,7 +50,10 @@ end
 def combine_sources
 
   # build headers for everything
-  all_headers = @instructions[:sources].map { |src| src[:file] }.reduce([]) do |all_headers, file|
+  all_headers = @instructions[:sources].find_all { |src|
+    src[:type] != 'term'
+  }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
+    puts "Headers from #{file}".cyan
     header_line = File.open(file, &:gets)     
     all_headers | CSV.parse_line(header_line) 
   end
@@ -56,9 +62,32 @@ def combine_sources
   all_rows = []
   @instructions[:sources].find_all { |src|
     src[:type].to_s.empty? || src[:type].to_s.downcase == 'membership'
-  }.map { |src| src[:file] }.each do |file|
+  }.each do |src| 
+    file = src[:file] 
+    fuzzer = nil
+    puts "Concat #{file}".cyan
     CSV.table(file).each do |row|
-      all_rows << row
+      if src.key? :merge
+        field = src[:merge][:field].to_sym
+        if src[:merge][:approximate] 
+          fuzzer ||= FuzzyMatch.new(all_rows, read: field, must_match_at_least_one_word: true )
+          found = fuzzer.find(row[field])
+          puts "Matched #{row[field]} to #{found[field]}".yellow
+        else
+          raise "Not implemented yet"
+        end
+
+        if src[:merge][:clobber]
+          row.headers.each do |h|
+            found[h] = row[h] unless row[h].to_s.empty? || row[h].to_s.downcase == 'unknown'
+          end
+        else
+          raise "Not implemented yet"
+        end
+
+      else # append
+        all_rows << row.to_hash
+      end
     end
   end
 
@@ -66,6 +95,7 @@ def combine_sources
   @instructions[:sources].find_all { |src| 
     src[:type].to_s.downcase == 'person' 
   }.map { |src| src[:file] }.each do |file|
+    puts "Merging #{file}".magenta
     CSV.table(file).each do |p|
       all_rows.find_all { |r| r[:id] == p[:id] }.each do |r|
         p.headers.each { |h| r[h] ||= p[h] }
@@ -74,10 +104,20 @@ def combine_sources
   end
 
   # Then write it all out
+  FileUtils.mkpath "manual"
   CSV.open("manual/members.csv", "w") do |out|
     out << all_headers
     all_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
   end
+
+  # Write a source file, if required
+  # TODO remove this once we're doing everything ourselves
+
+  unless File.exist? 'manual/instructions.json'
+    source = { source: @instructions[:sources].first { |i| i[:source] }[:source] }
+    File.write 'manual/instructions.json', JSON.pretty_generate(source)
+  end
+
 end
 
 task :fetch_missing do

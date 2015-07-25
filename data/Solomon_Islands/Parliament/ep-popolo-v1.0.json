@@ -64,6 +64,15 @@
       ]
     },
     {
+      "id": "person/bradley_tovosia",
+      "name": "Bradley TOVOSIA",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -544,6 +553,15 @@
       ]
     },
     {
+      "id": "person/matthew_c_wale",
+      "name": "Matthew C WALE",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -565,6 +583,15 @@
       ]
     },
     {
+      "id": "person/milner_tozaka",
+      "name": "Milner TOZAKA",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -582,6 +609,15 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.sb/index.php?q=node/862"
+        }
+      ]
+    },
+    {
+      "id": "person/namson_tran",
+      "name": "Namson TRAN",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
         }
       ]
     },
@@ -891,6 +927,21 @@
   ],
   "organizations": [
     {
+      "classification": "party",
+      "id": "party/democratic_alliance_party",
+      "name": "Democratic Alliance Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
+      "id": "party/kadare_party_of_solomon_islands",
+      "name": "Kadare Party of Solomon Islands"
+    },
+    {
       "classification": "legislature",
       "id": "legislature",
       "name": "National Parliament",
@@ -899,18 +950,33 @@
     },
     {
       "classification": "party",
-      "id": "party/unknown",
-      "name": "Unknown"
+      "id": "party/people's_alliance_party",
+      "name": "People's Alliance Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/solomon_islands_party_for_rural_advancement",
+      "name": "Solomon Islands Party for Rural Advancement"
+    },
+    {
+      "classification": "party",
+      "id": "party/solomon_islands_people_first_party",
+      "name": "Solomon Islands People First Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/united_democratic_party",
+      "name": "United Democratic Party"
     }
   ],
   "meta": {
-    "source": "https://morph.io/tmtmtmtm/solomon-islands-parliament"
+    "source": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
   },
   "memberships": [
     {
       "area_id": "area/north-west_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/503",
       "role": "member"
@@ -918,7 +984,7 @@
     {
       "area_id": "area/central_kwara’ae",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/506",
       "role": "member"
@@ -926,7 +992,7 @@
     {
       "area_id": "area/central_honiara",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/507",
       "role": "member"
@@ -934,7 +1000,7 @@
     {
       "area_id": "area/west_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/521",
       "role": "member"
@@ -942,7 +1008,7 @@
     {
       "area_id": "area/east_honiara",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/532",
       "role": "member"
@@ -950,7 +1016,7 @@
     {
       "area_id": "area/central_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/591",
       "role": "member"
@@ -958,7 +1024,7 @@
     {
       "area_id": "area/fataleka",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/592",
       "role": "member"
@@ -966,7 +1032,7 @@
     {
       "area_id": "area/east_makira",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/845",
       "role": "member"
@@ -974,7 +1040,7 @@
     {
       "area_id": "area/east_choiseul",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/846",
       "role": "member"
@@ -982,7 +1048,7 @@
     {
       "area_id": "area/east_central_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/848",
       "role": "member"
@@ -990,7 +1056,7 @@
     {
       "area_id": "area/marovo",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/849",
       "role": "member"
@@ -998,7 +1064,7 @@
     {
       "area_id": "area/central_makira",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/851",
       "role": "member"
@@ -1006,7 +1072,7 @@
     {
       "area_id": "area/small_malaita",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/852",
       "role": "member"
@@ -1014,7 +1080,7 @@
     {
       "area_id": "area/west_kwara’ae",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/853",
       "role": "member"
@@ -1022,7 +1088,7 @@
     {
       "area_id": "area/malaita_outer_islands",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/855",
       "role": "member"
@@ -1030,7 +1096,7 @@
     {
       "area_id": "area/shortlands",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/856",
       "role": "member"
@@ -1038,7 +1104,7 @@
     {
       "area_id": "area/east_malaita",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/857",
       "role": "member"
@@ -1046,7 +1112,7 @@
     {
       "area_id": "area/west_are’are",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/858",
       "role": "member"
@@ -1054,7 +1120,7 @@
     {
       "area_id": "area/east_are’are",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/kadare_party_of_solomon_islands",
       "organization_id": "legislature",
       "person_id": "person/859",
       "role": "member"
@@ -1062,7 +1128,7 @@
     {
       "area_id": "area/gao-bugotu",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/860",
       "role": "member"
@@ -1070,7 +1136,7 @@
     {
       "area_id": "area/temotu_nende",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/861",
       "role": "member"
@@ -1078,7 +1144,7 @@
     {
       "area_id": "area/south_choiseul",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/862",
       "role": "member"
@@ -1086,7 +1152,7 @@
     {
       "area_id": "area/south_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/863",
       "role": "member"
@@ -1094,7 +1160,7 @@
     {
       "area_id": "area/savo-russells",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/864",
       "role": "member"
@@ -1102,7 +1168,7 @@
     {
       "area_id": "area/south_new_georgia-rendova-tetepari",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/865",
       "role": "member"
@@ -1110,7 +1176,7 @@
     {
       "area_id": "area/south_vella_lavella",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/866",
       "role": "member"
@@ -1118,7 +1184,7 @@
     {
       "area_id": "area/north-west_choiseul",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/867",
       "role": "member"
@@ -1126,7 +1192,7 @@
     {
       "area_id": "area/rannonga-simbo",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/871",
       "role": "member"
@@ -1134,7 +1200,7 @@
     {
       "area_id": "area/north-east_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/872",
       "role": "member"
@@ -1142,7 +1208,7 @@
     {
       "area_id": "area/east_kwaio",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/873",
       "role": "member"
@@ -1150,7 +1216,7 @@
     {
       "area_id": "area/west_new_georgia-vona_vona",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/solomon_islands_party_for_rural_advancement",
       "organization_id": "legislature",
       "person_id": "person/874",
       "role": "member"
@@ -1158,7 +1224,7 @@
     {
       "area_id": "area/west_kwaio",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/875",
       "role": "member"
@@ -1166,7 +1232,7 @@
     {
       "area_id": "area/baegu/asifola",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/876",
       "role": "member"
@@ -1174,7 +1240,7 @@
     {
       "area_id": "area/rennell-bellona",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/915",
       "role": "member"
@@ -1182,7 +1248,7 @@
     {
       "area_id": "area/temotu_pele",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/916",
       "role": "member"
@@ -1190,7 +1256,7 @@
     {
       "area_id": "area/north_new_georgia",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/920",
       "role": "member"
@@ -1198,7 +1264,7 @@
     {
       "area_id": "area/north_malaita",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/929",
       "role": "member"
@@ -1206,7 +1272,7 @@
     {
       "area_id": "area/lau-mbaelelea",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/930",
       "role": "member"
@@ -1214,7 +1280,7 @@
     {
       "area_id": "area/north_guadalcanal",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/931",
       "role": "member"
@@ -1222,15 +1288,23 @@
     {
       "area_id": "area/hograno-kia-havulei",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/935",
       "role": "member"
     },
     {
+      "area_id": "area/east_guadalcanal",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/bradley_tovosia",
+      "role": "member"
+    },
+    {
       "area_id": "area/west_makira",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/solomon_islands_people_first_party",
       "organization_id": "legislature",
       "person_id": "person/manu’ari,_hon._derick_rawcliff",
       "role": "member"
@@ -1238,15 +1312,39 @@
     {
       "area_id": "area/ulawa-ugi",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/marau,_hon._william_bradford",
       "role": "member"
     },
     {
+      "area_id": "area/aoke_langalanga",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/matthew_c_wale",
+      "role": "member"
+    },
+    {
+      "area_id": "area/north_vella_la_vella",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/people's_alliance_party",
+      "organization_id": "legislature",
+      "person_id": "person/milner_tozaka",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west_honiara",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/namson_tran",
+      "role": "member"
+    },
+    {
       "area_id": "area/ngella",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/parapolo,_hon._bartholomew",
       "role": "member"
@@ -1254,7 +1352,7 @@
     {
       "area_id": "area/temotu_vatud",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
       "person_id": "person/soriacomua,_hon._freda_a.b._tuki",
       "role": "member"
@@ -1262,7 +1360,7 @@
     {
       "area_id": "area/gizo-kolombangara",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/tanangada,_hon._jimson_fiau",
       "role": "member"
@@ -1270,7 +1368,7 @@
     {
       "area_id": "area/maringe-kokota",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/togamana,_hon._dr._culwick",
       "role": "member"
@@ -1487,6 +1585,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/east_guadalcanal",
+      "name": "East Guadalcanal",
+      "type": "constituency"
+    },
+    {
       "id": "area/west_makira",
       "name": "West Makira",
       "type": "constituency"
@@ -1494,6 +1597,21 @@
     {
       "id": "area/ulawa-ugi",
       "name": "Ulawa-Ugi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/aoke_langalanga",
+      "name": "Aoke Langalanga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_vella_la_vella",
+      "name": "North Vella La Vella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_honiara",
+      "name": "West Honiara",
       "type": "constituency"
     },
     {
