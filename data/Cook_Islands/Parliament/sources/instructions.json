@@ -17,6 +17,15 @@
         "query": "SELECT * FROM data"
       },
       "type": "membership"
+    },
+    {
+      "file": "morph/2006.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/cook-islands-2006-election",
+        "query": "SELECT * FROM data"
+      },
+      "type": "membership"
     }
   ]
 }
