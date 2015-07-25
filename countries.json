@@ -774,9 +774,9 @@
         "slug": "Parliament",
         "sources_directory": "data/Cook_Islands/Parliament/sources",
         "popolo": "data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1437812541",
-        "person_count": 24,
-        "sha": "5e06f3c",
+        "lastmod": "1437821367",
+        "person_count": 47,
+        "sha": "673ea6b",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -784,6 +784,22 @@
             "start_date": "2014",
             "slug": "14",
             "csv": "data/Cook_Islands/Parliament/term-14.csv"
+          },
+          {
+            "end_date": "2014-04-17",
+            "id": "term/13",
+            "name": "13th Parliament",
+            "start_date": "2011-02-18",
+            "slug": "13",
+            "csv": "data/Cook_Islands/Parliament/term-13.csv"
+          },
+          {
+            "end_date": "2010-09-24",
+            "id": "term/12",
+            "name": "12th Parliament",
+            "start_date": "2006",
+            "slug": "12",
+            "csv": "data/Cook_Islands/Parliament/term-12.csv"
           }
         ]
       }
