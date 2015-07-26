@@ -10,15 +10,16 @@
         "slug": "Assembly",
         "sources_directory": "data/Albania/Assembly/sources",
         "popolo": "data/Albania/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1437919577",
-        "person_count": 124,
-        "sha": "9399c11",
+        "lastmod": "1437919802",
+        "person_count": 140,
+        "sha": "044332f",
         "legislative_periods": [
           {
-            "id": "term/2-4",
-            "name": "2-4",
-            "slug": "2-4",
-            "csv": "data/Albania/Assembly/term-2-4.csv"
+            "id": "term/8",
+            "name": "Legislature VIII",
+            "start_date": "2013",
+            "slug": "8",
+            "csv": "data/Albania/Assembly/term-8.csv"
           }
         ]
       }
