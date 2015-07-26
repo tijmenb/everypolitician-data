@@ -1,5 +1,30 @@
 [
   {
+    "name": "Albania",
+    "country": "Albania",
+    "code": "AL",
+    "slug": "Albania",
+    "legislatures": [
+      {
+        "name": "Kuvendi",
+        "slug": "Assembly",
+        "sources_directory": "data/Albania/Assembly/sources",
+        "popolo": "data/Albania/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1437919577",
+        "person_count": 124,
+        "sha": "9399c11",
+        "legislative_periods": [
+          {
+            "id": "term/2-4",
+            "name": "2-4",
+            "slug": "2-4",
+            "csv": "data/Albania/Assembly/term-2-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
