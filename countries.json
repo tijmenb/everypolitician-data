@@ -177,6 +177,32 @@
     ]
   },
   {
+    "name": "Aruba",
+    "country": "Aruba",
+    "code": "AW",
+    "slug": "Aruba",
+    "legislatures": [
+      {
+        "name": "Estates of Aruba",
+        "slug": "Estates",
+        "sources_directory": "data/Aruba/Estates/sources",
+        "popolo": "data/Aruba/Estates/ep-popolo-v1.0.json",
+        "lastmod": "1438011318",
+        "person_count": 21,
+        "sha": "8be8787",
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "7th Aruban Estates",
+            "start_date": "2013",
+            "slug": "7",
+            "csv": "data/Aruba/Estates/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Australia",
     "country": "Australia",
     "code": "AU",
