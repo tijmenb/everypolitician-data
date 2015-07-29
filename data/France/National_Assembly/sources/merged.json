@@ -2883,6 +2883,25 @@
       ]
     },
     {
+      "birth_date": "1973-07-25",
+      "family_name": "Comet",
+      "gender": "male",
+      "given_name": "David",
+      "id": "person/643177",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643177"
+        }
+      ],
+      "name": "David Comet",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/david-comet/json"
+        }
+      ]
+    },
+    {
       "birth_date": "1969-02-17",
       "contact_details": [
         {
@@ -4978,6 +4997,25 @@
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/guillaume-larrive/json"
+        }
+      ]
+    },
+    {
+      "birth_date": "1946-09-24",
+      "family_name": "Bailliart",
+      "gender": "male",
+      "given_name": "Guy",
+      "id": "person/642705",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642705"
+        }
+      ],
+      "name": "Guy Bailliart",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/guy-bailliart/json"
         }
       ]
     },
@@ -13075,7 +13113,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "ValCorre2012"
+          "value": "Valerie_Corre"
         }
       ],
       "family_name": "Corre",
@@ -14066,7 +14104,7 @@
   "memberships": [
     {
       "area": {
-        "id": "4",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -14078,7 +14116,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/ain",
         "name": "Ain"
       },
       "legislative_period_id": "term/14",
@@ -14090,7 +14128,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -14102,7 +14140,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -14114,7 +14152,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
@@ -14126,7 +14164,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/dordogne",
         "name": "Dordogne"
       },
       "legislative_period_id": "term/14",
@@ -14138,7 +14176,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -14150,7 +14188,7 @@
     },
     {
       "area": {
-        "id": "13",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -14162,7 +14200,7 @@
     },
     {
       "area": {
-        "id": "17",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -14174,7 +14212,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/savoie",
         "name": "Savoie"
       },
       "legislative_period_id": "term/14",
@@ -14186,7 +14224,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/aisne",
         "name": "Aisne"
       },
       "legislative_period_id": "term/14",
@@ -14198,7 +14236,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/landes",
         "name": "Landes"
       },
       "legislative_period_id": "term/14",
@@ -14210,7 +14248,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/gard",
         "name": "Gard"
       },
       "legislative_period_id": "term/14",
@@ -14222,7 +14260,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/calvados",
         "name": "Calvados"
       },
       "legislative_period_id": "term/14",
@@ -14234,7 +14272,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/meuse",
         "name": "Meuse"
       },
       "legislative_period_id": "term/14",
@@ -14246,7 +14284,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -14258,7 +14296,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/aude",
         "name": "Aude"
       },
       "legislative_period_id": "term/14",
@@ -14270,7 +14308,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -14282,7 +14320,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/calvados",
         "name": "Calvados"
       },
       "legislative_period_id": "term/14",
@@ -14294,7 +14332,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "end_date": "2014-05-09",
@@ -14307,7 +14345,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/landes",
         "name": "Landes"
       },
       "legislative_period_id": "term/14",
@@ -14319,7 +14357,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -14331,7 +14369,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "end_date": "2012-07-21",
@@ -14344,7 +14382,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -14356,7 +14394,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
@@ -14368,7 +14406,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/vosges",
         "name": "Vosges"
       },
       "legislative_period_id": "term/14",
@@ -14380,7 +14418,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -14392,7 +14430,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/polynésie_française",
         "name": "Polynésie Française"
       },
       "end_date": "2014-04-23",
@@ -14405,7 +14443,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/cher",
         "name": "Cher"
       },
       "legislative_period_id": "term/14",
@@ -14417,7 +14455,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/cher",
         "name": "Cher"
       },
       "legislative_period_id": "term/14",
@@ -14429,7 +14467,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/savoie",
         "name": "Savoie"
       },
       "legislative_period_id": "term/14",
@@ -14441,7 +14479,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -14453,7 +14491,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/somme",
         "name": "Somme"
       },
       "legislative_period_id": "term/14",
@@ -14465,7 +14503,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -14477,7 +14515,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -14489,7 +14527,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/hautes-pyrénées",
         "name": "Hautes-Pyrénées"
       },
       "legislative_period_id": "term/14",
@@ -14501,7 +14539,7 @@
     },
     {
       "area": {
-        "id": "14",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -14513,7 +14551,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -14525,7 +14563,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "end_date": "2014-05-02",
@@ -14538,7 +14576,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -14550,7 +14588,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -14562,7 +14600,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -14574,7 +14612,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/pyrénées-atlantiques",
         "name": "Pyrénées-Atlantiques"
       },
       "legislative_period_id": "term/14",
@@ -14586,7 +14624,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -14598,7 +14636,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -14610,7 +14648,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -14622,7 +14660,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -14634,7 +14672,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -14646,7 +14684,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -14658,7 +14696,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -14670,7 +14708,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -14682,7 +14720,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -14694,7 +14732,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/drôme",
         "name": "Drôme"
       },
       "legislative_period_id": "term/14",
@@ -14706,7 +14744,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -14718,7 +14756,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -14730,7 +14768,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/charente",
         "name": "Charente"
       },
       "legislative_period_id": "term/14",
@@ -14742,7 +14780,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -14754,7 +14792,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/pyrénées-atlantiques",
         "name": "Pyrénées-Atlantiques"
       },
       "legislative_period_id": "term/14",
@@ -14766,7 +14804,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/lot",
         "name": "Lot"
       },
       "legislative_period_id": "term/14",
@@ -14778,7 +14816,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -14790,7 +14828,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -14802,7 +14840,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "legislative_period_id": "term/14",
@@ -14814,7 +14852,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/côtes-d'armor",
         "name": "Côtes-d'Armor"
       },
       "legislative_period_id": "term/14",
@@ -14826,7 +14864,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/paris",
         "name": "Paris"
       },
       "end_date": "2014-05-09",
@@ -14839,7 +14877,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -14851,7 +14889,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "end_date": "2012-07-21",
@@ -14864,7 +14902,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -14876,7 +14914,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -14888,7 +14926,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -14900,7 +14938,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -14912,7 +14950,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -14924,7 +14962,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/loir-et-cher",
         "name": "Loir-et-Cher"
       },
       "legislative_period_id": "term/14",
@@ -14936,7 +14974,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/côtes-d'armor",
         "name": "Côtes-d'Armor"
       },
       "legislative_period_id": "term/14",
@@ -14948,7 +14986,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -14960,7 +14998,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/pyrénées-atlantiques",
         "name": "Pyrénées-Atlantiques"
       },
       "legislative_period_id": "term/14",
@@ -14972,7 +15010,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/eure",
         "name": "Eure"
       },
       "legislative_period_id": "term/14",
@@ -14984,7 +15022,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -14996,7 +15034,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -15008,7 +15046,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
@@ -15020,7 +15058,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "end_date": "2014-07-03",
@@ -15033,7 +15071,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -15045,7 +15083,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/martinique",
         "name": "Martinique"
       },
       "legislative_period_id": "term/14",
@@ -15057,7 +15095,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/drôme",
         "name": "Drôme"
       },
       "legislative_period_id": "term/14",
@@ -15069,7 +15107,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/cantal",
         "name": "Cantal"
       },
       "legislative_period_id": "term/14",
@@ -15081,7 +15119,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -15093,7 +15131,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -15105,7 +15143,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/marne",
         "name": "Marne"
       },
       "legislative_period_id": "term/14",
@@ -15117,7 +15155,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/loir-et-cher",
         "name": "Loir-et-Cher"
       },
       "legislative_period_id": "term/14",
@@ -15129,7 +15167,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/aube",
         "name": "Aube"
       },
       "legislative_period_id": "term/14",
@@ -15141,7 +15179,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/aube",
         "name": "Aube"
       },
       "legislative_period_id": "term/14",
@@ -15153,7 +15191,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/haut-rhin",
         "name": "Haut-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15165,7 +15203,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -15177,7 +15215,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -15189,7 +15227,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/eure",
         "name": "Eure"
       },
       "legislative_period_id": "term/14",
@@ -15201,7 +15239,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -15213,7 +15251,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/doubs",
         "name": "Doubs"
       },
       "end_date": "2014-10-31",
@@ -15226,7 +15264,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -15238,7 +15276,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -15250,7 +15288,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/corrèze",
         "name": "Corrèze"
       },
       "legislative_period_id": "term/14",
@@ -15262,7 +15300,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/loire",
         "name": "Loire"
       },
       "legislative_period_id": "term/14",
@@ -15274,7 +15312,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -15286,7 +15324,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-savoie",
         "name": "Haute-Savoie"
       },
       "legislative_period_id": "term/14",
@@ -15298,7 +15336,7 @@
     },
     {
       "area": {
-        "id": "13",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -15310,7 +15348,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -15322,7 +15360,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/nièvre",
         "name": "Nièvre"
       },
       "legislative_period_id": "term/14",
@@ -15334,7 +15372,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/dordogne",
         "name": "Dordogne"
       },
       "legislative_period_id": "term/14",
@@ -15346,7 +15384,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/jura",
         "name": "Jura"
       },
       "legislative_period_id": "term/14",
@@ -15358,7 +15396,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/aude",
         "name": "Aude"
       },
       "legislative_period_id": "term/14",
@@ -15370,7 +15408,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/deux-sèvres",
         "name": "Deux-Sèvres"
       },
       "legislative_period_id": "term/14",
@@ -15382,7 +15420,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -15394,7 +15432,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "end_date": "2012-10-18",
@@ -15407,7 +15445,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -15419,7 +15457,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -15431,7 +15469,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/charente-maritime",
         "name": "Charente-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -15443,7 +15481,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -15455,7 +15493,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/haut-rhin",
         "name": "Haut-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15467,7 +15505,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/charente",
         "name": "Charente"
       },
       "legislative_period_id": "term/14",
@@ -15479,7 +15517,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/calvados",
         "name": "Calvados"
       },
       "legislative_period_id": "term/14",
@@ -15491,7 +15529,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/loire",
         "name": "Loire"
       },
       "legislative_period_id": "term/14",
@@ -15503,7 +15541,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-vienne",
         "name": "Haute-Vienne"
       },
       "legislative_period_id": "term/14",
@@ -15515,7 +15553,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -15527,7 +15565,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -15539,7 +15577,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -15551,7 +15589,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/loire",
         "name": "Loire"
       },
       "legislative_period_id": "term/14",
@@ -15563,7 +15601,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -15575,7 +15613,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15587,7 +15625,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15599,7 +15637,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/lozère",
         "name": "Lozère"
       },
       "legislative_period_id": "term/14",
@@ -15611,7 +15649,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/manche",
         "name": "Manche"
       },
       "legislative_period_id": "term/14",
@@ -15623,7 +15661,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "end_date": "2014-04-30",
@@ -15636,7 +15674,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/haut-rhin",
         "name": "Haut-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15648,7 +15686,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/mayenne",
         "name": "Mayenne"
       },
       "legislative_period_id": "term/14",
@@ -15660,7 +15698,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -15672,7 +15710,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/ain",
         "name": "Ain"
       },
       "legislative_period_id": "term/14",
@@ -15684,7 +15722,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/aisne",
         "name": "Aisne"
       },
       "legislative_period_id": "term/14",
@@ -15696,7 +15734,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/ariège",
         "name": "Ariège"
       },
       "legislative_period_id": "term/14",
@@ -15708,7 +15746,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/eure",
         "name": "Eure"
       },
       "legislative_period_id": "term/14",
@@ -15720,7 +15758,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/eure-et-loir",
         "name": "Eure-et-Loir"
       },
       "legislative_period_id": "term/14",
@@ -15732,7 +15770,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-marne",
         "name": "Haute-Marne"
       },
       "legislative_period_id": "term/14",
@@ -15744,7 +15782,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/aube",
         "name": "Aube"
       },
       "legislative_period_id": "term/14",
@@ -15756,7 +15794,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/nièvre",
         "name": "Nièvre"
       },
       "legislative_period_id": "term/14",
@@ -15768,7 +15806,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -15780,7 +15818,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/jura",
         "name": "Jura"
       },
       "legislative_period_id": "term/14",
@@ -15792,7 +15830,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/haut-rhin",
         "name": "Haut-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15804,7 +15842,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -15816,7 +15854,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/somme",
         "name": "Somme"
       },
       "legislative_period_id": "term/14",
@@ -15828,7 +15866,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/vosges",
         "name": "Vosges"
       },
       "legislative_period_id": "term/14",
@@ -15840,7 +15878,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/ardennes",
         "name": "Ardennes"
       },
       "legislative_period_id": "term/14",
@@ -15852,7 +15890,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/aveyron",
         "name": "Aveyron"
       },
       "legislative_period_id": "term/14",
@@ -15864,7 +15902,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/gers",
         "name": "Gers"
       },
       "legislative_period_id": "term/14",
@@ -15876,7 +15914,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-loire",
         "name": "Haute-Loire"
       },
       "legislative_period_id": "term/14",
@@ -15888,7 +15926,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/loiret",
         "name": "Loiret"
       },
       "legislative_period_id": "term/14",
@@ -15900,7 +15938,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/puy-de-dôme",
         "name": "Puy-de-Dôme"
       },
       "legislative_period_id": "term/14",
@@ -15912,7 +15950,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/sarthe",
         "name": "Sarthe"
       },
       "legislative_period_id": "term/14",
@@ -15924,7 +15962,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/territoire_de_belfort",
         "name": "Territoire de Belfort"
       },
       "legislative_period_id": "term/14",
@@ -15936,7 +15974,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/territoire_de_belfort",
         "name": "Territoire de Belfort"
       },
       "legislative_period_id": "term/14",
@@ -15948,7 +15986,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/hautes-alpes",
         "name": "Hautes-Alpes"
       },
       "legislative_period_id": "term/14",
@@ -15960,7 +15998,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15972,7 +16010,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haut-rhin",
         "name": "Haut-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -15984,7 +16022,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -15996,7 +16034,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-corse",
         "name": "Haute-Corse"
       },
       "legislative_period_id": "term/14",
@@ -16008,7 +16046,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/loire",
         "name": "Loire"
       },
       "legislative_period_id": "term/14",
@@ -16020,7 +16058,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -16032,7 +16070,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/côte-d'or",
         "name": "Côte-d'Or"
       },
       "legislative_period_id": "term/14",
@@ -16044,7 +16082,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -16056,7 +16094,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/indre-et-loire",
         "name": "Indre-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -16068,7 +16106,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -16080,7 +16118,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -16092,7 +16130,7 @@
     },
     {
       "area": {
-        "id": "16",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -16104,7 +16142,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16116,7 +16154,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -16128,7 +16166,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -16140,7 +16178,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/aveyron",
         "name": "Aveyron"
       },
       "end_date": "2014-09-30",
@@ -16153,7 +16191,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/haute-savoie",
         "name": "Haute-Savoie"
       },
       "legislative_period_id": "term/14",
@@ -16165,7 +16203,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/haute-savoie",
         "name": "Haute-Savoie"
       },
       "legislative_period_id": "term/14",
@@ -16177,7 +16215,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -16189,7 +16227,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "legislative_period_id": "term/14",
@@ -16201,7 +16239,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -16213,7 +16251,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/doubs",
         "name": "Doubs"
       },
       "legislative_period_id": "term/14",
@@ -16225,7 +16263,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -16237,7 +16275,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16249,7 +16287,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -16261,7 +16299,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -16273,7 +16311,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "end_date": "2012-07-21",
@@ -16286,7 +16324,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -16298,7 +16336,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -16310,7 +16348,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/tarn",
         "name": "Tarn"
       },
       "legislative_period_id": "term/14",
@@ -16322,7 +16360,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -16334,7 +16372,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/corse-du-sud",
         "name": "Corse-du-Sud"
       },
       "legislative_period_id": "term/14",
@@ -16346,7 +16384,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -16358,7 +16396,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -16370,7 +16408,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -16382,7 +16420,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/loiret",
         "name": "Loiret"
       },
       "legislative_period_id": "term/14",
@@ -16394,7 +16432,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
@@ -16406,7 +16444,7 @@
     },
     {
       "area": {
-        "id": "14",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -16418,7 +16456,7 @@
     },
     {
       "area": {
-        "id": "18",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -16430,7 +16468,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16442,7 +16480,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/yonne",
         "name": "Yonne"
       },
       "legislative_period_id": "term/14",
@@ -16454,7 +16492,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -16466,7 +16504,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/marne",
         "name": "Marne"
       },
       "legislative_period_id": "term/14",
@@ -16478,7 +16516,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -16490,7 +16528,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -16502,7 +16540,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -16514,7 +16552,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -16526,7 +16564,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -16538,7 +16576,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -16550,7 +16588,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "end_date": "2014-09-26",
@@ -16563,7 +16601,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -16575,7 +16613,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/paris",
         "name": "Paris"
       },
       "end_date": "2014-05-02",
@@ -16588,7 +16626,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -16600,7 +16638,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -16612,7 +16650,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/guadeloupe",
         "name": "Guadeloupe"
       },
       "legislative_period_id": "term/14",
@@ -16624,7 +16662,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/guadeloupe",
         "name": "Guadeloupe"
       },
       "legislative_period_id": "term/14",
@@ -16636,7 +16674,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/guadeloupe",
         "name": "Guadeloupe"
       },
       "legislative_period_id": "term/14",
@@ -16648,7 +16686,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/loiret",
         "name": "Loiret"
       },
       "legislative_period_id": "term/14",
@@ -16660,7 +16698,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/puy-de-dôme",
         "name": "Puy-de-Dôme"
       },
       "legislative_period_id": "term/14",
@@ -16672,7 +16710,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/côte-d'or",
         "name": "Côte-d'Or"
       },
       "legislative_period_id": "term/14",
@@ -16684,7 +16722,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/alpes-de-haute-provence",
         "name": "Alpes-de-Haute-Provence"
       },
       "legislative_period_id": "term/14",
@@ -16696,7 +16734,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -16708,7 +16746,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -16720,7 +16758,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16732,7 +16770,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -16744,7 +16782,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/côte-d'or",
         "name": "Côte-d'Or"
       },
       "legislative_period_id": "term/14",
@@ -16756,7 +16794,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -16768,7 +16806,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16780,7 +16818,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/ardèche",
         "name": "Ardèche"
       },
       "legislative_period_id": "term/14",
@@ -16792,7 +16830,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "end_date": "2014-09-26",
@@ -16805,7 +16843,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16817,7 +16855,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16829,7 +16867,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/indre-et-loire",
         "name": "Indre-et-Loire"
       },
       "end_date": "2012-07-21",
@@ -16842,7 +16880,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/calvados",
         "name": "Calvados"
       },
       "legislative_period_id": "term/14",
@@ -16854,7 +16892,7 @@
     },
     {
       "area": {
-        "id": "17",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -16866,7 +16904,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/vosges",
         "name": "Vosges"
       },
       "legislative_period_id": "term/14",
@@ -16878,7 +16916,7 @@
     },
     {
       "area": {
-        "id": "16",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -16890,7 +16928,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/creuse",
         "name": "Creuse"
       },
       "legislative_period_id": "term/14",
@@ -16902,7 +16940,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -16914,7 +16952,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/landes",
         "name": "Landes"
       },
       "end_date": "2014-09-26",
@@ -16927,7 +16965,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/ain",
         "name": "Ain"
       },
       "legislative_period_id": "term/14",
@@ -16939,7 +16977,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -16951,7 +16989,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/ardennes",
         "name": "Ardennes"
       },
       "legislative_period_id": "term/14",
@@ -16963,7 +17001,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
@@ -16975,7 +17013,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -16987,7 +17025,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -16999,7 +17037,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/vendée",
         "name": "Vendée"
       },
       "legislative_period_id": "term/14",
@@ -17011,7 +17049,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -17023,7 +17061,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -17035,7 +17073,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/ain",
         "name": "Ain"
       },
       "legislative_period_id": "term/14",
@@ -17047,7 +17085,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/allier",
         "name": "Allier"
       },
       "legislative_period_id": "term/14",
@@ -17059,7 +17097,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/allier",
         "name": "Allier"
       },
       "legislative_period_id": "term/14",
@@ -17071,7 +17109,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/alpes-maritimes",
         "name": "Alpes-Maritimes"
       },
       "legislative_period_id": "term/14",
@@ -17083,7 +17121,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/ardèche",
         "name": "Ardèche"
       },
       "legislative_period_id": "term/14",
@@ -17095,7 +17133,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/aveyron",
         "name": "Aveyron"
       },
       "legislative_period_id": "term/14",
@@ -17107,7 +17145,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17119,7 +17157,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17131,7 +17169,7 @@
     },
     {
       "area": {
-        "id": "15",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17143,7 +17181,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/charente",
         "name": "Charente"
       },
       "legislative_period_id": "term/14",
@@ -17155,7 +17193,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/charente-maritime",
         "name": "Charente-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -17167,7 +17205,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-corse",
         "name": "Haute-Corse"
       },
       "legislative_period_id": "term/14",
@@ -17179,7 +17217,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/côtes-d'armor",
         "name": "Côtes-d'Armor"
       },
       "legislative_period_id": "term/14",
@@ -17191,7 +17229,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/drôme",
         "name": "Drôme"
       },
       "legislative_period_id": "term/14",
@@ -17203,7 +17241,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/eure",
         "name": "Eure"
       },
       "legislative_period_id": "term/14",
@@ -17215,7 +17253,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/eure-et-loir",
         "name": "Eure-et-Loir"
       },
       "legislative_period_id": "term/14",
@@ -17227,7 +17265,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/eure-et-loir",
         "name": "Eure-et-Loir"
       },
       "legislative_period_id": "term/14",
@@ -17239,7 +17277,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -17251,7 +17289,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -17263,7 +17301,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -17275,7 +17313,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -17287,7 +17325,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -17299,7 +17337,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -17311,7 +17349,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -17323,7 +17361,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -17335,7 +17373,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -17347,7 +17385,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -17359,7 +17397,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -17371,7 +17409,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/indre-et-loire",
         "name": "Indre-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -17383,7 +17421,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -17395,7 +17433,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -17407,7 +17445,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/jura",
         "name": "Jura"
       },
       "legislative_period_id": "term/14",
@@ -17419,7 +17457,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/loire",
         "name": "Loire"
       },
       "legislative_period_id": "term/14",
@@ -17431,7 +17469,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/loire",
         "name": "Loire"
       },
       "legislative_period_id": "term/14",
@@ -17443,7 +17481,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -17455,7 +17493,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -17467,7 +17505,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -17479,7 +17517,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/loiret",
         "name": "Loiret"
       },
       "legislative_period_id": "term/14",
@@ -17491,7 +17529,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/lot",
         "name": "Lot"
       },
       "legislative_period_id": "term/14",
@@ -17503,7 +17541,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -17515,7 +17553,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/manche",
         "name": "Manche"
       },
       "legislative_period_id": "term/14",
@@ -17527,7 +17565,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/marne",
         "name": "Marne"
       },
       "legislative_period_id": "term/14",
@@ -17539,7 +17577,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/mayenne",
         "name": "Mayenne"
       },
       "legislative_period_id": "term/14",
@@ -17551,7 +17589,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "legislative_period_id": "term/14",
@@ -17563,7 +17601,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/meuse",
         "name": "Meuse"
       },
       "legislative_period_id": "term/14",
@@ -17575,7 +17613,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -17587,7 +17625,7 @@
     },
     {
       "area": {
-        "id": "13",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -17599,7 +17637,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/puy-de-dôme",
         "name": "Puy-de-Dôme"
       },
       "legislative_period_id": "term/14",
@@ -17611,7 +17649,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -17623,7 +17661,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -17635,7 +17673,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -17647,7 +17685,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haut-rhin",
         "name": "Haut-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -17659,7 +17697,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17671,7 +17709,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17683,7 +17721,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17695,7 +17733,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17707,7 +17745,7 @@
     },
     {
       "area": {
-        "id": "13",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -17719,7 +17757,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-saône",
         "name": "Haute-Saône"
       },
       "legislative_period_id": "term/14",
@@ -17731,7 +17769,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/saône-et-loire",
         "name": "Saône-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -17743,7 +17781,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/sarthe",
         "name": "Sarthe"
       },
       "legislative_period_id": "term/14",
@@ -17755,7 +17793,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-savoie",
         "name": "Haute-Savoie"
       },
       "legislative_period_id": "term/14",
@@ -17767,7 +17805,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -17779,7 +17817,7 @@
     },
     {
       "area": {
-        "id": "15",
+        "id": "area/paris",
         "name": "Paris"
       },
       "end_date": "2012-07-21",
@@ -17792,7 +17830,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -17804,7 +17842,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -17816,7 +17854,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -17828,7 +17866,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/deux-sèvres",
         "name": "Deux-Sèvres"
       },
       "legislative_period_id": "term/14",
@@ -17840,7 +17878,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/deux-sèvres",
         "name": "Deux-Sèvres"
       },
       "legislative_period_id": "term/14",
@@ -17852,7 +17890,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/tarn",
         "name": "Tarn"
       },
       "legislative_period_id": "term/14",
@@ -17864,7 +17902,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/tarn-et-garonne",
         "name": "Tarn-et-Garonne"
       },
       "end_date": "2012-07-21",
@@ -17877,7 +17915,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/vaucluse",
         "name": "Vaucluse"
       },
       "legislative_period_id": "term/14",
@@ -17889,7 +17927,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/vienne",
         "name": "Vienne"
       },
       "legislative_period_id": "term/14",
@@ -17901,7 +17939,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/vienne",
         "name": "Vienne"
       },
       "legislative_period_id": "term/14",
@@ -17913,7 +17951,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/yonne",
         "name": "Yonne"
       },
       "legislative_period_id": "term/14",
@@ -17925,7 +17963,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -17937,7 +17975,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/martinique",
         "name": "Martinique"
       },
       "legislative_period_id": "term/14",
@@ -17949,7 +17987,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/guyane",
         "name": "Guyane"
       },
       "legislative_period_id": "term/14",
@@ -17961,7 +17999,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -17973,7 +18011,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -17985,7 +18023,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/saint-pierre-et-miquelon",
         "name": "Saint-Pierre-et-Miquelon"
       },
       "end_date": "2014-07-29",
@@ -17998,7 +18036,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -18010,7 +18048,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/ariège",
         "name": "Ariège"
       },
       "legislative_period_id": "term/14",
@@ -18022,7 +18060,7 @@
     },
     {
       "area": {
-        "id": "13",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -18034,7 +18072,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/côtes-d'armor",
         "name": "Côtes-d'Armor"
       },
       "legislative_period_id": "term/14",
@@ -18046,7 +18084,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/dordogne",
         "name": "Dordogne"
       },
       "legislative_period_id": "term/14",
@@ -18058,7 +18096,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -18070,7 +18108,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/indre-et-loire",
         "name": "Indre-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -18082,7 +18120,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -18094,7 +18132,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/landes",
         "name": "Landes"
       },
       "legislative_period_id": "term/14",
@@ -18106,7 +18144,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/loiret",
         "name": "Loiret"
       },
       "legislative_period_id": "term/14",
@@ -18118,7 +18156,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/lot-et-garonne",
         "name": "Lot-et-Garonne"
       },
       "end_date": "2013-04-19",
@@ -18131,7 +18169,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "legislative_period_id": "term/14",
@@ -18143,7 +18181,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/morbihan",
         "name": "Morbihan"
       },
       "legislative_period_id": "term/14",
@@ -18155,7 +18193,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -18167,7 +18205,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -18179,7 +18217,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -18191,7 +18229,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/pyrénées-orientales",
         "name": "Pyrénées-Orientales"
       },
       "legislative_period_id": "term/14",
@@ -18203,7 +18241,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -18215,7 +18253,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -18227,7 +18265,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -18239,7 +18277,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -18251,7 +18289,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/deux-sèvres",
         "name": "Deux-Sèvres"
       },
       "end_date": "2013-08-02",
@@ -18264,7 +18302,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -18276,7 +18314,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/tarn-et-garonne",
         "name": "Tarn-et-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -18288,7 +18326,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -18300,7 +18338,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -18312,7 +18350,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/saint-pierre-et-miquelon",
         "name": "Saint-Pierre-et-Miquelon"
       },
       "end_date": "2014-05-10",
@@ -18325,7 +18363,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -18337,7 +18375,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/aube",
         "name": "Aube"
       },
       "end_date": "2014-09-30",
@@ -18350,7 +18388,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -18362,7 +18400,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -18374,7 +18412,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -18386,7 +18424,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/marne",
         "name": "Marne"
       },
       "legislative_period_id": "term/14",
@@ -18398,7 +18436,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -18410,7 +18448,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -18422,7 +18460,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/gers",
         "name": "Gers"
       },
       "legislative_period_id": "term/14",
@@ -18434,7 +18472,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -18446,7 +18484,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -18458,7 +18496,7 @@
     },
     {
       "area": {
-        "id": "20",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -18470,7 +18508,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-vienne",
         "name": "Haute-Vienne"
       },
       "legislative_period_id": "term/14",
@@ -18482,7 +18520,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/vaucluse",
         "name": "Vaucluse"
       },
       "legislative_period_id": "term/14",
@@ -18494,7 +18532,7 @@
     },
     {
       "area": {
-        "id": "21",
+        "id": "area/nord",
         "name": "Nord"
       },
       "end_date": "2014-04-30",
@@ -18507,7 +18545,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -18519,7 +18557,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/sarthe",
         "name": "Sarthe"
       },
       "end_date": "2012-07-21",
@@ -18532,7 +18570,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -18544,7 +18582,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -18556,7 +18594,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -18568,7 +18606,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/ain",
         "name": "Ain"
       },
       "legislative_period_id": "term/14",
@@ -18580,7 +18618,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/aisne",
         "name": "Aisne"
       },
       "legislative_period_id": "term/14",
@@ -18592,7 +18630,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/aisne",
         "name": "Aisne"
       },
       "legislative_period_id": "term/14",
@@ -18604,7 +18642,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/aisne",
         "name": "Aisne"
       },
       "legislative_period_id": "term/14",
@@ -18616,7 +18654,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/alpes-de-haute-provence",
         "name": "Alpes-de-Haute-Provence"
       },
       "legislative_period_id": "term/14",
@@ -18628,7 +18666,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/hautes-alpes",
         "name": "Hautes-Alpes"
       },
       "legislative_period_id": "term/14",
@@ -18640,7 +18678,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/ardèche",
         "name": "Ardèche"
       },
       "legislative_period_id": "term/14",
@@ -18652,7 +18690,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/ardennes",
         "name": "Ardennes"
       },
       "legislative_period_id": "term/14",
@@ -18664,7 +18702,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/aude",
         "name": "Aude"
       },
       "legislative_period_id": "term/14",
@@ -18676,7 +18714,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -18688,7 +18726,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "end_date": "2012-06-30",
@@ -18701,7 +18739,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -18713,7 +18751,7 @@
     },
     {
       "area": {
-        "id": "14",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -18725,7 +18763,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/calvados",
         "name": "Calvados"
       },
       "legislative_period_id": "term/14",
@@ -18737,7 +18775,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/calvados",
         "name": "Calvados"
       },
       "legislative_period_id": "term/14",
@@ -18749,7 +18787,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/cantal",
         "name": "Cantal"
       },
       "legislative_period_id": "term/14",
@@ -18761,7 +18799,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/charente-maritime",
         "name": "Charente-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -18773,7 +18811,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/charente-maritime",
         "name": "Charente-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -18785,7 +18823,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/cher",
         "name": "Cher"
       },
       "legislative_period_id": "term/14",
@@ -18797,7 +18835,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/corrèze",
         "name": "Corrèze"
       },
       "legislative_period_id": "term/14",
@@ -18809,7 +18847,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/corse-du-sud",
         "name": "Corse-du-Sud"
       },
       "legislative_period_id": "term/14",
@@ -18821,7 +18859,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/côte-d'or",
         "name": "Côte-d'Or"
       },
       "legislative_period_id": "term/14",
@@ -18833,7 +18871,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/côte-d'or",
         "name": "Côte-d'Or"
       },
       "legislative_period_id": "term/14",
@@ -18845,7 +18883,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/côtes-d'armor",
         "name": "Côtes-d'Armor"
       },
       "legislative_period_id": "term/14",
@@ -18857,7 +18895,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/dordogne",
         "name": "Dordogne"
       },
       "legislative_period_id": "term/14",
@@ -18869,7 +18907,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/doubs",
         "name": "Doubs"
       },
       "legislative_period_id": "term/14",
@@ -18881,7 +18919,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/doubs",
         "name": "Doubs"
       },
       "legislative_period_id": "term/14",
@@ -18893,7 +18931,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/doubs",
         "name": "Doubs"
       },
       "legislative_period_id": "term/14",
@@ -18905,7 +18943,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/drôme",
         "name": "Drôme"
       },
       "legislative_period_id": "term/14",
@@ -18917,7 +18955,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/eure",
         "name": "Eure"
       },
       "legislative_period_id": "term/14",
@@ -18929,7 +18967,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/eure-et-loir",
         "name": "Eure-et-Loir"
       },
       "legislative_period_id": "term/14",
@@ -18941,7 +18979,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -18953,7 +18991,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -18965,7 +19003,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -18977,7 +19015,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/gard",
         "name": "Gard"
       },
       "legislative_period_id": "term/14",
@@ -18989,7 +19027,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/gard",
         "name": "Gard"
       },
       "legislative_period_id": "term/14",
@@ -19001,7 +19039,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/gard",
         "name": "Gard"
       },
       "legislative_period_id": "term/14",
@@ -19013,7 +19051,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/gard",
         "name": "Gard"
       },
       "legislative_period_id": "term/14",
@@ -19025,7 +19063,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/gard",
         "name": "Gard"
       },
       "legislative_period_id": "term/14",
@@ -19037,7 +19075,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "end_date": "2014-04-10",
@@ -19050,20 +19088,19 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
-      "end_date": "2014-07-03",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
       "person_id": "person/606351",
       "role": "member",
-      "start_date": "2012-06-20"
+      "start_date": "2015-07-18"
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -19075,7 +19112,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "end_date": "2014-12-21",
@@ -19088,7 +19125,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -19100,7 +19137,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -19112,7 +19149,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -19124,7 +19161,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "legislative_period_id": "term/14",
@@ -19136,7 +19173,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19148,7 +19185,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19160,7 +19197,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19172,7 +19209,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19184,7 +19221,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "end_date": "2012-10-24",
@@ -19197,7 +19234,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19209,7 +19246,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19221,7 +19258,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/hérault",
         "name": "Hérault"
       },
       "legislative_period_id": "term/14",
@@ -19233,7 +19270,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -19245,7 +19282,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -19257,7 +19294,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -19269,7 +19306,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/ille-et-vilaine",
         "name": "Ille-et-Vilaine"
       },
       "legislative_period_id": "term/14",
@@ -19281,7 +19318,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/indre",
         "name": "Indre"
       },
       "legislative_period_id": "term/14",
@@ -19293,7 +19330,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/indre-et-loire",
         "name": "Indre-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19305,7 +19342,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -19317,7 +19354,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -19329,7 +19366,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -19341,7 +19378,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -19353,7 +19390,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/loir-et-cher",
         "name": "Loir-et-Cher"
       },
       "legislative_period_id": "term/14",
@@ -19365,7 +19402,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-loire",
         "name": "Haute-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19377,7 +19414,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -19389,7 +19426,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -19401,7 +19438,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -19413,7 +19450,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/loiret",
         "name": "Loiret"
       },
       "legislative_period_id": "term/14",
@@ -19425,7 +19462,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/lot-et-garonne",
         "name": "Lot-et-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -19437,7 +19474,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/lot-et-garonne",
         "name": "Lot-et-Garonne"
       },
       "end_date": "2014-10-04",
@@ -19450,7 +19487,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19462,7 +19499,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/maine-et-loire",
         "name": "Maine-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19474,7 +19511,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/manche",
         "name": "Manche"
       },
       "legislative_period_id": "term/14",
@@ -19486,7 +19523,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/mayenne",
         "name": "Mayenne"
       },
       "legislative_period_id": "term/14",
@@ -19498,7 +19535,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "legislative_period_id": "term/14",
@@ -19510,7 +19547,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/meurthe-et-moselle",
         "name": "Meurthe-et-Moselle"
       },
       "legislative_period_id": "term/14",
@@ -19522,7 +19559,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/morbihan",
         "name": "Morbihan"
       },
       "legislative_period_id": "term/14",
@@ -19534,7 +19571,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/morbihan",
         "name": "Morbihan"
       },
       "legislative_period_id": "term/14",
@@ -19546,7 +19583,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/morbihan",
         "name": "Morbihan"
       },
       "legislative_period_id": "term/14",
@@ -19558,7 +19595,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/morbihan",
         "name": "Morbihan"
       },
       "legislative_period_id": "term/14",
@@ -19570,7 +19607,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/morbihan",
         "name": "Morbihan"
       },
       "legislative_period_id": "term/14",
@@ -19582,7 +19619,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -19594,7 +19631,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/moselle",
         "name": "Moselle"
       },
       "legislative_period_id": "term/14",
@@ -19606,7 +19643,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -19618,7 +19655,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -19630,7 +19667,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -19642,7 +19679,7 @@
     },
     {
       "area": {
-        "id": "15",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -19654,7 +19691,7 @@
     },
     {
       "area": {
-        "id": "19",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -19666,7 +19703,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/orne",
         "name": "Orne"
       },
       "legislative_period_id": "term/14",
@@ -19678,7 +19715,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/orne",
         "name": "Orne"
       },
       "legislative_period_id": "term/14",
@@ -19690,7 +19727,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/orne",
         "name": "Orne"
       },
       "legislative_period_id": "term/14",
@@ -19702,7 +19739,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -19714,7 +19751,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -19726,7 +19763,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -19738,7 +19775,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/pas-de-calais",
         "name": "Pas-de-Calais"
       },
       "legislative_period_id": "term/14",
@@ -19750,7 +19787,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/puy-de-dôme",
         "name": "Puy-de-Dôme"
       },
       "legislative_period_id": "term/14",
@@ -19762,7 +19799,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/puy-de-dôme",
         "name": "Puy-de-Dôme"
       },
       "legislative_period_id": "term/14",
@@ -19774,7 +19811,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/pyrénées-atlantiques",
         "name": "Pyrénées-Atlantiques"
       },
       "legislative_period_id": "term/14",
@@ -19786,7 +19823,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/pyrénées-atlantiques",
         "name": "Pyrénées-Atlantiques"
       },
       "legislative_period_id": "term/14",
@@ -19798,7 +19835,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/pyrénées-atlantiques",
         "name": "Pyrénées-Atlantiques"
       },
       "legislative_period_id": "term/14",
@@ -19810,7 +19847,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/hautes-pyrénées",
         "name": "Hautes-Pyrénées"
       },
       "legislative_period_id": "term/14",
@@ -19822,7 +19859,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/pyrénées-orientales",
         "name": "Pyrénées-Orientales"
       },
       "legislative_period_id": "term/14",
@@ -19834,7 +19871,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/pyrénées-orientales",
         "name": "Pyrénées-Orientales"
       },
       "end_date": "2014-05-09",
@@ -19847,7 +19884,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/pyrénées-orientales",
         "name": "Pyrénées-Orientales"
       },
       "legislative_period_id": "term/14",
@@ -19859,7 +19896,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -19871,7 +19908,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -19883,7 +19920,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -19895,7 +19932,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/bas-rhin",
         "name": "Bas-Rhin"
       },
       "legislative_period_id": "term/14",
@@ -19907,7 +19944,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "end_date": "2014-05-09",
@@ -19920,7 +19957,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -19932,7 +19969,7 @@
     },
     {
       "area": {
-        "id": "14",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -19944,7 +19981,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/haute-saône",
         "name": "Haute-Saône"
       },
       "legislative_period_id": "term/14",
@@ -19956,7 +19993,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/saône-et-loire",
         "name": "Saône-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19968,7 +20005,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/saône-et-loire",
         "name": "Saône-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19980,7 +20017,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/saône-et-loire",
         "name": "Saône-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -19992,7 +20029,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/saône-et-loire",
         "name": "Saône-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -20004,7 +20041,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/sarthe",
         "name": "Sarthe"
       },
       "legislative_period_id": "term/14",
@@ -20016,7 +20053,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/sarthe",
         "name": "Sarthe"
       },
       "legislative_period_id": "term/14",
@@ -20028,7 +20065,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/savoie",
         "name": "Savoie"
       },
       "legislative_period_id": "term/14",
@@ -20040,7 +20077,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/savoie",
         "name": "Savoie"
       },
       "legislative_period_id": "term/14",
@@ -20052,7 +20089,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/haute-savoie",
         "name": "Haute-Savoie"
       },
       "legislative_period_id": "term/14",
@@ -20064,7 +20101,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/haute-savoie",
         "name": "Haute-Savoie"
       },
       "legislative_period_id": "term/14",
@@ -20076,7 +20113,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -20088,7 +20125,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -20100,7 +20137,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -20112,7 +20149,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -20124,7 +20161,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -20136,7 +20173,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -20148,7 +20185,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -20160,7 +20197,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -20172,7 +20209,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -20184,7 +20221,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -20196,7 +20233,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -20208,7 +20245,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -20220,7 +20257,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -20232,7 +20269,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "legislative_period_id": "term/14",
@@ -20244,7 +20281,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/yvelines",
         "name": "Yvelines"
       },
       "end_date": "2014-09-26",
@@ -20257,7 +20294,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/somme",
         "name": "Somme"
       },
       "end_date": "2014-09-26",
@@ -20270,7 +20307,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/somme",
         "name": "Somme"
       },
       "legislative_period_id": "term/14",
@@ -20282,7 +20319,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/somme",
         "name": "Somme"
       },
       "legislative_period_id": "term/14",
@@ -20294,7 +20331,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/tarn",
         "name": "Tarn"
       },
       "legislative_period_id": "term/14",
@@ -20306,7 +20343,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/tarn-et-garonne",
         "name": "Tarn-et-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -20318,7 +20355,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/vaucluse",
         "name": "Vaucluse"
       },
       "legislative_period_id": "term/14",
@@ -20330,7 +20367,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/vaucluse",
         "name": "Vaucluse"
       },
       "legislative_period_id": "term/14",
@@ -20342,7 +20379,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/vaucluse",
         "name": "Vaucluse"
       },
       "legislative_period_id": "term/14",
@@ -20354,7 +20391,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/vendée",
         "name": "Vendée"
       },
       "legislative_period_id": "term/14",
@@ -20366,7 +20403,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/vendée",
         "name": "Vendée"
       },
       "legislative_period_id": "term/14",
@@ -20378,7 +20415,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/vendée",
         "name": "Vendée"
       },
       "legislative_period_id": "term/14",
@@ -20390,7 +20427,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/vendée",
         "name": "Vendée"
       },
       "legislative_period_id": "term/14",
@@ -20402,7 +20439,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/vienne",
         "name": "Vienne"
       },
       "legislative_period_id": "term/14",
@@ -20414,7 +20451,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/haute-vienne",
         "name": "Haute-Vienne"
       },
       "legislative_period_id": "term/14",
@@ -20426,7 +20463,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -20438,7 +20475,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -20450,7 +20487,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -20462,7 +20499,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -20474,7 +20511,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -20486,7 +20523,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -20498,7 +20535,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -20510,7 +20547,7 @@
     },
     {
       "area": {
-        "id": "11",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -20522,7 +20559,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/hauts-de-seine",
         "name": "Hauts-de-Seine"
       },
       "legislative_period_id": "term/14",
@@ -20534,7 +20571,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -20546,7 +20583,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -20558,7 +20595,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -20570,7 +20607,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -20582,7 +20619,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -20594,7 +20631,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -20606,7 +20643,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -20618,7 +20655,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -20630,7 +20667,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -20642,7 +20679,7 @@
     },
     {
       "area": {
-        "id": "10",
+        "id": "area/val-d'oise",
         "name": "Val-d'Oise"
       },
       "legislative_period_id": "term/14",
@@ -20654,7 +20691,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/guadeloupe",
         "name": "Guadeloupe"
       },
       "legislative_period_id": "term/14",
@@ -20666,7 +20703,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/martinique",
         "name": "Martinique"
       },
       "legislative_period_id": "term/14",
@@ -20678,7 +20715,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/martinique",
         "name": "Martinique"
       },
       "legislative_period_id": "term/14",
@@ -20690,7 +20727,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/guyane",
         "name": "Guyane"
       },
       "legislative_period_id": "term/14",
@@ -20702,7 +20739,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -20714,7 +20751,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -20726,7 +20763,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -20738,7 +20775,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/réunion",
         "name": "Réunion"
       },
       "legislative_period_id": "term/14",
@@ -20750,7 +20787,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/mayotte",
         "name": "Mayotte"
       },
       "legislative_period_id": "term/14",
@@ -20762,7 +20799,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/mayotte",
         "name": "Mayotte"
       },
       "legislative_period_id": "term/14",
@@ -20774,7 +20811,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/nouvelle-calédonie",
         "name": "Nouvelle-Calédonie"
       },
       "legislative_period_id": "term/14",
@@ -20786,7 +20823,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/nouvelle-calédonie",
         "name": "Nouvelle-Calédonie"
       },
       "legislative_period_id": "term/14",
@@ -20798,7 +20835,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/polynésie_française",
         "name": "Polynésie Française"
       },
       "legislative_period_id": "term/14",
@@ -20810,7 +20847,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/polynésie_française",
         "name": "Polynésie Française"
       },
       "legislative_period_id": "term/14",
@@ -20822,7 +20859,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/wallis-et-futuna",
         "name": "Wallis-et-Futuna"
       },
       "end_date": "2013-01-25",
@@ -20835,7 +20872,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/saint-barthélemy_et_saint-martin",
         "name": "Saint-Barthélemy et Saint-Martin"
       },
       "legislative_period_id": "term/14",
@@ -20847,7 +20884,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "end_date": "2013-02-15",
@@ -20860,7 +20897,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -20872,7 +20909,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "end_date": "2014-05-09",
@@ -20885,7 +20922,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -20897,7 +20934,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -20909,7 +20946,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -20921,7 +20958,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -20933,7 +20970,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "end_date": "2013-02-15",
@@ -20946,7 +20983,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -20958,7 +20995,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "end_date": "2014-05-02",
@@ -20971,7 +21008,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -20983,7 +21020,19 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/calvados",
+        "name": "Calvados"
+      },
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/src",
+      "organization_id": "legislature",
+      "person_id": "person/642705",
+      "role": "member",
+      "start_date": "2015-07-18"
+    },
+    {
+      "area": {
+        "id": "area/doubs",
         "name": "Doubs"
       },
       "legislative_period_id": "term/14",
@@ -20995,7 +21044,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/finistère",
         "name": "Finistère"
       },
       "legislative_period_id": "term/14",
@@ -21007,7 +21056,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/gironde",
         "name": "Gironde"
       },
       "end_date": "2014-05-02",
@@ -21020,7 +21069,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -21032,7 +21081,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/haute-garonne",
         "name": "Haute-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -21044,7 +21093,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -21056,7 +21105,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/lot-et-garonne",
         "name": "Lot-et-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -21068,7 +21117,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/manche",
         "name": "Manche"
       },
       "legislative_period_id": "term/14",
@@ -21080,7 +21129,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/mayenne",
         "name": "Mayenne"
       },
       "end_date": "2014-05-02",
@@ -21093,7 +21142,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/pyrénées-orientales",
         "name": "Pyrénées-Orientales"
       },
       "legislative_period_id": "term/14",
@@ -21105,7 +21154,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/rhône",
         "name": "Rhône"
       },
       "legislative_period_id": "term/14",
@@ -21117,7 +21166,7 @@
     },
     {
       "area": {
-        "id": "15",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -21129,7 +21178,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "end_date": "2014-07-03",
@@ -21142,7 +21191,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/seine-maritime",
         "name": "Seine-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -21154,7 +21203,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/somme",
         "name": "Somme"
       },
       "legislative_period_id": "term/14",
@@ -21166,7 +21215,7 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/essonne",
         "name": "Essonne"
       },
       "legislative_period_id": "term/14",
@@ -21178,7 +21227,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -21190,7 +21239,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/guadeloupe",
         "name": "Guadeloupe"
       },
       "end_date": "2014-05-02",
@@ -21203,7 +21252,19 @@
     },
     {
       "area": {
-        "id": "9",
+        "id": "area/charente",
+        "name": "Charente"
+      },
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/src",
+      "organization_id": "legislature",
+      "person_id": "person/643177",
+      "role": "member",
+      "start_date": "2015-07-18"
+    },
+    {
+      "area": {
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -21215,7 +21276,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/gers",
         "name": "Gers"
       },
       "end_date": "2014-05-02",
@@ -21228,7 +21289,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/indre-et-loire",
         "name": "Indre-et-Loire"
       },
       "legislative_period_id": "term/14",
@@ -21240,7 +21301,7 @@
     },
     {
       "area": {
-        "id": "7",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -21252,7 +21313,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/isère",
         "name": "Isère"
       },
       "legislative_period_id": "term/14",
@@ -21264,7 +21325,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -21276,7 +21337,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/seine-saint-denis",
         "name": "Seine-Saint-Denis"
       },
       "legislative_period_id": "term/14",
@@ -21288,7 +21349,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/wallis-et-futuna",
         "name": "Wallis-et-Futuna"
       },
       "legislative_period_id": "term/14",
@@ -21300,7 +21361,7 @@
     },
     {
       "area": {
-        "id": "12",
+        "id": "area/bouches-du-rhône",
         "name": "Bouches-du-Rhône"
       },
       "legislative_period_id": "term/14",
@@ -21312,7 +21373,7 @@
     },
     {
       "area": {
-        "id": "8",
+        "id": "area/français_établis_hors_de_france",
         "name": "Français établis hors de France"
       },
       "legislative_period_id": "term/14",
@@ -21324,7 +21385,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/lot-et-garonne",
         "name": "Lot-et-Garonne"
       },
       "legislative_period_id": "term/14",
@@ -21336,7 +21397,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/charente-maritime",
         "name": "Charente-Maritime"
       },
       "legislative_period_id": "term/14",
@@ -21348,7 +21409,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/polynésie_française",
         "name": "Polynésie Française"
       },
       "legislative_period_id": "term/14",
@@ -21360,7 +21421,7 @@
     },
     {
       "area": {
-        "id": "21",
+        "id": "area/nord",
         "name": "Nord"
       },
       "legislative_period_id": "term/14",
@@ -21372,7 +21433,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/saint-pierre-et-miquelon",
         "name": "Saint-Pierre-et-Miquelon"
       },
       "legislative_period_id": "term/14",
@@ -21384,7 +21445,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/lot-et-garonne",
         "name": "Lot-et-Garonne"
       },
       "end_date": "2013-04-20",
@@ -21397,7 +21458,7 @@
     },
     {
       "area": {
-        "id": "16",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -21409,7 +21470,7 @@
     },
     {
       "area": {
-        "id": "18",
+        "id": "area/paris",
         "name": "Paris"
       },
       "legislative_period_id": "term/14",
@@ -21421,7 +21482,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -21433,7 +21494,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
@@ -21445,7 +21506,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/val-de-marne",
         "name": "Val-de-Marne"
       },
       "legislative_period_id": "term/14",
@@ -21457,7 +21518,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/yonne",
         "name": "Yonne"
       },
       "legislative_period_id": "term/14",
@@ -21469,7 +21530,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/manche",
         "name": "Manche"
       },
       "end_date": "2012-07-21",
@@ -21482,7 +21543,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/indre",
         "name": "Indre"
       },
       "legislative_period_id": "term/14",
@@ -21494,7 +21555,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/allier",
         "name": "Allier"
       },
       "legislative_period_id": "term/14",
@@ -21506,7 +21567,7 @@
     },
     {
       "area": {
-        "id": "3",
+        "id": "area/sarthe",
         "name": "Sarthe"
       },
       "legislative_period_id": "term/14",
@@ -21518,7 +21579,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/vosges",
         "name": "Vosges"
       },
       "legislative_period_id": "term/14",
@@ -21530,7 +21591,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/vienne",
         "name": "Vienne"
       },
       "legislative_period_id": "term/14",
@@ -21542,7 +21603,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/loire-atlantique",
         "name": "Loire-Atlantique"
       },
       "legislative_period_id": "term/14",
@@ -21554,7 +21615,7 @@
     },
     {
       "area": {
-        "id": "6",
+        "id": "area/seine-et-marne",
         "name": "Seine-et-Marne"
       },
       "legislative_period_id": "term/14",
@@ -21566,7 +21627,7 @@
     },
     {
       "area": {
-        "id": "2",
+        "id": "area/haute-marne",
         "name": "Haute-Marne"
       },
       "legislative_period_id": "term/14",
@@ -21578,7 +21639,7 @@
     },
     {
       "area": {
-        "id": "5",
+        "id": "area/marne",
         "name": "Marne"
       },
       "legislative_period_id": "term/14",
@@ -21590,7 +21651,7 @@
     },
     {
       "area": {
-        "id": "4",
+        "id": "area/var",
         "name": "Var"
       },
       "legislative_period_id": "term/14",
@@ -21602,7 +21663,7 @@
     },
     {
       "area": {
-        "id": "1",
+        "id": "area/oise",
         "name": "Oise"
       },
       "legislative_period_id": "term/14",
