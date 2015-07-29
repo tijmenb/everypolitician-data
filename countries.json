@@ -313,20 +313,20 @@
     "slug": "Belarus",
     "legislatures": [
       {
-        "name": "National Assembly",
+        "name": "House of Representatives",
         "slug": "Chamber",
         "sources_directory": "data/Belarus/Chamber/sources",
         "popolo": "data/Belarus/Chamber/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1438096968",
         "person_count": 109,
-        "sha": "80fde5a",
+        "sha": "4dda726",
         "legislative_periods": [
           {
-            "id": "term/2012",
-            "name": "2012",
+            "id": "term/5",
+            "name": "5th Convocation",
             "start_date": "2012-09-23",
-            "slug": "2012",
-            "csv": "data/Belarus/Chamber/term-2012.csv"
+            "slug": "5",
+            "csv": "data/Belarus/Chamber/term-5.csv"
           }
         ]
       }
@@ -746,9 +746,9 @@
         "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1438083868",
         "person_count": 305,
-        "sha": "80fde5a",
+        "sha": "10d8a89",
         "legislative_periods": [
           {
             "id": "term/41",
