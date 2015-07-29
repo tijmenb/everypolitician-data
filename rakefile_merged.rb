@@ -103,9 +103,9 @@ def combine_sources
       if src[:merge][:approximate]
         fuzzer ||= FuzzyMatch.new(all_rows, read: field, must_match_at_least_one_word: true )
         found = fuzzer.find(p[field]) or warn "No match for #{p[field]}"
-        puts "Matched #{p[field]} to #{found}".yellow if found
+        puts "Matched #{p[field]} (#{p[:id]}) to #{found[field]}".yellow if found && p[field] != found[field]
       else
-        found = all_rows.find { |r| r[field] == p[field] }
+        found = all_rows.find { |r| r[field] == p[field] } or warn "No matches for #{p[field]}"
       end
 
       if found
