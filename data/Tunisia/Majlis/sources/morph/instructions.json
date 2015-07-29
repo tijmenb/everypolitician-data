@@ -1,0 +1,5 @@
+{
+  "source": "tmtmtmtm/tunisia-marsad",
+  "query": "SELECT *, '1' as term FROM data WHERE term = '2014'",
+  "fetch_terms": false
+}
