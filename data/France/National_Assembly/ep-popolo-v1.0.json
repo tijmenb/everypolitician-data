@@ -2883,6 +2883,25 @@
       ]
     },
     {
+      "birth_date": "1973-07-25",
+      "family_name": "Comet",
+      "gender": "male",
+      "given_name": "David",
+      "id": "person/643177",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA643177"
+        }
+      ],
+      "name": "David Comet",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/david-comet/json"
+        }
+      ]
+    },
+    {
       "birth_date": "1969-02-17",
       "contact_details": [
         {
@@ -4978,6 +4997,25 @@
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/guillaume-larrive/json"
+        }
+      ]
+    },
+    {
+      "birth_date": "1946-09-24",
+      "family_name": "Bailliart",
+      "gender": "male",
+      "given_name": "Guy",
+      "id": "person/642705",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642705"
+        }
+      ],
+      "name": "Guy Bailliart",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/guy-bailliart/json"
         }
       ]
     },
@@ -13075,7 +13113,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "ValCorre2012"
+          "value": "Valerie_Corre"
         }
       ],
       "family_name": "Corre",
@@ -14059,7 +14097,7 @@
   },
   "memberships": [
     {
-      "area_id": "4",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14068,7 +14106,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/ain",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14077,7 +14115,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14086,7 +14124,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14095,7 +14133,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14104,7 +14142,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/dordogne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14113,7 +14151,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14122,7 +14160,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "13",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14131,7 +14169,7 @@
       "start_date": "2012-12-17"
     },
     {
-      "area_id": "17",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -14140,7 +14178,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14149,7 +14187,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/aisne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14158,7 +14196,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/landes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14167,7 +14205,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/gard",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14176,7 +14214,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/calvados",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14185,7 +14223,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/meuse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14194,7 +14232,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -14203,7 +14241,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/aude",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14212,7 +14250,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14221,7 +14259,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/calvados",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14230,7 +14268,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/meurthe-et-moselle",
       "end_date": "2014-05-09",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14240,7 +14278,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/landes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14249,7 +14287,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14258,7 +14296,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/seine-maritime",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14268,7 +14306,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14277,7 +14315,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14286,7 +14324,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/vosges",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14295,7 +14333,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -14304,7 +14342,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/polynésie_française",
       "end_date": "2014-04-23",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ump",
@@ -14314,7 +14352,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/cher",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14323,7 +14361,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/cher",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14332,7 +14370,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14341,7 +14379,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14350,7 +14388,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/somme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14359,7 +14397,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14368,7 +14406,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14377,7 +14415,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/hautes-pyrénées",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14386,7 +14424,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "14",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14395,7 +14433,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14404,7 +14442,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/essonne",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14414,7 +14452,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "4",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14423,7 +14461,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14432,7 +14470,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14441,7 +14479,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/pyrénées-atlantiques",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14450,7 +14488,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14459,7 +14497,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14468,7 +14506,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14477,7 +14515,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14486,7 +14524,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14495,7 +14533,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14504,7 +14542,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14513,7 +14551,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14522,7 +14560,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14531,7 +14569,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/drôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14540,7 +14578,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14549,7 +14587,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14558,7 +14596,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/charente",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -14567,7 +14605,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14576,7 +14614,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "4",
+      "area_id": "area/pyrénées-atlantiques",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -14585,7 +14623,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/lot",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14594,7 +14632,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14603,7 +14641,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14612,7 +14650,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/meurthe-et-moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14621,7 +14659,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/côtes-d'armor",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14630,7 +14668,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/paris",
       "end_date": "2014-05-09",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14640,7 +14678,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14649,7 +14687,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/finistère",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14659,7 +14697,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14668,7 +14706,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14677,7 +14715,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14686,7 +14724,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14695,7 +14733,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14704,7 +14742,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/loir-et-cher",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -14713,7 +14751,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/côtes-d'armor",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14722,7 +14760,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14731,7 +14769,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/pyrénées-atlantiques",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14740,7 +14778,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/eure",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14749,7 +14787,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14758,7 +14796,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -14767,7 +14805,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14776,7 +14814,7 @@
       "start_date": "2013-03-24"
     },
     {
-      "area_id": "9",
+      "area_id": "area/essonne",
       "end_date": "2014-07-03",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14786,7 +14824,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14795,7 +14833,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/martinique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -14804,7 +14842,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/drôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14813,7 +14851,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/cantal",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14822,7 +14860,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14831,7 +14869,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14840,7 +14878,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14849,7 +14887,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/loir-et-cher",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14858,7 +14896,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/aube",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14867,7 +14905,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/aube",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14876,7 +14914,7 @@
       "start_date": "2014-12-15"
     },
     {
-      "area_id": "6",
+      "area_id": "area/haut-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -14885,7 +14923,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14894,7 +14932,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14903,7 +14941,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/eure",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -14912,7 +14950,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14921,7 +14959,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/doubs",
       "end_date": "2014-10-31",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -14931,7 +14969,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "6",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14940,7 +14978,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14949,7 +14987,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/corrèze",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -14958,7 +14996,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14967,7 +15005,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14976,7 +15014,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14985,7 +15023,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "13",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -14994,7 +15032,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15003,7 +15041,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/nièvre",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15012,7 +15050,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/dordogne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15021,7 +15059,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/jura",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15030,7 +15068,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/aude",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15039,7 +15077,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/deux-sèvres",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15048,7 +15086,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15057,7 +15095,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/val-de-marne",
       "end_date": "2012-10-18",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
@@ -15067,7 +15105,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15076,7 +15114,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15085,7 +15123,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/charente-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15094,7 +15132,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15103,7 +15141,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/haut-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15112,7 +15150,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/charente",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15121,7 +15159,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/calvados",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15130,7 +15168,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15139,7 +15177,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15148,7 +15186,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15157,7 +15195,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15166,7 +15204,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15175,7 +15213,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15184,7 +15222,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15193,7 +15231,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15202,7 +15240,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15211,7 +15249,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/lozère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15220,7 +15258,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/manche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15229,7 +15267,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/loire-atlantique",
       "end_date": "2014-04-30",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -15239,7 +15277,7 @@
       "start_date": "2012-07-21"
     },
     {
-      "area_id": "4",
+      "area_id": "area/haut-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15248,7 +15286,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/mayenne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15257,7 +15295,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15266,7 +15304,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/ain",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15275,7 +15313,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/aisne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15284,7 +15322,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/ariège",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15293,7 +15331,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/eure",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15302,7 +15340,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/eure-et-loir",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15311,7 +15349,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15320,7 +15358,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/aube",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15329,7 +15367,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/nièvre",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15338,7 +15376,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15347,7 +15385,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/jura",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15356,7 +15394,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/haut-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15365,7 +15403,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15374,7 +15412,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/somme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15383,7 +15421,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/vosges",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15392,7 +15430,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/ardennes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15401,7 +15439,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/aveyron",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15410,7 +15448,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/gers",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15419,7 +15457,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15428,7 +15466,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/loiret",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15437,7 +15475,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/puy-de-dôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -15446,7 +15484,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/sarthe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15455,7 +15493,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/territoire_de_belfort",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15464,7 +15502,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/territoire_de_belfort",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15473,7 +15511,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/hautes-alpes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -15482,7 +15520,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15491,7 +15529,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haut-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15500,7 +15538,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15509,7 +15547,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-corse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -15518,7 +15556,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15527,7 +15565,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -15536,7 +15574,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/côte-d'or",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15545,7 +15583,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15554,7 +15592,7 @@
       "start_date": "2012-12-17"
     },
     {
-      "area_id": "2",
+      "area_id": "area/indre-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15563,7 +15601,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15572,7 +15610,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15581,7 +15619,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "16",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -15590,7 +15628,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15599,7 +15637,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15608,7 +15646,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15617,7 +15655,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/aveyron",
       "end_date": "2014-09-30",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ump",
@@ -15627,7 +15665,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/haute-savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15636,7 +15674,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/haute-savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15645,7 +15683,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15654,7 +15692,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/meurthe-et-moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15663,7 +15701,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15672,7 +15710,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/doubs",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15681,7 +15719,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15690,7 +15728,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15699,7 +15737,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15708,7 +15746,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15717,7 +15755,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/essonne",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -15727,7 +15765,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15736,7 +15774,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "4",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15745,7 +15783,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/tarn",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15754,7 +15792,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15763,7 +15801,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/corse-du-sud",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15772,7 +15810,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15781,7 +15819,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15790,7 +15828,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15799,7 +15837,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/loiret",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15808,7 +15846,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15817,7 +15855,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "14",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15826,7 +15864,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "18",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15835,7 +15873,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15844,7 +15882,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/yonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15853,7 +15891,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15862,7 +15900,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15871,7 +15909,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15880,7 +15918,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15889,7 +15927,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15898,7 +15936,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15907,7 +15945,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15916,7 +15954,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -15925,7 +15963,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/pas-de-calais",
       "end_date": "2014-09-26",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -15935,7 +15973,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "3",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15944,7 +15982,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/paris",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -15954,7 +15992,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "3",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15963,7 +16001,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -15972,7 +16010,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/guadeloupe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15981,7 +16019,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/guadeloupe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15990,7 +16028,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/guadeloupe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -15999,7 +16037,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "2",
+      "area_id": "area/loiret",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16008,7 +16046,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/puy-de-dôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16017,7 +16055,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/côte-d'or",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -16026,7 +16064,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/alpes-de-haute-provence",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16035,7 +16073,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16044,7 +16082,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16053,7 +16091,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -16062,7 +16100,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -16071,7 +16109,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/côte-d'or",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16080,7 +16118,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16089,7 +16127,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16098,7 +16136,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/ardèche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16107,7 +16145,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/moselle",
       "end_date": "2014-09-26",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -16117,7 +16155,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "12",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16126,7 +16164,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16135,7 +16173,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/indre-et-loire",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -16145,7 +16183,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/calvados",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -16154,7 +16192,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "17",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16163,7 +16201,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/vosges",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16172,7 +16210,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "16",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16181,7 +16219,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/creuse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16190,7 +16228,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16199,7 +16237,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/landes",
       "end_date": "2014-09-26",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -16209,7 +16247,7 @@
       "start_date": "2014-05-01"
     },
     {
-      "area_id": "4",
+      "area_id": "area/ain",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16218,7 +16256,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -16227,7 +16265,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/ardennes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16236,7 +16274,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16245,7 +16283,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16254,7 +16292,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16263,7 +16301,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/vendée",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -16272,7 +16310,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16281,7 +16319,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16290,7 +16328,7 @@
       "start_date": "2014-05-01"
     },
     {
-      "area_id": "1",
+      "area_id": "area/ain",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16299,7 +16337,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/allier",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16308,7 +16346,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/allier",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16317,7 +16355,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/alpes-maritimes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16326,7 +16364,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/ardèche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16335,7 +16373,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/aveyron",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16344,7 +16382,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16353,7 +16391,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16362,7 +16400,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "15",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16371,7 +16409,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/charente",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16380,7 +16418,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/charente-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16389,7 +16427,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-corse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16398,7 +16436,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/côtes-d'armor",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16407,7 +16445,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/drôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -16416,7 +16454,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/eure",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16425,7 +16463,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/eure-et-loir",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16434,7 +16472,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/eure-et-loir",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -16443,7 +16481,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16452,7 +16490,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16461,7 +16499,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16470,7 +16508,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16479,7 +16517,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16488,7 +16526,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16497,7 +16535,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "5",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16506,7 +16544,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16515,7 +16553,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16524,7 +16562,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16533,7 +16571,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -16542,7 +16580,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/indre-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16551,7 +16589,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16560,7 +16598,7 @@
       "start_date": "2015-04-06"
     },
     {
-      "area_id": "2",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16569,7 +16607,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/jura",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16578,7 +16616,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16587,7 +16625,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16596,7 +16634,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -16605,7 +16643,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16614,7 +16652,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16623,7 +16661,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/loiret",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16632,7 +16670,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/lot",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -16641,7 +16679,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16650,7 +16688,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/manche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16659,7 +16697,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16668,7 +16706,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/mayenne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16677,7 +16715,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "2",
+      "area_id": "area/meurthe-et-moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16686,7 +16724,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/meuse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -16695,7 +16733,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16704,7 +16742,7 @@
       "start_date": "2014-09-27"
     },
     {
-      "area_id": "13",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16713,7 +16751,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/puy-de-dôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16722,7 +16760,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16731,7 +16769,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16740,7 +16778,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16749,7 +16787,7 @@
       "start_date": "2014-09-27"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haut-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16758,7 +16796,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16767,7 +16805,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16776,7 +16814,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16785,7 +16823,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16794,7 +16832,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "13",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16803,7 +16841,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-saône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16812,7 +16850,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/saône-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16821,7 +16859,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/sarthe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16830,7 +16868,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16839,7 +16877,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16848,7 +16886,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "15",
+      "area_id": "area/paris",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -16858,7 +16896,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16867,7 +16905,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "2",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16876,7 +16914,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16885,7 +16923,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/deux-sèvres",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16894,7 +16932,7 @@
       "start_date": "2013-08-03"
     },
     {
-      "area_id": "3",
+      "area_id": "area/deux-sèvres",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16903,7 +16941,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/tarn",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16912,7 +16950,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/tarn-et-garonne",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
@@ -16922,7 +16960,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/vaucluse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16931,7 +16969,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16940,7 +16978,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16949,7 +16987,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/yonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -16958,7 +16996,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16967,7 +17005,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/martinique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16976,7 +17014,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/guyane",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16985,7 +17023,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -16994,7 +17032,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17003,7 +17041,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/saint-pierre-et-miquelon",
       "end_date": "2014-07-29",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
@@ -17013,7 +17051,7 @@
       "start_date": "2014-06-30"
     },
     {
-      "area_id": "8",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17022,7 +17060,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/ariège",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17031,7 +17069,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "13",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -17040,7 +17078,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/côtes-d'armor",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17049,7 +17087,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/dordogne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17058,7 +17096,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17067,7 +17105,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/indre-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17076,7 +17114,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "4",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17085,7 +17123,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/landes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17094,7 +17132,7 @@
       "start_date": "2014-09-27"
     },
     {
-      "area_id": "5",
+      "area_id": "area/loiret",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17103,7 +17141,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/lot-et-garonne",
       "end_date": "2013-04-19",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -17113,7 +17151,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "3",
+      "area_id": "area/meurthe-et-moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17122,7 +17160,7 @@
       "start_date": "2014-05-10"
     },
     {
-      "area_id": "5",
+      "area_id": "area/morbihan",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17131,7 +17169,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17140,7 +17178,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17149,7 +17187,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17158,7 +17196,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/pyrénées-orientales",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17167,7 +17205,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17176,7 +17214,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17185,7 +17223,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -17194,7 +17232,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17203,7 +17241,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/deux-sèvres",
       "end_date": "2013-08-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -17213,7 +17251,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "5",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17222,7 +17260,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/tarn-et-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -17231,7 +17269,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "9",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17240,7 +17278,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17249,7 +17287,7 @@
       "start_date": "2013-06-10"
     },
     {
-      "area_id": "1",
+      "area_id": "area/saint-pierre-et-miquelon",
       "end_date": "2014-05-10",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
@@ -17259,7 +17297,7 @@
       "start_date": "2014-05-10"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17268,7 +17306,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/aube",
       "end_date": "2014-09-30",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ump",
@@ -17278,7 +17316,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17287,7 +17325,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17296,7 +17334,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17305,7 +17343,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17314,7 +17352,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17323,7 +17361,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -17332,7 +17370,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/gers",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17341,7 +17379,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17350,7 +17388,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17359,7 +17397,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "20",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -17368,7 +17406,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17377,7 +17415,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/vaucluse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -17386,7 +17424,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "21",
+      "area_id": "area/nord",
       "end_date": "2014-04-30",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
@@ -17396,7 +17434,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17405,7 +17443,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "4",
+      "area_id": "area/sarthe",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -17415,7 +17453,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17424,7 +17462,7 @@
       "start_date": "2014-12-22"
     },
     {
-      "area_id": "11",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17433,7 +17471,7 @@
       "start_date": "2014-09-27"
     },
     {
-      "area_id": "5",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17442,7 +17480,7 @@
       "start_date": "2014-05-03"
     },
     {
-      "area_id": "5",
+      "area_id": "area/ain",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17451,7 +17489,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/aisne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17460,7 +17498,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/aisne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17469,7 +17507,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/aisne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -17478,7 +17516,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/alpes-de-haute-provence",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17487,7 +17525,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/hautes-alpes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17496,7 +17534,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/ardèche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17505,7 +17543,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/ardennes",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17514,7 +17552,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/aude",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17523,7 +17561,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17532,7 +17570,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/bouches-du-rhône",
       "end_date": "2012-06-30",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -17542,7 +17580,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17551,7 +17589,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "14",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17560,7 +17598,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/calvados",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17569,7 +17607,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/calvados",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17578,7 +17616,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/cantal",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17587,7 +17625,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/charente-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -17596,7 +17634,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/charente-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17605,7 +17643,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/cher",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -17614,7 +17652,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/corrèze",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17623,7 +17661,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/corse-du-sud",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17632,7 +17670,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/côte-d'or",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17641,7 +17679,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/côte-d'or",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17650,7 +17688,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/côtes-d'armor",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17659,7 +17697,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/dordogne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17668,7 +17706,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/doubs",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17677,7 +17715,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/doubs",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17686,7 +17724,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/doubs",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17695,7 +17733,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/drôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17704,7 +17742,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/eure",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17713,7 +17751,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/eure-et-loir",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17722,7 +17760,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17731,7 +17769,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17740,7 +17778,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17749,7 +17787,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/gard",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17758,7 +17796,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/gard",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -17767,7 +17805,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/gard",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17776,7 +17814,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/gard",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17785,7 +17823,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/gard",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17794,7 +17832,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/haute-garonne",
       "end_date": "2014-04-10",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ump",
@@ -17804,17 +17842,16 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
-      "end_date": "2014-07-03",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
       "person_id": "person/606351",
       "role": "member",
-      "start_date": "2012-06-20"
+      "start_date": "2015-07-18"
     },
     {
-      "area_id": "9",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17823,7 +17860,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/haute-garonne",
       "end_date": "2014-12-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -17833,7 +17870,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "1",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17842,7 +17879,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17851,7 +17888,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17860,7 +17897,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/gironde",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17869,7 +17906,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -17878,7 +17915,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17887,7 +17924,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17896,7 +17933,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17905,7 +17942,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/hérault",
       "end_date": "2012-10-24",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -17915,7 +17952,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17924,7 +17961,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17933,7 +17970,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/hérault",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17942,7 +17979,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17951,7 +17988,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17960,7 +17997,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17969,7 +18006,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/ille-et-vilaine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -17978,7 +18015,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/indre",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17987,7 +18024,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/indre-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -17996,7 +18033,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18005,7 +18042,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18014,7 +18051,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18023,7 +18060,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18032,7 +18069,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/loir-et-cher",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18041,7 +18078,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18050,7 +18087,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18059,7 +18096,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18068,7 +18105,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18077,7 +18114,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/loiret",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18086,7 +18123,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/lot-et-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18095,7 +18132,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/lot-et-garonne",
       "end_date": "2014-10-04",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -18105,7 +18142,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18114,7 +18151,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/maine-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18123,7 +18160,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/manche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18132,7 +18169,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/mayenne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18141,7 +18178,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/meurthe-et-moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18150,7 +18187,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/meurthe-et-moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18159,7 +18196,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/morbihan",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18168,7 +18205,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/morbihan",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18177,7 +18214,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/morbihan",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18186,7 +18223,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/morbihan",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18195,7 +18232,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/morbihan",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -18204,7 +18241,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18213,7 +18250,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/moselle",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18222,7 +18259,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18231,7 +18268,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18240,7 +18277,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18249,7 +18286,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "15",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18258,7 +18295,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "19",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18267,7 +18304,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/orne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18276,7 +18313,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/orne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18285,7 +18322,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/orne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18294,7 +18331,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18303,7 +18340,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18312,7 +18349,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -18321,7 +18358,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/pas-de-calais",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18330,7 +18367,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/puy-de-dôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18339,7 +18376,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/puy-de-dôme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18348,7 +18385,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/pyrénées-atlantiques",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18357,7 +18394,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/pyrénées-atlantiques",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18366,7 +18403,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/pyrénées-atlantiques",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18375,7 +18412,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/hautes-pyrénées",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -18384,7 +18421,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/pyrénées-orientales",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18393,7 +18430,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/pyrénées-orientales",
       "end_date": "2014-05-09",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -18403,7 +18440,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/pyrénées-orientales",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18412,7 +18449,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18421,7 +18458,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18430,7 +18467,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18439,7 +18476,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/bas-rhin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18448,7 +18485,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/rhône",
       "end_date": "2014-05-09",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
@@ -18458,7 +18495,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18467,7 +18504,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "14",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18476,7 +18513,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/haute-saône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18485,7 +18522,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/saône-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -18494,7 +18531,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/saône-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18503,7 +18540,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/saône-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18512,7 +18549,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/saône-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18521,7 +18558,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/sarthe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18530,7 +18567,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/sarthe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18539,7 +18576,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "3",
+      "area_id": "area/savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18548,7 +18585,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18557,7 +18594,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/haute-savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18566,7 +18603,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/haute-savoie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18575,7 +18612,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18584,7 +18621,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18593,7 +18630,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18602,7 +18639,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18611,7 +18648,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18620,7 +18657,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18629,7 +18666,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18638,7 +18675,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18647,7 +18684,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18656,7 +18693,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18665,7 +18702,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18674,7 +18711,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18683,7 +18720,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18692,7 +18729,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/yvelines",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18701,7 +18738,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/yvelines",
       "end_date": "2014-09-26",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -18711,7 +18748,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "1",
+      "area_id": "area/somme",
       "end_date": "2014-09-26",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -18721,7 +18758,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/somme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18730,7 +18767,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/somme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18739,7 +18776,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/tarn",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18748,7 +18785,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/tarn-et-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18757,7 +18794,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/vaucluse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18766,7 +18803,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/vaucluse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ni",
       "organization_id": "legislature",
@@ -18775,7 +18812,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/vaucluse",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18784,7 +18821,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/vendée",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18793,7 +18830,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/vendée",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18802,7 +18839,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/vendée",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -18811,7 +18848,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/vendée",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18820,7 +18857,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18829,7 +18866,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/haute-vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18838,7 +18875,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18847,7 +18884,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18856,7 +18893,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18865,7 +18902,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18874,7 +18911,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18883,7 +18920,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18892,7 +18929,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -18901,7 +18938,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "11",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18910,7 +18947,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/hauts-de-seine",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18919,7 +18956,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18928,7 +18965,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18937,7 +18974,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18946,7 +18983,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "12",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18955,7 +18992,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -18964,7 +19001,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18973,7 +19010,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -18982,7 +19019,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -18991,7 +19028,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19000,7 +19037,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "10",
+      "area_id": "area/val-d'oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19009,7 +19046,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/guadeloupe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -19018,7 +19055,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/martinique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -19027,7 +19064,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/martinique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -19036,7 +19073,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/guyane",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -19045,7 +19082,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19054,7 +19091,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19063,7 +19100,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19072,7 +19109,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/réunion",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -19081,7 +19118,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/mayotte",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19090,7 +19127,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/mayotte",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19099,7 +19136,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/nouvelle-calédonie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19108,7 +19145,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/nouvelle-calédonie",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19117,7 +19154,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/polynésie_française",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19126,7 +19163,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/polynésie_française",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19135,7 +19172,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/wallis-et-futuna",
       "end_date": "2013-01-25",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19145,7 +19182,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/saint-barthélemy_et_saint-martin",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19154,7 +19191,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/français_établis_hors_de_france",
       "end_date": "2013-02-15",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19164,7 +19201,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
@@ -19173,7 +19210,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/français_établis_hors_de_france",
       "end_date": "2014-05-09",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19183,7 +19220,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19192,7 +19229,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19201,7 +19238,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19210,7 +19247,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19219,7 +19256,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/français_établis_hors_de_france",
       "end_date": "2013-02-15",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19229,7 +19266,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "9",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19238,7 +19275,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/bouches-du-rhône",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19248,7 +19285,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "8",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -19257,7 +19294,16 @@
       "start_date": "2012-07-01"
     },
     {
-      "area_id": "4",
+      "area_id": "area/calvados",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/src",
+      "organization_id": "legislature",
+      "person_id": "person/642705",
+      "role": "member",
+      "start_date": "2015-07-18"
+    },
+    {
+      "area_id": "area/doubs",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19266,7 +19312,7 @@
       "start_date": "2015-02-09"
     },
     {
-      "area_id": "4",
+      "area_id": "area/finistère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19275,7 +19321,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "2",
+      "area_id": "area/gironde",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19285,7 +19331,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "3",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19294,7 +19340,7 @@
       "start_date": "2014-06-02"
     },
     {
-      "area_id": "8",
+      "area_id": "area/haute-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19303,7 +19349,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "1",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19312,7 +19358,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "2",
+      "area_id": "area/lot-et-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19321,7 +19367,7 @@
       "start_date": "2014-10-05"
     },
     {
-      "area_id": "4",
+      "area_id": "area/manche",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19330,7 +19376,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "1",
+      "area_id": "area/mayenne",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19340,7 +19386,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "3",
+      "area_id": "area/pyrénées-orientales",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19349,7 +19395,7 @@
       "start_date": "2014-05-10"
     },
     {
-      "area_id": "1",
+      "area_id": "area/rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -19358,7 +19404,7 @@
       "start_date": "2014-05-10"
     },
     {
-      "area_id": "15",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19367,7 +19413,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "1",
+      "area_id": "area/seine-maritime",
       "end_date": "2014-07-03",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19377,7 +19423,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "4",
+      "area_id": "area/seine-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19386,7 +19432,7 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "1",
+      "area_id": "area/somme",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19395,7 +19441,7 @@
       "start_date": "2014-09-27"
     },
     {
-      "area_id": "9",
+      "area_id": "area/essonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19404,7 +19450,7 @@
       "start_date": "2014-07-04"
     },
     {
-      "area_id": "3",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19413,7 +19459,7 @@
       "start_date": "2014-05-10"
     },
     {
-      "area_id": "4",
+      "area_id": "area/guadeloupe",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19423,7 +19469,16 @@
       "start_date": "2012-07-22"
     },
     {
-      "area_id": "9",
+      "area_id": "area/charente",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/src",
+      "organization_id": "legislature",
+      "person_id": "person/643177",
+      "role": "member",
+      "start_date": "2015-07-18"
+    },
+    {
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19432,7 +19487,7 @@
       "start_date": "2014-05-10"
     },
     {
-      "area_id": "1",
+      "area_id": "area/gers",
       "end_date": "2014-05-02",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19442,7 +19497,7 @@
       "start_date": "2013-08-03"
     },
     {
-      "area_id": "5",
+      "area_id": "area/indre-et-loire",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19451,7 +19506,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "7",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19460,7 +19515,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/isère",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19469,7 +19524,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19478,7 +19533,7 @@
       "start_date": "2012-12-17"
     },
     {
-      "area_id": "4",
+      "area_id": "area/seine-saint-denis",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -19487,7 +19542,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/wallis-et-futuna",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19496,7 +19551,7 @@
       "start_date": "2013-03-24"
     },
     {
-      "area_id": "12",
+      "area_id": "area/bouches-du-rhône",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19505,7 +19560,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "8",
+      "area_id": "area/français_établis_hors_de_france",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19514,7 +19569,7 @@
       "start_date": "2013-06-10"
     },
     {
-      "area_id": "3",
+      "area_id": "area/lot-et-garonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19523,7 +19578,7 @@
       "start_date": "2013-06-24"
     },
     {
-      "area_id": "4",
+      "area_id": "area/charente-maritime",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19532,7 +19587,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/polynésie_française",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19541,7 +19596,7 @@
       "start_date": "2014-06-30"
     },
     {
-      "area_id": "21",
+      "area_id": "area/nord",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19550,7 +19605,7 @@
       "start_date": "2014-06-30"
     },
     {
-      "area_id": "1",
+      "area_id": "area/saint-pierre-et-miquelon",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -19559,7 +19614,7 @@
       "start_date": "2014-07-30"
     },
     {
-      "area_id": "3",
+      "area_id": "area/lot-et-garonne",
       "end_date": "2013-04-20",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19569,7 +19624,7 @@
       "start_date": "2013-04-20"
     },
     {
-      "area_id": "16",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19578,7 +19633,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "18",
+      "area_id": "area/paris",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19587,7 +19642,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19596,7 +19651,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/gdr",
       "organization_id": "legislature",
@@ -19605,7 +19660,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/val-de-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19614,7 +19669,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/yonne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19623,7 +19678,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/manche",
       "end_date": "2012-07-21",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
@@ -19633,7 +19688,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/indre",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19642,7 +19697,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/allier",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/rrdp",
       "organization_id": "legislature",
@@ -19651,7 +19706,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "3",
+      "area_id": "area/sarthe",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19660,7 +19715,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/vosges",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19669,7 +19724,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/vienne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19678,7 +19733,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/loire-atlantique",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/src",
       "organization_id": "legislature",
@@ -19687,7 +19742,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "6",
+      "area_id": "area/seine-et-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19696,7 +19751,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "2",
+      "area_id": "area/haute-marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19705,7 +19760,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "5",
+      "area_id": "area/marne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/udi",
       "organization_id": "legislature",
@@ -19714,7 +19769,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "4",
+      "area_id": "area/var",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19723,7 +19778,7 @@
       "start_date": "2012-06-20"
     },
     {
-      "area_id": "1",
+      "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
@@ -19743,108 +19798,538 @@
   ],
   "areas": [
     {
-      "id": "4",
+      "id": "area/nord",
       "name": "Nord",
       "type": "constituency"
     },
     {
-      "id": "2",
+      "id": "area/ain",
       "name": "Ain",
       "type": "constituency"
     },
     {
-      "id": "9",
+      "id": "area/paris",
+      "name": "Paris",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bouches-du-rhône",
       "name": "Bouches-du-Rhône",
       "type": "constituency"
     },
     {
-      "id": "5",
+      "id": "area/oise",
       "name": "Oise",
       "type": "constituency"
     },
     {
-      "id": "1",
+      "id": "area/dordogne",
       "name": "Dordogne",
       "type": "constituency"
     },
     {
-      "id": "3",
+      "id": "area/isère",
       "name": "Isère",
       "type": "constituency"
     },
     {
-      "id": "13",
+      "id": "area/hauts-de-seine",
       "name": "Hauts-de-Seine",
       "type": "constituency"
     },
     {
-      "id": "17",
-      "name": "Nord",
+      "id": "area/savoie",
+      "name": "Savoie",
       "type": "constituency"
     },
     {
-      "id": "8",
+      "id": "area/aisne",
+      "name": "Aisne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/landes",
+      "name": "Landes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gard",
+      "name": "Gard",
+      "type": "constituency"
+    },
+    {
+      "id": "area/calvados",
+      "name": "Calvados",
+      "type": "constituency"
+    },
+    {
+      "id": "area/meuse",
+      "name": "Meuse",
+      "type": "constituency"
+    },
+    {
+      "id": "area/essonne",
       "name": "Essonne",
       "type": "constituency"
     },
     {
-      "id": "11",
-      "name": "Nord",
+      "id": "area/aude",
+      "name": "Aude",
       "type": "constituency"
     },
     {
-      "id": "14",
-      "name": "Paris",
+      "id": "area/meurthe-et-moselle",
+      "name": "Meurthe-et-Moselle",
       "type": "constituency"
     },
     {
-      "id": "12",
-      "name": "Paris",
+      "id": "area/alpes-maritimes",
+      "name": "Alpes-Maritimes",
       "type": "constituency"
     },
     {
-      "id": "6",
-      "name": "Essonne",
+      "id": "area/seine-maritime",
+      "name": "Seine-Maritime",
       "type": "constituency"
     },
     {
-      "id": "10",
+      "id": "area/vosges",
+      "name": "Vosges",
+      "type": "constituency"
+    },
+    {
+      "id": "area/polynésie_française",
+      "name": "Polynésie Française",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cher",
+      "name": "Cher",
+      "type": "constituency"
+    },
+    {
+      "id": "area/somme",
+      "name": "Somme",
+      "type": "constituency"
+    },
+    {
+      "id": "area/var",
+      "name": "Var",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hautes-pyrénées",
+      "name": "Hautes-Pyrénées",
+      "type": "constituency"
+    },
+    {
+      "id": "area/seine-saint-denis",
+      "name": "Seine-Saint-Denis",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pyrénées-atlantiques",
+      "name": "Pyrénées-Atlantiques",
+      "type": "constituency"
+    },
+    {
+      "id": "area/val-de-marne",
+      "name": "Val-de-Marne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/val-d'oise",
+      "name": "Val-d'Oise",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-garonne",
+      "name": "Haute-Garonne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/seine-et-marne",
+      "name": "Seine-et-Marne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moselle",
+      "name": "Moselle",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pas-de-calais",
       "name": "Pas-de-Calais",
       "type": "constituency"
     },
     {
-      "id": "7",
+      "id": "area/bas-rhin",
+      "name": "Bas-Rhin",
+      "type": "constituency"
+    },
+    {
+      "id": "area/drôme",
+      "name": "Drôme",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gironde",
+      "name": "Gironde",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maine-et-loire",
       "name": "Maine-et-Loire",
       "type": "constituency"
     },
     {
-      "id": "16",
-      "name": "Nord",
+      "id": "area/charente",
+      "name": "Charente",
       "type": "constituency"
     },
     {
-      "id": "18",
-      "name": "Nord",
+      "id": "area/lot",
+      "name": "Lot",
       "type": "constituency"
     },
     {
-      "id": "15",
-      "name": "Bouches-du-Rhône",
+      "id": "area/finistère",
+      "name": "Finistère",
       "type": "constituency"
     },
     {
-      "id": "20",
-      "name": "Nord",
+      "id": "area/côtes-d'armor",
+      "name": "Côtes-d'Armor",
       "type": "constituency"
     },
     {
-      "id": "21",
-      "name": "Nord",
+      "id": "area/yvelines",
+      "name": "Yvelines",
       "type": "constituency"
     },
     {
-      "id": "19",
-      "name": "Nord",
+      "id": "area/loir-et-cher",
+      "name": "Loir-et-Cher",
+      "type": "constituency"
+    },
+    {
+      "id": "area/eure",
+      "name": "Eure",
+      "type": "constituency"
+    },
+    {
+      "id": "area/français_établis_hors_de_france",
+      "name": "Français établis hors de France",
+      "type": "constituency"
+    },
+    {
+      "id": "area/martinique",
+      "name": "Martinique",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cantal",
+      "name": "Cantal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/marne",
+      "name": "Marne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/aube",
+      "name": "Aube",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haut-rhin",
+      "name": "Haut-Rhin",
+      "type": "constituency"
+    },
+    {
+      "id": "area/doubs",
+      "name": "Doubs",
+      "type": "constituency"
+    },
+    {
+      "id": "area/corrèze",
+      "name": "Corrèze",
+      "type": "constituency"
+    },
+    {
+      "id": "area/loire",
+      "name": "Loire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-savoie",
+      "name": "Haute-Savoie",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nièvre",
+      "name": "Nièvre",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jura",
+      "name": "Jura",
+      "type": "constituency"
+    },
+    {
+      "id": "area/deux-sèvres",
+      "name": "Deux-Sèvres",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rhône",
+      "name": "Rhône",
+      "type": "constituency"
+    },
+    {
+      "id": "area/charente-maritime",
+      "name": "Charente-Maritime",
+      "type": "constituency"
+    },
+    {
+      "id": "area/loire-atlantique",
+      "name": "Loire-Atlantique",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-vienne",
+      "name": "Haute-Vienne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ille-et-vilaine",
+      "name": "Ille-et-Vilaine",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lozère",
+      "name": "Lozère",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manche",
+      "name": "Manche",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mayenne",
+      "name": "Mayenne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ariège",
+      "name": "Ariège",
+      "type": "constituency"
+    },
+    {
+      "id": "area/eure-et-loir",
+      "name": "Eure-et-Loir",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-marne",
+      "name": "Haute-Marne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ardennes",
+      "name": "Ardennes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/aveyron",
+      "name": "Aveyron",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gers",
+      "name": "Gers",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-loire",
+      "name": "Haute-Loire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/loiret",
+      "name": "Loiret",
+      "type": "constituency"
+    },
+    {
+      "id": "area/puy-de-dôme",
+      "name": "Puy-de-Dôme",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sarthe",
+      "name": "Sarthe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/territoire_de_belfort",
+      "name": "Territoire de Belfort",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hautes-alpes",
+      "name": "Hautes-Alpes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-corse",
+      "name": "Haute-Corse",
+      "type": "constituency"
+    },
+    {
+      "id": "area/côte-d'or",
+      "name": "Côte-d'Or",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hérault",
+      "name": "Hérault",
+      "type": "constituency"
+    },
+    {
+      "id": "area/indre-et-loire",
+      "name": "Indre-et-Loire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tarn",
+      "name": "Tarn",
+      "type": "constituency"
+    },
+    {
+      "id": "area/corse-du-sud",
+      "name": "Corse-du-Sud",
+      "type": "constituency"
+    },
+    {
+      "id": "area/yonne",
+      "name": "Yonne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/guadeloupe",
+      "name": "Guadeloupe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/alpes-de-haute-provence",
+      "name": "Alpes-de-Haute-Provence",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ardèche",
+      "name": "Ardèche",
+      "type": "constituency"
+    },
+    {
+      "id": "area/creuse",
+      "name": "Creuse",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vendée",
+      "name": "Vendée",
+      "type": "constituency"
+    },
+    {
+      "id": "area/allier",
+      "name": "Allier",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haute-saône",
+      "name": "Haute-Saône",
+      "type": "constituency"
+    },
+    {
+      "id": "area/saône-et-loire",
+      "name": "Saône-et-Loire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tarn-et-garonne",
+      "name": "Tarn-et-Garonne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vaucluse",
+      "name": "Vaucluse",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vienne",
+      "name": "Vienne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/guyane",
+      "name": "Guyane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/réunion",
+      "name": "Réunion",
+      "type": "constituency"
+    },
+    {
+      "id": "area/saint-pierre-et-miquelon",
+      "name": "Saint-Pierre-et-Miquelon",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lot-et-garonne",
+      "name": "Lot-et-Garonne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/morbihan",
+      "name": "Morbihan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pyrénées-orientales",
+      "name": "Pyrénées-Orientales",
+      "type": "constituency"
+    },
+    {
+      "id": "area/indre",
+      "name": "Indre",
+      "type": "constituency"
+    },
+    {
+      "id": "area/orne",
+      "name": "Orne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mayotte",
+      "name": "Mayotte",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nouvelle-calédonie",
+      "name": "Nouvelle-Calédonie",
+      "type": "constituency"
+    },
+    {
+      "id": "area/wallis-et-futuna",
+      "name": "Wallis-et-Futuna",
+      "type": "constituency"
+    },
+    {
+      "id": "area/saint-barthélemy_et_saint-martin",
+      "name": "Saint-Barthélemy et Saint-Martin",
       "type": "constituency"
     }
   ]
