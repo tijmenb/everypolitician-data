@@ -46,6 +46,37 @@ def fetch_missing
   end 
 end
 
+REMAP = {
+  area: %w(constituency region district place),
+  area_id: %w(constituency_id region_id district_id place_id),
+  biography: %w(bio blurb),
+  birth_date: %w(dob date_of_birth),
+  blog: %w(weblog),
+  cell: %w(mob mobile cellphone),
+  chamber: %w(house),
+  death_date: %w(dod date_of_death),
+  end_date: %w(end ended until to),
+  executive: %w(post),
+  family_name: %w(last_name surname lastname),
+  fax: %w(facsimile),
+  gender: %w(sex),
+  given_name: %w(first_name forename),
+  group: %w(party party_name faction faktion bloc block org organization organisation),
+  group_id: %w( party_id faction_id faktion_id bloc_id block_id org_id organization_id organisation_id),
+  image: %w(img picture photo photograph portrait),
+  name: %w(name_en),
+  patronymic_name: %w(patronym patronymic),
+  phone: %w(tel telephone),
+  source: %w(src),
+  start_date: %w(start started from since),
+  term: %w(legislative_period),
+  website: %w(homepage href url site),
+}
+def remap(str)
+  REMAP.find(->{[str]}) { |k, v| v.include? str.to_s }.first.to_sym
+end
+
+
 # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
 def combine_sources
 
@@ -55,7 +86,7 @@ def combine_sources
   }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
     puts "Headers from #{file}".cyan
     header_line = File.open(file, &:gets)     
-    all_headers | CSV.parse_line(header_line) 
+    all_headers | CSV.parse_line(header_line).map { |h| remap(h) } 
   end
 
   # First concat everything that's a "membership" (or default)
@@ -67,6 +98,7 @@ def combine_sources
     fuzzer = nil
     puts "Concat #{file}".cyan
     CSV.table(file).each do |row|
+      row.headers.each { |h| row[remap(h)] = row.delete(h).last }
       if src.key? :merge
         field = src[:merge][:field].to_sym
         if src[:merge][:approximate] 
@@ -100,6 +132,7 @@ def combine_sources
     field = (src[:merge][:field] || 'id').to_sym
     warn "Build by #{field}"
     CSV.table(file).each do |p|
+      p.headers.each { |h| p[remap(h)] = p.delete(h).last }
       if src[:merge][:approximate]
         fuzzer ||= FuzzyMatch.new(all_rows, read: field, must_match_at_least_one_word: true )
         found = fuzzer.find(p[field]) or warn "No match for #{p[field]}"
@@ -112,7 +145,7 @@ def combine_sources
         if src[:merge][:clobber]
           p.headers.each { |h| found[h] = p[h] unless p[h].to_s.empty? || p[h].to_s.downcase == 'unknown' }
         else
-          p.headers.each { |h| found[h] ||= p[h] }
+          p.headers.each { |h| found[h] = p[h] if found[h].to_s.empty? || found[h].to_s.downcase == 'unknown' }
         end
       end
     end
