@@ -3,6 +3,14 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership"
+    },
+    {
+      "file": "YNMP/winners.csv",
+      "type": "person",
+      "merge": { 
+        "field": "id",
+        "clobber": true
+      }
     }
   ]
 }

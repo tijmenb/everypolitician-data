@@ -105,7 +105,7 @@ def combine_sources
         found = fuzzer.find(p[field]) or warn "No match for #{p[field]}"
         puts "Matched #{p[field]} to #{found}".yellow if found
       else
-        found = all_rows.find { |r| r[field] == p[field] }.each 
+        found = all_rows.find { |r| r[field] == p[field] }
       end
 
       if found
