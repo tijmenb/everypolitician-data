@@ -4,7 +4,7 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 365,Agnes Weber,,,S,s,AG,National Council,45,,,,female
 185,Albrecht Rychen,,,V,v,BE,National Council,45,,,,male
 399,Alex Heim,,,C,c,SO,National Council,45,1997-09-29,,,male
-224,Alexander Tschäppät,,,S,s,BE,National Council,45,,,,male
+224,Alexander Tschäppät,,,S,s,BE,National Council,45,,,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alexander_Tschäppät.jpg,male
 105,Andrea Hämmerle,,,S,s,GR,National Council,45,,,,male
 97,Andreas Gross,,,S,s,ZH,National Council,45,,,,male
 109,Andreas Herczog,,,S,s,ZH,National Council,45,,,,male
@@ -22,13 +22,13 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 406,Charles-Albert Antille,,,R,r,VS,National Council,45,1998-04-27,,,male
 323,Christian Grobet,,,S,s,GE,National Council,45,,,,male
 356,Christian Speck,,,V,v,AG,National Council,45,,,,male
-396,Christian Waber,,,-,-,BE,National Council,45,1997-06-02,,,male
+396,Christian Waber,,,-,-,BE,National Council,45,1997-06-02,,https://upload.wikimedia.org/wikipedia/commons/1/15/Christian_Waber.jpg,male
 394,Christiane Jaquet-Berger,,,S,s,VD,National Council,45,1996-11-25,,,female
 280,Christiane Langenberger,,,R,r,VD,National Council,45,,,,female
 316,Christine Egerszegi-Obrist,,,R,r,AG,National Council,45,,,,female
 94,Christine Goll,,,S,s,ZH,National Council,45,,,,female
 402,Christine Keller,,,S,s,BS,National Council,45,1998-01-19,,,female
-21,Christoph Blocher,,,V,v,ZH,National Council,45,,,,male
+21,Christoph Blocher,,,V,v,ZH,National Council,45,,,"https://upload.wikimedia.org/wikipedia/commons/a/ab/Christoph_Blocher_(Bundesrat,_2004).jpg",male
 74,Christoph Eymann,,,L,l,BS,National Council,45,,,,male
 83,Claude Frey,,,R,r,NE,National Council,45,,,,male
 33,Cécile Bühlmann,,,G,g,LU,National Council,45,,,,female
@@ -52,7 +52,7 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 309,Franco Cavalli,,,S,s,TI,National Council,45,,,,male
 422,Franco Donati,,,C,c,TI,National Council,45,1998-12-07,,,male
 217,Franz Steinegger,,,R,r,UR,National Council,45,,,,male
-359,Franziska Teuscher,,,G,g,BE,National Council,45,,,,female
+359,Franziska Teuscher,,,G,g,BE,National Council,45,,,https://upload.wikimedia.org/wikipedia/commons/9/92/Franziska_Teuscher_(Grüne).jpg,female
 25,François Borel,,,S,s,NE,National Council,45,,,,male
 337,François Lachat,,,C,c,JU,National Council,45,,,,male
 135,François Loeb,,,R,r,BE,National Council,45,,,,male
@@ -83,7 +83,7 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 338,Hubert Lauper,,,C,c,FR,National Council,45,,,,male
 76,Hugo Fasel,,,G,g,FR,National Council,45,,,,male
 304,J. Alexander Baumann,,,V,v,TG,National Council,45,,,,male
-405,Jacqueline Fehr,,,S,s,ZH,National Council,45,1998-04-27,,,female
+405,Jacqueline Fehr,,,S,s,ZH,National Council,45,1998-04-27,,https://upload.wikimedia.org/wikipedia/commons/3/3b/Jacqueline_Fehr_(2007).jpg,female
 70,Jacques-Simon Eggly,,,L,l,GE,National Council,45,,,,male
 322,Jakob Freund,,,V,v,AR,National Council,45,,,,male
 210,Jean Spielmann,,,S,s,GE,National Council,45,,,,male
@@ -115,7 +115,7 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 156,Lili Nabholz,,,R,r,ZH,National Council,45,,,,female
 341,Liliane Maury Pasquier,,,S,s,GE,National Council,45,,,,female
 77,Lisbeth Fehr,,,V,v,ZH,National Council,45,,,,female
-214,Luzi Stamm,,,R,r,AG,National Council,45,,,,male
+214,Luzi Stamm,,,R,r,AG,National Council,45,,,https://upload.wikimedia.org/wikipedia/commons/a/a9/Luzi_Stamm_(2007).jpg,male
 6,Manfred Aregger,,,R,r,LU,National Council,45,,,,male
 221,Marc Frédéric Suter,,,R,r,BE,National Council,45,,,,male
 351,Marcel Sandoz,,,R,r,VD,National Council,45,,,,male
@@ -126,7 +126,7 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 167,Massimo Pini,,,F,f,TI,National Council,45,1999-03-17,,,male
 15,Max Binder,,,V,v,ZH,National Council,45,,,,male
 66,Max Dünki,,,U,u,ZH,National Council,45,1999-04-20,,,male
-173,Maximilian Reimann,,,V,v,AG,National Council,45,,1995-12-10,,male
+173,Maximilian Reimann,,,V,v,AG,National Council,45,,1995-12-10,https://upload.wikimedia.org/wikipedia/commons/0/04/Maximilian_reimann.jpg,male
 317,Melchior Ehrler,,,C,c,AG,National Council,45,,,,male
 64,Michael E. Dreher,,,F,f,ZH,National Council,45,,,,male
 246,Michel Béguelin,,,S,s,VD,National Council,45,,,,male
@@ -196,10 +196,10 @@ id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image
 60,Toni Dettling,,,R,r,SZ,National Council,45,,,,male
 315,Toni Eberhard,,,C,c,SZ,National Council,45,,,,male
 107,Trix Heberlein,,,R,r,ZH,National Council,45,1998-11-30,,,female
-146,Ueli Maurer,,,V,v,ZH,National Council,45,,,,male
+146,Ueli Maurer,,,V,v,ZH,National Council,45,,,"https://upload.wikimedia.org/wikipedia/commons/a/ac/Ueli_Maurer,_2010.jpg",male
 81,Ulrich Fischer,,,R,r,AG,National Council,45,,,,male
-91,Ulrich Giezendanner,,,V,v,AG,National Council,45,1996-06-03,,,male
-352,Ulrich Schlüer,,,V,v,ZH,National Council,45,,,,male
+91,Ulrich Giezendanner,,,V,v,AG,National Council,45,1996-06-03,,https://upload.wikimedia.org/wikipedia/commons/5/51/Ulrich_Giezendanner_(2013).jpg,male
+352,Ulrich Schlüer,,,V,v,ZH,National Council,45,,,https://upload.wikimedia.org/wikipedia/commons/e/ec/Ulrich_Schlüer.jpg,male
 11,Ursula Bäumlin,,,S,s,BE,National Council,45,,1998-12-15,,female
 103,Ursula Hafner,,,S,s,SH,National Council,45,,,,female
 130,Ursula Leemann,,,S,s,ZH,National Council,45,,,,female
