@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/switzerland-parlament",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://ws.parlament.ch",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/switzerland-national-assembly-wikidata",
+        "query": "SELECT *, id AS wikidata, identifier__parlamentDOTch AS id FROM data"
+      },
+      "source": "https://www.wikidata.org/",
+      "type": "person",
+      "merge": { 
+        "field": "id",
+        "clobber": false
+      }
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/switzerland-parlament",
+        "query": "SELECT * FROM terms"
+      },
+      "type": "term"
+    }
+  ]
+}
