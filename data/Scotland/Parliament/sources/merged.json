@@ -1061,16 +1061,6 @@
           "classification": "legislative period",
           "id": "term/4",
           "name": "4"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/term/1",
-          "name": "term/1"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/term/2",
-          "name": "term/2"
         }
       ],
       "name": "Legislature"
@@ -1658,7 +1648,7 @@
         "name": "Lothians"
       },
       "end_date": "2003-05-06",
-      "legislative_period_id": "term/term/1",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "none",
       "organization_id": "legislature",
       "person_id": "person/13337",
@@ -6203,7 +6193,7 @@
         "name": "Ochil"
       },
       "end_date": "2007-05-14",
-      "legislative_period_id": "term/term/2",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "none",
       "organization_id": "legislature",
       "person_id": "person/14084",

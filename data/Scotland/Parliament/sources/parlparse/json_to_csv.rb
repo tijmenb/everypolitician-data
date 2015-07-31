@@ -25,9 +25,9 @@ file = '../../../../UK/Commons/sources/parlparse/twfy.json'
 posts = @json[:posts].find_all { |p| p[:organization_id] == 'scottish-parliament' }
 
 # David Steel as Presiding Officer
-@json[:memberships].find { |m| m[:id] == 'uk.org.publicwhip/member/80277' }[:legislative_period_id] = 'term/1'
+@json[:memberships].find { |m| m[:id] == 'uk.org.publicwhip/member/80277' }[:legislative_period_id] = '1'
 # George Reid as Presiding Officer
-@json[:memberships].find { |m| m[:id] == 'uk.org.publicwhip/member/80272' }[:legislative_period_id] = 'term/2'
+@json[:memberships].find { |m| m[:id] == 'uk.org.publicwhip/member/80272' }[:legislative_period_id] = '2'
 
 #----------
 
