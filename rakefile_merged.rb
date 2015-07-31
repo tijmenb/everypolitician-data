@@ -8,6 +8,7 @@ require 'json'
 require 'open-uri'
 require 'pry'
 require 'rake/clean'
+require 'set'
 
 def json_load(file)
   return unless File.exist? file
@@ -123,31 +124,45 @@ def combine_sources
     end
   end
 
-  # Then merge in Person files
-  @instructions[:sources].find_all { |src| 
-    src[:type].to_s.downcase == 'person' 
-  }.each do |src|
-    file = src[:file]
-    puts "Merging #{file}".magenta
-    field = (src[:merge][:field] || 'id').to_sym
-    warn "Build by #{field}"
-    CSV.table(file).each do |p|
-      p.headers.each { |h| p[remap(h)] = p.delete(h).last }
-      if src[:merge][:approximate]
-        fuzzer ||= FuzzyMatch.new(all_rows, read: field, must_match_at_least_one_word: true )
-        found = fuzzer.find(p[field]) or warn "No match for #{p[field]}"
-        puts "Matched #{p[field]} (#{p[:id]}) to #{found[field]}".yellow if found && p[field] != found[field]
-      else
-        found = all_rows.find { |r| r[field] == p[field] } or warn "No matches for #{p[field]}"
-      end
+  # Then merge with Wikidata files
+  if @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
+    raise "No longer handle 'person' files. Perhaps you want a 'Wikidata' source?"
+  end
 
-      if found
-        if src[:merge][:clobber]
-          p.headers.each { |h| found[h] = p[h] unless p[h].to_s.empty? || p[h].to_s.downcase == 'unknown' }
-        else
-          p.headers.each { |h| found[h] = p[h] if found[h].to_s.empty? || found[h].to_s.downcase == 'unknown' }
+  if wd = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'wikidata' }
+    puts "Merging with Wikidata #{wd[:file]}".magenta
+
+    # Can merge either by a specified ID key, or on names
+    raise "Need a Merge field" unless wd.key?(:merge) and wd[:merge].key?(:field)
+    match_field = wd[:merge][:field].to_sym
+    warn "Match by #{match_field}"
+
+    wikidata = CSV.table(wd[:file])
+    if match_field == :name
+      fuzzer = FuzzyMatch.new(wikidata, read: :name, must_match_at_least_one_word: true )
+
+      wd_by_id = ->(id) { 
+        return unless id
+        wikidata.find { |r| r[:id] == id } 
+      }
+
+      override = ->(name) { 
+        return unless wd[:merge].key? :overrides
+        wd_by_id.( wd[:merge][:overrides][name.to_sym] )
+      }
+
+      all_rows.each do |r|
+        unless wd_match = override.(r[:name]) || fuzzer.find(r[:name]) 
+          warn "No Wikidata match for #{r[:name]}"
+          next
         end
+        # TODO: add as other_name
+        warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".yellow if wd_match && wd_match[:name] != r[:name]
+        # Merge it in (non-destructively)
+        wd_match.headers.each { |h| r[h] = wd_match[h] if r[h].to_s.empty? || r[h].to_s.downcase == 'unknown' }
       end
+    else
+      raise "Merging by ID not yet implemented yet"
     end
   end
 

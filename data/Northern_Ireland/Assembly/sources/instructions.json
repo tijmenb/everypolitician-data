@@ -6,6 +6,22 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/ni-assembly-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "name",
+        "overrides": {
+          "Ian Paisley Jnr": "Q575881"
+        }
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
