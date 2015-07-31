@@ -2167,6 +2167,32 @@
     ]
   },
   {
+    "name": "Ireland",
+    "country": "Ireland",
+    "code": "IE",
+    "slug": "Ireland",
+    "legislatures": [
+      {
+        "name": "Dáil Éireann",
+        "slug": "Dail",
+        "sources_directory": "data/Ireland/Dail/sources",
+        "popolo": "data/Ireland/Dail/ep-popolo-v1.0.json",
+        "lastmod": "1438291080",
+        "person_count": 167,
+        "sha": "f54954b",
+        "legislative_periods": [
+          {
+            "id": "term/31",
+            "name": "31st Dáil",
+            "start_date": "2011-03-09",
+            "slug": "31",
+            "csv": "data/Ireland/Dail/term-31.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Italy",
     "country": "Italy",
     "code": "IT",
