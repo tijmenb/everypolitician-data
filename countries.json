@@ -3490,9 +3490,9 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1438354173",
+        "lastmod": "1438355276",
         "person_count": 254,
-        "sha": "ac5d420",
+        "sha": "681923f",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -3511,27 +3511,11 @@
           },
           {
             "end_date": "2007-04-02",
-            "id": "term/term/2",
-            "name": "2nd Parliament",
-            "start_date": "2003-05-01",
-            "slug": "2",
-            "csv": "data/Scotland/Parliament/term-2.csv"
-          },
-          {
-            "end_date": "2007-04-02",
             "id": "term/2",
             "name": "2nd Parliament",
             "start_date": "2003-05-01",
             "slug": "2",
             "csv": "data/Scotland/Parliament/term-2.csv"
-          },
-          {
-            "end_date": "2003-03-31",
-            "id": "term/term/1",
-            "name": "1st Parliament",
-            "start_date": "1999-05-06",
-            "slug": "1",
-            "csv": "data/Scotland/Parliament/term-1.csv"
           },
           {
             "end_date": "2003-03-31",
