@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/norway-stortinget",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://data.stortinget.no/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/norway-stortinget",
+        "query": "SELECT * FROM terms"
+      },
+      "type": "term"
+    }
+  ]
+}

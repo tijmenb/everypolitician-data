@@ -3247,6 +3247,169 @@
     ]
   },
   {
+    "name": "Norway",
+    "country": "Norway",
+    "code": "NO",
+    "slug": "Norway",
+    "legislatures": [
+      {
+        "name": "Storting",
+        "slug": "Storting",
+        "sources_directory": "data/Norway/Storting/sources",
+        "popolo": "data/Norway/Storting/ep-popolo-v1.0.json",
+        "lastmod": "1438411323",
+        "person_count": 1141,
+        "sha": "66eaf56",
+        "legislative_periods": [
+          {
+            "end_date": "2017-09-30",
+            "id": "term/2013-2017",
+            "name": "2013-2017",
+            "start_date": "2013-10-01",
+            "slug": "2013-2017",
+            "csv": "data/Norway/Storting/term-2013-2017.csv"
+          },
+          {
+            "end_date": "2013-09-30",
+            "id": "term/2009-2013",
+            "name": "2009-2013",
+            "start_date": "2009-10-01",
+            "slug": "2009-2013",
+            "csv": "data/Norway/Storting/term-2009-2013.csv"
+          },
+          {
+            "end_date": "2009-09-30",
+            "id": "term/2005-2009",
+            "name": "2005-2009",
+            "start_date": "2005-10-01",
+            "slug": "2005-2009",
+            "csv": "data/Norway/Storting/term-2005-2009.csv"
+          },
+          {
+            "end_date": "2005-09-30",
+            "id": "term/2001-2005",
+            "name": "2001-2005",
+            "start_date": "2001-10-01",
+            "slug": "2001-2005",
+            "csv": "data/Norway/Storting/term-2001-2005.csv"
+          },
+          {
+            "end_date": "2001-09-30",
+            "id": "term/1997-2001",
+            "name": "1997-2001",
+            "start_date": "1997-10-01",
+            "slug": "1997-2001",
+            "csv": "data/Norway/Storting/term-1997-2001.csv"
+          },
+          {
+            "end_date": "1997-09-30",
+            "id": "term/1993-97",
+            "name": "1993-97",
+            "start_date": "1993-10-01",
+            "slug": "1993-97",
+            "csv": "data/Norway/Storting/term-1993-97.csv"
+          },
+          {
+            "end_date": "1993-09-30",
+            "id": "term/1989-93",
+            "name": "1989-93",
+            "start_date": "1989-10-01",
+            "slug": "1989-93",
+            "csv": "data/Norway/Storting/term-1989-93.csv"
+          },
+          {
+            "end_date": "1989-09-30",
+            "id": "term/1985-89",
+            "name": "1985-89",
+            "start_date": "1985-10-01",
+            "slug": "1985-89",
+            "csv": "data/Norway/Storting/term-1985-89.csv"
+          },
+          {
+            "end_date": "1985-09-30",
+            "id": "term/1981-85",
+            "name": "1981-85",
+            "start_date": "1981-10-01",
+            "slug": "1981-85",
+            "csv": "data/Norway/Storting/term-1981-85.csv"
+          },
+          {
+            "end_date": "1981-09-30",
+            "id": "term/1977-81",
+            "name": "1977-81",
+            "start_date": "1977-10-01",
+            "slug": "1977-81",
+            "csv": "data/Norway/Storting/term-1977-81.csv"
+          },
+          {
+            "end_date": "1977-09-30",
+            "id": "term/1973-77",
+            "name": "1973-77",
+            "start_date": "1973-10-01",
+            "slug": "1973-77",
+            "csv": "data/Norway/Storting/term-1973-77.csv"
+          },
+          {
+            "end_date": "1973-09-30",
+            "id": "term/1969-73",
+            "name": "1969-73",
+            "start_date": "1969-10-01",
+            "slug": "1969-73",
+            "csv": "data/Norway/Storting/term-1969-73.csv"
+          },
+          {
+            "end_date": "1969-09-30",
+            "id": "term/1965-69",
+            "name": "1965-69",
+            "start_date": "1965-10-01",
+            "slug": "1965-69",
+            "csv": "data/Norway/Storting/term-1965-69.csv"
+          },
+          {
+            "end_date": "1965-09-30",
+            "id": "term/1961-65",
+            "name": "1961-65",
+            "start_date": "1961-10-01",
+            "slug": "1961-65",
+            "csv": "data/Norway/Storting/term-1961-65.csv"
+          },
+          {
+            "end_date": "1961-09-30",
+            "id": "term/1958-61",
+            "name": "1958-61",
+            "start_date": "1958-01-11",
+            "slug": "1958-61",
+            "csv": "data/Norway/Storting/term-1958-61.csv"
+          },
+          {
+            "end_date": "1958-01-10",
+            "id": "term/1954-57",
+            "name": "1954-57",
+            "start_date": "1954-01-11",
+            "slug": "1954-57",
+            "csv": "data/Norway/Storting/term-1954-57.csv"
+          },
+          {
+            "end_date": "1954-01-10",
+            "id": "term/1950-53",
+            "name": "1950-53",
+            "start_date": "1950-01-11",
+            "slug": "1950-53",
+            "csv": "data/Norway/Storting/term-1950-53.csv"
+          },
+          {
+            "end_date": "1950-01-10",
+            "id": "term/1945-49",
+            "name": "1945-49",
+            "start_date": "1945-12-04",
+            "slug": "1945-49",
+            "csv": "data/Norway/Storting/term-1945-49.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Pakistan",
     "country": "Pakistan",
     "code": "PK",
