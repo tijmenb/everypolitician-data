@@ -11,6 +11,25 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/new-caledonia-mps-wp",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "name",
+        "overrides": {
+          "Philippe Blaise": "",
+          "Isabelle Kaloi-Bearune": "",
+          "Louis Mapou": "",
+          "Dominique Mole": ""
+        }
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
