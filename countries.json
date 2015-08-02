@@ -3119,6 +3119,32 @@
     ]
   },
   {
+    "name": "New Caledonia",
+    "country": "New Caledonia",
+    "code": "NC",
+    "slug": "New-Caledonia",
+    "legislatures": [
+      {
+        "name": "Congress",
+        "slug": "Congress",
+        "sources_directory": "data/New_Caledonia/Congress/sources",
+        "popolo": "data/New_Caledonia/Congress/ep-popolo-v1.0.json",
+        "lastmod": "1438517827",
+        "person_count": 54,
+        "sha": "0d3c60c",
+        "legislative_periods": [
+          {
+            "id": "term/4",
+            "name": "4e mandat",
+            "start_date": "2014",
+            "slug": "4",
+            "csv": "data/New_Caledonia/Congress/term-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "New Zealand",
     "country": "New Zealand",
     "code": "NZ",
