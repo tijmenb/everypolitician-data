@@ -148,6 +148,7 @@ def combine_sources
 
       override = ->(name) { 
         return unless wd[:merge].key? :overrides
+        return '' if wd[:merge][:overrides][name.to_sym]
         wd_by_id.( wd[:merge][:overrides][name.to_sym] )
       }
 
@@ -156,6 +157,12 @@ def combine_sources
           warn "No Wikidata match for #{r[:name]}"
           next
         end
+
+        if wd_match == ''
+          warn "Override skip for #{r[:name]}"
+          next
+        end
+
         # TODO: add as other_name
         warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".yellow if wd_match && wd_match[:name] != r[:name]
         # Merge it in (non-destructively)
