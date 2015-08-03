@@ -247,6 +247,32 @@
     ]
   },
   {
+    "name": "Azerbaijan",
+    "country": "Azerbaijan",
+    "code": "AZ",
+    "slug": "Azerbaijan",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Azerbaijan/National_Assembly/sources",
+        "popolo": "data/Azerbaijan/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1438612947",
+        "person_count": 125,
+        "sha": "16b0113",
+        "legislative_periods": [
+          {
+            "id": "term/4",
+            "name": "IV çağırış",
+            "start_date": "2010",
+            "slug": "4",
+            "csv": "data/Azerbaijan/National_Assembly/term-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bangladesh",
     "country": "Bangladesh",
     "code": "BD",
