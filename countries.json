@@ -3299,6 +3299,32 @@
     ]
   },
   {
+    "name": "Northern Mariana Islands",
+    "country": "Northern Mariana Islands",
+    "code": "MP",
+    "slug": "Northern-Mariana-Islands",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/Northern_Mariana_Islands/House/sources",
+        "popolo": "data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json",
+        "lastmod": "1438687785",
+        "person_count": 20,
+        "sha": "4f45ae5",
+        "legislative_periods": [
+          {
+            "id": "term/19",
+            "name": "19th Commonwealth Legislature",
+            "start_date": "2014",
+            "slug": "19",
+            "csv": "data/Northern_Mariana_Islands/House/term-19.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Norway",
     "country": "Norway",
     "code": "NO",
