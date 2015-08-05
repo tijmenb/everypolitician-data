@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/poland-sejm-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://pl.wikipedia.org/wiki/Sejm_Rzeczypospolitej_Polskiej",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
