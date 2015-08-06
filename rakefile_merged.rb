@@ -87,7 +87,7 @@ def combine_sources
   }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
     puts "Headers from #{file}".cyan
     header_line = File.open(file, &:gets)     
-    all_headers | CSV.parse_line(header_line).map { |h| remap(h) } 
+    all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
   end
 
   # First concat everything that's a "membership" (or default)
