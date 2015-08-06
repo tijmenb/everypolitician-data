@@ -1563,6 +1563,33 @@
     ]
   },
   {
+    "name": "Georgia",
+    "country": "Georgia",
+    "code": "GE",
+    "slug": "Georgia",
+    "legislatures": [
+      {
+        "name": "Parliament of Georgia",
+        "slug": "Parliament",
+        "sources_directory": "data/Georgia/Parliament/sources",
+        "popolo": "data/Georgia/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1438859779",
+        "person_count": 148,
+        "sha": "7a34e0e",
+        "legislative_periods": [
+          {
+            "end_date": "2016-10-01",
+            "id": "term/8",
+            "name": "8th Convocation",
+            "start_date": "2012-10-20",
+            "slug": "8",
+            "csv": "data/Georgia/Parliament/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Germany",
     "country": "Germany",
     "code": "DE",
