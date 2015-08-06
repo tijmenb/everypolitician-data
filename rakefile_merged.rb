@@ -152,7 +152,7 @@ def combine_sources
       return unless wd[:merge].key? :overrides
       return unless override_id = wd[:merge][:overrides][name.to_sym] 
       return '' if override_id.empty?
-      wd_by_id.( override_id )
+      wd_by_id.( override_id ) || "" # override to an ID that we don't have. TODO warn
     }
 
     if match_field == :name
