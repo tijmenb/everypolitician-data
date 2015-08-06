@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "duncanparkes/welsh_assembly_members",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/duncanparkes/welsh_assembly_members",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
