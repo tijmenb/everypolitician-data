@@ -125,9 +125,9 @@ def combine_sources
   end
 
   # Then merge with Wikidata files
-  # Only approach supported so far:
+  # Two approaches supported so far:
   #    merge by name, with fuzzy matching
-  #    TODO: merge by a field being a Wikidata ID
+  #    merge by some other field being the Wikidata ID
   #    TODO: merge by a field being a Wikipedia URL or Title
   if @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
     raise "No longer handle 'person' files. Perhaps you want a 'Wikidata' source?"
@@ -159,7 +159,7 @@ def combine_sources
       fuzzer = FuzzyMatch.new(wikidata, read: :name, must_match_at_least_one_word: true )
       finder = ->(r) { fuzzer.find(r[:name]) }
     else 
-      raise "no other ways of matching implemented yet"
+      finder = ->(r) { wikidata.find { |wd| wd[:id] == r[match_field] } }
     end
 
     all_rows.each do |r|
