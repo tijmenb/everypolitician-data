@@ -11,6 +11,19 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/poland-sejm-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "wikidata"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
