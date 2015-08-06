@@ -125,6 +125,10 @@ def combine_sources
   end
 
   # Then merge with Wikidata files
+  # Only approach supported so far:
+  #    merge by name, with fuzzy matching
+  #    TODO: merge by a field being a Wikidata ID
+  #    TODO: merge by a field being a Wikipedia URL or Title
   if @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
     raise "No longer handle 'person' files. Perhaps you want a 'Wikidata' source?"
   end
@@ -138,38 +142,42 @@ def combine_sources
     warn "Match by #{match_field}"
 
     wikidata = CSV.table(wd[:file])
+
+    wd_by_id = ->(id) { 
+      return unless id
+      wikidata.find { |r| r[:id] == id } 
+    }
+
+    override = ->(name) { 
+      return unless wd[:merge].key? :overrides
+      return unless override_id = wd[:merge][:overrides][name.to_sym] 
+      return '' if override_id.empty?
+      wd_by_id.( override_id )
+    }
+
     if match_field == :name
       fuzzer = FuzzyMatch.new(wikidata, read: :name, must_match_at_least_one_word: true )
+      finder = ->(r) { fuzzer.find(r[:name]) }
+    else 
+      raise "no other ways of matching implemented yet"
+    end
 
-      wd_by_id = ->(id) { 
-        return unless id
-        wikidata.find { |r| r[:id] == id } 
-      }
-
-      override = ->(name) { 
-        return unless wd[:merge].key? :overrides
-        return '' if wd[:merge][:overrides][name.to_sym]
-        wd_by_id.( wd[:merge][:overrides][name.to_sym] )
-      }
-
-      all_rows.each do |r|
-        unless wd_match = override.(r[:name]) || fuzzer.find(r[:name]) 
-          warn "No Wikidata match for #{r[:name]}"
-          next
-        end
-
-        if wd_match == ''
-          warn "Override skip for #{r[:name]}"
-          next
-        end
-
-        # TODO: add as other_name
-        warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".yellow if wd_match && wd_match[:name] != r[:name]
-        # Merge it in (non-destructively)
-        wd_match.headers.each { |h| r[h] = wd_match[h] if r[h].to_s.empty? || r[h].to_s.downcase == 'unknown' }
+    all_rows.each do |r|
+      unless wd_match = override.(r[:name]) || finder.(r) 
+        warn "No Wikidata match for #{r[:name]}"
+        next
       end
-    else
-      raise "Merging by ID not yet implemented yet"
+
+      if wd_match == ''
+        warn "Override skip for #{r[:name]}"
+        next
+      end
+
+      # TODO: add as other_name
+      warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".yellow if wd_match && wd_match[:name] != r[:name]
+
+      # Merge it in (non-destructively)
+      wd_match.headers.each { |h| r[h] = wd_match[h] if r[h].to_s.empty? || r[h].to_s.downcase == 'unknown' }
     end
   end
 
