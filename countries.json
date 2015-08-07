@@ -951,9 +951,9 @@
         "slug": "Parliament",
         "sources_directory": "data/Cook_Islands/Parliament/sources",
         "popolo": "data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1437821367",
+        "lastmod": "1438935207",
         "person_count": 47,
-        "sha": "673ea6b",
+        "sha": "f17f5c0",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -1600,9 +1600,9 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "lastmod": "1436864729",
-        "person_count": 643,
-        "sha": "83c8b0f",
+        "lastmod": "1438953807",
+        "person_count": 3809,
+        "sha": "e9ef9af",
         "legislative_periods": [
           {
             "id": "term/18",
@@ -1610,6 +1610,142 @@
             "start_date": "2013-10-22",
             "slug": "18",
             "csv": "data/Germany/Bundestag/term-18.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/17",
+            "name": "17th Bundestag",
+            "start_date": "2009",
+            "slug": "17",
+            "csv": "data/Germany/Bundestag/term-17.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/16",
+            "name": "16th Bundestag",
+            "start_date": "2005",
+            "slug": "16",
+            "csv": "data/Germany/Bundestag/term-16.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/15",
+            "name": "15th Bundestag",
+            "start_date": "2002",
+            "slug": "15",
+            "csv": "data/Germany/Bundestag/term-15.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/14",
+            "name": "14th Bundestag",
+            "start_date": "1998",
+            "slug": "14",
+            "csv": "data/Germany/Bundestag/term-14.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/13",
+            "name": "13th Bundestag",
+            "start_date": "1994",
+            "slug": "13",
+            "csv": "data/Germany/Bundestag/term-13.csv"
+          },
+          {
+            "end_date": "1994",
+            "id": "term/12",
+            "name": "12th Bundestag",
+            "start_date": "1990",
+            "slug": "12",
+            "csv": "data/Germany/Bundestag/term-12.csv"
+          },
+          {
+            "end_date": "1990",
+            "id": "term/11",
+            "name": "11th Bundestag",
+            "start_date": "1987",
+            "slug": "11",
+            "csv": "data/Germany/Bundestag/term-11.csv"
+          },
+          {
+            "end_date": "1987",
+            "id": "term/10",
+            "name": "10th Bundestag",
+            "start_date": "1983",
+            "slug": "10",
+            "csv": "data/Germany/Bundestag/term-10.csv"
+          },
+          {
+            "end_date": "1983",
+            "id": "term/9",
+            "name": "9th Bundestag",
+            "start_date": "1980",
+            "slug": "9",
+            "csv": "data/Germany/Bundestag/term-9.csv"
+          },
+          {
+            "end_date": "1980",
+            "id": "term/8",
+            "name": "8th Bundestag",
+            "start_date": "1976",
+            "slug": "8",
+            "csv": "data/Germany/Bundestag/term-8.csv"
+          },
+          {
+            "end_date": "1976",
+            "id": "term/7",
+            "name": "7th Bundestag",
+            "start_date": "1972",
+            "slug": "7",
+            "csv": "data/Germany/Bundestag/term-7.csv"
+          },
+          {
+            "end_date": "1972",
+            "id": "term/6",
+            "name": "6th Bundestag",
+            "start_date": "1969",
+            "slug": "6",
+            "csv": "data/Germany/Bundestag/term-6.csv"
+          },
+          {
+            "end_date": "1969",
+            "id": "term/5",
+            "name": "5th Bundestag",
+            "start_date": "1965",
+            "slug": "5",
+            "csv": "data/Germany/Bundestag/term-5.csv"
+          },
+          {
+            "end_date": "1965",
+            "id": "term/4",
+            "name": "4th Bundestag",
+            "start_date": "1961",
+            "slug": "4",
+            "csv": "data/Germany/Bundestag/term-4.csv"
+          },
+          {
+            "end_date": "1961",
+            "id": "term/3",
+            "name": "3rd Bundestag",
+            "start_date": "1957",
+            "slug": "3",
+            "csv": "data/Germany/Bundestag/term-3.csv"
+          },
+          {
+            "end_date": "1957",
+            "id": "term/2",
+            "name": "2nd Bundestag",
+            "start_date": "1953",
+            "slug": "2",
+            "csv": "data/Germany/Bundestag/term-2.csv"
+          },
+          {
+            "end_date": "1953",
+            "id": "term/1",
+            "name": "1st Bundestag",
+            "start_date": "1949",
+            "slug": "1",
+            "csv": "data/Germany/Bundestag/term-1.csv"
           }
         ]
       }
