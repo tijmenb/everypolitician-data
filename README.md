@@ -22,7 +22,20 @@ This document is for developers actively working _on_ the project, rather than c
 
 ### The simple Morph.io version
 
-(to come)
+If all the data you need is coming from a Morph scraper, then all you need is
+
+1. A single line `Rakefile.rb`
+
+  This should contain only ```require_relative '../../../rakefile_morph.rb'```
+
+2. A `sources/morph/instructions.json` file pointing at the scraper. This must contain two elements: 
+
+    1. The `source`: a Morph path, e.g. `tmtmtmtm/malawi-parliament` (for https://morph.io/tmtmtmtm/malawi-parliament)
+    2. `fetch_terms`: whether Morph also contains a `terms` table with information on the legislative periods
+
+    See [Malawi](https://github.com/everypolitician/everypolitician-data/blob/master/data/Malawi/Assembly/sources/morph/instructions.json) for an example.
+
+3. If `fetch_terms` is false, you should also provide a `sources/local/terms.csv` file providing information on all legislative periods for which you have membership information. This should contain `id`, `name`, `start_date`, `end_date`, and `source` columns. See the [Cook Islands](https://github.com/everypolitician/everypolitician-data/blob/master/data/Cook_Islands/Parliament/sources/manual/terms.csv) for an example.
 
 ### The more flexible, but more convoluted new version
 
