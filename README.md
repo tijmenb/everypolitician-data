@@ -1,6 +1,6 @@
 # everypolitician-data
 
-This repo contains the data that powers [EveryPolitician.org](http://everypolitician.org/), and other sites such as [Gender-Balance.org](gender-balance.org)
+This repo contains the data powering [EveryPolitician.org](http://everypolitician.org/), and other sites such as [Gender-Balance.org](gender-balance.org)
 
 Information on how to _use_ the data can be found at http://everypolitician.org/technical.html, and high-level information about how to contribute is at http://everypolitician.org/contribute.html
 
@@ -39,7 +39,19 @@ If all the data you need is coming from a Morph scraper, then all you need is
 
 ### The more flexible, but more convoluted new version
 
-(to come)
+If data is coming from multiple different sources, you need to jump through a few more hoops. This way is almost certainly going to replace the previous approach, but it hasn’t been streamlined as much as much yet, so unless you actually need the merge functionality this provides, it's easier to stick with the first one for now, as we'll be able to automatically migrate to this later.
+
+1. A single line `Rakefile.rb`
+
+  This version contains only ```require_relative '../../../rakefile_local.rb’```
+
+2. A single line `sources/Rakefile.rb`
+
+  ```require_relative '../../../../rakefile_merged.rb'```
+
+3. A `sources/instructions.json` file listing the data sources, and how to combine them. Proper documentation on this will follow later, but [Northern Ireland](https://github.com/everypolitician/everypolitician-data/blob/master/data/Northern_Ireland/Assembly/sources/instructions.json) is a reasonably good example to work from. 
+
+(NB: Because of the way we currently inject this workflow into a pre-existing one, you have to jump through an extra hoop to build it, running `bundle exec rake` from within the `sources` directory *first*, before moving on to the normal build process (below). This step will disappear once we finish migrating the last few scrapers that don’t fit the new workflow, then we can simplify this approach significantly and make it the default.) 
 
 ## Building the data for a legislature
 
