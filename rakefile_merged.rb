@@ -99,7 +99,10 @@ def combine_sources
     fuzzer = nil
     puts "Concat #{file}".cyan
     CSV.table(file).each do |row|
-      row.headers.each { |h| row[remap(h)] = row.delete(h).last }
+      # Need to make a copy in case there are multiple source columns
+      # mapping to the same term (e.g. with areas)
+      row = Hash[ row.headers.each.map { |h| [ remap(h), row[h] ] } ]
+
       if src.key? :merge
         field = src[:merge][:field].to_sym
         if src[:merge][:approximate] 
@@ -126,8 +129,10 @@ def combine_sources
 
   # Then merge with Wikidata files
   # Two approaches supported so far:
-  #    merge by name, with fuzzy matching
-  #    merge by some other field being the Wikidata ID
+  #    field: 'name':    merge by name, with fuzzy matching
+  #    field: '<other>': merge by some other local field = the Wikidata ID
+  #      match_on: the field in Wikidata to match with the local
+  #
   #    TODO: merge by a field being a Wikipedia URL or Title
   if @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
     raise "No longer handle 'person' files. Perhaps you want a 'Wikidata' source?"
@@ -159,7 +164,8 @@ def combine_sources
       fuzzer = FuzzyMatch.new(wikidata, read: :name, must_match_at_least_one_word: true )
       finder = ->(r) { fuzzer.find(r[:name]) }
     else 
-      finder = ->(r) { wikidata.find { |wd| wd[:id] == r[match_field] } }
+      match_on = (wd[:merge][:match_on] || 'id').to_sym
+      finder = ->(r) { wikidata.find { |d| d[match_on] == r[match_field] } }
     end
 
     all_rows.each do |r|
