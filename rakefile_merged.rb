@@ -99,7 +99,10 @@ def combine_sources
     fuzzer = nil
     puts "Concat #{file}".cyan
     CSV.table(file).each do |row|
-      row.headers.each { |h| row[remap(h)] = row.delete(h).last }
+      # Need to make a copy in case there are multiple source columns
+      # mapping to the same term (e.g. with areas)
+      row = Hash[ row.headers.each.map { |h| [ remap(h), row[h] ] } ]
+
       if src.key? :merge
         field = src[:merge][:field].to_sym
         if src[:merge][:approximate] 
