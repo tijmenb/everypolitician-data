@@ -1299,6 +1299,80 @@
     ]
   },
   {
+    "name": "Faroe Islands",
+    "country": "Faroe Islands",
+    "code": "FO",
+    "slug": "Faroe-Islands",
+    "legislatures": [
+      {
+        "name": "Løgting",
+        "slug": "Logting",
+        "sources_directory": "data/Faroe_Islands/Logting/sources",
+        "popolo": "data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
+        "lastmod": "1439031358",
+        "person_count": 99,
+        "sha": "8c822d9",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "Løgting 2011–",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Faroe_Islands/Logting/term-2011.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/2008",
+            "name": "Løgting 2008–2011",
+            "start_date": "2008",
+            "slug": "2008",
+            "csv": "data/Faroe_Islands/Logting/term-2008.csv"
+          },
+          {
+            "end_date": "2008",
+            "id": "term/2004",
+            "name": "Løgting 2004–2008",
+            "start_date": "2004",
+            "slug": "2004",
+            "csv": "data/Faroe_Islands/Logting/term-2004.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/2002",
+            "name": "Løgting 2002–2004",
+            "start_date": "2002",
+            "slug": "2002",
+            "csv": "data/Faroe_Islands/Logting/term-2002.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/1998",
+            "name": "Løgting 1998–2002",
+            "start_date": "1998",
+            "slug": "1998",
+            "csv": "data/Faroe_Islands/Logting/term-1998.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/1994",
+            "name": "Løgting 1994–1998",
+            "start_date": "1994",
+            "slug": "1994",
+            "csv": "data/Faroe_Islands/Logting/term-1994.csv"
+          },
+          {
+            "end_date": "1994",
+            "id": "term/1990",
+            "name": "Løgting 1990–1994",
+            "start_date": "1990",
+            "slug": "1990",
+            "csv": "data/Faroe_Islands/Logting/term-1990.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Fiji",
     "country": "Fiji",
     "code": "FJ",
