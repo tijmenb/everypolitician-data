@@ -26,6 +26,33 @@
     ]
   },
   {
+    "name": "Alderney",
+    "country": "Alderney",
+    "code": "GG-ALD",
+    "slug": "Alderney",
+    "legislatures": [
+      {
+        "name": "States",
+        "slug": "States",
+        "sources_directory": "data/Alderney/States/sources",
+        "popolo": "data/Alderney/States/ep-popolo-v1.0.json",
+        "lastmod": "1439108757",
+        "person_count": 10,
+        "sha": "8961e50",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/2014",
+            "name": "2014–2015",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Alderney/States/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
