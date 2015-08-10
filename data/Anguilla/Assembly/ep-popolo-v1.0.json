@@ -1,35 +1,11 @@
 {
   "persons": [
     {
-      "id": "person/baird,_edison",
-      "name": "BAIRD, Edison",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district05.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/banks,_victor",
-      "name": "BANKS, Victor",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district04.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/bradley,_evalie",
-      "name": "BRADLEY, Evalie",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district05.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/connor,_cardigan",
-      "name": "CONNOR, Cardigan",
+      "family_name": "HUGHES",
+      "given_name": "Albert E.",
+      "id": "person/albert_e._hughes",
+      "name": "Albert E. HUGHES",
+      "sort_name": "HUGHES, Albert E.",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district07.asp"
@@ -37,8 +13,23 @@
       ]
     },
     {
-      "id": "person/fleming,_osbourne_b.",
-      "name": "FLEMING, Osbourne B.",
+      "family_name": "CONNOR",
+      "given_name": "Cardigan",
+      "id": "person/cardigan_connor",
+      "name": "Cardigan CONNOR",
+      "sort_name": "CONNOR, Cardigan",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district07.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "RICARDSON-HODGE",
+      "given_name": "Cora",
+      "id": "person/cora_ricardson-hodge",
+      "name": "Cora RICARDSON-HODGE",
+      "sort_name": "RICARDSON-HODGE, Cora",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district02.asp"
@@ -46,44 +37,11 @@
       ]
     },
     {
-      "id": "person/gumbs,_emile",
-      "name": "GUMBS, Emile",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district05.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/gumbs,_evans",
-      "name": "GUMBS, Evans",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district04.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/harrigan,_kenneth",
-      "name": "HARRIGAN, Kenneth",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district01.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/hughes,_albert_e.",
-      "name": "HUGHES, Albert E.",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district07.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/hughes,_hubert_benjamin",
-      "name": "HUGHES, Hubert Benjamin",
+      "family_name": "RICHARDSON",
+      "given_name": "Curtis A.",
+      "id": "person/curtis_a._richardson",
+      "name": "Curtis A. RICHARDSON",
+      "sort_name": "RICHARDSON, Curtis A.",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district06.asp"
@@ -91,8 +49,35 @@
       ]
     },
     {
-      "id": "person/reid,_eric",
-      "name": "REID, Eric",
+      "family_name": "BAIRD",
+      "given_name": "Edison",
+      "id": "person/edison_baird",
+      "name": "Edison BAIRD",
+      "sort_name": "BAIRD, Edison",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district05.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "GUMBS",
+      "given_name": "Emile",
+      "id": "person/emile_gumbs",
+      "name": "Emile GUMBS",
+      "sort_name": "GUMBS, Emile",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district05.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "REID",
+      "given_name": "Eric",
+      "id": "person/eric_reid",
+      "name": "Eric REID",
+      "sort_name": "REID, Eric",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district03.asp"
@@ -100,17 +85,47 @@
       ]
     },
     {
-      "id": "person/ricardson-hodge,_cora",
-      "name": "RICARDSON-HODGE, Cora",
+      "family_name": "BRADLEY",
+      "given_name": "Evalie",
+      "id": "person/evalie_bradley",
+      "name": "Evalie BRADLEY",
+      "sort_name": "BRADLEY, Evalie",
       "sources": [
         {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district02.asp"
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district05.asp"
         }
       ]
     },
     {
-      "id": "person/richardson,_curtis_a.",
-      "name": "RICHARDSON, Curtis A.",
+      "family_name": "GUMBS",
+      "given_name": "Evans",
+      "id": "person/evans_gumbs",
+      "name": "Evans GUMBS",
+      "sort_name": "GUMBS, Evans",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district04.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "ROGERS",
+      "given_name": "Evans McNiel",
+      "id": "person/evans_mcniel_rogers",
+      "name": "Evans McNiel ROGERS",
+      "sort_name": "ROGERS, Evans McNiel",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district03.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "HUGHES",
+      "given_name": "Hubert Benjamin",
+      "id": "person/hubert_benjamin_hughes",
+      "name": "Hubert Benjamin HUGHES",
+      "sort_name": "HUGHES, Hubert Benjamin",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district06.asp"
@@ -118,17 +133,11 @@
       ]
     },
     {
-      "id": "person/richardson,_walcott",
-      "name": "RICHARDSON, Walcott",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district07.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/roberts,_jerome",
-      "name": "ROBERTS, Jerome",
+      "family_name": "ROBERTS",
+      "given_name": "Jerome",
+      "id": "person/jerome_roberts",
+      "name": "Jerome ROBERTS",
+      "sort_name": "ROBERTS, Jerome",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district02.asp"
@@ -136,17 +145,11 @@
       ]
     },
     {
-      "id": "person/rogers,_evans_mcniel",
-      "name": "ROGERS, Evans McNiel",
-      "sources": [
-        {
-          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district03.asp"
-        }
-      ]
-    },
-    {
-      "id": "person/vanterpool,_othyn",
-      "name": "VANTERPOOL, Othyn",
+      "family_name": "HARRIGAN",
+      "given_name": "Kenneth",
+      "id": "person/kenneth_harrigan",
+      "name": "Kenneth HARRIGAN",
+      "sort_name": "HARRIGAN, Kenneth",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district01.asp"
@@ -154,11 +157,62 @@
       ]
     },
     {
-      "id": "person/webster,_pamalvon",
-      "name": "WEBSTER, Pamalvon",
+      "family_name": "FLEMING",
+      "given_name": "Osbourne B.",
+      "id": "person/osbourne_b._fleming",
+      "name": "Osbourne B. FLEMING",
+      "sort_name": "FLEMING, Osbourne B.",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district02.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "VANTERPOOL",
+      "given_name": "Othyn",
+      "id": "person/othyn_vanterpool",
+      "name": "Othyn VANTERPOOL",
+      "sort_name": "VANTERPOOL, Othyn",
       "sources": [
         {
           "url": "http://www.caribbeanelections.com/ai/election2015/districts/district01.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "WEBSTER",
+      "given_name": "Pamalvon",
+      "id": "person/pamalvon_webster",
+      "name": "Pamalvon WEBSTER",
+      "sort_name": "WEBSTER, Pamalvon",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district01.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "BANKS",
+      "given_name": "Victor",
+      "id": "person/victor_banks",
+      "name": "Victor BANKS",
+      "sort_name": "BANKS, Victor",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district04.asp"
+        }
+      ]
+    },
+    {
+      "family_name": "RICHARDSON",
+      "given_name": "Walcott",
+      "id": "person/walcott_richardson",
+      "name": "Walcott RICHARDSON",
+      "sort_name": "RICHARDSON, Walcott",
+      "sources": [
+        {
+          "url": "http://www.caribbeanelections.com/ai/election2015/districts/district07.asp"
         }
       ]
     }
@@ -217,395 +271,395 @@
   },
   "memberships": [
     {
-      "area_id": "Road North",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
-      "organization_id": "legislature",
-      "person_id": "person/baird,_edison",
-      "role": "member"
-    },
-    {
-      "area_id": "Road North",
-      "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
-      "organization_id": "legislature",
-      "person_id": "person/baird,_edison",
-      "role": "member"
-    },
-    {
-      "area_id": "Road North",
-      "legislative_period_id": "term/2010",
+      "area_id": "7",
+      "legislative_period_id": "term/2000",
       "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
-      "person_id": "person/baird,_edison",
+      "person_id": "person/albert_e._hughes",
       "role": "member"
     },
     {
-      "area_id": "Road North",
+      "area_id": "7",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_united_party",
+      "organization_id": "legislature",
+      "person_id": "person/albert_e._hughes",
+      "role": "member"
+    },
+    {
+      "area_id": "7",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_united_party",
+      "organization_id": "legislature",
+      "person_id": "person/albert_e._hughes",
+      "role": "member"
+    },
+    {
+      "area_id": "7",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_strategic_alliance",
       "organization_id": "legislature",
-      "person_id": "person/baird,_edison",
+      "person_id": "person/albert_e._hughes",
       "role": "member"
     },
     {
-      "area_id": "Road North",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/baird,_edison",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley South",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
-      "organization_id": "legislature",
-      "person_id": "person/banks,_victor",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley South",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
-      "organization_id": "legislature",
-      "person_id": "person/banks,_victor",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley South",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/banks,_victor",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley South",
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/banks,_victor",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley South",
+      "area_id": "7",
       "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
-      "person_id": "person/banks,_victor",
+      "person_id": "person/albert_e._hughes",
       "role": "member"
     },
     {
-      "area_id": "Valley South",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
-      "organization_id": "legislature",
-      "person_id": "person/banks,_victor",
-      "role": "member"
-    },
-    {
-      "area_id": "Road North",
+      "area_id": "7",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/anguilla_united_front",
       "organization_id": "legislature",
-      "person_id": "person/bradley,_evalie",
+      "person_id": "person/cardigan_connor",
       "role": "member"
     },
     {
-      "area_id": "West End",
+      "area_id": "2",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/anguilla_united_front",
       "organization_id": "legislature",
-      "person_id": "person/connor,_cardigan",
+      "person_id": "person/cora_ricardson-hodge",
       "role": "member"
     },
     {
-      "area_id": "Sandy Hill",
+      "area_id": "6",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/curtis_a._richardson",
+      "role": "member"
+    },
+    {
+      "area_id": "5",
       "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/fleming,_osbourne_b.",
-      "role": "member"
-    },
-    {
-      "area_id": "Sandy Hill",
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/fleming,_osbourne_b.",
-      "role": "member"
-    },
-    {
-      "area_id": "Sandy Hill",
-      "legislative_period_id": "term/1994",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/fleming,_osbourne_b.",
+      "person_id": "person/edison_baird",
       "role": "member"
     },
     {
-      "area_id": "Sandy Hill",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/fleming,_osbourne_b.",
-      "role": "member"
-    },
-    {
-      "area_id": "Sandy Hill",
-      "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/fleming,_osbourne_b.",
-      "role": "member"
-    },
-    {
-      "area_id": "Road North",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/gumbs,_emile",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley South",
+      "area_id": "5",
       "legislative_period_id": "term/2010",
       "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
-      "person_id": "person/gumbs,_evans",
+      "person_id": "person/edison_baird",
       "role": "member"
     },
     {
-      "area_id": "Island Harbour",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/harrigan,_kenneth",
-      "role": "member"
-    },
-    {
-      "area_id": "Island Harbour",
+      "area_id": "5",
       "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
       "organization_id": "legislature",
-      "person_id": "person/harrigan,_kenneth",
+      "person_id": "person/edison_baird",
       "role": "member"
     },
     {
-      "area_id": "Island Harbour",
+      "area_id": "5",
       "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
       "organization_id": "legislature",
-      "person_id": "person/harrigan,_kenneth",
+      "person_id": "person/edison_baird",
       "role": "member"
     },
     {
-      "area_id": "Island Harbour",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/harrigan,_kenneth",
-      "role": "member"
-    },
-    {
-      "area_id": "Island Harbour",
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/harrigan,_kenneth",
-      "role": "member"
-    },
-    {
-      "area_id": "West End",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_united_party",
-      "organization_id": "legislature",
-      "person_id": "person/hughes,_albert_e.",
-      "role": "member"
-    },
-    {
-      "area_id": "West End",
+      "area_id": "5",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_strategic_alliance",
       "organization_id": "legislature",
-      "person_id": "person/hughes,_albert_e.",
+      "person_id": "person/edison_baird",
       "role": "member"
     },
     {
-      "area_id": "West End",
+      "area_id": "5",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/emile_gumbs",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/eric_reid",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/eric_reid",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/1999",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/eric_reid",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/eric_reid",
+      "role": "member"
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/evalie_bradley",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/anguilla_united_movement",
+      "organization_id": "legislature",
+      "person_id": "person/evans_gumbs",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/evans_mcniel_rogers",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/evans_mcniel_rogers",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/evans_mcniel_rogers",
+      "role": "member"
+    },
+    {
+      "area_id": "6",
       "legislative_period_id": "term/2000",
       "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
-      "person_id": "person/hughes,_albert_e.",
+      "person_id": "person/hubert_benjamin_hughes",
       "role": "member"
     },
     {
-      "area_id": "West End",
+      "area_id": "6",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
-      "person_id": "person/hughes,_albert_e.",
+      "person_id": "person/hubert_benjamin_hughes",
       "role": "member"
     },
     {
-      "area_id": "West End",
+      "area_id": "6",
       "legislative_period_id": "term/1994",
       "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
-      "person_id": "person/hughes,_albert_e.",
+      "person_id": "person/hubert_benjamin_hughes",
       "role": "member"
     },
     {
-      "area_id": "Road South",
-      "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_united_party",
-      "organization_id": "legislature",
-      "person_id": "person/hughes,_hubert_benjamin",
-      "role": "member"
-    },
-    {
-      "area_id": "Road South",
-      "legislative_period_id": "term/2000",
+      "area_id": "6",
+      "legislative_period_id": "term/2010",
       "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
-      "person_id": "person/hughes,_hubert_benjamin",
+      "person_id": "person/hubert_benjamin_hughes",
       "role": "member"
     },
     {
-      "area_id": "Road South",
+      "area_id": "6",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_united_party",
+      "organization_id": "legislature",
+      "person_id": "person/hubert_benjamin_hughes",
+      "role": "member"
+    },
+    {
+      "area_id": "6",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
-      "person_id": "person/hughes,_hubert_benjamin",
+      "person_id": "person/hubert_benjamin_hughes",
       "role": "member"
     },
     {
-      "area_id": "Road South",
-      "legislative_period_id": "term/2010",
-      "on_behalf_of_id": "party/anguilla_united_movement",
-      "organization_id": "legislature",
-      "person_id": "person/hughes,_hubert_benjamin",
-      "role": "member"
-    },
-    {
-      "area_id": "Road South",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_united_party",
-      "organization_id": "legislature",
-      "person_id": "person/hughes,_hubert_benjamin",
-      "role": "member"
-    },
-    {
-      "area_id": "Road South",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_united_party",
-      "organization_id": "legislature",
-      "person_id": "person/hughes,_hubert_benjamin",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley North",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/reid,_eric",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley North",
-      "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/reid,_eric",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley North",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/reid,_eric",
-      "role": "member"
-    },
-    {
-      "area_id": "Valley North",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/reid,_eric",
-      "role": "member"
-    },
-    {
-      "area_id": "Sandy Hill",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/ricardson-hodge,_cora",
-      "role": "member"
-    },
-    {
-      "area_id": "Road South",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/richardson,_curtis_a.",
-      "role": "member"
-    },
-    {
-      "area_id": "West End",
-      "legislative_period_id": "term/2010",
-      "on_behalf_of_id": "party/anguilla_united_movement",
-      "organization_id": "legislature",
-      "person_id": "person/richardson,_walcott",
-      "role": "member"
-    },
-    {
-      "area_id": "Sandy Hill",
+      "area_id": "2",
       "legislative_period_id": "term/2010",
       "on_behalf_of_id": "party/anguilla_progressive_party",
       "organization_id": "legislature",
-      "person_id": "person/roberts,_jerome",
+      "person_id": "person/jerome_roberts",
       "role": "member"
     },
     {
-      "area_id": "Valley North",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/anguilla_united_front",
+      "area_id": "1",
+      "legislative_period_id": "term/1999",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
       "organization_id": "legislature",
-      "person_id": "person/rogers,_evans_mcniel",
+      "person_id": "person/kenneth_harrigan",
       "role": "member"
     },
     {
-      "area_id": "Valley North",
-      "legislative_period_id": "term/2010",
-      "on_behalf_of_id": "party/anguilla_united_front",
+      "area_id": "1",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
       "organization_id": "legislature",
-      "person_id": "person/rogers,_evans_mcniel",
+      "person_id": "person/kenneth_harrigan",
       "role": "member"
     },
     {
-      "area_id": "Valley North",
+      "area_id": "1",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/kenneth_harrigan",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_united_front",
       "organization_id": "legislature",
-      "person_id": "person/rogers,_evans_mcniel",
+      "person_id": "person/kenneth_harrigan",
       "role": "member"
     },
     {
-      "area_id": "Island Harbour",
+      "area_id": "1",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/kenneth_harrigan",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/1999",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/osbourne_b._fleming",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/osbourne_b._fleming",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/osbourne_b._fleming",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/osbourne_b._fleming",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/osbourne_b._fleming",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
       "legislative_period_id": "term/2010",
       "on_behalf_of_id": "party/anguilla_united_front",
       "organization_id": "legislature",
-      "person_id": "person/vanterpool,_othyn",
+      "person_id": "person/othyn_vanterpool",
       "role": "member"
     },
     {
-      "area_id": "Island Harbour",
+      "area_id": "1",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/webster,_pamalvon",
+      "person_id": "person/pamalvon_webster",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/1999",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "7",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/anguilla_united_movement",
+      "organization_id": "legislature",
+      "person_id": "person/walcott_richardson",
       "role": "member"
     }
   ],
@@ -669,38 +723,38 @@
   ],
   "areas": [
     {
-      "id": "Road North",
-      "name": "5",
+      "id": "7",
+      "name": "West End",
       "type": "constituency"
     },
     {
-      "id": "Valley South",
-      "name": "4",
+      "id": "2",
+      "name": "Sandy Hill",
       "type": "constituency"
     },
     {
-      "id": "West End",
-      "name": "7",
+      "id": "6",
+      "name": "Road South",
       "type": "constituency"
     },
     {
-      "id": "Sandy Hill",
-      "name": "2",
+      "id": "5",
+      "name": "Road North",
       "type": "constituency"
     },
     {
-      "id": "Island Harbour",
-      "name": "1",
+      "id": "3",
+      "name": "Valley North",
       "type": "constituency"
     },
     {
-      "id": "Road South",
-      "name": "6",
+      "id": "4",
+      "name": "Valley South",
       "type": "constituency"
     },
     {
-      "id": "Valley North",
-      "name": "3",
+      "id": "1",
+      "name": "Island Harbour",
       "type": "constituency"
     }
   ]
