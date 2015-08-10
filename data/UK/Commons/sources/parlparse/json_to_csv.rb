@@ -70,6 +70,7 @@ rows = @json[:memberships].find_all { |m| post_ids.include?  m[:post_id] }.map d
     name: name_at(person, m[:start_date]),
     identifier__historichansard: person[:identifiers].to_a.find(->{{}}) { |id| id[:scheme] == 'historichansard_person_id' }[:identifier],
     constituency: post[:area][:name],
+    constituency_id: post[:id],
     party: party[:name],
     party_id: party[:id],
     start_date: m[:start_date],
