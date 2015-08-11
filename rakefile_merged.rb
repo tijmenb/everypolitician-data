@@ -39,10 +39,16 @@ def fetch_missing
   @recreatable.each do |i|
     unless File.exist? i[:file]
       c = i[:create]
-      raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
-      data = morph_select(c[:scraper], c[:query])
       FileUtils.mkpath File.dirname i[:file]
-      File.write(i[:file], data)
+      if c[:type] == 'morph'
+        data = morph_select(c[:scraper], c[:query])
+        File.write(i[:file], data)
+      elsif c[:type] == 'ocd'
+        remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + c[:source]
+        IO.copy_stream(open(remote), i[:file])
+      else
+        raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
+      end
     end
   end 
 end
@@ -184,6 +190,34 @@ def combine_sources
     end
   end
 
+  # Map Areas 
+  # So far only tested with Australia, so super-simple logic. 
+  # TOOD: Expand this later
+  if area = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'area' } 
+    all_headers |= [:area_id]
+    ocds = CSV.table(area[:file])
+    fuzzer = FuzzyMatch.new(ocds, read: :name)
+    finder = ->(r) { fuzzer.find(r[:area]) }
+    override = ->(name) { 
+      return unless area[:merge].key? :overrides
+      return unless override_id = area[:merge][:overrides][name.to_sym] 
+      return '' if override_id.empty?
+      ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
+    }
+
+    all_rows.each do |r|
+      raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
+      unless area_match = override.(r[:area]) || finder.(r) 
+        warn "No area match for #{r[:area]}"
+        next
+      end
+      parts = r[:area].split(/,\s+/)
+      puts "Matched Area %s to %s" % [ r[:area].to_s.yellow, area_match[:name].to_s.green ]
+       unless parts.all? { |p| area_match[:name].include? p }
+      r[:area_id] = area_match[:id]
+    end
+  end
+  
   # Then write it all out
   FileUtils.mkpath "manual"
   CSV.open("manual/members.csv", "w") do |out|
