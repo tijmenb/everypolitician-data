@@ -189,6 +189,10 @@ namespace :transform do
     leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
     @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
       m[:legislative_period_id] ||= latest_term[:id] 
+      # Don't duplicate start/end dates into memberships needlessly
+      e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or raise "Not a term"
+      m.delete :start_date if m[:start_date].to_s == e[:start_date].to_s
+      m.delete :end_date   if m[:end_date].to_s   == e[:end_date].to_s
     end
   end
 
