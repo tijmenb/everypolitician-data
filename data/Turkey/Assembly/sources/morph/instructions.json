@@ -1,4 +1,5 @@
 {
-  "source": "tmtmtmtm/turkey-tbmm-wp",
-  "fetch_terms": false
+  "source": "tmtmtmtm/turkey-tbmm-wikipedia",
+  "fetch_terms": false,
+  "query": "SELECT * FROM data WHERE term >= 20"
 }
