@@ -6834,11 +6834,6 @@
     },
     {
       "classification": "party",
-      "id": "party/communist_party_of_nepal_(unified_marxist_leninist)",
-      "name": "Communist Party of Nepal (Unified Marxist Leninist)"
-    },
-    {
-      "classification": "party",
       "id": "party/communist_party_of_nepal_(unified_marxist-leninist)",
       "name": "Communist Party of Nepal (Unified Marxist-Leninist)"
     },
@@ -6888,11 +6883,6 @@
       "classification": "party",
       "id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "name": "Madhesi Janadhikar Forum (Loktantrik)"
-    },
-    {
-      "classification": "party",
-      "id": "party/madhesi_janadhikar_forum,_(loktantrik)",
-      "name": "Madhesi Janadhikar Forum, (Loktantrik)"
     },
     {
       "classification": "party",
@@ -6946,18 +6936,8 @@
     },
     {
       "classification": "party",
-      "id": "party/rastriya_prajantra_party",
-      "name": "Rastriya Prajantra Party"
-    },
-    {
-      "classification": "party",
       "id": "party/rastriya_prajantra_party_nepal",
       "name": "Rastriya Prajantra Party Nepal"
-    },
-    {
-      "classification": "party",
-      "id": "party/rastriya_prajantra_party,_nepal",
-      "name": "Rastriya Prajantra Party, Nepal"
     },
     {
       "classification": "party",
@@ -7013,16 +6993,6 @@
       "classification": "party",
       "id": "party/tarai_madhesh_loktantrik_party",
       "name": "Tarai Madhesh Loktantrik Party"
-    },
-    {
-      "classification": "party",
-      "id": "party/tarai-madhesh_loktantrik_party",
-      "name": "Tarai-Madhesh Loktantrik Party"
-    },
-    {
-      "classification": "party",
-      "id": "party/terai_madhesh_sadbhawana_party",
-      "name": "Terai Madhesh Sadbhawana Party"
     },
     {
       "classification": "party",
@@ -7183,7 +7153,7 @@
     {
       "area_id": "area/sarlahi",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/terai_madhesh_sadbhawana_party",
+      "on_behalf_of_id": "party/terai_madhesh_sadbhawana_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/amerika_kumari",
       "role": "member"
@@ -7327,7 +7297,7 @@
     {
       "area_id": "area/parsa",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_(loktantrik)",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/asha_chaturvedi",
       "role": "member"
@@ -7471,7 +7441,7 @@
     {
       "area_id": "area/bara",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/communist_party_of_nepal_(unified_marxist_leninist)",
+      "on_behalf_of_id": "party/communist_party_of_nepal_(unified_marxist-leninist)",
       "organization_id": "legislature",
       "person_id": "person/balbir_prasad_chaudhari",
       "role": "member"
@@ -7567,7 +7537,7 @@
     {
       "area_id": "area/morang",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/rastriya_prajantra_party,_nepal",
+      "on_behalf_of_id": "party/rastriya_prajatantra_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/bhaskar_bhadra",
       "role": "member"
@@ -7711,7 +7681,7 @@
     {
       "area_id": "area/chitwan",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/rastriya_prajantra_party_nepal",
+      "on_behalf_of_id": "party/rastriya_prajatantra_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/bikram_pandey",
       "role": "member"
@@ -8783,7 +8753,7 @@
     {
       "area_id": "area/saptari",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/jitendra_narayan_dev",
       "role": "member"
@@ -8855,7 +8825,7 @@
     {
       "area_id": "area/sunsari",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/kalpana_chaudhari",
       "role": "member"
@@ -8895,7 +8865,7 @@
     {
       "area_id": "area/makwanpur",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/rastriya_prajantra_party_nepal",
+      "on_behalf_of_id": "party/rastriya_prajatantra_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/kamal_thapa",
       "role": "member"
@@ -9423,7 +9393,7 @@
     {
       "area_id": "area/sarlahi",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/terai_madhesh_sadbhawana_party",
+      "on_behalf_of_id": "party/terai_madhesh_sadbhawana_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/mahindra_ray_yadav",
       "role": "member"
@@ -9591,7 +9561,7 @@
     {
       "area_id": "area/rautahat",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_(loktantrik)",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/mo_mustak_aalam",
       "role": "member"
@@ -9767,7 +9737,7 @@
     {
       "area_id": "area/sarlahi",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/terai_madhesh_sadbhawana_party",
+      "on_behalf_of_id": "party/terai_madhesh_sadbhawana_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/narendra_shah_kalawar",
       "role": "member"
@@ -9879,7 +9849,7 @@
     {
       "area_id": "area/siraha",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/pawan_kumar_sarada",
       "role": "member"
@@ -10359,7 +10329,7 @@
     {
       "area_id": "area/kailali",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/ram_janam_chaudhary",
       "role": "member"
@@ -10423,7 +10393,7 @@
     {
       "area_id": "area/saptari",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/ramani_ram",
       "role": "member"
@@ -10447,7 +10417,7 @@
     {
       "area_id": "area/parsa",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/tarai-madhesh_loktantrik_party",
+      "on_behalf_of_id": "party/tarai_madhesh_loktantrik_party",
       "organization_id": "legislature",
       "person_id": "person/ramesh_prasad_kurmi",
       "role": "member"
@@ -10671,7 +10641,7 @@
     {
       "area_id": "area/siraha",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/sarita_kumari_yadav",
       "role": "member"
@@ -10879,7 +10849,7 @@
     {
       "area_id": "area/parsa",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/rastriya_prajantra_party_nepal",
+      "on_behalf_of_id": "party/rastriya_prajatantra_party,_nepal",
       "organization_id": "legislature",
       "person_id": "person/shyam_sundar_tiwadewal",
       "role": "member"
@@ -11055,7 +11025,7 @@
     {
       "area_id": "area/sunsari",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/madhesi_janadhikar_forum,_loktantrik",
+      "on_behalf_of_id": "party/madhesi_janadhikar_forum_(loktantrik)",
       "organization_id": "legislature",
       "person_id": "person/sumitra_tharuni",
       "role": "member"
@@ -11063,7 +11033,7 @@
     {
       "area_id": "area/dhankuta",
       "legislative_period_id": "term/ca2",
-      "on_behalf_of_id": "party/rastriya_prajantra_party",
+      "on_behalf_of_id": "party/rastriya_prajatantra_party",
       "organization_id": "legislature",
       "person_id": "person/sunil_bahadur_thapa",
       "role": "member"
