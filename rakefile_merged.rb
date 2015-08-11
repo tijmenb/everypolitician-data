@@ -134,12 +134,9 @@ def combine_sources
   #      match_on: the field in Wikidata to match with the local
   #
   #    TODO: merge by a field being a Wikipedia URL or Title
-  if @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
-    raise "No longer handle 'person' files. Perhaps you want a 'Wikidata' source?"
-  end
-
-  if wd = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'wikidata' }
-    puts "Merging with Wikidata #{wd[:file]}".magenta
+  if wd = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'wikidata' } || 
+          @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
+    puts "Merging with #{wd[:file]}".magenta
 
     # Can merge either by a specified ID key, or on names
     raise "Need a Merge field" unless wd.key?(:merge) and wd[:merge].key?(:field)
@@ -170,7 +167,7 @@ def combine_sources
 
     all_rows.each do |r|
       unless wd_match = override.(r[:name]) || finder.(r) 
-        warn "No Wikidata match for #{r[:name]}"
+        warn "No match for #{r[:name]}"
         next
       end
 

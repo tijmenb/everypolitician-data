@@ -8,8 +8,7 @@
       "file": "YNMP/winners.csv",
       "type": "person",
       "merge": { 
-        "field": "id",
-        "clobber": true
+        "field": "id"
       }
     }
   ]
