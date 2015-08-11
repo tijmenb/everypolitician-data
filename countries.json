@@ -105,6 +105,81 @@
     ]
   },
   {
+    "name": "Anguilla",
+    "country": "Anguilla",
+    "code": "AI",
+    "slug": "Anguilla",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Anguilla/Assembly/sources",
+        "popolo": "data/Anguilla/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439232228",
+        "person_count": 18,
+        "sha": "94752b9",
+        "legislative_periods": [
+          {
+            "end_date": "2020",
+            "id": "term/2015",
+            "name": "2015–2020",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Anguilla/Assembly/term-2015.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/2010",
+            "name": "2010–2015",
+            "start_date": "2010",
+            "slug": "2010",
+            "csv": "data/Anguilla/Assembly/term-2010.csv"
+          },
+          {
+            "end_date": "2010",
+            "id": "term/2005",
+            "name": "2005–2010",
+            "start_date": "2005",
+            "slug": "2005",
+            "csv": "data/Anguilla/Assembly/term-2005.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/2000",
+            "name": "2000–2005",
+            "start_date": "2000",
+            "slug": "2000",
+            "csv": "data/Anguilla/Assembly/term-2000.csv"
+          },
+          {
+            "end_date": "2000",
+            "id": "term/1999",
+            "name": "1999–2000",
+            "start_date": "1999",
+            "slug": "1999",
+            "csv": "data/Anguilla/Assembly/term-1999.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/1994",
+            "name": "1994–1999",
+            "start_date": "1994",
+            "slug": "1994",
+            "csv": "data/Anguilla/Assembly/term-1994.csv"
+          },
+          {
+            "end_date": "1994",
+            "id": "term/1989",
+            "name": "1989–1994",
+            "start_date": "1989",
+            "slug": "1989",
+            "csv": "data/Anguilla/Assembly/term-1989.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Antigua and Barbuda",
     "country": "Antigua and Barbuda",
     "code": "AG",
@@ -2544,70 +2619,45 @@
         "slug": "Assembly",
         "sources_directory": "data/Kosovo/Assembly/sources",
         "popolo": "data/Kosovo/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1437667992",
+        "lastmod": "1439299640",
         "person_count": 400,
-        "sha": "261217b",
+        "sha": "ada2282",
         "legislative_periods": [
           {
-            "id": "chamber_2014-07-17",
+            "id": "term/chamber_2014-07-17",
             "name": "Periudha e pestë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,102"
-              }
-            ],
             "start_date": "2014-07-17",
             "slug": "chamber_2014-07-17",
             "csv": "data/Kosovo/Assembly/term-chamber_2014-07-17.csv"
           },
           {
             "end_date": "2014-05-07",
-            "id": "chamber_2010-12-12",
+            "id": "term/chamber_2010-12-12",
             "name": "Periudha e katërt Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=4"
-              }
-            ],
             "start_date": "2010-12-12",
             "slug": "chamber_2010-12-12",
             "csv": "data/Kosovo/Assembly/term-chamber_2010-12-12.csv"
           },
           {
             "end_date": "2010-11-03",
-            "id": "chamber_2007-12-13",
+            "id": "term/chamber_2007-12-13",
             "name": "Periudha e tretë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
-              }
-            ],
             "start_date": "2007-12-13",
             "slug": "chamber_2007-12-13",
             "csv": "data/Kosovo/Assembly/term-chamber_2007-12-13.csv"
           },
           {
             "end_date": "2007-12-12",
-            "id": "chamber_2004-11-23",
+            "id": "term/chamber_2004-11-23",
             "name": "Periudha e dytë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
-              }
-            ],
             "start_date": "2004-11-23",
             "slug": "chamber_2004-11-23",
             "csv": "data/Kosovo/Assembly/term-chamber_2004-11-23.csv"
           },
           {
             "end_date": "2004-11-23",
-            "id": "chamber_2001-11-17",
+            "id": "term/chamber_2001-11-17",
             "name": "Periudha e parë Legjislative",
-            "sources": [
-              {
-                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
-              }
-            ],
             "start_date": "2001-11-17",
             "slug": "chamber_2001-11-17",
             "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
@@ -3358,6 +3408,32 @@
             "start_date": "2013-06-11",
             "slug": "21",
             "csv": "data/Nauru/Parliament/term-21.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "country": "Nepal",
+    "code": "NP",
+    "slug": "Nepal",
+    "legislatures": [
+      {
+        "name": "Constituent Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Nepal/Assembly/sources",
+        "popolo": "data/Nepal/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439295955",
+        "person_count": 550,
+        "sha": "1d2e3c9",
+        "legislative_periods": [
+          {
+            "id": "term/ca2",
+            "name": "2nd Constituent Assembly",
+            "start_date": "2014-01-22",
+            "slug": "ca2",
+            "csv": "data/Nepal/Assembly/term-ca2.csv"
           }
         ]
       }
