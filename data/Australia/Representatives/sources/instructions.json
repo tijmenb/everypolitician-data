@@ -26,6 +26,20 @@
       }
     },
     {
+      "file": "ocd/divisions.csv",
+      "create": {
+        "type": "ocd",
+        "source": "country-au/federal_electorates.csv"
+      },
+      "merge": { 
+        "overrides": { 
+          "Fraser, Australian Capital Territory": "ocd-division/country:au/federal_electorate:fraser",
+          "Watson, New South Wales": "ocd-division/country:au/state:nsw/federal_electorate:watsno"
+        }
+      },
+      "type": "area"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
