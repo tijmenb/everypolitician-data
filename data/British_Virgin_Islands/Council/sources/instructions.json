@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/british-virgin-islands-assembly-wikipedia",
+        "query": "SELECT * FROM data WHERE term < 2007"
+      },
+      "source": "https://en.wikipedia.org",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/british-virgin-islands-assembly-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "wikipedia__en",
+        "match_on": "wikipedia__en"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
