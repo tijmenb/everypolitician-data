@@ -28,6 +28,8 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Alvin",
       "id": "person/alvin_christopher",
       "name": "Alvin CHRISTOPHER",
       "sources": [
@@ -64,6 +66,8 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Conrad",
       "id": "person/conrad_maduro",
       "name": "Conrad Maduro",
       "sources": [
@@ -73,7 +77,18 @@
       ]
     },
     {
+      "birth_date": "1931-03-01",
+      "death_date": "2007-07-19",
+      "family_name": "Romney",
+      "gender": "male",
+      "given_name": "Cyril",
       "id": "person/cyril_romney",
+      "identifiers": [
+        {
+          "identifier": "/m/0d1kx0",
+          "scheme": "freebase"
+        }
+      ],
       "name": "Cyril ROMNEY",
       "sources": [
         {
@@ -136,7 +151,17 @@
       ]
     },
     {
+      "birth_date": "1929-03-07",
+      "death_date": "1995-05-14",
+      "gender": "male",
+      "given_name": "Hamilton",
       "id": "person/hamilton_lavity_stoutt",
+      "identifiers": [
+        {
+          "identifier": "/m/0d1kt6",
+          "scheme": "freebase"
+        }
+      ],
       "name": "H. Lavity STOUTT",
       "sources": [
         {
@@ -145,6 +170,9 @@
       ]
     },
     {
+      "birth_date": "1950-07-05",
+      "gender": "male",
+      "given_name": "Julian",
       "id": "person/julian_fraser",
       "name": "Julian FRASER",
       "sources": [
@@ -199,6 +227,8 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Omar",
       "id": "person/omar_hodge",
       "name": "Omar HODGE",
       "sources": [
@@ -235,6 +265,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/qwominer_william_osborne",
       "name": "Q.W. Osborne",
       "sources": [
@@ -244,7 +275,22 @@
       ]
     },
     {
+      "birth_date": "1933-12-15",
+      "gender": "male",
+      "given_name": "Ralph",
       "id": "person/ralph_t._o'neal",
+      "identifiers": [
+        {
+          "identifier": "/m/0d1kxc",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ralph_T._O'Neal_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ralph_T._O'Neal_(cropped).jpg"
+        }
+      ],
       "name": "Ralph T. O'NEAL",
       "sources": [
         {
@@ -280,7 +326,23 @@
       ]
     },
     {
+      "birth_date": "1944-08-28",
+      "family_name": "Smith",
+      "gender": "male",
+      "given_name": "Orlando",
       "id": "person/orlando_smith",
+      "identifiers": [
+        {
+          "identifier": "/m/037bj3",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/D._Orlando_Smith_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/D._Orlando_Smith_(cropped).jpg"
+        }
+      ],
       "name": "SMITH, D. Orlando",
       "sources": [
         {
@@ -289,7 +351,16 @@
       ]
     },
     {
+      "birth_date": "1935-03-11",
+      "death_date": "2007-01-12",
+      "gender": "male",
       "id": "person/terrance_b._lettsome",
+      "identifiers": [
+        {
+          "identifier": "4440397",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Terrence LETTSOME",
       "sources": [
         {
@@ -316,6 +387,10 @@
       ]
     },
     {
+      "birth_date": "1915-07-16",
+      "death_date": "1997-01-22",
+      "gender": "male",
+      "given_name": "Willard",
       "id": "person/willard_wheatley",
       "name": "Willard Wheatley",
       "sources": [
