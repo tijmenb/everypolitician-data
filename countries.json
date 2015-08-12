@@ -713,9 +713,9 @@
         "slug": "Assembly",
         "sources_directory": "data/British_Virgin_Islands/Assembly/sources",
         "popolo": "data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1439396125",
+        "lastmod": "1439396593",
         "person_count": 23,
-        "sha": "b894dbc",
+        "sha": "07dad17",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -739,6 +739,89 @@
             "start_date": "2007",
             "slug": "2007",
             "csv": "data/British_Virgin_Islands/Assembly/term-2007.csv"
+          }
+        ]
+      },
+      {
+        "name": "Legislative Council",
+        "slug": "Council",
+        "sources_directory": "data/British_Virgin_Islands/Council/sources",
+        "popolo": "data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
+        "lastmod": "1439396630",
+        "person_count": 36,
+        "sha": "3fcb508",
+        "legislative_periods": [
+          {
+            "end_date": "2007",
+            "id": "term/2003",
+            "name": "15th Council",
+            "start_date": "2003",
+            "slug": "2003",
+            "csv": "data/British_Virgin_Islands/Council/term-2003.csv"
+          },
+          {
+            "end_date": "2003",
+            "id": "term/1999",
+            "name": "14th Council",
+            "start_date": "1999",
+            "slug": "1999",
+            "csv": "data/British_Virgin_Islands/Council/term-1999.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/1995",
+            "name": "13th Council",
+            "start_date": "1995",
+            "slug": "1995",
+            "csv": "data/British_Virgin_Islands/Council/term-1995.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/1990",
+            "name": "12th Council",
+            "start_date": "1990",
+            "slug": "1990",
+            "csv": "data/British_Virgin_Islands/Council/term-1990.csv"
+          },
+          {
+            "end_date": "1990",
+            "id": "term/1986",
+            "name": "11th Council",
+            "start_date": "1986",
+            "slug": "1986",
+            "csv": "data/British_Virgin_Islands/Council/term-1986.csv"
+          },
+          {
+            "end_date": "1986",
+            "id": "term/1983",
+            "name": "10th Council",
+            "start_date": "1983",
+            "slug": "1983",
+            "csv": "data/British_Virgin_Islands/Council/term-1983.csv"
+          },
+          {
+            "end_date": "1983",
+            "id": "term/1979",
+            "name": "9th Council",
+            "start_date": "1979",
+            "slug": "1979",
+            "csv": "data/British_Virgin_Islands/Council/term-1979.csv"
+          },
+          {
+            "end_date": "1979",
+            "id": "term/1975",
+            "name": "8th Council",
+            "start_date": "1975",
+            "slug": "1975",
+            "csv": "data/British_Virgin_Islands/Council/term-1975.csv"
+          },
+          {
+            "end_date": "1975",
+            "id": "term/1971",
+            "name": "7th Council",
+            "start_date": "1971",
+            "slug": "1971",
+            "csv": "data/British_Virgin_Islands/Council/term-1971.csv"
           }
         ]
       }
