@@ -212,8 +212,8 @@ def combine_sources
         next
       end
       parts = r[:area].split(/,\s+/)
-      puts "Matched Area %s to %s" % [ r[:area].to_s.yellow, area_match[:name].to_s.green ]
-       unless parts.all? { |p| area_match[:name].include? p }
+      puts "Matched Area %s to %s" % [ r[:area].to_s.yellow, area_match[:name].to_s.green ] unless 
+        parts.all? { |p| area_match[:name].include? p }
       r[:area_id] = area_match[:id]
     end
   end
