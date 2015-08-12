@@ -37,6 +37,8 @@
       ]
     },
     {
+      "birth_date": "1951-01-01",
+      "gender": "female",
       "id": "person/dancia_penn",
       "name": "Dancia Penn-Sallah",
       "sources": [
@@ -82,6 +84,8 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Alvin",
       "id": "person/alvin_christopher",
       "name": "J. Alvin Christopher",
       "sources": [
@@ -91,6 +95,9 @@
       ]
     },
     {
+      "birth_date": "1950-07-05",
+      "gender": "male",
+      "given_name": "Julian",
       "id": "person/julian_fraser",
       "name": "Julian Fraser",
       "sources": [
@@ -145,6 +152,9 @@
       ]
     },
     {
+      "birth_date": "1972-02-22",
+      "gender": "male",
+      "given_name": "Myron",
       "id": "person/myron_walwyn",
       "name": "Myron Walwyn",
       "sources": [
@@ -154,6 +164,8 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Omar",
       "id": "person/omar_hodge",
       "name": "Omar Wallace Hodge",
       "sources": [
@@ -163,7 +175,23 @@
       ]
     },
     {
+      "birth_date": "1944-08-28",
+      "family_name": "Smith",
+      "gender": "male",
+      "given_name": "Orlando",
       "id": "person/orlando_smith",
+      "identifiers": [
+        {
+          "identifier": "/m/037bj3",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/D._Orlando_Smith_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/D._Orlando_Smith_(cropped).jpg"
+        }
+      ],
       "name": "Orlando Smith",
       "sources": [
         {
@@ -172,7 +200,22 @@
       ]
     },
     {
+      "birth_date": "1933-12-15",
+      "gender": "male",
+      "given_name": "Ralph",
       "id": "person/ralph_t._o'neal",
+      "identifiers": [
+        {
+          "identifier": "/m/0d1kxc",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ralph_T._O'Neal_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ralph_T._O'Neal_(cropped).jpg"
+        }
+      ],
       "name": "Ralph T. O'Neal",
       "sources": [
         {
@@ -213,7 +256,7 @@
       "classification": "legislature",
       "id": "legislature",
       "name": "House of Assembly",
-      "seats": 15,
+      "seats": 13,
       "wikidata": "Q5914704"
     },
     {
