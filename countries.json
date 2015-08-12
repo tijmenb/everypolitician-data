@@ -3347,17 +3347,22 @@
         "slug": "Assembly",
         "sources_directory": "data/Montenegro/Assembly/sources",
         "popolo": "data/Montenegro/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1439408168",
+        "lastmod": "1437668010",
         "person_count": 82,
-        "sha": "a8651e2",
+        "sha": "7575418",
         "legislative_periods": [
           {
-            "end_date": "2015",
-            "id": "term/25",
+            "id": "550a7f50273a3965683bd824",
+            "identifiers": [
+              {
+                "identifier": "25",
+                "scheme": "skupstina.me/chamber"
+              }
+            ],
             "name": "Skupština Crne Gore 2012 - 2015",
             "start_date": "2012",
-            "slug": "25",
-            "csv": "data/Montenegro/Assembly/term-25.csv"
+            "slug": "550a7f50273a3965683bd824",
+            "csv": "data/Montenegro/Assembly/term-550a7f50273a3965683bd824.csv"
           }
         ]
       }
