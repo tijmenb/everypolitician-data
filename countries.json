@@ -1246,176 +1246,64 @@
         "slug": "Deputies",
         "sources_directory": "data/Czech_Republic/Deputies/sources",
         "popolo": "data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1439467690",
         "person_count": 892,
-        "sha": "80fde5a",
+        "sha": "b5b3952",
         "legislative_periods": [
           {
-            "id": "171",
-            "identifiers": [
-              {
-                "identifier": "7",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "171",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/7",
+            "name": "7. volební období",
             "start_date": "2013-10-26",
-            "slug": "171",
-            "csv": "data/Czech_Republic/Deputies/term-171.csv"
+            "slug": "7",
+            "csv": "data/Czech_Republic/Deputies/term-7.csv"
           },
           {
             "end_date": "2013-08-28",
-            "id": "170",
-            "identifiers": [
-              {
-                "identifier": "6",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "170",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/6",
+            "name": "6. volební období",
             "start_date": "2010-05-29",
-            "slug": "170",
-            "csv": "data/Czech_Republic/Deputies/term-170.csv"
+            "slug": "6",
+            "csv": "data/Czech_Republic/Deputies/term-6.csv"
           },
           {
             "end_date": "2010-06-03",
-            "id": "169",
-            "identifiers": [
-              {
-                "identifier": "5",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "169",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/5",
+            "name": "5. volební období",
             "start_date": "2006-06-03",
-            "slug": "169",
-            "csv": "data/Czech_Republic/Deputies/term-169.csv"
+            "slug": "5",
+            "csv": "data/Czech_Republic/Deputies/term-5.csv"
           },
           {
             "end_date": "2006-06-15",
-            "id": "168",
-            "identifiers": [
-              {
-                "identifier": "4",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "168",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/4",
+            "name": "4. volební období",
             "start_date": "2002-06-15",
-            "slug": "168",
-            "csv": "data/Czech_Republic/Deputies/term-168.csv"
+            "slug": "4",
+            "csv": "data/Czech_Republic/Deputies/term-4.csv"
           },
           {
             "end_date": "2002-06-20",
-            "id": "167",
-            "identifiers": [
-              {
-                "identifier": "3",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "167",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/3",
+            "name": "3. volební období",
             "start_date": "1998-06-20",
-            "slug": "167",
-            "csv": "data/Czech_Republic/Deputies/term-167.csv"
+            "slug": "3",
+            "csv": "data/Czech_Republic/Deputies/term-3.csv"
           },
           {
             "end_date": "1998-06-19",
-            "id": "166",
-            "identifiers": [
-              {
-                "identifier": "2",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "166",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/2",
+            "name": "2. volební období",
             "start_date": "1996-06-01",
-            "slug": "166",
-            "csv": "data/Czech_Republic/Deputies/term-166.csv"
+            "slug": "2",
+            "csv": "data/Czech_Republic/Deputies/term-2.csv"
           },
           {
             "end_date": "1996-06-06",
-            "id": "165",
-            "identifiers": [
-              {
-                "identifier": "1",
-                "scheme": "psp.cz/term"
-              },
-              {
-                "identifier": "165",
-                "scheme": "psp.cz/organy"
-              }
-            ],
-            "name": "Poslanecká sněmovna",
-            "other_names": [
-              {
-                "name": "PSP",
-                "note": "abbreviation"
-              }
-            ],
+            "id": "term/1",
+            "name": "1. volební období",
             "start_date": "1992-06-06",
-            "slug": "165",
-            "csv": "data/Czech_Republic/Deputies/term-165.csv"
+            "slug": "1",
+            "csv": "data/Czech_Republic/Deputies/term-1.csv"
           }
         ]
       }
