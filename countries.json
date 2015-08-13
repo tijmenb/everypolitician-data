@@ -3364,6 +3364,33 @@
     ]
   },
   {
+    "name": "Morocco",
+    "country": "Morocco",
+    "code": "MA",
+    "slug": "Morocco",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/Morocco/House/sources",
+        "popolo": "data/Morocco/House/ep-popolo-v1.0.json",
+        "lastmod": "1439459974",
+        "person_count": 395,
+        "sha": "cbd9388",
+        "legislative_periods": [
+          {
+            "end_date": "2016",
+            "id": "term/9",
+            "name": "9th Legislature",
+            "start_date": "2011",
+            "slug": "9",
+            "csv": "data/Morocco/House/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Mozambique",
     "country": "Mozambique",
     "code": "MZ",
