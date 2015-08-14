@@ -1207,18 +1207,11 @@
   "events": [
     {
       "classification": "legislative period",
-      "id": "term/33",
-      "name": "33rd Guam Legislature",
+      "end_date": "2010-12-22",
+      "id": "term/30",
+      "name": "30th Guam Legislature",
       "organization_id": "legislature",
-      "start_date": "2015-02-16"
-    },
-    {
-      "classification": "legislative period",
-      "end_date": "2015-01-02",
-      "id": "term/32",
-      "name": "32nd Guam Legislature",
-      "organization_id": "legislature",
-      "start_date": "2013-01-11"
+      "start_date": "2009-02-16"
     },
     {
       "classification": "legislative period",
@@ -1230,11 +1223,18 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2010-12-22",
-      "id": "term/30",
-      "name": "30th Guam Legislature",
+      "end_date": "2015-01-02",
+      "id": "term/32",
+      "name": "32nd Guam Legislature",
       "organization_id": "legislature",
-      "start_date": "2009-02-16"
+      "start_date": "2013-01-11"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/33",
+      "name": "33rd Guam Legislature",
+      "organization_id": "legislature",
+      "start_date": "2015-02-16"
     }
   ],
   "areas": [
