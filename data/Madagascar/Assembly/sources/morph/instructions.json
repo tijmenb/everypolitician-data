@@ -1,4 +1,5 @@
 {
   "source": "duncanparkes/madagascar",
+  "query": "SELECT *, term_id AS term, null AS term_id FROM data",
   "fetch_terms": true
 }

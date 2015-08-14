@@ -6291,6 +6291,11 @@
     },
     {
       "classification": "party",
+      "id": "party/conservative",
+      "name": "Conservative"
+    },
+    {
+      "classification": "party",
       "id": "forces_et_démocratie",
       "name": "Forces et Démocratie"
     },
@@ -6308,7 +6313,11 @@
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
-
+        {
+          "classification": "legislative period",
+          "id": "term/41",
+          "name": "41"
+        }
       ],
       "name": "Legislature"
     },
@@ -6332,6 +6341,7 @@
         "id": "area/acadie—bathurst",
         "name": "Acadie—Bathurst"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/103",
@@ -6342,6 +6352,7 @@
         "id": "area/westmount—ville-marie",
         "name": "Westmount—Ville-Marie"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/10524",
@@ -6352,6 +6363,7 @@
         "id": "area/essex",
         "name": "Essex"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1099",
@@ -6362,6 +6374,7 @@
         "id": "area/winnipeg_centre",
         "name": "Winnipeg Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/1174",
@@ -6372,6 +6385,7 @@
         "id": "area/battlefords—lloydminster",
         "name": "Battlefords—Lloydminster"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1209",
@@ -6382,6 +6396,7 @@
         "id": "area/saskatoon—wanuskewin",
         "name": "Saskatoon—Wanuskewin"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1262",
@@ -6392,6 +6407,7 @@
         "id": "area/wascana",
         "name": "Wascana"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1265",
@@ -6402,6 +6418,7 @@
         "id": "area/yorkton—melville",
         "name": "Yorkton—Melville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1268",
@@ -6412,6 +6429,7 @@
         "id": "area/calgary_east",
         "name": "Calgary East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1287",
@@ -6422,6 +6440,7 @@
         "id": "area/calgary—nose_hill",
         "name": "Calgary—Nose Hill"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1295",
@@ -6432,6 +6451,7 @@
         "id": "area/humber—st._barbe—baie_verte",
         "name": "Humber—St. Barbe—Baie Verte"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/13",
@@ -6442,6 +6462,7 @@
         "id": "area/calgary_southeast",
         "name": "Calgary Southeast"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1302",
@@ -6452,6 +6473,7 @@
         "id": "area/calgary_west",
         "name": "Calgary West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1313",
@@ -6462,6 +6484,7 @@
         "id": "area/labrador",
         "name": "Labrador"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/13218",
@@ -6472,6 +6495,7 @@
         "id": "area/edmonton_east",
         "name": "Edmonton East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1325",
@@ -6482,6 +6506,7 @@
         "id": "area/vegreville—wainwright",
         "name": "Vegreville—Wainwright"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1365",
@@ -6492,6 +6517,7 @@
         "id": "area/cariboo—prince_george",
         "name": "Cariboo—Prince George"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1525",
@@ -6502,6 +6528,7 @@
         "id": "area/vancouver_centre",
         "name": "Vancouver Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1589",
@@ -6512,6 +6539,7 @@
         "id": "area/parry_sound—muskoka",
         "name": "Parry Sound—Muskoka"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/15975",
@@ -6522,6 +6550,7 @@
         "id": "area/vancouver_east",
         "name": "Vancouver East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/1598",
@@ -6532,6 +6561,7 @@
         "id": "area/vancouver_island_north",
         "name": "Vancouver Island North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1604",
@@ -6542,6 +6572,7 @@
         "id": "area/burnaby—new_westminster",
         "name": "Burnaby—New Westminster"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/16399",
@@ -6552,6 +6583,7 @@
         "id": "area/fundy_royal",
         "name": "Fundy Royal"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/17210",
@@ -6562,6 +6594,7 @@
         "id": "area/calgary_southwest",
         "name": "Calgary Southwest"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1733",
@@ -6572,6 +6605,7 @@
         "id": "area/halifax_west",
         "name": "Halifax West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1760",
@@ -6582,6 +6616,7 @@
         "id": "area/mount_royal",
         "name": "Mount Royal"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1785",
@@ -6592,6 +6627,7 @@
         "id": "area/york_west",
         "name": "York West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1787",
@@ -6602,6 +6638,7 @@
         "id": "area/cypress_hills—grasslands",
         "name": "Cypress Hills—Grasslands"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1795",
@@ -6612,6 +6649,7 @@
         "id": "area/windsor—tecumseh",
         "name": "Windsor—Tecumseh"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/1803",
@@ -6622,6 +6660,7 @@
         "id": "area/cape_breton—canso",
         "name": "Cape Breton—Canso"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1804",
@@ -6632,6 +6671,7 @@
         "id": "area/sydney—victoria",
         "name": "Sydney—Victoria"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1806",
@@ -6642,6 +6682,7 @@
         "id": "area/renfrew—nipissing—pembroke",
         "name": "Renfrew—Nipissing—Pembroke"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1809",
@@ -6652,6 +6693,7 @@
         "id": "area/beauséjour",
         "name": "Beauséjour"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1813",
@@ -6662,6 +6704,7 @@
         "id": "area/nanaimo—alberni",
         "name": "Nanaimo—Alberni"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/1814",
@@ -6672,6 +6715,7 @@
         "id": "area/markham—unionville",
         "name": "Markham—Unionville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/1817",
@@ -6682,6 +6726,7 @@
         "id": "area/port_moody—westwood—port_coquitlam",
         "name": "Port Moody—Westwood—Port Coquitlam"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1819",
@@ -6692,6 +6737,7 @@
         "id": "area/edmonton—leduc",
         "name": "Edmonton—Leduc"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1826",
@@ -6702,6 +6748,7 @@
         "id": "area/lanark—frontenac—lennox_and_addington",
         "name": "Lanark—Frontenac—Lennox and Addington"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1827",
@@ -6712,6 +6759,7 @@
         "id": "area/crowfoot",
         "name": "Crowfoot"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1832",
@@ -6722,6 +6770,7 @@
         "id": "area/blackstrap",
         "name": "Blackstrap"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/1838",
@@ -6732,6 +6781,7 @@
         "id": "area/delta—richmond_east",
         "name": "Delta—Richmond East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/20878",
@@ -6742,6 +6792,7 @@
         "id": "area/abitibi—témiscamingue",
         "name": "Abitibi—Témiscamingue"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/232",
@@ -6752,6 +6803,7 @@
         "id": "area/south_surrey—white_rock—cloverdale",
         "name": "South Surrey—White Rock—Cloverdale"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/23897",
@@ -6762,6 +6814,7 @@
         "id": "area/rimouski-neigette—témiscouata—les_basques",
         "name": "Rimouski-Neigette—Témiscouata—Les Basques"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/23915",
@@ -6772,6 +6825,7 @@
         "id": "area/niagara_west—glanbrook",
         "name": "Niagara West—Glanbrook"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25446",
@@ -6782,6 +6836,7 @@
         "id": "area/edmonton—spruce_grove",
         "name": "Edmonton—Spruce Grove"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25447",
@@ -6792,6 +6847,7 @@
         "id": "area/elgin—middlesex—london",
         "name": "Elgin—Middlesex—London"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25448",
@@ -6802,6 +6858,7 @@
         "id": "area/lac-saint-louis",
         "name": "Lac-Saint-Louis"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/25453",
@@ -6812,6 +6869,7 @@
         "id": "area/regina—qu'appelle",
         "name": "Regina—Qu'Appelle"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25454",
@@ -6822,6 +6880,7 @@
         "id": "area/bonavista—gander—grand_falls—windsor",
         "name": "Bonavista—Gander—Grand Falls—Windsor"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/25456",
@@ -6832,6 +6891,7 @@
         "id": "area/dufferin—caledon",
         "name": "Dufferin—Caledon"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25461",
@@ -6842,6 +6902,7 @@
         "id": "area/saskatoon—humboldt",
         "name": "Saskatoon—Humboldt"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25462",
@@ -6852,6 +6913,7 @@
         "id": "area/york—simcoe",
         "name": "York—Simcoe"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25465",
@@ -6862,6 +6924,7 @@
         "id": "area/langley",
         "name": "Langley"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25467",
@@ -6872,6 +6935,7 @@
         "id": "area/timmins—james_bay",
         "name": "Timmins—James Bay"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/25470",
@@ -6882,6 +6946,7 @@
         "id": "area/richmond—arthabaska",
         "name": "Richmond—Arthabaska"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/25474",
@@ -6892,6 +6957,7 @@
         "id": "area/selkirk—interlake",
         "name": "Selkirk—Interlake"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25475",
@@ -6902,6 +6968,7 @@
         "id": "area/gatineau",
         "name": "Gatineau"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/25478",
@@ -6912,6 +6979,7 @@
         "id": "area/leeds—grenville",
         "name": "Leeds—Grenville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25483",
@@ -6922,6 +6990,7 @@
         "id": "area/oshawa",
         "name": "Oshawa"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25486",
@@ -6932,6 +7001,7 @@
         "id": "area/wellington—halton_hills",
         "name": "Wellington—Halton Hills"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25488",
@@ -6942,6 +7012,7 @@
         "id": "area/hamilton_centre",
         "name": "Hamilton Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/25489",
@@ -6952,6 +7023,7 @@
         "id": "area/nanaimo—cowichan",
         "name": "Nanaimo—Cowichan"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/25492",
@@ -6962,6 +7034,7 @@
         "id": "area/skeena—bulkley_valley",
         "name": "Skeena—Bulkley Valley"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/25493",
@@ -6972,6 +7045,7 @@
         "id": "area/haliburton—kawartha_lakes—brock",
         "name": "Haliburton—Kawartha Lakes—Brock"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25497",
@@ -6982,6 +7056,7 @@
         "id": "area/haldimand—norfolk",
         "name": "Haldimand—Norfolk"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25501",
@@ -6992,6 +7067,7 @@
         "id": "area/charleswood—st._james—assiniboia",
         "name": "Charleswood—St. James—Assiniboia"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25502",
@@ -7002,6 +7078,7 @@
         "id": "area/cambridge",
         "name": "Cambridge"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25504",
@@ -7012,6 +7089,7 @@
         "id": "area/fleetwood—port_kells",
         "name": "Fleetwood—Port Kells"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25505",
@@ -7022,6 +7100,7 @@
         "id": "area/pitt_meadows—maple_ridge—mission",
         "name": "Pitt Meadows—Maple Ridge—Mission"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25511",
@@ -7032,6 +7111,7 @@
         "id": "area/souris—moose_mountain",
         "name": "Souris—Moose Mountain"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25513",
@@ -7042,6 +7122,7 @@
         "id": "area/stormont—dundas—south_glengarry",
         "name": "Stormont—Dundas—South Glengarry"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25516",
@@ -7052,6 +7133,7 @@
         "id": "area/regina—lumsden—lake_centre",
         "name": "Regina—Lumsden—Lake Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25520",
@@ -7062,6 +7144,7 @@
         "id": "area/bruce—grey—owen_sound",
         "name": "Bruce—Grey—Owen Sound"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25522",
@@ -7072,6 +7155,7 @@
         "id": "area/carleton—mississippi_mills",
         "name": "Carleton—Mississippi Mills"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25523",
@@ -7082,6 +7166,7 @@
         "id": "area/nepean—carleton",
         "name": "Nepean—Carleton"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25524",
@@ -7092,6 +7177,7 @@
         "id": "area/kildonan—st._paul",
         "name": "Kildonan—St. Paul"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/25533",
@@ -7102,6 +7188,7 @@
         "id": "area/outremont",
         "name": "Outremont"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/26684",
@@ -7112,6 +7199,7 @@
         "id": "area/saanich—gulf_islands",
         "name": "Saanich—Gulf Islands"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "green_party",
       "organization_id": "legislature",
       "person_id": "person/2897",
@@ -7122,6 +7210,7 @@
         "id": "area/gaspésie—Îles-de-la-madeleine",
         "name": "Gaspésie—Îles-de-la-Madeleine"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/29881",
@@ -7132,6 +7221,7 @@
         "id": "area/mississauga—streetsville",
         "name": "Mississauga—Streetsville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30314",
@@ -7142,6 +7232,7 @@
         "id": "area/northumberland—quinte_west",
         "name": "Northumberland—Quinte West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30338",
@@ -7152,6 +7243,7 @@
         "id": "area/oak_ridges—markham",
         "name": "Oak Ridges—Markham"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30418",
@@ -7162,6 +7254,7 @@
         "id": "area/scarborough_southwest",
         "name": "Scarborough Southwest"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/30428",
@@ -7172,6 +7265,7 @@
         "id": "area/thunder_bay—rainy_river",
         "name": "Thunder Bay—Rainy River"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/30467",
@@ -7182,6 +7276,7 @@
         "id": "area/willowdale",
         "name": "Willowdale"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30503",
@@ -7192,6 +7287,7 @@
         "id": "area/winnipeg_north",
         "name": "Winnipeg North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/30552",
@@ -7202,6 +7298,7 @@
         "id": "area/edmonton—sherwood_park",
         "name": "Edmonton—Sherwood Park"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30645",
@@ -7212,6 +7309,7 @@
         "id": "area/richmond",
         "name": "Richmond"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30812",
@@ -7222,6 +7320,7 @@
         "id": "area/northwest_territories",
         "name": "Northwest Territories"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/30836",
@@ -7232,6 +7331,7 @@
         "id": "area/tobique—mactaquac",
         "name": "Tobique—Mactaquac"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30892",
@@ -7242,6 +7342,7 @@
         "id": "area/british_columbia_southern_interior",
         "name": "British Columbia Southern Interior"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/30903",
@@ -7252,6 +7353,7 @@
         "id": "area/barrie",
         "name": "Barrie"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30979",
@@ -7262,6 +7364,7 @@
         "id": "area/winnipeg_south",
         "name": "Winnipeg South"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/30982",
@@ -7272,6 +7375,7 @@
         "id": "area/mississauga—erindale",
         "name": "Mississauga—Erindale"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/31086",
@@ -7282,6 +7386,7 @@
         "id": "area/nickel_belt",
         "name": "Nickel Belt"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/31234",
@@ -7292,6 +7397,7 @@
         "id": "area/edmonton_centre",
         "name": "Edmonton Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/31267",
@@ -7302,6 +7408,7 @@
         "id": "area/algoma—manitoulin—kapuskasing",
         "name": "Algoma—Manitoulin—Kapuskasing"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/31289",
@@ -7312,6 +7419,7 @@
         "id": "area/thunder_bay—superior_north",
         "name": "Thunder Bay—Superior North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "green_party",
       "organization_id": "legislature",
       "person_id": "person/31295",
@@ -7322,6 +7430,7 @@
         "id": "area/ahuntsic",
         "name": "Ahuntsic"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/31508",
@@ -7332,6 +7441,7 @@
         "id": "area/lambton—kent—middlesex",
         "name": "Lambton—Kent—Middlesex"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/31664",
@@ -7342,6 +7452,7 @@
         "id": "area/burnaby—douglas",
         "name": "Burnaby—Douglas"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/31701",
@@ -7352,6 +7463,7 @@
         "id": "area/ancaster—dundas—flamborough—westdale",
         "name": "Ancaster—Dundas—Flamborough—Westdale"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/31715",
@@ -7362,6 +7474,7 @@
         "id": "area/chatham-kent—essex",
         "name": "Chatham-Kent—Essex"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/31765",
@@ -7372,6 +7485,7 @@
         "id": "area/burlington",
         "name": "Burlington"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/31791",
@@ -7382,6 +7496,7 @@
         "id": "area/pontiac",
         "name": "Pontiac"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/318",
@@ -7392,6 +7507,7 @@
         "id": "area/parkdale—high_park",
         "name": "Parkdale—High Park"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/3242",
@@ -7402,6 +7518,7 @@
         "id": "area/cardigan",
         "name": "Cardigan"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/33",
@@ -7412,6 +7529,7 @@
         "id": "area/west_nova",
         "name": "West Nova"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35274",
@@ -7422,6 +7540,7 @@
         "id": "area/beauce",
         "name": "Beauce"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35309",
@@ -7432,6 +7551,7 @@
         "id": "area/drummond",
         "name": "Drummond"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/35351",
@@ -7442,6 +7562,7 @@
         "id": "area/lévis—bellechasse",
         "name": "Lévis—Bellechasse"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35389",
@@ -7452,6 +7573,7 @@
         "id": "area/beauport—limoilou",
         "name": "Beauport—Limoilou"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/35396",
@@ -7462,6 +7584,7 @@
         "id": "area/lotbinière—chutes-de-la-chaudière",
         "name": "Lotbinière—Chutes-de-la-Chaudière"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35397",
@@ -7472,6 +7595,7 @@
         "id": "area/louis-hébert",
         "name": "Louis-Hébert"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/35399",
@@ -7482,6 +7606,7 @@
         "id": "area/mégantic—l'Érable",
         "name": "Mégantic—L'Érable"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35422",
@@ -7492,6 +7617,7 @@
         "id": "area/bramalea—gore—malton",
         "name": "Bramalea—Gore—Malton"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35535",
@@ -7502,6 +7628,7 @@
         "id": "area/brant",
         "name": "Brant"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35539",
@@ -7512,6 +7639,7 @@
         "id": "area/don_valley_west",
         "name": "Don Valley West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35555",
@@ -7522,6 +7650,7 @@
         "id": "area/glengarry—prescott—russell",
         "name": "Glengarry—Prescott—Russell"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35580",
@@ -7532,6 +7661,7 @@
         "id": "area/huron—bruce",
         "name": "Huron—Bruce"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35600",
@@ -7542,6 +7672,7 @@
         "id": "area/kitchener—conestoga",
         "name": "Kitchener—Conestoga"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35607",
@@ -7552,6 +7683,7 @@
         "id": "area/newmarket—aurora",
         "name": "Newmarket—Aurora"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35648",
@@ -7562,6 +7694,7 @@
         "id": "area/oakville",
         "name": "Oakville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35663",
@@ -7572,6 +7705,7 @@
         "id": "area/ottawa_centre",
         "name": "Ottawa Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/35665",
@@ -7582,6 +7716,7 @@
         "id": "area/ottawa—orléans",
         "name": "Ottawa—Orléans"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35668",
@@ -7592,6 +7727,7 @@
         "id": "area/st._catharines",
         "name": "St. Catharines"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35697",
@@ -7602,6 +7738,7 @@
         "id": "area/thornhill",
         "name": "Thornhill"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35699",
@@ -7612,6 +7749,7 @@
         "id": "area/sarnia—lambton",
         "name": "Sarnia—Lambton"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35701",
@@ -7622,6 +7760,7 @@
         "id": "area/scarborough_centre",
         "name": "Scarborough Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35707",
@@ -7632,6 +7771,7 @@
         "id": "area/simcoe_north",
         "name": "Simcoe North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35724",
@@ -7642,6 +7782,7 @@
         "id": "area/brampton—springdale",
         "name": "Brampton—Springdale"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35767",
@@ -7652,6 +7793,7 @@
         "id": "area/edmonton—mill_woods—beaumont",
         "name": "Edmonton—Mill Woods—Beaumont"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35857",
@@ -7662,6 +7804,7 @@
         "id": "area/edmonton—strathcona",
         "name": "Edmonton—Strathcona"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/35873",
@@ -7672,6 +7815,7 @@
         "id": "area/peace_river",
         "name": "Peace River"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35886",
@@ -7682,6 +7826,7 @@
         "id": "area/westlock—st._paul",
         "name": "Westlock—St. Paul"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35896",
@@ -7692,6 +7837,7 @@
         "id": "area/wetaskiwin",
         "name": "Wetaskiwin"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35897",
@@ -7702,6 +7848,7 @@
         "id": "area/abbotsford",
         "name": "Abbotsford"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35904",
@@ -7712,6 +7859,7 @@
         "id": "area/kelowna—lake_country",
         "name": "Kelowna—Lake Country"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35933",
@@ -7722,6 +7870,7 @@
         "id": "area/vancouver_quadra",
         "name": "Vancouver Quadra"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/35950",
@@ -7732,6 +7881,7 @@
         "id": "area/okanagan—shuswap",
         "name": "Okanagan—Shuswap"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35952",
@@ -7742,6 +7892,7 @@
         "id": "area/west_vancouver—sunshine_coast—sea_to_sky_country",
         "name": "West Vancouver—Sunshine Coast—Sea to Sky Country"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/35998",
@@ -7752,6 +7903,7 @@
         "id": "area/churchill",
         "name": "Churchill"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/36037",
@@ -7762,6 +7914,7 @@
         "id": "area/st._john's_east",
         "name": "St. John's East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/3633",
@@ -7772,6 +7925,7 @@
         "id": "area/roberval—lac-saint-jean",
         "name": "Roberval—Lac-Saint-Jean"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/38633",
@@ -7782,6 +7936,7 @@
         "id": "area/madawaska—restigouche",
         "name": "Madawaska—Restigouche"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/40463",
@@ -7792,6 +7947,7 @@
         "id": "area/bas-richelieu—nicolet—bécancour",
         "name": "Bas-Richelieu—Nicolet—Bécancour"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "bloc_québécois",
       "organization_id": "legislature",
       "person_id": "person/413",
@@ -7802,6 +7958,7 @@
         "id": "area/marc-aurèle-fortin",
         "name": "Marc-Aurèle-Fortin"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/425",
@@ -7812,6 +7969,7 @@
         "id": "area/saint_john",
         "name": "Saint John"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/4255",
@@ -7822,6 +7980,7 @@
         "id": "area/malpeque",
         "name": "Malpeque"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/43",
@@ -7832,6 +7991,7 @@
         "id": "area/saint-laurent—cartierville",
         "name": "Saint-Laurent—Cartierville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/460",
@@ -7842,6 +8002,7 @@
         "id": "area/nunavut",
         "name": "Nunavut"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/46003",
@@ -7852,6 +8013,7 @@
         "id": "area/yellowhead",
         "name": "Yellowhead"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/48292",
@@ -7862,6 +8024,7 @@
         "id": "area/halton",
         "name": "Halton"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/54325",
@@ -7872,6 +8035,7 @@
         "id": "area/trinity—spadina",
         "name": "Trinity—Spadina"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/54434",
@@ -7882,6 +8046,7 @@
         "id": "area/desnethé—missinippi—churchill_river",
         "name": "Desnethé—Missinippi—Churchill River"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/55139",
@@ -7892,6 +8057,7 @@
         "id": "area/random—burin—st._george's",
         "name": "Random—Burin—St. George's"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/58519",
@@ -7902,6 +8068,7 @@
         "id": "area/st._john's_south—mount_pearl",
         "name": "St. John's South—Mount Pearl"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58528",
@@ -7912,6 +8079,7 @@
         "id": "area/egmont",
         "name": "Egmont"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58537",
@@ -7922,6 +8090,7 @@
         "id": "area/halifax",
         "name": "Halifax"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58550",
@@ -7932,6 +8101,7 @@
         "id": "area/fredericton",
         "name": "Fredericton"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58573",
@@ -7942,6 +8112,7 @@
         "id": "area/miramichi",
         "name": "Miramichi"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58581",
@@ -7952,6 +8123,7 @@
         "id": "area/brossard—la_prairie",
         "name": "Brossard—La Prairie"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58620",
@@ -7962,6 +8134,7 @@
         "id": "area/charlesbourg—haute-saint-charles",
         "name": "Charlesbourg—Haute-Saint-Charles"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58626",
@@ -7972,6 +8145,7 @@
         "id": "area/montmorency—charlevoix—haute-côte-nord",
         "name": "Montmorency—Charlevoix—Haute-Côte-Nord"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58628",
@@ -7982,6 +8156,7 @@
         "id": "area/compton—stanstead",
         "name": "Compton—Stanstead"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58637",
@@ -7992,6 +8167,7 @@
         "id": "area/joliette",
         "name": "Joliette"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58661",
@@ -8002,6 +8178,7 @@
         "id": "area/saint-maurice—champlain",
         "name": "Saint-Maurice—Champlain"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/58697",
@@ -8012,6 +8189,7 @@
         "id": "area/louis-saint-laurent",
         "name": "Louis-Saint-Laurent"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58705",
@@ -8022,6 +8200,7 @@
         "id": "area/papineau",
         "name": "Papineau"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/58733",
@@ -8032,6 +8211,7 @@
         "id": "area/rosemont—la_petite-patrie",
         "name": "Rosemont—La Petite-Patrie"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/58775",
@@ -8042,6 +8222,7 @@
         "id": "area/mississauga_south",
         "name": "Mississauga South"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58833",
@@ -8052,6 +8233,7 @@
         "id": "area/brampton_west",
         "name": "Brampton West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58841",
@@ -8062,6 +8244,7 @@
         "id": "area/eglinton—lawrence",
         "name": "Eglinton—Lawrence"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58866",
@@ -8072,6 +8255,7 @@
         "id": "area/etobicoke_north",
         "name": "Etobicoke North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/58877",
@@ -8082,6 +8266,7 @@
         "id": "area/guelph",
         "name": "Guelph"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/58890",
@@ -8092,6 +8277,7 @@
         "id": "area/kenora",
         "name": "Kenora"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58914",
@@ -8102,6 +8288,7 @@
         "id": "area/kitchener_centre",
         "name": "Kitchener Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58919",
@@ -8112,6 +8299,7 @@
         "id": "area/kitchener—waterloo",
         "name": "Kitchener—Waterloo"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58922",
@@ -8122,6 +8310,7 @@
         "id": "area/london_west",
         "name": "London West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/58939",
@@ -8132,6 +8321,7 @@
         "id": "area/welland",
         "name": "Welland"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/59068",
@@ -8142,6 +8332,7 @@
         "id": "area/york_south—weston",
         "name": "York South—Weston"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/59087",
@@ -8152,6 +8343,7 @@
         "id": "area/portage—lisgar",
         "name": "Portage—Lisgar"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59110",
@@ -8162,6 +8354,7 @@
         "id": "area/saint_boniface",
         "name": "Saint Boniface"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59115",
@@ -8172,6 +8365,7 @@
         "id": "area/palliser",
         "name": "Palliser"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59143",
@@ -8182,6 +8376,7 @@
         "id": "area/prince_albert",
         "name": "Prince Albert"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59148",
@@ -8192,6 +8387,7 @@
         "id": "area/saskatoon—rosetown—biggar",
         "name": "Saskatoon—Rosetown—Biggar"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59156",
@@ -8202,6 +8398,7 @@
         "id": "area/calgary_northeast",
         "name": "Calgary Northeast"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59182",
@@ -8212,6 +8409,7 @@
         "id": "area/edmonton—st._albert",
         "name": "Edmonton—St. Albert"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/59203",
@@ -8222,6 +8420,7 @@
         "id": "area/medicine_hat",
         "name": "Medicine Hat"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59217",
@@ -8232,6 +8431,7 @@
         "id": "area/red_deer",
         "name": "Red Deer"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59226",
@@ -8242,6 +8442,7 @@
         "id": "area/wild_rose",
         "name": "Wild Rose"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59235",
@@ -8252,6 +8453,7 @@
         "id": "area/kamloops—thompson—cariboo",
         "name": "Kamloops—Thompson—Cariboo"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59265",
@@ -8262,6 +8464,7 @@
         "id": "area/north_vancouver",
         "name": "North Vancouver"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59287",
@@ -8272,6 +8475,7 @@
         "id": "area/vancouver_kingsway",
         "name": "Vancouver Kingsway"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/59325",
@@ -8282,6 +8486,7 @@
         "id": "area/vancouver_south",
         "name": "Vancouver South"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/59331",
@@ -8292,6 +8497,7 @@
         "id": "area/avalon",
         "name": "Avalon"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/59346",
@@ -8302,6 +8508,7 @@
         "id": "area/victoria",
         "name": "Victoria"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/60078",
@@ -8312,6 +8519,7 @@
         "id": "area/cumberland—colchester—musquodoboit_valley",
         "name": "Cumberland—Colchester—Musquodoboit Valley"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/63577",
@@ -8322,6 +8530,7 @@
         "id": "area/montmagny—l'islet—kamouraska—rivière-du-loup",
         "name": "Montmagny—L'Islet—Kamouraska—Rivière-du-Loup"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/63589",
@@ -8332,6 +8541,7 @@
         "id": "area/new_westminster—coquitlam",
         "name": "New Westminster—Coquitlam"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/63592",
@@ -8342,6 +8552,7 @@
         "id": "area/hamilton_east—stoney_creek",
         "name": "Hamilton East—Stoney Creek"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/681",
@@ -8352,6 +8563,7 @@
         "id": "area/hamilton_mountain",
         "name": "Hamilton Mountain"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/683",
@@ -8362,6 +8574,7 @@
         "id": "area/vaughan",
         "name": "Vaughan"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/69482",
@@ -8372,6 +8585,7 @@
         "id": "area/dauphin—swan_river—marquette",
         "name": "Dauphin—Swan River—Marquette"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/69488",
@@ -8382,6 +8596,7 @@
         "id": "area/prince_edward—hastings",
         "name": "Prince Edward—Hastings"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/695",
@@ -8392,6 +8607,7 @@
         "id": "area/charlottetown",
         "name": "Charlottetown"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/71270",
@@ -8402,6 +8618,7 @@
         "id": "area/dartmouth—cole_harbour",
         "name": "Dartmouth—Cole Harbour"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71285",
@@ -8412,6 +8629,7 @@
         "id": "area/moncton—riverview—dieppe",
         "name": "Moncton—Riverview—Dieppe"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71319",
@@ -8422,6 +8640,7 @@
         "id": "area/new_brunswick_southwest",
         "name": "New Brunswick Southwest"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71323",
@@ -8432,6 +8651,7 @@
         "id": "area/alfred-pellan",
         "name": "Alfred-Pellan"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71338",
@@ -8442,6 +8662,7 @@
         "id": "area/argenteuil—papineau—mirabel",
         "name": "Argenteuil—Papineau—Mirabel"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71341",
@@ -8452,6 +8673,7 @@
         "id": "area/beauharnois—salaberry",
         "name": "Beauharnois—Salaberry"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71350",
@@ -8462,6 +8684,7 @@
         "id": "area/berthier—maskinongé",
         "name": "Berthier—Maskinongé"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71357",
@@ -8472,6 +8695,7 @@
         "id": "area/brome—missisquoi",
         "name": "Brome—Missisquoi"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71362",
@@ -8482,6 +8706,7 @@
         "id": "area/chambly—borduas",
         "name": "Chambly—Borduas"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71368",
@@ -8492,6 +8717,7 @@
         "id": "area/châteauguay—saint-constant",
         "name": "Châteauguay—Saint-Constant"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71377",
@@ -8502,6 +8728,7 @@
         "id": "area/chicoutimi—le_fjord",
         "name": "Chicoutimi—Le Fjord"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71380",
@@ -8512,6 +8739,7 @@
         "id": "area/hochelaga",
         "name": "Hochelaga"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71395",
@@ -8522,6 +8750,7 @@
         "id": "area/honoré-mercier",
         "name": "Honoré-Mercier"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71398",
@@ -8532,6 +8761,7 @@
         "id": "area/hull—aylmer",
         "name": "Hull—Aylmer"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71401",
@@ -8542,6 +8772,7 @@
         "id": "area/jeanne-le_ber",
         "name": "Jeanne-Le Ber"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71407",
@@ -8552,6 +8783,7 @@
         "id": "area/jonquière—alma",
         "name": "Jonquière—Alma"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "bloc_québécois",
       "organization_id": "legislature",
       "person_id": "person/71413",
@@ -8562,6 +8794,7 @@
         "id": "area/la_pointe-de-l'Île",
         "name": "La Pointe-de-l'Île"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71420",
@@ -8572,6 +8805,7 @@
         "id": "area/lasalle—Émard",
         "name": "LaSalle—Émard"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71424",
@@ -8582,6 +8816,7 @@
         "id": "area/laurentides—labelle",
         "name": "Laurentides—Labelle"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71430",
@@ -8592,6 +8827,7 @@
         "id": "area/laurier—sainte-marie",
         "name": "Laurier—Sainte-Marie"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71434",
@@ -8602,6 +8838,7 @@
         "id": "area/laval",
         "name": "Laval"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71436",
@@ -8612,6 +8849,7 @@
         "id": "area/laval—les_Îles",
         "name": "Laval—Les Îles"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71439",
@@ -8622,6 +8860,7 @@
         "id": "area/longueuil—pierre-boucher",
         "name": "Longueuil—Pierre-Boucher"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71447",
@@ -8632,6 +8871,7 @@
         "id": "area/manicouagan",
         "name": "Manicouagan"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71458",
@@ -8642,6 +8882,7 @@
         "id": "area/haute-gaspésie—la_mitis—matane—matapédia",
         "name": "Haute-Gaspésie—La Mitis—Matane—Matapédia"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "forces_et_démocratie",
       "organization_id": "legislature",
       "person_id": "person/71465",
@@ -8652,6 +8893,7 @@
         "id": "area/montcalm",
         "name": "Montcalm"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/71471",
@@ -8662,6 +8904,7 @@
         "id": "area/notre-dame-de-grâce—lachine",
         "name": "Notre-Dame-de-Grâce—Lachine"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71477",
@@ -8672,6 +8915,7 @@
         "id": "area/abitibi—baie-james—nunavik—eeyou",
         "name": "Abitibi—Baie-James—Nunavik—Eeyou"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71482",
@@ -8682,6 +8926,7 @@
         "id": "area/pierrefonds—dollard",
         "name": "Pierrefonds—Dollard"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71490",
@@ -8692,6 +8937,7 @@
         "id": "area/portneuf—jacques-cartier",
         "name": "Portneuf—Jacques-Cartier"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71496",
@@ -8702,6 +8948,7 @@
         "id": "area/québec",
         "name": "Québec"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71499",
@@ -8712,6 +8959,7 @@
         "id": "area/repentigny",
         "name": "Repentigny"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "forces_et_démocratie",
       "organization_id": "legislature",
       "person_id": "person/71503",
@@ -8722,6 +8970,7 @@
         "id": "area/rivière-des-mille-Îles",
         "name": "Rivière-des-Mille-Îles"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71517",
@@ -8732,6 +8981,7 @@
         "id": "area/rivière-du-nord",
         "name": "Rivière-du-Nord"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71522",
@@ -8742,6 +8992,7 @@
         "id": "area/saint-bruno—saint-hubert",
         "name": "Saint-Bruno—Saint-Hubert"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71530",
@@ -8752,6 +9003,7 @@
         "id": "area/saint-hyacinthe—bagot",
         "name": "Saint-Hyacinthe—Bagot"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71533",
@@ -8762,6 +9014,7 @@
         "id": "area/saint-jean",
         "name": "Saint-Jean"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71537",
@@ -8772,6 +9025,7 @@
         "id": "area/saint-lambert",
         "name": "Saint-Lambert"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71538",
@@ -8782,6 +9036,7 @@
         "id": "area/shefford",
         "name": "Shefford"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71549",
@@ -8792,6 +9047,7 @@
         "id": "area/sherbrooke",
         "name": "Sherbrooke"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71553",
@@ -8802,6 +9058,7 @@
         "id": "area/terrebonne—blainville",
         "name": "Terrebonne—Blainville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71557",
@@ -8812,6 +9069,7 @@
         "id": "area/trois-rivières",
         "name": "Trois-Rivières"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71560",
@@ -8822,6 +9080,7 @@
         "id": "area/vaudreuil-soulanges",
         "name": "Vaudreuil-Soulanges"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71566",
@@ -8832,6 +9091,7 @@
         "id": "area/verchères—les_patriotes",
         "name": "Verchères—Les Patriotes"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/71569",
@@ -8842,6 +9102,7 @@
         "id": "area/ajax—pickering",
         "name": "Ajax—Pickering"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71576",
@@ -8852,6 +9113,7 @@
         "id": "area/beaches—east_york",
         "name": "Beaches—East York"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71585",
@@ -8862,6 +9124,7 @@
         "id": "area/davenport",
         "name": "Davenport"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71611",
@@ -8872,6 +9135,7 @@
         "id": "area/don_valley_east",
         "name": "Don Valley East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71613",
@@ -8882,6 +9146,7 @@
         "id": "area/etobicoke_centre",
         "name": "Etobicoke Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71625",
@@ -8892,6 +9157,7 @@
         "id": "area/etobicoke—lakeshore",
         "name": "Etobicoke—Lakeshore"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71627",
@@ -8902,6 +9168,7 @@
         "id": "area/kingston_and_the_islands",
         "name": "Kingston and the Islands"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/71660",
@@ -8912,6 +9179,7 @@
         "id": "area/london_north_centre",
         "name": "London North Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71680",
@@ -8922,6 +9190,7 @@
         "id": "area/mississauga—brampton_south",
         "name": "Mississauga—Brampton South"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/71688",
@@ -8932,6 +9201,7 @@
         "id": "area/mississauga_east—cooksville",
         "name": "Mississauga East—Cooksville"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71693",
@@ -8942,6 +9212,7 @@
         "id": "area/nipissing—timiskaming",
         "name": "Nipissing—Timiskaming"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71717",
@@ -8952,6 +9223,7 @@
         "id": "area/pickering—scarborough_east",
         "name": "Pickering—Scarborough East"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71755",
@@ -8962,6 +9234,7 @@
         "id": "area/richmond_hill",
         "name": "Richmond Hill"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71762",
@@ -8972,6 +9245,7 @@
         "id": "area/sault_ste._marie",
         "name": "Sault Ste. Marie"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71772",
@@ -8982,6 +9256,7 @@
         "id": "area/scarborough—rouge_river",
         "name": "Scarborough—Rouge River"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71780",
@@ -8992,6 +9267,7 @@
         "id": "area/simcoe—grey",
         "name": "Simcoe—Grey"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71786",
@@ -9002,6 +9278,7 @@
         "id": "area/york_centre",
         "name": "York Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71824",
@@ -9012,6 +9289,7 @@
         "id": "area/elmwood—transcona",
         "name": "Elmwood—Transcona"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71839",
@@ -9022,6 +9300,7 @@
         "id": "area/winnipeg_south_centre",
         "name": "Winnipeg South Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71861",
@@ -9032,6 +9311,7 @@
         "id": "area/calgary_centre-north",
         "name": "Calgary Centre-North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71902",
@@ -9042,6 +9322,7 @@
         "id": "area/lethbridge",
         "name": "Lethbridge"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71945",
@@ -9052,6 +9333,7 @@
         "id": "area/chilliwack—fraser_canyon",
         "name": "Chilliwack—Fraser Canyon"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/71986",
@@ -9062,6 +9344,7 @@
         "id": "area/esquimalt—juan_de_fuca",
         "name": "Esquimalt—Juan de Fuca"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/71995",
@@ -9072,6 +9355,7 @@
         "id": "area/kootenay—columbia",
         "name": "Kootenay—Columbia"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/72006",
@@ -9082,6 +9366,7 @@
         "id": "area/newton—north_delta",
         "name": "Newton—North Delta"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/72018",
@@ -9092,6 +9377,7 @@
         "id": "area/okanagan—coquihalla",
         "name": "Okanagan—Coquihalla"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/72029",
@@ -9102,6 +9388,7 @@
         "id": "area/prince_george—peace_river",
         "name": "Prince George—Peace River"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/72035",
@@ -9112,6 +9399,7 @@
         "id": "area/surrey_north",
         "name": "Surrey North"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/72052",
@@ -9122,6 +9410,7 @@
         "id": "area/yukon",
         "name": "Yukon"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/72079",
@@ -9132,6 +9421,7 @@
         "id": "area/brandon—souris",
         "name": "Brandon—Souris"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/7251",
@@ -9142,6 +9432,7 @@
         "id": "area/durham",
         "name": "Durham"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/72773",
@@ -9152,6 +9443,7 @@
         "id": "area/kings—hants",
         "name": "Kings—Hants"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/74",
@@ -9162,6 +9454,7 @@
         "id": "area/toronto—danforth",
         "name": "Toronto—Danforth"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/75006",
@@ -9172,6 +9465,7 @@
         "id": "area/london—fanshawe",
         "name": "London—Fanshawe"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/764",
@@ -9182,6 +9476,7 @@
         "id": "area/calgary_centre",
         "name": "Calgary Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/77515",
@@ -9192,6 +9487,7 @@
         "id": "area/central_nova",
         "name": "Central Nova"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/82",
@@ -9202,6 +9498,7 @@
         "id": "area/niagara_falls",
         "name": "Niagara Falls"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/820",
@@ -9212,6 +9509,7 @@
         "id": "area/bourassa",
         "name": "Bourassa"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/84660",
@@ -9222,6 +9520,7 @@
         "id": "area/toronto_centre",
         "name": "Toronto Centre"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/84665",
@@ -9232,6 +9531,7 @@
         "id": "area/provencher",
         "name": "Provencher"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/84672",
@@ -9242,6 +9542,7 @@
         "id": "area/scarborough—agincourt",
         "name": "Scarborough—Agincourt"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/86249",
@@ -9252,6 +9553,7 @@
         "id": "area/fort_mcmurray—athabasca",
         "name": "Fort McMurray—Athabasca"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/86260",
@@ -9262,6 +9564,7 @@
         "id": "area/macleod",
         "name": "Macleod"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/86261",
@@ -9272,6 +9575,7 @@
         "id": "area/whitby—oshawa",
         "name": "Whitby—Oshawa"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/86788",
@@ -9282,6 +9586,7 @@
         "id": "area/ottawa—vanier",
         "name": "Ottawa—Vanier"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/873",
@@ -9292,6 +9597,7 @@
         "id": "area/sackville—eastern_shore",
         "name": "Sackville—Eastern Shore"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/88",
@@ -9302,6 +9608,7 @@
         "id": "area/oxford",
         "name": "Oxford"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/891",
@@ -9312,6 +9619,7 @@
         "id": "area/south_shore—st._margaret's",
         "name": "South Shore—St. Margaret's"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/91",
@@ -9322,6 +9630,7 @@
         "id": "area/perth—wellington",
         "name": "Perth—Wellington"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/913",
@@ -9332,6 +9641,7 @@
         "id": "area/saint-léonard—saint-michel",
         "name": "Saint-Léonard—Saint-Michel"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
       "person_id": "person/9135",
@@ -9342,6 +9652,7 @@
         "id": "area/windsor_west",
         "name": "Windsor West"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "person/9137",
@@ -9352,6 +9663,7 @@
         "id": "area/ottawa_south",
         "name": "Ottawa South"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/9486",
@@ -9362,6 +9674,7 @@
         "id": "area/scarborough—guildwood",
         "name": "Scarborough—Guildwood"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/957",
@@ -9372,6 +9685,7 @@
         "id": "area/st._paul's",
         "name": "St. Paul's"
       },
+      "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "person/992",

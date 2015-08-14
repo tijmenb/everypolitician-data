@@ -1,4 +1,5 @@
 {
   "source": "tmtmtmtm/kazakh-mazhilis",
+  "query": "SELECT *, 5 AS term FROM data",
   "fetch_terms": false
 }
