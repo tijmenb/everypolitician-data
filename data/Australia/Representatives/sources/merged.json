@@ -41,6 +41,12 @@
       "gender": "male",
       "given_name": "David",
       "id": "person/72184",
+      "identifiers": [
+        {
+          "identifier": "56655192",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/72184/upload_ref_binary/72184.jpg",
       "images": [
         {
@@ -715,6 +721,10 @@
       "given_name": "Christopher",
       "id": "person/9V5",
       "identifiers": [
+        {
+          "identifier": "94987122",
+          "scheme": "viaf"
+        },
         {
           "identifier": "/m/02td0f",
           "scheme": "freebase"
@@ -2916,6 +2926,14 @@
         {
           "identifier": "69018790.0",
           "scheme": "nta"
+        },
+        {
+          "identifier": "A014",
+          "scheme": "atp"
+        },
+        {
+          "identifier": "10002216",
+          "scheme": "itf"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/m3m.jpg",
@@ -3775,6 +3793,12 @@
       "gender": "female",
       "given_name": "Cathy",
       "id": "person/123674",
+      "identifiers": [
+        {
+          "identifier": "273305801",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/123674/upload_ref_binary/123674.jpg",
       "images": [
         {
@@ -4255,7 +4279,11 @@
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
-
+        {
+          "classification": "legislative period",
+          "id": "term/44",
+          "name": "44"
+        }
       ],
       "name": "Legislature"
     },
@@ -4289,6 +4317,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:holt",
         "name": "Holt, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/008K0",
@@ -4299,6 +4328,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:dickson",
         "name": "Dickson, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AKI",
@@ -4309,6 +4339,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:cowper",
         "name": "Cowper, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AMM",
@@ -4319,6 +4350,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:farrer",
         "name": "Farrer, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AMN",
@@ -4329,6 +4361,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:ballarat",
         "name": "Ballarat, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AMR",
@@ -4339,6 +4372,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:calwell",
         "name": "Calwell, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AMT",
@@ -4349,6 +4383,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:flinders",
         "name": "Flinders, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AMV",
@@ -4359,6 +4394,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:moncrieff",
         "name": "Moncrieff, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AN0",
@@ -4369,6 +4405,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:calare",
         "name": "Calare, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AN1",
@@ -4379,6 +4416,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:gorton",
         "name": "Gorton, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/00AN3",
@@ -4389,6 +4427,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:casey",
         "name": "Casey, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/00APG",
@@ -4399,6 +4438,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:maribyrnong",
         "name": "Maribyrnong, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/00ATG",
@@ -4409,6 +4449,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:eden-monaro",
         "name": "Eden-Monaro, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/00BCM",
@@ -4419,6 +4460,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:berowra",
         "name": "Berowra, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/0J4",
@@ -4429,6 +4471,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:indi",
         "name": "Indi, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
       "organization_id": "chamber/representatives",
       "person_id": "person/123674",
@@ -4439,6 +4482,7 @@
         "id": "ocd-division/country:au/state:tas/federal_electorate:bass",
         "name": "Bass, Tasmania"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/137174",
@@ -4449,6 +4493,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:flynn",
         "name": "Flynn, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/139441",
@@ -4459,6 +4504,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:hotham",
         "name": "Hotham, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/140590",
@@ -4469,6 +4515,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:hinkler",
         "name": "Hinkler, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/148150",
@@ -4479,6 +4526,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:greenway",
         "name": "Greenway, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/159771",
@@ -4489,6 +4537,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:lindsay",
         "name": "Lindsay, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/165476",
@@ -4499,6 +4548,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:kingsford_smith",
         "name": "Kingsford Smith, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/182468",
@@ -4509,6 +4559,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:forde",
         "name": "Forde, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/188315",
@@ -4519,6 +4570,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:gellibrand",
         "name": "Gellibrand, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/193430",
@@ -4529,6 +4581,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:o~connor",
         "name": "O'Connor, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/198084",
@@ -4539,6 +4592,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:dunkley",
         "name": "Dunkley, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/1K6",
@@ -4549,6 +4603,7 @@
         "id": "ocd-division/country:au/state:tas/federal_electorate:braddon",
         "name": "Braddon, Tasmania"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/207800",
@@ -4559,6 +4614,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:pearce",
         "name": "Pearce, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/208884",
@@ -4569,6 +4625,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:wannon",
         "name": "Wannon, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/210911",
@@ -4579,6 +4636,7 @@
         "id": "ocd-division/country:au/state:tas/federal_electorate:lyons",
         "name": "Lyons, Tasmania"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/212585",
@@ -4589,6 +4647,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:ryan",
         "name": "Ryan, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/217266",
@@ -4599,6 +4658,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:page",
         "name": "Page, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/218019",
@@ -4609,6 +4669,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:riverina",
         "name": "Riverina, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/219646",
@@ -4619,6 +4680,7 @@
         "id": "ocd-division/country:au/territory:nt/federal_electorate:solomon",
         "name": "Solomon, Northern Territory"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "country_liberal_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/220370",
@@ -4629,6 +4691,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:dawson",
         "name": "Dawson, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/230485",
@@ -4639,6 +4702,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:wright",
         "name": "Wright, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/230531",
@@ -4649,6 +4713,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:mcpherson",
         "name": "McPherson, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/230886",
@@ -4659,6 +4724,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:hume",
         "name": "Hume, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/231027",
@@ -4669,6 +4735,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:barker",
         "name": "Barker, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/240756",
@@ -4679,6 +4746,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:banks",
         "name": "Banks, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/241067",
@@ -4689,6 +4757,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:gilmore",
         "name": "Gilmore, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/241586",
@@ -4699,6 +4768,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:dobell",
         "name": "Dobell, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/241589",
@@ -4709,6 +4779,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:robertson",
         "name": "Robertson, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/241590",
@@ -4719,6 +4790,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:deakin",
         "name": "Deakin, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/242515",
@@ -4729,6 +4801,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:scullin",
         "name": "Scullin, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/243609",
@@ -4739,6 +4812,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:reid",
         "name": "Reid, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/247130",
@@ -4749,6 +4823,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:petrie",
         "name": "Petrie, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/247742",
@@ -4759,6 +4834,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:griffith",
         "name": "Griffith, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/248006",
@@ -4769,6 +4845,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:newcastle",
         "name": "Newcastle, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/248181",
@@ -4779,6 +4856,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:charlton",
         "name": "Charlton, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/249127",
@@ -4789,6 +4867,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:lalor",
         "name": "Lalor, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/249224",
@@ -4799,6 +4878,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:durack",
         "name": "Durack, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/249308",
@@ -4809,6 +4889,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:bendigo",
         "name": "Bendigo, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/249710",
@@ -4819,6 +4900,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:hindmarsh",
         "name": "Hindmarsh, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/249758",
@@ -4829,6 +4911,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:capricornia",
         "name": "Capricornia, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/249764",
@@ -4839,6 +4922,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:barton",
         "name": "Barton, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/250077",
@@ -4849,6 +4933,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:fisher",
         "name": "Fisher, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/2K6",
@@ -4859,6 +4944,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:lilley",
         "name": "Lilley, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/2V5",
@@ -4869,6 +4955,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:mallee",
         "name": "Mallee, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/30379",
@@ -4879,6 +4966,7 @@
         "id": "ocd-division/country:au/territory:act/federal_electorate:canberra",
         "name": "Canberra, Australian Capital Territory"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/30540",
@@ -4889,6 +4977,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:rankin",
         "name": "Rankin, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/37998",
@@ -4899,6 +4988,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:lyne",
         "name": "Lyne, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/72184",
@@ -4909,6 +4999,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:moore",
         "name": "Moore, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/74046",
@@ -4919,6 +5010,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:leichhardt",
         "name": "Leichhardt, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/7K6",
@@ -4929,6 +5021,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:oxley",
         "name": "Oxley, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/83E",
@@ -4939,6 +5032,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:sydney",
         "name": "Sydney, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/83M",
@@ -4949,6 +5043,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:shortland",
         "name": "Shortland, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/83N",
@@ -4959,6 +5054,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:curtin",
         "name": "Curtin, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/83P",
@@ -4969,6 +5065,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:chisholm",
         "name": "Chisholm, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/83S",
@@ -4979,6 +5076,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:wentworth",
         "name": "Wentworth, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/885",
@@ -4989,6 +5087,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:hunter",
         "name": "Hunter, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/8K6",
@@ -4999,6 +5098,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:werriwa",
         "name": "Werriwa, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/8T4",
@@ -5009,6 +5109,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:brand",
         "name": "Brand, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/8W5",
@@ -5019,6 +5120,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:chifley",
         "name": "Chifley, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/91219",
@@ -5029,6 +5131,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:herbert",
         "name": "Herbert, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/96430",
@@ -5039,6 +5142,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:hughes",
         "name": "Hughes, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/99931",
@@ -5049,6 +5153,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:brisbane",
         "name": "Brisbane, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/9K6",
@@ -5059,6 +5164,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:sturt",
         "name": "Sturt, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/9V5",
@@ -5069,6 +5175,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:throsby",
         "name": "Throsby, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/A9B",
@@ -5079,6 +5186,7 @@
         "id": "ocd-division/country:au/federal_electorate:fraser",
         "name": "Fraser, Australian Capital Territory"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/BU8",
@@ -5089,6 +5197,7 @@
         "id": "ocd-division/country:au/state:tas/federal_electorate:denison",
         "name": "Denison, Tasmania"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
       "organization_id": "chamber/representatives",
       "person_id": "person/C2T",
@@ -5099,6 +5208,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:north_sydney",
         "name": "North Sydney, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/DK6",
@@ -5109,6 +5219,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:tangney",
         "name": "Tangney, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/DYN",
@@ -5119,6 +5230,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:watsno",
         "name": "Watson, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/DYW",
@@ -5129,6 +5241,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:cunningham",
         "name": "Cunningham, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/DZP",
@@ -5139,6 +5252,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:mcmahon",
         "name": "McMahon, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/DZS",
@@ -5149,6 +5263,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:adelaide",
         "name": "Adelaide, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/DZU",
@@ -5159,6 +5274,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:richmond",
         "name": "Richmond, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/DZW",
@@ -5169,6 +5285,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:macquarie",
         "name": "Macquarie, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/E07",
@@ -5179,6 +5296,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:parramatta",
         "name": "Parramatta, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/E09",
@@ -5189,6 +5307,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:bonner",
         "name": "Bonner, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/E0D",
@@ -5199,6 +5318,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:la_trobe",
         "name": "La Trobe, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/E0F",
@@ -5209,6 +5329,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:bowman",
         "name": "Bowman, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/E0H",
@@ -5219,6 +5340,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:stirling",
         "name": "Stirling, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/E0J",
@@ -5229,6 +5351,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:cook",
         "name": "Cook, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/E3L",
@@ -5239,6 +5362,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:new_england",
         "name": "New England, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/E5D",
@@ -5249,6 +5373,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:fowler",
         "name": "Fowler, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/ECV",
@@ -5259,6 +5384,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:murray",
         "name": "Murray, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/EM6",
@@ -5269,6 +5395,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:warringah",
         "name": "Warringah, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/EZ5",
@@ -5279,6 +5406,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:kooyong",
         "name": "Kooyong, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/FKL",
@@ -5289,6 +5417,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:goldstein",
         "name": "Goldstein, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/FU4",
@@ -5299,6 +5428,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:wide_bay",
         "name": "Wide Bay, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/GT4",
@@ -5309,6 +5439,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:menzies",
         "name": "Menzies, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HK5",
@@ -5319,6 +5450,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:blair",
         "name": "Blair, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HVO",
@@ -5329,6 +5461,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:moreton",
         "name": "Moreton, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HVP",
@@ -5339,6 +5472,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:wakefield",
         "name": "Wakefield, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HW9",
@@ -5349,6 +5483,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:kingston",
         "name": "Kingston, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWA",
@@ -5359,6 +5494,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:makin",
         "name": "Makin, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWB",
@@ -5369,6 +5505,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:cowan",
         "name": "Cowan, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWE",
@@ -5379,6 +5516,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:isaacs",
         "name": "Isaacs, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWG",
@@ -5389,6 +5527,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:port_adelaide",
         "name": "Port Adelaide, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWK",
@@ -5399,6 +5538,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:blaxland",
         "name": "Blaxland, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWL",
@@ -5409,6 +5549,7 @@
         "id": "ocd-division/country:au/state:tas/federal_electorate:franklin",
         "name": "Franklin, Tasmania"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWM",
@@ -5419,6 +5560,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:parkes",
         "name": "Parkes, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWN",
@@ -5429,6 +5571,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:mitchell",
         "name": "Mitchell, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWO",
@@ -5439,6 +5582,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:forrest",
         "name": "Forrest, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWP",
@@ -5449,6 +5593,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:corio",
         "name": "Corio, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWQ",
@@ -5459,6 +5604,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:fremantle",
         "name": "Fremantle, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWR",
@@ -5469,6 +5615,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:grey",
         "name": "Grey, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWS",
@@ -5479,6 +5626,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:fadden",
         "name": "Fadden, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HWT",
@@ -5489,6 +5637,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:kennedy",
         "name": "Kennedy, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "katter's_australian_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/HX4",
@@ -5499,6 +5648,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:swan",
         "name": "Swan, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/HYM",
@@ -5509,6 +5659,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:batman",
         "name": "Batman, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/I0O",
@@ -5519,6 +5670,7 @@
         "id": "ocd-division/country:au/territory:nt/federal_electorate:lingiari",
         "name": "Lingiari, Northern Territory"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/IJ4",
@@ -5529,6 +5681,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:gippsland",
         "name": "Gippsland, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/IPZ",
@@ -5539,6 +5692,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:mayo",
         "name": "Mayo, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/IYU",
@@ -5549,6 +5703,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:bradfield",
         "name": "Bradfield, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/L6B",
@@ -5559,6 +5714,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:perth",
         "name": "Perth, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/L6P",
@@ -5569,6 +5725,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:higgins",
         "name": "Higgins, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/LKU",
@@ -5579,6 +5736,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:paterson",
         "name": "Paterson, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/LL6",
@@ -5589,6 +5747,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:fairfax",
         "name": "Fairfax, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "palmer_united_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/LQR",
@@ -5599,6 +5758,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:macarthur",
         "name": "Macarthur, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/M2V",
@@ -5609,6 +5769,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:longman",
         "name": "Longman, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/M2X",
@@ -5619,6 +5780,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:aston",
         "name": "Aston, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/M2Y",
@@ -5629,6 +5791,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:hasluck",
         "name": "Hasluck, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/M3A",
@@ -5639,6 +5802,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:melbourne",
         "name": "Melbourne, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
       "organization_id": "chamber/representatives",
       "person_id": "person/M3C",
@@ -5649,6 +5813,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:mcewen",
         "name": "McEwen, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/M3E",
@@ -5659,6 +5824,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:bennelong",
         "name": "Bennelong, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/M3M",
@@ -5669,6 +5835,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:mcmillan",
         "name": "McMillan, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/MT4",
@@ -5679,6 +5846,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:jagajaga",
         "name": "Jagajaga, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/PG6",
@@ -5689,6 +5857,7 @@
         "id": "ocd-division/country:au/state:wa/federal_electorate:canning",
         "name": "Canning, Western Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/PK6",
@@ -5699,6 +5868,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:grayndler",
         "name": "Grayndler, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/R36",
@@ -5709,6 +5879,7 @@
         "id": "ocd-division/country:au/state:nsw/federal_electorate:mackellar",
         "name": "Mackellar, New South Wales"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/SE4",
@@ -5719,6 +5890,7 @@
         "id": "ocd-division/country:au/state:sa/federal_electorate:boothby",
         "name": "Boothby, South Australia"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/TK6",
@@ -5729,6 +5901,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:wills",
         "name": "Wills, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/UK6",
@@ -5739,6 +5912,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:bruce",
         "name": "Bruce, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/VU5",
@@ -5749,6 +5923,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:melbourne_ports",
         "name": "Melbourne Ports, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "chamber/representatives",
       "person_id": "person/WF6",
@@ -5759,6 +5934,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:groom",
         "name": "Groom, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/WN6",
@@ -5769,6 +5945,7 @@
         "id": "ocd-division/country:au/state:qld/federal_electorate:maranoa",
         "name": "Maranoa, Queensland"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
       "organization_id": "chamber/representatives",
       "person_id": "person/YT4",
@@ -5779,6 +5956,7 @@
         "id": "ocd-division/country:au/state:vic/federal_electorate:corangamite",
         "name": "Corangamite, Victoria"
       },
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
       "organization_id": "chamber/representatives",
       "person_id": "person/ZN4",

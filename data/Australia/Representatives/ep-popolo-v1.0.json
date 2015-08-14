@@ -41,6 +41,12 @@
       "gender": "male",
       "given_name": "David",
       "id": "person/72184",
+      "identifiers": [
+        {
+          "identifier": "56655192",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/72184/upload_ref_binary/72184.jpg",
       "images": [
         {
@@ -715,6 +721,10 @@
       "given_name": "Christopher",
       "id": "person/9V5",
       "identifiers": [
+        {
+          "identifier": "94987122",
+          "scheme": "viaf"
+        },
         {
           "identifier": "/m/02td0f",
           "scheme": "freebase"
@@ -2916,6 +2926,14 @@
         {
           "identifier": "69018790.0",
           "scheme": "nta"
+        },
+        {
+          "identifier": "A014",
+          "scheme": "atp"
+        },
+        {
+          "identifier": "10002216",
+          "scheme": "itf"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/m3m.jpg",
@@ -3775,6 +3793,12 @@
       "gender": "female",
       "given_name": "Cathy",
       "id": "person/123674",
+      "identifiers": [
+        {
+          "identifier": "273305801",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/123674/upload_ref_binary/123674.jpg",
       "images": [
         {
