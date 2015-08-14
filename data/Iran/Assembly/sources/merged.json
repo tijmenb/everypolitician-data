@@ -2551,7 +2551,11 @@
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
-
+        {
+          "classification": "legislative period",
+          "id": "term/9",
+          "name": "9"
+        }
       ],
       "name": "Legislature"
     },
@@ -2790,6 +2794,7 @@
         "id": "area/کرج",
         "name": "کرج"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/ALB-001",
@@ -2800,6 +2805,7 @@
         "id": "area/کرج",
         "name": "کرج"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/ALB-002",
@@ -2810,6 +2816,7 @@
         "id": "area/ساوجبلاغ_/_طالقان",
         "name": "ساوجبلاغ / طالقان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/ALB-003",
@@ -2820,6 +2827,7 @@
         "id": "area/مشکین_شهر",
         "name": "مشکین شهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/ARD-001",
@@ -2830,6 +2838,7 @@
         "id": "area/اردبيل،_نير_و_نمين",
         "name": "اردبيل، نير و نمين"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_-_جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ARD-002",
@@ -2840,6 +2849,7 @@
         "id": "area/پارس‌آباد_و_بيله‌سوار",
         "name": "پارس‌آباد و بيله‌سوار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ARD-003",
@@ -2850,6 +2860,7 @@
         "id": "area/اردبيل،_نير_و_نمين",
         "name": "اردبيل، نير و نمين"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب_",
       "organization_id": "legislature",
       "person_id": "person/ARD-004",
@@ -2860,6 +2871,7 @@
         "id": "area/ﺧﻠﺨﺎل_وﻛﻮﺛﺮ",
         "name": "ﺧﻠﺨﺎل وﻛﻮﺛﺮ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ARD-005",
@@ -2870,6 +2882,7 @@
         "id": "area/اردبيل،_نير_و_نمين",
         "name": "اردبيل، نير و نمين"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/ARD-006",
@@ -2880,6 +2893,7 @@
         "id": "area/گرمی",
         "name": "گرمی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/ARD-007",
@@ -2890,6 +2904,7 @@
         "id": "area/دیر،کنگان_و_جم_",
         "name": "دیر،کنگان و جم    "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/BUS-001",
@@ -2900,6 +2915,7 @@
         "id": "area/دشتی_و_تنگستان_",
         "name": "دشتی و تنگستان      "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/BUS-002",
@@ -2910,6 +2926,7 @@
         "id": "area/بوشهر_ديلم_و_گناوه_",
         "name": "بوشهر ديلم و گناوه "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/BUS-003",
@@ -2920,6 +2937,7 @@
         "id": "area/دشتستان_",
         "name": "دشتستان    "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/BUS-004",
@@ -2930,6 +2948,7 @@
         "id": "area/لردگان",
         "name": "لردگان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/CMB-001",
@@ -2940,6 +2959,7 @@
         "id": "area/شهرکرد",
         "name": "شهرکرد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/CMB-002",
@@ -2950,6 +2970,7 @@
         "id": "area/اردل_/_فارسان_/_کوهرنگ",
         "name": "اردل  / فارسان / کوهرنگ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/CMB-003",
@@ -2960,6 +2981,7 @@
         "id": "area/بروجن",
         "name": "بروجن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/CMB-003",
@@ -2970,6 +2992,7 @@
         "id": "area/ملکان",
         "name": "ملکان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-001",
@@ -2980,6 +3003,7 @@
         "id": "area/بناب",
         "name": "بناب"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-002",
@@ -2990,6 +3014,7 @@
         "id": "area/سراب،_مهربان",
         "name": "سراب، مهربان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-003",
@@ -3000,6 +3025,7 @@
         "id": "area/آذر_شهر،_اسکو،_تبریز",
         "name": "آذر شهر، اسکو، تبریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب_و_صدای_ملت",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-004",
@@ -3010,6 +3036,7 @@
         "id": "area/مرند_و_جلفا",
         "name": "مرند و جلفا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-005",
@@ -3020,6 +3047,7 @@
         "id": "area/میانه",
         "name": "میانه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-006",
@@ -3030,6 +3058,7 @@
         "id": "area/ورزﻗﺎن",
         "name": "ورزﻗﺎن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-007",
@@ -3040,6 +3069,7 @@
         "id": "area/ﻣﺮاﻏﻪ_وﻋﺠﺐ_ﺷﻴﺮ",
         "name": "ﻣﺮاﻏﻪ وﻋﺠﺐ ﺷﻴﺮ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-008",
@@ -3050,6 +3080,7 @@
         "id": "area/_آذر_شهر،_اسکو،_تبریز",
         "name": " آذر شهر، اسکو، تبریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-009",
@@ -3060,6 +3091,7 @@
         "id": "area/آذر_شهر،_اسکو،_تبریز",
         "name": "آذر شهر، اسکو، تبریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-010",
@@ -3070,6 +3102,7 @@
         "id": "area/ﻫﺸﺘﺮود_و_ﭼﺎراوﻳﻤﺎق",
         "name": "ﻫﺸﺘﺮود و ﭼﺎراوﻳﻤﺎق"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-011",
@@ -3080,6 +3113,7 @@
         "id": "area/شبستر",
         "name": "شبستر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-012",
@@ -3090,6 +3124,7 @@
         "id": "area/ﻛﻠﻴﺒﺮوﺑﺨﺶ_ﻫﻮراﻧﺪ",
         "name": "ﻛﻠﻴﺒﺮوﺑﺨﺶ ﻫﻮراﻧﺪ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-013",
@@ -3100,6 +3135,7 @@
         "id": "area/آذر_شهر،_اسکو،_تبریز",
         "name": "آذر شهر، اسکو، تبریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-014",
@@ -3110,6 +3146,7 @@
         "id": "area/اهر،_هریس",
         "name": "اهر، هریس"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-015",
@@ -3120,6 +3157,7 @@
         "id": "area/آذر_شهر،_اسکو،_تبریز",
         "name": "آذر شهر، اسکو، تبریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-016",
@@ -3130,6 +3168,7 @@
         "id": "area/میانه",
         "name": "میانه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-017",
@@ -3140,6 +3179,7 @@
         "id": "area/آذر_شهر،_اسکو،_تبریز",
         "name": "آذر شهر، اسکو، تبریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/صدای_ملت",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-018",
@@ -3150,6 +3190,7 @@
         "id": "area/_بستان_آباد",
         "name": " بستان آباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/E-AZ-019",
@@ -3160,6 +3201,7 @@
         "id": "area/داراب_و_زرین_دشت",
         "name": "داراب و زرین دشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/FAR-001",
@@ -3170,6 +3212,7 @@
         "id": "area/خرامه_سروستان_وکوار",
         "name": "خرامه سروستان وکوار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل_",
       "organization_id": "legislature",
       "person_id": "person/FAR-002",
@@ -3180,6 +3223,7 @@
         "id": "area/مرودشت،_ارسنجان_و_پاسارگاد",
         "name": "مرودشت، ارسنجان و پاسارگاد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/FAR-003",
@@ -3190,6 +3234,7 @@
         "id": "area/خنج،_لارستان،_گراش",
         "name": "خنج، لارستان، گراش"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_پایداری-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/FAR-004",
@@ -3200,6 +3245,7 @@
         "id": "area/شیراز",
         "name": "شیراز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/FAR-005",
@@ -3210,6 +3256,7 @@
         "id": "area/فسا",
         "name": "فسا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/FAR-006",
@@ -3220,6 +3267,7 @@
         "id": "area/شیراز",
         "name": "شیراز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/FAR-007",
@@ -3230,6 +3278,7 @@
         "id": "area/جهرم",
         "name": "جهرم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/FAR-008",
@@ -3240,6 +3289,7 @@
         "id": "area/آباده،_بوانات_و_خرم‌بيد",
         "name": "آباده، بوانات و خرم‌بيد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/FAR-009",
@@ -3250,6 +3300,7 @@
         "id": "area/استهبان_و_نی_ریز",
         "name": "استهبان و نی ریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_صدای_ملت_",
       "organization_id": "legislature",
       "person_id": "person/FAR-010",
@@ -3260,6 +3311,7 @@
         "id": "area/ممسنی",
         "name": "ممسنی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/FAR-011",
@@ -3270,6 +3322,7 @@
         "id": "area/شیراز",
         "name": "شیراز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/FAR-012",
@@ -3280,6 +3333,7 @@
         "id": "area/اقلید",
         "name": "اقلید"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/FAR-013",
@@ -3290,6 +3344,7 @@
         "id": "area/فيروزآباد،_قير_و_كارزين_و_فراشبند",
         "name": "فيروزآباد، قير و كارزين و فراشبند"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/FAR-014",
@@ -3300,6 +3355,7 @@
         "id": "area/شیراز",
         "name": "شیراز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/FAR-015",
@@ -3310,6 +3366,7 @@
         "id": "area/کازرون",
         "name": "کازرون"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/FAR-016",
@@ -3320,6 +3377,7 @@
         "id": "area/لامرد_و_مهر",
         "name": "لامرد و مهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/FAR-017",
@@ -3330,6 +3388,7 @@
         "id": "area/_سپیدان_و_اردكان",
         "name": " سپیدان و اردكان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/FAR-018",
@@ -3340,6 +3399,7 @@
         "id": "area/لنگرود",
         "name": "لنگرود"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/GIL-001",
@@ -3350,6 +3410,7 @@
         "id": "area/رشت",
         "name": "رشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب_",
       "organization_id": "legislature",
       "person_id": "person/GIL-002",
@@ -3360,6 +3421,7 @@
         "id": "area/رشت",
         "name": "رشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/ستقل",
       "organization_id": "legislature",
       "person_id": "person/GIL-003",
@@ -3370,6 +3432,7 @@
         "id": "area/رودبار",
         "name": "رودبار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/GIL-004",
@@ -3380,6 +3443,7 @@
         "id": "area/بندر_انزلی",
         "name": "بندر انزلی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل_",
       "organization_id": "legislature",
       "person_id": "person/GIL-005",
@@ -3390,6 +3454,7 @@
         "id": "area/صومعه_سرا",
         "name": "صومعه سرا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/GIL-006",
@@ -3400,6 +3465,7 @@
         "id": "area/_املش_/_رودسر",
         "name": " املش / رودسر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب_",
       "organization_id": "legislature",
       "person_id": "person/GIL-007",
@@ -3410,6 +3476,7 @@
         "id": "area/طوالش/_رضوانشهر/_ماسال",
         "name": "طوالش/ رضوانشهر/ ماسال"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/GIL-008",
@@ -3420,6 +3487,7 @@
         "id": "area/فومن_،_شفت",
         "name": "فومن ، شفت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/GIL-009",
@@ -3430,6 +3498,7 @@
         "id": "area/آستانه_اشرفیه",
         "name": "آستانه اشرفیه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/GIL-010",
@@ -3440,6 +3509,7 @@
         "id": "area/سیاهکل_/_لاهیجان",
         "name": "سیاهکل / لاهیجان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/GIL-011",
@@ -3450,6 +3520,7 @@
         "id": "area/آستارا",
         "name": "آستارا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/GIL-012",
@@ -3460,6 +3531,7 @@
         "id": "area/رشت",
         "name": "رشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/GIL-013",
@@ -3470,6 +3542,7 @@
         "id": "area/گرگان_و_آق_قلا",
         "name": "گرگان و آق قلا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/GOL-001",
@@ -3480,6 +3553,7 @@
         "id": "area/مینودشت/_گالیکش/_کلاله/مراوه_تپه",
         "name": "مینودشت/ گالیکش/ کلاله/مراوه تپه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/GOL-002",
@@ -3490,6 +3564,7 @@
         "id": "area/_آزادشهر_/_رامیان",
         "name": " آزادشهر / رامیان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/GOL-003",
@@ -3500,6 +3575,7 @@
         "id": "area/گرگان_و_آق_قلا",
         "name": "گرگان و آق قلا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/GOL-004",
@@ -3510,6 +3586,7 @@
         "id": "area/گنبد_کاووس",
         "name": "گنبد کاووس"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/GOL-005",
@@ -3520,6 +3597,7 @@
         "id": "area/_کردکوی/_بندر_ترکمن/_بندرگز",
         "name": " کردکوی/ بندر ترکمن/ بندرگز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/GOL-006",
@@ -3530,6 +3608,7 @@
         "id": "area/علی‌آباد_کتول",
         "name": "علی‌آباد کتول"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/GOL-007",
@@ -3540,6 +3619,7 @@
         "id": "area/ملایر",
         "name": "ملایر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/HAM-001",
@@ -3550,6 +3630,7 @@
         "id": "area/_بهار_/_کبودرآهنگ",
         "name": " بهار / کبودرآهنگ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/HAM-002",
@@ -3560,6 +3641,7 @@
         "id": "area/ملایر",
         "name": "ملایر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/HAM-003",
@@ -3570,6 +3652,7 @@
         "id": "area/همدان_/_فامنین",
         "name": "همدان / فامنین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/HAM-004",
@@ -3580,6 +3663,7 @@
         "id": "area/رزن",
         "name": "رزن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/HAM-005",
@@ -3590,6 +3674,7 @@
         "id": "area/نهاوند",
         "name": "نهاوند"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/HAM-006",
@@ -3600,6 +3685,7 @@
         "id": "area/اسدآباد",
         "name": "اسدآباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/HAM-007",
@@ -3610,6 +3696,7 @@
         "id": "area/همدان_/_فامنین",
         "name": "همدان / فامنین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/HAM-008",
@@ -3620,6 +3707,7 @@
         "id": "area/تویسرکان",
         "name": "تویسرکان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/n/a",
       "organization_id": "legislature",
       "person_id": "person/HAM-009",
@@ -3630,6 +3718,7 @@
         "id": "area/_ابوموسی_/_بندرعباس_/_حاجی‌آباد_/_خمیر_/_قشم",
         "name": " ابوموسی / بندرعباس / حاجی‌آباد / خمیر / قشم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/HOR-001",
@@ -3640,6 +3729,7 @@
         "id": "area/_ابوموسی_/_بندرعباس_/_حاجی‌آباد_/_خمیر_/_قشم",
         "name": " ابوموسی / بندرعباس / حاجی‌آباد / خمیر / قشم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_اصلاح_طلب_",
       "organization_id": "legislature",
       "person_id": "person/HOR-002",
@@ -3650,6 +3740,7 @@
         "id": "area/بستک_/_بندرلنگه_/_پارسیان",
         "name": "بستک / بندرلنگه / پارسیان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/HOR-003",
@@ -3660,6 +3751,7 @@
         "id": "area/جاسک_/_رودان_/_میناب/_سیریک_/_بشاگرد",
         "name": "جاسک / رودان / میناب/ سیریک / بشاگرد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/HOR-004",
@@ -3670,6 +3762,7 @@
         "id": "area/_ابوموسی_/_بندرعباس_/_قشم",
         "name": " ابوموسی / بندرعباس / قشم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/HOR-005",
@@ -3680,6 +3773,7 @@
         "id": "area/نجف_آﺑﺎد_وﺗﻴﺮان_و_ﻛﺮون",
         "name": "نجف آﺑﺎد وﺗﻴﺮان و ﻛﺮون"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-001",
@@ -3690,6 +3784,7 @@
         "id": "area/اصفهان",
         "name": "اصفهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-002",
@@ -3700,6 +3795,7 @@
         "id": "area/ﻓﺮﻳﺪن_وﭼﺎدﮔﺎن_وﻓﺮﻳﺪوﻧﺸﻬﺮ",
         "name": "ﻓﺮﻳﺪن وﭼﺎدﮔﺎن وﻓﺮﻳﺪوﻧﺸﻬﺮ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-003",
@@ -3710,6 +3806,7 @@
         "id": "area/مبارکه",
         "name": "مبارکه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-004",
@@ -3720,6 +3817,7 @@
         "id": "area/اردستان",
         "name": "اردستان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-005",
@@ -3730,6 +3828,7 @@
         "id": "area/برخوار_/_شاهین_شهر_/_میمه",
         "name": "برخوار / شاهین شهر / میمه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ISF-006",
@@ -3740,6 +3839,7 @@
         "id": "area/شهرضا_و_دهاقان_و_منظريه_و_گلشن",
         "name": "شهرضا و دهاقان و منظريه و گلشن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_-_صدای_ملت",
       "organization_id": "legislature",
       "person_id": "person/ISF-007",
@@ -3750,6 +3850,7 @@
         "id": "area/اصفهان",
         "name": "اصفهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_-_جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ISF-008",
@@ -3760,6 +3861,7 @@
         "id": "area/خمینی_شهر",
         "name": "خمینی شهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-009",
@@ -3770,6 +3872,7 @@
         "id": "area/نائين،_خور_و_بيابانك",
         "name": "نائين، خور و بيابانك"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ISF-010",
@@ -3780,6 +3883,7 @@
         "id": "area/سمیرم",
         "name": "سمیرم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-011",
@@ -3790,6 +3894,7 @@
         "id": "area/اصفهان",
         "name": "اصفهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_-_جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ISF-012",
@@ -3800,6 +3905,7 @@
         "id": "area/نطنز_و_قمصر",
         "name": "نطنز و قمصر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-013",
@@ -3810,6 +3916,7 @@
         "id": "area/اصفهان",
         "name": "اصفهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/ISF-014",
@@ -3820,6 +3927,7 @@
         "id": "area/_کاشان،_آران_و_بیدگل",
         "name": " کاشان، آران و بیدگل"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-015",
@@ -3830,6 +3938,7 @@
         "id": "area/ﻟﻨﺠﺎن",
         "name": "ﻟﻨﺠﺎن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-016",
@@ -3840,6 +3949,7 @@
         "id": "area/ﻓﻼورﺟﺎن",
         "name": "ﻓﻼورﺟﺎن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_-_جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ISF-017",
@@ -3850,6 +3960,7 @@
         "id": "area/خوانسار_/_گلپایگان",
         "name": "خوانسار / گلپایگان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/ISF-018",
@@ -3860,6 +3971,7 @@
         "id": "area/اصفهان",
         "name": "اصفهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-019",
@@ -3870,6 +3982,7 @@
         "id": "area/ﻣﺴﻴﺤﻴﺎن_ارﻣﻨﻲ_ﺟﻨﻮب_اﻳﺮان",
         "name": "ﻣﺴﻴﺤﻴﺎن ارﻣﻨﻲ ﺟﻨﻮب اﻳﺮان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ISF-020",
@@ -3880,6 +3993,7 @@
         "id": "area/رفسنجان_و_انار",
         "name": "رفسنجان و انار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KER-001",
@@ -3890,6 +4004,7 @@
         "id": "area/زرﻧﺪ_وﻛﻮﻫﺒﻨﺎن",
         "name": "زرﻧﺪ وﻛﻮﻫﺒﻨﺎن"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/KER-002",
@@ -3900,6 +4015,7 @@
         "id": "area/رودبار_جنوب_/_فاریاب_/_قلعه_گنج_/_منوجان_/_کهنوج",
         "name": "رودبار جنوب / فاریاب / قلعه گنج / منوجان / کهنوج"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/KER-003",
@@ -3910,6 +4026,7 @@
         "id": "area/راور_و_کرمان",
         "name": "راور و کرمان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KER-004",
@@ -3920,6 +4037,7 @@
         "id": "area/ﺳﻴﺮﺟﺎن_و_ﺑﺮدﺳﻴﺮ",
         "name": "ﺳﻴﺮﺟﺎن و ﺑﺮدﺳﻴﺮ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_-_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/KER-005",
@@ -3930,6 +4048,7 @@
         "id": "area/راور_و_کرمان",
         "name": "راور و کرمان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/KER-006",
@@ -3940,6 +4059,7 @@
         "id": "area/جیرفت_وعنبرآباد",
         "name": "جیرفت وعنبرآباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KER-007",
@@ -3950,6 +4070,7 @@
         "id": "area/بم،_ریگان_(فهرج،_و_نرماشیر)",
         "name": "بم،  ریگان (فهرج، و نرماشیر)"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/KER-008",
@@ -3960,6 +4081,7 @@
         "id": "area/ﺷﻬﺮ_ﺑﺎﺑﻚ_",
         "name": "ﺷﻬﺮ ﺑﺎﺑﻚ "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KER-009",
@@ -3970,6 +4092,7 @@
         "id": "area/بافت_(رابُر_و_اُرزوئیه)",
         "name": "بافت (رابُر و اُرزوئیه)"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/KER-010",
@@ -3980,6 +4103,7 @@
         "id": "area/ماهشهر_،امیدیه_و_هندیجان",
         "name": "ماهشهر ،امیدیه و هندیجان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_و_جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/KHU-001",
@@ -3990,6 +4114,7 @@
         "id": "area/آبادان",
         "name": "آبادان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/KHU-002",
@@ -4000,6 +4125,7 @@
         "id": "area/راﻣﻬﺮﻣﺰ_و_راﻣﺸﻴﺮ",
         "name": "راﻣﻬﺮﻣﺰ و راﻣﺸﻴﺮ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-003",
@@ -4010,6 +4136,7 @@
         "id": "area/دزفول",
         "name": "دزفول"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-004",
@@ -4020,6 +4147,7 @@
         "id": "area/شادگان",
         "name": "شادگان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-005",
@@ -4030,6 +4158,7 @@
         "id": "area/_مسجدسليمان،_لالي،_انديكا_و_هفتكل",
         "name": " مسجدسليمان، لالي، انديكا و هفتكل"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-006",
@@ -4040,6 +4169,7 @@
         "id": "area/اهواز",
         "name": "اهواز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KHU-007",
@@ -4050,6 +4180,7 @@
         "id": "area/اندیمشک",
         "name": "اندیمشک"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-008",
@@ -4060,6 +4191,7 @@
         "id": "area/اﻳﺬه_و_ﺑﺎﻏﻤﻠﻚ",
         "name": "اﻳﺬه و ﺑﺎﻏﻤﻠﻚ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KHU-009",
@@ -4070,6 +4202,7 @@
         "id": "area/آبادان",
         "name": "آبادان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-010",
@@ -4080,6 +4213,7 @@
         "id": "area/شوشتر،_گتوند_",
         "name": "شوشتر، گتوند  "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/KHU-011",
@@ -4090,6 +4224,7 @@
         "id": "area/خرمشهر_",
         "name": "خرمشهر "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-012",
@@ -4100,6 +4235,7 @@
         "id": "area/آبادان",
         "name": "آبادان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/KHU-013",
@@ -4110,6 +4246,7 @@
         "id": "area/اهواز",
         "name": "اهواز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_و_جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/KHU-014",
@@ -4120,6 +4257,7 @@
         "id": "area/بهبهان",
         "name": "بهبهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KHU-015",
@@ -4130,6 +4268,7 @@
         "id": "area/دﺷﺖ_آزادﮔﺎن_و_ﻫﻮﻳﺰه",
         "name": "دﺷﺖ آزادﮔﺎن و ﻫﻮﻳﺰه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/KHU-016",
@@ -4140,6 +4279,7 @@
         "id": "area/اهواز",
         "name": "اهواز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد،_جبهه_پایداری_و_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KHU-017",
@@ -4150,6 +4290,7 @@
         "id": "area/شوش_",
         "name": "شوش "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد،_جبهه_پایداری_و_جبهه_ایستادگی_(اصولگرا)_",
       "organization_id": "legislature",
       "person_id": "person/KHU-018",
@@ -4160,6 +4301,7 @@
         "id": "area/بهمئی_/_کهگیلویه/_چرام/_لنده",
         "name": "بهمئی / کهگیلویه/ چرام/ لنده"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/KOH-001",
@@ -4170,6 +4312,7 @@
         "id": "area/_گچساران/_باشت",
         "name": " گچساران/ باشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/KOH-002",
@@ -4180,6 +4323,7 @@
         "id": "area/بویراحمد",
         "name": "بویراحمد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/KOH-003",
@@ -4190,6 +4334,7 @@
         "id": "area/بیجار",
         "name": "بیجار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/KRD-001",
@@ -4200,6 +4345,7 @@
         "id": "area/بانه_،_سقز",
         "name": "بانه ، سقز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KRD-002",
@@ -4210,6 +4356,7 @@
         "id": "area/دیواندره_/_سنندج_/_کامیاران",
         "name": "دیواندره / سنندج / کامیاران"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KRD-003",
@@ -4220,6 +4367,7 @@
         "id": "area/قروه/_دهگلان_",
         "name": "قروه/ دهگلان "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KRD-004",
@@ -4230,6 +4378,7 @@
         "id": "area/دیواندره_/_سنندج_/_کامیاران",
         "name": "دیواندره / سنندج / کامیاران"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/KRD-005",
@@ -4240,6 +4389,7 @@
         "id": "area/_سروآباد_/_مریوان",
         "name": " سروآباد / مریوان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KRD-006",
@@ -4250,6 +4400,7 @@
         "id": "area/صحنه_/_هرسین_/_کنگاور",
         "name": "صحنه / هرسین / کنگاور"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KRS-001",
@@ -4260,6 +4411,7 @@
         "id": "area/_اسلام‌آباد_غرب_/_دالاهو",
         "name": " اسلام‌آباد غرب / دالاهو"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/KRS-002",
@@ -4270,6 +4422,7 @@
         "id": "area/سرپل_ذهاب_/_قصر_شیرین_/_گیلانغرب",
         "name": "سرپل ذهاب / قصر شیرین / گیلانغرب"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KRS-003",
@@ -4280,6 +4433,7 @@
         "id": "area/کرمانشاه",
         "name": "کرمانشاه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KRS-004",
@@ -4290,6 +4444,7 @@
         "id": "area/کرمانشاه",
         "name": "کرمانشاه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/KRS-005",
@@ -4300,6 +4455,7 @@
         "id": "area/سنقرکلیایی",
         "name": "سنقرکلیایی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/KRS-006",
@@ -4310,6 +4466,7 @@
         "id": "area/کرمانشاه",
         "name": "کرمانشاه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/KRS-007",
@@ -4320,6 +4477,7 @@
         "id": "area/جوانرود_/_پاوه/_روانسر/_ثلاث_باباجانی",
         "name": "جوانرود / پاوه/ روانسر/ ثلاث باباجانی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/KRS-008",
@@ -4330,6 +4488,7 @@
         "id": "area/آبدانان_/_دره_شهر_/_دهلران",
         "name": "آبدانان / دره شهر / دهلران"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/LAM-001",
@@ -4340,6 +4499,7 @@
         "id": "area/ایوان_/_شیروان_و_چرداول_/_ملکشاهی_/_مهران",
         "name": "ایوان / شیروان و چرداول / ملکشاهی / مهران"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/LAM-002",
@@ -4350,6 +4510,7 @@
         "id": "area/ایوان_/_شیروان_و_چرداول_/_ملکشاهی_/_مهران",
         "name": "ایوان / شیروان و چرداول / ملکشاهی / مهران"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/LAM-003",
@@ -4360,6 +4521,7 @@
         "id": "area/خرم_آباد",
         "name": "خرم آباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/LOR-001",
@@ -4370,6 +4532,7 @@
         "id": "area/بروجرد",
         "name": "بروجرد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/LOR-002",
@@ -4380,6 +4543,7 @@
         "id": "area/بروجرد",
         "name": "بروجرد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/LOR-003",
@@ -4390,6 +4554,7 @@
         "id": "area/الیگودرز",
         "name": "الیگودرز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/LOR-004",
@@ -4400,6 +4565,7 @@
         "id": "area/دلفان_و_سلسله",
         "name": "دلفان و سلسله"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/LOR-005",
@@ -4410,6 +4576,7 @@
         "id": "area/خرم_آباد",
         "name": "خرم آباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/LOR-006",
@@ -4420,6 +4587,7 @@
         "id": "area/_ازنا،_دورود",
         "name": " ازنا، دورود"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/LOR-007",
@@ -4430,6 +4598,7 @@
         "id": "area/کوهدشت",
         "name": "کوهدشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/LOR-008",
@@ -4440,6 +4609,7 @@
         "id": "area/پلدختر",
         "name": "پلدختر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/LOR-009",
@@ -4450,6 +4620,7 @@
         "id": "area/نوشهر/_چالوس",
         "name": "نوشهر/ چالوس"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MAZ-001",
@@ -4460,6 +4631,7 @@
         "id": "area/جویبار_/_سوادکوه_/_قائمشهر",
         "name": "جویبار / سوادکوه / قائمشهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/MAZ-002",
@@ -4470,6 +4642,7 @@
         "id": "area/ساری",
         "name": "ساری"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/MAZ-003",
@@ -4480,6 +4653,7 @@
         "id": "area/ساری",
         "name": "ساری"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MAZ-004",
@@ -4490,6 +4664,7 @@
         "id": "area/جویبار_/_سوادکوه_/_قائمشهر",
         "name": "جویبار / سوادکوه / قائمشهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/MAZ-005",
@@ -4500,6 +4675,7 @@
         "id": "area/نور_/_محمود_آباد",
         "name": "نور / محمود آباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/MAZ-006",
@@ -4510,6 +4686,7 @@
         "id": "area/بهشهر_/_نکا_/_گلوگاه",
         "name": "بهشهر / نکا / گلوگاه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MAZ-007",
@@ -4520,6 +4697,7 @@
         "id": "area/بابل",
         "name": "بابل"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MAZ-008",
@@ -4530,6 +4708,7 @@
         "id": "area/بابلسر_/_فریدون_کنار",
         "name": "بابلسر / فریدون کنار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/MAZ-009",
@@ -4540,6 +4719,7 @@
         "id": "area/بابل",
         "name": "بابل"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MAZ-010",
@@ -4550,6 +4730,7 @@
         "id": "area/آمل",
         "name": "آمل"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/MAZ-011",
@@ -4560,6 +4741,7 @@
         "id": "area/تنکابن_/_رامسر_/_عباس_آباد",
         "name": "تنکابن / رامسر / عباس آباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/n/a",
       "organization_id": "legislature",
       "person_id": "person/MAZ-012",
@@ -4570,6 +4752,7 @@
         "id": "area/_اراک_/_خنداب_/_کمیجان",
         "name": " اراک / خنداب / کمیجان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MRK-001",
@@ -4580,6 +4763,7 @@
         "id": "area/_اراک_/_خنداب_/_کمیجان",
         "name": " اراک / خنداب / کمیجان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/MRK-002",
@@ -4590,6 +4774,7 @@
         "id": "area/خمین،_محلات",
         "name": "خمین، محلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MRK-003",
@@ -4600,6 +4785,7 @@
         "id": "area/دلیجان،_محلات",
         "name": "دلیجان، محلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MRK-004",
@@ -4610,6 +4796,7 @@
         "id": "area/_آشتیان_/_تفرش_/_فراهان",
         "name": " آشتیان / تفرش / فراهان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/MRK-005",
@@ -4620,6 +4807,7 @@
         "id": "area/شازند",
         "name": "شازند"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/MRK-006",
@@ -4630,6 +4818,7 @@
         "id": "area/زرندیه،_ساوه",
         "name": "زرندیه، ساوه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/MRK-007",
@@ -4640,6 +4829,7 @@
         "id": "area/بجنورد،_جاجرم،_مانه،سملفان_وگرمه",
         "name": "بجنورد، جاجرم، مانه،سملفان وگرمه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/N-KH-001",
@@ -4650,6 +4840,7 @@
         "id": "area/بجنورد،_جاجرم،_مانه،سملفان_وگرمه",
         "name": "بجنورد، جاجرم، مانه،سملفان وگرمه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/N-KH-002",
@@ -4660,6 +4851,7 @@
         "id": "area/شیروان",
         "name": "شیروان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/N-KH-003",
@@ -4670,6 +4862,7 @@
         "id": "area/اسفراین",
         "name": "اسفراین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "person/N-KH-004",
@@ -4680,6 +4873,7 @@
         "id": "area/آبیک_/_البرز_/_قزوین",
         "name": "آبیک / البرز / قزوین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/QAZ-001",
@@ -4690,6 +4884,7 @@
         "id": "area/تاکستان",
         "name": "تاکستان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/QAZ-002",
@@ -4700,6 +4895,7 @@
         "id": "area/بوئین_زهرا",
         "name": "بوئین زهرا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/QAZ-003",
@@ -4710,6 +4906,7 @@
         "id": "area/_آبیک_/_البرز_/_قزوین",
         "name": " آبیک / البرز / قزوین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/QAZ-004",
@@ -4720,6 +4917,7 @@
         "id": "area/قم",
         "name": "قم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/QOM-001",
@@ -4730,6 +4928,7 @@
         "id": "area/قم",
         "name": "قم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_-_صدای_ملت",
       "organization_id": "legislature",
       "person_id": "person/QOM-002",
@@ -4740,6 +4939,7 @@
         "id": "area/قم",
         "name": "قم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/QOM-003",
@@ -4750,6 +4950,7 @@
         "id": "area/تایباد_و_تربت_جام_و_باخرز",
         "name": "تایباد و تربت جام و باخرز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/R-KH-001",
@@ -4760,6 +4961,7 @@
         "id": "area/کاشمرو_بردسکن_وخلیل_آباد",
         "name": "کاشمرو بردسکن وخلیل آباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-002",
@@ -4770,6 +4972,7 @@
         "id": "area/مشهد_و_کلات",
         "name": "مشهد و کلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/R-KH-003",
@@ -4780,6 +4983,7 @@
         "id": "area/مشهد_و_کلات",
         "name": "مشهد و کلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/R-KH-004",
@@ -4790,6 +4994,7 @@
         "id": "area/مشهد_و_کلات",
         "name": "مشهد و کلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/R-KH-005",
@@ -4800,6 +5005,7 @@
         "id": "area/_تربت_‌حيدريه،_مه_و_لات،_زاوه_",
         "name": " تربت ‌حيدريه، مه و لات، زاوه "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-006",
@@ -4810,6 +5016,7 @@
         "id": "area/چناران_وطرقبه",
         "name": "چناران وطرقبه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/R-KH-007",
@@ -4820,6 +5027,7 @@
         "id": "area/گناباد",
         "name": "گناباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-008",
@@ -4830,6 +5038,7 @@
         "id": "area/سبزوارو_جغتای_و_جوین",
         "name": "سبزوارو جغتای و جوین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/R-KH-009",
@@ -4840,6 +5049,7 @@
         "id": "area/نیشابور_وتخت_جلگه",
         "name": "نیشابور وتخت جلگه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/R-KH-010",
@@ -4850,6 +5060,7 @@
         "id": "area/احمد_آباد_،_رضویه_،_سرخس_،_فریمان",
         "name": "احمد آباد ، رضویه ، سرخس ، فریمان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-011",
@@ -4860,6 +5071,7 @@
         "id": "area/قوچان_و_فاروج_",
         "name": "قوچان و فاروج "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-012",
@@ -4870,6 +5082,7 @@
         "id": "area/مشهد_و_کلات",
         "name": "مشهد و کلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/R-KH-013",
@@ -4880,6 +5093,7 @@
         "id": "area/سبزوارو_جغتای_و_جوین",
         "name": "سبزوارو جغتای و جوین"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-014",
@@ -4890,6 +5104,7 @@
         "id": "area/درگز",
         "name": "درگز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/R-KH-015",
@@ -4900,6 +5115,7 @@
         "id": "area/نيشابورو_تخت‌جلگه_",
         "name": "نيشابورو تخت‌جلگه "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/R-KH-016",
@@ -4910,6 +5126,7 @@
         "id": "area/خواف_و_رشتخوار",
         "name": "خواف و رشتخوار"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/R-KH-017",
@@ -4920,6 +5137,7 @@
         "id": "area/مشهد_و_کلات",
         "name": "مشهد و کلات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/R-KH-018",
@@ -4930,6 +5148,7 @@
         "id": "area/بیرجند،_درمیان",
         "name": "بیرجند، درمیان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/S-KH-001",
@@ -4940,6 +5159,7 @@
         "id": "area/فردوس/_طبس/‌_بشرويه/_سرايان",
         "name": "فردوس/ طبس/‌ بشرويه/ سرايان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_اصلاح_طلب_",
       "organization_id": "legislature",
       "person_id": "person/S-KH-002",
@@ -4950,6 +5170,7 @@
         "id": "area/نهبندان_و_سربيشه",
         "name": "نهبندان و سربيشه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/S-KH-003",
@@ -4960,6 +5181,7 @@
         "id": "area/قائنات",
         "name": "قائنات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/S-KH-004",
@@ -4970,6 +5192,7 @@
         "id": "area/شاهرود",
         "name": "شاهرود"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/SEM-001",
@@ -4980,6 +5203,7 @@
         "id": "area/سمنان/_مهديشهر_",
         "name": "سمنان/ مهديشهر "
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/SEM-002",
@@ -4990,6 +5214,7 @@
         "id": "area/دامغان",
         "name": "دامغان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/SEM-003",
@@ -5000,6 +5225,7 @@
         "id": "area/گرمسار_،_آرادان",
         "name": "گرمسار ، آرادان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/SEM-004",
@@ -5010,6 +5236,7 @@
         "id": "area/_ایرانشهرو_سربازو_فنوج",
         "name": " ایرانشهرو سربازو فنوج"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/SIS-001",
@@ -5020,6 +5247,7 @@
         "id": "area/ﺧﺎش_و_بخش_های_ﻧﺼﺮت_آﺑﺎد_و_ﻣﻴﺮﺟﺎوه_و_ﻛﻮرﻳﻦ",
         "name": "ﺧﺎش و بخش های ﻧﺼﺮت آﺑﺎد و ﻣﻴﺮﺟﺎوه و ﻛﻮرﻳﻦ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/SIS-002",
@@ -5030,6 +5258,7 @@
         "id": "area/چابهار_و_کنارک_و_نیک‌شهر",
         "name": "چابهار و کنارک و نیک‌شهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/SIS-003",
@@ -5040,6 +5269,7 @@
         "id": "area/_زابل_و_زهک_و_ﻣﻴﺎﻧﻜﻨﮕﻲ",
         "name": " زابل و زهک و ﻣﻴﺎﻧﻜﻨﮕﻲ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/SIS-004",
@@ -5050,6 +5280,7 @@
         "id": "area/زاهدان",
         "name": "زاهدان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/SIS-005",
@@ -5060,6 +5291,7 @@
         "id": "area/زابل_و_زهك_و_ﻣﻴﺎﻧﻜﻨﮕﻲ",
         "name": "زابل و زهك و ﻣﻴﺎﻧﻜﻨﮕﻲ"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/SIS-006",
@@ -5070,6 +5302,7 @@
         "id": "area/سراوان،_سيب،_سوران_و_زابلی",
         "name": "سراوان، سيب، سوران و زابلی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/SIS-007",
@@ -5080,6 +5313,7 @@
         "id": "area/زاهدان",
         "name": "زاهدان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/SIS-008",
@@ -5090,6 +5324,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/TEH-001",
@@ -5100,6 +5335,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-002",
@@ -5110,6 +5346,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/TEH-003",
@@ -5120,6 +5357,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/TEH-004",
@@ -5130,6 +5368,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/TEH-005",
@@ -5140,6 +5379,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/TEH-006",
@@ -5150,6 +5390,7 @@
         "id": "area/پاکدشت",
         "name": "پاکدشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-007",
@@ -5160,6 +5401,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/TEH-008",
@@ -5170,6 +5412,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-009",
@@ -5180,6 +5423,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-010",
@@ -5190,6 +5434,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/TEH-011",
@@ -5200,6 +5445,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-012",
@@ -5210,6 +5456,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/TEH-013",
@@ -5220,6 +5467,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-014",
@@ -5230,6 +5478,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/TEH-015",
@@ -5240,6 +5489,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/TEH-016",
@@ -5250,6 +5500,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-017",
@@ -5260,6 +5511,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-018",
@@ -5270,6 +5522,7 @@
         "id": "area/شهر_قدس_/_شهریار_/_ملارد",
         "name": "شهر قدس / شهریار / ملارد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-019",
@@ -5280,6 +5533,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_صدای_ملت_–_اصلاح_طلب_",
       "organization_id": "legislature",
       "person_id": "person/TEH-020",
@@ -5290,6 +5544,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-021",
@@ -5300,6 +5555,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/TEH-022",
@@ -5310,6 +5566,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_ایستادگی-_صدای_ملت_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/TEH-023",
@@ -5320,6 +5577,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/TEH-024",
@@ -5330,6 +5588,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-025",
@@ -5340,6 +5599,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد-_جبهه_ایستادگی_",
       "organization_id": "legislature",
       "person_id": "person/TEH-026",
@@ -5350,6 +5610,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-027",
@@ -5360,6 +5621,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/TEH-028",
@@ -5370,6 +5632,7 @@
         "id": "area/ورامین/_قرچک/_پیشوا",
         "name": "ورامین/ قرچک/ پیشوا"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-029",
@@ -5380,6 +5643,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-030",
@@ -5390,6 +5654,7 @@
         "id": "area/رباط‌كريم/_بهارستان",
         "name": "رباط‌كريم/ بهارستان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-031",
@@ -5400,6 +5665,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-032",
@@ -5410,6 +5676,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/TEH-033",
@@ -5420,6 +5687,7 @@
         "id": "area/اسلامشهر_/_تهران_/_ری_/_شمیرانات",
         "name": "اسلامشهر / تهران / ری / شمیرانات"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_",
       "organization_id": "legislature",
       "person_id": "person/TEH-034",
@@ -5430,6 +5698,7 @@
         "id": "area/دماوند،_فیروزکوه",
         "name": "دماوند، فیروزکوه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/n/a",
       "organization_id": "legislature",
       "person_id": "person/TEH-035",
@@ -5440,6 +5709,7 @@
         "id": "area/مسیحیان_آشوری_/_کلدانی",
         "name": "مسیحیان آشوری / کلدانی"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-036",
@@ -5450,6 +5720,7 @@
         "id": "area/مسیحیان_ارامنه_شمال_کشور",
         "name": "مسیحیان ارامنه شمال کشور"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-037",
@@ -5460,6 +5731,7 @@
         "id": "area/زرتشتیان",
         "name": "زرتشتیان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-038",
@@ -5470,6 +5742,7 @@
         "id": "area/کلیمیان",
         "name": "کلیمیان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/TEH-039",
@@ -5480,6 +5753,7 @@
         "id": "area/سلماس",
         "name": "سلماس"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-001",
@@ -5490,6 +5764,7 @@
         "id": "area/مهاباد",
         "name": "مهاباد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-002",
@@ -5500,6 +5775,7 @@
         "id": "area/تکاب_/_شاهین_دژ_/_میاندوآب",
         "name": "تکاب / شاهین دژ / میاندوآب"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-003",
@@ -5510,6 +5786,7 @@
         "id": "area/ارومیه",
         "name": "ارومیه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-004",
@@ -5520,6 +5797,7 @@
         "id": "area/_اشنویه_/_نقده",
         "name": " اشنویه / نقده"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-005",
@@ -5530,6 +5808,7 @@
         "id": "area/خوی/_چایپاره",
         "name": "خوی/ چایپاره"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-006",
@@ -5540,6 +5819,7 @@
         "id": "area/سردشت_/_پیرانشهر",
         "name": "سردشت / پیرانشهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-007",
@@ -5550,6 +5830,7 @@
         "id": "area/بوکان",
         "name": "بوکان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-008",
@@ -5560,6 +5841,7 @@
         "id": "area/ماکو_/_چالدران/_شوط_و_پلدشت",
         "name": "ماکو / چالدران/ شوط و پلدشت"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-009",
@@ -5570,6 +5852,7 @@
         "id": "area/تکاب_/_شاهین_دژ_/_میاندوآب",
         "name": "تکاب / شاهین دژ / میاندوآب"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_ایستادگی_–_اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-010",
@@ -5580,6 +5863,7 @@
         "id": "area/ارومیه",
         "name": "ارومیه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-011",
@@ -5590,6 +5874,7 @@
         "id": "area/ارومیه",
         "name": "ارومیه"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/W-AZ-012",
@@ -5600,6 +5885,7 @@
         "id": "area/اردکان",
         "name": "اردکان"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/اصلاح_طلب",
       "organization_id": "legislature",
       "person_id": "person/YAZ-001",
@@ -5610,6 +5896,7 @@
         "id": "area/یزد_و_صدوق",
         "name": "یزد و صدوق"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/YAZ-002",
@@ -5620,6 +5907,7 @@
         "id": "area/ابرکوه،_بافق،_خاتم_و_مهریز",
         "name": "ابرکوه، بافق، خاتم و مهریز"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/YAZ-003",
@@ -5630,6 +5918,7 @@
         "id": "area/تفت_و_میبد",
         "name": "تفت و میبد"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_-_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/YAZ-004",
@@ -5640,6 +5929,7 @@
         "id": "area/زنجان_/_طارم",
         "name": "زنجان / طارم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری_–_جبهه_ایستادگی",
       "organization_id": "legislature",
       "person_id": "person/ZAN-001",
@@ -5650,6 +5940,7 @@
         "id": "area/ابهر",
         "name": "ابهر"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/مستقل",
       "organization_id": "legislature",
       "person_id": "person/ZAN-002",
@@ -5660,6 +5951,7 @@
         "id": "area/ماهنشان/_انگوران/_ایجرود",
         "name": "ماهنشان/ انگوران/ ایجرود"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد",
       "organization_id": "legislature",
       "person_id": "person/ZAN-003",
@@ -5670,6 +5962,7 @@
         "id": "area/طارم",
         "name": "طارم"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_",
       "organization_id": "legislature",
       "person_id": "person/ZAN-004",
@@ -5680,6 +5973,7 @@
         "id": "area/خدابنده",
         "name": "خدابنده"
       },
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/جبهه_متحد_–_جبهه_پایداری",
       "organization_id": "legislature",
       "person_id": "person/ZAN-005",
