@@ -2133,7 +2133,11 @@
       "classification": "legislature",
       "id": "legislature",
       "legislative_periods": [
-
+        {
+          "classification": "legislative period",
+          "id": "term/2012",
+          "name": "2012"
+        }
       ],
       "name": "Legislature"
     },
@@ -2232,6 +2236,7 @@
         "id": "area/south_fly_district",
         "name": "South Fly District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Aide-Ganasi",
@@ -2242,12 +2247,14 @@
         "id": "area/rabaul_district",
         "name": "Rabaul District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "MLP",
       "organization_id": "legislature",
       "person_id": "person/Allan-Marat",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Anderson-Agiru",
       "role": "Governor"
@@ -2257,6 +2264,7 @@
         "id": "area/hela_province",
         "name": "Hela Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PUA",
       "organization_id": "legislature",
       "person_id": "person/Anderson-Agiru",
@@ -2267,6 +2275,7 @@
         "id": "area/rigo_district",
         "name": "Rigo District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Ano-Pala",
@@ -2277,6 +2286,7 @@
         "id": "area/usino_bundi_district",
         "name": "Usino Bundi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Anton-Yagama",
@@ -2287,12 +2297,14 @@
         "id": "area/middle_ramu_district",
         "name": "Middle Ramu District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Assik-Tommy-Tomscoll",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Ati-Wobiro",
       "role": "Governor"
@@ -2302,6 +2314,7 @@
         "id": "area/western_province",
         "name": "Western Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PUA",
       "organization_id": "legislature",
       "person_id": "person/Ati-Wobiro",
@@ -2312,6 +2325,7 @@
         "id": "area/vanimo_green_district",
         "name": "Vanimo Green District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNG",
       "organization_id": "legislature",
       "person_id": "person/Belden-Namah",
@@ -2322,6 +2336,7 @@
         "id": "area/kavieng_district",
         "name": "Kavieng District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/Ben-Micah",
@@ -2332,6 +2347,7 @@
         "id": "area/menyamya_district",
         "name": "Menyamya District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Benjamin-Philip",
@@ -2342,6 +2358,7 @@
         "id": "area/tambul_nebilyer_district",
         "name": "Tambul Nebilyer District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Benjamin-Poponawa",
@@ -2352,6 +2369,7 @@
         "id": "area/unggai_bena_district",
         "name": "Unggai Bena District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Benny-Allan",
@@ -2362,6 +2380,7 @@
         "id": "area/goroka_district",
         "name": "Goroka District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NG",
       "organization_id": "legislature",
       "person_id": "person/Bire-Kimisopa",
@@ -2372,6 +2391,7 @@
         "id": "area/kabwum_district",
         "name": "Kabwum District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Bob-Dadae",
@@ -2382,6 +2402,7 @@
         "id": "area/north_fly_district",
         "name": "North Fly District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Boka-Kondra",
@@ -2392,6 +2413,7 @@
         "id": "area/kerowagi_district",
         "name": "Kerowagi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "I",
       "organization_id": "legislature",
       "person_id": "person/Camillus-Dangma",
@@ -2402,12 +2424,14 @@
         "id": "area/alotau_district",
         "name": "Alotau District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Charles-Abel",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Charlie-Benjamin",
       "role": "Governor"
@@ -2417,6 +2441,7 @@
         "id": "area/manus_province",
         "name": "Manus Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Charlie-Benjamin",
@@ -2427,6 +2452,7 @@
         "id": "area/goilala_district",
         "name": "Goilala District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Daniel-Mona",
@@ -2437,6 +2463,7 @@
         "id": "area/ijivitari_district",
         "name": "Ijivitari District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/David-Arore",
@@ -2447,6 +2474,7 @@
         "id": "area/esa'ala_district",
         "name": "Esa'ala District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PP",
       "organization_id": "legislature",
       "person_id": "person/Davis-Steven",
@@ -2457,6 +2485,7 @@
         "id": "area/mendi_district",
         "name": "Mendi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/De-Kewanu",
@@ -2467,6 +2496,7 @@
         "id": "area/sohe_district",
         "name": "Sohe District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Delilah-Gore",
@@ -2477,6 +2507,7 @@
         "id": "area/kandep_district",
         "name": "Kandep District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "THE",
       "organization_id": "legislature",
       "person_id": "person/Don-Polye",
@@ -2487,6 +2518,7 @@
         "id": "area/kiriwina-goodenough_district",
         "name": "Kiriwina-Goodenough District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Douglas-Tomuriesa",
@@ -2497,6 +2529,7 @@
         "id": "area/kokopo_district",
         "name": "Kokopo District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Ereman-Tobaining-Jnr",
@@ -2507,6 +2540,7 @@
         "id": "area/ambunti_dreikikir_district",
         "name": "Ambunti Dreikikir District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Ezekiel-Anisi",
@@ -2517,6 +2551,7 @@
         "id": "area/north_wahgi_district",
         "name": "North Wahgi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Fabian-Pok",
@@ -2527,6 +2562,7 @@
         "id": "area/imbonggu_district",
         "name": "Imbonggu District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Francis-Awesa",
@@ -2537,6 +2573,7 @@
         "id": "area/talasea_district",
         "name": "Talasea District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Francis-Marus",
@@ -2547,12 +2584,14 @@
         "id": "area/komo_margarima",
         "name": "Komo Margarima"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Francis-Potape",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Gary-Juffa",
       "role": "Governor"
@@ -2562,6 +2601,7 @@
         "id": "area/northern_province",
         "name": "Northern Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PMC",
       "organization_id": "legislature",
       "person_id": "person/Gary-Juffa",
@@ -2572,12 +2612,14 @@
         "id": "area/nawae_district",
         "name": "Nawae District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Gisuwat-Siniwin",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Havila-Kavo",
       "role": "Governor"
@@ -2587,6 +2629,7 @@
         "id": "area/gulf_province",
         "name": "Gulf Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Havila-Kavo",
@@ -2597,6 +2640,7 @@
         "id": "area/okapa_district",
         "name": "Okapa District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Isaac-Waigavara",
@@ -2607,6 +2651,7 @@
         "id": "area/namatanai_district",
         "name": "Namatanai District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/James-Byron-Chan",
@@ -2617,6 +2662,7 @@
         "id": "area/rai_coast_district",
         "name": "Rai Coast District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "THE",
       "organization_id": "legislature",
       "person_id": "person/James-Gau",
@@ -2627,6 +2673,7 @@
         "id": "area/kagua_erave_district",
         "name": "Kagua Erave District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "I",
       "organization_id": "legislature",
       "person_id": "person/James-Lagea",
@@ -2637,6 +2684,7 @@
         "id": "area/tari_pori_district",
         "name": "Tari Pori District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/James-Marape",
@@ -2647,12 +2695,14 @@
         "id": "area/lufa_district",
         "name": "Lufa District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Jeffery-Kuave",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Jim-Kas",
       "role": "Governor"
@@ -2662,6 +2712,7 @@
         "id": "area/madang_province",
         "name": "Madang Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Jim-Kas",
@@ -2672,6 +2723,7 @@
         "id": "area/central_bougainville_district",
         "name": "Central Bougainville District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Jim-Miringtoro",
@@ -2682,6 +2734,7 @@
         "id": "area/wewak_district",
         "name": "Wewak District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Jim-Simatab",
@@ -2692,12 +2745,14 @@
         "id": "area/anglimp_south_wahgi_district",
         "name": "Anglimp South Wahgi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PDM",
       "organization_id": "legislature",
       "person_id": "person/Joe-Koim-Komun",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Joe-Lera",
       "role": "Governor"
@@ -2707,6 +2762,7 @@
         "id": "area/bougainville",
         "name": "Bougainville"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Joe-Lera",
@@ -2717,6 +2773,7 @@
         "id": "area/nuku_district",
         "name": "Nuku District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Joe-Sungi",
@@ -2727,6 +2784,7 @@
         "id": "area/bogia_district",
         "name": "Bogia District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/John-Hickey",
@@ -2737,6 +2795,7 @@
         "id": "area/kompiam_ambum_district",
         "name": "Kompiam Ambum District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/John-Pundari",
@@ -2747,6 +2806,7 @@
         "id": "area/maprik_district",
         "name": "Maprik District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/John-Simon",
@@ -2757,6 +2817,7 @@
         "id": "area/kainantu_district",
         "name": "Kainantu District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/Johnson-Tuke",
@@ -2767,6 +2828,7 @@
         "id": "area/kandrian_gloucester_district",
         "name": "Kandrian Gloucester District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "CRP",
       "organization_id": "legislature",
       "person_id": "person/Joseph-Lelang",
@@ -2777,12 +2839,14 @@
         "id": "area/wosera_gaui_district",
         "name": "Wosera Gaui District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Joseph-Yopyyopy",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Julie-Soso",
       "role": "Governor"
@@ -2792,12 +2856,14 @@
         "id": "area/eastern_highlands_province",
         "name": "Eastern Highlands Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "THE",
       "organization_id": "legislature",
       "person_id": "person/Julie-Soso",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Julius-Chan",
       "role": "Governor"
@@ -2807,6 +2873,7 @@
         "id": "area/new_ireland_province",
         "name": "New Ireland Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/Julius-Chan",
@@ -2817,12 +2884,14 @@
         "id": "area/moresby_south_district",
         "name": "Moresby South District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Justin-Tkatchenko",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Kasiga-Kelly-Naru",
       "role": "Governor"
@@ -2832,6 +2901,7 @@
         "id": "area/morobe_province",
         "name": "Morobe Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "I",
       "organization_id": "legislature",
       "person_id": "person/Kasiga-Kelly-Naru",
@@ -2842,6 +2912,7 @@
         "id": "area/sumkar_district",
         "name": "Sumkar District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Ken-Fairweather",
@@ -2852,12 +2923,14 @@
         "id": "area/sinasina-yonggamugl_district",
         "name": "Sinasina-Yonggamugl District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Kerenga-Kua",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Kila-Haoda",
       "role": "Governor"
@@ -2867,6 +2940,7 @@
         "id": "area/central_province",
         "name": "Central Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Kila-Haoda",
@@ -2877,6 +2951,7 @@
         "id": "area/mul_baiyer_district",
         "name": "Mul Baiyer District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Koi-Trape",
@@ -2887,12 +2962,14 @@
         "id": "area/moresby_north_east_district",
         "name": "Moresby North East District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Labi-Amaiu",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Leo-Dion",
       "role": "Governor"
@@ -2902,6 +2979,7 @@
         "id": "area/east_new_britain_province",
         "name": "East New Britain Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Leo-Dion",
@@ -2912,6 +2990,7 @@
         "id": "area/lae_district",
         "name": "Lae District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Loujaya-Kouza",
@@ -2922,6 +3001,7 @@
         "id": "area/north_bougainville_district",
         "name": "North Bougainville District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Louta-Atoi",
@@ -2932,6 +3012,7 @@
         "id": "area/jimi_district",
         "name": "Jimi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Mai-Dop",
@@ -2942,6 +3023,7 @@
         "id": "area/gazelle_district",
         "name": "Gazelle District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Malakai-Tabar",
@@ -2952,6 +3034,7 @@
         "id": "area/tewai_siassi_district",
         "name": "Tewai Siassi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Mao-Zeming",
@@ -2962,6 +3045,7 @@
         "id": "area/kikori_district",
         "name": "Kikori District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "THE",
       "organization_id": "legislature",
       "person_id": "person/Mark-Maipakai",
@@ -2972,6 +3056,7 @@
         "id": "area/obura_wonenara_district",
         "name": "Obura Wonenara District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "SA",
       "organization_id": "legislature",
       "person_id": "person/Mehrra-Minne-Kipefa",
@@ -2982,12 +3067,14 @@
         "id": "area/moresby_north_west_district",
         "name": "Moresby North West District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Michael-Malabag",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Michael-Somare",
       "role": "Governor"
@@ -2997,6 +3084,7 @@
         "id": "area/east_sepik_province",
         "name": "East Sepik Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Michael-Somare",
@@ -3007,6 +3095,7 @@
         "id": "area/karimui-nomane_district",
         "name": "Karimui-Nomane District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Mogerema-Sigo-Wei",
@@ -3017,6 +3106,7 @@
         "id": "area/gumine_district",
         "name": "Gumine District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Nick-Kuman",
@@ -3027,6 +3117,7 @@
         "id": "area/madang_district",
         "name": "Madang District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Nixon-Duban",
@@ -3037,12 +3128,14 @@
         "id": "area/lagaip-porgera_district",
         "name": "Lagaip-Porgera District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "I",
       "organization_id": "legislature",
       "person_id": "person/Nixon-Mangape",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Noah-Kool",
       "role": "Governor"
@@ -3052,12 +3145,14 @@
         "id": "area/chimbu_province",
         "name": "Chimbu Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Noah-Kool",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Paias-Wingti",
       "role": "Governor"
@@ -3067,6 +3162,7 @@
         "id": "area/western_highlands_province",
         "name": "Western Highlands Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PDM",
       "organization_id": "legislature",
       "person_id": "person/Paias-Wingti",
@@ -3077,6 +3173,7 @@
         "id": "area/aitape_lumi_district",
         "name": "Aitape Lumi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Patrick-Pruaitch",
@@ -3087,6 +3184,7 @@
         "id": "area/markham_district",
         "name": "Markham District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Paul-Isikiel",
@@ -3097,12 +3195,14 @@
         "id": "area/nipa_kutubu_district",
         "name": "Nipa Kutubu District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Pesab-Jeffery-Komal",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Peter-Ipatas",
       "role": "Governor"
@@ -3112,6 +3212,7 @@
         "id": "area/enga_province",
         "name": "Enga Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PP",
       "organization_id": "legislature",
       "person_id": "person/Peter-Ipatas",
@@ -3122,6 +3223,7 @@
         "id": "area/kairuku-hiri_district",
         "name": "Kairuku-Hiri District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Peter-Namea-Isoaimo",
@@ -3132,6 +3234,7 @@
         "id": "area/ialibu_pangia_district",
         "name": "Ialibu Pangia District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Peter-ONeill",
@@ -3142,12 +3245,14 @@
         "id": "area/koroba_lake_kopiago_district",
         "name": "Koroba Lake Kopiago District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "THE",
       "organization_id": "legislature",
       "person_id": "person/Philip-Undialu",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Powes-Parkop",
       "role": "Governor"
@@ -3157,6 +3262,7 @@
         "id": "area/national_capital_district",
         "name": "National Capital District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/Powes-Parkop",
@@ -3167,6 +3273,7 @@
         "id": "area/abau_district",
         "name": "Abau District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OD",
       "organization_id": "legislature",
       "person_id": "person/Puka-Temu",
@@ -3177,6 +3284,7 @@
         "id": "area/yangoru_saussia_district",
         "name": "Yangoru Saussia District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Richard-Maru",
@@ -3187,6 +3295,7 @@
         "id": "area/kerema_district",
         "name": "Kerema District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Richard-Mendani",
@@ -3197,6 +3306,7 @@
         "id": "area/wapenamanda_district",
         "name": "Wapenamanda District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "U",
       "organization_id": "legislature",
       "person_id": "person/Rimbink-Pato",
@@ -3207,6 +3317,7 @@
         "id": "area/henganofi_district",
         "name": "Henganofi District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Robert-Atiyafa",
@@ -3217,6 +3328,7 @@
         "id": "area/wabag_district",
         "name": "Wabag District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Robert-Ganim",
@@ -3227,6 +3339,7 @@
         "id": "area/daulo_district",
         "name": "Daulo District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Ron-Ganarafo",
@@ -3237,6 +3350,7 @@
         "id": "area/manus_district",
         "name": "Manus District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NG",
       "organization_id": "legislature",
       "person_id": "person/Ronny-Knight",
@@ -3247,6 +3361,7 @@
         "id": "area/huon_gulf_district",
         "name": "Huon Gulf District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNG",
       "organization_id": "legislature",
       "person_id": "person/Ross-Seymour",
@@ -3257,6 +3372,7 @@
         "id": "area/middle_fly_district",
         "name": "Middle Fly District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Roy-Biyama",
@@ -3267,6 +3383,7 @@
         "id": "area/angoram_district",
         "name": "Angoram District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NA",
       "organization_id": "legislature",
       "person_id": "person/Salio-Waipo",
@@ -3277,12 +3394,14 @@
         "id": "area/bulolo_district",
         "name": "Bulolo District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "P",
       "organization_id": "legislature",
       "person_id": "person/Sam-Basil",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Sasindran-Muthuvel",
       "role": "Governor"
@@ -3292,6 +3411,7 @@
         "id": "area/west_new_britain_province",
         "name": "West New Britain Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Sasindran-Muthuvel",
@@ -3302,6 +3422,7 @@
         "id": "area/telefomin_district",
         "name": "Telefomin District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Solan-Mirisim",
@@ -3312,6 +3433,7 @@
         "id": "area/south_bougainville_district",
         "name": "South Bougainville District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/Steven-Kamma",
@@ -3322,12 +3444,14 @@
         "id": "area/finschhafen_district",
         "name": "Finschhafen District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/Theodore-Zurenouc",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/Titus-Philemon",
       "role": "Governor"
@@ -3337,6 +3461,7 @@
         "id": "area/milne_bay_province",
         "name": "Milne Bay Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/Titus-Philemon",
@@ -3347,6 +3472,7 @@
         "id": "area/kundiawa_district",
         "name": "Kundiawa District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PPP",
       "organization_id": "legislature",
       "person_id": "person/Tobias-Kulang",
@@ -3357,6 +3483,7 @@
         "id": "area/chuave_district",
         "name": "Chuave District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "THE",
       "organization_id": "legislature",
       "person_id": "person/Wera-Mori",
@@ -3367,6 +3494,7 @@
         "id": "area/dei_district",
         "name": "Dei District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/Westly-Nukundj",
@@ -3377,12 +3505,14 @@
         "id": "area/hagen_district",
         "name": "Hagen District"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "URP",
       "organization_id": "legislature",
       "person_id": "person/William-Duma",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/William-Powi",
       "role": "Governor"
@@ -3392,12 +3522,14 @@
         "id": "area/southern_highlands_province",
         "name": "Southern Highlands Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "legislature",
       "person_id": "person/William-Powi",
       "role": "member"
     },
     {
+      "legislative_period": "term/2012",
       "organization_id": "executive",
       "person_id": "person/William-Tongamp",
       "role": "Governor"
@@ -3407,6 +3539,7 @@
         "id": "area/jiwaka_province",
         "name": "Jiwaka Province"
       },
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NG",
       "organization_id": "legislature",
       "person_id": "person/William-Tongamp",
