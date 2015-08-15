@@ -3162,6 +3162,32 @@
     ]
   },
   {
+    "name": "Montserrat",
+    "country": "Montserrat",
+    "code": "MS",
+    "slug": "Montserrat",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Montserrat/Assembly/sources",
+        "popolo": "data/Montserrat/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439627553",
+        "person_count": 9,
+        "sha": "88ad854",
+        "legislative_periods": [
+          {
+            "id": "term/1",
+            "name": "1st Legislative Assembly",
+            "start_date": "2014",
+            "slug": "1",
+            "csv": "data/Montserrat/Assembly/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Morocco",
     "country": "Morocco",
     "code": "MA",
