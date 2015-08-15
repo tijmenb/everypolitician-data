@@ -1,0 +1,458 @@
+{
+  "persons": [
+    {
+      "gender": "male",
+      "given_name": "Alva",
+      "id": "person/alva-baptiste",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alva_Baptiste_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alva_Baptiste_(cropped).jpg"
+        }
+      ],
+      "name": "Alva Baptiste"
+    },
+    {
+      "gender": "female",
+      "given_name": "Alvina",
+      "id": "person/alvina-reynolds",
+      "name": "Alvina Reynolds"
+    },
+    {
+      "birth_date": "1944-10-30",
+      "family_name": "James",
+      "gender": "male",
+      "id": "person/arsene-james",
+      "name": "Arsene James"
+    },
+    {
+      "id": "person/desmond-long",
+      "name": "Desmond Long"
+    },
+    {
+      "birth_date": "1968-01-01",
+      "gender": "male",
+      "given_name": "Edmund",
+      "id": "person/edmund-estephane",
+      "name": "Edmund Estephane"
+    },
+    {
+      "gender": "female",
+      "given_name": "Emma",
+      "id": "person/emma-hippolyte",
+      "name": "Emma Hippolyte"
+    },
+    {
+      "gender": "male",
+      "given_name": "Ezechiel",
+      "id": "person/ezechiel-joseph",
+      "name": "Ezechiel Joseph"
+    },
+    {
+      "gender": "female",
+      "id": "person/gale-rigobert",
+      "name": "Gale Rigobert"
+    },
+    {
+      "birth_date": "1957-01-01",
+      "gender": "male",
+      "given_name": "Guy",
+      "id": "person/guy-joseph",
+      "name": "Guy Joseph"
+    },
+    {
+      "gender": "male",
+      "given_name": "Harold",
+      "id": "person/harold-dalson",
+      "name": "Harold Dalson"
+    },
+    {
+      "gender": "female",
+      "given_name": "Jeannine",
+      "id": "person/jeannine-compton-antoine",
+      "name": "Jeannine Compton-Antoine"
+    },
+    {
+      "birth_date": "1948-01-23",
+      "gender": "male",
+      "given_name": "Keith",
+      "id": "person/keith-mondesir",
+      "name": "Keith Mondesir"
+    },
+    {
+      "birth_date": "1951-01-08",
+      "gender": "male",
+      "given_name": "Kenny",
+      "id": "person/kenny-anthony",
+      "identifiers": [
+        {
+          "identifier": "/m/021xts",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kenny_Anthony,_Sta._Lucía.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kenny_Anthony,_Sta._Lucía.jpg"
+        }
+      ],
+      "name": "Kenny Anthony"
+    },
+    {
+      "id": "person/leonard-montoute",
+      "name": "Leonard Spider Montoute"
+    },
+    {
+      "id": "person/lorne-theophilus",
+      "name": "Lorne Theophilus"
+    },
+    {
+      "birth_date": "1966-01-01",
+      "gender": "male",
+      "given_name": "Marcus",
+      "id": "person/marcus-nicholas",
+      "name": "Marcus Nicholas"
+    },
+    {
+      "gender": "male",
+      "given_name": "Moses",
+      "id": "person/moses-jean-baptiste",
+      "name": "Moses Jean Baptiste"
+    },
+    {
+      "gender": "male",
+      "given_name": "Philip",
+      "id": "person/philip-pierre",
+      "name": "Philip Pierre"
+    },
+    {
+      "birth_date": "1965-08-06",
+      "gender": "male",
+      "given_name": "Richard",
+      "id": "person/richard-frederick",
+      "name": "Richard Frederick"
+    },
+    {
+      "gender": "male",
+      "given_name": "Robert",
+      "id": "person/robert-kennedy-lewis",
+      "name": "Robert Kennedy Lewis"
+    },
+    {
+      "birth_date": "1958-11-28",
+      "gender": "male",
+      "given_name": "Rufus",
+      "id": "person/rufus-bousquet",
+      "name": "Rufus Bousquet"
+    },
+    {
+      "id": "person/shawn-edwards",
+      "name": "Shawn Edwards"
+    },
+    {
+      "birth_date": "1958-11-13",
+      "gender": "male",
+      "id": "person/stephenson-king",
+      "identifiers": [
+        {
+          "identifier": "/m/02726sb",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stephenson_King.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stephenson_King.jpg"
+        }
+      ],
+      "name": "Stephenson King"
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "name": "House of Assembly",
+      "seats": 18,
+      "wikidata": "Q1282775"
+    },
+    {
+      "classification": "party",
+      "id": "Independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
+      "id": "Saint Lucia Labour Party",
+      "name": "SLP"
+    },
+    {
+      "classification": "party",
+      "id": "United Workers Party",
+      "name": "UWP"
+    }
+  ],
+  "meta": {
+    "source": "https://en.wikipedia.org/"
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/alva-baptiste",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/alva-baptiste",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/alvina-reynolds",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/arsene-james",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/arsene-james",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/desmond-long",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/edmund-estephane",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/edmund-estephane",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/emma-hippolyte",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/ezechiel-joseph",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/gale-rigobert",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/guy-joseph",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/guy-joseph",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/harold-dalson",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/harold-dalson",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "legislature",
+      "person_id": "person/jeannine-compton-antoine",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/keith-mondesir",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/kenny-anthony",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/kenny-anthony",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/leonard-montoute",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/lorne-theophilus",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/marcus-nicholas",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/moses-jean-baptiste",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/moses-jean-baptiste",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/philip-pierre",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/philip-pierre",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/richard-frederick",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/richard-frederick",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/robert-kennedy-lewis",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/robert-kennedy-lewis",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/rufus-bousquet",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "Saint Lucia Labour Party",
+      "organization_id": "legislature",
+      "person_id": "person/shawn-edwards",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/stephenson-king",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "United Workers Party",
+      "organization_id": "legislature",
+      "person_id": "person/stephenson-king",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2011",
+      "id": "term/8",
+      "name": "8th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2007"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/9",
+      "name": "9th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2011"
+    }
+  ],
+  "areas": [
+
+  ]
+}
