@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/isle-of-man-house-of-keys-wikipedia",
+        "query": "SELECT *, null AS source FROM data"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/images.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/isle-of-man-house-of-keys",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.tynwald.org.im/memoff/member/Pages/default.aspx",
+      "type": "person",
+      "merge": { 
+        "field": "name",
+        "overrides": {
+        }
+      }
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/isle-of-man-house-of-keys-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "wikipedia__en",
+        "match_on": "wikipedia__en"
+      }
+    }
+
+  ]
+}
+
+
