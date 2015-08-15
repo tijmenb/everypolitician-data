@@ -49,10 +49,28 @@
     },
     {
       "birth_date": "1951-06-18",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "01624 651524"
+        }
+      ],
+      "email": "bill.malarkey@gov.im",
       "gender": "male",
       "given_name": "Bill",
       "id": "person/bill-malarky",
-      "name": "Bill Malarky"
+      "image": "http://www.tynwald.org.im/SiteCollectionImages/MALARKEYWM.jpg",
+      "images": [
+        {
+          "url": "http://www.tynwald.org.im/SiteCollectionImages/MALARKEYWM.jpg"
+        }
+      ],
+      "name": "Bill Malarkey",
+      "sources": [
+        {
+          "url": "http://www.tynwald.org.im/memoff/member/Pages/MalarkeyWM.aspx"
+        }
+      ]
     },
     {
       "birth_date": "1952-07-02",
