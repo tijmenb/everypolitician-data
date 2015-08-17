@@ -4061,6 +4061,40 @@
     ]
   },
   {
+    "name": "Saint Lucia",
+    "country": "Saint Lucia",
+    "code": "LC",
+    "slug": "Saint-Lucia",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Saint_Lucia/Assembly/sources",
+        "popolo": "data/Saint_Lucia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439631450",
+        "person_count": 23,
+        "sha": "42e1efd",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2011",
+            "slug": "9",
+            "csv": "data/Saint_Lucia/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/8",
+            "name": "8th Parliament",
+            "start_date": "2007",
+            "slug": "8",
+            "csv": "data/Saint_Lucia/Assembly/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "San Marino",
     "country": "San Marino",
     "code": "SM",
