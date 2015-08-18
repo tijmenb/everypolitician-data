@@ -1655,6 +1655,32 @@
     ]
   },
   {
+    "name": "French Polynesia",
+    "country": "French Polynesia",
+    "code": "PF",
+    "slug": "French-Polynesia",
+    "legislatures": [
+      {
+        "name": "Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/French_Polynesia/Assembly/sources",
+        "popolo": "data/French_Polynesia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439649316",
+        "person_count": 57,
+        "sha": "6d1279d",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013-05-17",
+            "slug": "2013",
+            "csv": "data/French_Polynesia/Assembly/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Gabon",
     "country": "Gabon",
     "code": "GA",
