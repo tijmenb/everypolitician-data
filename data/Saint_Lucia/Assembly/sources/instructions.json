@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-lucia-assembly-wikipedia",
+        "query": "SELECT *, null AS source FROM data"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/images.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-lucia-assembly",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.govt.lc/house-of-assembly",
+      "type": "person",
+      "merge": { 
+        "field": "name",
+        "overrides": {
+          "Ezechiel Joseph": ""
+        }
+      }
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-lucia-assembly-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "wikipedia__en",
+        "match_on": "wikipedia__en"
+      }
+    }
+
+  ]
+}
+

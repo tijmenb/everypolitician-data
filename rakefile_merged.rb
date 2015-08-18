@@ -140,8 +140,7 @@ def combine_sources
   #      match_on: the field in Wikidata to match with the local
   #
   #    TODO: merge by a field being a Wikipedia URL or Title
-  if wd = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'wikidata' } || 
-          @instructions[:sources].find { |src| src[:type].to_s.downcase == 'person' }
+  @instructions[:sources].find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |wd|
     puts "Merging with #{wd[:file]}".magenta
 
     # Can merge either by a specified ID key, or on names

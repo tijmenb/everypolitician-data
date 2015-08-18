@@ -2410,6 +2410,32 @@
     ]
   },
   {
+    "name": "Isle of Man",
+    "country": "Isle of Man",
+    "code": "IM",
+    "slug": "Isle-of-Man",
+    "legislatures": [
+      {
+        "name": "House of Keys",
+        "slug": "House-of-Keys",
+        "sources_directory": "data/Isle_of_Man/House_of_Keys/sources",
+        "popolo": "data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
+        "lastmod": "1439645540",
+        "person_count": 24,
+        "sha": "daa517b",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011-10-04",
+            "slug": "2011",
+            "csv": "data/Isle_of_Man/House_of_Keys/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Italy",
     "country": "Italy",
     "code": "IT",
@@ -4029,6 +4055,40 @@
             "start_date": "2013",
             "slug": "3",
             "csv": "data/Rwanda/Deputies/term-3.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "country": "Saint Lucia",
+    "code": "LC",
+    "slug": "Saint-Lucia",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Saint_Lucia/Assembly/sources",
+        "popolo": "data/Saint_Lucia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439631450",
+        "person_count": 23,
+        "sha": "42e1efd",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2011",
+            "slug": "9",
+            "csv": "data/Saint_Lucia/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/8",
+            "name": "8th Parliament",
+            "start_date": "2007",
+            "slug": "8",
+            "csv": "data/Saint_Lucia/Assembly/term-8.csv"
           }
         ]
       }
