@@ -1362,6 +1362,32 @@
     ]
   },
   {
+    "name": "Djibouti",
+    "country": "Djibouti",
+    "code": "DJ",
+    "slug": "Djibouti",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Djibouti/Assembly/sources",
+        "popolo": "data/Djibouti/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439655945",
+        "person_count": 65,
+        "sha": "0ddccee",
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6th National Assembly",
+            "start_date": "2013",
+            "slug": "6",
+            "csv": "data/Djibouti/Assembly/term-6.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Dominican Republic",
     "country": "Dominican Republic",
     "code": "DO",
