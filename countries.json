@@ -2815,6 +2815,32 @@
     ]
   },
   {
+    "name": "Luxembourg",
+    "country": "Luxembourg",
+    "code": "LU",
+    "slug": "Luxembourg",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Chamber",
+        "sources_directory": "data/Luxembourg/Chamber/sources",
+        "popolo": "data/Luxembourg/Chamber/ep-popolo-v1.0.json",
+        "lastmod": "1439707570",
+        "person_count": 60,
+        "sha": "aaf4daf",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Luxembourg/Chamber/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Madagascar",
     "country": "Madagascar",
     "code": "MG",
