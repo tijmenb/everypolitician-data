@@ -2292,6 +2292,33 @@
     ]
   },
   {
+    "name": "Haiti",
+    "country": "Haiti",
+    "code": "HT",
+    "slug": "Haiti",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Haiti/Deputies/sources",
+        "popolo": "data/Haiti/Deputies/ep-popolo-v1.0.json",
+        "lastmod": "1439654457",
+        "person_count": 99,
+        "sha": "b5f4951",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/2011",
+            "name": "2011",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Haiti/Deputies/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hungary",
     "country": "Hungary",
     "code": "HU",
