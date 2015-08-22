@@ -539,6 +539,32 @@
     ]
   },
   {
+    "name": "Bosnia and Herzegovina",
+    "country": "Bosnia and Herzegovina",
+    "code": "BA",
+    "slug": "Bosnia-and-Herzegovina",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Bosnia_and_Herzegovina/House_of_Representatives/sources",
+        "popolo": "data/Bosnia_and_Herzegovina/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1440244192",
+        "person_count": 42,
+        "sha": "5a9e7bc",
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "7",
+            "csv": "data/Bosnia_and_Herzegovina/House_of_Representatives/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Botswana",
     "country": "Botswana",
     "code": "BW",
