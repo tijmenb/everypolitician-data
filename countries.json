@@ -3911,6 +3911,32 @@
     ]
   },
   {
+    "name": "Oman",
+    "country": "Oman",
+    "code": "OM",
+    "slug": "Oman",
+    "legislatures": [
+      {
+        "name": "Majlis al-Shura",
+        "slug": "Majlis",
+        "sources_directory": "data/Oman/Majlis/sources",
+        "popolo": "data/Oman/Majlis/ep-popolo-v1.0.json",
+        "lastmod": "1440247389",
+        "person_count": 84,
+        "sha": "ed9ed4d",
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "7th Period",
+            "start_date": "2011",
+            "slug": "7",
+            "csv": "data/Oman/Majlis/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Pakistan",
     "country": "Pakistan",
     "code": "PK",
