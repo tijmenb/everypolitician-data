@@ -305,6 +305,32 @@
     ]
   },
   {
+    "name": "Argentina",
+    "country": "Argentina",
+    "code": "AR",
+    "slug": "Argentina",
+    "legislatures": [
+      {
+        "name": "Cámara de Diputados",
+        "slug": "Diputados",
+        "sources_directory": "data/Argentina/Diputados/sources",
+        "popolo": "data/Argentina/Diputados/ep-popolo-v1.0.json",
+        "lastmod": "1440501465",
+        "person_count": 257,
+        "sha": "8febbf7",
+        "legislative_periods": [
+          {
+            "id": "term/133",
+            "name": "133º",
+            "start_date": "2015",
+            "slug": "133",
+            "csv": "data/Argentina/Diputados/term-133.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Aruba",
     "country": "Aruba",
     "code": "AW",
