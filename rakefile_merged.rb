@@ -104,7 +104,7 @@ def combine_sources
     file = src[:file] 
     fuzzer = nil
     puts "Concat #{file}".cyan
-    CSV.table(file).each do |row|
+    CSV.table(file, converters: nil).each do |row|
       # Need to make a copy in case there are multiple source columns
       # mapping to the same term (e.g. with areas)
       row = Hash[ row.headers.each.map { |h| [ remap(h), row[h] ] } ]
@@ -148,7 +148,7 @@ def combine_sources
     match_field = wd[:merge][:field].to_sym
     warn "Match by #{match_field}"
 
-    wikidata = CSV.table(wd[:file])
+    wikidata = CSV.table(wd[:file], converters: nil)
 
     wd_by_id = ->(id) { 
       return unless id
@@ -194,7 +194,7 @@ def combine_sources
   # TOOD: Expand this later
   if area = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'area' } 
     all_headers |= [:area_id]
-    ocds = CSV.table(area[:file])
+    ocds = CSV.table(area[:file], converters: nil)
     fuzzer = FuzzyMatch.new(ocds, read: :name)
     finder = ->(r) { fuzzer.find(r[:area]) }
     override = ->(name) { 
