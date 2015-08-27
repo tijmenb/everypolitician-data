@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/san_marino_council",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/san_marino_council",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/san_marino_council",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
