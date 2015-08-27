@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/jersey-assembly",
+        "query": "SELECT *, parish AS area, 6 as term FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/jersey-assembly",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/jersey-assembly",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
