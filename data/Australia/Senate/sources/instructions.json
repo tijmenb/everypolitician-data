@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "openaustralia/aus_mp_contact_details",
+        "query": "SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, REPLACE(LOWER(party),' ','_') AS party_id, 44 AS term, * FROM data WHERE house = 'senate'"
+      },
+      "source": "https://morph.io/openaustralia/aus_mp_contact_details",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

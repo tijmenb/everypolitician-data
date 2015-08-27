@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/micronesia-congress",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/micronesia-congress",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

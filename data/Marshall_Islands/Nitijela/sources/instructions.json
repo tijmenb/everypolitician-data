@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/marshall-islands-nitijela",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/marshall-islands-nitijela",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

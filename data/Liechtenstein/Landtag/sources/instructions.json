@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/liechtenstein-landtag",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/liechtenstein-landtag",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/liechtenstein-landtag",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}

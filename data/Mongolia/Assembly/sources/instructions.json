@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mongolia-khurai-wp",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/mongolia-khurai-wp",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

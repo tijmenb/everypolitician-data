@@ -1497,11 +1497,6 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "",
-      "name": ""
-    },
-    {
-      "classification": "party",
       "id": "autre",
       "name": "Autre"
     },
@@ -1556,6 +1551,11 @@
       "classification": "party",
       "id": "union_fait_la_nation",
       "name": "Union fait la Nation"
+    },
+    {
+      "classification": "party",
+      "id": "",
+      "name": "unknown"
     }
   ],
   "meta": {

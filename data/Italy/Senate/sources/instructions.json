@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/openpolis-scraper",
+        "query": "SELECT * FROM data WHERE house = 'Senate'"
+      },
+      "source": "https://morph.io/tmtmtmtm/openpolis-scraper",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

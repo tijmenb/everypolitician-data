@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/cayman-islands-assembly",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/cayman-islands-assembly",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

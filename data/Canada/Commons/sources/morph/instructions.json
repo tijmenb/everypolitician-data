@@ -1,5 +1,0 @@
-{
-  "source": "tmtmtmtm/represent-ca",
-  "fetch_terms": false,
-  "query": "SELECT *, 41 AS term FROM data ORDER BY CAST(id as unsigned)"
-}
