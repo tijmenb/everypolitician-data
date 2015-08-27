@@ -1,8 +1,7 @@
-id,term,field,old,new,source,timestamp
-35971,5,party_id,unknown,KPB,http://www.comparty.by/deputati,1436128035
-35971,5,party,,Communist Party of Belarus,http://www.comparty.by/deputati,1436128036
-35995,5,party_id,unknown,KPB,http://www.comparty.by/deputati,1436128037
-35996,5,party_id,unknown,KPB,http://www.comparty.by/deputati,1436128038
-36002,5,party_id,unknown,KPB,http://www.comparty.by/deputati,1436128039
-35965,5,party_id,unknown,KPB,http://www.comparty.by/deputati,1436128040
-35967,5,party_id,unknown,KPB,http://www.comparty.by/deputati,1436128041
+id,group_id,group,source
+35971,KPB,Communist Party of Belarus,http://www.comparty.by/deputati
+35995,KPB,Communist Party of Belarus,http://www.comparty.by/deputati
+35996,KPB,Communist Party of Belarus,http://www.comparty.by/deputati
+36002,KPB,Communist Party of Belarus,http://www.comparty.by/deputati
+35965,KPB,Communist Party of Belarus,http://www.comparty.by/deputati
+35967,KPB,Communist Party of Belarus,http://www.comparty.by/deputati
