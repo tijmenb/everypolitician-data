@@ -1496,11 +1496,6 @@
   ],
   "organizations": [
     {
-      "classification": "party",
-      "id": "",
-      "name": ""
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "name": "Assemblée Nationale",
@@ -1553,8 +1548,8 @@
     },
     {
       "classification": "party",
-      "id": "party/_unknown",
-      "name": "Unknown"
+      "id": "",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -1595,7 +1590,7 @@
     {
       "area_id": "10",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/agoua_edmond",
       "role": "member"
@@ -1691,7 +1686,7 @@
     {
       "area_id": "2",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/bani_samari",
       "role": "member"
@@ -1762,14 +1757,14 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/djaouga_boubacar",
       "role": "member"
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/domingo_cyriaque",
       "role": "member"
@@ -1833,7 +1828,7 @@
     {
       "area_id": "5",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/gnigla_venance",
       "role": "member"
@@ -1841,7 +1836,7 @@
     {
       "area_id": "14",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/gobi_bado",
       "role": "member"
@@ -1864,7 +1859,7 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/goutolou_celestin",
       "role": "member"
@@ -1911,14 +1906,14 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/houngnibo_lucien",
       "role": "member"
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/houssou_christophe",
       "role": "member"
@@ -1934,7 +1929,7 @@
     {
       "area_id": "1",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/issa_salifou",
       "role": "member"
@@ -1982,7 +1977,7 @@
     {
       "area_id": "9",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/laourou_gregoire",
       "role": "member"
@@ -2045,7 +2040,7 @@
     {
       "area_id": "16",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/quenum_epiphane",
       "role": "member"
@@ -2100,7 +2095,7 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "",
       "organization_id": "legislature",
       "person_id": "person/sinkpota_evariste",
       "role": "member"
