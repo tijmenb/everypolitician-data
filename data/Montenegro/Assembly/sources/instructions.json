@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/montenegro-parldata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/montenegro-parldata",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/montenegro-parldata",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
