@@ -2951,6 +2951,32 @@
     ]
   },
   {
+    "name": "Kyrgyzstan",
+    "country": "Kyrgyzstan",
+    "code": "KG",
+    "slug": "Kyrgyzstan",
+    "legislatures": [
+      {
+        "name": "Supreme Council",
+        "slug": "Council",
+        "sources_directory": "data/Kyrgyzstan/Council/sources",
+        "popolo": "data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
+        "lastmod": "1440692937",
+        "person_count": 120,
+        "sha": "9dbab3c",
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6th Supreme Council",
+            "start_date": "2010",
+            "slug": "6",
+            "csv": "data/Kyrgyzstan/Council/term-6.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Lesotho",
     "country": "Lesotho",
     "code": "LS",
