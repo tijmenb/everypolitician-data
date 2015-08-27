@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/belarus-house-of-representatives",
+        "query": "SELECT *, 'unknown' as party_id FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/belarus-house-of-representatives",
+      "type": "membership"
+    },
+    { 
+      "file": "manual/overrides.csv",
+      "type": "person", 
+      "merge": {
+        "field": "id",
+        "match_on": "id"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
