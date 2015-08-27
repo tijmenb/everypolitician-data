@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/dominican-republic-deputies",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/dominican-republic-deputies",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/dominican-republic-deputies",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
