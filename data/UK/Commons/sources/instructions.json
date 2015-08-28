@@ -23,6 +23,13 @@
       "merge": { 
         "field": "id"
       }
+    },
+    {
+      "file": "manual/emails.csv",
+      "type": "person",
+      "merge": { 
+        "field": "id"
+      }
     }
   ]
 }
