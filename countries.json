@@ -4187,6 +4187,48 @@
     ]
   },
   {
+    "name": "Pitcairn",
+    "country": "Pitcairn",
+    "code": "PN",
+    "slug": "Pitcairn",
+    "legislatures": [
+      {
+        "name": "Island Council",
+        "slug": "Island-Council",
+        "sources_directory": "data/Pitcairn/Island_Council/sources",
+        "popolo": "data/Pitcairn/Island_Council/ep-popolo-v1.0.json",
+        "lastmod": "1440788933",
+        "person_count": 12,
+        "sha": "36f70ec",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013-11-12",
+            "slug": "2013",
+            "csv": "data/Pitcairn/Island_Council/term-2013.csv"
+          },
+          {
+            "end_date": "2013-11-11",
+            "id": "term/2011",
+            "name": "2011–2013",
+            "start_date": "2011-12-12",
+            "slug": "2011",
+            "csv": "data/Pitcairn/Island_Council/term-2011.csv"
+          },
+          {
+            "end_date": "2011-12-11",
+            "id": "term/2009",
+            "name": "2009–2011",
+            "start_date": "2009-12-11",
+            "slug": "2009",
+            "csv": "data/Pitcairn/Island_Council/term-2009.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Poland",
     "country": "Poland",
     "code": "PL",

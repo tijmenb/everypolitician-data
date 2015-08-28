@@ -1,0 +1,244 @@
+{
+  "persons": [
+    {
+      "id": "person/brenda_christian",
+      "name": "Brenda Christian",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
+        }
+      ]
+    },
+    {
+      "id": "person/charlene_warren",
+      "name": "Charlene Warren",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2013"
+        }
+      ]
+    },
+    {
+      "id": "person/darralyn_griffiths",
+      "name": "Darralyn Griffiths",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2013"
+        }
+      ]
+    },
+    {
+      "id": "person/dave_brown",
+      "name": "Dave Brown",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2009"
+        }
+      ]
+    },
+    {
+      "id": "person/david_brown",
+      "name": "David Brown",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2013"
+        }
+      ]
+    },
+    {
+      "id": "person/jacqui_christian",
+      "name": "Jacqui Christian",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
+        }
+      ]
+    },
+    {
+      "id": "person/jay_warren",
+      "name": "Jay Warren",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
+        }
+      ]
+    },
+    {
+      "id": "person/kerry_young",
+      "name": "Kerry Young",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
+        }
+      ]
+    },
+    {
+      "id": "person/lea_brown",
+      "name": "Lea Brown",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2009"
+        }
+      ]
+    },
+    {
+      "id": "person/leslie_jaques",
+      "name": "Leslie Jaques",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2013"
+        }
+      ]
+    },
+    {
+      "id": "person/michele_christian",
+      "name": "Michele Christian",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2013"
+        }
+      ]
+    },
+    {
+      "id": "person/michelle_christian",
+      "name": "Michelle Christian",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands_general_election,_2011"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "legislative_periods": [
+        {
+          "classification": "legislative period",
+          "id": "term/2013",
+          "name": "2013"
+        },
+        {
+          "classification": "legislative period",
+          "id": "term/2011",
+          "name": "2011"
+        },
+        {
+          "classification": "legislative period",
+          "id": "term/2009",
+          "name": "2009"
+        }
+      ],
+      "name": "Legislature"
+    }
+  ],
+  "meta": {
+    "source": "https://en.wikipedia.org"
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/brenda_christian",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/brenda_christian",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/charlene_warren",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/darralyn_griffiths",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/dave_brown",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/david_brown",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/jacqui_christian",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/jay_warren",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/jay_warren",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/kerry_young",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/lea_brown",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/leslie_jaques",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/michele_christian",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/michelle_christian",
+      "role": "member"
+    }
+  ]
+}
