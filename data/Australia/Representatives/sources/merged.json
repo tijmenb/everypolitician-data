@@ -269,6 +269,12 @@
       "gender": "male",
       "given_name": "Andrew",
       "id": "person/FU4",
+      "identifiers": [
+        {
+          "identifier": "249566121",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/FU4/upload_ref_binary/FU4.JPG",
       "images": [
         {
@@ -484,6 +490,12 @@
       "gender": "male",
       "given_name": "Bob",
       "id": "person/HX4",
+      "identifiers": [
+        {
+          "identifier": "294893813",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HX4/upload_ref_binary/HX4.jpg",
       "images": [
         {
@@ -1036,6 +1048,10 @@
       "given_name": "Joe",
       "id": "person/DK6",
       "identifiers": [
+        {
+          "identifier": "310665026",
+          "scheme": "viaf"
+        },
         {
           "identifier": "1067509097",
           "scheme": "gnd"
@@ -1686,6 +1702,12 @@
       "gender": "male",
       "given_name": "Paul",
       "id": "person/L6B",
+      "identifiers": [
+        {
+          "identifier": "101511432",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/L6B/upload_ref_binary/l6b.jpg",
       "images": [
         {
@@ -2542,6 +2564,12 @@
       "gender": "male",
       "given_name": "Chris",
       "id": "person/ECV",
+      "identifiers": [
+        {
+          "identifier": "305131574",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/ECV/upload_ref_binary/ECV.JPG",
       "images": [
         {
@@ -2904,7 +2932,7 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "74163183.0",
+          "identifier": "074163183",
           "scheme": "sudoc"
         },
         {
@@ -2920,11 +2948,11 @@
           "scheme": "bnf"
         },
         {
-          "identifier": "8454.0",
+          "identifier": "000008454",
           "scheme": "nli"
         },
         {
-          "identifier": "69018790.0",
+          "identifier": "069018790",
           "scheme": "nta"
         },
         {
@@ -3029,6 +3057,7 @@
           "value": "https://twitter.com/KevinHoganMP"
         }
       ],
+      "email": "Kevin.Hogan.MP@aph.gov.au",
       "gender": "male",
       "given_name": "Kevin",
       "id": "person/218019",
@@ -3901,6 +3930,12 @@
       "gender": "female",
       "given_name": "Jill",
       "id": "person/83N",
+      "identifiers": [
+        {
+          "identifier": "305131576",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/83N/upload_ref_binary/83N.jpg",
       "images": [
         {
@@ -5183,7 +5218,7 @@
     },
     {
       "area": {
-        "id": "ocd-division/country:au/federal_electorate:fraser",
+        "id": "ocd-division/country:au/territory:act/federal_electorate:fraser",
         "name": "Fraser, Australian Capital Territory"
       },
       "legislative_period_id": "term/44",
@@ -5227,7 +5262,7 @@
     },
     {
       "area": {
-        "id": "ocd-division/country:au/state:nsw/federal_electorate:watsno",
+        "id": "ocd-division/country:au/state:nsw/federal_electorate:watson",
         "name": "Watson, New South Wales"
       },
       "legislative_period_id": "term/44",
