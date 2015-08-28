@@ -5,6 +5,19 @@
       "type": "membership"
     },
     {
+      "file": "morph/parliament.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/uk-parliament-members",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "merge": { 
+        "match_on": "id",
+        "field": "identifier__datadotparl"
+      }
+    },
+    {
       "file": "YNMP/winners.csv",
       "type": "person",
       "merge": { 
