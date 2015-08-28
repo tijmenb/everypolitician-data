@@ -1,25 +1,25 @@
-id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image,gender
-alfred-cannan,Alfred Cannan,alfred.cannan@gov.im,,Independent,independent,Michael,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/CannanAL.jpg,
-allan-bell,Allan Bell,chief.minister@gov.im,,Independent,independent,Ramsey,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/BELLAR.jpg,male
-bill-malarky,Bill Malarkey,bill.malarkey@gov.im,,Independent,independent,Douglas South,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/MALARKEYWM.jpg,male
-brenda-cannell,Brenda Cannell,brenda_cannellmhk@manx.net,,Independent,independent,Douglas East,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/CannellBJ.jpg,female
-chris-robertshaw,Chris Robertshaw,derson@gov.im,,Independent,independent,Douglas East,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/RobertshawCR.jpg,male
-david-anderson-(isle-of-man),David Anderson,phil.gawne@gov.im,,Independent,independent,Glenfaba,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/GawnePA.jpg,
-david-quirk,David Quirk,david.quirk@gov.im,,Independent,independent,Onchan,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/QuirkDJ.jpg,male
-eddie-teare,Eddie Teare,weteare@manx.net,,Independent,independent,Ayre,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/TeareWE.jpg,male
-geoff-corkish,Geoff Corkish,,,Independent,independent,Douglas West,House of Keys,2011,,,,male
-graham-cregeen,Graham Cregeen,graham.cregeen@gov.im,,Independent,independent,Malew and Santon,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/CregeenGD.jpg,
-howard-quayle,Howard Quayle,howard.quayle@gov.im,,Independent,independent,Middle,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/QuayleRH.jpg,
-john-houghton-(isle-of-man),John Houghton,,,Independent,independent,Douglas North,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/HoughtonJR.jpg,
-john-shimmin,John Shimmin,john.shimmin@gov.im,,Independent,independent,Douglas West,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/ShimminJP.jpg,male
-juan-watterson,Juan Watterson,juan.watterson@gov.im,,Independent,independent,Rushen,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/WattersonJP.jpg,male
-kate-beecroft,Kate Beecroft,kate.beecroft@liberalvannin.org,,Liberal Vannin,liberal_vannin,Douglas South,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/BEECROFTKJ.jpg,female
-laurence-skelly,Laurence Skelly,laurence.skelly@gov.im,,Independent,independent,Rushen,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/SkellyLD.jpg,
-leonard-singer,Leonard Singer,,,Independent,independent,Ramsey,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/SingerLI.jpg,male
-peter-karran,Peter Karran,peter.karran@liberalvannin.org,,Liberal Vannin,liberal_vannin,Onchan,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/KarranP.jpg,male
-phil-gawne,Phil Gawne,phil.gawne@gov.im,,Independent,independent,Rushen,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/GawnePA.jpg,male
-ralph-peake,Ralph Peake,ralph.peake@gov.im,,Independent,independent,Douglas North,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/PeakeGR.jpg,
-richard-ronan,Richard Ronan,richard.ronan@gov.im,,Independent,independent,Castletown,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/RonanRA.jpg,male
-steve-rodan,Stephen Rodan SHK,steve.rodan@gov.im,,Independent,independent,Garff,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/RodanSC.jpg,male
-tim-crookall,Tim Crookall,,,Independent,independent,Peel,House of Keys,2011,,,,male
-zac-hall,Zac Hall,zac.hall@gov.im,,Liberal Vannin,liberal_vannin,Onchan,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/HallZ.jpg,
+id,name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
+alfred-cannan,Alfred Cannan,alfred.cannan@gov.im,,,Independent,independent,area/michael,Michael,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/CannanAL.jpg,
+allan-bell,Allan Bell,chief.minister@gov.im,,,Independent,independent,area/ramsey,Ramsey,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/BELLAR.jpg,male
+bill-malarky,Bill Malarkey,bill.malarkey@gov.im,,,Independent,independent,area/douglas_south,Douglas South,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/MALARKEYWM.jpg,male
+brenda-cannell,Brenda Cannell,brenda_cannellmhk@manx.net,,,Independent,independent,area/douglas_east,Douglas East,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/CannellBJ.jpg,female
+chris-robertshaw,Chris Robertshaw,derson@gov.im,,,Independent,independent,area/douglas_east,Douglas East,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/RobertshawCR.jpg,male
+david-anderson-(isle-of-man),David Anderson,phil.gawne@gov.im,,,Independent,independent,area/glenfaba,Glenfaba,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/GawnePA.jpg,
+david-quirk,David Quirk,david.quirk@gov.im,,,Independent,independent,area/onchan,Onchan,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/QuirkDJ.jpg,male
+eddie-teare,Eddie Teare,weteare@manx.net,,,Independent,independent,area/ayre,Ayre,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/TeareWE.jpg,male
+geoff-corkish,Geoff Corkish,,,,Independent,independent,area/douglas_west,Douglas West,House of Keys,2011,,,,male
+graham-cregeen,Graham Cregeen,graham.cregeen@gov.im,,,Independent,independent,area/malew_and_santon,Malew and Santon,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/CregeenGD.jpg,
+howard-quayle,Howard Quayle,howard.quayle@gov.im,,,Independent,independent,area/middle,Middle,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/QuayleRH.jpg,
+john-houghton-(isle-of-man),John Houghton,,,,Independent,independent,area/douglas_north,Douglas North,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/HoughtonJR.jpg,
+john-shimmin,John Shimmin,john.shimmin@gov.im,,,Independent,independent,area/douglas_west,Douglas West,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/ShimminJP.jpg,male
+juan-watterson,Juan Watterson,juan.watterson@gov.im,,,Independent,independent,area/rushen,Rushen,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/WattersonJP.jpg,male
+kate-beecroft,Kate Beecroft,kate.beecroft@liberalvannin.org,,,Liberal Vannin,liberal_vannin,area/douglas_south,Douglas South,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/BEECROFTKJ.jpg,female
+laurence-skelly,Laurence Skelly,laurence.skelly@gov.im,,,Independent,independent,area/rushen,Rushen,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/SkellyLD.jpg,
+leonard-singer,Leonard Singer,,,,Independent,independent,area/ramsey,Ramsey,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/SingerLI.jpg,male
+peter-karran,Peter Karran,peter.karran@liberalvannin.org,,,Liberal Vannin,liberal_vannin,area/onchan,Onchan,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/KarranP.jpg,male
+phil-gawne,Phil Gawne,phil.gawne@gov.im,,,Independent,independent,area/rushen,Rushen,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/GawnePA.jpg,male
+ralph-peake,Ralph Peake,ralph.peake@gov.im,,,Independent,independent,area/douglas_north,Douglas North,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/PeakeGR.jpg,
+richard-ronan,Richard Ronan,richard.ronan@gov.im,,,Independent,independent,area/castletown,Castletown,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/RonanRA.jpg,male
+steve-rodan,Stephen Rodan SHK,steve.rodan@gov.im,,,Independent,independent,area/garff,Garff,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/RodanSC.jpg,male
+tim-crookall,Tim Crookall,,,,Independent,independent,area/peel,Peel,House of Keys,2011,,,,male
+zac-hall,Zac Hall,zac.hall@gov.im,,,Liberal Vannin,liberal_vannin,area/onchan,Onchan,House of Keys,2011,,,http://www.tynwald.org.im/SiteCollectionImages/HallZ.jpg,

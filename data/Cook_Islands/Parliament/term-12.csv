@@ -1,25 +1,25 @@
-id,name,email,twitter,group,group_id,area,chamber,term,start_date,end_date,image,gender
-albert_(peto)_nicholas,Albert (Peto) Nicholas,,,CIP,cip,Avatiu-Ruatonga-Palmerston,Parliament,12,,,,male
-apii_piho,Apii Piho,,,DP,dp,Manihiki,Parliament,12,,,,male
-cassey_eggelton,Cassey Eggelton,,,DP,dp,Matavera,Parliament,12,,,,female
-jim_marurai,Jim Marurai,,,DP,dp,Ivirua,Parliament,12,,,,male
-john_tangi,John Tangi,,,DP,dp,Tupapa-Maraerenga,Parliament,12,,,,male
-kete_ioane,Kete Ioane,,,DP,dp,Vaipae-Tautu,Parliament,12,,,,male
-keu_mataroa,Keu Mataroa,,,DP,dp,Akaoa,Parliament,12,,,,
-mapu_taia,Mapu Taia,,,DP,dp,Mauke,Parliament,12,,,,male
-mii_parima,Mii Parima,,,CIP,cip,Tamarua,Parliament,12,,,,male
-nandi_glassie,Nandi Glassie,,,CIP,cip,Tengatangi-Areora-Ngatiarua,Parliament,12,,,,male
-ngai_tupa,Ngai Tupa,,,DP,dp,Takuvaine-Tutakimoa,Parliament,12,,,,female
-ngamau_munokoa,Ngamau Munokoa,,,DP,dp,Nikao-Panama,Parliament,12,,,,female
-norman_george,Norman George,,,CIP,cip,Teenui-Mapumai,Parliament,12,,,,male
-piho_rua,Piho Rua,,,Independent,independent,Rakahanga,Parliament,12,,,,male
-robert_wigmore,Robert Wigmore,,,DP,dp,Titikaveka,Parliament,12,,,,male
-tangata_vavia,Tangata Vavia,,,DP,dp,Mitiaro,Parliament,12,,,,male
-teina_bishop,Teina Bishop,,,CIP,cip,Arutanga-Reureu-Nikaupara,Parliament,12,,,,male
-terepai_maoate,Terepai Maoate,,,DP,dp,Ngatangiia,Parliament,12,,,,male
-terepai_maoate_jnr,Terepai Maoate Jnr,,,DP,dp,Amuri-Ureia,Parliament,12,,,,male
-tom_marsters,Tom Marsters,,,CIP,cip,Murienua,Parliament,12,,,,male
-vai_peua,Vai Peua,,,CIP,cip,Pukapuka-Nassau,Parliament,12,,,,male
-wilkie_rasmussen,Wilkie Rasmussen,,,DP,dp,Penrhyn,Parliament,12,,,,male
-william_(smiley)_heather,William (Smiley) Heather,,,DP,dp,Rua'au,Parliament,12,,,,male
-winton_pickering,Winton Pickering,,,DP,dp,Oneroa,Parliament,12,,,,male
+id,name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
+albert_(peto)_nicholas,Albert (Peto) Nicholas,,,,CIP,cip,area/avatiu-ruatonga-palmerston,Avatiu-Ruatonga-Palmerston,Parliament,12,,,,male
+apii_piho,Apii Piho,,,,DP,dp,area/manihiki,Manihiki,Parliament,12,,,,male
+cassey_eggelton,Cassey Eggelton,,,,DP,dp,area/matavera,Matavera,Parliament,12,,,,female
+jim_marurai,Jim Marurai,,,,DP,dp,area/ivirua,Ivirua,Parliament,12,,,,male
+john_tangi,John Tangi,,,,DP,dp,area/tupapa-maraerenga,Tupapa-Maraerenga,Parliament,12,,,,male
+kete_ioane,Kete Ioane,,,,DP,dp,area/vaipae-tautu,Vaipae-Tautu,Parliament,12,,,,male
+keu_mataroa,Keu Mataroa,,,,DP,dp,area/akaoa,Akaoa,Parliament,12,,,,
+mapu_taia,Mapu Taia,,,,DP,dp,area/mauke,Mauke,Parliament,12,,,,male
+mii_parima,Mii Parima,,,,CIP,cip,area/tamarua,Tamarua,Parliament,12,,,,male
+nandi_glassie,Nandi Glassie,,,,CIP,cip,area/tengatangi-areora-ngatiarua,Tengatangi-Areora-Ngatiarua,Parliament,12,,,,male
+ngai_tupa,Ngai Tupa,,,,DP,dp,area/takuvaine-tutakimoa,Takuvaine-Tutakimoa,Parliament,12,,,,female
+ngamau_munokoa,Ngamau Munokoa,,,,DP,dp,area/nikao-panama,Nikao-Panama,Parliament,12,,,,female
+norman_george,Norman George,,,,CIP,cip,area/teenui-mapumai,Teenui-Mapumai,Parliament,12,,,,male
+piho_rua,Piho Rua,,,,Independent,independent,area/rakahanga,Rakahanga,Parliament,12,,,,male
+robert_wigmore,Robert Wigmore,,,,DP,dp,area/titikaveka,Titikaveka,Parliament,12,,,,male
+tangata_vavia,Tangata Vavia,,,,DP,dp,area/mitiaro,Mitiaro,Parliament,12,,,,male
+teina_bishop,Teina Bishop,,,,CIP,cip,area/arutanga-reureu-nikaupara,Arutanga-Reureu-Nikaupara,Parliament,12,,,,male
+terepai_maoate,Terepai Maoate,,,,DP,dp,area/ngatangiia,Ngatangiia,Parliament,12,,,,male
+terepai_maoate_jnr,Terepai Maoate Jnr,,,,DP,dp,area/amuri-ureia,Amuri-Ureia,Parliament,12,,,,male
+tom_marsters,Tom Marsters,,,,CIP,cip,area/murienua,Murienua,Parliament,12,,,,male
+vai_peua,Vai Peua,,,,CIP,cip,area/pukapuka-nassau,Pukapuka-Nassau,Parliament,12,,,,male
+wilkie_rasmussen,Wilkie Rasmussen,,,,DP,dp,area/penrhyn,Penrhyn,Parliament,12,,,,male
+william_(smiley)_heather,William (Smiley) Heather,,,,DP,dp,area/rua'au,Rua'au,Parliament,12,,,,male
+winton_pickering,Winton Pickering,,,,DP,dp,area/oneroa,Oneroa,Parliament,12,,,,male

@@ -266,6 +266,10 @@ namespace :term_csvs do
     end
   end
 
+  def persons_facebook(p)
+    (p[:links] || {}).find(->{{url: nil}}) { |d| d[:note] == 'facebook' }[:url]
+  end
+
 
   require 'csv'
 
@@ -303,8 +307,10 @@ namespace :term_csvs do
         name: name_at(person, m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
         email: person[:email],
         twitter: persons_twitter(person),
+        facebook: persons_facebook(person),
         group: group[:name],
         group_id: group[:id].split('/').last,
+        area_id: m[:area_id],
         area: m[:area_id] && @json[:areas].find { |a| a[:id] == m[:area_id] }[:name],
         chamber: house[:name],
         term: m[:legislative_period_id].split('/').last,
