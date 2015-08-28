@@ -69,6 +69,7 @@ rows = @json[:memberships].find_all { |m| post_ids.include?  m[:post_id] }.map d
     id: person[:id].split('/').last,
     name: name_at(person, m[:start_date]),
     identifier__historichansard: person[:identifiers].to_a.find(->{{}}) { |id| id[:scheme] == 'historichansard_person_id' }[:identifier],
+    identifier__datadotparl: person[:identifiers].to_a.find(->{{}}) { |id| id[:scheme] == 'datadotparl_id' }[:identifier],
     constituency: post[:area][:name],
     constituency_id: post[:id],
     party: party[:name],
