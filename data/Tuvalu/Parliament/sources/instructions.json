@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/tuvalu-parliament-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/tuvalu-parliament-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "type": "wikidata",
+      "merge": { 
+        "field": "name"
+      }
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/tuvalu-parliament-wikipedia",
+        "query": "SELECT * FROM terms"
+      },
+      "type": "term"
+    }
+  ]
+}
