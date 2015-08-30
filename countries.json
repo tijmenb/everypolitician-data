@@ -5279,6 +5279,48 @@
     ]
   },
   {
+    "name": "Tuvalu",
+    "country": "Tuvalu",
+    "code": "TV",
+    "slug": "Tuvalu",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Tuvalu/Parliament/sources",
+        "popolo": "data/Tuvalu/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1440920071",
+        "person_count": 27,
+        "sha": "1eed9e2",
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Parliament",
+            "start_date": "2015-03-31",
+            "slug": "11",
+            "csv": "data/Tuvalu/Parliament/term-11.csv"
+          },
+          {
+            "end_date": "2015-03-30",
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2010-09-16",
+            "slug": "10",
+            "csv": "data/Tuvalu/Parliament/term-10.csv"
+          },
+          {
+            "end_date": "2010-09-16",
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2006-08-03",
+            "slug": "9",
+            "csv": "data/Tuvalu/Parliament/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "UK",
     "country": "UK",
     "code": "GB",
