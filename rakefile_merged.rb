@@ -94,9 +94,14 @@ class CSVPatch
   def patch!(new_row, opts)
     existing_field = opts[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     incoming_field = opts[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
+    opts[:overrides] ||= {}
+
+    # Short-circuit if we've already been told who this matches
+    if exact_match = opts[:overrides][new_row[incoming_field].to_sym]
+      to_patch = @_csv.find_all { |r| r[:id] == exact_match }
 
     # Approximate match?
-    if opts[:amatch_threshold]
+    elsif opts.key? :amatch_threshold
       # TODO: don't rebuild this this every time around
       fuzzer = FuzzyMatch.new(@_csv, read: existing_field)
       match = fuzzer.find_with_score(new_row[incoming_field])
@@ -110,9 +115,6 @@ class CSVPatch
           confidence < opts[:amatch_warning].to_f
         to_patch = @_csv.find_all { |r| r[existing_field] == match.first[existing_field] }
       end
-
-      
-      # to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
     else
       to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
     end
@@ -194,6 +196,10 @@ def combine_sources
   #
   # For non-exact matching set 'amatch_threshold' to a minimum % score
   # We also warn on any fuzzy match under the 'amatch_warning' % score
+  #
+  # To override to an exact match, supply the ID of the existing record 
+  # e.g. (with incoming_field='name')
+  #    "overrides": { "Ian Paisley, Jr.": "13852" }
 
   @instructions[:sources].find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
     puts "Merging with #{pd[:file]}".magenta
@@ -214,7 +220,6 @@ def combine_sources
 
     warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
 
-    # TODO handle overrides
     patcher = CSVPatch.new(all_rows)
     persondata.each { |pd_row| patcher.patch!(pd_row, pd[:merge]) }
     all_rows = patcher.all_data
