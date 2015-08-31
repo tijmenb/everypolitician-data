@@ -367,9 +367,9 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "lastmod": "1441010667",
-        "person_count": 150,
-        "sha": "ed90c09",
+        "lastmod": "1441027059",
+        "person_count": 473,
+        "sha": "0e0d756",
         "legislative_periods": [
           {
             "id": "term/44",
@@ -377,6 +377,78 @@
             "start_date": "2013-09-07",
             "slug": "44",
             "csv": "data/Australia/Representatives/term-44.csv"
+          },
+          {
+            "end_date": "2013-09-07",
+            "id": "term/43",
+            "name": "43rd Parliament",
+            "start_date": "2010-08-21",
+            "slug": "43",
+            "csv": "data/Australia/Representatives/term-43.csv"
+          },
+          {
+            "end_date": "2010-08-21",
+            "id": "term/42",
+            "name": "42nd Parliament",
+            "start_date": "2007-11-24",
+            "slug": "42",
+            "csv": "data/Australia/Representatives/term-42.csv"
+          },
+          {
+            "end_date": "2007-11-24",
+            "id": "term/41",
+            "name": "41st Parliament",
+            "start_date": "2004-10-09",
+            "slug": "41",
+            "csv": "data/Australia/Representatives/term-41.csv"
+          },
+          {
+            "end_date": "2004-10-09",
+            "id": "term/40",
+            "name": "40th Parliament",
+            "start_date": "2001-11-10",
+            "slug": "40",
+            "csv": "data/Australia/Representatives/term-40.csv"
+          },
+          {
+            "end_date": "2001-11-10",
+            "id": "term/39",
+            "name": "39th Parliament",
+            "start_date": "1998-10-03",
+            "slug": "39",
+            "csv": "data/Australia/Representatives/term-39.csv"
+          },
+          {
+            "end_date": "1998-10-03",
+            "id": "term/38",
+            "name": "38th Parliament",
+            "start_date": "1996-03-02",
+            "slug": "38",
+            "csv": "data/Australia/Representatives/term-38.csv"
+          },
+          {
+            "end_date": "1996-03-02",
+            "id": "term/37",
+            "name": "37th Parliament",
+            "start_date": "1993-03-13",
+            "slug": "37",
+            "csv": "data/Australia/Representatives/term-37.csv"
+          },
+          {
+            "end_date": "1993-03-13",
+            "id": "term/36",
+            "name": "36th Parliament",
+            "start_date": "1990-03-24",
+            "slug": "36",
+            "csv": "data/Australia/Representatives/term-36.csv"
+          },
+          {
+            "end_date": "1990-03-24",
+            "id": "term/35",
+            "name": "35th Parliament",
+            "start_date": "1987-07-11",
+            "slug": "35",
+            "csv": "data/Australia/Representatives/term-35.csv"
           }
         ]
       },

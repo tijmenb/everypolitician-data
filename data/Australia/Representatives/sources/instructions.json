@@ -1,14 +1,28 @@
 {
   "sources": [
     {
+      "file": "morph/openaustralia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/australia-openaustralia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://data.openaustralia.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
         "scraper": "openaustralia/aus_mp_contact_details",
-        "query": "SELECT aph_id AS id, full_name AS name, electorate AS constituency, photo_url AS photo, REPLACE(LOWER(party),' ','_') AS party_id, 44 AS term, * FROM data WHERE house = 'representatives'"
+        "query": "SELECT aph_id, photo_url AS photo, email, facebook, website FROM data WHERE house = 'representatives'"
+      },
+      "merge": { 
+        "incoming_field": "aph_id",
+        "existing_field": "identifier__aph"
       },
       "source": "https://morph.io/openaustralia/aus_mp_contact_details",
-      "type": "membership"
+      "type": "person"
     },
     {
       "file": "morph/wikidata.csv",
@@ -20,9 +34,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "field": "name",
-        "overrides": {
-        }
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikipedia_name"
       }
     },
     {
@@ -33,13 +46,19 @@
       },
       "merge": { 
         "overrides": {
-          "Fraser, Australian Capital Territory": "ocd-division/country:au/territory:act/federal_electorate:fraser"
+          "Fraser, Australian Capital Territory": "ocd-division/country:au/territory:act/federal_electorate:fraser",
+          "Northern Territory": ""
         }
       },
       "type": "area"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/australia-openaustralia",
+        "query": "SELECT * FROM terms"
+      },
       "type": "term"
     }
   ]
