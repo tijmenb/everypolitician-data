@@ -4537,6 +4537,32 @@
     ]
   },
   {
+    "name": "Saint Vincent and the Grenadines",
+    "country": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "slug": "Saint-Vincent-and-the-Grenadines",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Saint_Vincent_and_the_Grenadines/Assembly/sources",
+        "popolo": "data/Saint_Vincent_and_the_Grenadines/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441036559",
+        "person_count": 15,
+        "sha": "f971965",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Vincentian Assembly",
+            "start_date": "2010",
+            "slug": "8",
+            "csv": "data/Saint_Vincent_and_the_Grenadines/Assembly/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "San Marino",
     "country": "San Marino",
     "code": "SM",
