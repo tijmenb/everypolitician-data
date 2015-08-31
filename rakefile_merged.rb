@@ -127,7 +127,7 @@ class CSVPatch
     # For now, only set values that are not already set (or are set to 'unknown')
     # TODO: clobber / append.
     to_patch.each do |existing_row|
-      new_row.headers.each do |h| 
+      new_row.keys.each do |h| 
         existing_row[h] = new_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
       end
     end
@@ -137,6 +137,16 @@ class CSVPatch
     @_csv
   end
 
+end
+
+def csv_table(file)
+  rows = []
+  CSV.table(file, converters: nil).each do |row|
+    # Need to make a copy in case there are multiple source columns
+    # mapping to the same term (e.g. with areas)
+    rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h] ] } ]
+  end
+  rows
 end
 
 # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
@@ -159,11 +169,7 @@ def combine_sources
     file = src[:file] 
     fuzzer = nil
     puts "Concat #{file}".magenta
-    CSV.table(file, converters: nil).each do |row|
-      # Need to make a copy in case there are multiple source columns
-      # mapping to the same term (e.g. with areas)
-      row = Hash[ row.headers.each.map { |h| [ remap(h), row[h] ] } ]
-
+    csv_table(file).each do |row|
       if src.key? :merge
         field = src[:merge][:field].to_sym
         if src[:merge][:approximate] 
@@ -206,7 +212,7 @@ def combine_sources
 
     raise "No merge instructions" unless pd.key?(:merge) 
 
-    persondata = CSV.table(pd[:file], converters: nil)
+    persondata = csv_table(pd[:file])
 
     if pd[:merge].key? :field
       warn "WARNING deprecated use of merge 'field'. Use 'existing_field' instead".red
