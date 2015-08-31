@@ -84,6 +84,38 @@ def remap(str)
 end
 
 
+# Simplest version for now; can evolve over time based on actual usage
+class CSVPatch
+
+  def initialize(original)
+    @_csv = original
+  end
+
+  def patch!(new_row, opts)
+    existing_field = opts[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
+    incoming_field = opts[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
+
+    to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
+    if to_patch.empty?
+      warn "Can't match row to existing data: #{new_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
+    else 
+      # warn "Patching #{to_patch.size} rows with #{new_row[incoming_field]}".green
+    end
+    # For now, only set values that are not already set (or are set to 'unknown')
+    # TODO: clobber / append.
+    to_patch.each do |existing_row|
+      new_row.headers.each do |h| 
+        existing_row[h] = new_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
+      end
+    end
+  end
+
+  def all_data
+    @_csv
+  end
+
+end
+
 # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
 def combine_sources
 
@@ -91,7 +123,7 @@ def combine_sources
   all_headers = @instructions[:sources].find_all { |src|
     src[:type] != 'term'
   }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
-    puts "Headers from #{file}".cyan
+    # puts "Headers from #{file}".cyan
     header_line = File.open(file, &:gets)     
     all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
   end
@@ -103,7 +135,7 @@ def combine_sources
   }.each do |src| 
     file = src[:file] 
     fuzzer = nil
-    puts "Concat #{file}".cyan
+    puts "Concat #{file}".magenta
     CSV.table(file, converters: nil).each do |row|
       # Need to make a copy in case there are multiple source columns
       # mapping to the same term (e.g. with areas)
@@ -133,60 +165,43 @@ def combine_sources
     end
   end
 
-  # Then merge with Wikidata files
-  # Two approaches supported so far:
-  #    field: 'name':    merge by name, with fuzzy matching
-  #    field: '<other>': merge by some other local field = the Wikidata ID
-  #      match_on: the field in Wikidata to match with the local
+  # Then merge with Person data files
+  #   existing_field: name — the field name in the existing data to match
+  #      previously "field"
+  #   incoming_field: name — the field name in the incoming data to match
+  #      previously "match_on"
   #
-  #    TODO: merge by a field being a Wikipedia URL or Title
-  @instructions[:sources].find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |wd|
-    puts "Merging with #{wd[:file]}".magenta
+  # If the 'existing_field' field is 'name', this will assume a fuzzy match
+  # TODO many any field fuzzy, not just `name`, and allow exact name match
 
-    # Can merge either by a specified ID key, or on names
-    raise "Need a Merge field" unless wd.key?(:merge) and wd[:merge].key?(:field)
-    match_field = wd[:merge][:field].to_sym
-    warn "Match by #{match_field}"
+  @instructions[:sources].find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
+    puts "Merging with #{pd[:file]}".magenta
 
-    wikidata = CSV.table(wd[:file], converters: nil)
+    raise "No merge instructions" unless pd.key?(:merge) 
 
-    wd_by_id = ->(id) { 
-      return unless id
-      wikidata.find { |r| r[:id] == id } 
-    }
+    persondata = CSV.table(pd[:file], converters: nil)
 
-    override = ->(name) { 
-      return unless wd[:merge].key? :overrides
-      return unless override_id = wd[:merge][:overrides][name.to_sym] 
-      return '' if override_id.empty?
-      wd_by_id.( override_id ) || "" # override to an ID that we don't have. TODO warn
-    }
-
-    if match_field == :name
-      fuzzer = FuzzyMatch.new(wikidata, read: :name, must_match_at_least_one_word: true )
-      finder = ->(r) { fuzzer.find(r[:name]) }
-    else 
-      match_on = (wd[:merge][:match_on] || 'id').to_sym
-      finder = ->(r) { wikidata.find { |d| d[match_on] == r[match_field] } }
+    if pd[:merge].key? :field
+      warn "WARNING deprecated use of merge 'field'. Use 'existing_field' instead".red
+      pd[:merge][:existing_field] = pd[:merge].delete :field
     end
 
-    all_rows.each do |r|
-      unless wd_match = override.(r[:name]) || finder.(r) 
-        warn "No match for #{r[:name]}"
-        next
-      end
-
-      if wd_match == ''
-        warn "Override skip for #{r[:name]}"
-        next
-      end
-
-      # TODO: add as other_name
-      warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".yellow if wd_match && wd_match[:name] != r[:name]
-
-      # Merge it in (non-destructively)
-      wd_match.headers.each { |h| r[h] = wd_match[h] if r[h].to_s.empty? || r[h].to_s.downcase == 'unknown' }
+    if pd[:merge].key? :match_on
+      warn "WARNING deprecated use of merge 'match_on'. Use 'incoming_field' instead".red
+      pd[:merge][:incoming_field] = pd[:merge].delete :match_on
     end
+
+    opts = {
+      existing_field: pd[:merge][:existing_field],
+      incoming_field: pd[:merge][:incoming_field]
+    }
+    warn "  Match incoming #{opts[:incoming_field]} to #{opts[:existing_field]}"
+
+    # TODO handle overrides
+    # TODO fuzzy matching
+    patcher = CSVPatch.new(all_rows)
+    persondata.each { |pd_row| patcher.patch!(pd_row, opts) }
+    all_rows = patcher.all_data
   end
 
   # Map Areas 
@@ -196,7 +211,8 @@ def combine_sources
     all_headers |= [:area_id]
     ocds = CSV.table(area[:file], converters: nil)
     fuzzer = FuzzyMatch.new(ocds, read: :name)
-    finder = ->(r) { fuzzer.find(r[:area]) }
+    finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
+
     override = ->(name) { 
       return unless area[:merge].key? :overrides
       return unless override_id = area[:merge][:overrides][name.to_sym] 
@@ -204,16 +220,19 @@ def combine_sources
       ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
     }
 
+    areas = {}
     all_rows.each do |r|
       raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
-      unless area_match = override.(r[:area]) || finder.(r) 
-        warn "No area match for #{r[:area]}"
-        next
+      unless areas.key? r[:area]
+        areas[r[:area]] = override.(r[:area]) || finder.(r) 
+        if areas[r[:area]].to_s.empty?
+          warn "No area match for #{r[:area]}"
+        else
+          warn "Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
+        end
       end
-      parts = r[:area].split(/,\s+/)
-      puts "Matched Area %s to %s" % [ r[:area].to_s.yellow, area_match[:name].to_s.green ] unless 
-        parts.all? { |p| area_match[:name].include? p }
-      r[:area_id] = area_match[:id]
+      next if areas[r[:area]].to_s.empty?
+      r[:area_id] = areas[r[:area]][:id] 
     end
   end
   
