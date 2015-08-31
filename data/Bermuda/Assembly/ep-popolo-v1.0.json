@@ -867,23 +867,23 @@
   ],
   "areas": [
     {
-      "id": "11",
-      "name": "Devonshire East",
+      "id": "01",
+      "name": "St. George's North",
       "type": "constituency"
     },
     {
-      "id": "08",
-      "name": "Smiths South",
+      "id": "02",
+      "name": "St. George's West",
       "type": "constituency"
     },
     {
-      "id": "12",
-      "name": "Devonshire South Central",
+      "id": "03",
+      "name": "St. David's",
       "type": "constituency"
     },
     {
-      "id": "35",
-      "name": "Sandys North Central",
+      "id": "04",
+      "name": "St. George's South",
       "type": "constituency"
     },
     {
@@ -892,13 +892,38 @@
       "type": "constituency"
     },
     {
-      "id": "22",
-      "name": "Paget East",
+      "id": "06",
+      "name": "Hamilton West",
       "type": "constituency"
     },
     {
-      "id": "18",
-      "name": "Pembroke West Central",
+      "id": "07",
+      "name": "Hamilton South",
+      "type": "constituency"
+    },
+    {
+      "id": "08",
+      "name": "Smiths South",
+      "type": "constituency"
+    },
+    {
+      "id": "09",
+      "name": "Smiths West",
+      "type": "constituency"
+    },
+    {
+      "id": "10",
+      "name": "Smiths North",
+      "type": "constituency"
+    },
+    {
+      "id": "11",
+      "name": "Devonshire East",
+      "type": "constituency"
+    },
+    {
+      "id": "12",
+      "name": "Devonshire South Central",
       "type": "constituency"
     },
     {
@@ -912,48 +937,8 @@
       "type": "constituency"
     },
     {
-      "id": "19",
-      "name": "Pembroke West",
-      "type": "constituency"
-    },
-    {
-      "id": "28",
-      "name": "Warwick West",
-      "type": "constituency"
-    },
-    {
-      "id": "01",
-      "name": "St. George's North",
-      "type": "constituency"
-    },
-    {
-      "id": "03",
-      "name": "St. David's",
-      "type": "constituency"
-    },
-    {
-      "id": "24",
-      "name": "Warwick South East",
-      "type": "constituency"
-    },
-    {
-      "id": "30",
-      "name": "Southampton East Central",
-      "type": "constituency"
-    },
-    {
-      "id": "26",
-      "name": "Warwick South Central",
-      "type": "constituency"
-    },
-    {
-      "id": "25",
-      "name": "Warwick North East",
-      "type": "constituency"
-    },
-    {
-      "id": "36",
-      "name": "Sandys North",
+      "id": "15",
+      "name": "Pembroke East",
       "type": "constituency"
     },
     {
@@ -962,43 +947,18 @@
       "type": "constituency"
     },
     {
-      "id": "33",
-      "name": "Sandys South",
+      "id": "17",
+      "name": "Pembroke Central",
       "type": "constituency"
     },
     {
-      "id": "10",
-      "name": "Smiths North",
+      "id": "18",
+      "name": "Pembroke West Central",
       "type": "constituency"
     },
     {
-      "id": "34",
-      "name": "Sandys South Central",
-      "type": "constituency"
-    },
-    {
-      "id": "02",
-      "name": "St. George's West",
-      "type": "constituency"
-    },
-    {
-      "id": "23",
-      "name": "Paget West",
-      "type": "constituency"
-    },
-    {
-      "id": "32",
-      "name": "Southampton West",
-      "type": "constituency"
-    },
-    {
-      "id": "21",
-      "name": "Pembroke South East",
-      "type": "constituency"
-    },
-    {
-      "id": "31",
-      "name": "Southampton West Central",
+      "id": "19",
+      "name": "Pembroke West",
       "type": "constituency"
     },
     {
@@ -1007,33 +967,33 @@
       "type": "constituency"
     },
     {
-      "id": "04",
-      "name": "St. George's South",
+      "id": "21",
+      "name": "Pembroke South East",
       "type": "constituency"
     },
     {
-      "id": "07",
-      "name": "Hamilton South",
+      "id": "22",
+      "name": "Paget East",
       "type": "constituency"
     },
     {
-      "id": "09",
-      "name": "Smiths West",
+      "id": "23",
+      "name": "Paget West",
       "type": "constituency"
     },
     {
-      "id": "15",
-      "name": "Pembroke East",
+      "id": "24",
+      "name": "Warwick South East",
       "type": "constituency"
     },
     {
-      "id": "17",
-      "name": "Pembroke Central",
+      "id": "25",
+      "name": "Warwick North East",
       "type": "constituency"
     },
     {
-      "id": "06",
-      "name": "Hamilton West",
+      "id": "26",
+      "name": "Warwick South Central",
       "type": "constituency"
     },
     {
@@ -1042,8 +1002,48 @@
       "type": "constituency"
     },
     {
+      "id": "28",
+      "name": "Warwick West",
+      "type": "constituency"
+    },
+    {
       "id": "29",
       "name": "Southampton East",
+      "type": "constituency"
+    },
+    {
+      "id": "30",
+      "name": "Southampton East Central",
+      "type": "constituency"
+    },
+    {
+      "id": "31",
+      "name": "Southampton West Central",
+      "type": "constituency"
+    },
+    {
+      "id": "32",
+      "name": "Southampton West",
+      "type": "constituency"
+    },
+    {
+      "id": "33",
+      "name": "Sandys South",
+      "type": "constituency"
+    },
+    {
+      "id": "34",
+      "name": "Sandys South Central",
+      "type": "constituency"
+    },
+    {
+      "id": "35",
+      "name": "Sandys North Central",
+      "type": "constituency"
+    },
+    {
+      "id": "36",
+      "name": "Sandys North",
       "type": "constituency"
     }
   ]

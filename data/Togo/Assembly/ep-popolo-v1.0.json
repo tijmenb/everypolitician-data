@@ -1680,103 +1680,8 @@
   ],
   "areas": [
     {
-      "id": "area/binah",
-      "name": "BINAH",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ave",
-      "name": "AVE",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tchamba",
-      "name": "TCHAMBA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/yoto",
-      "name": "YOTO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/est-mono",
-      "name": "EST-MONO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/blitta",
-      "name": "BLITTA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ogou-anie",
-      "name": "OGOU-ANIE",
-      "type": "constituency"
-    },
-    {
-      "id": "area/haho",
-      "name": "HAHO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/vo",
-      "name": "VO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/grand_lome",
-      "name": "GRAND LOME",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kpendjal",
-      "name": "KPENDJAL",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moyen-mono",
-      "name": "MOYEN-MONO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/oti",
-      "name": "OTI",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dankpen",
-      "name": "DANKPEN",
-      "type": "constituency"
-    },
-    {
-      "id": "area/keran",
-      "name": "KERAN",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kozah",
-      "name": "KOZAH",
-      "type": "constituency"
-    },
-    {
       "id": "area/agou",
       "name": "AGOU",
-      "type": "constituency"
-    },
-    {
-      "id": "area/danyi",
-      "name": "DANYI",
-      "type": "constituency"
-    },
-    {
-      "id": "area/asssoli",
-      "name": "ASSSOLI",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lacs-bas_mono",
-      "name": "LACS-BAS MONO",
       "type": "constituency"
     },
     {
@@ -1790,13 +1695,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/tandjouare",
-      "name": "TANDJOUARE",
+      "id": "area/asssoli",
+      "name": "ASSSOLI",
       "type": "constituency"
     },
     {
-      "id": "area/tone-cinkasse",
-      "name": "TONE-CINKASSE",
+      "id": "area/ave",
+      "name": "AVE",
       "type": "constituency"
     },
     {
@@ -1805,18 +1710,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/wawa-akebou",
-      "name": "WAWA-AKEBOU",
+      "id": "area/binah",
+      "name": "BINAH",
       "type": "constituency"
     },
     {
-      "id": "area/zio",
-      "name": "ZIO",
+      "id": "area/blitta",
+      "name": "BLITTA",
       "type": "constituency"
     },
     {
-      "id": "area/sotouboua",
-      "name": "SOTOUBOUA",
+      "id": "area/dankpen",
+      "name": "DANKPEN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/danyi",
+      "name": "DANYI",
       "type": "constituency"
     },
     {
@@ -1825,13 +1735,103 @@
       "type": "constituency"
     },
     {
-      "id": "area/tchaoudjo",
-      "name": "TCHAOUDJO",
+      "id": "area/est-mono",
+      "name": "EST-MONO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/grand_lome",
+      "name": "GRAND LOME",
+      "type": "constituency"
+    },
+    {
+      "id": "area/haho",
+      "name": "HAHO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/keran",
+      "name": "KERAN",
       "type": "constituency"
     },
     {
       "id": "area/kloto-kpele",
       "name": "KLOTO-KPELE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kozah",
+      "name": "KOZAH",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kpendjal",
+      "name": "KPENDJAL",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lacs-bas_mono",
+      "name": "LACS-BAS MONO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moyen-mono",
+      "name": "MOYEN-MONO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ogou-anie",
+      "name": "OGOU-ANIE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/oti",
+      "name": "OTI",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sotouboua",
+      "name": "SOTOUBOUA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tandjouare",
+      "name": "TANDJOUARE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tchamba",
+      "name": "TCHAMBA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tchaoudjo",
+      "name": "TCHAOUDJO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tone-cinkasse",
+      "name": "TONE-CINKASSE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vo",
+      "name": "VO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/wawa-akebou",
+      "name": "WAWA-AKEBOU",
+      "type": "constituency"
+    },
+    {
+      "id": "area/yoto",
+      "name": "YOTO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/zio",
+      "name": "ZIO",
       "type": "constituency"
     }
   ]

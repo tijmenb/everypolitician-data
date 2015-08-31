@@ -3498,48 +3498,8 @@
   ],
   "areas": [
     {
-      "id": "area/guera",
-      "name": "Guera",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kanem",
-      "name": "Kanem",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mandoul",
-      "name": "Mandoul",
-      "type": "constituency"
-    },
-    {
-      "id": "area/wadi_fira",
-      "name": "Wadi Fira",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sila",
-      "name": "Sila",
-      "type": "constituency"
-    },
-    {
-      "id": "area/salamat",
-      "name": "Salamat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/logone_oriental",
-      "name": "Logone oriental",
-      "type": "constituency"
-    },
-    {
       "id": "area/barh_el_gazal",
       "name": "Barh el Gazal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moyen_chari",
-      "name": "Moyen Chari",
       "type": "constituency"
     },
     {
@@ -3548,73 +3508,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/ouadaï",
-      "name": "Ouadaï",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n’djamena_02",
-      "name": "N’Djamena 02",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tandjilé",
-      "name": "Tandjilé",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ennedi",
-      "name": "Ennedi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/logone_occidental",
-      "name": "Logone occidental",
-      "type": "constituency"
-    },
-    {
       "id": "area/borkou",
       "name": "Borkou",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n’djamena_10",
-      "name": "N’Djamena 10",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n’djamena_07",
-      "name": "N’Djamena 07",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hadjer_lamis",
-      "name": "Hadjer Lamis",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n’djamena_05",
-      "name": "N’Djamena 05",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mayo_kebbi_ouest",
-      "name": "Mayo Kebbi Ouest",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n’djamena_08",
-      "name": "N’Djamena 08",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n’djamena_03",
-      "name": "N’Djamena 03",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mayo_kebbi_est",
-      "name": "Mayo Kebbi Est",
       "type": "constituency"
     },
     {
@@ -3623,13 +3518,58 @@
       "type": "constituency"
     },
     {
+      "id": "area/ennedi",
+      "name": "Ennedi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/guera",
+      "name": "Guera",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hadjer_lamis",
+      "name": "Hadjer Lamis",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kanem",
+      "name": "Kanem",
+      "type": "constituency"
+    },
+    {
       "id": "area/lac",
       "name": "Lac",
       "type": "constituency"
     },
     {
-      "id": "area/n’djamena_09",
-      "name": "N’Djamena 09",
+      "id": "area/logone_occidental",
+      "name": "Logone occidental",
+      "type": "constituency"
+    },
+    {
+      "id": "area/logone_oriental",
+      "name": "Logone oriental",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mandoul",
+      "name": "Mandoul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mayo_kebbi_est",
+      "name": "Mayo Kebbi Est",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mayo_kebbi_ouest",
+      "name": "Mayo Kebbi Ouest",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moyen_chari",
+      "name": "Moyen Chari",
       "type": "constituency"
     },
     {
@@ -3638,8 +3578,68 @@
       "type": "constituency"
     },
     {
+      "id": "area/n’djamena_02",
+      "name": "N’Djamena 02",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_03",
+      "name": "N’Djamena 03",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_04",
+      "name": "N’Djamena 04",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_05",
+      "name": "N’Djamena 05",
+      "type": "constituency"
+    },
+    {
       "id": "area/n’djamena_06",
       "name": "N’Djamena 06",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_07",
+      "name": "N’Djamena 07",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_08",
+      "name": "N’Djamena 08",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_09",
+      "name": "N’Djamena 09",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n’djamena_10",
+      "name": "N’Djamena 10",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ouadaï",
+      "name": "Ouadaï",
+      "type": "constituency"
+    },
+    {
+      "id": "area/salamat",
+      "name": "Salamat",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sila",
+      "name": "Sila",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tandjilé",
+      "name": "Tandjilé",
       "type": "constituency"
     },
     {
@@ -3648,8 +3648,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/n’djamena_04",
-      "name": "N’Djamena 04",
+      "id": "area/wadi_fira",
+      "name": "Wadi Fira",
       "type": "constituency"
     }
   ]

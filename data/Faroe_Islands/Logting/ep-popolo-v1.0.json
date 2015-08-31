@@ -3803,18 +3803,13 @@
   ],
   "areas": [
     {
-      "id": "area/norðoyar",
-      "name": "Norðoyar",
-      "type": "constituency"
-    },
-    {
       "id": "area/eysturoy",
       "name": "Eysturoy",
       "type": "constituency"
     },
     {
-      "id": "area/suðurstreymoy",
-      "name": "Suðurstreymoy",
+      "id": "area/norðoyar",
+      "name": "Norðoyar",
       "type": "constituency"
     },
     {
@@ -3823,23 +3818,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/suðuroy",
-      "name": "Suðuroy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/vágar",
-      "name": "Vágar",
-      "type": "constituency"
-    },
-    {
       "id": "area/sandoy",
       "name": "Sandoy",
       "type": "constituency"
     },
     {
+      "id": "area/suðuroy",
+      "name": "Suðuroy",
+      "type": "constituency"
+    },
+    {
       "id": "area/suðuroy[1]",
       "name": "Suðuroy[1]",
+      "type": "constituency"
+    },
+    {
+      "id": "area/suðurstreymoy",
+      "name": "Suðurstreymoy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vágar",
+      "name": "Vágar",
       "type": "constituency"
     }
   ]

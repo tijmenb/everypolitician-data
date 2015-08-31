@@ -2431,13 +2431,13 @@
   ],
   "areas": [
     {
-      "id": "area/bayan-Ölgii",
-      "name": "Bayan-Ölgii",
+      "id": "area/arkhangai",
+      "name": "Arkhangai",
       "type": "constituency"
     },
     {
-      "id": "area/khentii",
-      "name": "Khentii",
+      "id": "area/bayan-Ölgii",
+      "name": "Bayan-Ölgii",
       "type": "constituency"
     },
     {
@@ -2446,38 +2446,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/dundgovi",
-      "name": "Dundgovi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/uvs",
-      "name": "Uvs",
-      "type": "constituency"
-    },
-    {
-      "id": "area/arkhangai",
-      "name": "Arkhangai",
-      "type": "constituency"
-    },
-    {
-      "id": "area/n/a",
-      "name": "n/a",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ulan_bator_— bayanzürkh•nalaikh",
-      "name": "Ulan Bator — Bayanzürkh•Nalaikh",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sükhbaatar",
-      "name": "Sükhbaatar",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ulan_bator_— chingeltei",
-      "name": "Ulan Bator — Chingeltei",
+      "id": "area/bulgan",
+      "name": "Bulgan",
       "type": "constituency"
     },
     {
@@ -2486,63 +2456,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/khovd",
-      "name": "Khovd",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ulan_bator_— bayangol",
-      "name": "Ulan Bator — Bayangol",
-      "type": "constituency"
-    },
-    {
-      "id": "area/Övörkhangai",
-      "name": "Övörkhangai",
-      "type": "constituency"
-    },
-    {
-      "id": "area/Ömnögovi",
-      "name": "Ömnögovi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ulan_bator_— songino_khairkhan",
-      "name": "Ulan Bator — Songino Khairkhan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ulan_bator_— baganuur•bagakhangai•khan-uul",
-      "name": "Ulan Bator — Baganuur•Bagakhangai•Khan-Uul",
-      "type": "constituency"
-    },
-    {
-      "id": "area/zavkhan",
-      "name": "Zavkhan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/töv",
-      "name": "Töv",
-      "type": "constituency"
-    },
-    {
-      "id": "area/orkhon",
-      "name": "Orkhon",
-      "type": "constituency"
-    },
-    {
       "id": "area/dornod",
       "name": "Dornod",
       "type": "constituency"
     },
     {
-      "id": "area/bulgan",
-      "name": "Bulgan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/selenge",
-      "name": "Selenge",
+      "id": "area/dundgovi",
+      "name": "Dundgovi",
       "type": "constituency"
     },
     {
@@ -2556,13 +2476,93 @@
       "type": "constituency"
     },
     {
+      "id": "area/khentii",
+      "name": "Khentii",
+      "type": "constituency"
+    },
+    {
+      "id": "area/khovd",
+      "name": "Khovd",
+      "type": "constituency"
+    },
+    {
       "id": "area/khövsgöl",
       "name": "Khövsgöl",
       "type": "constituency"
     },
     {
+      "id": "area/n/a",
+      "name": "n/a",
+      "type": "constituency"
+    },
+    {
+      "id": "area/orkhon",
+      "name": "Orkhon",
+      "type": "constituency"
+    },
+    {
+      "id": "area/selenge",
+      "name": "Selenge",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sükhbaatar",
+      "name": "Sükhbaatar",
+      "type": "constituency"
+    },
+    {
+      "id": "area/töv",
+      "name": "Töv",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulan_bator_— baganuur•bagakhangai•khan-uul",
+      "name": "Ulan Bator — Baganuur•Bagakhangai•Khan-Uul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulan_bator_— bayangol",
+      "name": "Ulan Bator — Bayangol",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulan_bator_— bayanzürkh•nalaikh",
+      "name": "Ulan Bator — Bayanzürkh•Nalaikh",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulan_bator_— chingeltei",
+      "name": "Ulan Bator — Chingeltei",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulan_bator_— songino_khairkhan",
+      "name": "Ulan Bator — Songino Khairkhan",
+      "type": "constituency"
+    },
+    {
       "id": "area/ulan_bator_— sükhbaatar",
       "name": "Ulan Bator — Sükhbaatar",
+      "type": "constituency"
+    },
+    {
+      "id": "area/uvs",
+      "name": "Uvs",
+      "type": "constituency"
+    },
+    {
+      "id": "area/zavkhan",
+      "name": "Zavkhan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/Ömnögovi",
+      "name": "Ömnögovi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/Övörkhangai",
+      "name": "Övörkhangai",
       "type": "constituency"
     }
   ]

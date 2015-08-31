@@ -576,8 +576,13 @@
   ],
   "areas": [
     {
-      "id": "area/pohnpei",
-      "name": "Pohnpei",
+      "id": "area/chuuk",
+      "name": "Chuuk",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kosrae",
+      "name": "Kosrae",
       "type": "constituency"
     },
     {
@@ -586,18 +591,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/chuuk",
-      "name": "Chuuk",
+      "id": "area/pohnpei",
+      "name": "Pohnpei",
       "type": "constituency"
     },
     {
       "id": "area/yap",
       "name": "Yap",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kosrae",
-      "name": "Kosrae",
       "type": "constituency"
     }
   ]

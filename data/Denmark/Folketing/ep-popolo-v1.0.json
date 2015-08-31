@@ -5424,8 +5424,8 @@
   ],
   "areas": [
     {
-      "id": "area/greenland",
-      "name": "Greenland",
+      "id": "area/bornholm",
+      "name": "Bornholm",
       "type": "constituency"
     },
     {
@@ -5439,13 +5439,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/south_jutland",
-      "name": "South Jutland",
+      "id": "area/funen",
+      "name": "Funen",
       "type": "constituency"
     },
     {
-      "id": "area/north_zealand",
-      "name": "North Zealand",
+      "id": "area/greater_copenhagen",
+      "name": "Greater Copenhagen",
+      "type": "constituency"
+    },
+    {
+      "id": "area/greenland",
+      "name": "Greenland",
       "type": "constituency"
     },
     {
@@ -5454,8 +5459,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/funen",
-      "name": "Funen",
+      "id": "area/north_zealand",
+      "name": "North Zealand",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_jutland",
+      "name": "South Jutland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/the_faroe_islands",
+      "name": "The Faroe Islands",
       "type": "constituency"
     },
     {
@@ -5466,21 +5481,6 @@
     {
       "id": "area/zealand",
       "name": "Zealand",
-      "type": "constituency"
-    },
-    {
-      "id": "area/greater_copenhagen",
-      "name": "Greater Copenhagen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bornholm",
-      "name": "Bornholm",
-      "type": "constituency"
-    },
-    {
-      "id": "area/the_faroe_islands",
-      "name": "The Faroe Islands",
       "type": "constituency"
     }
   ]

@@ -2203,28 +2203,8 @@
   ],
   "areas": [
     {
-      "id": "area/queensland",
-      "name": "Queensland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tasmania",
-      "name": "Tasmania",
-      "type": "constituency"
-    },
-    {
-      "id": "area/northern_territory",
-      "name": "Northern Territory",
-      "type": "constituency"
-    },
-    {
-      "id": "area/western_australia",
-      "name": "Western Australia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/victoria",
-      "name": "Victoria",
+      "id": "area/australian_capital_territory",
+      "name": "Australian Capital Territory",
       "type": "constituency"
     },
     {
@@ -2233,13 +2213,33 @@
       "type": "constituency"
     },
     {
+      "id": "area/northern_territory",
+      "name": "Northern Territory",
+      "type": "constituency"
+    },
+    {
+      "id": "area/queensland",
+      "name": "Queensland",
+      "type": "constituency"
+    },
+    {
       "id": "area/south_australia",
       "name": "South Australia",
       "type": "constituency"
     },
     {
-      "id": "area/australian_capital_territory",
-      "name": "Australian Capital Territory",
+      "id": "area/tasmania",
+      "name": "Tasmania",
+      "type": "constituency"
+    },
+    {
+      "id": "area/victoria",
+      "name": "Victoria",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_australia",
+      "name": "Western Australia",
       "type": "constituency"
     }
   ]

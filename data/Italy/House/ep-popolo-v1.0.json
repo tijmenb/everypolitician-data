@@ -21634,8 +21634,23 @@
   ],
   "areas": [
     {
-      "id": "area/toscana",
-      "name": "Toscana",
+      "id": "area/abruzzo",
+      "name": "Abruzzo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/america_meridionale",
+      "name": "America meridionale",
+      "type": "constituency"
+    },
+    {
+      "id": "area/america_settentrionale_e_centrale",
+      "name": "America settentrionale e centrale",
+      "type": "constituency"
+    },
+    {
+      "id": "area/asia-africa-oceania-antartide",
+      "name": "Asia-Africa-Oceania-Antartide",
       "type": "constituency"
     },
     {
@@ -21644,13 +21659,33 @@
       "type": "constituency"
     },
     {
-      "id": "area/lombardia_2",
-      "name": "Lombardia 2",
+      "id": "area/calabria",
+      "name": "Calabria",
+      "type": "constituency"
+    },
+    {
+      "id": "area/campania_1",
+      "name": "Campania 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/campania_2",
+      "name": "Campania 2",
       "type": "constituency"
     },
     {
       "id": "area/emilia-romagna",
       "name": "Emilia-Romagna",
+      "type": "constituency"
+    },
+    {
+      "id": "area/europa",
+      "name": "Europa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/friuli-venezia_giulia",
+      "name": "Friuli-Venezia Giulia",
       "type": "constituency"
     },
     {
@@ -21664,63 +21699,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/veneto_1",
-      "name": "Veneto 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/campania_1",
-      "name": "Campania 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/veneto_2",
-      "name": "Veneto 2",
-      "type": "constituency"
-    },
-    {
-      "id": "area/piemonte_2",
-      "name": "Piemonte 2",
-      "type": "constituency"
-    },
-    {
-      "id": "area/calabria",
-      "name": "Calabria",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sicilia_1",
-      "name": "Sicilia 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/trentino-alto_adige",
-      "name": "Trentino-Alto Adige",
-      "type": "constituency"
-    },
-    {
-      "id": "area/puglia",
-      "name": "Puglia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/piemonte_1",
-      "name": "Piemonte 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/abruzzo",
-      "name": "Abruzzo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/friuli-venezia_giulia",
-      "name": "Friuli-Venezia Giulia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sicilia_2",
-      "name": "Sicilia 2",
+      "id": "area/liguria",
+      "name": "Liguria",
       "type": "constituency"
     },
     {
@@ -21729,13 +21709,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/lombardia_3",
-      "name": "Lombardia 3",
+      "id": "area/lombardia_2",
+      "name": "Lombardia 2",
       "type": "constituency"
     },
     {
-      "id": "area/molise",
-      "name": "Molise",
+      "id": "area/lombardia_3",
+      "name": "Lombardia 3",
       "type": "constituency"
     },
     {
@@ -21744,13 +21724,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/campania_2",
-      "name": "Campania 2",
+      "id": "area/molise",
+      "name": "Molise",
       "type": "constituency"
     },
     {
-      "id": "area/umbria",
-      "name": "Umbria",
+      "id": "area/piemonte_1",
+      "name": "Piemonte 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/piemonte_2",
+      "name": "Piemonte 2",
+      "type": "constituency"
+    },
+    {
+      "id": "area/puglia",
+      "name": "Puglia",
       "type": "constituency"
     },
     {
@@ -21759,23 +21749,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/liguria",
-      "name": "Liguria",
+      "id": "area/sicilia_1",
+      "name": "Sicilia 1",
       "type": "constituency"
     },
     {
-      "id": "area/europa",
-      "name": "Europa",
+      "id": "area/sicilia_2",
+      "name": "Sicilia 2",
       "type": "constituency"
     },
     {
-      "id": "area/america_meridionale",
-      "name": "America meridionale",
+      "id": "area/toscana",
+      "name": "Toscana",
       "type": "constituency"
     },
     {
-      "id": "area/asia-africa-oceania-antartide",
-      "name": "Asia-Africa-Oceania-Antartide",
+      "id": "area/trentino-alto_adige",
+      "name": "Trentino-Alto Adige",
+      "type": "constituency"
+    },
+    {
+      "id": "area/umbria",
+      "name": "Umbria",
       "type": "constituency"
     },
     {
@@ -21784,8 +21779,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/america_settentrionale_e_centrale",
-      "name": "America settentrionale e centrale",
+      "id": "area/veneto_1",
+      "name": "Veneto 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/veneto_2",
+      "name": "Veneto 2",
       "type": "constituency"
     }
   ]

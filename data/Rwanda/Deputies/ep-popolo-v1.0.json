@@ -2152,23 +2152,8 @@
   ],
   "areas": [
     {
-      "id": "area/kigali",
-      "name": "Kigali",
-      "type": "constituency"
-    },
-    {
-      "id": "area/southern_province",
-      "name": "Southern Province",
-      "type": "constituency"
-    },
-    {
-      "id": "area/northern_province",
-      "name": "Northern  Province",
-      "type": "constituency"
-    },
-    {
-      "id": "area/western_province",
-      "name": "Western Province",
+      "id": "area/eastern",
+      "name": "Eastern",
       "type": "constituency"
     },
     {
@@ -2177,13 +2162,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/southern",
-      "name": "Southern",
-      "type": "constituency"
-    },
-    {
-      "id": "area/northern",
-      "name": "Northern",
+      "id": "area/kigali",
+      "name": "Kigali",
       "type": "constituency"
     },
     {
@@ -2192,8 +2172,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/western",
-      "name": "Western",
+      "id": "area/northern",
+      "name": "Northern",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northern_province",
+      "name": "Northern  Province",
       "type": "constituency"
     },
     {
@@ -2202,8 +2187,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/eastern",
-      "name": "Eastern",
+      "id": "area/southern",
+      "name": "Southern",
+      "type": "constituency"
+    },
+    {
+      "id": "area/southern_province",
+      "name": "Southern Province",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western",
+      "name": "Western",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_province",
+      "name": "Western Province",
       "type": "constituency"
     }
   ]

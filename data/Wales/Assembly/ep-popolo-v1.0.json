@@ -2222,151 +2222,6 @@
   ],
   "areas": [
     {
-      "id": "area/bridgend",
-      "name": "Bridgend",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_wales_east",
-      "name": "South Wales East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_wales_west",
-      "name": "South Wales West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/carmarthen_west_and_south_pembrokeshire",
-      "name": "Carmarthen West and South Pembrokeshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/newport_west",
-      "name": "Newport West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cynon_valley",
-      "name": "Cynon Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/caerphilly",
-      "name": "Caerphilly",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_wales_central",
-      "name": "South Wales Central",
-      "type": "constituency"
-    },
-    {
-      "id": "area/preseli_pembrokeshire",
-      "name": "Preseli Pembrokeshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dwyfor_meirionnydd",
-      "name": "Dwyfor Meirionnydd",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ogmore",
-      "name": "Ogmore",
-      "type": "constituency"
-    },
-    {
-      "id": "area/newport_east",
-      "name": "Newport East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/wrexham",
-      "name": "Wrexham",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gower",
-      "name": "Gower",
-      "type": "constituency"
-    },
-    {
-      "id": "area/vale_of_glamorgan",
-      "name": "Vale of Glamorgan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_wales",
-      "name": "North Wales",
-      "type": "constituency"
-    },
-    {
-      "id": "area/arfon",
-      "name": "Arfon",
-      "type": "constituency"
-    },
-    {
-      "id": "area/vale_of_clwyd",
-      "name": "Vale of Clwyd",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ceredigion",
-      "name": "Ceredigion",
-      "type": "constituency"
-    },
-    {
-      "id": "area/merthyr_tydfil_and_rhymney",
-      "name": "Merthyr Tydfil and Rhymney",
-      "type": "constituency"
-    },
-    {
-      "id": "area/delyn",
-      "name": "Delyn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/clwyd_west",
-      "name": "Clwyd West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/torfaen",
-      "name": "Torfaen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/monmouth",
-      "name": "Monmouth",
-      "type": "constituency"
-    },
-    {
-      "id": "area/alyn_and_deeside",
-      "name": "Alyn and Deeside",
-      "type": "constituency"
-    },
-    {
-      "id": "area/neath",
-      "name": "Neath",
-      "type": "constituency"
-    },
-    {
-      "id": "area/carmarthen_east_and_dinefwr",
-      "name": "Carmarthen East and Dinefwr",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mid_and_west_wales",
-      "name": "Mid and West Wales",
-      "type": "constituency"
-    },
-    {
-      "id": "area/brecon_and_radnorshire",
-      "name": "Brecon and Radnorshire",
-      "type": "constituency"
-    },
-    {
       "id": "area/aberavon",
       "name": "Aberavon",
       "type": "constituency"
@@ -2377,8 +2232,33 @@
       "type": "constituency"
     },
     {
+      "id": "area/alyn_and_deeside",
+      "name": "Alyn and Deeside",
+      "type": "constituency"
+    },
+    {
+      "id": "area/arfon",
+      "name": "Arfon",
+      "type": "constituency"
+    },
+    {
       "id": "area/blaenau_gwent",
       "name": "Blaenau Gwent",
+      "type": "constituency"
+    },
+    {
+      "id": "area/brecon_and_radnorshire",
+      "name": "Brecon and Radnorshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bridgend",
+      "name": "Bridgend",
+      "type": "constituency"
+    },
+    {
+      "id": "area/caerphilly",
+      "name": "Caerphilly",
       "type": "constituency"
     },
     {
@@ -2402,13 +2282,48 @@
       "type": "constituency"
     },
     {
+      "id": "area/carmarthen_east_and_dinefwr",
+      "name": "Carmarthen East and Dinefwr",
+      "type": "constituency"
+    },
+    {
+      "id": "area/carmarthen_west_and_south_pembrokeshire",
+      "name": "Carmarthen West and South Pembrokeshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ceredigion",
+      "name": "Ceredigion",
+      "type": "constituency"
+    },
+    {
       "id": "area/clwyd_south",
       "name": "Clwyd South",
       "type": "constituency"
     },
     {
-      "id": "area/ynys_môn",
-      "name": "Ynys Môn",
+      "id": "area/clwyd_west",
+      "name": "Clwyd West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cynon_valley",
+      "name": "Cynon Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "area/delyn",
+      "name": "Delyn",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dwyfor_meirionnydd",
+      "name": "Dwyfor Meirionnydd",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gower",
+      "name": "Gower",
       "type": "constituency"
     },
     {
@@ -2422,8 +2337,48 @@
       "type": "constituency"
     },
     {
+      "id": "area/merthyr_tydfil_and_rhymney",
+      "name": "Merthyr Tydfil and Rhymney",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mid_and_west_wales",
+      "name": "Mid and West Wales",
+      "type": "constituency"
+    },
+    {
+      "id": "area/monmouth",
+      "name": "Monmouth",
+      "type": "constituency"
+    },
+    {
       "id": "area/montgomeryshire",
       "name": "Montgomeryshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/neath",
+      "name": "Neath",
+      "type": "constituency"
+    },
+    {
+      "id": "area/newport_east",
+      "name": "Newport East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/newport_west",
+      "name": "Newport West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_wales",
+      "name": "North Wales",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ogmore",
+      "name": "Ogmore",
       "type": "constituency"
     },
     {
@@ -2432,8 +2387,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/swansea_east",
-      "name": "Swansea East",
+      "id": "area/preseli_pembrokeshire",
+      "name": "Preseli Pembrokeshire",
       "type": "constituency"
     },
     {
@@ -2442,8 +2397,53 @@
       "type": "constituency"
     },
     {
+      "id": "area/south_wales_central",
+      "name": "South Wales Central",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_wales_east",
+      "name": "South Wales East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_wales_west",
+      "name": "South Wales West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/swansea_east",
+      "name": "Swansea East",
+      "type": "constituency"
+    },
+    {
       "id": "area/swansea_west",
       "name": "Swansea West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/torfaen",
+      "name": "Torfaen",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vale_of_clwyd",
+      "name": "Vale of Clwyd",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vale_of_glamorgan",
+      "name": "Vale of Glamorgan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/wrexham",
+      "name": "Wrexham",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ynys_môn",
+      "name": "Ynys Môn",
       "type": "constituency"
     }
   ]

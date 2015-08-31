@@ -3533,13 +3533,33 @@
   ],
   "areas": [
     {
-      "id": "area/vohémar",
-      "name": "Vohémar",
+      "id": "area/ambalavao",
+      "name": "Ambalavao",
       "type": "constituency"
     },
     {
-      "id": "area/mitsinjo",
-      "name": "Mitsinjo",
+      "id": "area/ambanja",
+      "name": "Ambanja",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ambato_boeny",
+      "name": "Ambato Boeny",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ambatofinandrahana",
+      "name": "Ambatofinandrahana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ambatolampy",
+      "name": "Ambatolampy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ambatomainty",
+      "name": "Ambatomainty",
       "type": "constituency"
     },
     {
@@ -3548,33 +3568,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/mandoto",
-      "name": "Mandoto",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_avaradrano",
-      "name": "Antananarivo Avaradrano",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambositra",
-      "name": "Ambositra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ampanihy_andrefana",
-      "name": "Ampanihy Andrefana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manandriana",
-      "name": "Manandriana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manakara",
-      "name": "Manakara",
+      "id": "area/ambilobe",
+      "name": "Ambilobe",
       "type": "constituency"
     },
     {
@@ -3583,18 +3578,33 @@
       "type": "constituency"
     },
     {
-      "id": "area/nosy_be",
-      "name": "Nosy Be",
+      "id": "area/ambohidratrimo",
+      "name": "Ambohidratrimo",
       "type": "constituency"
     },
     {
-      "id": "area/besalampy",
-      "name": "Besalampy",
+      "id": "area/ambohimahasoa",
+      "name": "Ambohimahasoa",
       "type": "constituency"
     },
     {
-      "id": "area/maroantsetra",
-      "name": "Maroantsetra",
+      "id": "area/ambositra",
+      "name": "Ambositra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ambovombe_androy",
+      "name": "Ambovombe Androy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ampanihy_andrefana",
+      "name": "Ampanihy Andrefana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/amparafaravola",
+      "name": "Amparafaravola",
       "type": "constituency"
     },
     {
@@ -3603,13 +3613,293 @@
       "type": "constituency"
     },
     {
-      "id": "area/morafenobe",
-      "name": "Morafenobe",
+      "id": "area/andapa",
+      "name": "Andapa",
       "type": "constituency"
     },
     {
-      "id": "area/toamasina_i",
-      "name": "Toamasina I",
+      "id": "area/andilamena",
+      "name": "Andilamena",
+      "type": "constituency"
+    },
+    {
+      "id": "area/andramasina",
+      "name": "Andramasina",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anjozorobe",
+      "name": "Anjozorobe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ankazoabo_atsimo",
+      "name": "Ankazoabo Atsimo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ankazobe",
+      "name": "Ankazobe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anosibe_an’ala",
+      "name": "Anosibe An’Ala",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antalaha",
+      "name": "Antalaha",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antanambao_manampotsy",
+      "name": "Antanambao Manampotsy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_atsimondrano",
+      "name": "Antananarivo Atsimondrano",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_avaradrano",
+      "name": "Antananarivo Avaradrano",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_i",
+      "name": "Antananarivo I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_ii",
+      "name": "Antananarivo II",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_iii",
+      "name": "Antananarivo III",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_iv",
+      "name": "Antananarivo IV",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_v",
+      "name": "Antananarivo V",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antananarivo_vi",
+      "name": "Antananarivo VI",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antanifotsy",
+      "name": "Antanifotsy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antsalova",
+      "name": "Antsalova",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antsirabe_i",
+      "name": "Antsirabe I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antsirabe_ii",
+      "name": "Antsirabe II",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antsiranana_i",
+      "name": "Antsiranana I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antsiranana_ii",
+      "name": "Antsiranana II",
+      "type": "constituency"
+    },
+    {
+      "id": "area/antsohihy",
+      "name": "Antsohihy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/arivonimamo",
+      "name": "Arivonimamo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bealanana",
+      "name": "Bealanana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/befandriana_avaratra",
+      "name": "Befandriana Avaratra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/befotaka_atsimo",
+      "name": "Befotaka Atsimo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bekily",
+      "name": "Bekily",
+      "type": "constituency"
+    },
+    {
+      "id": "area/belo_tsiribihina",
+      "name": "Belo Tsiribihina",
+      "type": "constituency"
+    },
+    {
+      "id": "area/beloha",
+      "name": "Beloha",
+      "type": "constituency"
+    },
+    {
+      "id": "area/benenitra",
+      "name": "Benenitra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/beroroha",
+      "name": "Beroroha",
+      "type": "constituency"
+    },
+    {
+      "id": "area/besalampy",
+      "name": "Besalampy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/betafo",
+      "name": "Betafo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/betioky_atsimo",
+      "name": "Betioky Atsimo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/betroka",
+      "name": "Betroka",
+      "type": "constituency"
+    },
+    {
+      "id": "area/brickaville",
+      "name": "Brickaville",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fandriana",
+      "name": "Fandriana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/farafangana",
+      "name": "Farafangana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/faratsiho",
+      "name": "Faratsiho",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fenoarivo_be",
+      "name": "Fenoarivo Be",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fianarantsoa_i",
+      "name": "Fianarantsoa I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fénérive_est",
+      "name": "Fénérive Est",
+      "type": "constituency"
+    },
+    {
+      "id": "area/iakora",
+      "name": "Iakora",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ifanadina",
+      "name": "Ifanadina",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ihosy",
+      "name": "Ihosy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ikalamavony",
+      "name": "Ikalamavony",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ikongo",
+      "name": "Ikongo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/isandra",
+      "name": "Isandra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ivohibe",
+      "name": "Ivohibe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kandreho",
+      "name": "Kandreho",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lalangina",
+      "name": "Lalangina",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maevatanàna",
+      "name": "Maevatanàna",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahabo",
+      "name": "Mahabo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahajanga_i",
+      "name": "Mahajanga I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahajanga_ii",
+      "name": "Mahajanga II",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahanoro",
+      "name": "Mahanoro",
       "type": "constituency"
     },
     {
@@ -3618,8 +3908,138 @@
       "type": "constituency"
     },
     {
+      "id": "area/mampikony",
+      "name": "Mampikony",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manajary",
+      "name": "Manajary",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manakara",
+      "name": "Manakara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mananara_avaratra",
+      "name": "Mananara Avaratra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manandriana",
+      "name": "Manandriana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mandoto",
+      "name": "Mandoto",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mandritsara",
+      "name": "Mandritsara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manja",
+      "name": "Manja",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manjakandriana",
+      "name": "Manjakandriana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maroantsetra",
+      "name": "Maroantsetra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/marolambo",
+      "name": "Marolambo",
+      "type": "constituency"
+    },
+    {
       "id": "area/miandrivazo",
       "name": "Miandrivazo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/miarinarivo",
+      "name": "Miarinarivo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/midongy_atsimo",
+      "name": "Midongy Atsimo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mitsinjo",
+      "name": "Mitsinjo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/morafenobe",
+      "name": "Morafenobe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moramanga",
+      "name": "Moramanga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/morombe",
+      "name": "Morombe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/morondava",
+      "name": "Morondava",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nosy_be",
+      "name": "Nosy Be",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nosy_varika",
+      "name": "Nosy Varika",
+      "type": "constituency"
+    },
+    {
+      "id": "area/port_berger",
+      "name": "Port Berger",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sainte_marie",
+      "name": "Sainte Marie",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sakaraha",
+      "name": "Sakaraha",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sambava",
+      "name": "Sambava",
+      "type": "constituency"
+    },
+    {
+      "id": "area/soalala",
+      "name": "Soalala",
+      "type": "constituency"
+    },
+    {
+      "id": "area/soanierana_ivongo",
+      "name": "Soanierana Ivongo",
       "type": "constituency"
     },
     {
@@ -3633,303 +4053,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/toliary_ii",
-      "name": "Toliary II",
+      "id": "area/toamasina_i",
+      "name": "Toamasina I",
       "type": "constituency"
     },
     {
-      "id": "area/ambovombe_androy",
-      "name": "Ambovombe Androy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/soalala",
-      "name": "Soalala",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bekily",
-      "name": "Bekily",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antsirabe_i",
-      "name": "Antsirabe I",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manajary",
-      "name": "Manajary",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antalaha",
-      "name": "Antalaha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/marolambo",
-      "name": "Marolambo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/befandriana_avaratra",
-      "name": "Befandriana Avaratra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antanambao_manampotsy",
-      "name": "Antanambao Manampotsy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antsiranana_i",
-      "name": "Antsiranana I",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sambava",
-      "name": "Sambava",
-      "type": "constituency"
-    },
-    {
-      "id": "area/morondava",
-      "name": "Morondava",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ankazoabo_atsimo",
-      "name": "Ankazoabo Atsimo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/befotaka_atsimo",
-      "name": "Befotaka Atsimo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tsihombe",
-      "name": "Tsihombe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/fénérive_est",
-      "name": "Fénérive Est",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mahanoro",
-      "name": "Mahanoro",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antsiranana_ii",
-      "name": "Antsiranana II",
-      "type": "constituency"
-    },
-    {
-      "id": "area/farafangana",
-      "name": "Farafangana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mahajanga_i",
-      "name": "Mahajanga I",
-      "type": "constituency"
-    },
-    {
-      "id": "area/anosibe_an’ala",
-      "name": "Anosibe An’Ala",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kandreho",
-      "name": "Kandreho",
-      "type": "constituency"
-    },
-    {
-      "id": "area/amparafaravola",
-      "name": "Amparafaravola",
-      "type": "constituency"
-    },
-    {
-      "id": "area/arivonimamo",
-      "name": "Arivonimamo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/betioky_atsimo",
-      "name": "Betioky Atsimo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/andilamena",
-      "name": "Andilamena",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambohidratrimo",
-      "name": "Ambohidratrimo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/isandra",
-      "name": "Isandra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_iii",
-      "name": "Antananarivo III",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manjakandriana",
-      "name": "Manjakandriana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/anjozorobe",
-      "name": "Anjozorobe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/fandriana",
-      "name": "Fandriana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_atsimondrano",
-      "name": "Antananarivo Atsimondrano",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mananara_avaratra",
-      "name": "Mananara Avaratra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sakaraha",
-      "name": "Sakaraha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_iv",
-      "name": "Antananarivo IV",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_vi",
-      "name": "Antananarivo VI",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_v",
-      "name": "Antananarivo V",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tsiroanomandidy",
-      "name": "Tsiroanomandidy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moramanga",
-      "name": "Moramanga",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mandritsara",
-      "name": "Mandritsara",
-      "type": "constituency"
-    },
-    {
-      "id": "area/morombe",
-      "name": "Morombe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/andapa",
-      "name": "Andapa",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antananarivo_ii",
-      "name": "Antananarivo II",
-      "type": "constituency"
-    },
-    {
-      "id": "area/brickaville",
-      "name": "Brickaville",
-      "type": "constituency"
-    },
-    {
-      "id": "area/iakora",
-      "name": "Iakora",
-      "type": "constituency"
-    },
-    {
-      "id": "area/belo_tsiribihina",
-      "name": "Belo Tsiribihina",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ikalamavony",
-      "name": "Ikalamavony",
-      "type": "constituency"
-    },
-    {
-      "id": "area/midongy_atsimo",
-      "name": "Midongy Atsimo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antsalova",
-      "name": "Antsalova",
-      "type": "constituency"
-    },
-    {
-      "id": "area/betafo",
-      "name": "Betafo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/fenoarivo_be",
-      "name": "Fenoarivo Be",
-      "type": "constituency"
-    },
-    {
-      "id": "area/beloha",
-      "name": "Beloha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antanifotsy",
-      "name": "Antanifotsy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambatomainty",
-      "name": "Ambatomainty",
-      "type": "constituency"
-    },
-    {
-      "id": "area/benenitra",
-      "name": "Benenitra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antsirabe_ii",
-      "name": "Antsirabe II",
-      "type": "constituency"
-    },
-    {
-      "id": "area/betroka",
-      "name": "Betroka",
-      "type": "constituency"
-    },
-    {
-      "id": "area/vondrozo",
-      "name": "Vondrozo",
+      "id": "area/toamasina_ii",
+      "name": "Toamasina II",
       "type": "constituency"
     },
     {
@@ -3938,48 +4068,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/vohibato",
-      "name": "Vohibato",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambatolampy",
-      "name": "Ambatolampy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ivohibe",
-      "name": "Ivohibe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mampikony",
-      "name": "Mampikony",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mahajanga_ii",
-      "name": "Mahajanga II",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambato_boeny",
-      "name": "Ambato Boeny",
-      "type": "constituency"
-    },
-    {
-      "id": "area/maevatanàna",
-      "name": "Maevatanàna",
-      "type": "constituency"
-    },
-    {
-      "id": "area/faratsiho",
-      "name": "Faratsiho",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambohimahasoa",
-      "name": "Ambohimahasoa",
+      "id": "area/toliary_ii",
+      "name": "Toliary II",
       "type": "constituency"
     },
     {
@@ -3988,43 +4078,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/fianarantsoa_i",
-      "name": "Fianarantsoa I",
+      "id": "area/tsihombe",
+      "name": "Tsihombe",
       "type": "constituency"
     },
     {
-      "id": "area/antananarivo_i",
-      "name": "Antananarivo I",
-      "type": "constituency"
-    },
-    {
-      "id": "area/miarinarivo",
-      "name": "Miarinarivo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ankazobe",
-      "name": "Ankazobe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mahabo",
-      "name": "Mahabo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sainte_marie",
-      "name": "Sainte Marie",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambalavao",
-      "name": "Ambalavao",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ihosy",
-      "name": "Ihosy",
+      "id": "area/tsiroanomandidy",
+      "name": "Tsiroanomandidy",
       "type": "constituency"
     },
     {
@@ -4038,68 +4098,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/ifanadina",
-      "name": "Ifanadina",
-      "type": "constituency"
-    },
-    {
-      "id": "area/beroroha",
-      "name": "Beroroha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ikongo",
-      "name": "Ikongo",
-      "type": "constituency"
-    },
-    {
       "id": "area/vavatenina",
       "name": "Vavatenina",
       "type": "constituency"
     },
     {
-      "id": "area/andramasina",
-      "name": "Andramasina",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambatofinandrahana",
-      "name": "Ambatofinandrahana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/antsohihy",
-      "name": "Antsohihy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lalangina",
-      "name": "Lalangina",
-      "type": "constituency"
-    },
-    {
-      "id": "area/toamasina_ii",
-      "name": "Toamasina II",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambilobe",
-      "name": "Ambilobe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ambanja",
-      "name": "Ambanja",
-      "type": "constituency"
-    },
-    {
-      "id": "area/soanierana_ivongo",
-      "name": "Soanierana Ivongo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manja",
-      "name": "Manja",
+      "id": "area/vohibato",
+      "name": "Vohibato",
       "type": "constituency"
     },
     {
@@ -4108,18 +4113,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/port_berger",
-      "name": "Port Berger",
+      "id": "area/vohémar",
+      "name": "Vohémar",
       "type": "constituency"
     },
     {
-      "id": "area/bealanana",
-      "name": "Bealanana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/nosy_varika",
-      "name": "Nosy Varika",
+      "id": "area/vondrozo",
+      "name": "Vondrozo",
       "type": "constituency"
     }
   ]

@@ -1055,13 +1055,38 @@
   ],
   "areas": [
     {
-      "id": "area/st_james_south",
-      "name": "St James South",
+      "id": "area/christ_church_east",
+      "name": "Christ Church East",
       "type": "constituency"
     },
     {
-      "id": "area/st_joseph",
-      "name": "St Joseph",
+      "id": "area/christ_church_east_central",
+      "name": "Christ Church East Central",
+      "type": "constituency"
+    },
+    {
+      "id": "area/christ_church_south",
+      "name": "Christ Church South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/christ_church_west",
+      "name": "Christ Church West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/christ_church_west_central",
+      "name": "Christ Church West Central",
+      "type": "constituency"
+    },
+    {
+      "id": "area/city_of_bridgetown",
+      "name": "City of Bridgetown",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_andrew",
+      "name": "St Andrew",
       "type": "constituency"
     },
     {
@@ -1075,68 +1100,33 @@
       "type": "constituency"
     },
     {
-      "id": "area/christ_church_east_central",
-      "name": "Christ Church East Central",
+      "id": "area/st_james_central",
+      "name": "St James Central",
       "type": "constituency"
     },
     {
-      "id": "area/christ_church_west_central",
-      "name": "Christ Church West Central",
+      "id": "area/st_james_north",
+      "name": "St James North",
       "type": "constituency"
     },
     {
-      "id": "area/christ_church_south",
-      "name": "Christ Church South",
+      "id": "area/st_james_south",
+      "name": "St James South",
       "type": "constituency"
     },
     {
-      "id": "area/christ_church_east",
-      "name": "Christ Church East",
+      "id": "area/st_john",
+      "name": "St John",
       "type": "constituency"
     },
     {
-      "id": "area/st_philip_west",
-      "name": "St Philip West",
+      "id": "area/st_joseph",
+      "name": "St Joseph",
       "type": "constituency"
     },
     {
-      "id": "area/st_philip_south",
-      "name": "St Philip South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_philip_north",
-      "name": "St Philip North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/christ_church_west",
-      "name": "Christ Church West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_andrew",
-      "name": "St Andrew",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_thomas",
-      "name": "St Thomas",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_michael_north_east",
-      "name": "St Michael North East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_michael_west_central",
-      "name": "St Michael West Central",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_michael_west",
-      "name": "St Michael West",
+      "id": "area/st_lucy",
+      "name": "St Lucy",
       "type": "constituency"
     },
     {
@@ -1150,23 +1140,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/st_michael_south_central",
-      "name": "St Michael South Central",
+      "id": "area/st_michael_north",
+      "name": "St Michael North",
       "type": "constituency"
     },
     {
-      "id": "area/city_of_bridgetown",
-      "name": "City of Bridgetown",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_michael_south",
-      "name": "St Michael South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/st_michael_south_east",
-      "name": "St Michael South East",
+      "id": "area/st_michael_north_east",
+      "name": "St Michael North East",
       "type": "constituency"
     },
     {
@@ -1175,18 +1155,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/st_michael_north",
-      "name": "St Michael North",
+      "id": "area/st_michael_south",
+      "name": "St Michael South",
       "type": "constituency"
     },
     {
-      "id": "area/st_john",
-      "name": "St John",
+      "id": "area/st_michael_south_central",
+      "name": "St Michael South Central",
       "type": "constituency"
     },
     {
-      "id": "area/st_lucy",
-      "name": "St Lucy",
+      "id": "area/st_michael_south_east",
+      "name": "St Michael South East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_michael_west",
+      "name": "St Michael West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_michael_west_central",
+      "name": "St Michael West Central",
       "type": "constituency"
     },
     {
@@ -1195,13 +1185,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/st_james_north",
-      "name": "St James North",
+      "id": "area/st_philip_north",
+      "name": "St Philip North",
       "type": "constituency"
     },
     {
-      "id": "area/st_james_central",
-      "name": "St James Central",
+      "id": "area/st_philip_south",
+      "name": "St Philip South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_philip_west",
+      "name": "St Philip West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st_thomas",
+      "name": "St Thomas",
       "type": "constituency"
     }
   ]

@@ -13721,33 +13721,13 @@
   ],
   "areas": [
     {
-      "id": "area/centre",
-      "name": "CENTRE",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north",
-      "name": "NORTH",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south",
-      "name": "SOUTH",
-      "type": "constituency"
-    },
-    {
       "id": "area/adamawa",
       "name": "ADAMAWA",
       "type": "constituency"
     },
     {
-      "id": "area/littoral",
-      "name": "LITTORAL",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south-west",
-      "name": "SOUTH-WEST",
+      "id": "area/centre",
+      "name": "CENTRE",
       "type": "constituency"
     },
     {
@@ -13756,8 +13736,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/west",
-      "name": "WEST",
+      "id": "area/far-north",
+      "name": "FAR-NORTH",
+      "type": "constituency"
+    },
+    {
+      "id": "area/littoral",
+      "name": "LITTORAL",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north",
+      "name": "NORTH",
       "type": "constituency"
     },
     {
@@ -13766,18 +13756,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/far-north",
-      "name": "FAR-NORTH",
-      "type": "constituency"
-    },
-    {
       "id": "area/north_west",
       "name": "NORTH WEST",
       "type": "constituency"
     },
     {
+      "id": "area/south",
+      "name": "SOUTH",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south-west",
+      "name": "SOUTH-WEST",
+      "type": "constituency"
+    },
+    {
       "id": "area/south_",
       "name": "SOUTH ",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west",
+      "name": "WEST",
       "type": "constituency"
     }
   ]

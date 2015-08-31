@@ -1116,6 +1116,21 @@
   ],
   "areas": [
     {
+      "id": "ocd-division/country:ba/unit:fbih/entity:1",
+      "name": "FBiH 1",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ba/unit:fbih/entity:2",
+      "name": "FBiH 2",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ba/unit:fbih/entity:3",
+      "name": "FBiH 3",
+      "type": "constituency"
+    },
+    {
       "id": "ocd-division/country:ba/unit:fbih/entity:4",
       "name": "FBiH 4",
       "type": "constituency"
@@ -1126,26 +1141,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ba/unit:fbih/entity:3",
-      "name": "FBiH 3",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ba/unit:fbih/entity:2",
-      "name": "FBiH 2",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ba/unit:fbih/entity:1",
-      "name": "FBiH 1",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ba/unit:rs/entity:3",
-      "name": "RS 3",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ba/unit:rs/entity:1",
       "name": "RS 1",
       "type": "constituency"
@@ -1153,6 +1148,11 @@
     {
       "id": "ocd-division/country:ba/unit:rs/entity:2",
       "name": "RS 2",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ba/unit:rs/entity:3",
+      "name": "RS 3",
       "type": "constituency"
     }
   ]

@@ -9349,33 +9349,8 @@
   ],
   "areas": [
     {
-      "id": "area/western_cape",
-      "name": "Western Cape",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_west",
-      "name": "North West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kwazulu-natal",
-      "name": "KwaZulu-Natal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gauteng",
-      "name": "Gauteng",
-      "type": "constituency"
-    },
-    {
       "id": "area/eastern_cape",
       "name": "Eastern Cape",
-      "type": "constituency"
-    },
-    {
-      "id": "area/unknown_sub-area_of_gauteng_known_as_da_constituency_area:_boksburg",
-      "name": "Unknown sub-area of Gauteng known as DA Constituency Area: Boksburg",
       "type": "constituency"
     },
     {
@@ -9384,8 +9359,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/mpumalanga",
-      "name": "Mpumalanga",
+      "id": "area/gauteng",
+      "name": "Gauteng",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kwazulu-natal",
+      "name": "KwaZulu-Natal",
       "type": "constituency"
     },
     {
@@ -9394,13 +9374,33 @@
       "type": "constituency"
     },
     {
+      "id": "area/mpumalanga",
+      "name": "Mpumalanga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_west",
+      "name": "North West",
+      "type": "constituency"
+    },
+    {
       "id": "area/northern_cape",
       "name": "Northern Cape",
       "type": "constituency"
     },
     {
+      "id": "area/unknown_sub-area_of_gauteng_known_as_da_constituency_area:_boksburg",
+      "name": "Unknown sub-area of Gauteng known as DA Constituency Area: Boksburg",
+      "type": "constituency"
+    },
+    {
       "id": "area/unknown_sub-area_of_western_cape_known_as_da_constituency_area:_mitchells_plain_2",
       "name": "Unknown sub-area of Western Cape known as DA Constituency Area: Mitchells Plain 2",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_cape",
+      "name": "Western Cape",
       "type": "constituency"
     }
   ]

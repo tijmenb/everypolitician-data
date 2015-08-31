@@ -56415,88 +56415,13 @@
   ],
   "areas": [
     {
-      "id": "area/aitolo-akarnania",
-      "name": "Aitolo-Akarnania",
-      "type": "constituency"
-    },
-    {
-      "id": "area/magnesia",
-      "name": "Magnesia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kozani",
-      "name": "Kozani",
-      "type": "constituency"
-    },
-    {
-      "id": "area/trikala",
-      "name": "Trikala",
-      "type": "constituency"
-    },
-    {
-      "id": "area/state",
-      "name": "State",
-      "type": "constituency"
-    },
-    {
-      "id": "area/korinthia",
-      "name": "Korinthia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pieria",
-      "name": "Pieria",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kilkis",
-      "name": "Kilkis",
-      "type": "constituency"
-    },
-    {
-      "id": "area/evia",
-      "name": "Evia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cyclades",
-      "name": "Cyclades",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chios",
-      "name": "Chios",
-      "type": "constituency"
-    },
-    {
-      "id": "area/argolida",
-      "name": "Argolida",
-      "type": "constituency"
-    },
-    {
-      "id": "area/thessaloniki_a",
-      "name": "Thessaloniki A",
-      "type": "constituency"
-    },
-    {
       "id": "area/achaia",
       "name": "Achaia",
       "type": "constituency"
     },
     {
-      "id": "area/serres",
-      "name": "Serres",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lakonia",
-      "name": "Lakonia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/thesprotia",
-      "name": "Thesprotia",
+      "id": "area/aitolo-akarnania",
+      "name": "Aitolo-Akarnania",
       "type": "constituency"
     },
     {
@@ -56505,13 +56430,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/evros",
-      "name": "Evros",
+      "id": "area/argolida",
+      "name": "Argolida",
       "type": "constituency"
     },
     {
-      "id": "area/rest_of_former_municipality_of_piraeus",
-      "name": "Rest of former Municipality of Piraeus",
+      "id": "area/arta",
+      "name": "Arta",
+      "type": "constituency"
+    },
+    {
+      "id": "area/athens_a",
+      "name": "Athens A",
       "type": "constituency"
     },
     {
@@ -56520,8 +56450,203 @@
       "type": "constituency"
     },
     {
+      "id": "area/attica",
+      "name": "Attica",
+      "type": "constituency"
+    },
+    {
+      "id": "area/chania",
+      "name": "Chania",
+      "type": "constituency"
+    },
+    {
+      "id": "area/chios",
+      "name": "Chios",
+      "type": "constituency"
+    },
+    {
+      "id": "area/corfu",
+      "name": "Corfu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cyclades",
+      "name": "Cyclades",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dodecanese_islands",
+      "name": "Dodecanese Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/drama",
+      "name": "Drama",
+      "type": "constituency"
+    },
+    {
+      "id": "area/evia",
+      "name": "Evia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/evros",
+      "name": "Evros",
+      "type": "constituency"
+    },
+    {
+      "id": "area/evrytania",
+      "name": "Evrytania",
+      "type": "constituency"
+    },
+    {
+      "id": "area/florina",
+      "name": "Florina",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fokida",
+      "name": "Fokida",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fthiotida",
+      "name": "Fthiotida",
+      "type": "constituency"
+    },
+    {
+      "id": "area/grevena",
+      "name": "Grevena",
+      "type": "constituency"
+    },
+    {
+      "id": "area/halkidiki",
+      "name": "Halkidiki",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ileia",
+      "name": "Ileia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/imathia",
+      "name": "Imathia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ioannina",
+      "name": "Ioannina",
+      "type": "constituency"
+    },
+    {
+      "id": "area/iraklio",
+      "name": "Iraklio",
+      "type": "constituency"
+    },
+    {
+      "id": "area/karditsa",
+      "name": "Karditsa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kastoria",
+      "name": "Kastoria",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kavala",
+      "name": "Kavala",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kefallonia",
+      "name": "Kefallonia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kilkis",
+      "name": "Kilkis",
+      "type": "constituency"
+    },
+    {
+      "id": "area/korinthia",
+      "name": "Korinthia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kozani",
+      "name": "Kozani",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lakonia",
+      "name": "Lakonia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/larissa",
+      "name": "Larissa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lasithi",
+      "name": "Lasithi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lefkada",
+      "name": "Lefkada",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lesvos",
+      "name": "Lesvos",
+      "type": "constituency"
+    },
+    {
+      "id": "area/magnesia",
+      "name": "Magnesia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/messinia",
+      "name": "Messinia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/municipality_of_athens",
+      "name": "Municipality of Athens",
+      "type": "constituency"
+    },
+    {
+      "id": "area/municipality_of_thessaloniki",
+      "name": "Municipality of Thessaloniki",
+      "type": "constituency"
+    },
+    {
+      "id": "area/of_attica_(rest)",
+      "name": "Of Attica (rest)",
+      "type": "constituency"
+    },
+    {
       "id": "area/of_piraeus_and_islands",
       "name": "Of Piraeus and Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/of_thessaloniki_(rest)",
+      "name": "Of Thessaloniki (rest)",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pella",
+      "name": "Pella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pieria",
+      "name": "Pieria",
       "type": "constituency"
     },
     {
@@ -56535,23 +56660,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/messinia",
-      "name": "Messinia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/viotia",
-      "name": "Viotia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lesvos",
-      "name": "Lesvos",
-      "type": "constituency"
-    },
-    {
-      "id": "area/municipality_of_athens",
-      "name": "Municipality of Athens",
+      "id": "area/preveza",
+      "name": "Preveza",
       "type": "constituency"
     },
     {
@@ -56560,43 +56670,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/athens_a",
-      "name": "Athens A",
-      "type": "constituency"
-    },
-    {
-      "id": "area/halkidiki",
-      "name": "Halkidiki",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lasithi",
-      "name": "Lasithi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/drama",
-      "name": "Drama",
-      "type": "constituency"
-    },
-    {
-      "id": "area/of_attica_(rest)",
-      "name": "Of Attica (rest)",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kefallonia",
-      "name": "Kefallonia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/fthiotida",
-      "name": "Fthiotida",
-      "type": "constituency"
-    },
-    {
-      "id": "area/attica",
-      "name": "Attica",
+      "id": "area/rest_of_former_municipality_of_piraeus",
+      "name": "Rest of former Municipality of Piraeus",
       "type": "constituency"
     },
     {
@@ -56605,113 +56680,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/lefkada",
-      "name": "Lefkada",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pella",
-      "name": "Pella",
-      "type": "constituency"
-    },
-    {
-      "id": "area/thessaloniki_b",
-      "name": "Thessaloniki B",
-      "type": "constituency"
-    },
-    {
-      "id": "area/corfu",
-      "name": "Corfu",
-      "type": "constituency"
-    },
-    {
-      "id": "area/imathia",
-      "name": "Imathia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kavala",
-      "name": "Kavala",
-      "type": "constituency"
-    },
-    {
-      "id": "area/karditsa",
-      "name": "Karditsa",
-      "type": "constituency"
-    },
-    {
-      "id": "area/larissa",
-      "name": "Larissa",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chania",
-      "name": "Chania",
-      "type": "constituency"
-    },
-    {
-      "id": "area/fokida",
-      "name": "Fokida",
-      "type": "constituency"
-    },
-    {
-      "id": "area/iraklio",
-      "name": "Iraklio",
-      "type": "constituency"
-    },
-    {
-      "id": "area/arta",
-      "name": "Arta",
-      "type": "constituency"
-    },
-    {
-      "id": "area/xanthi",
-      "name": "Xanthi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ioannina",
-      "name": "Ioannina",
-      "type": "constituency"
-    },
-    {
-      "id": "area/municipality_of_thessaloniki",
-      "name": "Municipality of Thessaloniki",
-      "type": "constituency"
-    },
-    {
-      "id": "area/grevena",
-      "name": "Grevena",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ileia",
-      "name": "Ileia",
-      "type": "constituency"
-    },
-    {
       "id": "area/rodopi",
       "name": "Rodopi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/preveza",
-      "name": "Preveza",
-      "type": "constituency"
-    },
-    {
-      "id": "area/florina",
-      "name": "Florina",
-      "type": "constituency"
-    },
-    {
-      "id": "area/evrytania",
-      "name": "Evrytania",
-      "type": "constituency"
-    },
-    {
-      "id": "area/of_thessaloniki_(rest)",
-      "name": "Of Thessaloniki (rest)",
       "type": "constituency"
     },
     {
@@ -56720,18 +56690,48 @@
       "type": "constituency"
     },
     {
-      "id": "area/dodecanese_islands",
-      "name": "Dodecanese Islands",
+      "id": "area/serres",
+      "name": "Serres",
+      "type": "constituency"
+    },
+    {
+      "id": "area/state",
+      "name": "State",
+      "type": "constituency"
+    },
+    {
+      "id": "area/thesprotia",
+      "name": "Thesprotia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/thessaloniki_a",
+      "name": "Thessaloniki A",
+      "type": "constituency"
+    },
+    {
+      "id": "area/thessaloniki_b",
+      "name": "Thessaloniki B",
+      "type": "constituency"
+    },
+    {
+      "id": "area/trikala",
+      "name": "Trikala",
+      "type": "constituency"
+    },
+    {
+      "id": "area/viotia",
+      "name": "Viotia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/xanthi",
+      "name": "Xanthi",
       "type": "constituency"
     },
     {
       "id": "area/zakynthos",
       "name": "Zakynthos",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kastoria",
-      "name": "Kastoria",
       "type": "constituency"
     }
   ]

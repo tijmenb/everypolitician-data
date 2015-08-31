@@ -440,8 +440,13 @@
   ],
   "areas": [
     {
-      "id": "area/mutalau",
-      "name": "Mutalau",
+      "id": "area/alofi_north",
+      "name": "Alofi North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/alofi_south",
+      "name": "Alofi South",
       "type": "constituency"
     },
     {
@@ -455,8 +460,43 @@
       "type": "constituency"
     },
     {
-      "id": "area/alofi_south",
-      "name": "Alofi South",
+      "id": "area/hakupu",
+      "name": "Hakupu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hikutavake",
+      "name": "Hikutavake",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lakepa",
+      "name": "Lakepa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/liku",
+      "name": "Liku",
+      "type": "constituency"
+    },
+    {
+      "id": "area/makefu",
+      "name": "Makefu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mutalau",
+      "name": "Mutalau",
+      "type": "constituency"
+    },
+    {
+      "id": "area/namukulu",
+      "name": "Namukulu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tamakautoga",
+      "name": "Tamakautoga",
       "type": "constituency"
     },
     {
@@ -470,48 +510,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/namukulu",
-      "name": "Namukulu",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lakepa",
-      "name": "Lakepa",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hakupu",
-      "name": "Hakupu",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hikutavake",
-      "name": "Hikutavake",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tamakautoga",
-      "name": "Tamakautoga",
-      "type": "constituency"
-    },
-    {
-      "id": "area/liku",
-      "name": "Liku",
-      "type": "constituency"
-    },
-    {
       "id": "area/vaiea",
       "name": "Vaiea",
-      "type": "constituency"
-    },
-    {
-      "id": "area/makefu",
-      "name": "Makefu",
-      "type": "constituency"
-    },
-    {
-      "id": "area/alofi_north",
-      "name": "Alofi North",
       "type": "constituency"
     }
   ]

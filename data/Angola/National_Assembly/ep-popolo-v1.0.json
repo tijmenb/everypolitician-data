@@ -5237,73 +5237,8 @@
   ],
   "areas": [
     {
-      "id": "area/nacional",
-      "name": "Nacional",
-      "type": "constituency"
-    },
-    {
       "id": "area/bengo",
       "name": "Bengo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cabinda",
-      "name": "Cabinda",
-      "type": "constituency"
-    },
-    {
-      "id": "area/huíla",
-      "name": "Huíla",
-      "type": "constituency"
-    },
-    {
-      "id": "area/província_do_huambo",
-      "name": "Província do Huambo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moxico",
-      "name": "Moxico",
-      "type": "constituency"
-    },
-    {
-      "id": "area/uíge",
-      "name": "Uíge",
-      "type": "constituency"
-    },
-    {
-      "id": "area/malange",
-      "name": "Malange",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bié",
-      "name": "Bié",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lunda_sul",
-      "name": "Lunda Sul",
-      "type": "constituency"
-    },
-    {
-      "id": "area/província_de_luanda",
-      "name": "Província de Luanda",
-      "type": "constituency"
-    },
-    {
-      "id": "area/huambo",
-      "name": "Huambo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/namibe",
-      "name": "Namibe",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cuanza_norte",
-      "name": "Cuanza Norte",
       "type": "constituency"
     },
     {
@@ -5312,8 +5247,23 @@
       "type": "constituency"
     },
     {
+      "id": "area/bié",
+      "name": "Bié",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cabinda",
+      "name": "Cabinda",
+      "type": "constituency"
+    },
+    {
       "id": "area/cuando_cubango",
       "name": "Cuando Cubango",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cuanza_norte",
+      "name": "Cuanza Norte",
       "type": "constituency"
     },
     {
@@ -5322,23 +5272,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/luanda",
-      "name": "Luanda",
-      "type": "constituency"
-    },
-    {
-      "id": "area/zaire",
-      "name": "Zaire",
-      "type": "constituency"
-    },
-    {
       "id": "area/cunene",
       "name": "Cunene",
       "type": "constituency"
     },
     {
-      "id": "area/lunda_norte",
-      "name": "Lunda Norte",
+      "id": "area/huambo",
+      "name": "Huambo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/huíla",
+      "name": "Huíla",
+      "type": "constituency"
+    },
+    {
+      "id": "area/luanda",
+      "name": "Luanda",
       "type": "constituency"
     },
     {
@@ -5347,8 +5297,58 @@
       "type": "constituency"
     },
     {
+      "id": "area/lunda_norte",
+      "name": "Lunda Norte",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lunda_sul",
+      "name": "Lunda Sul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/malange",
+      "name": "Malange",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moxico",
+      "name": "Moxico",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nacional",
+      "name": "Nacional",
+      "type": "constituency"
+    },
+    {
+      "id": "area/namibe",
+      "name": "Namibe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/província_de_luanda",
+      "name": "Província de Luanda",
+      "type": "constituency"
+    },
+    {
       "id": "area/província_do_bié",
       "name": "Província do Bié",
+      "type": "constituency"
+    },
+    {
+      "id": "area/província_do_huambo",
+      "name": "Província do Huambo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/uíge",
+      "name": "Uíge",
+      "type": "constituency"
+    },
+    {
+      "id": "area/zaire",
+      "name": "Zaire",
       "type": "constituency"
     }
   ]

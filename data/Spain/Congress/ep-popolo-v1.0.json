@@ -9855,53 +9855,8 @@
   ],
   "areas": [
     {
-      "id": "area/Ávila",
-      "name": "Ávila",
-      "type": "constituency"
-    },
-    {
-      "id": "area/castellón",
-      "name": "Castellón",
-      "type": "constituency"
-    },
-    {
-      "id": "area/almería",
-      "name": "Almería",
-      "type": "constituency"
-    },
-    {
-      "id": "area/zaragoza",
-      "name": "Zaragoza",
-      "type": "constituency"
-    },
-    {
-      "id": "area/soria",
-      "name": "Soria",
-      "type": "constituency"
-    },
-    {
-      "id": "area/murcia",
-      "name": "Murcia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/córdoba",
-      "name": "Córdoba",
-      "type": "constituency"
-    },
-    {
-      "id": "area/málaga",
-      "name": "Málaga",
-      "type": "constituency"
-    },
-    {
-      "id": "area/madrid",
-      "name": "Madrid",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cantabria",
-      "name": "Cantabria",
+      "id": "area/a_coruña",
+      "name": "A Coruña",
       "type": "constituency"
     },
     {
@@ -9910,8 +9865,68 @@
       "type": "constituency"
     },
     {
+      "id": "area/alicante",
+      "name": "Alicante",
+      "type": "constituency"
+    },
+    {
+      "id": "area/almería",
+      "name": "Almería",
+      "type": "constituency"
+    },
+    {
+      "id": "area/araba",
+      "name": "Araba",
+      "type": "constituency"
+    },
+    {
+      "id": "area/asturias",
+      "name": "Asturias",
+      "type": "constituency"
+    },
+    {
       "id": "area/badajoz",
       "name": "Badajoz",
+      "type": "constituency"
+    },
+    {
+      "id": "area/barcelona",
+      "name": "Barcelona",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bizkaia",
+      "name": "Bizkaia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/burgos",
+      "name": "Burgos",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cantabria",
+      "name": "Cantabria",
+      "type": "constituency"
+    },
+    {
+      "id": "area/castellón",
+      "name": "Castellón",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ceuta",
+      "name": "Ceuta",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ciudad_real",
+      "name": "Ciudad Real",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cuenca",
+      "name": "Cuenca",
       "type": "constituency"
     },
     {
@@ -9925,23 +9940,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/sevilla",
-      "name": "Sevilla",
+      "id": "area/córdoba",
+      "name": "Córdoba",
       "type": "constituency"
     },
     {
-      "id": "area/cuenca",
-      "name": "Cuenca",
+      "id": "area/gipuzkoa",
+      "name": "Gipuzkoa",
       "type": "constituency"
     },
     {
-      "id": "area/jaén",
-      "name": "Jaén",
+      "id": "area/girona",
+      "name": "Girona",
       "type": "constituency"
     },
     {
-      "id": "area/toledo",
-      "name": "Toledo",
+      "id": "area/granada",
+      "name": "Granada",
       "type": "constituency"
     },
     {
@@ -9950,18 +9965,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/burgos",
-      "name": "Burgos",
-      "type": "constituency"
-    },
-    {
       "id": "area/huelva",
       "name": "Huelva",
       "type": "constituency"
     },
     {
-      "id": "area/santa_cruz_de_tenerife",
-      "name": "Santa Cruz de Tenerife",
+      "id": "area/huesca",
+      "name": "Huesca",
+      "type": "constituency"
+    },
+    {
+      "id": "area/illes_balears",
+      "name": "Illes Balears",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jaén",
+      "name": "Jaén",
+      "type": "constituency"
+    },
+    {
+      "id": "area/la_rioja",
+      "name": "La Rioja",
       "type": "constituency"
     },
     {
@@ -9970,13 +9995,53 @@
       "type": "constituency"
     },
     {
-      "id": "area/palencia",
-      "name": "Palencia",
+      "id": "area/león",
+      "name": "León",
       "type": "constituency"
     },
     {
-      "id": "area/león",
-      "name": "León",
+      "id": "area/lleida",
+      "name": "LLeida",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lugo",
+      "name": "Lugo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madrid",
+      "name": "Madrid",
+      "type": "constituency"
+    },
+    {
+      "id": "area/melilla",
+      "name": "Melilla",
+      "type": "constituency"
+    },
+    {
+      "id": "area/murcia",
+      "name": "Murcia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/málaga",
+      "name": "Málaga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/navarra",
+      "name": "Navarra",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ourense",
+      "name": "Ourense",
+      "type": "constituency"
+    },
+    {
+      "id": "area/palencia",
+      "name": "Palencia",
       "type": "constituency"
     },
     {
@@ -9985,8 +10050,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/illes_balears",
-      "name": "Illes Balears",
+      "id": "area/salamanca",
+      "name": "Salamanca",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santa_cruz_de_tenerife",
+      "name": "Santa Cruz de Tenerife",
+      "type": "constituency"
+    },
+    {
+      "id": "area/segovia",
+      "name": "Segovia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sevilla",
+      "name": "Sevilla",
+      "type": "constituency"
+    },
+    {
+      "id": "area/soria",
+      "name": "Soria",
       "type": "constituency"
     },
     {
@@ -10000,93 +10085,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/bizkaia",
-      "name": "Bizkaia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/segovia",
-      "name": "Segovia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/araba",
-      "name": "Araba",
-      "type": "constituency"
-    },
-    {
-      "id": "area/a_coruña",
-      "name": "A Coruña",
-      "type": "constituency"
-    },
-    {
-      "id": "area/girona",
-      "name": "Girona",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lugo",
-      "name": "Lugo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/valladolid",
-      "name": "Valladolid",
-      "type": "constituency"
-    },
-    {
-      "id": "area/barcelona",
-      "name": "Barcelona",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lleida",
-      "name": "LLeida",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ceuta",
-      "name": "Ceuta",
-      "type": "constituency"
-    },
-    {
-      "id": "area/huesca",
-      "name": "Huesca",
-      "type": "constituency"
-    },
-    {
-      "id": "area/navarra",
-      "name": "Navarra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/granada",
-      "name": "Granada",
-      "type": "constituency"
-    },
-    {
-      "id": "area/melilla",
-      "name": "Melilla",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ourense",
-      "name": "Ourense",
-      "type": "constituency"
-    },
-    {
-      "id": "area/alicante",
-      "name": "Alicante",
-      "type": "constituency"
-    },
-    {
-      "id": "area/asturias",
-      "name": "Asturias",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gipuzkoa",
-      "name": "Gipuzkoa",
+      "id": "area/toledo",
+      "name": "Toledo",
       "type": "constituency"
     },
     {
@@ -10095,8 +10095,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/ciudad_real",
-      "name": "Ciudad Real",
+      "id": "area/valladolid",
+      "name": "Valladolid",
       "type": "constituency"
     },
     {
@@ -10105,13 +10105,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/salamanca",
-      "name": "Salamanca",
+      "id": "area/zaragoza",
+      "name": "Zaragoza",
       "type": "constituency"
     },
     {
-      "id": "area/la_rioja",
-      "name": "La Rioja",
+      "id": "area/Ávila",
+      "name": "Ávila",
       "type": "constituency"
     }
   ]
