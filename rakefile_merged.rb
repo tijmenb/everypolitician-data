@@ -103,10 +103,10 @@ class CSVPatch
       confidence = match[1].to_f * 100
 
       if confidence < opts[:amatch_threshold].to_f
-        warn "Too low match for: %s (Best = %s @ %d%%)".cyan % [ new_row[incoming_field], match.first[existing_field], confidence ]
+        warn "Too low match for: %s (Best = %s @ %.2f%%)".cyan % [ new_row[incoming_field], match.first[existing_field], confidence ]
         to_patch = []
       else
-        warn "Matched %s to %s @ %d%%".yellow % [new_row[incoming_field], match.first[existing_field], confidence ] if
+        warn "Matched %s to %s @ %.2f%%".yellow % [new_row[incoming_field], match.first[existing_field], confidence ] if
           confidence < opts[:amatch_warning].to_f
         to_patch = @_csv.find_all { |r| r[existing_field] == match.first[existing_field] }
       end
