@@ -99,6 +99,7 @@
       ]
     },
     {
+      "birth_date": "1950-04-09",
       "gender": "male",
       "given_name": "Adam",
       "id": "person/adam-glapiński",
@@ -688,6 +689,7 @@
       ]
     },
     {
+      "birth_date": "1941-02-14",
       "gender": "male",
       "given_name": "Aleksander",
       "id": "person/aleksander-bentkowski",
@@ -846,12 +848,12 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "19583.0",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "jn20030314001",
           "scheme": "nkc"
+        },
+        {
+          "identifier": "00000019583",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Aleksander_kwasniewski_konferencja.jpg",
@@ -909,6 +911,12 @@
       "gender": "male",
       "given_name": "Aleksander",
       "id": "person/aleksander-sosna",
+      "identifiers": [
+        {
+          "identifier": "303618783",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Aleksander Sosna",
       "sources": [
         {
@@ -1979,16 +1987,16 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "23927.0",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "js2013770799",
           "scheme": "nkc"
         },
         {
           "identifier": "n96610218",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "00000023927",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ALepper_na_stacji_benzynowej.jpg",
@@ -2090,7 +2098,7 @@
           "scheme": "sudoc"
         },
         {
-          "identifier": "69109168.0",
+          "identifier": "069109168",
           "scheme": "nta"
         },
         {
@@ -2634,6 +2642,7 @@
       ]
     },
     {
+      "birth_date": "1956-10-01",
       "death_date": "2015-01-01",
       "gender": "male",
       "given_name": "Andrzej",
@@ -2735,8 +2744,6 @@
       ]
     },
     {
-      "gender": "male",
-      "given_name": "Andrzej",
       "id": "person/andrzej-wiśniewski-(samorządowiec)",
       "name": "Andrzej Wiśniewski",
       "sources": [
@@ -2798,7 +2805,7 @@
           "scheme": "isni"
         },
         {
-          "identifier": "56829809.0",
+          "identifier": "056829809",
           "scheme": "sudoc"
         },
         {
@@ -2941,6 +2948,12 @@
       "gender": "female",
       "given_name": "Anna",
       "id": "person/anna-bańkowska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anna_Bańkowska_Sejm_2014.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anna_Bańkowska_Sejm_2014.JPG"
+        }
+      ],
       "name": "Anna Bańkowska",
       "sources": [
         {
@@ -3053,6 +3066,12 @@
       "gender": "female",
       "given_name": "Anna",
       "id": "person/anna-górna-kubacka",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Anna_Gorna_Kubacka.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Anna_Gorna_Kubacka.JPG"
+        }
+      ],
       "name": "Anna Górna-Kubacka",
       "sources": [
         {
@@ -3105,6 +3124,12 @@
       "gender": "female",
       "given_name": "Anna",
       "id": "person/anna-paluch",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Anna_Paluch_Sejm_2015.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Anna_Paluch_Sejm_2015.JPG"
+        }
+      ],
       "name": "Anna Paluch",
       "sources": [
         {
@@ -3577,7 +3602,7 @@
           "scheme": "bnf"
         },
         {
-          "identifier": "33890072.0",
+          "identifier": "033890072",
           "scheme": "sudoc"
         },
         {
@@ -4018,7 +4043,7 @@
           "scheme": "isni"
         },
         {
-          "identifier": "83373489.0",
+          "identifier": "083373489",
           "scheme": "sudoc"
         },
         {
@@ -5179,23 +5204,19 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "28234162.0",
+          "identifier": "028234162",
           "scheme": "sudoc"
         },
         {
-          "identifier": "75095386.0",
+          "identifier": "075095386",
           "scheme": "nta"
-        },
-        {
-          "identifier": "19173.0",
-          "scheme": "muzinger"
         },
         {
           "identifier": "101603",
           "scheme": "gtaa"
         },
         {
-          "identifier": "467068.0",
+          "identifier": "00467068",
           "scheme": "ndl"
         },
         {
@@ -5215,7 +5236,7 @@
           "scheme": "ptbnp"
         },
         {
-          "identifier": "21703",
+          "identifier": "000052307",
           "scheme": "nli"
         },
         {
@@ -5225,6 +5246,10 @@
         {
           "identifier": "ADV10238635",
           "scheme": "bav"
+        },
+        {
+          "identifier": "00000019173",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2004.05.01._Bronislaw_Geremek_01.jpg",
@@ -5278,16 +5303,16 @@
           "scheme": "sudoc"
         },
         {
-          "identifier": "28259.0",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "xx0121798",
           "scheme": "nkc"
         },
         {
           "identifier": "n97011200",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "00000028259",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/KPRP_20130131_WG_222_BRONISLAW_KOMOROWSKI.jpg",
@@ -5373,6 +5398,10 @@
       "given_name": "Cezary",
       "id": "person/cezary-grabarczyk",
       "identifiers": [
+        {
+          "identifier": "307175067",
+          "scheme": "viaf"
+        },
         {
           "identifier": "/m/0f6rjq",
           "scheme": "freebase"
@@ -6322,16 +6351,16 @@
           "scheme": "sudoc"
         },
         {
-          "identifier": "25937.0",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "js20051010056",
           "scheme": "nkc"
         },
         {
           "identifier": "n95003057",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "00000025937",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Premier_RP_D_Tusk.jpg",
@@ -6723,6 +6752,12 @@
       "gender": "female",
       "given_name": "Elżbieta",
       "id": "person/elżbieta-gelert",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Elżbieta_Gelert_Kancelaria_Senatu_2005.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Elżbieta_Gelert_Kancelaria_Senatu_2005.jpg"
+        }
+      ],
       "name": "Elżbieta Gelert",
       "sources": [
         {
@@ -6858,6 +6893,12 @@
           "scheme": "freebase"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Elżbieta_Radziszewska2013.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Elżbieta_Radziszewska2013.jpg"
+        }
+      ],
       "name": "Elżbieta Radziszewska",
       "sources": [
         {
@@ -6960,6 +7001,12 @@
           "scheme": "freebase"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Elżbieta_Witek_Sejm_2015_02.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Elżbieta_Witek_Sejm_2015_02.JPG"
+        }
+      ],
       "name": "Elżbieta Witek",
       "sources": [
         {
@@ -6971,6 +7018,12 @@
       "gender": "female",
       "given_name": "Elżbieta",
       "id": "person/elżbieta-więcławska-sauk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Elżbieta_Więcławska-Sauk_Kancelaria_Senatu_2005.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Elżbieta_Więcławska-Sauk_Kancelaria_Senatu_2005.jpg"
+        }
+      ],
       "name": "Elżbieta Więcławska-Sauk",
       "sources": [
         {
@@ -7412,6 +7465,12 @@
           "scheme": "europarlmep"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ewa_Tomaszewska_Kancelaria_Senatu_2005.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ewa_Tomaszewska_Kancelaria_Senatu_2005.jpg"
+        }
+      ],
       "name": "Ewa Tomaszewska",
       "sources": [
         {
@@ -7721,6 +7780,12 @@
           "scheme": "europarlmep"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Grazyna_Ciemniak_Bydgoszcz_2010.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Grazyna_Ciemniak_Bydgoszcz_2010.jpg"
+        }
+      ],
       "name": "Grażyna Ciemniak",
       "sources": [
         {
@@ -7748,7 +7813,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "69605734.0",
+          "identifier": "069605734",
           "scheme": "nta"
         }
       ],
@@ -8459,12 +8524,12 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "8746",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "n93120968",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "00000021052",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hanna_Gronkiewicz-Waltz_2012.jpg",
@@ -8535,12 +8600,8 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "6544004",
+          "identifier": "030755204",
           "scheme": "sudoc"
-        },
-        {
-          "identifier": "8414",
-          "scheme": "muzinger"
         },
         {
           "identifier": "kup19960000096550",
@@ -8553,6 +8614,10 @@
         {
           "identifier": "A11935339",
           "scheme": "nlp"
+        },
+        {
+          "identifier": "00000020336",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hanna_Suchocka,_Prime_Minister_of_Poland_1992-1993.jpg",
@@ -8581,6 +8646,12 @@
         {
           "identifier": "/m/0hhtcv2",
           "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prezydent_Łodzi_H.Zdanowska.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prezydent_Łodzi_H.Zdanowska.jpg"
         }
       ],
       "name": "Hanna Zdanowska",
@@ -9222,6 +9293,12 @@
       "gender": "female",
       "given_name": "Iwona",
       "id": "person/iwona-guzowska",
+      "identifiers": [
+        {
+          "identifier": "315536047",
+          "scheme": "viaf"
+        }
+      ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Iwona_Guzowska.jpg",
       "images": [
         {
@@ -9263,6 +9340,12 @@
       "gender": "female",
       "given_name": "Iwona",
       "id": "person/iwona-Śledzińska-katarasińska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Iwona_Śledzińska-Katarasińska_2015_09.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Iwona_Śledzińska-Katarasińska_2015_09.JPG"
+        }
+      ],
       "name": "Iwona Śledzińska-Katarasińska",
       "sources": [
         {
@@ -9591,7 +9674,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "30892244.0",
+          "identifier": "030892244",
           "scheme": "sudoc"
         },
         {
@@ -9599,7 +9682,7 @@
           "scheme": "nta"
         },
         {
-          "identifier": "446538.0",
+          "identifier": "00446538",
           "scheme": "ndl"
         }
       ],
@@ -10842,8 +10925,8 @@
           "scheme": "sudoc"
         },
         {
-          "identifier": "8270",
-          "scheme": "muzinger"
+          "identifier": "00000020116",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jan_Olszewski_3.jpg",
@@ -11019,7 +11102,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "85757705.0",
+          "identifier": "085757705",
           "scheme": "sudoc"
         },
         {
@@ -11367,6 +11450,12 @@
         {
           "identifier": "165704801",
           "scheme": "viaf"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jan_Wyrowiński_Kancelaria_Senatu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jan_Wyrowiński_Kancelaria_Senatu.jpg"
         }
       ],
       "name": "Jan Wyrowiński",
@@ -12316,7 +12405,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "70493766.0",
+          "identifier": "070493766",
           "scheme": "sudoc"
         },
         {
@@ -12500,6 +12589,12 @@
       "gender": "male",
       "given_name": "Jarosław",
       "id": "person/jarosław-matwiejuk",
+      "identifiers": [
+        {
+          "identifier": "11883419",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Jarosław Matwiejuk",
       "sources": [
         {
@@ -12847,10 +12942,6 @@
           "scheme": "nta"
         },
         {
-          "identifier": "9436",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "87942",
           "scheme": "gtaa"
         },
@@ -12865,6 +12956,10 @@
         {
           "identifier": "1471411",
           "scheme": "ptbnp"
+        },
+        {
+          "identifier": "00000022334",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jerzy_Buzek,_2010.JPG",
@@ -12909,8 +13004,6 @@
       ]
     },
     {
-      "gender": "male",
-      "given_name": "Jerzy",
       "id": "person/jerzy-czerwiński",
       "name": "Jerzy Czerwiński",
       "sources": [
@@ -13615,7 +13708,7 @@
           "scheme": "bnf"
         },
         {
-          "identifier": "67843697.0",
+          "identifier": "067843697",
           "scheme": "nta"
         }
       ],
@@ -13886,6 +13979,12 @@
           "scheme": "freebase"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Joanna_Kluzik-Rostkowska_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Joanna_Kluzik-Rostkowska_(cropped).jpg"
+        }
+      ],
       "name": "Joanna Kluzik-Rostkowska",
       "sources": [
         {
@@ -14096,6 +14195,12 @@
       "gender": "female",
       "given_name": "Jolanta",
       "id": "person/jolanta-szczypińska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jolanta_Szczypinska_(2008).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jolanta_Szczypinska_(2008).jpg"
+        }
+      ],
       "name": "Jolanta Szczypińska",
       "sources": [
         {
@@ -14835,7 +14940,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "70285101.0",
+          "identifier": "070285101",
           "scheme": "nta"
         },
         {
@@ -14932,6 +15037,10 @@
       "given_name": "Karol",
       "id": "person/karol-karski-(polityk)",
       "identifiers": [
+        {
+          "identifier": "66218430",
+          "scheme": "viaf"
+        },
         {
           "identifier": "/m/0f6t53",
           "scheme": "freebase"
@@ -15395,8 +15504,8 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "11079",
-          "scheme": "muzinger"
+          "identifier": "00000025507",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kazimierz_Marcinkiewicz_2006.jpg",
@@ -15727,6 +15836,12 @@
       "gender": "male",
       "given_name": "Kazimierz",
       "id": "person/kazimierz-Świtoń",
+      "identifiers": [
+        {
+          "identifier": "163400093",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Kazimierz Świtoń",
       "sources": [
         {
@@ -15993,6 +16108,12 @@
         {
           "identifier": "/m/0f6xpz",
           "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Krystyna_Skowrońska_Sejm_2014_015.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Krystyna_Skowrońska_Sejm_2014_015.jpg"
         }
       ],
       "name": "Krystyna Skowrońska",
@@ -16971,7 +17092,7 @@
           "scheme": "bnf"
         },
         {
-          "identifier": "98520229.0",
+          "identifier": "098520229",
           "scheme": "sudoc"
         },
         {
@@ -17097,6 +17218,12 @@
           "scheme": "gnd"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lena_Dabkowska-Cichocka.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lena_Dabkowska-Cichocka.jpg"
+        }
+      ],
       "name": "Lena Dąbkowska-Cichocka",
       "sources": [
         {
@@ -17138,6 +17265,12 @@
       "gender": "male",
       "given_name": "Leszek",
       "id": "person/leszek-aleksandrzak",
+      "identifiers": [
+        {
+          "identifier": "315535780",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Leszek Aleksandrzak",
       "sources": [
         {
@@ -17180,11 +17313,7 @@
           "scheme": "nta"
         },
         {
-          "identifier": "19243.0",
-          "scheme": "muzinger"
-        },
-        {
-          "identifier": "816672.0",
+          "identifier": "00816672",
           "scheme": "ndl"
         },
         {
@@ -17198,6 +17327,10 @@
         {
           "identifier": "A11563400",
           "scheme": "nlp"
+        },
+        {
+          "identifier": "00000019243",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Balcerowicz.wywiad.do.radia.jpg",
@@ -17439,12 +17572,12 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "9482",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "n01053379",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "00000022412",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Leszek_Miller_2002.jpg",
@@ -17653,6 +17786,12 @@
       "birth_date": "1948-01-05",
       "gender": "male",
       "id": "person/longin-komołowski",
+      "identifiers": [
+        {
+          "identifier": "311806278",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Longin Komołowski",
       "sources": [
         {
@@ -17691,7 +17830,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "95320776.0",
+          "identifier": "095320776",
           "scheme": "sudoc"
         },
         {
@@ -17772,6 +17911,12 @@
       "gender": "female",
       "given_name": "Lucyna",
       "id": "person/lucyna-wiśniewska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lucyna_Wisniewska.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lucyna_Wisniewska.jpg"
+        }
+      ],
       "name": "Lucyna Wiśniewska",
       "sources": [
         {
@@ -17881,7 +18026,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "91111358.0",
+          "identifier": "091111358",
           "scheme": "nta"
         }
       ],
@@ -18042,6 +18187,12 @@
       "gender": "male",
       "given_name": "Maciej",
       "id": "person/maciej-wydrzyński",
+      "identifiers": [
+        {
+          "identifier": "308292976",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Maciej Wydrzyński",
       "sources": [
         {
@@ -18054,6 +18205,12 @@
       "gender": "male",
       "given_name": "Maciej",
       "id": "person/maciej-zalewski",
+      "identifiers": [
+        {
+          "identifier": "42258671",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Maciej Zalewski",
       "sources": [
         {
@@ -18150,6 +18307,12 @@
         {
           "identifier": "/m/0f6tdp",
           "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Magdalena_Kochan_Sejm_2015.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Magdalena_Kochan_Sejm_2015.JPG"
         }
       ],
       "name": "Magdalena Kochan",
@@ -18320,6 +18483,12 @@
       "gender": "male",
       "given_name": "Marcin",
       "id": "person/marcin-Święcicki",
+      "identifiers": [
+        {
+          "identifier": "267937190",
+          "scheme": "viaf"
+        }
+      ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Marcin_Swiecicki.jpg",
       "images": [
         {
@@ -18481,6 +18650,12 @@
       "gender": "male",
       "given_name": "Marek",
       "id": "person/marek-dziubek",
+      "identifiers": [
+        {
+          "identifier": "303425314",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Marek Dziubek",
       "sources": [
         {
@@ -18818,6 +18993,12 @@
       "gender": "male",
       "given_name": "Marek",
       "id": "person/marek-michalik",
+      "identifiers": [
+        {
+          "identifier": "311364104",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Marek Michalik",
       "sources": [
         {
@@ -18854,6 +19035,12 @@
       "gender": "male",
       "given_name": "Marek",
       "id": "person/marek-nawara",
+      "identifiers": [
+        {
+          "identifier": "163647246",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Marek Nawara",
       "sources": [
         {
@@ -18981,6 +19168,12 @@
       "gender": "male",
       "given_name": "Marek",
       "id": "person/marek-poznański",
+      "identifiers": [
+        {
+          "identifier": "308290180",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Marek Poznański",
       "sources": [
         {
@@ -19209,6 +19402,12 @@
       "gender": "male",
       "given_name": "Marek",
       "id": "person/marek-wielgus",
+      "identifiers": [
+        {
+          "identifier": "162114810",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Marek Wielgus",
       "sources": [
         {
@@ -19681,7 +19880,7 @@
           "scheme": "bnf"
         },
         {
-          "identifier": "30410029.0",
+          "identifier": "030410029",
           "scheme": "sudoc"
         },
         {
@@ -19788,6 +19987,12 @@
       "gender": "male",
       "given_name": "Marian",
       "id": "person/marian-kozłowski-(zootechnik)",
+      "identifiers": [
+        {
+          "identifier": "166179934",
+          "scheme": "viaf"
+        }
+      ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Marian_Kozłowski.jpg",
       "images": [
         {
@@ -19824,8 +20029,8 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "22298.0",
-          "scheme": "muzinger"
+          "identifier": "00000022298",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Marian_Krzaklewski_2007.jpg",
@@ -20188,6 +20393,12 @@
       "gender": "male",
       "given_name": "Mariusz",
       "id": "person/mariusz-Łapiński",
+      "identifiers": [
+        {
+          "identifier": "6816714",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Mariusz Łapiński",
       "sources": [
         {
@@ -20366,6 +20577,12 @@
       "gender": "female",
       "given_name": "Małgorzata",
       "id": "person/małgorzata-chomycz-Śmigielska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/07630_Małgorzata_Chomycz_(PO)_wojewoda_podkarpacki,_2011.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/07630_Małgorzata_Chomycz_(PO)_wojewoda_podkarpacki,_2011.jpg"
+        }
+      ],
       "name": "Małgorzata Chomycz",
       "sources": [
         {
@@ -20503,6 +20720,12 @@
       "gender": "female",
       "given_name": "Małgorzata",
       "id": "person/małgorzata-sadurska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Małgorzata_Sadurska_2008.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Małgorzata_Sadurska_2008.jpg"
+        }
+      ],
       "name": "Małgorzata Sadurska",
       "sources": [
         {
@@ -20514,6 +20737,12 @@
       "gender": "female",
       "given_name": "Małgorzata",
       "id": "person/małgorzata-sekuła-szmajdzińska",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Małgorzata_Sekuła-Szmajdzińska_Sejm_2014.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Małgorzata_Sekuła-Szmajdzińska_Sejm_2014.JPG"
+        }
+      ],
       "name": "Małgorzata Sekuła-Szmajdzińska",
       "sources": [
         {
@@ -20661,6 +20890,12 @@
       "gender": "male",
       "given_name": "Michał",
       "id": "person/michał-jaros",
+      "identifiers": [
+        {
+          "identifier": "315535760",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Michał Jaros",
       "sources": [
         {
@@ -20777,6 +21012,12 @@
       "gender": "male",
       "given_name": "Michał",
       "id": "person/michał-strąk",
+      "identifiers": [
+        {
+          "identifier": "1586711",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Michał Strąk",
       "sources": [
         {
@@ -21008,6 +21249,12 @@
       "gender": "male",
       "given_name": "Mieczysław",
       "id": "person/mieczysław-krajewski",
+      "identifiers": [
+        {
+          "identifier": "311386646",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Mieczysław Krajewski",
       "sources": [
         {
@@ -21117,7 +21364,7 @@
           "scheme": "sudoc"
         },
         {
-          "identifier": "67974414.0",
+          "identifier": "067974414",
           "scheme": "nta"
         },
         {
@@ -21327,6 +21574,12 @@
       "death_date": "2004-01-01",
       "gender": "male",
       "id": "person/mirosław-podsiadło",
+      "identifiers": [
+        {
+          "identifier": "164823879",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Mirosław Podsiadło",
       "sources": [
         {
@@ -21339,6 +21592,12 @@
       "gender": "male",
       "given_name": "Mirosław",
       "id": "person/mirosław-sekuła",
+      "identifiers": [
+        {
+          "identifier": "306425720",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Mirosław Sekuła",
       "sources": [
         {
@@ -21360,6 +21619,12 @@
       "birth_date": "1953-04-24",
       "gender": "male",
       "id": "person/mirosław-styczeń",
+      "identifiers": [
+        {
+          "identifier": "250453237",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Mirosław Styczeń",
       "sources": [
         {
@@ -21534,6 +21799,12 @@
       "gender": "male",
       "given_name": "Paweł",
       "id": "person/paweł-abramski",
+      "identifiers": [
+        {
+          "identifier": "166113989",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Paweł Abramski",
       "sources": [
         {
@@ -21978,7 +22249,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "69080011.0",
+          "identifier": "069080011",
           "scheme": "sudoc"
         },
         {
@@ -22067,6 +22338,12 @@
       "gender": "male",
       "given_name": "Piotr",
       "id": "person/piotr-buczkowski",
+      "identifiers": [
+        {
+          "identifier": "33143649",
+          "scheme": "viaf"
+        }
+      ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Piotr_Buczkowski.jpg",
       "images": [
         {
@@ -22730,6 +23007,12 @@
       "gender": "male",
       "given_name": "Przemysław",
       "id": "person/przemysław-wipler",
+      "identifiers": [
+        {
+          "identifier": "306406128",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Przemysław Wipler",
       "sources": [
         {
@@ -22802,11 +23085,11 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "35360208.0",
+          "identifier": "035360208",
           "scheme": "sudoc"
         },
         {
-          "identifier": "74645781.0",
+          "identifier": "074645781",
           "scheme": "nta"
         },
         {
@@ -22939,6 +23222,12 @@
       "gender": "male",
       "given_name": "Rajmund",
       "id": "person/rajmund-moric",
+      "identifiers": [
+        {
+          "identifier": "306324780",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Rajmund Moric",
       "sources": [
         {
@@ -23245,7 +23534,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "87581949.0",
+          "identifier": "087581949",
           "scheme": "sudoc"
         },
         {
@@ -23494,8 +23783,8 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "25836.0",
-          "scheme": "muzinger"
+          "identifier": "00000025836",
+          "scheme": "munzinger"
         }
       ],
       "name": "Roman Giertych",
@@ -23730,6 +24019,12 @@
       "gender": "male",
       "given_name": "Ryszard",
       "id": "person/ryszard-bugaj",
+      "identifiers": [
+        {
+          "identifier": "165168778",
+          "scheme": "viaf"
+        }
+      ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ryszard_Bugaj2.jpg",
       "images": [
         {
@@ -24110,7 +24405,7 @@
           "scheme": "bnf"
         },
         {
-          "identifier": "87189097.0",
+          "identifier": "087189097",
           "scheme": "sudoc"
         },
         {
@@ -24893,6 +25188,12 @@
       "gender": "male",
       "given_name": "Stanisław",
       "id": "person/stanisław-pięta",
+      "identifiers": [
+        {
+          "identifier": "307175026",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Stanisław Pięta",
       "sources": [
         {
@@ -25281,6 +25582,12 @@
       "gender": "female",
       "given_name": "Stanisława",
       "id": "person/stanisława-okularczyk",
+      "identifiers": [
+        {
+          "identifier": "162422457",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Stanisława Okularczyk",
       "sources": [
         {
@@ -25642,6 +25949,10 @@
       "id": "person/sławomir-nitras",
       "identifiers": [
         {
+          "identifier": "307175062",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "/m/0f6w4l",
           "scheme": "freebase"
         },
@@ -25663,6 +25974,10 @@
       "given_name": "Sławomir",
       "id": "person/sławomir-nowak",
       "identifiers": [
+        {
+          "identifier": "310666292",
+          "scheme": "viaf"
+        },
         {
           "identifier": "/m/0f6w5m",
           "scheme": "freebase"
@@ -25844,6 +26159,12 @@
       "gender": "male",
       "given_name": "Tadeusz",
       "id": "person/tadeusz-arkit",
+      "identifiers": [
+        {
+          "identifier": "311808349",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Tadeusz Arkit",
       "sources": [
         {
@@ -26335,16 +26656,12 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "30642884.0",
+          "identifier": "030642884",
           "scheme": "sudoc"
         },
         {
           "identifier": "07527437X",
           "scheme": "nta"
-        },
-        {
-          "identifier": "19198.0",
-          "scheme": "muzinger"
         },
         {
           "identifier": "n95005174",
@@ -26353,6 +26670,10 @@
         {
           "identifier": "A10981159",
           "scheme": "nlp"
+        },
+        {
+          "identifier": "00000019198",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tadeusz_Mazowiecki_80th_birthday.jpg",
@@ -27605,8 +27926,8 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "20855.0",
-          "scheme": "muzinger"
+          "identifier": "00000020855",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Waldemar_Pawlak_candidate_2010_B.jpg",
@@ -27840,7 +28161,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "73168637.0",
+          "identifier": "073168637",
           "scheme": "nta"
         },
         {
@@ -28673,6 +28994,12 @@
       "gender": "male",
       "given_name": "Wojciech",
       "id": "person/wojciech-penkalski",
+      "identifiers": [
+        {
+          "identifier": "308778902",
+          "scheme": "viaf"
+        }
+      ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Posel-penkalski-wojciech-2013-11m.jpg",
       "images": [
         {
@@ -29503,7 +29830,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "74160079.0",
+          "identifier": "074160079",
           "scheme": "nta"
         },
         {
