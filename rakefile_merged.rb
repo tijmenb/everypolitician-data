@@ -100,7 +100,7 @@ class CSVPatch
       # TODO: don't rebuild this this every time around
       fuzzer = FuzzyMatch.new(@_csv, read: existing_field)
       match = fuzzer.find_with_score(new_row[incoming_field])
-      confidence = match.last.to_f * 100
+      confidence = match[1].to_f * 100
 
       if confidence < opts[:amatch_threshold].to_f
         warn "Too low match for: %s (Best = %s @ %d%%)".cyan % [ new_row[incoming_field], match.first[existing_field], confidence ]
