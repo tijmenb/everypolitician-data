@@ -173,7 +173,7 @@ def combine_sources
         end
 
         if src[:merge][:clobber]
-          row.headers.each do |h|
+          row.keys.each do |h|
             found[h] = row[h] unless row[h].to_s.empty? || row[h].to_s.downcase == 'unknown'
           end
         else
