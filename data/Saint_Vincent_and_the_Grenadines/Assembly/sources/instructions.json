@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/st-vincent-and-grenadines-elections",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.caribbeanelections.com/vc/default.asp",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/st-vincent-and-grenadines-elections",
+        "query": "SELECT * FROM terms"
+      },
+      "type": "term"
+    }
+  ]
+}
