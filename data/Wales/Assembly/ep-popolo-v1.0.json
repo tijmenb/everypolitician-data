@@ -191,6 +191,12 @@
       "email": "Bethan.Jenkins@assembly.wales",
       "gender": "female",
       "id": "person/159",
+      "identifiers": [
+        {
+          "identifier": "128264727",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.senedd.assemblywales.org/UserData/9/5/1/Info00000159/bigpic.jpg",
       "images": [
         {
@@ -1113,6 +1119,12 @@
       "gender": "male",
       "given_name": "Mark",
       "id": "person/253",
+      "identifiers": [
+        {
+          "identifier": "71727654",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.senedd.assemblywales.org/UserData/3/5/2/Info00000253/bigpic.jpg",
       "images": [
         {
@@ -1301,7 +1313,7 @@
           "scheme": "viaf"
         },
         {
-          "identifier": "35358904.0",
+          "identifier": "035358904",
           "scheme": "sudoc"
         },
         {

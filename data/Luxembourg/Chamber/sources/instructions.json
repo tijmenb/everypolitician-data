@@ -20,9 +20,10 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "field": "name",
-        "overrides": {
-        }
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 58.3,
+        "amatch_warning": 100
       }
     },
     {

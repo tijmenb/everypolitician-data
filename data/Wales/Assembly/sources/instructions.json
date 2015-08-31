@@ -20,7 +20,10 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "field": "name"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 70,
+        "amatch_warning": 100
       }
     },
     {

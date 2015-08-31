@@ -13,22 +13,24 @@
       },
       "type": "person",
       "merge": { 
-        "match_on": "id",
-        "field": "identifier__datadotparl"
+        "incoming_field": "id",
+        "existing_field": "identifier__datadotparl"
       }
     },
     {
       "file": "YNMP/winners.csv",
       "type": "person",
       "merge": { 
-        "field": "id"
+        "incoming_field": "id",
+        "existing_field": "id"
       }
     },
     {
       "file": "manual/emails.csv",
       "type": "person",
       "merge": { 
-        "field": "id"
+        "incoming_field": "id",
+        "existing_field": "id"
       }
     }
   ]

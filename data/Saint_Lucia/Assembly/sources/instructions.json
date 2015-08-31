@@ -20,10 +20,10 @@
       "source": "http://www.govt.lc/house-of-assembly",
       "type": "person",
       "merge": { 
-        "field": "name",
-        "overrides": {
-          "Ezechiel Joseph": ""
-        }
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 100
       }
     },
     {
@@ -36,8 +36,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "field": "wikipedia__en",
-        "match_on": "wikipedia__en"
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikipedia__en"
       }
     }
 

@@ -15,9 +15,12 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "field": "name",
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 50,
+        "amatch_warning": 100,
         "overrides": {
-          "Ian Paisley Jnr": "Q575881"
+          "Ian Paisley, Jr.": "13852"
         }
       }
     },

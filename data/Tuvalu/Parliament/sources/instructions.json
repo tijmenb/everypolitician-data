@@ -19,7 +19,8 @@
       },
       "type": "wikidata",
       "merge": { 
-        "field": "name"
+        "incoming_field": "name",
+        "existing_field": "name"
       }
     },
     {

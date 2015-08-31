@@ -20,9 +20,10 @@
       "source": "https://en.wikipedia.org/w/index.php?title=Niuean_general_election,_2014",
       "type": "person",
       "merge": { 
-        "field": "name",
-        "approximate": true,
-        "clobber": false
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 50,
+        "amatch_warning": 100
       }
     }
   ]
