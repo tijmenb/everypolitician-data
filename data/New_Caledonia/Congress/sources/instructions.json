@@ -20,13 +20,10 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "field": "name",
-        "overrides": {
-          "Philippe Blaise": "",
-          "Isabelle Kaloi-Bearune": "",
-          "Louis Mapou": "",
-          "Dominique Mole": ""
-        }
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 75,
+        "amatch_warning": 100
       }
     },
     {
