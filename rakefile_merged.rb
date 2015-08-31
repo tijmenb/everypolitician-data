@@ -95,7 +95,28 @@ class CSVPatch
     existing_field = opts[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     incoming_field = opts[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
 
-    to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
+    # Approximate match?
+    if opts[:amatch_threshold]
+      # TODO: don't rebuild this this every time around
+      fuzzer = FuzzyMatch.new(@_csv, read: existing_field)
+      match = fuzzer.find_with_score(new_row[incoming_field])
+      confidence = match.last.to_f * 100
+
+      if confidence < opts[:amatch_threshold].to_f
+        warn "Too low match for: %s (Best = %s @ %d%%)".cyan % [ new_row[incoming_field], match.first[existing_field], confidence ]
+        to_patch = []
+      else
+        warn "Matched %s to %s @ %d%%".yellow % [new_row[incoming_field], match.first[existing_field], confidence ] if
+          confidence < opts[:amatch_warning].to_f
+        to_patch = @_csv.find_all { |r| r[existing_field] == match.first[existing_field] }
+      end
+
+      
+      # to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
+    else
+      to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
+    end
+
     if to_patch.empty?
       warn "Can't match row to existing data: #{new_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
     else 
@@ -171,8 +192,8 @@ def combine_sources
   #   incoming_field: name — the field name in the incoming data to match
   #      previously "match_on"
   #
-  # If the 'existing_field' field is 'name', this will assume a fuzzy match
-  # TODO many any field fuzzy, not just `name`, and allow exact name match
+  # For non-exact matching set 'amatch_threshold' to a minimum % score
+  # We also warn on any fuzzy match under the 'amatch_warning' % score
 
   @instructions[:sources].find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
     puts "Merging with #{pd[:file]}".magenta
@@ -191,16 +212,11 @@ def combine_sources
       pd[:merge][:incoming_field] = pd[:merge].delete :match_on
     end
 
-    opts = {
-      existing_field: pd[:merge][:existing_field],
-      incoming_field: pd[:merge][:incoming_field]
-    }
-    warn "  Match incoming #{opts[:incoming_field]} to #{opts[:existing_field]}"
+    warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
 
     # TODO handle overrides
-    # TODO fuzzy matching
     patcher = CSVPatch.new(all_rows)
-    persondata.each { |pd_row| patcher.patch!(pd_row, opts) }
+    persondata.each { |pd_row| patcher.patch!(pd_row, pd[:merge]) }
     all_rows = patcher.all_data
   end
 
