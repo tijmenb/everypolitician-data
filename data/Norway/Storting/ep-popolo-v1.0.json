@@ -38833,13 +38833,8 @@
   ],
   "areas": [
     {
-      "id": "VA",
-      "name": "Vest-Agder",
-      "type": "constituency"
-    },
-    {
-      "id": "Os",
-      "name": "Oslo",
+      "id": "AA",
+      "name": "Aust-Agder",
       "type": "constituency"
     },
     {
@@ -38853,8 +38848,13 @@
       "type": "constituency"
     },
     {
-      "id": "AA",
-      "name": "Aust-Agder",
+      "id": "Fi",
+      "name": "Finnmark",
+      "type": "constituency"
+    },
+    {
+      "id": "He",
+      "name": "Hedmark",
       "type": "constituency"
     },
     {
@@ -38863,13 +38863,13 @@
       "type": "constituency"
     },
     {
-      "id": "NT",
-      "name": "Nord-Trøndelag",
+      "id": "MR",
+      "name": "Møre og Romsdal",
       "type": "constituency"
     },
     {
-      "id": "SF",
-      "name": "Sogn og Fjordane",
+      "id": "NT",
+      "name": "Nord-Trøndelag",
       "type": "constituency"
     },
     {
@@ -38883,38 +38883,8 @@
       "type": "constituency"
     },
     {
-      "id": "Ve",
-      "name": "Vestfold",
-      "type": "constituency"
-    },
-    {
-      "id": "MR",
-      "name": "Møre og Romsdal",
-      "type": "constituency"
-    },
-    {
-      "id": "Tr",
-      "name": "Troms",
-      "type": "constituency"
-    },
-    {
-      "id": "He",
-      "name": "Hedmark",
-      "type": "constituency"
-    },
-    {
-      "id": "Fi",
-      "name": "Finnmark",
-      "type": "constituency"
-    },
-    {
-      "id": "ST",
-      "name": "Sør-Trøndelag",
-      "type": "constituency"
-    },
-    {
-      "id": "Øs",
-      "name": "Østfold",
+      "id": "Os",
+      "name": "Oslo",
       "type": "constituency"
     },
     {
@@ -38923,8 +38893,38 @@
       "type": "constituency"
     },
     {
+      "id": "SF",
+      "name": "Sogn og Fjordane",
+      "type": "constituency"
+    },
+    {
+      "id": "ST",
+      "name": "Sør-Trøndelag",
+      "type": "constituency"
+    },
+    {
       "id": "Te",
       "name": "Telemark",
+      "type": "constituency"
+    },
+    {
+      "id": "Tr",
+      "name": "Troms",
+      "type": "constituency"
+    },
+    {
+      "id": "VA",
+      "name": "Vest-Agder",
+      "type": "constituency"
+    },
+    {
+      "id": "Ve",
+      "name": "Vestfold",
+      "type": "constituency"
+    },
+    {
+      "id": "Øs",
+      "name": "Østfold",
       "type": "constituency"
     }
   ]

@@ -5797,123 +5797,8 @@
   ],
   "areas": [
     {
-      "id": "area/falkirk_west",
-      "name": "Falkirk West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_north_and_leith",
-      "name": "Edinburgh North and Leith",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_northern_and_leith",
-      "name": "Edinburgh Northern and Leith",
-      "type": "constituency"
-    },
-    {
-      "id": "area/perthshire_south_and_kinross-shire",
-      "name": "Perthshire South and Kinross-shire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/perth",
-      "name": "Perth",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_anniesland",
-      "name": "Glasgow Anniesland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moray",
-      "name": "Moray",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lothians",
-      "name": "Lothians",
-      "type": "constituency"
-    },
-    {
-      "id": "area/strathkelvin_and_bearsden",
-      "name": "Strathkelvin and Bearsden",
-      "type": "constituency"
-    },
-    {
-      "id": "area/central_scotland",
-      "name": "Central Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_lothian",
-      "name": "East Lothian",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_east",
-      "name": "Dundee East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/central_fife",
-      "name": "Central Fife",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_of_scotland",
-      "name": "South of Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/galloway_and_upper_nithsdale",
-      "name": "Galloway and Upper Nithsdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/banff_and_buchan",
-      "name": "Banff and Buchan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gordon",
-      "name": "Gordon",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeenshire_east",
-      "name": "Aberdeenshire East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_tayside",
-      "name": "North Tayside",
-      "type": "constituency"
-    },
-    {
-      "id": "area/perthshire_north",
-      "name": "Perthshire North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/orkney_islands",
-      "name": "Orkney Islands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/angus",
-      "name": "Angus",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_east_scotland",
-      "name": "North East Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_north",
-      "name": "Aberdeen North",
+      "id": "area/aberdeen_central",
+      "name": "Aberdeen Central",
       "type": "constituency"
     },
     {
@@ -5922,373 +5807,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/glasgow",
-      "name": "Glasgow",
+      "id": "area/aberdeen_north",
+      "name": "Aberdeen North",
       "type": "constituency"
     },
     {
-      "id": "area/paisley_north",
-      "name": "Paisley North",
+      "id": "area/aberdeen_south",
+      "name": "Aberdeen South",
       "type": "constituency"
     },
     {
-      "id": "area/na_h-eileanan_an_iar",
-      "name": "Na h-Eileanan an Iar",
+      "id": "area/aberdeen_south_and_north_kincardine",
+      "name": "Aberdeen South and North Kincardine",
       "type": "constituency"
     },
     {
-      "id": "area/western_isles",
-      "name": "Western Isles",
+      "id": "area/aberdeenshire_east",
+      "name": "Aberdeenshire East",
       "type": "constituency"
     },
     {
-      "id": "area/mid_scotland_and_fife",
-      "name": "Mid Scotland and Fife",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dumbarton",
-      "name": "Dumbarton",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dunfermline_west",
-      "name": "Dunfermline West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_central",
-      "name": "Edinburgh Central",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lothian",
-      "name": "Lothian",
-      "type": "constituency"
-    },
-    {
-      "id": "area/midlothian",
-      "name": "Midlothian",
-      "type": "constituency"
-    },
-    {
-      "id": "area/clackmannanshire_and_dunblane",
-      "name": "Clackmannanshire and Dunblane",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ochil",
-      "name": "Ochil",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_of_scotland",
-      "name": "West of Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/clydesdale",
-      "name": "Clydesdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_scotland",
-      "name": "West Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kilmarnock_and_irvine_valley",
-      "name": "Kilmarnock and Irvine Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kilmarnock_and_loudoun",
-      "name": "Kilmarnock and Loudoun",
-      "type": "constituency"
-    },
-    {
-      "id": "area/almond_valley",
-      "name": "Almond Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/livingston",
-      "name": "Livingston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cumbernauld_and_kilsyth",
-      "name": "Cumbernauld and Kilsyth",
-      "type": "constituency"
-    },
-    {
-      "id": "area/stirling",
-      "name": "Stirling",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_baillieston",
-      "name": "Glasgow Baillieston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_east_and_musselburgh",
-      "name": "Edinburgh East and Musselburgh",
-      "type": "constituency"
-    },
-    {
-      "id": "area/angus_north_and_mearns",
-      "name": "Angus North and Mearns",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dunfermline_east",
-      "name": "Dunfermline East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cowdenbeath",
-      "name": "Cowdenbeath",
-      "type": "constituency"
-    },
-    {
-      "id": "area/inverness_east,_nairn_and_lochaber",
-      "name": "Inverness East, Nairn and Lochaber",
-      "type": "constituency"
-    },
-    {
-      "id": "area/inverness_and_nairn",
-      "name": "Inverness and Nairn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/highlands_and_islands",
-      "name": "Highlands and Islands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_kilbride",
-      "name": "East Kilbride",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ross,_skye_and_inverness_west",
-      "name": "Ross, Skye and Inverness West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_maryhill",
-      "name": "Glasgow Maryhill",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_maryhill_and_springburn",
-      "name": "Glasgow Maryhill and Springburn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/galloway_and_west_dumfries",
-      "name": "Galloway and West Dumfries",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_city_west",
-      "name": "Dundee City West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_west",
-      "name": "Dundee West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/caithness,_sutherland_and_ross",
-      "name": "Caithness, Sutherland and Ross",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cunninghame_north",
-      "name": "Cunninghame North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_renfrewshire",
-      "name": "West Renfrewshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_cathcart",
-      "name": "Glasgow Cathcart",
-      "type": "constituency"
-    },
-    {
-      "id": "area/midlothian_south,_tweeddale_and_lauderdale",
-      "name": "Midlothian South, Tweeddale and Lauderdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_pentlands",
-      "name": "Edinburgh Pentlands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/paisley_south",
-      "name": "Paisley South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/renfrewshire_south",
-      "name": "Renfrewshire South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_rutherglen",
-      "name": "Glasgow Rutherglen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_scotland",
-      "name": "South Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/linlithgow",
-      "name": "Linlithgow",
-      "type": "constituency"
-    },
-    {
-      "id": "area/carrick,_cumnock_and_doon_valley",
-      "name": "Carrick, Cumnock and Doon Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_govan",
-      "name": "Glasgow Govan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tweeddale,_ettrick_and_lauderdale",
-      "name": "Tweeddale, Ettrick and Lauderdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rutherglen",
-      "name": "Rutherglen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_pollok",
-      "name": "Glasgow Pollok",
-      "type": "constituency"
-    },
-    {
-      "id": "area/roxburgh_and_berwickshire",
-      "name": "Roxburgh and Berwickshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ettrick,_roxburgh_and_berwickshire",
-      "name": "Ettrick, Roxburgh and Berwickshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kirkcaldy",
-      "name": "Kirkcaldy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/argyll_and_bute",
-      "name": "Argyll and Bute",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_eastern",
-      "name": "Edinburgh Eastern",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_south",
-      "name": "Edinburgh South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_central",
-      "name": "Aberdeen Central",
-      "type": "constituency"
-    },
-    {
-      "id": "area/eastwood",
-      "name": "Eastwood",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_provan",
-      "name": "Glasgow Provan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_springburn",
-      "name": "Glasgow Springburn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mid_fife_and_glenrothes",
-      "name": "Mid Fife and Glenrothes",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_shettleston",
-      "name": "Glasgow Shettleston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hamilton_south",
-      "name": "Hamilton South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/motherwell_and_wishaw",
-      "name": "Motherwell and Wishaw",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hamilton,_larkhall_and_stonehouse",
-      "name": "Hamilton, Larkhall and Stonehouse",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hamilton_north_and_bellshill",
-      "name": "Hamilton North and Bellshill",
-      "type": "constituency"
-    },
-    {
-      "id": "area/uddingston_and_bellshill",
-      "name": "Uddingston and Bellshill",
-      "type": "constituency"
-    },
-    {
-      "id": "area/greenock_and_inverclyde",
-      "name": "Greenock and Inverclyde",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_kelvin",
-      "name": "Glasgow Kelvin",
-      "type": "constituency"
-    },
-    {
-      "id": "area/clydebank_and_milngavie",
-      "name": "Clydebank and Milngavie",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dumfries",
-      "name": "Dumfries",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dumfriesshire",
-      "name": "Dumfriesshire",
+      "id": "area/aberdeenshire_west",
+      "name": "Aberdeenshire West",
       "type": "constituency"
     },
     {
@@ -6297,23 +5837,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/cunninghame_south",
-      "name": "Cunninghame South",
+      "id": "area/almond_valley",
+      "name": "Almond Valley",
       "type": "constituency"
     },
     {
-      "id": "area/falkirk_east",
-      "name": "Falkirk East",
+      "id": "area/angus",
+      "name": "Angus",
       "type": "constituency"
     },
     {
-      "id": "area/dundee_city_east",
-      "name": "Dundee City East",
+      "id": "area/angus_north_and_mearns",
+      "name": "Angus North and Mearns",
       "type": "constituency"
     },
     {
-      "id": "area/west_aberdeenshire_and_kincardine",
-      "name": "West Aberdeenshire and Kincardine",
+      "id": "area/angus_south",
+      "name": "Angus South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/argyll_and_bute",
+      "name": "Argyll and Bute",
       "type": "constituency"
     },
     {
@@ -6322,28 +5867,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/shetland_islands",
-      "name": "Shetland Islands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_west",
-      "name": "Edinburgh West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_east_fife",
-      "name": "North East Fife",
-      "type": "constituency"
-    },
-    {
-      "id": "area/coatbridge_and_chryston",
-      "name": "Coatbridge and Chryston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_south",
-      "name": "Aberdeen South",
+      "id": "area/banff_and_buchan",
+      "name": "Banff and Buchan",
       "type": "constituency"
     },
     {
@@ -6357,33 +5882,163 @@
       "type": "constituency"
     },
     {
-      "id": "area/glasgow_southside",
-      "name": "Glasgow Southside",
+      "id": "area/caithness,_sutherland_and_ross",
+      "name": "Caithness, Sutherland and Ross",
       "type": "constituency"
     },
     {
-      "id": "area/skye,_lochaber_and_badenoch",
-      "name": "Skye, Lochaber and Badenoch",
+      "id": "area/carrick,_cumnock_and_doon_valley",
+      "name": "Carrick, Cumnock and Doon Valley",
       "type": "constituency"
     },
     {
-      "id": "area/aberdeen_south_and_north_kincardine",
-      "name": "Aberdeen South and North Kincardine",
+      "id": "area/central_fife",
+      "name": "Central Fife",
       "type": "constituency"
     },
     {
-      "id": "area/paisley",
-      "name": "Paisley",
+      "id": "area/central_scotland",
+      "name": "Central Scotland",
       "type": "constituency"
     },
     {
-      "id": "area/midlothian_north_and_musselburgh",
-      "name": "Midlothian North and Musselburgh",
+      "id": "area/clackmannanshire_and_dunblane",
+      "name": "Clackmannanshire and Dunblane",
       "type": "constituency"
     },
     {
-      "id": "area/angus_south",
-      "name": "Angus South",
+      "id": "area/clydebank_and_milngavie",
+      "name": "Clydebank and Milngavie",
+      "type": "constituency"
+    },
+    {
+      "id": "area/clydesdale",
+      "name": "Clydesdale",
+      "type": "constituency"
+    },
+    {
+      "id": "area/coatbridge_and_chryston",
+      "name": "Coatbridge and Chryston",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cowdenbeath",
+      "name": "Cowdenbeath",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cumbernauld_and_kilsyth",
+      "name": "Cumbernauld and Kilsyth",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cunninghame_north",
+      "name": "Cunninghame North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cunninghame_south",
+      "name": "Cunninghame South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dumbarton",
+      "name": "Dumbarton",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dumfries",
+      "name": "Dumfries",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dumfriesshire",
+      "name": "Dumfriesshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dundee_city_east",
+      "name": "Dundee City East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dundee_city_west",
+      "name": "Dundee City West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dundee_east",
+      "name": "Dundee East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dundee_west",
+      "name": "Dundee West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dunfermline",
+      "name": "Dunfermline",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dunfermline_east",
+      "name": "Dunfermline East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dunfermline_west",
+      "name": "Dunfermline West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_kilbride",
+      "name": "East Kilbride",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_lothian",
+      "name": "East Lothian",
+      "type": "constituency"
+    },
+    {
+      "id": "area/eastwood",
+      "name": "Eastwood",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_central",
+      "name": "Edinburgh Central",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_east_and_musselburgh",
+      "name": "Edinburgh East and Musselburgh",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_eastern",
+      "name": "Edinburgh Eastern",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_north_and_leith",
+      "name": "Edinburgh North and Leith",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_northern_and_leith",
+      "name": "Edinburgh Northern and Leith",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_pentlands",
+      "name": "Edinburgh Pentlands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/edinburgh_south",
+      "name": "Edinburgh South",
       "type": "constituency"
     },
     {
@@ -6392,8 +6047,278 @@
       "type": "constituency"
     },
     {
+      "id": "area/edinburgh_west",
+      "name": "Edinburgh West",
+      "type": "constituency"
+    },
+    {
       "id": "area/edinburgh_western",
       "name": "Edinburgh Western",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ettrick,_roxburgh_and_berwickshire",
+      "name": "Ettrick, Roxburgh and Berwickshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/falkirk_east",
+      "name": "Falkirk East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/falkirk_west",
+      "name": "Falkirk West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/galloway_and_upper_nithsdale",
+      "name": "Galloway and Upper Nithsdale",
+      "type": "constituency"
+    },
+    {
+      "id": "area/galloway_and_west_dumfries",
+      "name": "Galloway and West Dumfries",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow",
+      "name": "Glasgow",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_anniesland",
+      "name": "Glasgow Anniesland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_baillieston",
+      "name": "Glasgow Baillieston",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_cathcart",
+      "name": "Glasgow Cathcart",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_govan",
+      "name": "Glasgow Govan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_kelvin",
+      "name": "Glasgow Kelvin",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_maryhill",
+      "name": "Glasgow Maryhill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_maryhill_and_springburn",
+      "name": "Glasgow Maryhill and Springburn",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_pollok",
+      "name": "Glasgow Pollok",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_provan",
+      "name": "Glasgow Provan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_rutherglen",
+      "name": "Glasgow Rutherglen",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_shettleston",
+      "name": "Glasgow Shettleston",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_southside",
+      "name": "Glasgow Southside",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glasgow_springburn",
+      "name": "Glasgow Springburn",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gordon",
+      "name": "Gordon",
+      "type": "constituency"
+    },
+    {
+      "id": "area/greenock_and_inverclyde",
+      "name": "Greenock and Inverclyde",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hamilton,_larkhall_and_stonehouse",
+      "name": "Hamilton, Larkhall and Stonehouse",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hamilton_north_and_bellshill",
+      "name": "Hamilton North and Bellshill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hamilton_south",
+      "name": "Hamilton South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/highlands_and_islands",
+      "name": "Highlands and Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/inverness_and_nairn",
+      "name": "Inverness and Nairn",
+      "type": "constituency"
+    },
+    {
+      "id": "area/inverness_east,_nairn_and_lochaber",
+      "name": "Inverness East, Nairn and Lochaber",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kilmarnock_and_irvine_valley",
+      "name": "Kilmarnock and Irvine Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kilmarnock_and_loudoun",
+      "name": "Kilmarnock and Loudoun",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kirkcaldy",
+      "name": "Kirkcaldy",
+      "type": "constituency"
+    },
+    {
+      "id": "area/linlithgow",
+      "name": "Linlithgow",
+      "type": "constituency"
+    },
+    {
+      "id": "area/livingston",
+      "name": "Livingston",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lothian",
+      "name": "Lothian",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lothians",
+      "name": "Lothians",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mid_fife_and_glenrothes",
+      "name": "Mid Fife and Glenrothes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mid_scotland_and_fife",
+      "name": "Mid Scotland and Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "area/midlothian",
+      "name": "Midlothian",
+      "type": "constituency"
+    },
+    {
+      "id": "area/midlothian_north_and_musselburgh",
+      "name": "Midlothian North and Musselburgh",
+      "type": "constituency"
+    },
+    {
+      "id": "area/midlothian_south,_tweeddale_and_lauderdale",
+      "name": "Midlothian South, Tweeddale and Lauderdale",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moray",
+      "name": "Moray",
+      "type": "constituency"
+    },
+    {
+      "id": "area/motherwell_and_wishaw",
+      "name": "Motherwell and Wishaw",
+      "type": "constituency"
+    },
+    {
+      "id": "area/na_h-eileanan_an_iar",
+      "name": "Na h-Eileanan an Iar",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_east_fife",
+      "name": "North East Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_east_scotland",
+      "name": "North East Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_tayside",
+      "name": "North Tayside",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ochil",
+      "name": "Ochil",
+      "type": "constituency"
+    },
+    {
+      "id": "area/orkney_islands",
+      "name": "Orkney Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/paisley",
+      "name": "Paisley",
+      "type": "constituency"
+    },
+    {
+      "id": "area/paisley_north",
+      "name": "Paisley North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/paisley_south",
+      "name": "Paisley South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/perth",
+      "name": "Perth",
+      "type": "constituency"
+    },
+    {
+      "id": "area/perthshire_north",
+      "name": "Perthshire North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/perthshire_south_and_kinross-shire",
+      "name": "Perthshire South and Kinross-shire",
       "type": "constituency"
     },
     {
@@ -6402,13 +6327,88 @@
       "type": "constituency"
     },
     {
-      "id": "area/aberdeenshire_west",
-      "name": "Aberdeenshire West",
+      "id": "area/renfrewshire_south",
+      "name": "Renfrewshire South",
       "type": "constituency"
     },
     {
-      "id": "area/dunfermline",
-      "name": "Dunfermline",
+      "id": "area/ross,_skye_and_inverness_west",
+      "name": "Ross, Skye and Inverness West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/roxburgh_and_berwickshire",
+      "name": "Roxburgh and Berwickshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rutherglen",
+      "name": "Rutherglen",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shetland_islands",
+      "name": "Shetland Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/skye,_lochaber_and_badenoch",
+      "name": "Skye, Lochaber and Badenoch",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_of_scotland",
+      "name": "South of Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_scotland",
+      "name": "South Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/stirling",
+      "name": "Stirling",
+      "type": "constituency"
+    },
+    {
+      "id": "area/strathkelvin_and_bearsden",
+      "name": "Strathkelvin and Bearsden",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tweeddale,_ettrick_and_lauderdale",
+      "name": "Tweeddale, Ettrick and Lauderdale",
+      "type": "constituency"
+    },
+    {
+      "id": "area/uddingston_and_bellshill",
+      "name": "Uddingston and Bellshill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_aberdeenshire_and_kincardine",
+      "name": "West Aberdeenshire and Kincardine",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_of_scotland",
+      "name": "West of Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_renfrewshire",
+      "name": "West Renfrewshire",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_scotland",
+      "name": "West Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_isles",
+      "name": "Western Isles",
       "type": "constituency"
     }
   ]

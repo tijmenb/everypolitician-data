@@ -8328,8 +8328,23 @@
   ],
   "areas": [
     {
-      "id": "area/mendoza",
-      "name": "MENDOZA",
+      "id": "area/buenos_aires",
+      "name": "BUENOS AIRES",
+      "type": "constituency"
+    },
+    {
+      "id": "area/catamarca",
+      "name": "CATAMARCA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/chaco",
+      "name": "CHACO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/chubut",
+      "name": "CHUBUT",
       "type": "constituency"
     },
     {
@@ -8338,23 +8353,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/buenos_aires",
-      "name": "BUENOS AIRES",
-      "type": "constituency"
-    },
-    {
-      "id": "area/neuquen",
-      "name": "NEUQUEN",
-      "type": "constituency"
-    },
-    {
-      "id": "area/santa_fe",
-      "name": "SANTA FE",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tucuman",
-      "name": "TUCUMAN",
+      "id": "area/cordoba",
+      "name": "CORDOBA",
       "type": "constituency"
     },
     {
@@ -8368,43 +8368,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/santa_cruz",
-      "name": "SANTA CRUZ",
-      "type": "constituency"
-    },
-    {
-      "id": "area/santiago_del_estero",
-      "name": "SANTIAGO DEL ESTERO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chaco",
-      "name": "CHACO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/misiones",
-      "name": "MISIONES",
-      "type": "constituency"
-    },
-    {
-      "id": "area/san_luis",
-      "name": "SAN LUIS",
-      "type": "constituency"
-    },
-    {
-      "id": "area/salta",
-      "name": "SALTA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cordoba",
-      "name": "CORDOBA",
-      "type": "constituency"
-    },
-    {
       "id": "area/formosa",
       "name": "FORMOSA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jujuy",
+      "name": "JUJUY",
       "type": "constituency"
     },
     {
@@ -8413,28 +8383,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/chubut",
-      "name": "CHUBUT",
-      "type": "constituency"
-    },
-    {
-      "id": "area/catamarca",
-      "name": "CATAMARCA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/san_juan",
-      "name": "SAN JUAN",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tierra_del_fuego",
-      "name": "TIERRA DEL FUEGO",
-      "type": "constituency"
-    },
-    {
       "id": "area/la_rioja",
       "name": "LA RIOJA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mendoza",
+      "name": "MENDOZA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/misiones",
+      "name": "MISIONES",
+      "type": "constituency"
+    },
+    {
+      "id": "area/neuquen",
+      "name": "NEUQUEN",
       "type": "constituency"
     },
     {
@@ -8443,8 +8408,43 @@
       "type": "constituency"
     },
     {
-      "id": "area/jujuy",
-      "name": "JUJUY",
+      "id": "area/salta",
+      "name": "SALTA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_juan",
+      "name": "SAN JUAN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_luis",
+      "name": "SAN LUIS",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santa_cruz",
+      "name": "SANTA CRUZ",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santa_fe",
+      "name": "SANTA FE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santiago_del_estero",
+      "name": "SANTIAGO DEL ESTERO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tierra_del_fuego",
+      "name": "TIERRA DEL FUEGO",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tucuman",
+      "name": "TUCUMAN",
       "type": "constituency"
     }
   ]

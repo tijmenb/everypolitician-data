@@ -4226,53 +4226,8 @@
   ],
   "areas": [
     {
-      "id": "area/northwest",
-      "name": "Northwest",
-      "type": "constituency"
-    },
-    {
-      "id": "area/northeast",
-      "name": "Northeast",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_constituency",
-      "name": "South Constituency",
-      "type": "constituency"
-    },
-    {
-      "id": "area/reykjavik_constituency_south",
-      "name": "Reykjavik Constituency South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/northeast_constituency",
-      "name": "Northeast Constituency",
-      "type": "constituency"
-    },
-    {
-      "id": "area/southwest_constituency",
-      "name": "Southwest Constituency",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south",
-      "name": "South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/reykjavik_south",
-      "name": "Reykjavik South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/reykjavik_constituency_north",
-      "name": "Reykjavik Constituency North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/reykjavik_north",
-      "name": "Reykjavik North",
+      "id": "area/capital_region",
+      "name": "Capital Region",
       "type": "constituency"
     },
     {
@@ -4281,33 +4236,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/northwest_constituency",
-      "name": "Northwest Constituency",
+      "id": "area/northeast",
+      "name": "Northeast",
       "type": "constituency"
     },
     {
-      "id": "area/reykjavik",
-      "name": "Reykjavik",
-      "type": "constituency"
-    },
-    {
-      "id": "area/capital_region",
-      "name": "Capital Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/southwest",
-      "name": "Southwest",
-      "type": "constituency"
-    },
-    {
-      "id": "area/westfjords",
-      "name": "Westfjords",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west",
-      "name": "West",
+      "id": "area/northeast_constituency",
+      "name": "Northeast Constituency",
       "type": "constituency"
     },
     {
@@ -4316,8 +4251,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/reykjanes",
-      "name": "Reykjanes",
+      "id": "area/northwest",
+      "name": "Northwest",
+      "type": "constituency"
+    },
+    {
+      "id": "area/northwest_constituency",
+      "name": "Northwest Constituency",
       "type": "constituency"
     },
     {
@@ -4326,13 +4266,73 @@
       "type": "constituency"
     },
     {
-      "id": "area/west_fjords",
-      "name": "West Fjords",
+      "id": "area/reykjanes",
+      "name": "Reykjanes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik",
+      "name": "Reykjavik",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_constituency_north",
+      "name": "Reykjavik Constituency North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_constituency_south",
+      "name": "Reykjavik Constituency South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_north",
+      "name": "Reykjavik North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/reykjavik_south",
+      "name": "Reykjavik South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south",
+      "name": "South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_constituency",
+      "name": "South Constituency",
       "type": "constituency"
     },
     {
       "id": "area/southern_region",
       "name": "Southern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/southwest",
+      "name": "Southwest",
+      "type": "constituency"
+    },
+    {
+      "id": "area/southwest_constituency",
+      "name": "Southwest Constituency",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west",
+      "name": "West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_fjords",
+      "name": "West Fjords",
+      "type": "constituency"
+    },
+    {
+      "id": "area/westfjords",
+      "name": "Westfjords",
       "type": "constituency"
     }
   ]

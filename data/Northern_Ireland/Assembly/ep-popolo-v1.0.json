@@ -6736,13 +6736,38 @@
   ],
   "areas": [
     {
+      "id": "area/belfast_east",
+      "name": "Belfast East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/belfast_north",
+      "name": "Belfast North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/belfast_south",
+      "name": "Belfast South",
+      "type": "constituency"
+    },
+    {
       "id": "area/belfast_west",
       "name": "Belfast West",
       "type": "constituency"
     },
     {
-      "id": "area/lagan_valley",
-      "name": "Lagan Valley",
+      "id": "area/east_antrim",
+      "name": "East Antrim",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_londonderry",
+      "name": "East Londonderry",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fermanagh_and_south_tyrone",
+      "name": "Fermanagh and South Tyrone",
       "type": "constituency"
     },
     {
@@ -6751,13 +6776,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/north_down",
-      "name": "North Down",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_down",
-      "name": "South Down",
+      "id": "area/lagan_valley",
+      "name": "Lagan Valley",
       "type": "constituency"
     },
     {
@@ -6776,8 +6796,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/belfast_east",
-      "name": "Belfast East",
+      "id": "area/north_down",
+      "name": "North Down",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_antrim",
+      "name": "South Antrim",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_down",
+      "name": "South Down",
       "type": "constituency"
     },
     {
@@ -6791,38 +6821,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/south_antrim",
-      "name": "South Antrim",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_londonderry",
-      "name": "East Londonderry",
-      "type": "constituency"
-    },
-    {
-      "id": "area/belfast_north",
-      "name": "Belfast North",
-      "type": "constituency"
-    },
-    {
       "id": "area/west_tyrone",
       "name": "West Tyrone",
-      "type": "constituency"
-    },
-    {
-      "id": "area/fermanagh_and_south_tyrone",
-      "name": "Fermanagh and South Tyrone",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_antrim",
-      "name": "East Antrim",
-      "type": "constituency"
-    },
-    {
-      "id": "area/belfast_south",
-      "name": "Belfast South",
       "type": "constituency"
     }
   ]

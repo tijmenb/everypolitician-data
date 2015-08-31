@@ -11426,13 +11426,93 @@
   ],
   "areas": [
     {
-      "id": "area/rupandehi",
-      "name": "Rupandehi",
+      "id": "area/achham",
+      "name": "Achham",
       "type": "constituency"
     },
     {
-      "id": "area/panchthar",
-      "name": "Panchthar",
+      "id": "area/arghakhanchi",
+      "name": "Arghakhanchi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/baglung",
+      "name": "Baglung",
+      "type": "constituency"
+    },
+    {
+      "id": "area/baitadi",
+      "name": "Baitadi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bajhang",
+      "name": "Bajhang",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bajura",
+      "name": "Bajura",
+      "type": "constituency"
+    },
+    {
+      "id": "area/banke",
+      "name": "Banke",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bara",
+      "name": "Bara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bardiya",
+      "name": "Bardiya",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bhaktapur",
+      "name": "Bhaktapur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bhojpur",
+      "name": "Bhojpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/chitwan",
+      "name": "Chitwan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dadeldhura",
+      "name": "Dadeldhura",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dailekh",
+      "name": "Dailekh",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dang",
+      "name": "Dang",
+      "type": "constituency"
+    },
+    {
+      "id": "area/darchula",
+      "name": "Darchula",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dhading",
+      "name": "Dhading",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dhankuta",
+      "name": "Dhankuta",
       "type": "constituency"
     },
     {
@@ -11446,48 +11526,38 @@
       "type": "constituency"
     },
     {
-      "id": "area/kanchanpur",
-      "name": "Kanchanpur",
+      "id": "area/dolpa",
+      "name": "Dolpa",
       "type": "constituency"
     },
     {
-      "id": "area/banke",
-      "name": "Banke",
+      "id": "area/doti",
+      "name": "Doti",
       "type": "constituency"
     },
     {
-      "id": "area/kapilvastu",
-      "name": "Kapilvastu",
+      "id": "area/gorkha",
+      "name": "Gorkha",
       "type": "constituency"
     },
     {
-      "id": "area/bajhang",
-      "name": "Bajhang",
+      "id": "area/gulmi",
+      "name": "Gulmi",
       "type": "constituency"
     },
     {
-      "id": "area/sindhupalchowk",
-      "name": "Sindhupalchowk",
+      "id": "area/humla",
+      "name": "Humla",
       "type": "constituency"
     },
     {
-      "id": "area/siraha",
-      "name": "Siraha",
+      "id": "area/ilam",
+      "name": "Ilam",
       "type": "constituency"
     },
     {
-      "id": "area/morang",
-      "name": "Morang",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rolpa",
-      "name": "Rolpa",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kathmandu",
-      "name": "Kathmandu",
+      "id": "area/jajarkot",
+      "name": "Jajarkot",
       "type": "constituency"
     },
     {
@@ -11496,33 +11566,63 @@
       "type": "constituency"
     },
     {
-      "id": "area/sarlahi",
-      "name": "Sarlahi",
+      "id": "area/jumla",
+      "name": "Jumla",
       "type": "constituency"
     },
     {
-      "id": "area/dailekh",
-      "name": "Dailekh",
+      "id": "area/kailai",
+      "name": "Kailai",
       "type": "constituency"
     },
     {
-      "id": "area/makwanpur",
-      "name": "Makwanpur",
+      "id": "area/kailali",
+      "name": "Kailali",
       "type": "constituency"
     },
     {
-      "id": "area/salyan",
-      "name": "Salyan",
+      "id": "area/kalikot",
+      "name": "Kalikot",
       "type": "constituency"
     },
     {
-      "id": "area/ramechhap",
-      "name": "Ramechhap",
+      "id": "area/kanchanpur",
+      "name": "Kanchanpur",
       "type": "constituency"
     },
     {
-      "id": "area/dang",
-      "name": "Dang",
+      "id": "area/kapilvastu",
+      "name": "Kapilvastu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kaski",
+      "name": "Kaski",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kathmandu",
+      "name": "Kathmandu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kavrepalanchowk",
+      "name": "Kavrepalanchowk",
+      "type": "constituency"
+    },
+    {
+      "id": "area/khotang",
+      "name": "Khotang",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lalitpur",
+      "name": "Lalitpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lamjung",
+      "name": "Lamjung",
       "type": "constituency"
     },
     {
@@ -11531,23 +11631,58 @@
       "type": "constituency"
     },
     {
-      "id": "area/dhankuta",
-      "name": "Dhankuta",
+      "id": "area/makwanpur",
+      "name": "Makwanpur",
       "type": "constituency"
     },
     {
-      "id": "area/chitwan",
-      "name": "Chitwan",
+      "id": "area/manang",
+      "name": "Manang",
       "type": "constituency"
     },
     {
-      "id": "area/bhaktapur",
-      "name": "Bhaktapur",
+      "id": "area/morang",
+      "name": "Morang",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mugu",
+      "name": "Mugu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mustang",
+      "name": "Mustang",
+      "type": "constituency"
+    },
+    {
+      "id": "area/myagdi",
+      "name": "Myagdi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nawalparasi",
+      "name": "Nawalparasi",
       "type": "constituency"
     },
     {
       "id": "area/nuwakot",
       "name": "Nuwakot",
+      "type": "constituency"
+    },
+    {
+      "id": "area/okhaldhunga",
+      "name": "Okhaldhunga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/palpa",
+      "name": "Palpa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/panchthar",
+      "name": "Panchthar",
       "type": "constituency"
     },
     {
@@ -11561,118 +11696,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/gorkha",
-      "name": "Gorkha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/udayapur",
-      "name": "Udayapur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bajura",
-      "name": "Bajura",
-      "type": "constituency"
-    },
-    {
-      "id": "area/nawalparasi",
-      "name": "Nawalparasi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/solukhumbu",
-      "name": "Solukhumbu",
-      "type": "constituency"
-    },
-    {
-      "id": "area/jumla",
-      "name": "Jumla",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bara",
-      "name": "Bara",
-      "type": "constituency"
-    },
-    {
       "id": "area/pyuthan",
       "name": "Pyuthan",
       "type": "constituency"
     },
     {
-      "id": "area/sankhuwasabha",
-      "name": "Sankhuwasabha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/arghakhanchi",
-      "name": "Arghakhanchi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tehrathum",
-      "name": "Tehrathum",
-      "type": "constituency"
-    },
-    {
-      "id": "area/doti",
-      "name": "Doti",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lalitpur",
-      "name": "Lalitpur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/achham",
-      "name": "Achham",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sunsari",
-      "name": "Sunsari",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lamjung",
-      "name": "Lamjung",
-      "type": "constituency"
-    },
-    {
-      "id": "area/taplejung",
-      "name": "Taplejung",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bhojpur",
-      "name": "Bhojpur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kavrepalanchowk",
-      "name": "Kavrepalanchowk",
-      "type": "constituency"
-    },
-    {
-      "id": "area/syangja",
-      "name": "Syangja",
-      "type": "constituency"
-    },
-    {
-      "id": "area/khotang",
-      "name": "Khotang",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kailali",
-      "name": "Kailali",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gulmi",
-      "name": "Gulmi",
+      "id": "area/ramechhap",
+      "name": "Ramechhap",
       "type": "constituency"
     },
     {
@@ -11681,8 +11711,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/baglung",
-      "name": "Baglung",
+      "id": "area/rautahat",
+      "name": "Rautahat",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rolpa",
+      "name": "Rolpa",
       "type": "constituency"
     },
     {
@@ -11691,48 +11726,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/baitadi",
-      "name": "Baitadi",
+      "id": "area/rupandehi",
+      "name": "Rupandehi",
       "type": "constituency"
     },
     {
-      "id": "area/dolpa",
-      "name": "Dolpa",
+      "id": "area/salyan",
+      "name": "Salyan",
       "type": "constituency"
     },
     {
-      "id": "area/dhading",
-      "name": "Dhading",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tanahun",
-      "name": "Tanahun",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kaski",
-      "name": "Kaski",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dadeldhura",
-      "name": "Dadeldhura",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rautahat",
-      "name": "Rautahat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sindhuli",
-      "name": "Sindhuli",
-      "type": "constituency"
-    },
-    {
-      "id": "area/darchula",
-      "name": "Darchula",
+      "id": "area/sankhuwasabha",
+      "name": "Sankhuwasabha",
       "type": "constituency"
     },
     {
@@ -11741,28 +11746,33 @@
       "type": "constituency"
     },
     {
-      "id": "area/bardiya",
-      "name": "Bardiya",
+      "id": "area/sarlahi",
+      "name": "Sarlahi",
       "type": "constituency"
     },
     {
-      "id": "area/okhaldhunga",
-      "name": "Okhaldhunga",
+      "id": "area/sindhuli",
+      "name": "Sindhuli",
       "type": "constituency"
     },
     {
-      "id": "area/kailai",
-      "name": "Kailai",
+      "id": "area/sindhupalchowk",
+      "name": "Sindhupalchowk",
       "type": "constituency"
     },
     {
-      "id": "area/ilam",
-      "name": "Ilam",
+      "id": "area/siraha",
+      "name": "Siraha",
       "type": "constituency"
     },
     {
-      "id": "area/humla",
-      "name": "Humla",
+      "id": "area/solukhumbu",
+      "name": "Solukhumbu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sunsari",
+      "name": "Sunsari",
       "type": "constituency"
     },
     {
@@ -11771,38 +11781,28 @@
       "type": "constituency"
     },
     {
-      "id": "area/kalikot",
-      "name": "Kalikot",
+      "id": "area/syangja",
+      "name": "Syangja",
       "type": "constituency"
     },
     {
-      "id": "area/mugu",
-      "name": "Mugu",
+      "id": "area/tanahun",
+      "name": "Tanahun",
       "type": "constituency"
     },
     {
-      "id": "area/myagdi",
-      "name": "Myagdi",
+      "id": "area/taplejung",
+      "name": "Taplejung",
       "type": "constituency"
     },
     {
-      "id": "area/palpa",
-      "name": "Palpa",
+      "id": "area/tehrathum",
+      "name": "Tehrathum",
       "type": "constituency"
     },
     {
-      "id": "area/jajarkot",
-      "name": "Jajarkot",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mustang",
-      "name": "Mustang",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manang",
-      "name": "Manang",
+      "id": "area/udayapur",
+      "name": "Udayapur",
       "type": "constituency"
     }
   ]

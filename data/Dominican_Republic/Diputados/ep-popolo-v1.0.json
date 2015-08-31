@@ -4809,98 +4809,8 @@
   ],
   "areas": [
     {
-      "id": "area/monte_plata",
-      "name": "Monte Plata",
-      "type": "constituency"
-    },
-    {
-      "id": "area/santo_domingo",
-      "name": "Santo Domingo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/montecristi",
-      "name": "Montecristi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/la_vega",
-      "name": "La Vega",
-      "type": "constituency"
-    },
-    {
-      "id": "area/espaillat",
-      "name": "Espaillat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/san_cristóbal",
-      "name": "San Cristóbal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/elias_piña",
-      "name": "Elias Piña",
-      "type": "constituency"
-    },
-    {
-      "id": "area/distrito_nacional",
-      "name": "Distrito Nacional",
-      "type": "constituency"
-    },
-    {
-      "id": "area/nacional",
-      "name": "Nacional",
-      "type": "constituency"
-    },
-    {
-      "id": "area/puerto_plata",
-      "name": "Puerto Plata",
-      "type": "constituency"
-    },
-    {
-      "id": "area/maría_trinidad_sánchez",
-      "name": "María Trinidad Sánchez",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pedernales",
-      "name": "Pedernales",
-      "type": "constituency"
-    },
-    {
-      "id": "area/monseñor_nouel",
-      "name": "Monseñor Nouel",
-      "type": "constituency"
-    },
-    {
-      "id": "area/santiago",
-      "name": "Santiago",
-      "type": "constituency"
-    },
-    {
-      "id": "area/valverde",
-      "name": "Valverde",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sánchez_ramírez",
-      "name": "Sánchez Ramírez",
-      "type": "constituency"
-    },
-    {
-      "id": "area/samaná",
-      "name": "Samaná",
-      "type": "constituency"
-    },
-    {
-      "id": "area/san_jose_de_ocoa",
-      "name": "San Jose de Ocoa",
-      "type": "constituency"
-    },
-    {
-      "id": "area/barahona",
-      "name": "Barahona",
+      "id": "area/azua",
+      "name": "Azua",
       "type": "constituency"
     },
     {
@@ -4909,43 +4819,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/san_juan_de_la_maguana",
-      "name": "San Juan de la Maguana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/independencia",
-      "name": "Independencia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/azua",
-      "name": "Azua",
-      "type": "constituency"
-    },
-    {
-      "id": "area/la_altagracia",
-      "name": "La Altagracia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/san_pedro_de_macorís",
-      "name": "San Pedro de Macorís",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hato_mayor",
-      "name": "Hato Mayor",
-      "type": "constituency"
-    },
-    {
-      "id": "area/duarte",
-      "name": "Duarte",
-      "type": "constituency"
-    },
-    {
-      "id": "area/santiago_rodríguez",
-      "name": "Santiago Rodríguez",
+      "id": "area/barahona",
+      "name": "Barahona",
       "type": "constituency"
     },
     {
@@ -4954,18 +4829,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/hermanas_mirabal",
-      "name": "Hermanas Mirabal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/la_romana",
-      "name": "La Romana",
-      "type": "constituency"
-    },
-    {
       "id": "area/de_dominicanos_en_el_exterior",
       "name": "De dominicanos en el exterior",
+      "type": "constituency"
+    },
+    {
+      "id": "area/distrito_nacional",
+      "name": "Distrito Nacional",
+      "type": "constituency"
+    },
+    {
+      "id": "area/duarte",
+      "name": "Duarte",
       "type": "constituency"
     },
     {
@@ -4974,8 +4849,133 @@
       "type": "constituency"
     },
     {
+      "id": "area/elias_piña",
+      "name": "Elias Piña",
+      "type": "constituency"
+    },
+    {
+      "id": "area/espaillat",
+      "name": "Espaillat",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hato_mayor",
+      "name": "Hato Mayor",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hermanas_mirabal",
+      "name": "Hermanas Mirabal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/independencia",
+      "name": "Independencia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/la_altagracia",
+      "name": "La Altagracia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/la_romana",
+      "name": "La Romana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/la_vega",
+      "name": "La Vega",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maría_trinidad_sánchez",
+      "name": "María Trinidad Sánchez",
+      "type": "constituency"
+    },
+    {
+      "id": "area/monseñor_nouel",
+      "name": "Monseñor Nouel",
+      "type": "constituency"
+    },
+    {
+      "id": "area/monte_plata",
+      "name": "Monte Plata",
+      "type": "constituency"
+    },
+    {
+      "id": "area/montecristi",
+      "name": "Montecristi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nacional",
+      "name": "Nacional",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pedernales",
+      "name": "Pedernales",
+      "type": "constituency"
+    },
+    {
       "id": "area/peravia",
       "name": "Peravia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/puerto_plata",
+      "name": "Puerto Plata",
+      "type": "constituency"
+    },
+    {
+      "id": "area/samaná",
+      "name": "Samaná",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_cristóbal",
+      "name": "San Cristóbal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_jose_de_ocoa",
+      "name": "San Jose de Ocoa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_juan_de_la_maguana",
+      "name": "San Juan de la Maguana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_pedro_de_macorís",
+      "name": "San Pedro de Macorís",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santiago",
+      "name": "Santiago",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santiago_rodríguez",
+      "name": "Santiago Rodríguez",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santo_domingo",
+      "name": "Santo Domingo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sánchez_ramírez",
+      "name": "Sánchez Ramírez",
+      "type": "constituency"
+    },
+    {
+      "id": "area/valverde",
+      "name": "Valverde",
       "type": "constituency"
     }
   ]

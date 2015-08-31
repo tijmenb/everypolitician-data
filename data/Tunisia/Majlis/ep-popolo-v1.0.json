@@ -5268,8 +5268,18 @@
   ],
   "areas": [
     {
-      "id": "area/nabeul_1",
-      "name": "Nabeul 1",
+      "id": "area/allemagne",
+      "name": "Allemagne",
+      "type": "constituency"
+    },
+    {
+      "id": "area/amérique_et_reste_de_l'europe",
+      "name": "Amérique et reste de l'Europe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ariana",
+      "name": "Ariana",
       "type": "constituency"
     },
     {
@@ -5278,48 +5288,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/tunis_1",
-      "name": "Tunis 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pays_arabes_et_reste_du_monde",
-      "name": "Pays arabes et reste du monde",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sidi_bouzid",
-      "name": "Sidi Bouzid",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gabès",
-      "name": "Gabès",
-      "type": "constituency"
-    },
-    {
-      "id": "area/siliana",
-      "name": "Siliana",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tozeur",
-      "name": "Tozeur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tataouine",
-      "name": "Tataouine",
-      "type": "constituency"
-    },
-    {
       "id": "area/ben_arous",
       "name": "Ben Arous",
-      "type": "constituency"
-    },
-    {
-      "id": "area/medenine",
-      "name": "Medenine",
       "type": "constituency"
     },
     {
@@ -5328,8 +5298,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/la_manouba",
-      "name": "La Manouba",
+      "id": "area/france_1",
+      "name": "France 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/france_2",
+      "name": "France 2",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gabès",
+      "name": "Gabès",
       "type": "constituency"
     },
     {
@@ -5338,18 +5318,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/tunis_2",
-      "name": "Tunis 2",
+      "id": "area/italie",
+      "name": "Italie",
       "type": "constituency"
     },
     {
-      "id": "area/sfax_2",
-      "name": "Sfax 2",
+      "id": "area/jendouba",
+      "name": "Jendouba",
       "type": "constituency"
     },
     {
-      "id": "area/zaghouan",
-      "name": "Zaghouan",
+      "id": "area/kairouan",
+      "name": "Kairouan",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kasserine",
+      "name": "Kasserine",
       "type": "constituency"
     },
     {
@@ -5358,8 +5343,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/nabeul_2",
-      "name": "Nabeul 2",
+      "id": "area/la_manouba",
+      "name": "La Manouba",
       "type": "constituency"
     },
     {
@@ -5373,33 +5358,28 @@
       "type": "constituency"
     },
     {
+      "id": "area/medenine",
+      "name": "Medenine",
+      "type": "constituency"
+    },
+    {
       "id": "area/monastir",
       "name": "Monastir",
       "type": "constituency"
     },
     {
-      "id": "area/kasserine",
-      "name": "Kasserine",
+      "id": "area/nabeul_1",
+      "name": "Nabeul 1",
       "type": "constituency"
     },
     {
-      "id": "area/amérique_et_reste_de_l'europe",
-      "name": "Amérique et reste de l'Europe",
+      "id": "area/nabeul_2",
+      "name": "Nabeul 2",
       "type": "constituency"
     },
     {
-      "id": "area/italie",
-      "name": "Italie",
-      "type": "constituency"
-    },
-    {
-      "id": "area/france_1",
-      "name": "France 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kairouan",
-      "name": "Kairouan",
+      "id": "area/pays_arabes_et_reste_du_monde",
+      "name": "Pays arabes et reste du monde",
       "type": "constituency"
     },
     {
@@ -5408,28 +5388,48 @@
       "type": "constituency"
     },
     {
+      "id": "area/sfax_2",
+      "name": "Sfax 2",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sidi_bouzid",
+      "name": "Sidi Bouzid",
+      "type": "constituency"
+    },
+    {
+      "id": "area/siliana",
+      "name": "Siliana",
+      "type": "constituency"
+    },
+    {
       "id": "area/sousse",
       "name": "Sousse",
       "type": "constituency"
     },
     {
-      "id": "area/ariana",
-      "name": "Ariana",
+      "id": "area/tataouine",
+      "name": "Tataouine",
       "type": "constituency"
     },
     {
-      "id": "area/france_2",
-      "name": "France 2",
+      "id": "area/tozeur",
+      "name": "Tozeur",
       "type": "constituency"
     },
     {
-      "id": "area/jendouba",
-      "name": "Jendouba",
+      "id": "area/tunis_1",
+      "name": "Tunis 1",
       "type": "constituency"
     },
     {
-      "id": "area/allemagne",
-      "name": "Allemagne",
+      "id": "area/tunis_2",
+      "name": "Tunis 2",
+      "type": "constituency"
+    },
+    {
+      "id": "area/zaghouan",
+      "name": "Zaghouan",
       "type": "constituency"
     }
   ]

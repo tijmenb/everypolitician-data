@@ -1385,28 +1385,13 @@
   ],
   "areas": [
     {
-      "id": "area/north-west_guadalcanal",
-      "name": "North-West Guadalcanal",
+      "id": "area/aoke_langalanga",
+      "name": "Aoke Langalanga",
       "type": "constituency"
     },
     {
-      "id": "area/central_kwara’ae",
-      "name": "Central Kwara’ae",
-      "type": "constituency"
-    },
-    {
-      "id": "area/central_honiara",
-      "name": "Central Honiara",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_guadalcanal",
-      "name": "West Guadalcanal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_honiara",
-      "name": "East Honiara",
+      "id": "area/baegu/asifola",
+      "name": "Baegu/Asifola",
       "type": "constituency"
     },
     {
@@ -1415,28 +1400,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/fataleka",
-      "name": "Fataleka",
+      "id": "area/central_honiara",
+      "name": "Central Honiara",
       "type": "constituency"
     },
     {
-      "id": "area/east_makira",
-      "name": "East Makira",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_choiseul",
-      "name": "East Choiseul",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_central_guadalcanal",
-      "name": "East Central Guadalcanal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/marovo",
-      "name": "Marovo",
+      "id": "area/central_kwara’ae",
+      "name": "Central Kwara’ae",
       "type": "constituency"
     },
     {
@@ -1445,23 +1415,38 @@
       "type": "constituency"
     },
     {
-      "id": "area/small_malaita",
-      "name": "Small Malaita",
+      "id": "area/east_are’are",
+      "name": "East Are’Are",
       "type": "constituency"
     },
     {
-      "id": "area/west_kwara’ae",
-      "name": "West Kwara’ae",
+      "id": "area/east_central_guadalcanal",
+      "name": "East Central Guadalcanal",
       "type": "constituency"
     },
     {
-      "id": "area/malaita_outer_islands",
-      "name": "Malaita Outer Islands",
+      "id": "area/east_choiseul",
+      "name": "East Choiseul",
       "type": "constituency"
     },
     {
-      "id": "area/shortlands",
-      "name": "Shortlands",
+      "id": "area/east_guadalcanal",
+      "name": "East Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_honiara",
+      "name": "East Honiara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_kwaio",
+      "name": "East Kwaio",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_makira",
+      "name": "East Makira",
       "type": "constituency"
     },
     {
@@ -1470,13 +1455,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/west_are’are",
-      "name": "West Are’Are",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_are’are",
-      "name": "East Are’Are",
+      "id": "area/fataleka",
+      "name": "Fataleka",
       "type": "constituency"
     },
     {
@@ -1485,8 +1465,98 @@
       "type": "constituency"
     },
     {
-      "id": "area/temotu_nende",
-      "name": "Temotu Nende",
+      "id": "area/gizo-kolombangara",
+      "name": "Gizo-Kolombangara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hograno-kia-havulei",
+      "name": "Hograno-Kia-Havulei",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lau-mbaelelea",
+      "name": "Lau-Mbaelelea",
+      "type": "constituency"
+    },
+    {
+      "id": "area/malaita_outer_islands",
+      "name": "Malaita Outer Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maringe-kokota",
+      "name": "Maringe-Kokota",
+      "type": "constituency"
+    },
+    {
+      "id": "area/marovo",
+      "name": "Marovo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngella",
+      "name": "Ngella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north-east_guadalcanal",
+      "name": "North-East Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north-west_choiseul",
+      "name": "North-West Choiseul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north-west_guadalcanal",
+      "name": "North-West Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_guadalcanal",
+      "name": "North Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_malaita",
+      "name": "North Malaita",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_new_georgia",
+      "name": "North New Georgia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_vella_la_vella",
+      "name": "North Vella La Vella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rannonga-simbo",
+      "name": "Rannonga-Simbo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rennell-bellona",
+      "name": "Rennell-Bellona",
+      "type": "constituency"
+    },
+    {
+      "id": "area/savo-russells",
+      "name": "Savo-Russells",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shortlands",
+      "name": "Shortlands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/small_malaita",
+      "name": "Small Malaita",
       "type": "constituency"
     },
     {
@@ -1500,11 +1570,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/savo-russells",
-      "name": "Savo-Russells",
-      "type": "constituency"
-    },
-    {
       "id": "area/south_new_georgia-rendova-tetepari",
       "name": "South New Georgia-Rendova-Tetepari",
       "type": "constituency"
@@ -1515,43 +1580,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/north-west_choiseul",
-      "name": "North-West Choiseul",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rannonga-simbo",
-      "name": "Rannonga-Simbo",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north-east_guadalcanal",
-      "name": "North-East Guadalcanal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_kwaio",
-      "name": "East Kwaio",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_new_georgia-vona_vona",
-      "name": "West New Georgia-Vona Vona",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_kwaio",
-      "name": "West Kwaio",
-      "type": "constituency"
-    },
-    {
-      "id": "area/baegu/asifola",
-      "name": "Baegu/Asifola",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rennell-bellona",
-      "name": "Rennell-Bellona",
+      "id": "area/temotu_nende",
+      "name": "Temotu Nende",
       "type": "constituency"
     },
     {
@@ -1560,38 +1590,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/north_new_georgia",
-      "name": "North New Georgia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_malaita",
-      "name": "North Malaita",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lau-mbaelelea",
-      "name": "Lau-Mbaelelea",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_guadalcanal",
-      "name": "North Guadalcanal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hograno-kia-havulei",
-      "name": "Hograno-Kia-Havulei",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_guadalcanal",
-      "name": "East Guadalcanal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_makira",
-      "name": "West Makira",
+      "id": "area/temotu_vatud",
+      "name": "Temotu Vatud",
       "type": "constituency"
     },
     {
@@ -1600,13 +1600,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/aoke_langalanga",
-      "name": "Aoke Langalanga",
+      "id": "area/west_are’are",
+      "name": "West Are’Are",
       "type": "constituency"
     },
     {
-      "id": "area/north_vella_la_vella",
-      "name": "North Vella La Vella",
+      "id": "area/west_guadalcanal",
+      "name": "West Guadalcanal",
       "type": "constituency"
     },
     {
@@ -1615,23 +1615,23 @@
       "type": "constituency"
     },
     {
-      "id": "area/ngella",
-      "name": "Ngella",
+      "id": "area/west_kwaio",
+      "name": "West Kwaio",
       "type": "constituency"
     },
     {
-      "id": "area/temotu_vatud",
-      "name": "Temotu Vatud",
+      "id": "area/west_kwara’ae",
+      "name": "West Kwara’ae",
       "type": "constituency"
     },
     {
-      "id": "area/gizo-kolombangara",
-      "name": "Gizo-Kolombangara",
+      "id": "area/west_makira",
+      "name": "West Makira",
       "type": "constituency"
     },
     {
-      "id": "area/maringe-kokota",
-      "name": "Maringe-Kokota",
+      "id": "area/west_new_georgia-vona_vona",
+      "name": "West New Georgia-Vona Vona",
       "type": "constituency"
     }
   ]

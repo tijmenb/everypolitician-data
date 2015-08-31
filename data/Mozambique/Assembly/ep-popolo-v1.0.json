@@ -4540,33 +4540,8 @@
   ],
   "areas": [
     {
-      "id": "area/niassa",
-      "name": "NIASSA",
-      "type": "constituency"
-    },
-    {
       "id": "area/cabo_delgado",
       "name": "CABO DELGADO",
-      "type": "constituency"
-    },
-    {
-      "id": "area/inhambane",
-      "name": "INHAMBANE",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gaza",
-      "name": "GAZA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/maputo_provincia",
-      "name": "MAPUTO PROVINCIA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/maputo_cidade",
-      "name": "MAPUTO CIDADE",
       "type": "constituency"
     },
     {
@@ -4575,23 +4550,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/África",
-      "name": "ÁFRICA",
+      "id": "area/gaza",
+      "name": "GAZA",
       "type": "constituency"
     },
     {
-      "id": "area/nampula",
-      "name": "NAMPULA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/zambÉzia",
-      "name": "ZAMBÉZIA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tete",
-      "name": "TETE",
+      "id": "area/inhambane",
+      "name": "INHAMBANE",
       "type": "constituency"
     },
     {
@@ -4600,8 +4565,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/sofala",
-      "name": "SOFALA",
+      "id": "area/maputo_cidade",
+      "name": "MAPUTO CIDADE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maputo_provincia",
+      "name": "MAPUTO PROVINCIA",
       "type": "constituency"
     },
     {
@@ -4610,8 +4580,38 @@
       "type": "constituency"
     },
     {
+      "id": "area/nampula",
+      "name": "NAMPULA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/niassa",
+      "name": "NIASSA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sofala",
+      "name": "SOFALA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tete",
+      "name": "TETE",
+      "type": "constituency"
+    },
+    {
       "id": "area/zambezia",
       "name": "ZAMBEZIA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/zambÉzia",
+      "name": "ZAMBÉZIA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/África",
+      "name": "ÁFRICA",
       "type": "constituency"
     }
   ]

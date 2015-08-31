@@ -2272,63 +2272,8 @@
   ],
   "areas": [
     {
-      "id": "area/tonkolili_district,_northern_region",
-      "name": "Tonkolili District, Northern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/western_urban,_western_area",
-      "name": "Western Urban, Western Area",
-      "type": "constituency"
-    },
-    {
-      "id": "area/portloko_district,_northern_region",
-      "name": "Portloko District, Northern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kailahun_district,_eastern_region",
-      "name": "Kailahun District, Eastern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bombali_district,_northern_region",
-      "name": "Bombali District, Northern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bo_district,_southern_region",
-      "name": "Bo District, Southern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/koinadugu_district,_northern_region",
-      "name": "Koinadugu District, Northern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kambia_district,_northern_region",
-      "name": "Kambia District, Northern region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kenema_district,_eastern_region",
-      "name": "Kenema District, Eastern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moyamba_district,_southern_region",
-      "name": "Moyamba District, Southern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pujehun_district,_southern_region",
-      "name": "Pujehun District, Southern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kono_district,_eastern_region",
-      "name": "Kono District, Eastern Region",
+      "id": "area/bo_district,_nouthern_region",
+      "name": "Bo District, Nouthern Region",
       "type": "constituency"
     },
     {
@@ -2337,8 +2282,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/portloko_district,_northern",
-      "name": "Portloko District, NORTHERN",
+      "id": "area/bo_district,_southern_region",
+      "name": "Bo District, Southern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bombali_district,_northern_region",
+      "name": "Bombali District, Northern Region",
       "type": "constituency"
     },
     {
@@ -2347,33 +2297,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/western_rural,_western_area",
-      "name": "Western Rural, Western Area",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kenema_district,_eastern",
-      "name": "Kenema District, EASTERN",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bo_district,_nouthern_region",
-      "name": "Bo District, Nouthern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/western_urban,_western_rural",
-      "name": "Western Urban, Western Rural",
-      "type": "constituency"
-    },
-    {
-      "id": "area/port_loko_district,_northern_region",
-      "name": "Port Loko District, Northern Region",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sanka_iii,_tonkolili_district",
-      "name": "Sanka III, Tonkolili District",
+      "id": "area/kailahun_district,_eastern_region",
+      "name": "Kailahun District, Eastern Region",
       "type": "constituency"
     },
     {
@@ -2382,13 +2307,88 @@
       "type": "constituency"
     },
     {
-      "id": "area/sonsiama_iii,_kono_district",
-      "name": "Sonsiama III, Kono District",
+      "id": "area/kambia_district,_northern_region",
+      "name": "Kambia District, Northern region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kenema_district,_eastern",
+      "name": "Kenema District, EASTERN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kenema_district,_eastern_region",
+      "name": "Kenema District, Eastern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/koinadugu_district,_northern_region",
+      "name": "Koinadugu District, Northern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kono_district,_eastern_region",
+      "name": "Kono District, Eastern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moyamba_district,_southern_region",
+      "name": "Moyamba District, Southern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/port_loko_district,_northern_region",
+      "name": "Port Loko District, Northern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/portloko_district,_northern",
+      "name": "Portloko District, NORTHERN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/portloko_district,_northern_region",
+      "name": "Portloko District, Northern Region",
       "type": "constituency"
     },
     {
       "id": "area/portlokodistrict,_northern_region",
       "name": "PortlokoDistrict, Northern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pujehun_district,_southern_region",
+      "name": "Pujehun District, Southern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sanka_iii,_tonkolili_district",
+      "name": "Sanka III, Tonkolili District",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sonsiama_iii,_kono_district",
+      "name": "Sonsiama III, Kono District",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tonkolili_district,_northern_region",
+      "name": "Tonkolili District, Northern Region",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_rural,_western_area",
+      "name": "Western Rural, Western Area",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_urban,_western_area",
+      "name": "Western Urban, Western Area",
+      "type": "constituency"
+    },
+    {
+      "id": "area/western_urban,_western_rural",
+      "name": "Western Urban, Western Rural",
       "type": "constituency"
     }
   ]

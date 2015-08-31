@@ -16983,33 +16983,13 @@
   ],
   "areas": [
     {
-      "id": "area/naogaon",
-      "name": "Naogaon",
+      "id": "area/bagerhat",
+      "name": "Bagerhat",
       "type": "constituency"
     },
     {
-      "id": "area/panchagarh",
-      "name": "Panchagarh",
-      "type": "constituency"
-    },
-    {
-      "id": "area/thakurgaon",
-      "name": "Thakurgaon",
-      "type": "constituency"
-    },
-    {
-      "id": "area/khulna",
-      "name": "Khulna",
-      "type": "constituency"
-    },
-    {
-      "id": "area/satkhira",
-      "name": "Satkhira",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dinajpur",
-      "name": "Dinajpur",
+      "id": "area/bandarban",
+      "name": "Bandarban",
       "type": "constituency"
     },
     {
@@ -17018,8 +16998,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/patuakhali",
-      "name": "Patuakhali",
+      "id": "area/barisal",
+      "name": "Barisal",
       "type": "constituency"
     },
     {
@@ -17028,58 +17008,43 @@
       "type": "constituency"
     },
     {
-      "id": "area/barisal",
-      "name": "Barisal",
+      "id": "area/bogra",
+      "name": "Bogra",
       "type": "constituency"
     },
     {
-      "id": "area/nilphamari",
-      "name": "Nilphamari",
+      "id": "area/brahmanbaria",
+      "name": "Brahmanbaria",
       "type": "constituency"
     },
     {
-      "id": "area/pirojpur",
-      "name": "Pirojpur",
+      "id": "area/chandpur",
+      "name": "Chandpur",
       "type": "constituency"
     },
     {
-      "id": "area/tangail",
-      "name": "Tangail",
+      "id": "area/chapai_nawabganj",
+      "name": "Chapai Nawabganj",
       "type": "constituency"
     },
     {
-      "id": "area/jamalpur",
-      "name": "Jamalpur",
+      "id": "area/chittagong",
+      "name": "Chittagong",
       "type": "constituency"
     },
     {
-      "id": "area/mymensingh",
-      "name": "Mymensingh",
+      "id": "area/chuadanga",
+      "name": "Chuadanga",
       "type": "constituency"
     },
     {
-      "id": "area/netrokona",
-      "name": "Netrokona",
+      "id": "area/comilla",
+      "name": "Comilla",
       "type": "constituency"
     },
     {
-      "id": "area/kishoreganj",
-      "name": "Kishoreganj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/manikganj",
-      "name": "Manikganj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lalmonirhat",
-      "name": "Lalmonirhat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/munshiganj",
-      "name": "Munshiganj",
+      "id": "area/cox's_bazar",
+      "name": "Cox's Bazar",
       "type": "constituency"
     },
     {
@@ -17088,18 +17053,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/rangpur",
-      "name": "Rangpur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/narsingdi",
-      "name": "Narsingdi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/narayanganj",
-      "name": "Narayanganj",
+      "id": "area/dinajpur",
+      "name": "Dinajpur",
       "type": "constituency"
     },
     {
@@ -17108,8 +17063,228 @@
       "type": "constituency"
     },
     {
+      "id": "area/feni",
+      "name": "Feni",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gaibandha",
+      "name": "Gaibandha",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gazipur",
+      "name": "Gazipur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gopalgonj",
+      "name": "Gopalgonj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/habiganj",
+      "name": "Habiganj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jaipurhat",
+      "name": "Jaipurhat",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jamalpur",
+      "name": "Jamalpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jessore",
+      "name": "Jessore",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jhalokathi",
+      "name": "Jhalokathi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jhenaidah",
+      "name": "Jhenaidah",
+      "type": "constituency"
+    },
+    {
+      "id": "area/khagrachhari",
+      "name": "Khagrachhari",
+      "type": "constituency"
+    },
+    {
+      "id": "area/khulna",
+      "name": "Khulna",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kishoreganj",
+      "name": "Kishoreganj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kurigram",
+      "name": "Kurigram",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kushtia",
+      "name": "Kushtia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lalmonirhat",
+      "name": "Lalmonirhat",
+      "type": "constituency"
+    },
+    {
+      "id": "area/laxmipur",
+      "name": "Laxmipur",
+      "type": "constituency"
+    },
+    {
       "id": "area/madaripur",
       "name": "Madaripur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/magura_",
+      "name": "Magura ",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manikganj",
+      "name": "Manikganj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maulvibazar",
+      "name": "Maulvibazar",
+      "type": "constituency"
+    },
+    {
+      "id": "area/meherpur",
+      "name": "Meherpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/munshiganj",
+      "name": "Munshiganj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mymensingh",
+      "name": "Mymensingh",
+      "type": "constituency"
+    },
+    {
+      "id": "area/naogaon",
+      "name": "Naogaon",
+      "type": "constituency"
+    },
+    {
+      "id": "area/narail",
+      "name": "Narail",
+      "type": "constituency"
+    },
+    {
+      "id": "area/narayanganj",
+      "name": "Narayanganj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/narsingdi",
+      "name": "Narsingdi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/natore",
+      "name": "Natore",
+      "type": "constituency"
+    },
+    {
+      "id": "area/netrokona",
+      "name": "Netrokona",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nilphamari",
+      "name": "Nilphamari",
+      "type": "constituency"
+    },
+    {
+      "id": "area/noakhali",
+      "name": "Noakhali",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pabna",
+      "name": "Pabna",
+      "type": "constituency"
+    },
+    {
+      "id": "area/panchagarh",
+      "name": "Panchagarh",
+      "type": "constituency"
+    },
+    {
+      "id": "area/patuakhali",
+      "name": "Patuakhali",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pirojpur",
+      "name": "Pirojpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rajbari",
+      "name": "Rajbari",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rajshahi",
+      "name": "Rajshahi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rangamati",
+      "name": "Rangamati",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rangpur",
+      "name": "Rangpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/satkhira",
+      "name": "Satkhira",
+      "type": "constituency"
+    },
+    {
+      "id": "area/seat",
+      "name": "Seat",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shariatpur",
+      "name": "Shariatpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sherpur",
+      "name": "Sherpur",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sirajganj",
+      "name": "Sirajganj",
       "type": "constituency"
     },
     {
@@ -17123,188 +17298,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/maulvibazar",
-      "name": "Maulvibazar",
+      "id": "area/tangail",
+      "name": "Tangail",
       "type": "constituency"
     },
     {
-      "id": "area/habiganj",
-      "name": "Habiganj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/brahmanbaria",
-      "name": "Brahmanbaria",
-      "type": "constituency"
-    },
-    {
-      "id": "area/comilla",
-      "name": "Comilla",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kurigram",
-      "name": "Kurigram",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chandpur",
-      "name": "Chandpur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/feni",
-      "name": "Feni",
-      "type": "constituency"
-    },
-    {
-      "id": "area/noakhali",
-      "name": "Noakhali",
-      "type": "constituency"
-    },
-    {
-      "id": "area/laxmipur",
-      "name": "Laxmipur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chittagong",
-      "name": "Chittagong",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gaibandha",
-      "name": "Gaibandha",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cox's_bazar",
-      "name": "Cox's Bazar",
-      "type": "constituency"
-    },
-    {
-      "id": "area/khagrachhari",
-      "name": "Khagrachhari",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rangamati",
-      "name": "Rangamati",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bandarban",
-      "name": "Bandarban",
-      "type": "constituency"
-    },
-    {
-      "id": "area/seat",
-      "name": "Seat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/jaipurhat",
-      "name": "Jaipurhat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bogra",
-      "name": "Bogra",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chapai_nawabganj",
-      "name": "Chapai Nawabganj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rajshahi",
-      "name": "Rajshahi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/natore",
-      "name": "Natore",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sirajganj",
-      "name": "Sirajganj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/pabna",
-      "name": "Pabna",
-      "type": "constituency"
-    },
-    {
-      "id": "area/meherpur",
-      "name": "Meherpur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kushtia",
-      "name": "Kushtia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/jhenaidah",
-      "name": "Jhenaidah",
-      "type": "constituency"
-    },
-    {
-      "id": "area/jessore",
-      "name": "Jessore",
-      "type": "constituency"
-    },
-    {
-      "id": "area/magura_",
-      "name": "Magura ",
-      "type": "constituency"
-    },
-    {
-      "id": "area/narail",
-      "name": "Narail",
-      "type": "constituency"
-    },
-    {
-      "id": "area/bagerhat",
-      "name": "Bagerhat",
-      "type": "constituency"
-    },
-    {
-      "id": "area/chuadanga",
-      "name": "Chuadanga",
-      "type": "constituency"
-    },
-    {
-      "id": "area/jhalokathi",
-      "name": "Jhalokathi",
-      "type": "constituency"
-    },
-    {
-      "id": "area/sherpur",
-      "name": "Sherpur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gazipur",
-      "name": "Gazipur",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rajbari",
-      "name": "Rajbari",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gopalgonj",
-      "name": "Gopalgonj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/shariatpur",
-      "name": "Shariatpur",
+      "id": "area/thakurgaon",
+      "name": "Thakurgaon",
       "type": "constituency"
     }
   ]

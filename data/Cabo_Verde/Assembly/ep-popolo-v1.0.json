@@ -1366,23 +1366,8 @@
   ],
   "areas": [
     {
-      "id": "area/sal",
-      "name": "Sal",
-      "type": "constituency"
-    },
-    {
-      "id": "area/são_vicente",
-      "name": "São Vicente",
-      "type": "constituency"
-    },
-    {
-      "id": "area/santiago_sul",
-      "name": "Santiago Sul",
-      "type": "constituency"
-    },
-    {
-      "id": "area/brava",
-      "name": "Brava",
+      "id": "area/américa",
+      "name": "América",
       "type": "constituency"
     },
     {
@@ -1391,8 +1376,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/fogo",
-      "name": "Fogo",
+      "id": "area/brava",
+      "name": "Brava",
       "type": "constituency"
     },
     {
@@ -1401,8 +1386,28 @@
       "type": "constituency"
     },
     {
+      "id": "area/fogo",
+      "name": "Fogo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maio",
+      "name": "Maio",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sal",
+      "name": "Sal",
+      "type": "constituency"
+    },
+    {
       "id": "area/santiago_norte",
       "name": "Santiago Norte",
+      "type": "constituency"
+    },
+    {
+      "id": "area/santiago_sul",
+      "name": "Santiago Sul",
       "type": "constituency"
     },
     {
@@ -1416,18 +1421,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/américa",
-      "name": "América",
+      "id": "area/são_vicente",
+      "name": "São Vicente",
       "type": "constituency"
     },
     {
       "id": "area/África",
       "name": "África",
-      "type": "constituency"
-    },
-    {
-      "id": "area/maio",
-      "name": "Maio",
       "type": "constituency"
     }
   ]

@@ -740,18 +740,13 @@
   ],
   "areas": [
     {
-      "id": "area/circumscripció_parroquial",
-      "name": "Circumscripció parroquial",
-      "type": "constituency"
-    },
-    {
-      "id": "area/circumscripció_parroquial_d'encamp",
-      "name": "Circumscripció parroquial d'Encamp",
-      "type": "constituency"
-    },
-    {
       "id": "area/circumscripció_nacional",
       "name": "Circumscripció nacional",
+      "type": "constituency"
+    },
+    {
+      "id": "area/circumscripció_parroquial",
+      "name": "Circumscripció parroquial",
       "type": "constituency"
     },
     {
@@ -760,13 +755,18 @@
       "type": "constituency"
     },
     {
-      "id": "area/circumscripció_parroquial_d'ordino",
-      "name": "Circumscripció parroquial d'Ordino",
+      "id": "area/circumscripció_parroquial_d'encamp",
+      "name": "Circumscripció parroquial d'Encamp",
       "type": "constituency"
     },
     {
       "id": "area/circumscripció_parroquial_d'escaldes-engordany",
       "name": "Circumscripció parroquial d'Escaldes-Engordany",
+      "type": "constituency"
+    },
+    {
+      "id": "area/circumscripció_parroquial_d'ordino",
+      "name": "Circumscripció parroquial d'Ordino",
       "type": "constituency"
     }
   ]
