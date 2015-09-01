@@ -1771,6 +1771,32 @@
     ]
   },
   {
+    "name": "Gambia",
+    "country": "Gambia",
+    "code": "GM",
+    "slug": "Gambia",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Gambia/National_Assembly/sources",
+        "popolo": "data/Gambia/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441113513",
+        "person_count": 53,
+        "sha": "f01180a",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Gambia/National_Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Georgia",
     "country": "Georgia",
     "code": "GE",
