@@ -20,6 +20,22 @@
         "existing_field": "id"
       },
       "type": "person"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/estonia-riigikogu-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 100
+      }
     }
+    
   ]
 }
