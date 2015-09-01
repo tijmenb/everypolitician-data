@@ -1758,7 +1758,7 @@
     },
     {
       "birth_date": "1977-11-24",
-      "id": "person/mihhail_kõlvart",
+      "id": "person/mihhail-kõlvart",
       "name": "Mihhail Kõlvart"
     },
     {
@@ -1875,6 +1875,12 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/db899d3d-cf2e-466f-844d-940ec162ed9a/Olga-Ivanova"
         }
       ]
+    },
+    {
+      "birth_date": "1953-06-11",
+      "email": "Peeter.Ernits@riigikogu.ee",
+      "id": "person/f8a770b2-916c-4172-84b3-005ba9906a18",
+      "name": "Peeter Ernits"
     },
     {
       "birth_date": "1977-12-31",
@@ -2211,10 +2217,20 @@
       ]
     },
     {
+      "birth_date": "1971-03-17",
+      "id": "person/urmas-klaas",
+      "name": "Urmas Klaas"
+    },
+    {
       "birth_date": "1965-07-14",
       "email": "Urmas.Kruuse@riigikogu.ee",
       "id": "person/4a332fbb-be05-4cb2-b6a0-5916eb40fe89",
       "name": "Urmas Kruuse"
+    },
+    {
+      "birth_date": "1974-04-20",
+      "id": "person/urmas-paet",
+      "name": "Urmas Paet"
     },
     {
       "birth_date": "1975-06-22",
@@ -2388,6 +2404,11 @@
           "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/e0767645-54aa-4084-9dd3-ed196172dabb/Vladimir-Velman"
         }
       ]
+    },
+    {
+      "birth_date": "1966-10-15",
+      "id": "person/yana-toom",
+      "name": "Yana Toom"
     },
     {
       "birth_date": "1979-06-13",
@@ -2749,7 +2770,7 @@
     {
       "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
       "legislative_period_id": "term/13",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "SDE",
       "organization_id": "legislature",
       "person_id": "person/5388e0b7-83d8-4c7c-8cfd-084a225d0c5f",
       "role": "member"
@@ -3321,6 +3342,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "legislature",
+      "person_id": "person/e87a03b8-08cf-4b88-8a28-f26da1d65e30",
+      "role": "member",
+      "start_date": "2015-07-16"
+    },
+    {
       "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa_",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
@@ -3370,12 +3400,22 @@
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+      "end_date": "2015-07-15",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "RE",
       "organization_id": "legislature",
       "person_id": "person/f70a1d6a-aa98-4a6b-9ffb-ff2f45f9739c",
       "role": "member",
       "start_date": "2015-04-09"
+    },
+    {
+      "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa_",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "person/f8a770b2-916c-4172-84b3-005ba9906a18",
+      "role": "member",
+      "start_date": "2015-08-06"
     },
     {
       "area_id": "area/lääne-virumaa",
@@ -3388,6 +3428,7 @@
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa_",
+      "end_date": "2015-08-05",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
@@ -3418,7 +3459,34 @@
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "legislature",
-      "person_id": "person/mihhail_kõlvart",
+      "person_id": "person/mihhail-kõlvart",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tartu_linn",
+      "end_date": "2015-03-27",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "legislature",
+      "person_id": "person/urmas-klaas",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+      "end_date": "2015-03-27",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "RE",
+      "organization_id": "legislature",
+      "person_id": "person/urmas-paet",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ida-virumaa",
+      "end_date": "2015-03-27",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "KESK",
+      "organization_id": "legislature",
+      "person_id": "person/yana-toom",
       "role": "member"
     }
   ],
