@@ -40,7 +40,10 @@ def fetch_missing
     unless File.exist? i[:file]
       c = i[:create]
       FileUtils.mkpath File.dirname i[:file]
-      if c[:type] == 'morph'
+      if c.key? :url
+        warn "Fetching #{c[:url]}"
+        IO.copy_stream(open(c[:url]), i[:file])
+      elsif c[:type] == 'morph'
         data = morph_select(c[:scraper], c[:query])
         File.write(i[:file], data)
       elsif c[:type] == 'ocd'
