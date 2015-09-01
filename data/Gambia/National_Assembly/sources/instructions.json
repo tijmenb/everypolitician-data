@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/gambia-parliament",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.assembly.gov.gm/",
+      "type": "membership"
+    }
+  ]
+}
