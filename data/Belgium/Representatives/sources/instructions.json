@@ -10,7 +10,7 @@
       "source": "https://nl.wikipedia.org/",
       "type": "membership"
     },
-    {
+  {
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
@@ -24,6 +24,19 @@
         "existing_field": "name",
         "amatch_threshold": 80,
         "amatch_warning": 100
+      }
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/belgium-represenatives-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name__nl",
+        "existing_field": "wikiname__nl"
       }
     },
     {

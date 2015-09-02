@@ -1,7 +1,10 @@
 {
   "persons": [
     {
+      "birth_date": "1969-12-08",
       "email": "eb.erbmahcal@jeuoaal.demha",
+      "gender": "male",
+      "given_name": "Ahmed",
       "id": "person/06461",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06461.gif",
       "images": [
@@ -24,7 +27,10 @@
       ]
     },
     {
+      "birth_date": "1972-08-29",
       "email": "eb.erbmahcal@tohtam.niala",
+      "gender": "male",
+      "given_name": "Alain",
       "id": "person/01051",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01051.gif",
       "images": [
@@ -47,7 +53,10 @@
       ]
     },
     {
+      "birth_date": "1965-12-21",
       "email": "eb.remaked@pot.niala",
+      "gender": "male",
+      "given_name": "Alain",
       "id": "person/06109",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06109.gif",
       "images": [
@@ -64,7 +73,10 @@
       ]
     },
     {
+      "birth_date": "1949-10-30",
       "email": "eb.erbmahcal@icacrac.odla",
+      "gender": "male",
+      "given_name": "Aldo",
       "id": "person/06749",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06749.gif",
       "images": [
@@ -81,11 +93,28 @@
       ]
     },
     {
-      "id": "person/alexander_de_croo",
+      "birth_date": "1975-11-03",
+      "gender": "male",
+      "given_name": "Alexander",
+      "id": "person/Q476596",
+      "identifiers": [
+        {
+          "identifier": "/m/09k5z0r",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Alexander_de_croo_675.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Alexander_de_croo_675.jpg"
+        }
+      ],
       "name": "Alexander De Croo"
     },
     {
+      "birth_date": "1982-09-20",
       "email": "eb.remaked@neopac.na",
+      "gender": "female",
       "id": "person/06796",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06796.gif",
       "images": [
@@ -108,11 +137,35 @@
       ]
     },
     {
-      "id": "person/andré_flahaut",
+      "birth_date": "1955-08-18",
+      "gender": "male",
+      "given_name": "André",
+      "id": "person/Q518520",
+      "identifiers": [
+        {
+          "identifier": "/m/0krs8t",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flahaut_010618-D-2987S-093_screen.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flahaut_010618-D-2987S-093_screen.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.flahaut.be/"
+        }
+      ],
       "name": "André Flahaut"
     },
     {
+      "birth_date": "1958-07-04",
       "email": "eb.erbmahcal@cirederf.erdna",
+      "gender": "male",
+      "given_name": "André",
       "id": "person/00889",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00889.gif",
       "images": [
@@ -135,7 +188,10 @@
       ]
     },
     {
+      "birth_date": "1969-03-05",
       "email": "eb.remaked@etsehnav.nna",
+      "gender": "female",
+      "given_name": "Ann",
       "id": "person/06106",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06106.gif",
       "images": [
@@ -158,7 +214,10 @@
       ]
     },
     {
+      "birth_date": "1956-12-30",
       "email": "eb.remaked@yrded.enna",
+      "gender": "female",
+      "given_name": "Anne",
       "id": "person/06813",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06813.gif",
       "images": [
@@ -175,11 +234,33 @@
       ]
     },
     {
-      "id": "person/annemie_turtelboom",
+      "birth_date": "1967-11-22",
+      "gender": "female",
+      "given_name": "Annemie",
+      "id": "person/Q454893",
+      "identifiers": [
+        {
+          "identifier": "/m/0gjc22b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "316748807",
+          "scheme": "viaf"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg"
+        }
+      ],
       "name": "Annemie Turtelboom"
     },
     {
+      "birth_date": "1981-03-01",
       "email": "eb.remaked@sap.arabrab",
+      "gender": "female",
+      "given_name": "Barbara",
       "id": "person/01236",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01236.gif",
       "images": [
@@ -202,8 +283,45 @@
       ]
     },
     {
+      "birth_date": "1970-12-21",
       "email": "eb.remaked@revewed.trab",
+      "gender": "male",
+      "given_name": "Bart",
       "id": "person/01200",
+      "identifiers": [
+        {
+          "identifier": "/m/03cvxs9",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "68311856",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "1022898671",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2003110408",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "159187990",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "nm3391515",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "244701083",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "00000029429",
+          "scheme": "munzinger"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01200.gif",
       "images": [
         {
@@ -219,7 +337,10 @@
       ]
     },
     {
+      "birth_date": "1978-07-07",
       "email": "eb.erbmahcal@sgnilleh.tioneb",
+      "gender": "male",
+      "given_name": "Benoit",
       "id": "person/01303",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01303.gif",
       "images": [
@@ -242,7 +363,10 @@
       ]
     },
     {
+      "birth_date": "1963-09-18",
       "email": "eb.erbmahcal@apsid.tioneb",
+      "gender": "male",
+      "given_name": "Benoît",
       "id": "person/06435",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06435.gif",
       "images": [
@@ -259,7 +383,10 @@
       ]
     },
     {
+      "birth_date": "1951-01-01",
       "email": "eb.erbmahcal@trairf.tioneb",
+      "gender": "male",
+      "given_name": "Benoît",
       "id": "person/06663",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06663.gif",
       "images": [
@@ -282,8 +409,17 @@
       ]
     },
     {
+      "birth_date": "1970-03-10",
       "email": "eb.erbmahcal@negtul.tioneb",
+      "gender": "male",
+      "given_name": "Benoît",
       "id": "person/01145",
+      "identifiers": [
+        {
+          "identifier": "/m/0j431m6",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01145.gif",
       "images": [
         {
@@ -322,7 +458,10 @@
       ]
     },
     {
+      "birth_date": "1979-08-30",
       "email": "eb.remaked@stnallow.treb",
+      "gender": "male",
+      "given_name": "Bert",
       "id": "person/06147",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06147.gif",
       "images": [
@@ -345,7 +484,11 @@
       ]
     },
     {
+      "birth_date": "1969-06-17",
       "email": "eb.remaked@neluemrev.thcerb",
+      "family_name": "Vermeulen",
+      "gender": "male",
+      "given_name": "Brecht",
       "id": "person/06793",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06793.gif",
       "images": [
@@ -391,7 +534,10 @@
       ]
     },
     {
+      "birth_date": "1973-06-01",
       "email": "eb.erbmahcal@xuelliam.enilorac",
+      "gender": "female",
+      "given_name": "Caroline",
       "id": "person/06385",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06385.gif",
       "images": [
@@ -414,7 +560,10 @@
       ]
     },
     {
+      "birth_date": "1968-09-22",
       "email": "eb.erbmahcal@kcnof.enirehtac",
+      "gender": "female",
+      "given_name": "Catherine",
       "id": "person/01076",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01076.gif",
       "images": [
@@ -431,11 +580,45 @@
       ]
     },
     {
-      "id": "person/charles_michel",
+      "birth_date": "1975-12-21",
+      "family_name": "Michel",
+      "gender": "male",
+      "given_name": "Charles",
+      "id": "person/Q950958",
+      "identifiers": [
+        {
+          "identifier": "/m/03g_mtk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "27309063",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "14567697c",
+          "scheme": "bnf"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Charles_Michel_UNDP_2010.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Charles_Michel_UNDP_2010.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.charlesmichel.be"
+        }
+      ],
       "name": "Charles Michel"
     },
     {
+      "birth_date": "2003-01-01",
+      "death_date": "2007-01-01",
       "email": "eb.erbmahcal@enroctorb.naitsirhc",
+      "gender": "male",
+      "given_name": "Christian",
       "id": "person/01094",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01094.gif",
       "images": [
@@ -458,7 +641,10 @@
       ]
     },
     {
+      "birth_date": "1967-02-25",
       "email": "eb.remaked@eseahd.hpotsirhc",
+      "gender": "male",
+      "given_name": "Christoph",
       "id": "person/06907",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06907.gif",
       "images": [
@@ -475,11 +661,23 @@
       ]
     },
     {
-      "id": "person/céline_fremault",
+      "birth_date": "1973-12-26",
+      "gender": "female",
+      "given_name": "Céline",
+      "id": "person/Q3010154",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Céline_Fremault_2012.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Céline_Fremault_2012.jpg"
+        }
+      ],
       "name": "Céline Fremault"
     },
     {
+      "birth_date": "1963-05-21",
       "email": "eb.erbmahcal@yreiht.neimad",
+      "gender": "male",
+      "given_name": "Damien",
       "id": "person/06219",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06219.gif",
       "images": [
@@ -502,11 +700,29 @@
       ]
     },
     {
-      "id": "person/daniel_bacquelaine",
+      "birth_date": "1952-10-30",
+      "gender": "male",
+      "given_name": "Daniel",
+      "id": "person/Q2949528",
+      "identifiers": [
+        {
+          "identifier": "284856431",
+          "scheme": "viaf"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2014-12-02_DB_Wavre.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/2014-12-02_DB_Wavre.jpg"
+        }
+      ],
       "name": "Daniel Bacquelaine"
     },
     {
+      "birth_date": "1957-01-13",
       "email": "eb.erbmahcal@leasenes.leinad",
+      "gender": "male",
+      "given_name": "Daniel",
       "id": "person/06682",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06682.gif",
       "images": [
@@ -529,8 +745,17 @@
       ]
     },
     {
+      "birth_date": "1974-01-04",
       "email": "eb.remaked@yremud.enhpad",
+      "gender": "female",
+      "given_name": "Daphné",
       "id": "person/06086",
+      "identifiers": [
+        {
+          "identifier": "/m/0cm8xq5",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06086.gif",
       "images": [
         {
@@ -552,7 +777,10 @@
       ]
     },
     {
+      "birth_date": "1976-01-10",
       "email": "eb.erbmahcal@lavniralc.divad",
+      "gender": "male",
+      "given_name": "David",
       "id": "person/01259",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01259.gif",
       "images": [
@@ -575,7 +803,10 @@
       ]
     },
     {
+      "birth_date": "1975-04-17",
       "email": "eb.remaked@streeg.divad",
+      "gender": "male",
+      "given_name": "David",
       "id": "person/01127",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01127.gif",
       "images": [
@@ -598,8 +829,21 @@
       ]
     },
     {
+      "birth_date": "1973-10-23",
       "email": "eb.erbmahcal@emracud.sined",
+      "gender": "male",
+      "given_name": "Denis",
       "id": "person/01056",
+      "identifiers": [
+        {
+          "identifier": "83490615",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "n2009017008",
+          "scheme": "lcauth"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01056.gif",
       "images": [
         {
@@ -621,11 +865,46 @@
       ]
     },
     {
-      "id": "person/didier_reynders",
+      "birth_date": "1958-08-06",
+      "gender": "male",
+      "given_name": "Didier",
+      "id": "person/Q978208",
+      "identifiers": [
+        {
+          "identifier": "/m/0krxss",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "90481835",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "nb2009014250",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "117379409",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "375870865",
+          "scheme": "nta"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Didier_Reynders_par_Claude_Truong-Ngoc_avril_2015.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Didier_Reynders_par_Claude_Truong-Ngoc_avril_2015.jpg"
+        }
+      ],
       "name": "Didier Reynders"
     },
     {
+      "birth_date": "1963-03-28",
       "email": "eb.remaked@snessnaj.krid",
+      "family_name": "Janssens",
+      "gender": "male",
+      "given_name": "Dirk",
       "id": "person/06824",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6824.gif",
       "images": [
@@ -642,8 +921,17 @@
       ]
     },
     {
+      "birth_date": "1957-08-27",
       "email": "eb.remaked@nelehcemnav.krid",
+      "gender": "male",
+      "given_name": "Dirk",
       "id": "person/00454",
+      "identifiers": [
+        {
+          "identifier": "/m/0c96mr",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00454.gif",
       "images": [
         {
@@ -665,7 +953,10 @@
       ]
     },
     {
+      "birth_date": "1953-03-14",
       "email": "eb.remaked@neleamrednav.krid",
+      "gender": "male",
+      "given_name": "Dirk",
       "id": "person/00565",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00565.gif",
       "images": [
@@ -688,7 +979,10 @@
       ]
     },
     {
+      "birth_date": "1977-07-04",
       "email": "eb.remaked@treahcal.trebge",
+      "gender": "male",
+      "given_name": "Egbert",
       "id": "person/06884",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06884.gif",
       "images": [
@@ -711,8 +1005,45 @@
       ]
     },
     {
+      "birth_date": "1951-07-18",
       "email": "eb.erbmahcal@opurid.oile",
+      "gender": "male",
+      "given_name": "Elio",
       "id": "person/00439",
+      "identifiers": [
+        {
+          "identifier": "/m/01hgwl",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "4426085",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "102400578X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb99001197",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "16530359X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "00000028949",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "1294",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "vi5sadm4vbzb",
+          "scheme": "parlement"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00439.gif",
       "images": [
         {
@@ -728,7 +1059,10 @@
       ]
     },
     {
+      "birth_date": "1969-03-07",
       "email": "eb.remaked@foohnav.sle",
+      "gender": "female",
+      "given_name": "Els",
       "id": "person/06852",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6852.gif",
       "images": [
@@ -751,7 +1085,9 @@
       ]
     },
     {
+      "birth_date": "1968-10-17",
       "email": "eb.erbmahcal@rik.rime",
+      "gender": "male",
       "id": "person/06645",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06645.gif",
       "images": [
@@ -774,7 +1110,10 @@
       ]
     },
     {
+      "birth_date": "1973-01-14",
       "email": "eb.erbmahcal@notrub.leunamme",
+      "gender": "male",
+      "given_name": "Emmanuel",
       "id": "person/O1057",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O1057.gif",
       "images": [
@@ -791,7 +1130,10 @@
       ]
     },
     {
+      "birth_date": "1963-06-09",
       "email": "eb.erbmahcal@nissam.cire",
+      "gender": "male",
+      "given_name": "Éric",
       "id": "person/01050",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01050.gif",
       "images": [
@@ -831,8 +1173,33 @@
       ]
     },
     {
+      "birth_date": "1949-11-23",
       "email": "eb.remaked@yupmornav.cire",
+      "gender": "male",
+      "given_name": "Eric",
       "id": "person/00090",
+      "identifiers": [
+        {
+          "identifier": "/m/02q80b7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "246621219",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "n88625258",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "07148437X",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "672",
+          "scheme": "europarlmep"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00090.gif",
       "images": [
         {
@@ -854,7 +1221,10 @@
       ]
     },
     {
+      "birth_date": "1981-10-11",
       "email": "eb.remaked@trealliw.ative",
+      "gender": "female",
+      "given_name": "Evita",
       "id": "person/06861",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06861.gif",
       "images": [
@@ -877,7 +1247,10 @@
       ]
     },
     {
+      "birth_date": "1975-12-14",
       "email": "eb.erbmahcal@lekcniw.enneibaf",
+      "gender": "female",
+      "given_name": "Fabienne",
       "id": "person/06455",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06455.gif",
       "images": [
@@ -894,8 +1267,17 @@
       ]
     },
     {
+      "birth_date": "1957-09-01",
       "email": "eb.remaked@navilhep.amtaf",
+      "gender": "female",
+      "given_name": "Fatma",
       "id": "person/01002",
+      "identifiers": [
+        {
+          "identifier": "16608680",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01002.gif",
       "images": [
         {
@@ -911,8 +1293,25 @@
       ]
     },
     {
+      "birth_date": "1962-09-11",
       "email": "eb.remaked@retniwed.pilif",
+      "gender": "male",
+      "given_name": "Filip",
       "id": "person/00472",
+      "identifiers": [
+        {
+          "identifier": "/m/040_c2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "55199279",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "12844875X",
+          "scheme": "gnd"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00472.gif",
       "images": [
         {
@@ -934,8 +1333,45 @@
       ]
     },
     {
+      "birth_date": "1942-01-14",
       "email": "eb.erbmahcal@eerepled.sicnarf",
+      "gender": "male",
+      "given_name": "Francis",
       "id": "person/01134",
+      "identifiers": [
+        {
+          "identifier": "/m/064m1jm",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "54180402",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "101242717X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n81119527",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "029597021",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "068339828",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "12118925k",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0001 2026 0043",
+          "scheme": "isni"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01134.gif",
       "images": [
         {
@@ -957,7 +1393,10 @@
       ]
     },
     {
+      "birth_date": "1965-04-25",
       "email": "eb.remaked@xcyrliw.knarf",
+      "gender": "male",
+      "given_name": "Frank",
       "id": "person/04491",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/04491.gif",
       "images": [
@@ -980,7 +1419,9 @@
       ]
     },
     {
+      "birth_date": "1976-06-28",
       "email": "eb.remaked@nomed.yknarf",
+      "gender": "male",
       "id": "person/06805",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06805.gif",
       "images": [
@@ -1003,7 +1444,10 @@
       ]
     },
     {
+      "birth_date": "1960-06-18",
       "email": "eb.erbmahcal@snampehcs.esiocnarf",
+      "gender": "female",
+      "given_name": "Françoise",
       "id": "person/01083",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01083.gif",
       "images": [
@@ -1026,12 +1470,45 @@
       ]
     },
     {
+      "birth_date": "1970-01-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "fredericdaerden"
+        }
+      ],
       "email": "eb.erbmahcal@nedread.cirederf",
+      "gender": "male",
+      "given_name": "Frédéric",
       "id": "person/06731",
+      "identifiers": [
+        {
+          "identifier": "48622737",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "1061015351",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2004092367",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "97125",
+          "scheme": "europarlmep"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06731.gif",
       "images": [
         {
           "url": "http://www.lachambre.be/site/wwwroot/images/cv/06731.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "frederic.daerden.5"
         }
       ],
       "name": "Frédéric Daerden",
@@ -1043,7 +1520,10 @@
       ]
     },
     {
+      "birth_date": "1958-01-17",
       "email": "eb.erbmahcal@engamellad.segroeg",
+      "gender": "male",
+      "given_name": "Georges",
       "id": "person/00951",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/951.gif",
       "images": [
@@ -1066,7 +1546,10 @@
       ]
     },
     {
+      "birth_date": "1971-01-25",
       "email": "eb.erbmahcal@teniklig.segroeg",
+      "gender": "male",
+      "given_name": "Georges",
       "id": "person/01205",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01205.gif",
       "images": [
@@ -1083,7 +1566,10 @@
       ]
     },
     {
+      "birth_date": "1978-03-17",
       "email": "eb.erbmahcal@terof.sellig",
+      "gender": "male",
+      "given_name": "Gilles",
       "id": "person/06712",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06712.gif",
       "images": [
@@ -1107,6 +1593,7 @@
     },
     {
       "email": "eb.erbmahcal@errubnednav.sellig",
+      "given_name": "Gilles",
       "id": "person/06638",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6638.gif",
       "images": [
@@ -1129,7 +1616,9 @@
       ]
     },
     {
+      "birth_date": "1980-10-17",
       "email": "eb.remaked@torpsrettyu.eledeog",
+      "gender": "female",
       "id": "person/O1388",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O1388.gif",
       "images": [
@@ -1152,7 +1641,9 @@
       ]
     },
     {
+      "birth_date": "1977-06-10",
       "email": "eb.remaked@sreams.teirg",
+      "gender": "female",
       "id": "person/06122",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06122.gif",
       "images": [
@@ -1175,7 +1666,10 @@
       ]
     },
     {
+      "birth_date": "1978-10-16",
       "email": "eb.erbmahcal@suinovorg.elleanewg",
+      "gender": "female",
+      "given_name": "Gwenaëlle",
       "id": "person/06018",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06018.gif",
       "images": [
@@ -1192,8 +1686,21 @@
       ]
     },
     {
+      "birth_date": "1962-01-20",
       "email": "eb.remaked@etnob.snah",
+      "gender": "male",
+      "given_name": "Hans",
       "id": "person/00837",
+      "identifiers": [
+        {
+          "identifier": "/m/0s8xtx2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "55850015",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00837.gif",
       "images": [
         {
@@ -1209,8 +1716,17 @@
       ]
     },
     {
+      "birth_date": "1968-08-30",
       "email": "eb.remaked@treagob.kirdneh",
+      "gender": "male",
+      "given_name": "Hendrik",
       "id": "person/01039",
+      "identifiers": [
+        {
+          "identifier": "/m/02z1_3d",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01039.gif",
       "images": [
         {
@@ -1232,8 +1748,21 @@
       ]
     },
     {
+      "birth_date": "1962-01-22",
       "email": "eb.remaked@eyuv.kirdneh",
+      "gender": "male",
+      "given_name": "Hendrik",
       "id": "person/06840",
+      "identifiers": [
+        {
+          "identifier": "261141581",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "1026504368",
+          "scheme": "gnd"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06840.gif",
       "images": [
         {
@@ -1255,7 +1784,10 @@
       ]
     },
     {
+      "birth_date": "1971-06-13",
       "email": "eb.remaked@sremos.eni",
+      "gender": "female",
+      "given_name": "Ine",
       "id": "person/01284",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01284.gif",
       "images": [
@@ -1278,7 +1810,10 @@
       ]
     },
     {
+      "birth_date": "1977-08-10",
       "email": "eb.remaked@kcninoced.zeni",
+      "gender": "female",
+      "given_name": "Inez",
       "id": "person/06842",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06842.gif",
       "images": [
@@ -1301,7 +1836,10 @@
       ]
     },
     {
+      "birth_date": "1967-03-13",
       "email": "eb.erbmahcal@telecnop.ellebasi",
+      "gender": "female",
+      "given_name": "Isabelle",
       "id": "person/O2466",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O2466.gif",
       "images": [
@@ -1318,11 +1856,37 @@
       ]
     },
     {
-      "id": "person/jan_jambon",
+      "birth_date": "1960-04-26",
+      "gender": "male",
+      "given_name": "Jan",
+      "id": "person/Q1865725",
+      "identifiers": [
+        {
+          "identifier": "58327911",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "n95063496",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "108592219",
+          "scheme": "nta"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jan_Jambon.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jan_Jambon.jpg"
+        }
+      ],
       "name": "Jan Jambon"
     },
     {
+      "birth_date": "1964-01-12",
       "email": "eb.remaked@sirnep.naj",
+      "gender": "male",
+      "given_name": "Jan",
       "id": "person/06183",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06183.gif",
       "images": [
@@ -1346,6 +1910,8 @@
     },
     {
       "email": "eb.remaked@neroops.naj",
+      "gender": "male",
+      "given_name": "Jan",
       "id": "person/06841",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06841.gif",
       "images": [
@@ -1385,7 +1951,10 @@
       ]
     },
     {
+      "birth_date": "1955-07-19",
       "email": "eb.erbmahcal@xuahalf.seuqcaj-naej",
+      "gender": "male",
+      "given_name": "Jean-Jacques",
       "id": "person/01203",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01203.gif",
       "images": [
@@ -1408,7 +1977,10 @@
       ]
     },
     {
+      "birth_date": "1959-07-30",
       "email": "eb.erbmahcal@eeziled.cram-naej",
+      "gender": "male",
+      "given_name": "Jean-Marc",
       "id": "person/00746",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00746.gif",
       "images": [
@@ -1431,7 +2003,10 @@
       ]
     },
     {
+      "birth_date": "1970-01-07",
       "email": "eb.erbmahcal@tellon.cram-naej",
+      "gender": "male",
+      "given_name": "Jean-Marc",
       "id": "person/01016",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01016.gif",
       "images": [
@@ -1454,7 +2029,10 @@
       ]
     },
     {
+      "birth_date": "1973-02-05",
       "email": "eb.remaked@hgrebnednav.fej",
+      "gender": "male",
+      "given_name": "Jef",
       "id": "person/01131",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01131.gif",
       "images": [
@@ -1477,7 +2055,10 @@
       ]
     },
     {
+      "birth_date": "1970-08-19",
       "email": "eb.remaked@spalk.nahoj",
+      "gender": "male",
+      "given_name": "Johan",
       "id": "person/06593",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6593.gif",
       "images": [
@@ -1500,12 +2081,47 @@
       ]
     },
     {
+      "birth_date": "1955-07-06",
       "email": "eb.remaked@ettonalednav.nahoj",
+      "gender": "male",
+      "given_name": "Johan",
       "id": "person/00657",
+      "identifiers": [
+        {
+          "identifier": "/m/025x9sy",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "264986993",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "1026535816",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n85102123",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "060555661",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "071202080",
+          "scheme": "nta"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00657.gif",
       "images": [
         {
           "url": "http://www.lachambre.be/site/wwwroot/images/cv/00657.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.johanvandelanotte.be/"
         }
       ],
       "name": "Johan Vande Lanotte",
@@ -1517,7 +2133,10 @@
       ]
     },
     {
+      "birth_date": "1972-03-20",
       "email": "eb.erbmahcal@zednanref.eiluj",
+      "gender": "female",
+      "given_name": "Julie",
       "id": "person/01279",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01279.gif",
       "images": [
@@ -1540,7 +2159,10 @@
       ]
     },
     {
+      "birth_date": "1958-09-25",
       "email": "eb.remaked@namremmet.nirak",
+      "gender": "female",
+      "given_name": "Karin",
       "id": "person/06047",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06047.gif",
       "images": [
@@ -1586,7 +2208,10 @@
       ]
     },
     {
+      "birth_date": "1964-05-04",
       "email": "eb.erbmahcal@xueilal.enirak",
+      "gender": "female",
+      "given_name": "Karine",
       "id": "person/00988",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00988.gif",
       "images": [
@@ -1609,8 +2234,16 @@
       ]
     },
     {
+      "birth_date": "1970-03-09",
       "email": "eb.remaked@snamesorg.neilorak",
+      "gender": "female",
       "id": "person/04726",
+      "identifiers": [
+        {
+          "identifier": "/m/0cmd7gl",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/04726.gif",
       "images": [
         {
@@ -1632,7 +2265,10 @@
       ]
     },
     {
+      "birth_date": "1975-02-13",
       "email": "eb.remaked@sleirbag.ajtak",
+      "gender": "female",
+      "given_name": "Katja",
       "id": "person/06885",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6885.gif",
       "images": [
@@ -1655,7 +2291,9 @@
       ]
     },
     {
+      "birth_date": "1980-07-01",
       "email": "eb.erbmahcal@nidaj.nirttak",
+      "gender": "female",
       "id": "person/01207",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01207.gif",
       "images": [
@@ -1678,11 +2316,51 @@
       ]
     },
     {
-      "id": "person/koen_geens",
+      "birth_date": "1958-01-22",
+      "gender": "male",
+      "id": "person/Q1240812",
+      "identifiers": [
+        {
+          "identifier": "/m/0gwgcjk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "93476347",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "131436686",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n90678116",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "074864017",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "12432875b",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 6650 4894",
+          "scheme": "isni"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Koen-geens-1362508702.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Koen-geens-1362508702.jpg"
+        }
+      ],
       "name": "Koen Geens"
     },
     {
+      "birth_date": "1981-07-23",
       "email": "eb.remaked@ustem.neok",
+      "gender": "male",
       "id": "person/06591",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06591.gif",
       "images": [
@@ -1705,8 +2383,17 @@
       ]
     },
     {
+      "birth_date": "1959-09-30",
       "email": "eb.remaked@etoorged.daarneok",
+      "gender": "male",
+      "given_name": "Koenraad",
       "id": "person/06088",
+      "identifiers": [
+        {
+          "identifier": "degr009",
+          "scheme": "dbnl"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06088.gif",
       "images": [
         {
@@ -1722,7 +2409,9 @@
       ]
     },
     {
+      "birth_date": "1978-04-22",
       "email": "eb.remaked@hgrebnereavnav.neitsirk",
+      "gender": "female",
       "id": "person/06230",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06230.gif",
       "images": [
@@ -1745,8 +2434,17 @@
       ]
     },
     {
+      "birth_date": "1987-01-30",
       "email": "eb.remaked@ovlac.fotsirk",
+      "gender": "male",
+      "given_name": "Kristof",
       "id": "person/06128",
+      "identifiers": [
+        {
+          "identifier": "/m/0s8wv5s",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06128.gif",
       "images": [
         {
@@ -1762,7 +2460,10 @@
       ]
     },
     {
+      "birth_date": "1970-03-16",
       "email": "eb.erbmahcal@nived.tnerual",
+      "gender": "male",
+      "given_name": "Laurent",
       "id": "person/06325",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6325.gif",
       "images": [
@@ -1779,8 +2480,16 @@
       ]
     },
     {
+      "birth_date": "1958-10-02",
       "email": "eb.erbmahcal@xnilekno.etterual",
+      "gender": "female",
       "id": "person/00476",
+      "identifiers": [
+        {
+          "identifier": "/m/07yxwv",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00476.gif",
       "images": [
         {
@@ -1796,7 +2505,10 @@
       ]
     },
     {
+      "birth_date": "1978-05-02",
       "email": "eb.remaked@kcireid.neel",
+      "gender": "female",
+      "given_name": "Leen",
       "id": "person/01201",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01201.gif",
       "images": [
@@ -1813,7 +2525,10 @@
       ]
     },
     {
+      "birth_date": "1951-07-14",
       "email": "eb.erbmahcal@nitsug.cul",
+      "gender": "male",
+      "given_name": "Luc",
       "id": "person/01123",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/1123.gif",
       "images": [
@@ -1830,7 +2545,9 @@
       ]
     },
     {
+      "birth_date": "1960-06-26",
       "email": "eb.remaked@neseibnav.kul",
+      "gender": "male",
       "id": "person/01139",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01139.gif",
       "images": [
@@ -1853,12 +2570,36 @@
       ]
     },
     {
-      "id": "person/maggie_de_block",
+      "birth_date": "1962-04-28",
+      "gender": "female",
+      "given_name": "Maggie",
+      "id": "person/Q2800268",
+      "identifiers": [
+        {
+          "identifier": "/m/0s8wbkd",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Maggie_De_Block.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Maggie_De_Block.JPG"
+        }
+      ],
       "name": "Maggie De Block"
     },
     {
+      "birth_date": "1957-08-10",
       "email": "eb.erbmahcal@norehc.lecram",
+      "gender": "male",
+      "given_name": "Marcel",
       "id": "person/00623",
+      "identifiers": [
+        {
+          "identifier": "/m/064pnh5",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00623.gif",
       "images": [
         {
@@ -1874,7 +2615,10 @@
       ]
     },
     {
+      "birth_date": "1964-03-15",
       "email": "eb.erbmahcal@seehnav.ocram",
+      "gender": "male",
+      "given_name": "Marco",
       "id": "person/06701",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06701.gif",
       "images": [
@@ -1891,11 +2635,17 @@
       ]
     },
     {
-      "id": "person/marie-christine_marghem",
+      "birth_date": "1963-05-22",
+      "gender": "female",
+      "given_name": "Marie-Christine",
+      "id": "person/Q3291646",
       "name": "Marie-Christine Marghem"
     },
     {
+      "birth_date": "1967-08-30",
       "email": "eb.remaked@egeited.ayam",
+      "gender": "female",
+      "given_name": "Maya",
       "id": "person/01067",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01067.gif",
       "images": [
@@ -1922,7 +2672,9 @@
       "name": "Melchior Wathelet"
     },
     {
+      "birth_date": "1980-04-20",
       "email": "eb.remaked@ritik.emayrem",
+      "gender": "female",
       "id": "person/01209",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01209.gif",
       "images": [
@@ -1945,7 +2697,9 @@
       ]
     },
     {
+      "birth_date": "1976-02-25",
       "email": "eb.remaked@icamla.meryem",
+      "gender": "female",
       "id": "person/01189",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01189.gif",
       "images": [
@@ -1968,7 +2722,10 @@
       ]
     },
     {
+      "birth_date": "1955-04-11",
       "email": "eb.erbmahcal@ettomaled.lehcim",
+      "gender": "male",
+      "given_name": "Michel",
       "id": "person/O2028",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O2028.gif",
       "images": [
@@ -1991,8 +2748,17 @@
       ]
     },
     {
+      "birth_date": "1956-03-21",
       "email": "eb.remaked@kcninoced.acinom",
+      "gender": "female",
+      "given_name": "Monica",
       "id": "person/01183",
+      "identifiers": [
+        {
+          "identifier": "/m/0hzmd2l",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01183.gif",
       "images": [
         {
@@ -2008,7 +2774,10 @@
       ]
     },
     {
+      "birth_date": "1957-04-25",
       "email": "eb.erbmahcal@snekreg.leirum",
+      "gender": "female",
+      "given_name": "Muriel",
       "id": "person/00946",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00946.gif",
       "images": [
@@ -2031,8 +2800,16 @@
       ]
     },
     {
+      "birth_date": "1968-02-17",
       "email": "eb.remaked@irjnal.amihan",
+      "gender": "female",
       "id": "person/01042",
+      "identifiers": [
+        {
+          "identifier": "33810329",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01042.gif",
       "images": [
         {
@@ -2054,7 +2831,10 @@
       ]
     },
     {
+      "birth_date": "1969-02-08",
       "email": "eb.remaked@ellyum.eilahtan",
+      "gender": "female",
+      "given_name": "Nathalie",
       "id": "person/01130",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01130.gif",
       "images": [
@@ -2077,7 +2857,9 @@
       ]
     },
     {
+      "birth_date": "1987-06-11",
       "email": "eb.erbmahcal@uomahneb.lawan",
+      "gender": "female",
       "id": "person/06647",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06647.gif",
       "images": [
@@ -2100,7 +2882,10 @@
       ]
     },
     {
+      "birth_date": "1978-01-01",
       "email": "eb.remaked@nenjil.elen",
+      "gender": "female",
+      "given_name": "Nele",
       "id": "person/01179",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01179.gif",
       "images": [
@@ -2123,8 +2908,17 @@
       ]
     },
     {
+      "birth_date": "1964-11-22",
       "email": "eb.erbmahcal@letsahc.reivilo",
+      "gender": "male",
+      "given_name": "Olivier",
       "id": "person/00906",
+      "identifiers": [
+        {
+          "identifier": "/m/0gjcz47",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00906.gif",
       "images": [
         {
@@ -2146,8 +2940,17 @@
       ]
     },
     {
+      "birth_date": "1958-08-03",
       "email": "eb.erbmahcal@niagniam.reivilo",
+      "gender": "male",
+      "given_name": "Olivier",
       "id": "person/00682",
+      "identifiers": [
+        {
+          "identifier": "/m/0kryq_",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00682.gif",
       "images": [
         {
@@ -2169,8 +2972,21 @@
       ]
     },
     {
+      "birth_date": "1965-06-05",
       "email": "eb.remaked@snesyec.aicirtap",
+      "gender": "female",
+      "given_name": "Patricia",
       "id": "person/O937",
+      "identifiers": [
+        {
+          "identifier": "/m/03cdb0v",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "285784173",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O937.gif",
       "images": [
         {
@@ -2186,8 +3002,33 @@
       ]
     },
     {
+      "birth_date": "1955-10-13",
       "email": "eb.remaked@leawed.kcirtap",
+      "gender": "male",
+      "given_name": "Patrick",
       "id": "person/00124",
+      "identifiers": [
+        {
+          "identifier": "/m/03vpp3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "48453866",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "n94029114",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "073959812",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "0000 0000 4400 5082",
+          "scheme": "isni"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00124.gif",
       "images": [
         {
@@ -2209,7 +3050,9 @@
       ]
     },
     {
+      "birth_date": "1966-07-01",
       "email": "eb.erbmahcal@sionnaled.luap",
+      "gender": "male",
       "id": "person/O1846",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O1846.gif",
       "images": [
@@ -2226,7 +3069,10 @@
       ]
     },
     {
+      "birth_date": "1976-03-15",
       "email": "eb.remaked@eggorsyub.retep",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/06030",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06030.gif",
       "images": [
@@ -2243,7 +3089,10 @@
       ]
     },
     {
+      "birth_date": "1962-05-20",
       "email": "eb.remaked@revoored.retep",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/06588",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06588.gif",
       "images": [
@@ -2266,8 +3115,17 @@
       ]
     },
     {
+      "birth_date": "1983-11-07",
       "email": "eb.remaked@rekceded.retep",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/06027",
+      "identifiers": [
+        {
+          "identifier": "310508080",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06027.gif",
       "images": [
         {
@@ -2289,7 +3147,10 @@
       ]
     },
     {
+      "birth_date": "1964-05-06",
       "email": "eb.remaked@xkyul.retep",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/01260",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01260.gif",
       "images": [
@@ -2312,8 +3173,17 @@
       ]
     },
     {
+      "birth_date": "1962-10-22",
       "email": "eb.remaked@nevohtlevnav.retep",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/00917",
+      "identifiers": [
+        {
+          "identifier": "/m/026jb_k",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00917.gif",
       "images": [
         {
@@ -2335,7 +3205,10 @@
       ]
     },
     {
+      "birth_date": "1983-02-13",
       "email": "eb.erbmahcal@trahcnalb.eppilihp",
+      "gender": "male",
+      "given_name": "Philippe",
       "id": "person/01288",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01288.gif",
       "images": [
@@ -2358,7 +3231,10 @@
       ]
     },
     {
+      "birth_date": "1967-04-01",
       "email": "eb.erbmahcal@niffog.eppilihp",
+      "gender": "male",
+      "given_name": "Philippe",
       "id": "person/06383",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06383.gif",
       "images": [
@@ -2381,7 +3257,10 @@
       ]
     },
     {
+      "birth_date": "1954-08-04",
       "email": "eb.erbmahcal@nivip.eppilihp",
+      "gender": "male",
+      "given_name": "Philippe",
       "id": "person/06618",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06618.gif",
       "images": [
@@ -2404,11 +3283,29 @@
       ]
     },
     {
-      "id": "person/pieter_de_crem",
+      "birth_date": "1962-07-22",
+      "gender": "male",
+      "given_name": "Pieter",
+      "id": "person/Q1534851",
+      "identifiers": [
+        {
+          "identifier": "/m/02rzq_k",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pieter_De_Crem_EDA_conference_2014.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pieter_De_Crem_EDA_conference_2014.jpg"
+        }
+      ],
       "name": "Pieter De Crem"
     },
     {
+      "birth_date": "1972-07-12",
       "email": "eb.remaked@negniwret.far",
+      "gender": "male",
+      "given_name": "Raf",
       "id": "person/01240",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01240.gif",
       "images": [
@@ -2431,8 +3328,17 @@
       ]
     },
     {
+      "birth_date": "1977-07-12",
       "email": "eb.erbmahcal@wuobedeh.luoar",
+      "gender": "male",
+      "given_name": "Raoul",
       "id": "person/06759",
+      "identifiers": [
+        {
+          "identifier": "303911066",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06759.gif",
       "images": [
         {
@@ -2454,7 +3360,10 @@
       ]
     },
     {
+      "birth_date": "1984-05-26",
       "email": "eb.remaked@snekfuh.etaner",
+      "gender": "female",
+      "given_name": "Renate",
       "id": "person/06843",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6843.gif",
       "images": [
@@ -2500,7 +3409,10 @@
       ]
     },
     {
+      "birth_date": "1962-09-29",
       "email": "eb.remaked@snelleb.atir",
+      "gender": "female",
+      "given_name": "Rita",
       "id": "person/06592",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06592.gif",
       "images": [
@@ -2517,7 +3429,10 @@
       ]
     },
     {
+      "birth_date": "1958-06-14",
       "email": "eb.remaked@siotnag.atir",
+      "gender": "female",
+      "given_name": "Rita",
       "id": "person/06795",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06795.gif",
       "images": [
@@ -2534,7 +3449,10 @@
       ]
     },
     {
+      "birth_date": "1967-02-14",
       "email": "eb.remaked@edlevednav.trebor",
+      "gender": "male",
+      "given_name": "Rob",
       "id": "person/01239",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01239.gif",
       "images": [
@@ -2551,7 +3469,10 @@
       ]
     },
     {
+      "birth_date": "1976-10-14",
       "email": "eb.remaked@nyesed.leor",
+      "gender": "male",
+      "given_name": "Roel",
       "id": "person/01030",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01030.gif",
       "images": [
@@ -2574,7 +3495,9 @@
       ]
     },
     {
+      "birth_date": "1967-08-05",
       "email": "eb.remaked@uehttab.neibas",
+      "gender": "female",
       "id": "person/01032",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01032.gif",
       "images": [
@@ -2597,8 +3520,17 @@
       ]
     },
     {
+      "birth_date": "1977-07-14",
       "email": "eb.remaked@tuohrealc.haras",
+      "gender": "female",
+      "given_name": "Sarah",
       "id": "person/06918",
+      "identifiers": [
+        {
+          "identifier": "310599466",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6918.gif",
       "images": [
         {
@@ -2614,7 +3546,10 @@
       ]
     },
     {
+      "birth_date": "1980-10-08",
       "email": "eb.remaked@sreyems.haras",
+      "gender": "female",
+      "given_name": "Sarah",
       "id": "person/01219",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01219.gif",
       "images": [
@@ -2637,7 +3572,9 @@
       ]
     },
     {
+      "birth_date": "1960-01-29",
       "email": "eb.remaked@neteartsrehrev.siavres",
+      "gender": "male",
       "id": "person/00826",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00826.gif",
       "images": [
@@ -2660,8 +3597,25 @@
       ]
     },
     {
+      "birth_date": "1953-02-21",
       "email": "eb.remaked@ekcarb.deirfgeis",
+      "gender": "male",
+      "given_name": "Siegfried",
       "id": "person/06025",
+      "identifiers": [
+        {
+          "identifier": "283666270",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "170108961",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "0000 0003 9009 3433",
+          "scheme": "isni"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06025.gif",
       "images": [
         {
@@ -2683,8 +3637,17 @@
       ]
     },
     {
+      "birth_date": "1957-12-08",
       "email": "eb.remaked@qceb.ajnos",
+      "gender": "female",
+      "given_name": "Sonja",
       "id": "person/01190",
+      "identifiers": [
+        {
+          "identifier": "/m/0s8xp41",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01190.gif",
       "images": [
         {
@@ -2706,7 +3669,11 @@
       ]
     },
     {
+      "birth_date": "1973-08-28",
       "email": "eb.remaked@tiwed.eihpos",
+      "family_name": "De Wit",
+      "gender": "female",
+      "given_name": "Sophie",
       "id": "person/06141",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06141.gif",
       "images": [
@@ -2729,7 +3696,10 @@
       ]
     },
     {
+      "birth_date": "1975-01-15",
       "email": "eb.erbmahcal@semliw.eihpos",
+      "gender": "female",
+      "given_name": "Sophie",
       "id": "person/06619",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6619.gif",
       "images": [
@@ -2752,7 +3722,9 @@
       ]
     },
     {
+      "birth_date": "1973-01-04",
       "email": "eb.remaked@ekcehnav.naafets",
+      "gender": "male",
       "id": "person/01227",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01227.gif",
       "images": [
@@ -2775,7 +3747,9 @@
       ]
     },
     {
+      "birth_date": "1961-06-09",
       "email": "eb.remaked@remacrev.naafets",
+      "gender": "male",
       "id": "person/01231",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01231.gif",
       "images": [
@@ -2798,11 +3772,17 @@
       ]
     },
     {
-      "id": "person/steven_vandeput",
+      "birth_date": "1967-03-30",
+      "gender": "male",
+      "given_name": "Steven",
+      "id": "person/Q2294276",
       "name": "Steven Vandeput"
     },
     {
+      "birth_date": "1967-07-10",
       "email": "eb.erbmahcal@ereinsurc.enahpets",
+      "gender": "male",
+      "given_name": "Stéphane",
       "id": "person/06536",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6536.gif",
       "images": [
@@ -2819,7 +3799,10 @@
       ]
     },
     {
+      "birth_date": "1977-02-07",
       "email": "eb.erbmahcal@noroht.einahpets",
+      "gender": "female",
+      "given_name": "Stéphanie",
       "id": "person/06929",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06929.gif",
       "images": [
@@ -2836,7 +3819,10 @@
       ]
     },
     {
+      "birth_date": "1953-02-23",
       "email": "eb.erbmahcal@uahcuab.ellibys",
+      "gender": "female",
+      "given_name": "Sybille",
       "id": "person/06286",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06286.gif",
       "images": [
@@ -2859,7 +3845,9 @@
       ]
     },
     {
+      "birth_date": "1971-08-29",
       "email": "eb.erbmahcal@tolrip.naitsabes",
+      "gender": "male",
       "id": "person/O2516",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O2516.gif",
       "images": [
@@ -2882,11 +3870,17 @@
       ]
     },
     {
-      "id": "person/theo_francken",
+      "birth_date": "1978-02-07",
+      "gender": "male",
+      "given_name": "Theo",
+      "id": "person/Q2072384",
       "name": "Theo Francken"
     },
     {
+      "birth_date": "1971-11-06",
       "email": "eb.remaked@tupnednav.mit",
+      "gender": "male",
+      "given_name": "Tim",
       "id": "person/06823",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06823.gif",
       "images": [
@@ -2909,7 +3903,10 @@
       ]
     },
     {
+      "birth_date": "1979-10-11",
       "email": "eb.remaked@leepnav.eirelav",
+      "gender": "female",
+      "given_name": "Valerie",
       "id": "person/06589",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06589.gif",
       "images": [
@@ -2932,7 +3929,10 @@
       ]
     },
     {
+      "birth_date": "1973-01-01",
       "email": "eb.erbmahcal@ztam.assenav",
+      "gender": "female",
+      "given_name": "Vanessa",
       "id": "person/01281",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01281.gif",
       "images": [
@@ -2955,7 +3955,10 @@
       ]
     },
     {
+      "birth_date": "1965-03-27",
       "email": "eb.remaked@nereeh.elreev",
+      "gender": "female",
+      "given_name": "Veerle",
       "id": "person/O2321",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/O2321.gif",
       "images": [
@@ -2972,8 +3975,17 @@
       ]
     },
     {
+      "birth_date": "1974-06-02",
       "email": "eb.remaked@sretuow.elreev",
+      "gender": "female",
+      "given_name": "Veerle",
       "id": "person/06401",
+      "identifiers": [
+        {
+          "identifier": "/m/0cmd2b8",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06401.gif",
       "images": [
         {
@@ -2995,8 +4007,16 @@
       ]
     },
     {
+      "birth_date": "1971-03-30",
       "email": "eb.remaked@leskuy.ilev",
+      "gender": "male",
       "id": "person/06022",
+      "identifiers": [
+        {
+          "identifier": "4339564",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06022.gif",
       "images": [
         {
@@ -3018,7 +4038,10 @@
       ]
     },
     {
+      "birth_date": "1967-06-22",
       "email": "eb.erbmahcal@uaenruocs.tnecniv",
+      "gender": "male",
+      "given_name": "Vincent",
       "id": "person/06287",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6287.gif",
       "images": [
@@ -3035,8 +4058,17 @@
       ]
     },
     {
+      "birth_date": "1973-08-01",
       "email": "eb.remaked@enrobnekciuqnav.tnecniv",
+      "gender": "male",
+      "given_name": "Vincent",
       "id": "person/00972",
+      "identifiers": [
+        {
+          "identifier": "/m/08nyvx",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00972.gif",
       "images": [
         {
@@ -3058,7 +4090,10 @@
       ]
     },
     {
+      "birth_date": "1950-11-20",
       "email": "eb.erbmahcal@essarpac.euqinorev",
+      "gender": "female",
+      "given_name": "Véronique",
       "id": "person/06627",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06627.gif",
       "images": [
@@ -3098,7 +4133,10 @@
       ]
     },
     {
+      "birth_date": "1959-03-17",
       "email": "eb.erbmahcal@reyemed.ylliw",
+      "gender": "male",
+      "given_name": "Willy",
       "id": "person/06456",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06456.gif",
       "images": [
@@ -3121,8 +4159,21 @@
       ]
     },
     {
+      "birth_date": "1974-08-09",
       "email": "eb.remaked@ekeb.retuow",
+      "gender": "male",
+      "given_name": "Wouter",
       "id": "person/01149",
+      "identifiers": [
+        {
+          "identifier": "/m/064lsbf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "311574905",
+          "scheme": "viaf"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01149.gif",
       "images": [
         {
@@ -3144,7 +4195,10 @@
       ]
     },
     {
+      "birth_date": "1977-06-22",
       "email": "eb.remaked@tdneirv.ed.retuow",
+      "gender": "male",
+      "given_name": "Wouter",
       "id": "person/01199",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01199.gif",
       "images": [
@@ -3167,7 +4221,10 @@
       ]
     },
     {
+      "birth_date": "1972-01-04",
       "email": "eb.remaked@niksar.retuow",
+      "gender": "male",
+      "given_name": "Wouter",
       "id": "person/06498",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6498.gif",
       "images": [
@@ -3184,7 +4241,9 @@
       ]
     },
     {
+      "birth_date": "1987-08-25",
       "email": "eb.remaked@pmacnav.neeloy",
+      "gender": "female",
       "id": "person/06590",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06590.gif",
       "images": [
@@ -3207,12 +4266,21 @@
       ]
     },
     {
-      "id": "person/zakia_khattabi",
+      "gender": "female",
+      "id": "person/Q3574660",
       "name": "Zakia Khattabi"
     },
     {
+      "birth_date": "1980-03-02",
       "email": "eb.remaked@rimed.lahuz",
+      "gender": "female",
       "id": "person/06142",
+      "identifiers": [
+        {
+          "identifier": "/m/0cm87t4",
+          "scheme": "freebase"
+        }
+      ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06142.gif",
       "images": [
         {
@@ -3234,7 +4302,10 @@
       ]
     },
     {
+      "birth_date": "1978-10-04",
       "email": "eb.erbmahcal@nezo.melzo",
+      "gender": "female",
+      "given_name": "Özlem",
       "id": "person/06326",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06326.gif",
       "images": [
@@ -4997,86 +6068,26 @@
     },
     {
       "area": {
+        "id": "area/vlaams-brabant",
+        "name": "Vlaams-Brabant"
+      },
+      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cd&v",
+      "organization_id": "legislature",
+      "person_id": "person/Q1240812",
+      "role": "member"
+    },
+    {
+      "area": {
         "id": "area/oost-vlaanderen",
         "name": "Oost-Vlaanderen"
       },
       "end_date": "2014-10-11",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/open_vld",
+      "on_behalf_of_id": "party/cd&v",
       "organization_id": "legislature",
-      "person_id": "person/alexander_de_croo",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/waals-brabant",
-        "name": "Waals-Brabant"
-      },
-      "end_date": "2014-07-22",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ps",
-      "organization_id": "legislature",
-      "person_id": "person/andré_flahaut",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/antwerpen",
-        "name": "Antwerpen"
-      },
-      "end_date": "2014-07-25",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/open_vld",
-      "organization_id": "legislature",
-      "person_id": "person/annemie_turtelboom",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/waals-brabant",
-        "name": "Waals-Brabant"
-      },
-      "end_date": "2014-10-11",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/mr",
-      "organization_id": "legislature",
-      "person_id": "person/charles_michel",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/brussel-hoofdstad",
-        "name": "Brussel-Hoofdstad"
-      },
-      "end_date": "2014-07-22",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/cdh",
-      "organization_id": "legislature",
-      "person_id": "person/céline_fremault",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/luik",
-        "name": "Luik"
-      },
-      "end_date": "2014-10-11",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/mr",
-      "organization_id": "legislature",
-      "person_id": "person/daniel_bacquelaine",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/brussel-hoofdstad",
-        "name": "Brussel-Hoofdstad"
-      },
-      "end_date": "2014-10-11",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/mr",
-      "organization_id": "legislature",
-      "person_id": "person/didier_reynders",
+      "person_id": "person/Q1534851",
       "role": "member"
     },
     {
@@ -5088,7 +6099,7 @@
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/n-va",
       "organization_id": "legislature",
-      "person_id": "person/jan_jambon",
+      "person_id": "person/Q1865725",
       "role": "member"
     },
     {
@@ -5098,9 +6109,21 @@
       },
       "end_date": "2014-10-11",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/cd&v",
+      "on_behalf_of_id": "party/n-va",
       "organization_id": "legislature",
-      "person_id": "person/koen_geens",
+      "person_id": "person/Q2072384",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/limburg",
+        "name": "Limburg"
+      },
+      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/n-va",
+      "organization_id": "legislature",
+      "person_id": "person/Q2294276",
       "role": "member"
     },
     {
@@ -5112,7 +6135,31 @@
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/open_vld",
       "organization_id": "legislature",
-      "person_id": "person/maggie_de_block",
+      "person_id": "person/Q2800268",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/luik",
+        "name": "Luik"
+      },
+      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "person/Q2949528",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/brussel-hoofdstad",
+        "name": "Brussel-Hoofdstad"
+      },
+      "end_date": "2014-07-22",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/cdh",
+      "organization_id": "legislature",
+      "person_id": "person/Q3010154",
       "role": "member"
     },
     {
@@ -5124,7 +6171,79 @@
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/mr",
       "organization_id": "legislature",
-      "person_id": "person/marie-christine_marghem",
+      "person_id": "person/Q3291646",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/brussel-hoofdstad",
+        "name": "Brussel-Hoofdstad"
+      },
+      "end_date": "2015-05-28",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/ecolo/groen",
+      "organization_id": "legislature",
+      "person_id": "person/Q3574660",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/antwerpen",
+        "name": "Antwerpen"
+      },
+      "end_date": "2014-07-25",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/open_vld",
+      "organization_id": "legislature",
+      "person_id": "person/Q454893",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/oost-vlaanderen",
+        "name": "Oost-Vlaanderen"
+      },
+      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/open_vld",
+      "organization_id": "legislature",
+      "person_id": "person/Q476596",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/waals-brabant",
+        "name": "Waals-Brabant"
+      },
+      "end_date": "2014-07-22",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/ps",
+      "organization_id": "legislature",
+      "person_id": "person/Q518520",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/waals-brabant",
+        "name": "Waals-Brabant"
+      },
+      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "person/Q950958",
+      "role": "member"
+    },
+    {
+      "area": {
+        "id": "area/brussel-hoofdstad",
+        "name": "Brussel-Hoofdstad"
+      },
+      "end_date": "2014-10-11",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "person/Q978208",
       "role": "member"
     },
     {
@@ -5137,54 +6256,6 @@
       "on_behalf_of_id": "party/cdh",
       "organization_id": "legislature",
       "person_id": "person/melchior_wathelet",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/oost-vlaanderen",
-        "name": "Oost-Vlaanderen"
-      },
-      "end_date": "2014-10-11",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/cd&v",
-      "organization_id": "legislature",
-      "person_id": "person/pieter_de_crem",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/limburg",
-        "name": "Limburg"
-      },
-      "end_date": "2014-10-11",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/n-va",
-      "organization_id": "legislature",
-      "person_id": "person/steven_vandeput",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/vlaams-brabant",
-        "name": "Vlaams-Brabant"
-      },
-      "end_date": "2014-10-11",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/n-va",
-      "organization_id": "legislature",
-      "person_id": "person/theo_francken",
-      "role": "member"
-    },
-    {
-      "area": {
-        "id": "area/brussel-hoofdstad",
-        "name": "Brussel-Hoofdstad"
-      },
-      "end_date": "2015-05-28",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
-      "organization_id": "legislature",
-      "person_id": "person/zakia_khattabi",
       "role": "member"
     }
   ]
