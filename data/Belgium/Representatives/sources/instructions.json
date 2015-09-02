@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/belgium-lachambre",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.lachambre.be/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/belgium-lachambre",
+        "query": "SELECT * FROM terms"
+      },
+      "type": "terms"
+    }
+  ]
+}
