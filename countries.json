@@ -585,6 +585,32 @@
     ]
   },
   {
+    "name": "Belgium",
+    "country": "Belgium",
+    "code": "BE",
+    "slug": "Belgium",
+    "legislatures": [
+      {
+        "name": "Chamber of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Belgium/Representatives/sources",
+        "popolo": "data/Belgium/Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441197836",
+        "person_count": 166,
+        "sha": "7a1404b",
+        "legislative_periods": [
+          {
+            "id": "term/54",
+            "name": "Législature 54",
+            "start_date": "2014",
+            "slug": "54",
+            "csv": "data/Belgium/Representatives/term-54.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Benin",
     "country": "Benin",
     "code": "BJ",
