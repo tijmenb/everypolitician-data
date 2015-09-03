@@ -2382,6 +2382,33 @@
     ]
   },
   {
+    "name": "Guatemala",
+    "country": "Guatemala",
+    "code": "GT",
+    "slug": "Guatemala",
+    "legislatures": [
+      {
+        "name": "Congress",
+        "slug": "Congress",
+        "sources_directory": "data/Guatemala/Congress/sources",
+        "popolo": "data/Guatemala/Congress/ep-popolo-v1.0.json",
+        "lastmod": "1441273676",
+        "person_count": 158,
+        "sha": "4970cea",
+        "legislative_periods": [
+          {
+            "end_date": "2016-01-14",
+            "id": "term/7",
+            "name": "VII Legislatura de Guatemala",
+            "start_date": "2012-01-07",
+            "slug": "7",
+            "csv": "data/Guatemala/Congress/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Haiti",
     "country": "Haiti",
     "code": "HT",
