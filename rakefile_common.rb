@@ -3,6 +3,7 @@ require 'open-uri'
 require 'rake/clean'
 require 'pry'
 require 'csv'
+require 'colorize'
 
 Numeric.class_eval { def empty?; false; end }
 
@@ -253,26 +254,43 @@ CLEAN.include('term-*.csv')
 
 namespace :term_csvs do
 
+  require 'csv'
+
   def persons_twitter(p)
     if p.key? :contact_details
       if cd_twitter = p[:contact_details].find { |d| d[:type] == 'twitter' }
-        return cd_twitter[:value]
+        return cd_twitter[:value].strip
       end
     end
 
     if p.key? 'links'
       if l_twitter = p[:links].find { |d| d[:note][/twitter/i] }
-        return l_twitter[:url]
+        return l_twitter[:url].strip
       end
     end
+  end
+
+  # https://twitter.com/tom_watson?lang=en
+  # https://twitter.com/search?q=%23EvelynMEP&src=typd
+
+  def standardised_twitter(t)
+    return if t.to_s.empty?
+    return $1 if t.match /^\@(\w+)$/
+    return $1 if t.match /^(\w+)$/
+    return $1 if t.match %r{(?:www.)?twitter.com/@?(\w+)$}
+
+    # Odd special cases
+    return $1 if t.match %r{twitter.com/search\?q=%23(\w+)}
+    return $1 if t.match %r{twitter.com/#!/https://twitter.com/(\w+)}
+    return $1 if t.match %r{(?:www.)?twitter.com/#!/(\w+)[/\?]?}
+    return $1 if t.match %r{(?:www.)?twitter.com/@?(\w+)[/\/]?}
+    warn "Unknown twitter handle: #{t.to_s.magenta}"
+    return 
   end
 
   def persons_facebook(p)
     (p[:links] || {}).find(->{{url: nil}}) { |d| d[:note] == 'facebook' }[:url]
   end
-
-
-  require 'csv'
 
   def name_at(p, date)
     return p[:name] unless date && p.key?(:other_names)
@@ -307,7 +325,7 @@ namespace :term_csvs do
         id: person[:id].split('/').last,
         name: name_at(person, m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
         email: person[:email],
-        twitter: persons_twitter(person),
+        twitter: standardised_twitter(persons_twitter(person)),
         facebook: persons_facebook(person),
         group: group[:name],
         group_id: group[:id].split('/').last,
