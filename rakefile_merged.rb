@@ -20,6 +20,7 @@ raise "No sources" if @instructions[:sources].count.zero?
 
 @recreatable = @instructions[:sources].find_all { |i| i.key? :create }
 CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
+CLOBBER.include 'manual/instructions.json'
 
 # For now, write the merged file to manual/members.csv so we can then
 # fall-back on the old-style rake task that looks there
