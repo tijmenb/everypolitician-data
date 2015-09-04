@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/us-virgin-islands-legislature-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/us-virgin-islands-legislature-wikipedia",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/us-virgin-islands-legislature",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 100
+      }
+    }
+  ]
+}
