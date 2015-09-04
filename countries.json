@@ -5556,26 +5556,26 @@
     ]
   },
   {
-    "name": "US-Virgin-Islands",
-    "country": "US-Virgin-Islands",
+    "name": "US Virgin Islands",
+    "country": "US Virgin Islands",
     "code": "VI",
     "slug": "US-Virgin-Islands",
     "legislatures": [
       {
         "name": "Legislature",
         "slug": "Legislature",
-        "sources_directory": "data/US-Virgin-Islands/Legislature/sources",
-        "popolo": "data/US-Virgin-Islands/Legislature/ep-popolo-v1.0.json",
-        "lastmod": "1441385936",
+        "sources_directory": "data/US_Virgin_Islands/Legislature/sources",
+        "popolo": "data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json",
+        "lastmod": "1441386417",
         "person_count": 15,
-        "sha": "b027ea2",
+        "sha": "6780cdd",
         "legislative_periods": [
           {
             "id": "term/2014",
             "name": "2014–",
             "start_date": "2014",
             "slug": "2014",
-            "csv": "data/US-Virgin-Islands/Legislature/term-2014.csv"
+            "csv": "data/US_Virgin_Islands/Legislature/term-2014.csv"
           }
         ]
       }
