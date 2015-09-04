@@ -21,8 +21,8 @@
       "merge": { 
         "incoming_field": "name",
         "existing_field": "name",
-        "amatch_threshold": 60,
-        "amatch_warning": 100
+        "amatch_threshold": 30,
+        "amatch_warning": 80
       }
     }
   ]
