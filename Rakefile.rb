@@ -1,6 +1,9 @@
-require 'yajl/json_gem'
+require 'fileutils'
 require 'iso_country_codes'
+require 'pathname'
+require 'pry'
 require 'tmpdir'
+require 'yajl/json_gem'
 
 ISO = IsoCountryCodes.for_select
 
@@ -20,6 +23,10 @@ def json_from(json_file)
   JSON.parse(File.read(json_file), symbolize_names: true)
 end
 
+def json_write(file, json)
+  File.write(file, JSON.pretty_generate(json))
+end
+
 def terms_from(json, h)
   terms = json[:events].find_all { |o| o[:classification] == 'legislative period' }
   terms.sort_by { |t| t[:start_date].to_s }.reverse.map { |t|
@@ -35,6 +42,63 @@ def name_from(json)
   orgs = json[:organizations].find_all { |o| o[:classification] == 'legislature' }
   raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
   orgs.first[:name]
+end
+
+desc 'Make a new set of instructions'
+task 'sources/instructions.json' do |t|
+  basedir = Rake.original_dir
+  root = File.expand_path("#{basedir}/../..")
+  raise "Need to be in Legislature directory" unless Pathname.new(root).basename.to_s == 'data'
+  puts "OK"
+
+  Dir.chdir basedir
+  FileUtils.mkpath 'sources'
+
+  meta_file = Rake.original_dir + "/meta.json"
+  meta = json_from meta_file
+  morph_long  = meta.delete(:morph) or abort "no `morph` entry in meta.json" 
+  morph_short = morph_long.split('/').last(2).join("/")
+
+  sources = {
+    sources: [
+      {
+        file: 'morph/data.csv',
+        create: {
+          type: 'morph',
+          scraper: morph_short,
+          query: 'SELECT * FROM data'
+        },
+        source: morph_long,
+        type: 'membership'
+      }
+    ]
+  }
+
+  if terms = meta.delete(:terms)
+    sources[:sources] << {
+      file: 'morph/terms.csv',
+      create: {
+        type: 'morph',
+        scraper: morph_short,
+        query: 'SELECT * FROM terms'
+      },
+      type: 'term',
+    }
+  else
+    warn "Now write a termfile"
+  end
+
+  puts "Writing #{t.name}"
+  json_write(t.name, sources)
+
+  puts "Writing sources/Rakefile.rb"
+  File.write('sources/Rakefile.rb', "require_relative '../../../../rakefile_merged.rb'")
+
+  puts "Writing Rakefile.rb"
+  File.write('Rakefile.rb', "require_relative '../../../rakefile_local.rb'")
+
+  puts "Writing #{meta_file}"
+  json_write(meta_file, meta)
 end
 
 desc 'Install country-list locally'
