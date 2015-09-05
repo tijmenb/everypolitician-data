@@ -3936,9 +3936,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q374152",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Seimas",
-      "seats": 141,
-      "wikidata": "Q374152"
+      "seats": 141
     },
     {
       "classification": "party",

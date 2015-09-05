@@ -288,9 +288,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1972029",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Parliament",
-      "seats": 19,
-      "wikidata": "Q1972029"
+      "seats": 19
     }
   ],
   "meta": {

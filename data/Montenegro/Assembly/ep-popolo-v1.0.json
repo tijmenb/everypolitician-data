@@ -1817,9 +1817,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1579497",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Skupština",
-      "seats": 81,
-      "wikidata": "Q1579497"
+      "seats": 81
     },
     {
       "classification": "party",

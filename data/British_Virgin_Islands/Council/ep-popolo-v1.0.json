@@ -424,9 +424,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q5914704",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Legislative Council",
-      "seats": 13,
-      "wikidata": "Q5914704"
+      "seats": 13
     },
     {
       "classification": "party",

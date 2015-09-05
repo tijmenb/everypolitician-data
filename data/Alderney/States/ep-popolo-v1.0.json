@@ -158,9 +158,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q7604031",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "States",
-      "seats": 10,
-      "wikidata": "Q7604031"
+      "seats": 10
     }
   ],
   "meta": {

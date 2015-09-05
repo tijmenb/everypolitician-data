@@ -1160,9 +1160,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q330600",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "National Assembly",
-      "seats": 125,
-      "wikidata": "Q330600"
+      "seats": 125
     },
     {
       "classification": "party",

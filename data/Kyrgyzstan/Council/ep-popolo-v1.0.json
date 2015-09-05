@@ -1835,9 +1835,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q578193",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Supreme Council",
-      "seats": 120,
-      "wikidata": "Q578193"
+      "seats": 120
     },
     {
       "classification": "party",

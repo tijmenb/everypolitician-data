@@ -16299,9 +16299,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q133396",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Knesset",
-      "seats": 120,
-      "wikidata": "Q133396"
+      "seats": 120
     },
     {
       "classification": "party",

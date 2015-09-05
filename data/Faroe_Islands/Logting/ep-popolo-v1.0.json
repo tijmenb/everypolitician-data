@@ -1940,9 +1940,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q509668",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Løgting",
-      "seats": 33,
-      "wikidata": "Q509668"
+      "seats": 33
     },
     {
       "classification": "party",

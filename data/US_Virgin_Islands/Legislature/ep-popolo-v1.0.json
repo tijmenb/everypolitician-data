@@ -245,9 +245,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q6518465",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Legislature",
-      "seats": 15,
-      "wikidata": "Q6518465"
+      "seats": 15
     }
   ],
   "meta": {

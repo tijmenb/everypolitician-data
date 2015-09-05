@@ -525,9 +525,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1516957",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "House of Keys",
-      "seats": 24,
-      "wikidata": "Q1516957"
+      "seats": 24
     },
     {
       "classification": "party",

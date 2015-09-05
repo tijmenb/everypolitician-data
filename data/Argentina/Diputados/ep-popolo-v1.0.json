@@ -5941,9 +5941,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q629133",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cámara de Diputados",
-      "seats": 257,
-      "wikidata": "Q629133"
+      "seats": 257
     },
     {
       "classification": "party",

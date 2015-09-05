@@ -11289,15 +11289,21 @@
   ],
   "organizations": [
     {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1834804",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Chamber of Deputies",
+      "seats": 513
+    },
+    {
       "classification": "party",
       "id": "DEM",
       "name": "DEM"
-    },
-    {
-      "classification": "legislature",
-      "id": "legislature",
-      "name": "National Congress",
-      "seats": 513
     },
     {
       "classification": "party",

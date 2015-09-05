@@ -118,9 +118,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q6083065",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Island Council",
-      "seats": 10,
-      "wikidata": "Q6083065"
+      "seats": 10
     }
   ],
   "meta": {
