@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/singapore-parliament",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/tmtmtmtm/singapore-parliament",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/singapore-parliament",
+        "query": "SELECT * FROM terms"
+      },
+      "type": "term"
+    }
+  ]
+}
