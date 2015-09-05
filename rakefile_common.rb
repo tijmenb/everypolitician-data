@@ -124,6 +124,10 @@ namespace :transform do
     leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
     raise "More than one legislature exists" if leg.count > 1
     leg.first.merge! meta_info
+    (leg.first[:identifiers] ||= []) << { 
+      scheme: 'wikidata',
+      identifier: leg.first.delete(:wikidata)
+    } if leg.first.key?(:wikidata)
   end
 
   #---------------------------------------------------------------------
