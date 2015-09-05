@@ -505,9 +505,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q7058704",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "House of Representatives",
-      "seats": 20,
-      "wikidata": "Q7058704"
+      "seats": 20
     },
     {
       "classification": "party",

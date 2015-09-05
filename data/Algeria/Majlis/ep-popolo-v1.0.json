@@ -7768,9 +7768,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q633590",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "People's National Assembly",
-      "seats": 462,
-      "wikidata": "Q633590"
+      "seats": 462
     },
     {
       "classification": "party",

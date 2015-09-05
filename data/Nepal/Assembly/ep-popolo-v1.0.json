@@ -6845,9 +6845,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q16057514",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Constituent Assembly",
-      "seats": 601,
-      "wikidata": "Q16057514"
+      "seats": 601
     },
     {
       "classification": "party",

@@ -1069,9 +1069,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q2993118",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Congress",
-      "seats": 54,
-      "wikidata": "Q2993118"
+      "seats": 54
     },
     {
       "classification": "party",

@@ -4331,9 +4331,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1347545",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chamber of Representatives",
-      "seats": 150,
-      "wikidata": "Q1347545"
+      "seats": 150
     },
     {
       "classification": "party",

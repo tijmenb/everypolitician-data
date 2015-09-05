@@ -341,9 +341,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q897278",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Parliament",
-      "seats": 15,
-      "wikidata": "Q897278"
+      "seats": 15
     }
   ],
   "meta": {

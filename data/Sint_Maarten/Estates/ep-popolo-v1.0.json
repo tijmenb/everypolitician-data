@@ -235,9 +235,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q388526",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estates",
-      "seats": 15,
-      "wikidata": "Q388526"
+      "seats": 15
     },
     {
       "classification": "party",

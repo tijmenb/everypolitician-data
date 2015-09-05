@@ -979,9 +979,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q2729213",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Assembly",
-      "seats": 57,
-      "wikidata": "Q2729213"
+      "seats": 57
     },
     {
       "classification": "party",

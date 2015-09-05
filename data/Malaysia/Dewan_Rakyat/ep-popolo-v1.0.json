@@ -9554,9 +9554,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1207092",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dewan Rakyat",
-      "seats": 222,
-      "wikidata": "Q1207092"
+      "seats": 222
     },
     {
       "classification": "party",

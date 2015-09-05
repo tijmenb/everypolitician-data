@@ -91,9 +91,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q7051064",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Legislative Assembly",
-      "seats": 9,
-      "wikidata": "Q7051064"
+      "seats": 9
     }
   ],
   "meta": {

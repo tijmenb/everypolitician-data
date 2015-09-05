@@ -316,9 +316,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q4763974",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "House of Assembly",
-      "seats": 11,
-      "wikidata": "Q4763974"
+      "seats": 11
     },
     {
       "classification": "party",

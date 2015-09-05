@@ -944,9 +944,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q727851",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "National Parliament",
-      "seats": 50,
-      "wikidata": "Q727851"
+      "seats": 50
     },
     {
       "classification": "party",

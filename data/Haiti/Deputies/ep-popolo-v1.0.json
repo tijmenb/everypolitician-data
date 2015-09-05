@@ -916,9 +916,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q320287",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Chamber of Deputies",
-      "seats": 99,
-      "wikidata": "Q320287"
+      "seats": 99
     },
     {
       "classification": "party",

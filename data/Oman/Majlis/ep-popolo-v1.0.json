@@ -761,9 +761,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q818704",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Majlis al-Shura",
-      "seats": 84,
-      "wikidata": "Q818704"
+      "seats": 84
     },
     {
       "classification": "party",

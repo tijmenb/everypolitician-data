@@ -16059,9 +16059,14 @@
     {
       "classification": "legislature",
       "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q109016",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Storting",
-      "seats": 169,
-      "wikidata": "Q109016"
+      "seats": 169
     },
     {
       "classification": "party",
