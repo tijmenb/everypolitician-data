@@ -23,7 +23,21 @@
         "incoming_field": "name",
         "existing_field": "name",
         "amatch_threshold": 40,
-        "amatch_warning": 100
+        "amatch_warning": 80
+      }
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/botswana-national-assembly-wikidata",
+        "query": "SELECT *, id AS identifier__wikidata, NULL as id FROM data"
+      },
+      "source": "https://www.wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikiname"
       }
     },
     {
