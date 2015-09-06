@@ -100,17 +100,13 @@ namespace :transform do
   end  
 
   #---------------------------------------------------------------------
-  # Rule: There must be a legislature
+  # Rule: There must be a single legislature
   #---------------------------------------------------------------------
   task :write => :ensure_legislature
   task :ensure_legislature => :load do
-    if @json[:organizations].find_all { |h| h[:classification] == 'legislature' }.count.zero?
-      @json[:organizations] << {
-        classification: "legislature",
-        name: "Legislature",
-        id: "legislature",
-      }
-    end
+    legis = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
+    raise "Legislature count = #{count}" unless legis.count == 1
+    @legislature = legis.first
   end
 
   #---------------------------------------------------------------------
@@ -120,22 +116,17 @@ namespace :transform do
   task :write => :name_legislature
   task :name_legislature => :ensure_legislature do
     raise "No meta.json file available" unless File.exist? 'meta.json'
-    meta_info = JSON.parse(File.read('meta.json'), symbolize_names: true )
-    leg = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
-    raise "More than one legislature exists" if leg.count > 1
-    leg.first.merge! meta_info
-    (leg.first[:identifiers] ||= []) << { 
+    meta_info = json_load('meta.json')
+    @legislature.merge! meta_info
+    (@legislature[:identifiers] ||= []) << { 
       scheme: 'wikidata',
-      identifier: leg.first.delete(:wikidata)
-    } if leg.first.key?(:wikidata)
+      identifier: @legislature.delete(:wikidata)
+    } if @legislature.key?(:wikidata)
   end
 
   #---------------------------------------------------------------------
   # Rule: There must be at least one term
-  # If there are none, we create them, by (in order of preference)
-  # 1) Reading them from a 'terms.csv'
-  # 2) Reading them from a file specified as @TERMFILE
-  # 3) Reading them from a @TERMS array
+  # If there are none, we read them from a 'terms.csv'
   #---------------------------------------------------------------------
   task :write => :ensure_term
 
@@ -159,24 +150,19 @@ namespace :transform do
     return @TERMS
   end
 
-  def latest_term 
-    @TERMS.sort_by { |t| t[:start_date].to_s }.last
-  end
-
   task :write => :ensure_term
   task :ensure_term => :ensure_legislature do
-    leg = @json[:organizations].find { |h| h[:classification] == 'legislature' } or raise "No legislature"
     newterms = extra_termdata
-    newterms.each { |t| t[:organization_id] = leg[:id] }
+    newterms.each { |t| t[:organization_id] = @legislature[:id] }
 
     # To cope (for now) with source data that already has terms attached
     # to the legislature, build it all up there first (as before), and
     # then migrate it en masse to Events.
-    if not leg.has_key?(:legislative_periods) or leg[:legislative_periods].count.zero? 
+    if not @legislature.has_key?(:legislative_periods) or @legislature[:legislative_periods].count.zero? 
       raise "No @TERMFILE or @TERMS" if newterms.count.zero?
-      leg[:legislative_periods] = newterms 
+      @legislature[:legislative_periods] = newterms 
     else 
-      leg[:legislative_periods].each do |t|
+      @legislature[:legislative_periods].each do |t|
         if extra = newterms.find { |nt| nt[:id].to_s.split('/').last == t[:id].to_s.split('/').last }
           t.merge! extra.reject { |k, _| k == :id }
         end
@@ -184,8 +170,8 @@ namespace :transform do
     end
 
     @json[:events] ||= []
-    leg[:legislative_periods].each { |t| @json[:events] << t }
-    leg.delete :legislative_periods
+    @legislature[:legislative_periods].each { |t| @json[:events] << t }
+    @legislature.delete :legislative_periods
   end
 
   #---------------------------------------------------------------------
@@ -193,8 +179,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   task :write => :ensure_membership_terms
   task :ensure_membership_terms => :ensure_term do
-    leg_ids = @json[:organizations].find_all { |o| %w(legislature chamber).include? o[:classification] }.map { |o| o[:id] }
-    @json[:memberships].find_all { |m| m[:role] == 'member' and leg_ids.include? m[:organization_id] }.each do |m|
+    @json[:memberships].find_all { |m| m[:role] == 'member' and m[:organization_id] == @legislature[:id] }.each do |m|
       raise "No term" if m[:legislative_period_id].to_s.empty?
 
       # Don't duplicate start/end dates into memberships needlessly
