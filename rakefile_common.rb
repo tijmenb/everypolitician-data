@@ -1,9 +1,9 @@
-require 'yajl/json_gem'
-require 'open-uri'
-require 'rake/clean'
-require 'pry'
-require 'csv'
 require 'colorize'
+require 'csv'
+require 'open-uri'
+require 'pry'
+require 'rake/clean'
+require 'yajl/json_gem'
 
 Numeric.class_eval { def empty?; false; end }
 
@@ -85,7 +85,12 @@ namespace :whittle do
   end  
 end
 
-
+#-----------------------------------------------------------------------
+# Transform the results from generic CSV-to-Popolo into EP-Popolo
+#
+#   - merge legislature data from meta.json
+#   - merge term data from terms.csv
+#-----------------------------------------------------------------------
 namespace :transform do
 
   file 'ep-popolo-v1.0.json' => :write
@@ -110,8 +115,7 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Rule: The legislature must be named
-  #   Get this from the meta.json file
+  # Set legislature data from meta.json file
   #---------------------------------------------------------------------
   task :write => :name_legislature
   task :name_legislature => :ensure_legislature do
@@ -176,10 +180,7 @@ namespace :transform do
 
   #---------------------------------------------------------------------
   # Rule: Legislative Memberships must have `on_behalf_of`
-  # Will be set to @INDEPENDENT, or first named "Independent" party
-  # (or one will be created)
   #---------------------------------------------------------------------
-
   def unknown_party
     if unknown = @json[:organizations].find { |o| o[:classification] == 'party' and o[:name].downcase == 'unknown' }
       return unknown
@@ -204,7 +205,6 @@ namespace :transform do
   #---------------------------------------------------------------------
   # Rule: Areas should be first class, not just embedded
   #---------------------------------------------------------------------
-
   task :write => :check_no_embedded_areas 
   task :check_no_embedded_areas => :ensure_legislature do
     raise "Memberships should not have embedded areas" if @json[:memberships].any? { |m| m.key? :area }
