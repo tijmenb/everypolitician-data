@@ -9,11 +9,9 @@ namespace :whittle do
   file 'sources/merged.json' => :write 
   CLEAN.include('sources/merged.json')
 
-  # Source-specific files must provide a @SOURCE
-
   task :meta_info => :load do
     @json[:meta] ||= {}
-    @json[:meta][:source] = @SOURCE || instructions(:source) || abort("No @SOURCE defined")
+    @json[:meta][:source] = instructions(:source) || abort("No @SOURCE defined")
   end
 
   # Remove any 'warnings' left behind from (e.g.) csv-to-popolo
