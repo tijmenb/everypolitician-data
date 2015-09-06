@@ -2284,6 +2284,8 @@
     {
       "birth_date": "1953-06-11",
       "email": "Peeter.Ernits@riigikogu.ee",
+      "gender": "male",
+      "given_name": "Peeter",
       "id": "person/f8a770b2-916c-4172-84b3-005ba9906a18",
       "name": "Peeter Ernits"
     },
@@ -2486,7 +2488,21 @@
     {
       "birth_date": "1973-11-08",
       "email": "Sven.Mikser@riigikogu.ee",
+      "gender": "male",
+      "given_name": "Sven",
       "id": "person/8719c4cd-291e-4216-b3e1-8b5a0d7902fb",
+      "identifiers": [
+        {
+          "identifier": "/m/0j_4zbm",
+          "scheme": "freebase"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mikser_sven.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mikser_sven.jpg"
+        }
+      ],
       "name": "Sven Mikser"
     },
     {
@@ -2986,7 +3002,7 @@
     }
   ],
   "meta": {
-    "source": "http://www.riigikogu.ee/en/parliament-of-estonia/composition/members-riigikogu/"
+    "source": "http://riigikogu.ee/"
   },
   "memberships": [
     {

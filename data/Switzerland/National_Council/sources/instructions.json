@@ -15,12 +15,12 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/switzerland-national-assembly-wikidata",
-        "query": "SELECT *, id AS wikidata, identifier__parlamentDOTch AS id FROM data"
+        "query": "SELECT * FROM data"
       },
       "source": "https://www.wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "incoming_field": "id",
+        "incoming_field": "identifier__parlamentdotch",
         "existing_field": "id"
       }
     },

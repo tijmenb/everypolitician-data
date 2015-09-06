@@ -19,6 +19,12 @@
       "gender": "male",
       "given_name": "Alasdair",
       "id": "person/11402",
+      "identifiers": [
+        {
+          "identifier": "mr-alasdair-mcdonnell",
+          "scheme": "hansard"
+        }
+      ],
       "name": "Alasdair McDonnell"
     },
     {
@@ -356,7 +362,6 @@
     },
     {
       "birth_date": "1972-06-01",
-      "death_date": "2013-07-12",
       "gender": "male",
       "id": "person/24702",
       "name": "Conall McDevitt"
@@ -366,16 +371,35 @@
       "gender": "male",
       "given_name": "Conor",
       "id": "person/11734",
+      "identifiers": [
+        {
+          "identifier": "mr-conor-murphy",
+          "scheme": "hansard"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Conor_Murphy.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Conor_Murphy.jpg"
+        }
+      ],
       "name": "Conor Murphy"
     },
     {
       "birth_date": "1982-03-02",
       "gender": "male",
       "id": "person/13911",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Edinburgh_fbu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Edinburgh_fbu.jpg"
+        }
+      ],
       "name": "Daithí McKay"
     },
     {
       "birth_date": "1959-07-06",
+      "family_name": "Kennedy",
       "gender": "male",
       "given_name": "Danny",
       "id": "person/13811",
@@ -542,10 +566,6 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "00000021664",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "0000 0000 7866 1088",
           "scheme": "isni"
         },
@@ -560,6 +580,10 @@
         {
           "identifier": "195/000089925",
           "scheme": "nndb"
+        },
+        {
+          "identifier": "00000021664",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/David_Trimble_at_Lisburn_Seed_Group_benefit,_Hillsborough_Castle,_Christmas_2007_crop.jpg",
@@ -671,6 +695,7 @@
     {
       "birth_date": "1949-01-14",
       "gender": "male",
+      "given_name": "Donovan",
       "id": "person/13824",
       "name": "Donovan McClelland"
     },
@@ -684,6 +709,7 @@
     {
       "birth_date": "1944-09-15",
       "gender": "male",
+      "given_name": "Eamon",
       "id": "person/13851",
       "name": "Eamonn ONeill"
     },
@@ -697,6 +723,10 @@
         {
           "identifier": "487",
           "scheme": "historichansard"
+        },
+        {
+          "identifier": "mr-eddie-mcgrady",
+          "scheme": "hansard"
         }
       ],
       "name": "Eddie McGrady"
@@ -769,6 +799,10 @@
         {
           "identifier": "5931b580-72de-4d52-ad93-a7ae3d3cb662",
           "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "616537",
+          "scheme": "discogs"
         }
       ],
       "name": "Francie Brolly"
@@ -782,6 +816,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Fraser",
       "id": "person/13742",
       "name": "Fraser Agnew"
     },
@@ -867,10 +902,6 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "00000017676",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "gerry-adams",
           "scheme": "journalisted"
         },
@@ -893,6 +924,14 @@
         {
           "identifier": "072903600",
           "scheme": "nta"
+        },
+        {
+          "identifier": "mr-gerry-adams",
+          "scheme": "hansard"
+        },
+        {
+          "identifier": "00000017676",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gerry_Adams_Easter_Lily_Badge.jpg",
@@ -1003,16 +1042,16 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "00000012445",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "1396",
           "scheme": "europarlmep"
         },
         {
           "identifier": "0000 0000 7863 4864",
           "scheme": "isni"
+        },
+        {
+          "identifier": "12062254n",
+          "scheme": "bnf"
         },
         {
           "identifier": "028878302",
@@ -1029,6 +1068,10 @@
         {
           "identifier": "mp52885",
           "scheme": "npg"
+        },
+        {
+          "identifier": "00000012445",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/DrIanPaisley.jpg",
@@ -1040,6 +1083,9 @@
       "name": "Ian Paisley"
     },
     {
+      "birth_date": "1966-12-12",
+      "gender": "male",
+      "given_name": "Ian",
       "id": "person/13852",
       "name": "Ian Paisley Jnr"
     },
@@ -1096,6 +1142,10 @@
         {
           "identifier": "22098572",
           "scheme": "viaf"
+        },
+        {
+          "identifier": "mr-jeffrey-donaldson",
+          "scheme": "hansard"
         }
       ],
       "name": "Jeffrey M. Donaldson"
@@ -1256,10 +1306,6 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "00000020903",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "1408",
           "scheme": "europarlmep"
         },
@@ -1282,6 +1328,10 @@
         {
           "identifier": "111580",
           "scheme": "gtaa"
+        },
+        {
+          "identifier": "00000020903",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/John_Hume_2008.jpg",
@@ -1421,6 +1471,12 @@
       "given_name": "John",
       "honorific_prefix": "The Right Honourable",
       "id": "person/13371",
+      "identifiers": [
+        {
+          "identifier": "mr-john-alderdice",
+          "scheme": "hansard"
+        }
+      ],
       "name": "Lord Alderdice"
     },
     {
@@ -1530,12 +1586,12 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "00000026174",
-          "scheme": "muzinger"
-        },
-        {
           "identifier": "martin-mcguinness",
           "scheme": "journalisted"
+        },
+        {
+          "identifier": "00000026174",
+          "scheme": "munzinger"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/MartinMcGuinness_(cropped).jpg",
@@ -1621,12 +1677,14 @@
     {
       "birth_date": "1946-02-13",
       "gender": "male",
+      "given_name": "Mervyn",
       "id": "person/13761",
       "name": "Mervyn Carrick"
     },
     {
       "birth_date": "1964-09-04",
       "gender": "male",
+      "given_name": "Mervyn",
       "id": "person/13867",
       "name": "Mervyn Storey"
     },
@@ -1906,6 +1964,10 @@
         {
           "identifier": "/m/025q2d",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "mr-pat-doherty",
+          "scheme": "hansard"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/PatDoherty.jpg",
@@ -1955,6 +2017,12 @@
       "gender": "male",
       "given_name": "Patrick",
       "id": "person/13860",
+      "identifiers": [
+        {
+          "identifier": "113475827",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Patrick Roche"
     },
     {
@@ -2040,6 +2108,10 @@
         {
           "identifier": "/m/025q3t",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "mr-peter-robinson",
+          "scheme": "hansard"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Peter_Robinson_at_Titanic_Belfast_(Cropped).jpg",
@@ -2252,6 +2324,10 @@
         {
           "identifier": "/m/01n7p0",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "mr-seamus-mallon",
+          "scheme": "hansard"
         }
       ],
       "name": "Seamus Mallon"
@@ -2371,6 +2447,12 @@
       "gender": "male",
       "given_name": "Tom",
       "id": "person/13750",
+      "identifiers": [
+        {
+          "identifier": "68433764",
+          "scheme": "viaf"
+        }
+      ],
       "name": "Tom Benson"
     },
     {
