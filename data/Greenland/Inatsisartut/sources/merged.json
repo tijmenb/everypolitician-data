@@ -1583,73 +1583,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/1979-05-01",
-          "name": "1979-05-01"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1983-04-12",
-          "name": "1983-04-12"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1984-06-06",
-          "name": "1984-06-06"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1987-05-26",
-          "name": "1987-05-26"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1991-03-05",
-          "name": "1991-03-05"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1995-03-04",
-          "name": "1995-03-04"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1999-02-16",
-          "name": "1999-02-16"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2002-12-03",
-          "name": "2002-12-03"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2005-11-15",
-          "name": "2005-11-15"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2009-06-02",
-          "name": "2009-06-02"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2013-03-12",
-          "name": "2013-03-12"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2014-11-28",
-          "name": "2014-11-28"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2014-12-12",
-          "name": "2014-12-12"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -4254,6 +4187,73 @@
       "organization_id": "legislature",
       "person_id": "person/vivian_motzfeldt",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1979-05-01",
+      "name": "1979-05-01"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1983-04-12",
+      "name": "1983-04-12"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1984-06-06",
+      "name": "1984-06-06"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1987-05-26",
+      "name": "1987-05-26"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1991-03-05",
+      "name": "1991-03-05"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1995-03-04",
+      "name": "1995-03-04"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1999-02-16",
+      "name": "1999-02-16"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2002-12-03",
+      "name": "2002-12-03"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2005-11-15",
+      "name": "2005-11-15"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2009-06-02",
+      "name": "2009-06-02"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2013-03-12",
+      "name": "2013-03-12"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014-11-28",
+      "name": "2014-11-28"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014-12-12",
+      "name": "2014-12-12"
     }
   ]
 }

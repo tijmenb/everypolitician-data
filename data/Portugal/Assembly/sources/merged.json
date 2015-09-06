@@ -5138,43 +5138,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/12",
-          "name": "12"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/11",
-          "name": "11"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/10",
-          "name": "10"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/9",
-          "name": "9"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/8",
-          "name": "8"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/6",
-          "name": "6"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/7",
-          "name": "7"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -11856,6 +11819,43 @@
       "organization_id": "legislature",
       "person_id": "person/vitalino-canas",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/10",
+      "name": "10"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/11",
+      "name": "11"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/12",
+      "name": "12"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/6",
+      "name": "6"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/7",
+      "name": "7"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/8",
+      "name": "8"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/9",
+      "name": "9"
     }
   ]
 }

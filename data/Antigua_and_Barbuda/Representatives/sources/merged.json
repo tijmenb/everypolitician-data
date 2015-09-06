@@ -904,58 +904,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/1971",
-          "name": "1971"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1976",
-          "name": "1976"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1980",
-          "name": "1980"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1984",
-          "name": "1984"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1989",
-          "name": "1989"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1994",
-          "name": "1994"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1999",
-          "name": "1999"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2004",
-          "name": "2004"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2009",
-          "name": "2009"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2014",
-          "name": "2014"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -2781,6 +2729,58 @@
       "organization_id": "legislature",
       "person_id": "person/winston_vincent_williams",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1971",
+      "name": "1971"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1976",
+      "name": "1976"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1980",
+      "name": "1980"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1984",
+      "name": "1984"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1989",
+      "name": "1989"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1994",
+      "name": "1994"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1999",
+      "name": "1999"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2004",
+      "name": "2004"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2009",
+      "name": "2009"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014",
+      "name": "2014"
     }
   ]
 }

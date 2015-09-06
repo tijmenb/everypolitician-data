@@ -812,23 +812,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2013",
-          "name": "2013"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2009",
-          "name": "2009"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2005",
-          "name": "2005"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -1665,6 +1648,23 @@
       "organization_id": "legislature",
       "person_id": "person/200",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2005",
+      "name": "2005"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2009",
+      "name": "2009"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013"
     }
   ]
 }

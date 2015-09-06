@@ -283,13 +283,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/21",
-          "name": "21"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -510,6 +503,13 @@
       "organization_id": "legislature",
       "person_id": "person/valdon_dowiyogo",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/21",
+      "name": "21"
     }
   ]
 }

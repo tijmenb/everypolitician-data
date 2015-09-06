@@ -1430,13 +1430,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/44",
-          "name": "44"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -2469,6 +2462,13 @@
       "organization_id": "chamber/senate",
       "person_id": "person/xt4",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/44",
+      "name": "44"
     }
   ]
 }

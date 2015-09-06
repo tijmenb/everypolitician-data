@@ -16545,13 +16545,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/17",
-          "name": "17"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -23514,6 +23507,13 @@
       "organization_id": "chamber/chamber_of_deputies",
       "person_id": "person/9514",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/17",
+      "name": "17"
     }
   ]
 }

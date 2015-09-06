@@ -261,18 +261,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/9",
-          "name": "9"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/8",
-          "name": "8"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -663,6 +651,18 @@
       "organization_id": "legislature",
       "person_id": "person/stephenson-king",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/8",
+      "name": "8"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/9",
+      "name": "9"
     }
   ]
 }

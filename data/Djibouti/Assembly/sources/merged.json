@@ -590,13 +590,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/6",
-          "name": "6"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -1328,6 +1321,13 @@
       "organization_id": "legislature",
       "person_id": "person/zakaria_abdillahi_ali",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/6",
+      "name": "6"
     }
   ]
 }

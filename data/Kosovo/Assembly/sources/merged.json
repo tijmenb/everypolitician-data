@@ -7509,33 +7509,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/chamber_2001-11-17",
-          "name": "chamber_2001-11-17"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/chamber_2004-11-23",
-          "name": "chamber_2004-11-23"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/chamber_2007-12-13",
-          "name": "chamber_2007-12-13"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/chamber_2010-12-12",
-          "name": "chamber_2010-12-12"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/chamber_2014-07-17",
-          "name": "chamber_2014-07-17"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -12890,6 +12863,33 @@
       "person_id": "person/mp_PresaMurati",
       "role": "member",
       "start_date": "2004-11-23"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/chamber_2001-11-17",
+      "name": "chamber_2001-11-17"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/chamber_2004-11-23",
+      "name": "chamber_2004-11-23"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/chamber_2007-12-13",
+      "name": "chamber_2007-12-13"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/chamber_2010-12-12",
+      "name": "chamber_2010-12-12"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/chamber_2014-07-17",
+      "name": "chamber_2014-07-17"
     }
   ]
 }

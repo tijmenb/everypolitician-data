@@ -510,13 +510,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/19",
-          "name": "19"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -748,6 +741,13 @@
       "organization_id": "legislature",
       "person_id": "person/505",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/19",
+      "name": "19"
     }
   ]
 }

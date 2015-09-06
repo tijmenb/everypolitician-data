@@ -2252,18 +2252,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2010",
-          "name": "2010"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2015",
-          "name": "2015"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -3427,6 +3415,18 @@
       "organization_id": "legislature",
       "person_id": "person/winston-jessurun",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2010",
+      "name": "2010"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2015",
+      "name": "2015"
     }
   ]
 }

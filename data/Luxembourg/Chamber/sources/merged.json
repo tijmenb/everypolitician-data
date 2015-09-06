@@ -1476,13 +1476,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2013",
-          "name": "2013"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -1979,6 +1972,13 @@
       "person_id": "person/25024",
       "role": "member",
       "start_date": "2015-04-29"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013"
     }
   ]
 }

@@ -11026,58 +11026,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/37",
-          "name": "37"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/38",
-          "name": "38"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/39",
-          "name": "39"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/40",
-          "name": "40"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/41",
-          "name": "41"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/42",
-          "name": "42"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/43",
-          "name": "43"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/44",
-          "name": "44"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/35",
-          "name": "35"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/36",
-          "name": "36"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -31057,6 +31005,58 @@
       "person_id": "person/10825",
       "role": "member",
       "start_date": "2014-02-08"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/35",
+      "name": "35"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/36",
+      "name": "36"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/37",
+      "name": "37"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/38",
+      "name": "38"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/39",
+      "name": "39"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/40",
+      "name": "40"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/41",
+      "name": "41"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/42",
+      "name": "42"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/43",
+      "name": "43"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/44",
+      "name": "44"
     }
   ]
 }

@@ -5688,13 +5688,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/11",
-          "name": "11"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -9557,6 +9550,13 @@
       "organization_id": "legislature",
       "person_id": "person/zulekha-juma-hassan",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/11",
+      "name": "11"
     }
   ]
 }

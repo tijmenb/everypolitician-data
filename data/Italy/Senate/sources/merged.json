@@ -6685,13 +6685,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/17",
-          "name": "17"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -10238,6 +10231,13 @@
       "organization_id": "chamber/senate",
       "person_id": "person/9339",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/17",
+      "name": "17"
     }
   ]
 }

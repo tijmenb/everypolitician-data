@@ -6865,13 +6865,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/ca2",
-          "name": "ca2"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -13068,6 +13061,13 @@
       "organization_id": "legislature",
       "person_id": "person/yubraj_gyawali",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/ca2",
+      "name": "ca2"
     }
   ]
 }

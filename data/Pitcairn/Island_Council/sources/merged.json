@@ -118,23 +118,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2013",
-          "name": "2013"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2011",
-          "name": "2011"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2009",
-          "name": "2009"
-        }
-      ],
       "name": "Legislature"
     }
   ],
@@ -239,6 +222,23 @@
       "organization_id": "legislature",
       "person_id": "person/michelle_christian",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2009",
+      "name": "2009"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2011",
+      "name": "2011"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013"
     }
   ]
 }

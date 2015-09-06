@@ -1143,28 +1143,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/1",
-          "name": "1"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2",
-          "name": "2"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/3",
-          "name": "3"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "4"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -8197,6 +8175,28 @@
       "person_id": "person/25219",
       "role": "member",
       "start_date": "2013-09-04"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1",
+      "name": "1"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/3",
+      "name": "3"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "4"
     }
   ]
 }

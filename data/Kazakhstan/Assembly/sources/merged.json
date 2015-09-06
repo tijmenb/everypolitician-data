@@ -2267,13 +2267,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/5",
-          "name": "5"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -3039,6 +3032,13 @@
       "organization_id": "legislature",
       "person_id": "person/94",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/5",
+      "name": "5"
     }
   ]
 }
