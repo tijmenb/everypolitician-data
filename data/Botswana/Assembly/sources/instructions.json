@@ -7,8 +7,24 @@
         "scraper": "tmtmtmtm/botswana-national-assembly-wp",
         "query": "SELECT * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/botswana-national-assembly-wp",
+      "source": "https://en.wikipedia.org",
       "type": "membership"
+    },
+    {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/botswana-national-assembly",
+        "query": "SELECT name, email FROM data"
+      },
+      "source": "http://www.parliament.gov.bw/",
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 40,
+        "amatch_warning": 100
+      }
     },
     {
       "file": "manual/terms.csv",
