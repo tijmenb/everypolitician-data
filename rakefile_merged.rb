@@ -1,21 +1,4 @@
 
-require 'colorize'
-require 'csv'
-require 'erb'
-require 'fileutils'
-require 'fuzzy_match'
-require 'json'
-require 'open-uri'
-require 'pry'
-require 'rake/clean'
-require 'set'
-
-def json_load(file)
-  return unless File.exist? file
-  JSON.parse(File.read(file), symbolize_names: true)
-end
-
-task :default => [ 'merge_sources:manual/members.csv' ]
 
 namespace :merge_sources do
 
@@ -24,21 +7,18 @@ namespace :merge_sources do
   end
 
   desc "Combine Sources"
-  task 'manual/members.csv' => :fetch_missing do
+  task 'sources/manual/members.csv' => :fetch_missing do
     combine_sources
   end
 
-  @instructions = json_load('instructions.json') 
-  raise "No sources" if @instructions[:sources].count.zero?
-
-  @recreatable = @instructions[:sources].find_all { |i| i.key? :create }
+  @recreatable = instructions(:sources).find_all { |i| i.key? :create }
   CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
-  CLOBBER.include 'manual/instructions.json'
+  CLEAN.include 'sources/manual/instructions.json'
 
   # For now, write the merged file to manual/members.csv so we can then
   # fall-back on the old-style rake task that looks there
   # TODO: consolidate these
-  CLOBBER.include 'manual/members.csv'
+  CLEAN.include 'sources/manual/members.csv'
 
   def morph_select(src, qs)
     morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
@@ -173,7 +153,7 @@ namespace :merge_sources do
   def combine_sources
 
     # build headers for everything
-    all_headers = @instructions[:sources].find_all { |src|
+    all_headers = instructions(:sources).find_all { |src|
       src[:type] != 'term'
     }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
       # puts "Headers from #{file}".cyan
@@ -183,7 +163,7 @@ namespace :merge_sources do
 
     # First concat everything that's a "membership" (or default)
     all_rows = []
-    @instructions[:sources].find_all { |src|
+    instructions(:sources).find_all { |src|
       src[:type].to_s.empty? || src[:type].to_s.downcase == 'membership'
     }.each do |src| 
       file = src[:file] 
@@ -227,7 +207,7 @@ namespace :merge_sources do
     # e.g. (with incoming_field='name')
     #    "overrides": { "Ian Paisley, Jr.": "13852" }
 
-    @instructions[:sources].find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
+    instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
       puts "Merging with #{pd[:file]}".magenta
 
       raise "No merge instructions" unless pd.key?(:merge) 
@@ -254,7 +234,7 @@ namespace :merge_sources do
     # Map Areas 
     # So far only tested with Australia, so super-simple logic. 
     # TOOD: Expand this later
-    if area = @instructions[:sources].find { |src| src[:type].to_s.downcase == 'area' } 
+    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' } 
       all_headers |= [:area_id]
       ocds = CSV.table(area[:file], converters: nil)
       fuzzer = FuzzyMatch.new(ocds, read: :name)
@@ -284,18 +264,10 @@ namespace :merge_sources do
     end
     
     # Then write it all out
-    FileUtils.mkpath "manual"
-    CSV.open("manual/members.csv", "w") do |out|
+    FileUtils.mkpath "sources/manual"
+    CSV.open("sources/manual/members.csv", "w") do |out|
       out << all_headers
       all_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
-    end
-
-    # Write a source file, if required
-    # TODO remove this once we're doing everything ourselves
-
-    unless File.exist? 'manual/instructions.json'
-      source = { source: @instructions[:sources].first { |i| i[:source] }[:source] }
-      File.write 'manual/instructions.json', JSON.pretty_generate(source)
     end
 
   end

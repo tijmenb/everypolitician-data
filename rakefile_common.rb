@@ -1,13 +1,15 @@
 require 'colorize'
 require 'csv'
+require 'csv_to_popolo'
+require 'erb'
+require 'fileutils'
+require 'fuzzy_match'
+require 'json'
 require 'open-uri'
 require 'pry'
 require 'rake/clean'
+require 'set'
 require 'yajl/json_gem'
-
-require_relative 'rakefile_csvs.rb'
-require_relative 'rakefile_transform.rb'
-require_relative 'rakefile_whittle.rb'
 
 Numeric.class_eval { def empty?; false; end }
 
@@ -23,7 +25,7 @@ def deep_sort(element)
 end
 
 def json_load(file)
-  return unless File.exist? file
+  raise "No such file #{file}" unless File.exist? file
   JSON.parse(File.read(file), symbolize_names: true)
 end
 
@@ -38,11 +40,28 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(final))
 end
 
+@SOURCE_DIR = 'sources/manual'
+@DATA_FILE = @SOURCE_DIR + '/members.csv'
+@INSTRUCTIONS_FILE = 'sources/instructions.json'
+
+def load_instructions_file
+  json = json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
+  json[:sources].each do |s|
+    s[:file] = "sources/%s" % s[:file] unless s[:file][/sources/]
+  end
+  json
+end
+
 def instructions(key)
-  @instructions ||= json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
+  @instructions ||= load_instructions_file
   @instructions[key]
 end
 
 desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
 task :default => :csvs
+
+require_relative 'rakefile_csvs.rb'
+require_relative 'rakefile_local.rb'
+require_relative 'rakefile_merged.rb'
+require_relative 'rakefile_transform.rb'
