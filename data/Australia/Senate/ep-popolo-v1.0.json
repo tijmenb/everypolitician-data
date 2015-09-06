@@ -596,6 +596,16 @@
       "name": "Senator Mehmet Tillem"
     },
     {
+      "id": "person/JKM",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg"
+        }
+      ],
+      "name": "Senator Nick McKim"
+    },
+    {
       "email": "senator.xenophon@aph.gov.au",
       "id": "person/8IV",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG",
@@ -1458,11 +1468,6 @@
       "classification": "party",
       "id": "the_nationals",
       "name": "The Nationals"
-    },
-    {
-      "classification": "chamber",
-      "id": "chamber/senate",
-      "name": "senate"
     }
   ],
   "meta": {
@@ -1473,7 +1478,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/008W7",
       "role": "member"
     },
@@ -1481,7 +1486,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AOL",
       "role": "member"
     },
@@ -1489,7 +1494,7 @@
       "area_id": "area/northern_territory",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "country_liberal_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AOM",
       "role": "member"
     },
@@ -1497,7 +1502,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AON",
       "role": "member"
     },
@@ -1505,7 +1510,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AOP",
       "role": "member"
     },
@@ -1513,7 +1518,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AOQ",
       "role": "member"
     },
@@ -1521,7 +1526,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AOS",
       "role": "member"
     },
@@ -1529,7 +1534,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/00AOU",
       "role": "member"
     },
@@ -1537,7 +1542,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/108616",
       "role": "member"
     },
@@ -1545,7 +1550,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_democratic_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/111206",
       "role": "member"
     },
@@ -1553,7 +1558,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/112096",
       "role": "member"
     },
@@ -1561,7 +1566,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/121628",
       "role": "member"
     },
@@ -1569,7 +1574,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/140651",
       "role": "member"
     },
@@ -1577,7 +1582,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/155410",
       "role": "member"
     },
@@ -1585,7 +1590,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/183342",
       "role": "member"
     },
@@ -1593,7 +1598,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/192970",
       "role": "member"
     },
@@ -1601,7 +1606,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/195565",
       "role": "member"
     },
@@ -1609,7 +1614,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/200287",
       "role": "member"
     },
@@ -1617,7 +1622,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/204953",
       "role": "member"
     },
@@ -1625,7 +1630,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/207825",
       "role": "member"
     },
@@ -1633,7 +1638,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/217241",
       "role": "member"
     },
@@ -1641,7 +1646,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/217571",
       "role": "member"
     },
@@ -1649,7 +1654,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/225099",
       "role": "member"
     },
@@ -1657,7 +1662,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/225307",
       "role": "member"
     },
@@ -1665,7 +1670,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/231199",
       "role": "member"
     },
@@ -1673,7 +1678,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/241710",
       "role": "member"
     },
@@ -1681,7 +1686,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/243237",
       "role": "member"
     },
@@ -1689,7 +1694,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/243273",
       "role": "member"
     },
@@ -1697,7 +1702,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/244247",
       "role": "member"
     },
@@ -1705,7 +1710,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/245212",
       "role": "member"
     },
@@ -1713,7 +1718,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/247871",
       "role": "member"
     },
@@ -1721,7 +1726,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/249499",
       "role": "member"
     },
@@ -1729,7 +1734,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_motoring_enthusiast_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/250024",
       "role": "member"
     },
@@ -1737,7 +1742,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/250026",
       "role": "member"
     },
@@ -1745,7 +1750,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "palmer_united_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/250045",
       "role": "member"
     },
@@ -1753,7 +1758,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/250216",
       "role": "member"
     },
@@ -1761,7 +1766,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/258337",
       "role": "member"
     },
@@ -1769,7 +1774,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/2L6",
       "role": "member"
     },
@@ -1777,7 +1782,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/3L6",
       "role": "member"
     },
@@ -1785,7 +1790,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/4L6",
       "role": "member"
     },
@@ -1793,7 +1798,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/53369",
       "role": "member"
     },
@@ -1801,7 +1806,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/5K4",
       "role": "member"
     },
@@ -1809,7 +1814,7 @@
       "area_id": "area/australian_capital_territory",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/7G6",
       "role": "member"
     },
@@ -1817,7 +1822,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/7L6",
       "role": "member"
     },
@@ -1825,7 +1830,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/84L",
       "role": "member"
     },
@@ -1833,7 +1838,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/84M",
       "role": "member"
     },
@@ -1841,7 +1846,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/84N",
       "role": "member"
     },
@@ -1849,7 +1854,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "independent",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/8IV",
       "role": "member"
     },
@@ -1857,7 +1862,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/AI6",
       "role": "member"
     },
@@ -1865,7 +1870,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/AW5",
       "role": "member"
     },
@@ -1873,7 +1878,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/C16",
       "role": "member"
     },
@@ -1881,7 +1886,7 @@
       "area_id": "area/northern_territory",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/CDK",
       "role": "member"
     },
@@ -1889,7 +1894,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/CPR",
       "role": "member"
     },
@@ -1897,7 +1902,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/D2I",
       "role": "member"
     },
@@ -1905,7 +1910,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/DYU",
       "role": "member"
     },
@@ -1913,7 +1918,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/F49",
       "role": "member"
     },
@@ -1921,7 +1926,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/G0D",
       "role": "member"
     },
@@ -1929,7 +1934,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/G1N",
       "role": "member"
     },
@@ -1937,7 +1942,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/GB6",
       "role": "member"
     },
@@ -1945,7 +1950,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/H6V",
       "role": "member"
     },
@@ -1953,7 +1958,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/H6X",
       "role": "member"
     },
@@ -1961,7 +1966,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/HDA",
       "role": "member"
     },
@@ -1969,7 +1974,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/HLL",
       "role": "member"
     },
@@ -1977,7 +1982,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "family_first_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/HYG",
       "role": "member"
     },
@@ -1985,7 +1990,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/HZB",
       "role": "member"
     },
@@ -1993,7 +1998,7 @@
       "area_id": "area/australian_capital_territory",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/HZE",
       "role": "member"
     },
@@ -2001,7 +2006,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I07",
       "role": "member"
     },
@@ -2009,7 +2014,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0M",
       "role": "member"
     },
@@ -2017,7 +2022,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0N",
       "role": "member"
     },
@@ -2025,7 +2030,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0P",
       "role": "member"
     },
@@ -2033,7 +2038,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0Q",
       "role": "member"
     },
@@ -2041,7 +2046,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0T",
       "role": "member"
     },
@@ -2049,7 +2054,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0U",
       "role": "member"
     },
@@ -2057,7 +2062,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/I0V",
       "role": "member"
     },
@@ -2065,7 +2070,7 @@
       "area_id": "area/australian_capital_territory",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/ING",
       "role": "member"
     },
@@ -2073,15 +2078,23 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/J7Q",
       "role": "member"
     },
     {
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "person/JKM",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/M0R",
       "role": "member"
     },
@@ -2089,7 +2102,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/M56",
       "role": "member"
     },
@@ -2097,7 +2110,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/N26",
       "role": "member"
     },
@@ -2105,7 +2118,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/YE4",
       "role": "member"
     },
@@ -2113,7 +2126,7 @@
       "area_id": "area/queensland",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/YW4",
       "role": "member"
     },
@@ -2121,7 +2134,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/bv7",
       "role": "member"
     },
@@ -2129,7 +2142,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e4t",
       "role": "member"
     },
@@ -2137,7 +2150,7 @@
       "area_id": "area/south_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e5e",
       "role": "member"
     },
@@ -2145,7 +2158,7 @@
       "area_id": "area/new_south_wales",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "the_nationals",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e5g",
       "role": "member"
     },
@@ -2153,7 +2166,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e5v",
       "role": "member"
     },
@@ -2161,7 +2174,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e5x",
       "role": "member"
     },
@@ -2169,7 +2182,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e5z",
       "role": "member"
     },
@@ -2177,7 +2190,7 @@
       "area_id": "area/western_australia",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_labor_party",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/e68",
       "role": "member"
     },
@@ -2185,7 +2198,7 @@
       "area_id": "area/tasmania",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/ka5",
       "role": "member"
     },
@@ -2193,7 +2206,7 @@
       "area_id": "area/victoria",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "liberal_party_of_australia",
-      "organization_id": "chamber/senate",
+      "organization_id": "legislature",
       "person_id": "person/xt4",
       "role": "member"
     }
