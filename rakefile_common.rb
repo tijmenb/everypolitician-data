@@ -164,14 +164,11 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Rule: Legislative Memberships must be for a Term
+  # Don't duplicate start/end dates into memberships needlessly
   #---------------------------------------------------------------------
-  task :write => :ensure_membership_terms
-  task :ensure_membership_terms => :ensure_term do
+  task :write => :tidy_membership_dates
+  task :tidy_membership_dates => :ensure_term do
     @json[:memberships].find_all { |m| m[:role] == 'member' and m[:organization_id] == @legislature[:id] }.each do |m|
-      raise "No term" if m[:legislative_period_id].to_s.empty?
-
-      # Don't duplicate start/end dates into memberships needlessly
       e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or raise "#{m[:legislative_period_id]} is not a term"
       m.delete :start_date if m[:start_date].to_s == e[:start_date].to_s
       m.delete :end_date   if m[:end_date].to_s   == e[:end_date].to_s
@@ -208,6 +205,7 @@ namespace :transform do
   task :write => :check_no_embedded_areas 
   task :check_no_embedded_areas => :ensure_legislature do
     raise "Memberships should not have embedded areas" if @json[:memberships].any? { |m| m.key? :area }
+    raise "Memberships must all have legislative_periods" if @json[:memberships].any? { |m| m[:legislative_period_id].to_s.empty? }
   end
 
 end
