@@ -2939,6 +2939,33 @@
     ]
   },
   {
+    "name": "Kiribati",
+    "country": "Kiribati",
+    "code": "KI",
+    "slug": "Kiribati",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Kiribati/Parliament/sources",
+        "popolo": "data/Kiribati/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1441570538",
+        "person_count": 45,
+        "sha": "46e42dd",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2010",
+            "slug": "10",
+            "csv": "data/Kiribati/Parliament/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Kosovo",
     "country": "Kosovo",
     "code": "XK",
