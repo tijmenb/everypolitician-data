@@ -1568,11 +1568,6 @@
       "name": "Mouvance RAVALOMANANA"
     },
     {
-      "classification": "chamber",
-      "id": "chamber/national_assembly",
-      "name": "National Assembly"
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -1608,7 +1603,7 @@
       "area_id": "area/vohémar",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vpm-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/abdillah_-",
       "role": "member"
     },
@@ -1616,7 +1611,7 @@
       "area_id": "area/mitsinjo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/alidy_bin_soufou",
       "role": "member"
     },
@@ -1624,21 +1619,15 @@
       "area_id": "area/ambatondrazaka",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andriamasimanana_aureline",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/andriamasimanana_aureline",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/mandoto",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andriamboavonjy_nantenaina_herisoa",
       "role": "member"
     },
@@ -1646,7 +1635,7 @@
       "area_id": "area/antananarivo_avaradrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mouvance_ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andriamitantsoa_ramasindraibe_benjamin",
       "role": "member"
     },
@@ -1654,77 +1643,47 @@
       "area_id": "area/ambositra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andrianarivo_harimampianina_razakarivelo",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/andrianarivo_harimampianina_razakarivelo",
-      "role": "Vice-président Fianarantsoa"
     },
     {
       "area_id": "area/ambatondrazaka",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andrianirina_josoa_marohajaina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/andrianirina_josoa_marohajaina",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/ampanihy_andrefana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andrianjaka_samson_goulzar",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/andrianjaka_samson_goulzar",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/manandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vpm-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andrianjanahary_fanomezantsoa",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/andrianjanahary_fanomezantsoa",
-      "role": "Député"
     },
     {
       "area_id": "area/manakara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/andriantsizehena_benja_urbain",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/andriantsizehena_benja_urbain",
-      "role": "Député"
     },
     {
       "area_id": "area/amboasary_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/angele_solange",
       "role": "member"
     },
@@ -1732,35 +1691,23 @@
       "area_id": "area/nosy_be",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/arosy_namiandrazana_françois",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/arosy_namiandrazana_françois",
-      "role": "Député"
     },
     {
       "area_id": "area/besalampy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/les_as",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/delphine_florentine",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/delphine_florentine",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/maroantsetra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/dinah_romual",
       "role": "member"
     },
@@ -1768,7 +1715,7 @@
       "area_id": "area/analalava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/psd",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/djaosera_irenée",
       "role": "member"
     },
@@ -1776,7 +1723,7 @@
       "area_id": "area/morafenobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/elitafa_basile",
       "role": "member"
     },
@@ -1784,7 +1731,7 @@
       "area_id": "area/toamasina_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/famindra_justin",
       "role": "member"
     },
@@ -1792,7 +1739,7 @@
       "area_id": "area/maintirano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/farhad_houssen_houssen",
       "role": "member"
     },
@@ -1800,7 +1747,7 @@
       "area_id": "area/miandrivazo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/hanitriniaina_mamy_armand",
       "role": "member"
     },
@@ -1808,7 +1755,7 @@
       "area_id": "area/soavinandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/harinosy_rabenerika_charlot",
       "role": "member"
     },
@@ -1816,217 +1763,127 @@
       "area_id": "area/taolagnaro",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/hatrefindrazana_jerry",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/hatrefindrazana_jerry",
-      "role": "Député"
     },
     {
       "area_id": "area/toliary_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/helson_brisson_erafa",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/helson_brisson_erafa",
-      "role": "Vice-président Toliara"
     },
     {
       "area_id": "area/ambovombe_androy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/henri_jean_michel",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/henri_jean_michel",
-      "role": "Député"
     },
     {
       "area_id": "area/soalala",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/houssene_abdallah",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/houssene_abdallah",
-      "role": "Député"
     },
     {
       "area_id": "area/taolagnaro",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ijo",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ijo",
-      "role": "Député"
     },
     {
       "area_id": "area/bekily",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mts",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/jean_daniel",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/jean_daniel",
-      "role": "Député"
     },
     {
       "area_id": "area/antsirabe_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/jean_francois_michel",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/jean_francois_michel",
-      "role": "Député"
     },
     {
       "area_id": "area/manajary",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/kathy_-",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/kathy_-",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antalaha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/laisoa_jean_pierre",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/laisoa_jean_pierre",
-      "role": "Député"
     },
     {
       "area_id": "area/marolambo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/levao_nitadiavina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/levao_nitadiavina",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/ampanihy_andrefana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/liahosoa_malement",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/liahosoa_malement",
-      "role": "Rapporteur général"
     },
     {
       "area_id": "area/befandriana_avaratra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/lylyette_rené_de_roland",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/lylyette_rené_de_roland",
-      "role": "Député"
     },
     {
       "area_id": "area/antanambao_manampotsy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/maharamby_ndalana_espérant",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/maharamby_ndalana_espérant",
-      "role": "Député"
     },
     {
       "area_id": "area/antsiranana_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/mahazoasy_mananjara_freddie_richard",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/mahazoasy_mananjara_freddie_richard",
-      "role": "Vice-président Antsiranana"
     },
     {
       "area_id": "area/sambava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/mamangy_norbert",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/mamangy_norbert",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/morondava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/mamod’ali_hawel",
       "role": "member"
     },
@@ -2034,21 +1891,15 @@
       "area_id": "area/manajary",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/mananjara_ruffine_aurelie",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/mananjara_ruffine_aurelie",
-      "role": "Député"
     },
     {
       "area_id": "area/ankazoabo_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/mara_niarisy",
       "role": "member"
     },
@@ -2056,189 +1907,111 @@
       "area_id": "area/befotaka_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/maroriky_-",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/maroriky_-",
-      "role": "Député"
     },
     {
       "area_id": "area/tsihombe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/masy_goulamaly_marie_jeanne_d’arc",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/masy_goulamaly_marie_jeanne_d’arc",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/ambovombe_androy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/milavonjy_andriasy_philobert",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/milavonjy_andriasy_philobert",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/fénérive_est",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/mohamad_ahmad",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/mohamad_ahmad",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/mahanoro",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/naharimamy_lucien_irmah",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/naharimamy_lucien_irmah",
-      "role": "Député"
     },
     {
       "area_id": "area/antsiranana_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/nasser_ahmed",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/nasser_ahmed",
-      "role": "Député"
     },
     {
       "area_id": "area/farafangana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ndremanjary_paraina_odilon",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ndremanjary_paraina_odilon",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/mahajanga_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/nicolas_stéphan_alphonse",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/nicolas_stéphan_alphonse",
-      "role": "Député"
     },
     {
       "area_id": "area/farafangana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/nivo_rufin",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/nivo_rufin",
-      "role": "Rapporteur de commission"
     },
     {
       "area_id": "area/anosibe_an’ala",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabarison_joseph_aimé",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabarison_joseph_aimé",
-      "role": "Député"
     },
     {
       "area_id": "area/kandreho",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabearisoa_jean_claude",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabearisoa_jean_claude",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/amparafaravola",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabekijana_solofo_hery",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabekijana_solofo_hery",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/arivonimamo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabemananjara_célestine",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabemananjara_célestine",
-      "role": "Député"
     },
     {
       "area_id": "area/betioky_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabenirina_jean_jacques",
       "role": "member"
     },
@@ -2246,63 +2019,39 @@
       "area_id": "area/andilamena",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabenirina_jean_réné",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabenirina_jean_réné",
-      "role": "Député"
     },
     {
       "area_id": "area/ambohidratrimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabenirina_maminiaina_solondraibe",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabenirina_maminiaina_solondraibe",
-      "role": "Député"
     },
     {
       "area_id": "area/isandra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rabetafika_norovelomampionona_roberthine",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rabetafika_norovelomampionona_roberthine",
-      "role": "Député"
     },
     {
       "area_id": "area/antananarivo_iii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rafenomanantsoa_tsirimaharo_ny_aina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rafenomanantsoa_tsirimaharo_ny_aina",
-      "role": "Député"
     },
     {
       "area_id": "area/mahajanga_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rahantanirina_lalao",
       "role": "member"
     },
@@ -2310,35 +2059,23 @@
       "area_id": "area/manjakandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rahantasoa_lydia_aimée_vololona",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rahantasoa_lydia_aimée_vololona",
-      "role": "Député"
     },
     {
       "area_id": "area/anjozorobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raharijaona_-",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raharijaona_-",
-      "role": "Député"
     },
     {
       "area_id": "area/fandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raharimalala_marie_lydia",
       "role": "member"
     },
@@ -2346,35 +2083,23 @@
       "area_id": "area/antananarivo_atsimondrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raharimanarivo_voahanginiaina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raharimanarivo_voahanginiaina",
-      "role": "Député"
     },
     {
       "area_id": "area/mananara_avaratra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raharinirina_sydonie",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raharinirina_sydonie",
-      "role": "Député"
     },
     {
       "area_id": "area/sakaraha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raharoarilala_tinoka_roberto_michael",
       "role": "member"
     },
@@ -2382,21 +2107,15 @@
       "area_id": "area/antananarivo_iv",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rahasimanana_paul_bert",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rahasimanana_paul_bert",
-      "role": "Député"
     },
     {
       "area_id": "area/antsiranana_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rahelihanta_jocelyne",
       "role": "member"
     },
@@ -2404,63 +2123,39 @@
       "area_id": "area/antananarivo_vi",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raherisoa_vololona_victorine",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raherisoa_vololona_victorine",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antananarivo_v",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raholdina_ranaivo_herinantsoina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raholdina_ranaivo_herinantsoina",
-      "role": "Député"
     },
     {
       "area_id": "area/tsiroanomandidy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raholijaona_harson",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raholijaona_harson",
-      "role": "Député"
     },
     {
       "area_id": "area/moramanga",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rajaobelina_lova_herizo",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rajaobelina_lova_herizo",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antananarivo_iii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rajaonson_lantoarijaona_maminiriana_tsitohaina",
       "role": "member"
     },
@@ -2468,7 +2163,7 @@
       "area_id": "area/mandritsara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rajaozanany_jean_claude",
       "role": "member"
     },
@@ -2476,119 +2171,71 @@
       "area_id": "area/amparafaravola",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotobe_emiline",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotobe_emiline",
-      "role": "Député"
     },
     {
       "area_id": "area/morombe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotomalala_lucien",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotomalala_lucien",
-      "role": "Député"
     },
     {
       "area_id": "area/andapa",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotomamonjy_jean_max",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotomamonjy_jean_max",
-      "role": "Président de l'Assemblée nationale"
     },
     {
       "area_id": "area/antananarivo_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotomanga_lantoarivola_sedera",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotomanga_lantoarivola_sedera",
-      "role": "Député"
     },
     {
       "area_id": "area/arivonimamo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotomanjato_rodin_edmond_georges",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotomanjato_rodin_edmond_georges",
-      "role": "Député"
     },
     {
       "area_id": "area/brickaville",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotonimanana_solonirina_andriambelovololona",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotonimanana_solonirina_andriambelovololona",
-      "role": "Député"
     },
     {
       "area_id": "area/iakora",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hasin’i_madagasikara",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotonirina_joe_ernest",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotonirina_joe_ernest",
-      "role": "Député"
     },
     {
       "area_id": "area/ambositra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotosolofondrabe_zakamady",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rakotosolofondrabe_zakamady",
-      "role": "Député"
     },
     {
       "area_id": "area/belo_tsiribihina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hiaraka_isika",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rakotozanakolona_paul",
       "role": "member"
     },
@@ -2596,35 +2243,23 @@
       "area_id": "area/ikalamavony",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ralinjanahary_tsitohaina_valimandresy",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ralinjanahary_tsitohaina_valimandresy",
-      "role": "Député"
     },
     {
       "area_id": "area/midongy_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ramahasindry_koko_herisoa",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ramahasindry_koko_herisoa",
-      "role": "Député"
     },
     {
       "area_id": "area/tsiroanomandidy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ramaherijaona_hajanirina_lanto",
       "role": "member"
     },
@@ -2632,35 +2267,23 @@
       "area_id": "area/antsalova",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ramarolahy_maurice",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ramarolahy_maurice",
-      "role": "Député"
     },
     {
       "area_id": "area/betafo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rambolamanana_jean_guy_honoré",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rambolamanana_jean_guy_honoré",
-      "role": "Député"
     },
     {
       "area_id": "area/fenoarivo_be",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ranaivoson_andrianavalona_fanomezanjaka_pierrot",
       "role": "member"
     },
@@ -2668,7 +2291,7 @@
       "area_id": "area/beloha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randria_joseph",
       "role": "member"
     },
@@ -2676,203 +2299,119 @@
       "area_id": "area/moramanga",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randriamahefa_henri_charles",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randriamahefa_henri_charles",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antanifotsy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randriamampianina_ramilison",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randriamampianina_ramilison",
-      "role": "Député"
     },
     {
       "area_id": "area/antananarivo_iv",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randriamandimbisoa_félix_marie_louis",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randriamandimbisoa_félix_marie_louis",
-      "role": "Député"
     },
     {
       "area_id": "area/antananarivo_avaradrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randriambolaina_gerry",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randriambolaina_gerry",
-      "role": "Député"
     },
     {
       "area_id": "area/ambatomainty",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randriamialisoa_willison",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randriamialisoa_willison",
-      "role": "Député"
     },
     {
       "area_id": "area/benenitra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianandraina_théophile_christian",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianandraina_théophile_christian",
-      "role": "Député"
     },
     {
       "area_id": "area/antsirabe_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianantenaina_olivier_anthonny_josé",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianantenaina_olivier_anthonny_josé",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antananarivo_v",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianarisoa_guy_célin_rivoniaina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianarisoa_guy_célin_rivoniaina",
-      "role": "Questeur chargé de la Bonne Gouvernance et de la Transparence"
     },
     {
       "area_id": "area/antananarivo_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianarisoa_stanislas",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianarisoa_stanislas",
-      "role": "Député"
     },
     {
       "area_id": "area/antanifotsy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianasolo_dera_louis_charles",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianasolo_dera_louis_charles",
-      "role": "Député"
     },
     {
       "area_id": "area/betroka",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianasolo_jean_nicolas",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianasolo_jean_nicolas",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/vondrozo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianasolo_volatiana_pauline",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianasolo_volatiana_pauline",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/toliary_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianasoloniaiko_siteny_thierry",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianasoloniaiko_siteny_thierry",
-      "role": "Questeur chargé de l’Administration, du Budget et du Personnel"
     },
     {
       "area_id": "area/vohibato",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianatoavina_jean_martin",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianatoavina_jean_martin",
-      "role": "Député"
     },
     {
       "area_id": "area/ambatolampy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianjanahary_soloniaina_olivier",
       "role": "member"
     },
@@ -2880,49 +2419,31 @@
       "area_id": "area/ivohibe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randrianoelina_razafimahefa_mamimalala_marie_josué_daniel",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randrianoelina_razafimahefa_mamimalala_marie_josué_daniel",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antananarivo_atsimondrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/randriarimalala_harijaona",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/randriarimalala_harijaona",
-      "role": "Rapporteur adjoint de commission"
     },
     {
       "area_id": "area/mampikony",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raphaelien_solofoniaina_emilien_narison",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raphaelien_solofoniaina_emilien_narison",
-      "role": "Député"
     },
     {
       "area_id": "area/mahajanga_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasalama_léon",
       "role": "member"
     },
@@ -2930,63 +2451,39 @@
       "area_id": "area/ambato_boeny",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasoaherinjatovo_bodovoahangy_dimitrine",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rasoaherinjatovo_bodovoahangy_dimitrine",
-      "role": "Député"
     },
     {
       "area_id": "area/antananarivo_vi",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasoanoromalala_marie_horace",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rasoanoromalala_marie_horace",
-      "role": "Député"
     },
     {
       "area_id": "area/maevatanàna",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasoarimalala_georgette",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rasoarimalala_georgette",
-      "role": "Député"
     },
     {
       "area_id": "area/toamasina_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasolofo_samuelson_jean_baptiste",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rasolofo_samuelson_jean_baptiste",
-      "role": "Député"
     },
     {
       "area_id": "area/faratsiho",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasolonjatovo_honoré",
       "role": "member"
     },
@@ -2994,133 +2491,79 @@
       "area_id": "area/ambohimahasoa",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rasolonomenjanahary_fidélis_justin",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rasolonomenjanahary_fidélis_justin",
-      "role": "Député"
     },
     {
       "area_id": "area/tsaratanàna",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ratefiarivony_jaona",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ratefiarivony_jaona",
-      "role": "Député"
     },
     {
       "area_id": "area/fianarantsoa_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ratovoson_manoelina_hery",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ratovoson_manoelina_hery",
-      "role": "Député"
     },
     {
       "area_id": "area/ambohidratrimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ratsimbazafy_luc",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ratsimbazafy_luc",
-      "role": "Vice-président de commission"
     },
     {
       "area_id": "area/antananarivo_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ratsivalaka_née_raheriarivo_marie_michelle",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ratsivalaka_née_raheriarivo_marie_michelle",
-      "role": "Député"
     },
     {
       "area_id": "area/miarinarivo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ravahimanana_guillaume_marie_ubald",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ravahimanana_guillaume_marie_ubald",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/sambava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raveloarivonjy_behavana",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/raveloarivonjy_behavana",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antsirabe_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ravelohanitra_nirina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ravelohanitra_nirina",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/ankazobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/-",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ravelonanosy_mamy_tiana_télésphore_gérard",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/ravelonanosy_mamy_tiana_télésphore_gérard",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/mahabo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/raveloson_ludovic_adrien",
       "role": "member"
     },
@@ -3128,7 +2571,7 @@
       "area_id": "area/sainte_marie",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/ravoninjatovo_sahoby",
       "role": "member"
     },
@@ -3136,273 +2579,159 @@
       "area_id": "area/ambalavao",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafimahatratra_jean_daniel_christian",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafimahatratra_jean_daniel_christian",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/antananarivo_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafimanantsoa_lobo_hanitriniaina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafimanantsoa_lobo_hanitriniaina",
-      "role": "Vice-président Antananarivo"
     },
     {
       "area_id": "area/ihosy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafimandimby_germain_boniface",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafimandimby_germain_boniface",
-      "role": "Député"
     },
     {
       "area_id": "area/vangaindrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafimily_constance",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafimily_constance",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/vatomandry",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafinandrasana_raulan",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafinandrasana_raulan",
-      "role": "Député"
     },
     {
       "area_id": "area/ifanadina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafindrafito_lova_narivelo",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafindrafito_lova_narivelo",
-      "role": "Député"
     },
     {
       "area_id": "area/beroroha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafindrakoto_harifanja_francette",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafindrakoto_harifanja_francette",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/fénérive_est",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafindravelo_hermann",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafindravelo_hermann",
-      "role": "Vice-président Toamasina"
     },
     {
       "area_id": "area/ikongo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razafintsiandraofa_jean_brunelle",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razafintsiandraofa_jean_brunelle",
-      "role": "Vice-président de commission"
     },
     {
       "area_id": "area/toliary_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razaha_tondraha",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razaha_tondraha",
-      "role": "Député"
     },
     {
       "area_id": "area/vavatenina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razanadrabearimanana_jacques_aurélien",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razanadrabearimanana_jacques_aurélien",
-      "role": "Rapporteur adjoint de commission"
     },
     {
       "area_id": "area/andramasina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razanakoto_-",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razanakoto_-",
-      "role": "Député"
     },
     {
       "area_id": "area/ambatofinandrahana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razanamahasoa_christine_harijaona",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razanamahasoa_christine_harijaona",
-      "role": "Député"
     },
     {
       "area_id": "area/fianarantsoa_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/razaranaina_nomenirina",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/razaranaina_nomenirina",
-      "role": "Député"
     },
     {
       "area_id": "area/antsohihy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/remi",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/remi",
-      "role": "Vice-président Mahajanga"
     },
     {
       "area_id": "area/lalangina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rivotiana_richard_jean_bosco",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rivotiana_richard_jean_bosco",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/toliary_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/rochelin_houssen",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/rochelin_houssen",
-      "role": "Député"
     },
     {
       "area_id": "area/toamasina_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/roilahy",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/roilahy",
-      "role": "Rapporteur de commission"
     },
     {
       "area_id": "area/ambilobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/sebany_mouhamed",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/sebany_mouhamed",
-      "role": "Vice-président de commission"
     },
     {
       "area_id": "area/ambanja",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vpm-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/solaimana_mahamodo",
       "role": "member"
     },
@@ -3410,49 +2739,31 @@
       "area_id": "area/soanierana_ivongo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/tody_arnaud",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/tody_arnaud",
-      "role": "Rapporteur de commission"
     },
     {
       "area_id": "area/manja",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/tovonay",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/tovonay",
-      "role": "Député"
     },
     {
       "area_id": "area/vohipeno",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/tsabotokay_honoré",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/tsabotokay_honoré",
-      "role": "Député"
     },
     {
       "area_id": "area/sainte_marie",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/tsivoulangne_maximin",
       "role": "member"
     },
@@ -3460,71 +2771,41 @@
       "area_id": "area/vangaindrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/vanovason_jean_adrien",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/vanovason_jean_adrien",
-      "role": "Questeur chargé des Relations Publiques et de la Législation"
     },
     {
       "area_id": "area/port_berger",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/velontsara_paul_bert",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/velontsara_paul_bert",
-      "role": "Député"
     },
     {
       "area_id": "area/bealanana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/volahaingo_marie_thérèse",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/volahaingo_marie_thérèse",
-      "role": "Président de commission"
     },
     {
       "area_id": "area/nosy_varika",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/volony_jimmy",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/volony_jimmy",
-      "role": "Député"
     },
     {
       "area_id": "area/manakara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "chamber/national_assembly",
+      "organization_id": "legislature",
       "person_id": "person/zafimahatratra_abel",
       "role": "member"
-    },
-    {
-      "legislative_period": "term/2013",
-      "organization_id": "executive",
-      "person_id": "person/zafimahatratra_abel",
-      "role": "Président de commission"
     }
   ],
   "events": [

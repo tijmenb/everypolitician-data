@@ -2,7 +2,9 @@
 #-----------------------------------------------------------------------
 # Transform the results from generic CSV-to-Popolo into EP-Popolo
 #
+#   - remove all Executive Memberships
 #   - merge legislature data from meta.json
+#     - ensure all legislative memberships are on that
 #   - merge term data from terms.csv
 #-----------------------------------------------------------------------
 namespace :transform do
@@ -26,6 +28,15 @@ namespace :transform do
     legis = @json[:organizations].find_all { |h| h[:classification] == 'legislature' }
     raise "Legislature count = #{count}" unless legis.count == 1
     @legislature = legis.first
+
+    # Remake 'chamber' memberships to the full legislature
+    @json[:organizations].select { |h| h[:classification] == 'chamber' }.each do |c|
+      @json[:memberships].find_all { |m| m[:organization_id] == c[:id] }.each do |m|
+        m[:organization_id] = @legislature[:id]
+      end
+    end
+    @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
+
   end
 
   #---------------------------------------------------------------------
@@ -78,11 +89,12 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Remove all other memberships.
   # Don't duplicate start/end dates into memberships needlessly
   #---------------------------------------------------------------------
-  task :write => :tidy_membership_dates
-  task :tidy_membership_dates => :ensure_term do
-    @json[:memberships].find_all { |m| m[:role] == 'member' and m[:organization_id] == @legislature[:id] }.each do |m|
+  task :write => :tidy_memberships
+  task :tidy_memberships => :ensure_term do
+    @json[:memberships].keep_if { |m| m[:role] == 'member' and m[:organization_id] == @legislature[:id] }.each do |m|
       e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or raise "#{m[:legislative_period_id]} is not a term"
       m.delete :start_date if m[:start_date].to_s == e[:start_date].to_s
       m.delete :end_date   if m[:end_date].to_s   == e[:end_date].to_s
@@ -119,7 +131,6 @@ namespace :transform do
   task :write => :check_no_embedded_areas 
   task :check_no_embedded_areas => :ensure_legislature do
     raise "Memberships should not have embedded areas" if @json[:memberships].any? { |m| m.key? :area }
-    raise "Memberships must all have legislative_periods" if @json[:memberships].any? { |m| m[:legislative_period_id].to_s.empty? }
   end
 
 end
