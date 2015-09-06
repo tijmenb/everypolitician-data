@@ -275,10 +275,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "area/mutalau",
-        "name": "Mutalau"
-      },
+      "area_id": "area/mutalau",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -286,10 +283,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/avatele",
-        "name": "Avatele"
-      },
+      "area_id": "area/avatele",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -297,10 +291,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/common_roll",
-        "name": "Common Roll"
-      },
+      "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -308,10 +299,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alofi_south",
-        "name": "Alofi South"
-      },
+      "area_id": "area/alofi_south",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -319,10 +307,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/toi",
-        "name": "Toi"
-      },
+      "area_id": "area/toi",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -330,10 +315,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/tuapa",
-        "name": "Tuapa"
-      },
+      "area_id": "area/tuapa",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -341,10 +323,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/namukulu",
-        "name": "Namukulu"
-      },
+      "area_id": "area/namukulu",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -352,10 +331,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/common_roll",
-        "name": "Common Roll"
-      },
+      "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -363,10 +339,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/lakepa",
-        "name": "Lakepa"
-      },
+      "area_id": "area/lakepa",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -374,10 +347,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/hakupu",
-        "name": "Hakupu"
-      },
+      "area_id": "area/hakupu",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -385,10 +355,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/hikutavake",
-        "name": "Hikutavake"
-      },
+      "area_id": "area/hikutavake",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -396,10 +363,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/tamakautoga",
-        "name": "Tamakautoga"
-      },
+      "area_id": "area/tamakautoga",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -407,10 +371,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/liku",
-        "name": "Liku"
-      },
+      "area_id": "area/liku",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -418,10 +379,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/common_roll",
-        "name": "Common Roll"
-      },
+      "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -429,10 +387,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/vaiea",
-        "name": "Vaiea"
-      },
+      "area_id": "area/vaiea",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -440,10 +395,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/common_roll",
-        "name": "Common Roll"
-      },
+      "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -451,10 +403,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/makefu",
-        "name": "Makefu"
-      },
+      "area_id": "area/makefu",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -462,10 +411,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/common_roll",
-        "name": "Common Roll"
-      },
+      "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -473,10 +419,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/common_roll",
-        "name": "Common Roll"
-      },
+      "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -484,10 +427,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alofi_north",
-        "name": "Alofi North"
-      },
+      "area_id": "area/alofi_north",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -500,6 +440,83 @@
       "classification": "legislative period",
       "id": "term/15",
       "name": "15"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/alofi_north",
+      "name": "Alofi North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/alofi_south",
+      "name": "Alofi South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/avatele",
+      "name": "Avatele",
+      "type": "constituency"
+    },
+    {
+      "id": "area/common_roll",
+      "name": "Common Roll",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hakupu",
+      "name": "Hakupu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hikutavake",
+      "name": "Hikutavake",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lakepa",
+      "name": "Lakepa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/liku",
+      "name": "Liku",
+      "type": "constituency"
+    },
+    {
+      "id": "area/makefu",
+      "name": "Makefu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mutalau",
+      "name": "Mutalau",
+      "type": "constituency"
+    },
+    {
+      "id": "area/namukulu",
+      "name": "Namukulu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tamakautoga",
+      "name": "Tamakautoga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/toi",
+      "name": "Toi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tuapa",
+      "name": "Tuapa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vaiea",
+      "name": "Vaiea",
+      "type": "constituency"
     }
   ]
 }

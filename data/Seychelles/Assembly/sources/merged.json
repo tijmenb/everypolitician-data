@@ -439,10 +439,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "area/anse_aux_pins",
-        "name": "ANSE AUX PINS"
-      },
+      "area_id": "area/anse_aux_pins",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -450,10 +447,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -461,10 +455,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -472,10 +463,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -483,10 +471,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/baie_lazare",
-        "name": "BAIE LAZARE"
-      },
+      "area_id": "area/baie_lazare",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -494,10 +479,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/cascade",
-        "name": "CASCADE"
-      },
+      "area_id": "area/cascade",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -505,10 +487,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/glacis",
-        "name": "GLACIS"
-      },
+      "area_id": "area/glacis",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -516,10 +495,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/grand_anse_praslin",
-        "name": "GRAND ANSE PRASLIN"
-      },
+      "area_id": "area/grand_anse_praslin",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -527,10 +503,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/pointe_larue",
-        "name": "POINTE LARUE"
-      },
+      "area_id": "area/pointe_larue",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -538,10 +511,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/takamaka",
-        "name": "TAKAMAKA"
-      },
+      "area_id": "area/takamaka",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -549,10 +519,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/mont_fleuri",
-        "name": "MONT FLEURI"
-      },
+      "area_id": "area/mont_fleuri",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -560,10 +527,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/anse_boileau",
-        "name": "ANSE BOILEAU"
-      },
+      "area_id": "area/anse_boileau",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -571,10 +535,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/the_inner_islands",
-        "name": "THE INNER ISLANDS"
-      },
+      "area_id": "area/the_inner_islands",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -582,10 +543,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/anse_royale",
-        "name": "ANSE ROYALE"
-      },
+      "area_id": "area/anse_royale",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -593,10 +551,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/les_mamelles",
-        "name": "LES MAMELLES"
-      },
+      "area_id": "area/les_mamelles",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -604,10 +559,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/bel_ombre",
-        "name": "BEL OMBRE"
-      },
+      "area_id": "area/bel_ombre",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -615,10 +567,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._louis",
-        "name": "ST. LOUIS"
-      },
+      "area_id": "area/st._louis",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -626,10 +575,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/roche_caiman",
-        "name": "ROCHE CAIMAN"
-      },
+      "area_id": "area/roche_caiman",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -637,10 +583,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/english_river",
-        "name": "ENGLISH RIVER"
-      },
+      "area_id": "area/english_river",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -648,10 +591,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/grand_anse_mahe",
-        "name": "GRAND ANSE MAHE"
-      },
+      "area_id": "area/grand_anse_mahe",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -659,10 +599,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/anse_etoile",
-        "name": "ANSE ETOILE"
-      },
+      "area_id": "area/anse_etoile",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -670,10 +607,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/beau_vallon",
-        "name": "BEAU VALLON"
-      },
+      "area_id": "area/beau_vallon",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -681,10 +615,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/au_cap",
-        "name": "AU CAP"
-      },
+      "area_id": "area/au_cap",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -692,10 +623,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/baie_ste_anne_praslin",
-        "name": "BAIE STE ANNE PRASLIN"
-      },
+      "area_id": "area/baie_ste_anne_praslin",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -703,10 +631,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/bel_air",
-        "name": "BEL AIR"
-      },
+      "area_id": "area/bel_air",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -714,10 +639,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/plaisance",
-        "name": "PLAISANCE"
-      },
+      "area_id": "area/plaisance",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -725,10 +647,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/mont_buxton",
-        "name": "MONT BUXTON"
-      },
+      "area_id": "area/mont_buxton",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -736,10 +655,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/port_glaud",
-        "name": "PORT GLAUD"
-      },
+      "area_id": "area/port_glaud",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -747,10 +663,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "legislature",
@@ -758,10 +671,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -769,10 +679,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -780,10 +687,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/proportionally_elected",
-        "name": "Proportionally Elected"
-      },
+      "area_id": "area/proportionally_elected",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/parti_lepep",
       "organization_id": "legislature",
@@ -796,6 +700,138 @@
       "classification": "legislative period",
       "id": "term/2011",
       "name": "2011"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/anse_aux_pins",
+      "name": "ANSE AUX PINS",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anse_boileau",
+      "name": "ANSE BOILEAU",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anse_etoile",
+      "name": "ANSE ETOILE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/anse_royale",
+      "name": "ANSE ROYALE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/au_cap",
+      "name": "AU CAP",
+      "type": "constituency"
+    },
+    {
+      "id": "area/baie_lazare",
+      "name": "BAIE LAZARE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/baie_ste_anne_praslin",
+      "name": "BAIE STE ANNE PRASLIN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/beau_vallon",
+      "name": "BEAU VALLON",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bel_air",
+      "name": "BEL AIR",
+      "type": "constituency"
+    },
+    {
+      "id": "area/bel_ombre",
+      "name": "BEL OMBRE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cascade",
+      "name": "CASCADE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/english_river",
+      "name": "ENGLISH RIVER",
+      "type": "constituency"
+    },
+    {
+      "id": "area/glacis",
+      "name": "GLACIS",
+      "type": "constituency"
+    },
+    {
+      "id": "area/grand_anse_mahe",
+      "name": "GRAND ANSE MAHE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/grand_anse_praslin",
+      "name": "GRAND ANSE PRASLIN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/les_mamelles",
+      "name": "LES MAMELLES",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mont_buxton",
+      "name": "MONT BUXTON",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mont_fleuri",
+      "name": "MONT FLEURI",
+      "type": "constituency"
+    },
+    {
+      "id": "area/plaisance",
+      "name": "PLAISANCE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pointe_larue",
+      "name": "POINTE LARUE",
+      "type": "constituency"
+    },
+    {
+      "id": "area/port_glaud",
+      "name": "PORT GLAUD",
+      "type": "constituency"
+    },
+    {
+      "id": "area/proportionally_elected",
+      "name": "Proportionally Elected",
+      "type": "constituency"
+    },
+    {
+      "id": "area/roche_caiman",
+      "name": "ROCHE CAIMAN",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._louis",
+      "name": "ST. LOUIS",
+      "type": "constituency"
+    },
+    {
+      "id": "area/takamaka",
+      "name": "TAKAMAKA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/the_inner_islands",
+      "name": "THE INNER ISLANDS",
+      "type": "constituency"
     }
   ]
 }

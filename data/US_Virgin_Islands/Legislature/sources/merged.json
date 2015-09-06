@@ -253,10 +253,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "area/senator_at_large",
-        "name": "Senator at Large"
-      },
+      "area_id": "area/senator_at_large",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -264,10 +261,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -275,10 +269,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -286,10 +277,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -297,10 +285,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -308,10 +293,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -319,10 +301,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -330,10 +309,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -341,10 +317,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -352,10 +325,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -363,10 +333,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -374,10 +341,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -385,10 +349,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/democratic",
       "organization_id": "legislature",
@@ -396,10 +357,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._croix",
-        "name": "St. Croix"
-      },
+      "area_id": "area/st._croix",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent_citizens_movement",
       "organization_id": "legislature",
@@ -407,10 +365,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/st._thomas-st._john",
-        "name": "St. Thomas-St. John"
-      },
+      "area_id": "area/st._thomas-st._john",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -423,6 +378,23 @@
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/senator_at_large",
+      "name": "Senator at Large",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._croix",
+      "name": "St. Croix",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._thomas-st._john",
+      "name": "St. Thomas-St. John",
+      "type": "constituency"
     }
   ]
 }

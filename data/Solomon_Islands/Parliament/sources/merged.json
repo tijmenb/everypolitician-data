@@ -972,10 +972,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "area/north-west_guadalcanal",
-        "name": "North-West Guadalcanal"
-      },
+      "area_id": "area/north-west_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -983,10 +980,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/central_kwara’ae",
-        "name": "Central Kwara’ae"
-      },
+      "area_id": "area/central_kwara’ae",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -994,10 +988,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/central_honiara",
-        "name": "Central Honiara"
-      },
+      "area_id": "area/central_honiara",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1005,10 +996,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_guadalcanal",
-        "name": "West Guadalcanal"
-      },
+      "area_id": "area/west_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1016,10 +1004,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_honiara",
-        "name": "East Honiara"
-      },
+      "area_id": "area/east_honiara",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1027,10 +1012,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/central_guadalcanal",
-        "name": "Central Guadalcanal"
-      },
+      "area_id": "area/central_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1038,10 +1020,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/fataleka",
-        "name": "Fataleka"
-      },
+      "area_id": "area/fataleka",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1049,10 +1028,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_makira",
-        "name": "East Makira"
-      },
+      "area_id": "area/east_makira",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1060,10 +1036,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_choiseul",
-        "name": "East Choiseul"
-      },
+      "area_id": "area/east_choiseul",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1071,10 +1044,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_central_guadalcanal",
-        "name": "East Central Guadalcanal"
-      },
+      "area_id": "area/east_central_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
@@ -1082,10 +1052,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/marovo",
-        "name": "Marovo"
-      },
+      "area_id": "area/marovo",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1093,10 +1060,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/central_makira",
-        "name": "Central Makira"
-      },
+      "area_id": "area/central_makira",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1104,10 +1068,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/small_malaita",
-        "name": "Small Malaita"
-      },
+      "area_id": "area/small_malaita",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1115,10 +1076,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_kwara’ae",
-        "name": "West Kwara’ae"
-      },
+      "area_id": "area/west_kwara’ae",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1126,10 +1084,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/malaita_outer_islands",
-        "name": "Malaita Outer Islands"
-      },
+      "area_id": "area/malaita_outer_islands",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1137,10 +1092,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/shortlands",
-        "name": "Shortlands"
-      },
+      "area_id": "area/shortlands",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1148,10 +1100,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_malaita",
-        "name": "East Malaita"
-      },
+      "area_id": "area/east_malaita",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1159,10 +1108,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_are’are",
-        "name": "West Are’Are"
-      },
+      "area_id": "area/west_are’are",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1170,10 +1116,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_are’are",
-        "name": "East Are’Are"
-      },
+      "area_id": "area/east_are’are",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/kadare_party_of_solomon_islands",
       "organization_id": "legislature",
@@ -1181,10 +1124,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/gao-bugotu",
-        "name": "Gao-Bugotu"
-      },
+      "area_id": "area/gao-bugotu",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1192,10 +1132,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/temotu_nende",
-        "name": "Temotu Nende"
-      },
+      "area_id": "area/temotu_nende",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1203,10 +1140,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/south_choiseul",
-        "name": "South Choiseul"
-      },
+      "area_id": "area/south_choiseul",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1214,10 +1148,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/south_guadalcanal",
-        "name": "South Guadalcanal"
-      },
+      "area_id": "area/south_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1225,10 +1156,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/savo-russells",
-        "name": "Savo-Russells"
-      },
+      "area_id": "area/savo-russells",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1236,10 +1164,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/south_new_georgia-rendova-tetepari",
-        "name": "South New Georgia-Rendova-Tetepari"
-      },
+      "area_id": "area/south_new_georgia-rendova-tetepari",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
@@ -1247,10 +1172,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/south_vella_lavella",
-        "name": "South Vella Lavella"
-      },
+      "area_id": "area/south_vella_lavella",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1258,10 +1180,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/north-west_choiseul",
-        "name": "North-West Choiseul"
-      },
+      "area_id": "area/north-west_choiseul",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1269,10 +1188,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/rannonga-simbo",
-        "name": "Rannonga-Simbo"
-      },
+      "area_id": "area/rannonga-simbo",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1280,10 +1196,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/north-east_guadalcanal",
-        "name": "North-East Guadalcanal"
-      },
+      "area_id": "area/north-east_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1291,10 +1204,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_kwaio",
-        "name": "East Kwaio"
-      },
+      "area_id": "area/east_kwaio",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1302,10 +1212,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_new_georgia-vona_vona",
-        "name": "West New Georgia-Vona Vona"
-      },
+      "area_id": "area/west_new_georgia-vona_vona",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/solomon_islands_party_for_rural_advancement",
       "organization_id": "legislature",
@@ -1313,10 +1220,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_kwaio",
-        "name": "West Kwaio"
-      },
+      "area_id": "area/west_kwaio",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1324,10 +1228,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/baegu/asifola",
-        "name": "Baegu/Asifola"
-      },
+      "area_id": "area/baegu/asifola",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1335,10 +1236,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/rennell-bellona",
-        "name": "Rennell-Bellona"
-      },
+      "area_id": "area/rennell-bellona",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
@@ -1346,10 +1244,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/temotu_pele",
-        "name": "Temotu Pele"
-      },
+      "area_id": "area/temotu_pele",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1357,10 +1252,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/north_new_georgia",
-        "name": "North New Georgia"
-      },
+      "area_id": "area/north_new_georgia",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1368,10 +1260,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/north_malaita",
-        "name": "North Malaita"
-      },
+      "area_id": "area/north_malaita",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1379,10 +1268,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/lau-mbaelelea",
-        "name": "Lau-Mbaelelea"
-      },
+      "area_id": "area/lau-mbaelelea",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1390,10 +1276,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/north_guadalcanal",
-        "name": "North Guadalcanal"
-      },
+      "area_id": "area/north_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
@@ -1401,10 +1284,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/hograno-kia-havulei",
-        "name": "Hograno-Kia-Havulei"
-      },
+      "area_id": "area/hograno-kia-havulei",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/democratic_alliance_party",
       "organization_id": "legislature",
@@ -1412,10 +1292,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/east_guadalcanal",
-        "name": "East Guadalcanal"
-      },
+      "area_id": "area/east_guadalcanal",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1423,10 +1300,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_makira",
-        "name": "West Makira"
-      },
+      "area_id": "area/west_makira",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/solomon_islands_people_first_party",
       "organization_id": "legislature",
@@ -1434,10 +1308,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/ulawa-ugi",
-        "name": "Ulawa-Ugi"
-      },
+      "area_id": "area/ulawa-ugi",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
@@ -1445,10 +1316,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/aoke_langalanga",
-        "name": "Aoke Langalanga"
-      },
+      "area_id": "area/aoke_langalanga",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1456,10 +1324,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/north_vella_la_vella",
-        "name": "North Vella La Vella"
-      },
+      "area_id": "area/north_vella_la_vella",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
@@ -1467,10 +1332,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/west_honiara",
-        "name": "West Honiara"
-      },
+      "area_id": "area/west_honiara",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1478,10 +1340,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/ngella",
-        "name": "Ngella"
-      },
+      "area_id": "area/ngella",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1489,10 +1348,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/temotu_vatud",
-        "name": "Temotu Vatud"
-      },
+      "area_id": "area/temotu_vatud",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
@@ -1500,10 +1356,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/gizo-kolombangara",
-        "name": "Gizo-Kolombangara"
-      },
+      "area_id": "area/gizo-kolombangara",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
@@ -1511,10 +1364,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/maringe-kokota",
-        "name": "Maringe-Kokota"
-      },
+      "area_id": "area/maringe-kokota",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1527,6 +1377,258 @@
       "classification": "legislative period",
       "id": "term/10",
       "name": "10"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/aoke_langalanga",
+      "name": "Aoke Langalanga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/baegu/asifola",
+      "name": "Baegu/Asifola",
+      "type": "constituency"
+    },
+    {
+      "id": "area/central_guadalcanal",
+      "name": "Central Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/central_honiara",
+      "name": "Central Honiara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/central_kwara’ae",
+      "name": "Central Kwara’ae",
+      "type": "constituency"
+    },
+    {
+      "id": "area/central_makira",
+      "name": "Central Makira",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_are’are",
+      "name": "East Are’Are",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_central_guadalcanal",
+      "name": "East Central Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_choiseul",
+      "name": "East Choiseul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_guadalcanal",
+      "name": "East Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_honiara",
+      "name": "East Honiara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_kwaio",
+      "name": "East Kwaio",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_makira",
+      "name": "East Makira",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_malaita",
+      "name": "East Malaita",
+      "type": "constituency"
+    },
+    {
+      "id": "area/fataleka",
+      "name": "Fataleka",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gao-bugotu",
+      "name": "Gao-Bugotu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gizo-kolombangara",
+      "name": "Gizo-Kolombangara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hograno-kia-havulei",
+      "name": "Hograno-Kia-Havulei",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lau-mbaelelea",
+      "name": "Lau-Mbaelelea",
+      "type": "constituency"
+    },
+    {
+      "id": "area/malaita_outer_islands",
+      "name": "Malaita Outer Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maringe-kokota",
+      "name": "Maringe-Kokota",
+      "type": "constituency"
+    },
+    {
+      "id": "area/marovo",
+      "name": "Marovo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngella",
+      "name": "Ngella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north-east_guadalcanal",
+      "name": "North-East Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north-west_choiseul",
+      "name": "North-West Choiseul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north-west_guadalcanal",
+      "name": "North-West Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_guadalcanal",
+      "name": "North Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_malaita",
+      "name": "North Malaita",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_new_georgia",
+      "name": "North New Georgia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_vella_la_vella",
+      "name": "North Vella La Vella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rannonga-simbo",
+      "name": "Rannonga-Simbo",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rennell-bellona",
+      "name": "Rennell-Bellona",
+      "type": "constituency"
+    },
+    {
+      "id": "area/savo-russells",
+      "name": "Savo-Russells",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shortlands",
+      "name": "Shortlands",
+      "type": "constituency"
+    },
+    {
+      "id": "area/small_malaita",
+      "name": "Small Malaita",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_choiseul",
+      "name": "South Choiseul",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_guadalcanal",
+      "name": "South Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_new_georgia-rendova-tetepari",
+      "name": "South New Georgia-Rendova-Tetepari",
+      "type": "constituency"
+    },
+    {
+      "id": "area/south_vella_lavella",
+      "name": "South Vella Lavella",
+      "type": "constituency"
+    },
+    {
+      "id": "area/temotu_nende",
+      "name": "Temotu Nende",
+      "type": "constituency"
+    },
+    {
+      "id": "area/temotu_pele",
+      "name": "Temotu Pele",
+      "type": "constituency"
+    },
+    {
+      "id": "area/temotu_vatud",
+      "name": "Temotu Vatud",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulawa-ugi",
+      "name": "Ulawa-Ugi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_are’are",
+      "name": "West Are’Are",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_guadalcanal",
+      "name": "West Guadalcanal",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_honiara",
+      "name": "West Honiara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_kwaio",
+      "name": "West Kwaio",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_kwara’ae",
+      "name": "West Kwara’ae",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_makira",
+      "name": "West Makira",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_new_georgia-vona_vona",
+      "name": "West New Georgia-Vona Vona",
+      "type": "constituency"
     }
   ]
 }

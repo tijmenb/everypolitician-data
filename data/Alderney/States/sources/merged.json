@@ -166,10 +166,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -177,10 +174,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -188,10 +182,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -199,10 +190,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -210,10 +198,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -221,10 +206,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -232,10 +214,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -243,10 +222,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -254,10 +230,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -265,10 +238,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "area/alderney",
-        "name": "Alderney"
-      },
+      "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -281,6 +251,13 @@
       "classification": "legislative period",
       "id": "term/2014",
       "name": "2014"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/alderney",
+      "name": "Alderney",
+      "type": "constituency"
     }
   ]
 }
