@@ -125,52 +125,31 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Rule: There must be at least one term
-  # If there are none, we read them from a 'terms.csv'
+  # Merge with terms.csv
   #---------------------------------------------------------------------
   task :write => :ensure_term
 
-  def extra_termdata
-    @TERMFILES = Dir.glob("sources/**/terms.csv")
-    raise "Too many Termfiles [#{@TERMFILES}]" if @TERMFILES.count > 1
+  def terms_from_csv
+    termfiles = Dir.glob("sources/**/terms.csv")
+    raise "No terms.csv" if termfiles.count.zero?
+    raise "Too many terms.csv [#{termfiles}]" if termfiles.count > 1
 
-    if @TERMFILES.count == 1
-      @TERMS = CSV.read(@TERMFILES.first, headers:true).map do |row|
-        {
-          id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
-          name: row['name'],
-          start_date: row['start_date'],
-          end_date: row['end_date'],
-        }.reject { |_,v| v.nil? or v.empty? }
-      end
+    CSV.read(termfiles.first, headers:true).map do |row|
+      {
+        id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
+        name: row['name'],
+        start_date: row['start_date'],
+        end_date: row['end_date'],
+        classification: 'legislative period',
+        organization_id: @legislature[:id]
+      }.reject { |_,v| v.nil? or v.empty? }
     end
-
-    return [] if @TERMS.nil? or @TERMS.count.zero?
-    @TERMS.each { |t| t[:classification] ||= 'legislative period' } 
-    return @TERMS
   end
 
-  task :write => :ensure_term
   task :ensure_term => :ensure_legislature do
-    newterms = extra_termdata
-    newterms.each { |t| t[:organization_id] = @legislature[:id] }
-
-    # To cope (for now) with source data that already has terms attached
-    # to the legislature, build it all up there first (as before), and
-    # then migrate it en masse to Events.
-    if not @legislature.has_key?(:legislative_periods) or @legislature[:legislative_periods].count.zero? 
-      raise "No @TERMFILE or @TERMS" if newterms.count.zero?
-      @legislature[:legislative_periods] = newterms 
-    else 
-      @legislature[:legislative_periods].each do |t|
-        if extra = newterms.find { |nt| nt[:id].to_s.split('/').last == t[:id].to_s.split('/').last }
-          t.merge! extra.reject { |k, _| k == :id }
-        end
-      end
-    end
-
     @json[:events] ||= []
-    @legislature[:legislative_periods].each do |t| 
+
+    terms_from_csv.each do |t| 
       if event = @json[:events].find { |e| e[:id] == t[:id] }
         event.merge! t
       else 
@@ -178,7 +157,6 @@ namespace :transform do
       end
     end
 
-    @legislature.delete :legislative_periods
   end
 
   #---------------------------------------------------------------------
