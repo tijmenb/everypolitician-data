@@ -523,10 +523,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "1",
-        "name": "Election District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -534,10 +531,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "2",
-        "name": "Election District 2"
-      },
+      "area_id": "2",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -545,10 +539,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "4",
-        "name": "Election District 4"
-      },
+      "area_id": "4",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -556,10 +547,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "6",
-        "name": "Election District 6"
-      },
+      "area_id": "6",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -567,10 +555,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "Election District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -578,10 +563,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "Election District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -589,10 +571,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "Election District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -600,10 +579,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "5",
-        "name": "Election District 5"
-      },
+      "area_id": "5",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -611,10 +587,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "Election District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -622,10 +595,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "Election District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -633,10 +603,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "7",
-        "name": "Election District 7"
-      },
+      "area_id": "7",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -644,10 +611,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "Election District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -655,10 +619,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "Election District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -666,10 +627,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "Election District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -677,10 +635,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "2",
-        "name": "Election District 2"
-      },
+      "area_id": "2",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/republican",
       "organization_id": "legislature",
@@ -688,10 +643,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "4",
-        "name": "Election District 4"
-      },
+      "area_id": "4",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -699,10 +651,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "5",
-        "name": "Election District 5"
-      },
+      "area_id": "5",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -710,10 +659,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "Election District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -721,10 +667,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "Election District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -732,10 +675,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "Election District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -748,6 +688,43 @@
       "classification": "legislative period",
       "id": "term/19",
       "name": "19"
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "name": "Election District 1",
+      "type": "constituency"
+    },
+    {
+      "id": "2",
+      "name": "Election District 2",
+      "type": "constituency"
+    },
+    {
+      "id": "3",
+      "name": "Election District 3",
+      "type": "constituency"
+    },
+    {
+      "id": "4",
+      "name": "Election District 4",
+      "type": "constituency"
+    },
+    {
+      "id": "5",
+      "name": "Election District 5",
+      "type": "constituency"
+    },
+    {
+      "id": "6",
+      "name": "Election District 6",
+      "type": "constituency"
+    },
+    {
+      "id": "7",
+      "name": "Election District 7",
+      "type": "constituency"
     }
   ]
 }

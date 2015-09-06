@@ -227,17 +227,9 @@ namespace :transform do
   # Rule: Areas should be first class, not just embedded
   #---------------------------------------------------------------------
 
-  task :write => :promote_areas 
-  task :promote_areas => :ensure_legislature do
-    @json[:areas] ||= []
-    @json[:memberships].find_all { |m| m.key? :area }.each do |m|
-      area = m.delete :area
-      area[:type] ||= 'constituency'
-      area[:id] ||= area[:name].downcase.gsub(/\s+/, '_') 
-      raise "area_id is empty" if area[:id].empty?
-      m[:area_id] = area[:id]
-      @json[:areas] << area unless @json[:areas].find { |a| a[:id] == area[:id] }
-    end
+  task :write => :check_no_embedded_areas 
+  task :check_no_embedded_areas => :ensure_legislature do
+    raise "Memberships should not have embedded areas" if @json[:memberships].any? { |m| m.key? :area }
   end
 
 end

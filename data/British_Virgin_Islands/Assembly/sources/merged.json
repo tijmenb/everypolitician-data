@@ -278,10 +278,7 @@
   },
   "memberships": [
     {
-      "area": {
-        "id": "6",
-        "name": "District 6"
-      },
+      "area_id": "6",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -289,10 +286,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "6",
-        "name": "District 6"
-      },
+      "area_id": "6",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -300,10 +294,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "2",
-        "name": "District 2"
-      },
+      "area_id": "2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -311,10 +302,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "2",
-        "name": "District 2"
-      },
+      "area_id": "2",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/ind",
       "organization_id": "legislature",
@@ -322,10 +310,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -333,10 +318,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -344,10 +326,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "1",
-        "name": "District 1"
-      },
+      "area_id": "1",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -355,10 +334,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -366,10 +342,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -377,10 +350,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "8",
-        "name": "District 8"
-      },
+      "area_id": "8",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -388,10 +358,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "5",
-        "name": "District 5"
-      },
+      "area_id": "5",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -399,10 +366,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "5",
-        "name": "District 5"
-      },
+      "area_id": "5",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -410,10 +374,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "5",
-        "name": "District 5"
-      },
+      "area_id": "5",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -421,10 +382,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "9",
-        "name": "District 9"
-      },
+      "area_id": "9",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -432,10 +390,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -443,10 +398,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -454,10 +406,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -465,10 +414,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "3",
-        "name": "District 3"
-      },
+      "area_id": "3",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -476,10 +422,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "7",
-        "name": "District 7"
-      },
+      "area_id": "7",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -487,10 +430,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "7",
-        "name": "District 7"
-      },
+      "area_id": "7",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -498,10 +438,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "7",
-        "name": "District 7"
-      },
+      "area_id": "7",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -509,10 +446,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -520,10 +454,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "4",
-        "name": "District 4"
-      },
+      "area_id": "4",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -531,10 +462,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "4",
-        "name": "District 4"
-      },
+      "area_id": "4",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -542,10 +470,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "8",
-        "name": "District 8"
-      },
+      "area_id": "8",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -553,10 +478,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "8",
-        "name": "District 8"
-      },
+      "area_id": "8",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -564,10 +486,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "2",
-        "name": "District 2"
-      },
+      "area_id": "2",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -575,10 +494,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -586,10 +502,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -597,10 +510,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "6",
-        "name": "District 6"
-      },
+      "area_id": "6",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -608,10 +518,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -619,10 +526,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -630,10 +534,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -641,10 +542,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "9",
-        "name": "District 9"
-      },
+      "area_id": "9",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -652,10 +550,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "9",
-        "name": "District 9"
-      },
+      "area_id": "9",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -663,10 +558,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -674,10 +566,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/ndp",
       "organization_id": "legislature",
@@ -685,10 +574,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "none",
-        "name": "At large"
-      },
+      "area_id": "none",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -696,10 +582,7 @@
       "role": "member"
     },
     {
-      "area": {
-        "id": "4",
-        "name": "District 4"
-      },
+      "area_id": "4",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "party/vip",
       "organization_id": "legislature",
@@ -722,6 +605,58 @@
       "classification": "legislative period",
       "id": "term/2015",
       "name": "2015"
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "name": "District 1",
+      "type": "constituency"
+    },
+    {
+      "id": "2",
+      "name": "District 2",
+      "type": "constituency"
+    },
+    {
+      "id": "3",
+      "name": "District 3",
+      "type": "constituency"
+    },
+    {
+      "id": "4",
+      "name": "District 4",
+      "type": "constituency"
+    },
+    {
+      "id": "5",
+      "name": "District 5",
+      "type": "constituency"
+    },
+    {
+      "id": "6",
+      "name": "District 6",
+      "type": "constituency"
+    },
+    {
+      "id": "7",
+      "name": "District 7",
+      "type": "constituency"
+    },
+    {
+      "id": "8",
+      "name": "District 8",
+      "type": "constituency"
+    },
+    {
+      "id": "9",
+      "name": "District 9",
+      "type": "constituency"
+    },
+    {
+      "id": "none",
+      "name": "At large",
+      "type": "constituency"
     }
   ]
 }
