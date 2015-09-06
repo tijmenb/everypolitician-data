@@ -1,4 +1,4 @@
-﻿This should all move to morph.io, but currently blows its memory limits
+This should all move to morph.io, but currently blows its memory limits
 so for now you can load the data by:
 
 1) curl -o twfy.json https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json 

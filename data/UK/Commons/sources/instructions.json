@@ -2,7 +2,8 @@
   "sources": [
     {
       "file": "parlparse/data.csv",
-      "type": "membership"
+      "type": "membership",
+      "source": "http://parser.theyworkforyou.com/"
     },
     {
       "file": "morph/parliament.csv",
