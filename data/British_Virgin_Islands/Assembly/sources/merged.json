@@ -260,23 +260,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2011",
-          "name": "2011"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2007",
-          "name": "2007"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2015",
-          "name": "2015"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -722,6 +705,23 @@
       "organization_id": "legislature",
       "person_id": "person/vincent_gregory_scatliffe",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2007",
+      "name": "2007"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2011",
+      "name": "2011"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2015",
+      "name": "2015"
     }
   ]
 }

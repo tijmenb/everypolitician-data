@@ -10100,23 +10100,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2",
-          "name": "2"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/3",
-          "name": "3"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "4"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -16809,6 +16792,23 @@
       "organization_id": "legislature",
       "person_id": "person/1778",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/3",
+      "name": "3"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "4"
     }
   ]
 }

@@ -783,13 +783,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2014",
-          "name": "2014"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -1475,6 +1468,13 @@
       "organization_id": "legislature",
       "person_id": "person/wynter_mmolotsi",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2014",
+      "name": "2014"
     }
   ]
 }

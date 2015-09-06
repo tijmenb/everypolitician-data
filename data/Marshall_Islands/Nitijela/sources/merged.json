@@ -353,13 +353,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2012",
-          "name": "2012"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -739,6 +732,13 @@
       "organization_id": "legislature",
       "person_id": "person/wilbur_heine",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2012",
+      "name": "2012"
     }
   ]
 }

@@ -2490,43 +2490,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/8",
-          "name": "8"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/6",
-          "name": "6"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/5",
-          "name": "5"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "4"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/3",
-          "name": "3"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2",
-          "name": "2"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1",
-          "name": "1"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -11219,6 +11182,43 @@
       "organization_id": "legislature",
       "person_id": "person/999",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1",
+      "name": "1"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/3",
+      "name": "3"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "4"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/5",
+      "name": "5"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/6",
+      "name": "6"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/8",
+      "name": "8"
     }
   ]
 }

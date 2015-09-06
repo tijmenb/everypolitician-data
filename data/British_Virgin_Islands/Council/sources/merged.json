@@ -424,53 +424,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2003",
-          "name": "2003"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1999",
-          "name": "1999"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1995",
-          "name": "1995"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1990",
-          "name": "1990"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1986",
-          "name": "1986"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1983",
-          "name": "1983"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1979",
-          "name": "1979"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1975",
-          "name": "1975"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/1971",
-          "name": "1971"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -1476,6 +1429,53 @@
       "organization_id": "legislature",
       "person_id": "person/willard_wheatley",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1971",
+      "name": "1971"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1975",
+      "name": "1975"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1979",
+      "name": "1979"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1983",
+      "name": "1983"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1986",
+      "name": "1986"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1990",
+      "name": "1990"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1995",
+      "name": "1995"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/1999",
+      "name": "1999"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2003",
+      "name": "2003"
     }
   ]
 }

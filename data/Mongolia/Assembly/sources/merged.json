@@ -1174,18 +1174,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2012",
-          "name": "2012"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2008",
-          "name": "2008"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -2880,6 +2868,18 @@
       "organization_id": "legislature",
       "person_id": "person/Ölziisaikhany_enkhtüvshin",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2008",
+      "name": "2008"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2012",
+      "name": "2012"
     }
   ]
 }

@@ -743,23 +743,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/14",
-          "name": "14"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/13",
-          "name": "13"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/12",
-          "name": "12"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -1563,6 +1546,23 @@
       "organization_id": "legislature",
       "person_id": "person/winton_pickering",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/12",
+      "name": "12"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/13",
+      "name": "13"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/14",
+      "name": "14"
     }
   ]
 }

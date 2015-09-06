@@ -15600,68 +15600,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/30",
-          "name": "30"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/31",
-          "name": "31"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/32",
-          "name": "32"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/33",
-          "name": "33"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/34",
-          "name": "34"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/35",
-          "name": "35"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/36",
-          "name": "36"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/29",
-          "name": "29"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/28",
-          "name": "28"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/27",
-          "name": "27"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/25",
-          "name": "25"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/26",
-          "name": "26"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -31983,6 +31921,68 @@
       "person_id": "person/973",
       "role": "member",
       "start_date": "2011-04-20"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/25",
+      "name": "25"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/26",
+      "name": "26"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/27",
+      "name": "27"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/28",
+      "name": "28"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/29",
+      "name": "29"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/30",
+      "name": "30"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/31",
+      "name": "31"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/32",
+      "name": "32"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/33",
+      "name": "33"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/34",
+      "name": "34"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/35",
+      "name": "35"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/36",
+      "name": "36"
     }
   ]
 }

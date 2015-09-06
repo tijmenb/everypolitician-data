@@ -1545,13 +1545,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/2013",
-          "name": "2013"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -3978,6 +3971,13 @@
       "organization_id": "executive",
       "person_id": "person/zafimahatratra_abel",
       "role": "Président de commission"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013"
     }
   ]
 }

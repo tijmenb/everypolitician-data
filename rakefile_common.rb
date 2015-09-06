@@ -28,7 +28,7 @@ def json_write(file, json)
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
   json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
   json[:memberships].sort_by!   { |m| [ m[:person_id], m[:organization_id] ] }
-  json[:events].sort_by!        { |e| [ e[:start_date], e[:id] ] } if json.key? :events
+  json[:events].sort_by!        { |e| [ e[:start_date] || '', e[:id] ] } if json.key? :events
   json[:areas].sort_by!         { |a| [ a[:id] ] } if json.key? :areas
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
   File.write(file, JSON.pretty_generate(final))
@@ -170,7 +170,14 @@ namespace :transform do
     end
 
     @json[:events] ||= []
-    @legislature[:legislative_periods].each { |t| @json[:events] << t }
+    @legislature[:legislative_periods].each do |t| 
+      if event = @json[:events].find { |e| e[:id] == t[:id] }
+        event.merge! t
+      else 
+        warn "Unused event: #{t}"
+      end
+    end
+
     @legislature.delete :legislative_periods
   end
 

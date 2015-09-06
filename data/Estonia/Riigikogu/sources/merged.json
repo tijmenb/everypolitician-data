@@ -2986,13 +2986,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/13",
-          "name": "13"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -4375,6 +4368,13 @@
       "organization_id": "legislature",
       "person_id": "person/yana-toom",
       "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/13",
+      "name": "13"
     }
   ]
 }

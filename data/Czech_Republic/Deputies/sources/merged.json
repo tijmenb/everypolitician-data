@@ -17664,43 +17664,6 @@
     {
       "classification": "legislature",
       "id": "legislature",
-      "legislative_periods": [
-        {
-          "classification": "legislative period",
-          "id": "term/1",
-          "name": "1"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/2",
-          "name": "2"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/3",
-          "name": "3"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/4",
-          "name": "4"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/5",
-          "name": "5"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/6",
-          "name": "6"
-        },
-        {
-          "classification": "legislative period",
-          "id": "term/7",
-          "name": "7"
-        }
-      ],
       "name": "Legislature"
     },
     {
@@ -39265,6 +39228,43 @@
       "person_id": "person/99",
       "role": "member",
       "start_date": "1996-06-01"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/1",
+      "name": "1"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/3",
+      "name": "3"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/4",
+      "name": "4"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/5",
+      "name": "5"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/6",
+      "name": "6"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/7",
+      "name": "7"
     }
   ]
 }
