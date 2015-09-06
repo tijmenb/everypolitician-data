@@ -1,1 +1,1 @@
-require_relative '../../../rakefile_local.rb' 
+require_relative '../../../rakefile_common.rb'
