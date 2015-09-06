@@ -100,6 +100,10 @@ class CSVPatch
     incoming_field = opts[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
     opts[:overrides] ||= {}
 
+    unless new_row[incoming_field]
+      warn "#{new_row} has no #{incoming_field}" 
+      return
+    end
     # Short-circuit if we've already been told who this matches
     if exact_match = opts[:overrides][new_row[incoming_field].to_sym]
       to_patch = @_csv.find_all { |r| r[:id] == exact_match }
