@@ -4001,6 +4001,32 @@
     ]
   },
   {
+    "name": "Nigeria",
+    "country": "Nigeria",
+    "code": "NG",
+    "slug": "Nigeria",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Nigeria/Assembly/sources",
+        "popolo": "data/Nigeria/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441639330",
+        "person_count": 362,
+        "sha": "9ae0e5c",
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015-06-09",
+            "slug": "2015",
+            "csv": "data/Nigeria/Assembly/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Niue",
     "country": "Niue",
     "code": "NU",
