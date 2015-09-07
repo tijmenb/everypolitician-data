@@ -1281,6 +1281,32 @@
     ]
   },
   {
+    "name": "Croatia",
+    "country": "Croatia",
+    "code": "HR",
+    "slug": "Croatia",
+    "legislatures": [
+      {
+        "name": "Sabor",
+        "slug": "Sabor",
+        "sources_directory": "data/Croatia/Sabor/sources",
+        "popolo": "data/Croatia/Sabor/ep-popolo-v1.0.json",
+        "lastmod": "1441643583",
+        "person_count": 151,
+        "sha": "7beaaf1",
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "7th Assembly",
+            "start_date": "2011-12-22",
+            "slug": "7",
+            "csv": "data/Croatia/Sabor/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Curaçao",
     "country": "Curaçao",
     "code": "CW",
