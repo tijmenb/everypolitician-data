@@ -4616,6 +4616,33 @@
     ]
   },
   {
+    "name": "Puerto Rico",
+    "country": "Puerto Rico",
+    "code": "PR",
+    "slug": "Puerto-Rico",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Puerto_Rico/House_of_Representatives/sources",
+        "popolo": "data/Puerto_Rico/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441635036",
+        "person_count": 51,
+        "sha": "482ccc3",
+        "legislative_periods": [
+          {
+            "end_date": "2017-01-08",
+            "id": "term/29",
+            "name": "29th House of Representatives",
+            "start_date": "2013-01-14",
+            "slug": "29",
+            "csv": "data/Puerto_Rico/House_of_Representatives/term-29.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Rwanda",
     "country": "Rwanda",
     "code": "RW",
