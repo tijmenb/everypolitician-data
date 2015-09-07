@@ -3450,6 +3450,32 @@
     ]
   },
   {
+    "name": "Malta",
+    "country": "Malta",
+    "code": "MT",
+    "slug": "Malta",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Assembly",
+        "sources_directory": "data/Malta/Assembly/sources",
+        "popolo": "data/Malta/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441641456",
+        "person_count": 69,
+        "sha": "8aa070a",
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12th Parliament",
+            "start_date": "2013-04-06",
+            "slug": "12",
+            "csv": "data/Malta/Assembly/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Marshall Islands",
     "country": "Marshall Islands",
     "code": "MH",
