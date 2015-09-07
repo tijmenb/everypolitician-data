@@ -4702,6 +4702,32 @@
     ]
   },
   {
+    "name": "Samoa",
+    "country": "Samoa",
+    "code": "WS",
+    "slug": "Samoa",
+    "legislatures": [
+      {
+        "name": "Fono",
+        "slug": "Parliament",
+        "sources_directory": "data/Samoa/Parliament/sources",
+        "popolo": "data/Samoa/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1441632945",
+        "person_count": 49,
+        "sha": "9c8b206",
+        "legislative_periods": [
+          {
+            "id": "term/15",
+            "name": "15th Parliament",
+            "start_date": "2011",
+            "slug": "15",
+            "csv": "data/Samoa/Parliament/term-15.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "San Marino",
     "country": "San Marino",
     "code": "SM",
