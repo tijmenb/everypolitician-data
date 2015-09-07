@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "file": "manual/spreadsheet.csv",
+      "source": "https://raw.githubusercontent.com/everypolitician/everypolitician-data/ce2dde9a7e225f09333d1b8b48d700f733728139/data/Zimbabwe/Assembly/sources/manual/members.csv",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

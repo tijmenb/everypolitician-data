@@ -1,7 +1,9 @@
 {
   "sources": [
     {
-      "file": "members-2010.csv"
+      "file": "members-2010.csv",
+      "type": "membership",
+      "source": "http://www.dna.sr"
     },
     {
       "file": "morph/data.csv",
@@ -9,7 +11,9 @@
         "type": "morph",
         "scraper": "tmtmtmtm/suriname-nationale-assemblee",
         "query": "SELECT * FROM data"
-      }
+      },
+      "source": "http://www.dna.sr",
+      "type": "membership"
     }
   ]
 }
