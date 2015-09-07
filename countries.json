@@ -3424,6 +3424,32 @@
     ]
   },
   {
+    "name": "Mali",
+    "country": "Mali",
+    "code": "ML",
+    "slug": "Mali",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Mali/Assembly/sources",
+        "popolo": "data/Mali/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441630742",
+        "person_count": 142,
+        "sha": "60cfbff",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "5th Legislature",
+            "start_date": "2014-01-01",
+            "slug": "2014",
+            "csv": "data/Mali/Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Marshall Islands",
     "country": "Marshall Islands",
     "code": "MH",
