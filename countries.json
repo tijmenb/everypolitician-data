@@ -5736,6 +5736,32 @@
     ]
   },
   {
+    "name": "Turks and Caicos Islands",
+    "country": "Turks and Caicos Islands",
+    "code": "TC",
+    "slug": "Turks-and-Caicos-Islands",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Turks_and_Caicos_Islands/Assembly/sources",
+        "popolo": "data/Turks_and_Caicos_Islands/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441642419",
+        "person_count": 18,
+        "sha": "335fee5",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "1st Assembly",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Turks_and_Caicos_Islands/Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tuvalu",
     "country": "Tuvalu",
     "code": "TV",
