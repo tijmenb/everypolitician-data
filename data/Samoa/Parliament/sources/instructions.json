@@ -1,0 +1,47 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/samoa-parliament-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/wiki/15th_Samoan_Parliament",
+      "type": "membership"
+    },
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/samoa-parliament",
+        "query": "SELECT * FROM data"
+      },
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 45,
+        "amatch_warning": 60,
+        "overrides": { 
+          "Susuga PAPALII Lio Faavaivaiomanu Taeu Masipau": ""
+        }
+      },
+      "source": "http://www.parliament.gov.ws",
+      "type": "person"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/samoa-parliament-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikiname"
+      }
+    }
+  ]
+}
