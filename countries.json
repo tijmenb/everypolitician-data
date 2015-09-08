@@ -6130,6 +6130,32 @@
     ]
   },
   {
+    "name": "Uganda",
+    "country": "Uganda",
+    "code": "UG",
+    "slug": "Uganda",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Uganda/Parliament/sources",
+        "popolo": "data/Uganda/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1441728285",
+        "person_count": 385,
+        "sha": "a0b88e9",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2011",
+            "slug": "9",
+            "csv": "data/Uganda/Parliament/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Wales",
     "country": "Wales",
     "code": "GB-WLS",
