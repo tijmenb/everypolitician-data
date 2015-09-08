@@ -3301,6 +3301,32 @@
     ]
   },
   {
+    "name": "Macedonia",
+    "country": "Macedonia",
+    "code": "MK",
+    "slug": "Macedonia",
+    "legislatures": [
+      {
+        "name": "Sobranie",
+        "slug": "Sobranie",
+        "sources_directory": "data/Macedonia/Sobranie/sources",
+        "popolo": "data/Macedonia/Sobranie/ep-popolo-v1.0.json",
+        "lastmod": "1441707190",
+        "person_count": 91,
+        "sha": "e9c3d16",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–2018",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Macedonia/Sobranie/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Madagascar",
     "country": "Madagascar",
     "code": "MG",
