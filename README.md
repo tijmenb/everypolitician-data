@@ -18,25 +18,19 @@ This document is for developers actively working _on_ the project, rather than c
 
 3. Add a `meta.json` for the legislature. This *must* include fields for the legislature `name`, and how many `seats` it currently has. It *should* also contain a `wikidata` reference code. See, for example, [Poland](https://github.com/everypolitician/everypolitician-data/blob/master/data/Poland/Sejm/meta.json)
 
-4. Provide a `Rakefile.rb` that knows how to build the data. This is an overly complicated process at the moment, because we’re in the middle of a transition from a simpler, older approach, to a more complex but more flexible approach. We’ve now gotten rid of the old approach, but haven’t yet successfully simplified the new one. The basic concept is that you provide instructions on how to generate or download some CSV files (at a mimimum a single file of Membership information and a file of Legislative Period / Term information), and these are them combined, turned into a consistent JSON format (based on Popolo), and then split up again into a series of period-based CSVs. This requires:
+4. Provide a `Rakefile.rb` that knows how to build the data. In the vast majority of cases this should simply follow the standard workflow we use everywhere. The basic concept is that you provide instructions on how to generate or download some CSV files (at a mimimum a single file of Membership information and a file of Legislative Period / Term information), and these are them combined, turned into a consistent JSON format (based on Popolo), and then split up again into a series of period-based CSVs. This requires:
 
     1. A single line `Rakefile.rb`
 
-      ```require_relative '../../../rakefile_local.rb'```
+      ```require_relative '../../../rakefile_common.rb'```
 
-    2. A single line `sources/Rakefile.rb`
-
-      ```require_relative '../../../../rakefile_merged.rb'```
-
-    3. A `sources/instructions.json` file listing the data sources, and how to combine them. Proper documentation on this will follow later, but [the Australian House of Representatives](https://github.com/everypolitician/everypolitician-data/blob/master/data/Australia/Representatives/sources/instructions.json) is a reasonably good example to work from. 
+    2. A `sources/instructions.json` file listing the data sources, and how to combine them. Proper documentation on this will follow later, but [the Australian House of Representatives](https://github.com/everypolitician/everypolitician-data/blob/master/data/Australia/Representatives/sources/instructions.json) is a reasonably good example to work from. 
 
 ## Building the data for a legislature
 
-1. From within the `sources` directory for the legislature it should usually be enough to run `rake clean && bundle exec rake`. If you want to fetch fresh data from the source(s) (e.g. Morph.io), then use `rake clobber && bundle exec rake` instead. You'll also need to specify your [morph.io API key](https://morph.io/documentation/api) in the environment variable `MORPH_API_KEY`, e.g. `MORPH_API_KEY=my_secret_key bundle exec rake`
+1. From within the directory for the legislature it should usually be enough to run `rake clean && bundle exec rake`. If you want to fetch fresh data from the source(s) (e.g. Morph.io), then use `rake clobber && bundle exec rake` instead. If you're fetching any data from Morph, you'll also need to specify your [morph.io API key](https://morph.io/documentation/api) in the environment variable `MORPH_API_KEY`, e.g. `MORPH_API_KEY=my_secret_key bundle exec rake`
 
-2. Then, from within the main (i.e. parent) directory for the legislature, you should run the `rake clean && bundle exec rake` again. (These first two steps will be combined into a single step RSN).
+2. Make sure that the changes look sensible, and then commit the new/refreshed data.
 
-3. Make sure that the changes look sensible, and then commit the new/refreshed data.
-
-4. From the root directory of the project run `bundle exec rake` again. This updates the master `countries.json` map with this new information (and includes the sha of the commit, so needs to be run *after* step 3)
+3. From the root directory of the *project* (not the legislature) run `bundle exec rake` again. This updates the master `countries.json` map with this new information. (It includes the sha of the commit from stage 2, so needs to be run separately *after* it)
 
