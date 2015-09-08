@@ -2442,6 +2442,32 @@
     ]
   },
   {
+    "name": "Guernsey",
+    "country": "Guernsey",
+    "code": "GG",
+    "slug": "Guernsey",
+    "legislatures": [
+      {
+        "name": "States",
+        "slug": "States",
+        "sources_directory": "data/Guernsey/States/sources",
+        "popolo": "data/Guernsey/States/ep-popolo-v1.0.json",
+        "lastmod": "1441698435",
+        "person_count": 47,
+        "sha": "7d84244",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Guernsey/States/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Haiti",
     "country": "Haiti",
     "code": "HT",
