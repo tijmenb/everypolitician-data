@@ -32,7 +32,7 @@ This document is for developers actively working _on_ the project, rather than c
 
 ## Building the data for a legislature
 
-1. From within the `sources` directory for the legislature it should usually be enough to run `rake clean && bundle exec rake`. If you want to fetch fresh data from the source(s) (e.g. Morph.io), then use `rake clobber && bundle exec rake` instead.
+1. From within the `sources` directory for the legislature it should usually be enough to run `rake clean && bundle exec rake`. If you want to fetch fresh data from the source(s) (e.g. Morph.io), then use `rake clobber && bundle exec rake` instead. You'll also need to specify your [morph.io API key](https://morph.io/documentation/api) in the environment variable `MORPH_API_KEY`, e.g. `MORPH_API_KEY=my_secret_key bundle exec rake`
 
 2. Then, from within the main (i.e. parent) directory for the legislature, you should run the `rake clean && bundle exec rake` again. (These first two steps will be combined into a single step RSN).
 
