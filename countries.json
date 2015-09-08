@@ -2939,6 +2939,32 @@
     ]
   },
   {
+    "name": "Jamaica",
+    "country": "Jamaica",
+    "code": "JM",
+    "slug": "Jamaica",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Jamaica/House_of_Representatives/sources",
+        "popolo": "data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441710982",
+        "person_count": 63,
+        "sha": "181977b",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Jamaica/House_of_Representatives/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Jersey",
     "country": "Jersey",
     "code": "JE",
