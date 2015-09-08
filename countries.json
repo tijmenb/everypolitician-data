@@ -331,6 +331,32 @@
     ]
   },
   {
+    "name": "Armenia",
+    "country": "Armenia",
+    "code": "AM",
+    "slug": "Armenia",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Armenia/Assembly/sources",
+        "popolo": "data/Armenia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441704679",
+        "person_count": 130,
+        "sha": "211a179",
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "5th Convocation",
+            "start_date": "2012-05-31",
+            "slug": "5",
+            "csv": "data/Armenia/Assembly/term-5.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Aruba",
     "country": "Aruba",
     "code": "AW",
