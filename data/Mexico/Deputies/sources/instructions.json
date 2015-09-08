@@ -1,0 +1,50 @@
+{
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mexico-diputados",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://sitl.diputados.gob.mx/LXII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mexico-deputies-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 85,
+        "amatch_warning": 100,
+        "overrides": { 
+        }
+      }
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mexico-deputies-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikipedia__en"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
