@@ -5344,6 +5344,32 @@
     ]
   },
   {
+    "name": "Somalia",
+    "country": "Somalia",
+    "code": "SO",
+    "slug": "Somalia",
+    "legislatures": [
+      {
+        "name": "House of the People",
+        "slug": "Lower",
+        "sources_directory": "data/Somalia/Lower/sources",
+        "popolo": "data/Somalia/Lower/ep-popolo-v1.0.json",
+        "lastmod": "1441726095",
+        "person_count": 204,
+        "sha": "a9155b9",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012-08-20",
+            "slug": "2012",
+            "csv": "data/Somalia/Lower/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Africa",
     "country": "South Africa",
     "code": "ZA",
