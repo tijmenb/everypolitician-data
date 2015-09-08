@@ -3668,10 +3668,17 @@
         "slug": "Deputies",
         "sources_directory": "data/Mexico/Deputies/sources",
         "popolo": "data/Mexico/Deputies/ep-popolo-v1.0.json",
-        "lastmod": "1441715338",
-        "person_count": 500,
-        "sha": "0696ce0",
+        "lastmod": "1441718587",
+        "person_count": 998,
+        "sha": "d7b891c",
         "legislative_periods": [
+          {
+            "id": "term/63",
+            "name": "LXIII Legislature",
+            "start_date": "2015-09-01",
+            "slug": "63",
+            "csv": "data/Mexico/Deputies/term-63.csv"
+          },
           {
             "end_date": "2015-08-31",
             "id": "term/62",
