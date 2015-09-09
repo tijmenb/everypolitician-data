@@ -11,6 +11,20 @@
       "type": "membership"
     },
     {
+      "file": "morph/socialmedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/us-congress-members-social-media",
+        "query": "SELECT * FROM data"
+      },
+      "merge": { 
+        "incoming_field": "id",
+        "existing_field": "id"
+      },
+      "source": "https://github.com/unitedstates/congress-legislators",
+      "type": "person"
+    },
+    {
       "file": "ocd/divisions.csv",
       "create": {
         "type": "ocd",
