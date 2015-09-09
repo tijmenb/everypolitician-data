@@ -1266,6 +1266,32 @@
     ]
   },
   {
+    "name": "China",
+    "country": "China",
+    "code": "CN",
+    "slug": "China",
+    "legislatures": [
+      {
+        "name": "National People’s Congress",
+        "slug": "Congress",
+        "sources_directory": "data/China/Congress/sources",
+        "popolo": "data/China/Congress/ep-popolo-v1.0.json",
+        "lastmod": "1441805066",
+        "person_count": 2956,
+        "sha": "df9632e",
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12th National People’s Congress",
+            "start_date": "2013-03-05",
+            "slug": "12",
+            "csv": "data/China/Congress/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Congo-Brazzaville",
     "country": "Congo-Brazzaville",
     "code": "CG",
