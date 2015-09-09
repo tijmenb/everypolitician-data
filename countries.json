@@ -2666,6 +2666,32 @@
     ]
   },
   {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "code": "ID",
+    "slug": "Indonesia",
+    "legislatures": [
+      {
+        "name": "Dewan Perwakilan Rakyat",
+        "slug": "Council",
+        "sources_directory": "data/Indonesia/Council/sources",
+        "popolo": "data/Indonesia/Council/ep-popolo-v1.0.json",
+        "lastmod": "1441796591",
+        "person_count": 552,
+        "sha": "0556fb2",
+        "legislative_periods": [
+          {
+            "id": "term/18",
+            "name": "The Indonesian House - 11th General Election",
+            "start_date": "2014-10-01",
+            "slug": "18",
+            "csv": "data/Indonesia/Council/term-18.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Iran",
     "country": "Iran",
     "code": "IR",
