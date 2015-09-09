@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/american-samoa-elections",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
