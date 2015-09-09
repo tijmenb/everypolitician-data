@@ -1,0 +1,376 @@
+{
+  "persons": [
+    {
+      "id": "person/atalina_asifoa",
+      "name": "Atalina Asifoa",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/faimealelei_anthony_fu’e_allen",
+      "name": "Faimealelei Anthony Fu’e Allen",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/fetu_fetui_jr.",
+      "name": "Fetu Fetui Jr.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/larry_simou_sanitoa",
+      "name": "Larry Simou Sanitoa",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/legae’e_mauga",
+      "name": "Legae’e Mauga",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/manumaua_wayne_wilson",
+      "name": "Manumaua Wayne Wilson",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/maugaoali’i_sipa_anoa’i",
+      "name": "Maugaoali’i Sipa Anoa’i",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/mulinu’u_vae’iaitu_filo_maluia",
+      "name": "Mulinu’u Vae’iaitu Filo Maluia",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/puleleiite_lia_tufele_jr.",
+      "name": "Puleleiite Lia Tufele Jr.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/puletu_d._koko",
+      "name": "Puletu D. Koko",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/talaimatai_elisara_su’a",
+      "name": "Talaimatai Elisara Su’a",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/timusa_tini_lam_yuen",
+      "name": "Timusa Tini Lam Yuen",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/toea’ina_f._autele",
+      "name": "Toea’ina F. Autele",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/vailoata_eteuati_amituana’i",
+      "name": "Vailoata Eteuati Amituana’i",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/vesi_talalelei_fautanu_jr.",
+      "name": "Vesi Talalelei Fautanu Jr.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "person/vui_florence_tuaumu_saulo",
+      "name": "Vui Florence Tuaumu Saulo",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q4744878",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "House of Representatives",
+      "seats": 21
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    }
+  ],
+  "meta": {
+    "source": "https://en.wikipedia.org/wiki/American_Samoan_general_election,_2014"
+  },
+  "memberships": [
+    {
+      "area_id": "17",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/atalina_asifoa",
+      "role": "member"
+    },
+    {
+      "area_id": "11",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/faimealelei_anthony_fu’e_allen",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/fetu_fetui_jr.",
+      "role": "member"
+    },
+    {
+      "area_id": "15",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/larry_simou_sanitoa",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/legae’e_mauga",
+      "role": "member"
+    },
+    {
+      "area_id": "12",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/manumaua_wayne_wilson",
+      "role": "member"
+    },
+    {
+      "area_id": "8",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/maugaoali’i_sipa_anoa’i",
+      "role": "member"
+    },
+    {
+      "area_id": "12",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/mulinu’u_vae’iaitu_filo_maluia",
+      "role": "member"
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/puleleiite_lia_tufele_jr.",
+      "role": "member"
+    },
+    {
+      "area_id": "13",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/puletu_d._koko",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/talaimatai_elisara_su’a",
+      "role": "member"
+    },
+    {
+      "area_id": "16",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/timusa_tini_lam_yuen",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/toea’ina_f._autele",
+      "role": "member"
+    },
+    {
+      "area_id": "7",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/vailoata_eteuati_amituana’i",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/vesi_talalelei_fautanu_jr.",
+      "role": "member"
+    },
+    {
+      "area_id": "15",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/vui_florence_tuaumu_saulo",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2014",
+      "name": "2014–",
+      "organization_id": "legislature",
+      "start_date": "2014"
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "name": "Manu'a",
+      "type": "constituency"
+    },
+    {
+      "id": "11",
+      "name": "Maoputasi",
+      "type": "constituency"
+    },
+    {
+      "id": "12",
+      "name": "Ituau",
+      "type": "constituency"
+    },
+    {
+      "id": "13",
+      "name": "Fofo",
+      "type": "constituency"
+    },
+    {
+      "id": "15",
+      "name": "Tualauta",
+      "type": "constituency"
+    },
+    {
+      "id": "16",
+      "name": "Tualautai",
+      "type": "constituency"
+    },
+    {
+      "id": "17",
+      "name": "Leasina",
+      "type": "constituency"
+    },
+    {
+      "id": "2",
+      "name": "Manu'a",
+      "type": "constituency"
+    },
+    {
+      "id": "3",
+      "name": "Vaifanua",
+      "type": "constituency"
+    },
+    {
+      "id": "4",
+      "name": "Saole",
+      "type": "constituency"
+    },
+    {
+      "id": "5",
+      "name": "Sua",
+      "type": "constituency"
+    },
+    {
+      "id": "7",
+      "name": "Maoputasi",
+      "type": "constituency"
+    },
+    {
+      "id": "8",
+      "name": "Maoputasi",
+      "type": "constituency"
+    }
+  ]
+}
