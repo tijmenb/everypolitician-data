@@ -232,34 +232,46 @@ namespace :merge_sources do
     end
 
     # Map Areas 
-    # So far only tested with Australia, so super-simple logic. 
-    # TOOD: Expand this later
     if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' } 
-      all_headers |= [:area_id]
       ocds = CSV.table(area[:file], converters: nil)
-      fuzzer = FuzzyMatch.new(ocds, read: :name)
-      finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
 
-      override = ->(name) { 
-        return unless area[:merge].key? :overrides
-        return unless override_id = area[:merge][:overrides][name.to_sym] 
-        return '' if override_id.empty?
-        ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
-      }
+      all_headers |= [:area, :area_id]
 
-      areas = {}
-      all_rows.each do |r|
-        raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
-        unless areas.key? r[:area]
-          areas[r[:area]] = override.(r[:area]) || finder.(r) 
-          if areas[r[:area]].to_s.empty?
-            warn "No area match for #{r[:area]}"
-          else
-            warn "Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
-          end
+      if area[:generate] == 'area'
+        all_rows.each do |r|
+          ocd = ocds.find { |o| o[:id] == r[:area_id] } or warn "No area for #{r}"
+          r[:area] = ocd[:name] if ocd
         end
-        next if areas[r[:area]].to_s.empty?
-        r[:area_id] = areas[r[:area]][:id] 
+
+      else 
+        # Generate IDs from names
+        # So far only tested with Australia, so super-simple logic. 
+        # TOOD: Expand this later
+
+        fuzzer = FuzzyMatch.new(ocds, read: :name)
+        finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
+
+        override = ->(name) { 
+          return unless area[:merge].key? :overrides
+          return unless override_id = area[:merge][:overrides][name.to_sym] 
+          return '' if override_id.empty?
+          ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
+        }
+
+        areas = {}
+        all_rows.each do |r|
+          raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
+          unless areas.key? r[:area]
+            areas[r[:area]] = override.(r[:area]) || finder.(r) 
+            if areas[r[:area]].to_s.empty?
+              warn "No area match for #{r[:area]}"
+            else
+              warn "Matched Area %s to %s" % [ r[:area].to_s.yellow, areas[r[:area]][:name].to_s.green ] unless areas[r[:area]][:name].include? " #{r[:area]} "
+            end
+          end
+          next if areas[r[:area]].to_s.empty?
+          r[:area_id] = areas[r[:area]][:id] 
+        end
       end
     end
     

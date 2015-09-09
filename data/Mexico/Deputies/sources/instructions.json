@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mexico-diputados",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://sitl.diputados.gob.mx/LXII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official-2015.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/mexico-diputados-2015",
+        "query": "SELECT *, '2015-' || id AS id FROM data"
+      },
+      "source": "http://sitl.diputados.gob.mx/LXIII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
