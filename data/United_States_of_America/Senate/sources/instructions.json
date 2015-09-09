@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/us-congress-members",
+        "query": "SELECT *,MAX(start_date, '2015-01-06') AS start_date FROM data WHERE house = 'sen'"
+      },
+      "source": "https://github.com/unitedstates/congress-legislators",
+      "type": "membership"
+    },
+    {
+      "file": "ocd/divisions.csv",
+      "create": {
+        "type": "ocd",
+        "source": "country-us.csv"
+      },
+      "type": "area",
+      "generate": "area"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
