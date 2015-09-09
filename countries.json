@@ -6200,6 +6200,32 @@
     ]
   },
   {
+    "name": "Vanuatu",
+    "country": "Vanuatu",
+    "code": "VU",
+    "slug": "Vanuatu",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Vanuatu/Parliament/sources",
+        "popolo": "data/Vanuatu/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1441735978",
+        "person_count": 52,
+        "sha": "75024bb",
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2012",
+            "slug": "10",
+            "csv": "data/Vanuatu/Parliament/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Wales",
     "country": "Wales",
     "code": "GB-WLS",
