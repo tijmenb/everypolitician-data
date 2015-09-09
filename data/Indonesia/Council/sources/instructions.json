@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "struan/indonesia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://dpr.go.id/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "type": "morph",
+        "scraper": "struan/indonesia",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
