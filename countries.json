@@ -637,6 +637,33 @@
     ]
   },
   {
+    "name": "Belize",
+    "country": "Belize",
+    "code": "BZ",
+    "slug": "Belize",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Belize/Representatives/sources",
+        "popolo": "data/Belize/Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441794758",
+        "person_count": 27,
+        "sha": "ecdd970",
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/2012",
+            "name": "2012–2017",
+            "start_date": "2012-03-21",
+            "slug": "2012",
+            "csv": "data/Belize/Representatives/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Benin",
     "country": "Benin",
     "code": "BJ",
