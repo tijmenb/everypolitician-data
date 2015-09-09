@@ -79,6 +79,32 @@
     ]
   },
   {
+    "name": "American Samoa",
+    "country": "American Samoa",
+    "code": "AS",
+    "slug": "American-Samoa",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/American_Samoa/House/sources",
+        "popolo": "data/American_Samoa/House/ep-popolo-v1.0.json",
+        "lastmod": "1441813251",
+        "person_count": 16,
+        "sha": "cc3bd45",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/American_Samoa/House/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
