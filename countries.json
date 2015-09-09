@@ -3044,6 +3044,32 @@
     ]
   },
   {
+    "name": "Japan",
+    "country": "Japan",
+    "code": "JP",
+    "slug": "Japan",
+    "legislatures": [
+      {
+        "name": "Shūgiin",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Japan/House_of_Representatives/sources",
+        "popolo": "data/Japan/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441810529",
+        "person_count": 474,
+        "sha": "1465e47",
+        "legislative_periods": [
+          {
+            "id": "term/46",
+            "name": "The 46th House of Representatives",
+            "start_date": "2014-12-14",
+            "slug": "46",
+            "csv": "data/Japan/House_of_Representatives/term-46.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Jersey",
     "country": "Jersey",
     "code": "JE",
