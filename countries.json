@@ -6099,8 +6099,60 @@
     ]
   },
   {
-    "name": "UK",
-    "country": "UK",
+    "name": "US Virgin Islands",
+    "country": "US Virgin Islands",
+    "code": "VI",
+    "slug": "US-Virgin-Islands",
+    "legislatures": [
+      {
+        "name": "Legislature",
+        "slug": "Legislature",
+        "sources_directory": "data/US_Virgin_Islands/Legislature/sources",
+        "popolo": "data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json",
+        "lastmod": "1441580901",
+        "person_count": 15,
+        "sha": "aa6bc46",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/US_Virgin_Islands/Legislature/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "country": "Uganda",
+    "code": "UG",
+    "slug": "Uganda",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Uganda/Parliament/sources",
+        "popolo": "data/Uganda/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1441728285",
+        "person_count": 385,
+        "sha": "a0b88e9",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2011",
+            "slug": "9",
+            "csv": "data/Uganda/Parliament/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
     "code": "GB",
     "slug": "UK",
     "legislatures": [
@@ -6151,58 +6203,6 @@
             "start_date": "1997-05-01",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "US Virgin Islands",
-    "country": "US Virgin Islands",
-    "code": "VI",
-    "slug": "US-Virgin-Islands",
-    "legislatures": [
-      {
-        "name": "Legislature",
-        "slug": "Legislature",
-        "sources_directory": "data/US_Virgin_Islands/Legislature/sources",
-        "popolo": "data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json",
-        "lastmod": "1441580901",
-        "person_count": 15,
-        "sha": "aa6bc46",
-        "legislative_periods": [
-          {
-            "id": "term/2014",
-            "name": "2014–",
-            "start_date": "2014",
-            "slug": "2014",
-            "csv": "data/US_Virgin_Islands/Legislature/term-2014.csv"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Uganda",
-    "country": "Uganda",
-    "code": "UG",
-    "slug": "Uganda",
-    "legislatures": [
-      {
-        "name": "Parliament",
-        "slug": "Parliament",
-        "sources_directory": "data/Uganda/Parliament/sources",
-        "popolo": "data/Uganda/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1441728285",
-        "person_count": 385,
-        "sha": "a0b88e9",
-        "legislative_periods": [
-          {
-            "id": "term/9",
-            "name": "9th Parliament",
-            "start_date": "2011",
-            "slug": "9",
-            "csv": "data/Uganda/Parliament/term-9.csv"
           }
         ]
       }

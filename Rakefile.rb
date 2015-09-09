@@ -54,7 +54,6 @@ task 'countries.json' do
     name = meta['name'] || c.tr('_', ' ')
     slug = c.tr('_', '-')
 
-
     {
       name: name,
       # Deprecated — will be removed soon!
