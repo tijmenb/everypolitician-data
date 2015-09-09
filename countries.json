@@ -4938,6 +4938,32 @@
     ]
   },
   {
+    "name": "Russia",
+    "country": "Russia",
+    "code": "RU",
+    "slug": "Russia",
+    "legislatures": [
+      {
+        "name": "Duma",
+        "slug": "Duma",
+        "sources_directory": "data/Russia/Duma/sources",
+        "popolo": "data/Russia/Duma/ep-popolo-v1.0.json",
+        "lastmod": "1441801966",
+        "person_count": 450,
+        "sha": "8ca9fe9",
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6th Convocation",
+            "start_date": "2011-12-04",
+            "slug": "6",
+            "csv": "data/Russia/Duma/term-6.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Rwanda",
     "country": "Rwanda",
     "code": "RW",
