@@ -5848,6 +5848,32 @@
     ]
   },
   {
+    "name": "Tajikistan",
+    "country": "Tajikistan",
+    "code": "TJ",
+    "slug": "Tajikistan",
+    "legislatures": [
+      {
+        "name": "Assembly of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Tajikistan/Representatives/sources",
+        "popolo": "data/Tajikistan/Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441879369",
+        "person_count": 62,
+        "sha": "f3773ce",
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Tajikistan/Representatives/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tanzania",
     "country": "Tanzania",
     "code": "TZ",
