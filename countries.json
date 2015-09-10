@@ -1318,6 +1318,32 @@
     ]
   },
   {
+    "name": "Colombia",
+    "country": "Colombia",
+    "code": "CO",
+    "slug": "Colombia",
+    "legislatures": [
+      {
+        "name": "Cámara de Representantes",
+        "slug": "Representatives",
+        "sources_directory": "data/Colombia/Representatives/sources",
+        "popolo": "data/Colombia/Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1441892036",
+        "person_count": 165,
+        "sha": "42bf770",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Colombia/Representatives/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Congo-Brazzaville",
     "country": "Congo-Brazzaville",
     "code": "CG",
