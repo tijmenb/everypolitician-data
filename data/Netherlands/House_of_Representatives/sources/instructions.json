@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "struan/netherlands",
+        "query": "SELECT *, '2012' AS term FROM data"
+      },
+      "source": "http://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
