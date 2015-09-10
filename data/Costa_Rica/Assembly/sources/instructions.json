@@ -1,0 +1,62 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/costa-rica-asamblea",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.asamblea.go.cr/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/emails.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/costa-rica-asamblea-emails",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "merge": { 
+        "incoming_field": "id",
+        "existing_field": "id"
+      }
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/costa-rica-election-2014",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 100,
+        "overrides": { 
+          "Óscar Andrés López Arias": "808"
+        }
+      }
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/costa-rica-asamblea-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikiname"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
