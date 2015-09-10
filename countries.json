@@ -1386,6 +1386,33 @@
     ]
   },
   {
+    "name": "Costa Rica",
+    "country": "Costa Rica",
+    "code": "CR",
+    "slug": "Costa-Rica",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Costa_Rica/Assembly/sources",
+        "popolo": "data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441886314",
+        "person_count": 56,
+        "sha": "a8a8354",
+        "legislative_periods": [
+          {
+            "end_date": "2018-04-30",
+            "id": "term/2014",
+            "name": "2014–2018",
+            "start_date": "2014-05-01",
+            "slug": "2014",
+            "csv": "data/Costa_Rica/Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Croatia",
     "country": "Croatia",
     "code": "HR",
