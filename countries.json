@@ -6566,6 +6566,33 @@
     ]
   },
   {
+    "name": "Venezuela",
+    "country": "Venezuela",
+    "code": "VE",
+    "slug": "Venezuela",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Venezuela/Assembly/sources",
+        "popolo": "data/Venezuela/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441909244",
+        "person_count": 162,
+        "sha": "6942be8",
+        "legislative_periods": [
+          {
+            "end_date": "2016",
+            "id": "term/2011",
+            "name": "2011–2016",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Venezuela/Assembly/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Wales",
     "country": "Wales",
     "code": "GB-WLS",
