@@ -24,6 +24,21 @@
       }
     },
     {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/costa-rica-election-2014",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 100
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
