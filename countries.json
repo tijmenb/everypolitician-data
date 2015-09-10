@@ -5042,6 +5042,32 @@
     ]
   },
   {
+    "name": "Romania",
+    "country": "Romania",
+    "code": "RO",
+    "slug": "Romania",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Romania/Deputies/sources",
+        "popolo": "data/Romania/Deputies/ep-popolo-v1.0.json",
+        "lastmod": "1441871865",
+        "person_count": 417,
+        "sha": "cd73acd",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "7th Legislature",
+            "start_date": "2012-12-12",
+            "slug": "2012",
+            "csv": "data/Romania/Deputies/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Russia",
     "country": "Russia",
     "code": "RU",
