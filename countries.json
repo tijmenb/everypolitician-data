@@ -768,6 +768,32 @@
     ]
   },
   {
+    "name": "Bolivia",
+    "country": "Bolivia",
+    "code": "BO",
+    "slug": "Bolivia",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Bolivia/Deputies/sources",
+        "popolo": "data/Bolivia/Deputies/ep-popolo-v1.0.json",
+        "lastmod": "1441899135",
+        "person_count": 128,
+        "sha": "6133d45",
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Bolivia/Deputies/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bosnia and Herzegovina",
     "country": "Bosnia and Herzegovina",
     "code": "BA",
