@@ -3390,6 +3390,32 @@
     ]
   },
   {
+    "name": "Laos",
+    "country": "Laos",
+    "code": "LA",
+    "slug": "Laos",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Laos/Assembly/sources",
+        "popolo": "data/Laos/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441976494",
+        "person_count": 132,
+        "sha": "f807042",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Laos/Assembly/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Lesotho",
     "country": "Lesotho",
     "code": "LS",
