@@ -6618,6 +6618,32 @@
     ]
   },
   {
+    "name": "Uruguay",
+    "country": "Uruguay",
+    "code": "UY",
+    "slug": "Uruguay",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Uruguay/Deputies/sources",
+        "popolo": "data/Uruguay/Deputies/ep-popolo-v1.0.json",
+        "lastmod": "1441963827",
+        "person_count": 106,
+        "sha": "eee53e2",
+        "legislative_periods": [
+          {
+            "id": "term/48",
+            "name": "XLVIII Legislatura",
+            "start_date": "2015-02-15",
+            "slug": "48",
+            "csv": "data/Uruguay/Deputies/term-48.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Vanuatu",
     "country": "Vanuatu",
     "code": "VU",
