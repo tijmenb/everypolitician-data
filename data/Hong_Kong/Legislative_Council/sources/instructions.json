@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "struan/hong_kong_legislative_council_members",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.legco.gov.hk/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "struan/hong_kong_legislative_council_members",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
