@@ -5953,6 +5953,32 @@
     ]
   },
   {
+    "name": "Syria",
+    "country": "Syria",
+    "code": "SY",
+    "slug": "Syria",
+    "legislatures": [
+      {
+        "name": "People’s Council",
+        "slug": "Majlis",
+        "sources_directory": "data/Syria/Majlis/sources",
+        "popolo": "data/Syria/Majlis/ep-popolo-v1.0.json",
+        "lastmod": "1441959614",
+        "person_count": 274,
+        "sha": "99c2876",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012-05-24",
+            "slug": "2012",
+            "csv": "data/Syria/Majlis/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tajikistan",
     "country": "Tajikistan",
     "code": "TJ",
