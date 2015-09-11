@@ -2705,6 +2705,32 @@
     ]
   },
   {
+    "name": "Hong Kong",
+    "country": "Hong Kong",
+    "code": "HK",
+    "slug": "Hong-Kong",
+    "legislatures": [
+      {
+        "name": "Legislative Council",
+        "slug": "Legislative-Council",
+        "sources_directory": "data/Hong_Kong/Legislative_Council/sources",
+        "popolo": "data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
+        "lastmod": "1441979935",
+        "person_count": 70,
+        "sha": "c5a0ce5",
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "Fifth Legislative Council",
+            "start_date": "2012-09-12",
+            "slug": "5",
+            "csv": "data/Hong_Kong/Legislative_Council/term-5.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hungary",
     "country": "Hungary",
     "code": "HU",
