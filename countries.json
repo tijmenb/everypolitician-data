@@ -4981,6 +4981,33 @@
     ]
   },
   {
+    "name": "Peru",
+    "country": "Peru",
+    "code": "PE",
+    "slug": "Peru",
+    "legislatures": [
+      {
+        "name": "Congress",
+        "slug": "Congreso",
+        "sources_directory": "data/Peru/Congreso/sources",
+        "popolo": "data/Peru/Congreso/ep-popolo-v1.0.json",
+        "lastmod": "1441994830",
+        "person_count": 127,
+        "sha": "8fc5d87",
+        "legislative_periods": [
+          {
+            "end_date": "2016-07-26",
+            "id": "term/2011",
+            "name": "Congress of 2011–2016",
+            "start_date": "2011-07-27",
+            "slug": "2011",
+            "csv": "data/Peru/Congreso/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Philippines",
     "country": "Philippines",
     "code": "PH",
