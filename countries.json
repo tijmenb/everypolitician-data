@@ -6073,6 +6073,32 @@
     ]
   },
   {
+    "name": "Thailand",
+    "country": "Thailand",
+    "code": "TH",
+    "slug": "Thailand",
+    "legislatures": [
+      {
+        "name": "National Legislative Assembly",
+        "slug": "National-Legislative-Assembly",
+        "sources_directory": "data/Thailand/National_Legislative_Assembly/sources",
+        "popolo": "data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441980978",
+        "person_count": 218,
+        "sha": "77aab0c",
+        "legislative_periods": [
+          {
+            "id": "term/2557",
+            "name": "2557 (NCPO)",
+            "start_date": "2014",
+            "slug": "2557",
+            "csv": "data/Thailand/National_Legislative_Assembly/term-2557.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Togo",
     "country": "Togo",
     "code": "TG",
