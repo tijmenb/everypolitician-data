@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "file": "morph/openaustralia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "davewhiteland/thailand-national-assembly",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.senate.go.th/",
+      "type": "membership"
+    }
+  ]
+}
