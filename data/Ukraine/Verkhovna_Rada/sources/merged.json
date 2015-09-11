@@ -5277,11 +5277,6 @@
     },
     {
       "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
-    },
-    {
-      "classification": "party",
       "id": "party/Група_\"Воля_народу\"",
       "name": "Група \"Воля народу\""
     },
@@ -5289,6 +5284,11 @@
       "classification": "party",
       "id": "party/Група_\"Партія_\"Відродження\"",
       "name": "Група \"Партія \"Відродження\""
+    },
+    {
+      "classification": "party",
+      "id": "party/Позафракційні",
+      "name": "Позафракційні"
     },
     {
       "classification": "party",
@@ -5322,7 +5322,7 @@
     }
   ],
   "meta": {
-    "source": "https://morph.io/openaustralia/ukraine_verkhovna_rada_deputies"
+    "source": "http://rada.gov.ua/"
   },
   "memberships": [
     {
@@ -5364,7 +5364,7 @@
     {
       "area_id": "area/Виборчому_округу_№216",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/11097",
       "role": "member",
@@ -5410,7 +5410,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/11116",
       "role": "member",
@@ -5438,7 +5438,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/11129",
       "role": "member",
@@ -5447,7 +5447,7 @@
     {
       "area_id": "area/Виборчому_округу_№72",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/11131",
       "role": "member",
@@ -5474,7 +5474,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/11584",
       "role": "member",
@@ -5519,7 +5519,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/11999",
       "role": "member",
@@ -5709,7 +5709,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15650",
       "role": "member",
@@ -5764,7 +5764,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15657",
       "role": "member",
@@ -5810,7 +5810,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-01-14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15668",
       "role": "member",
@@ -5910,7 +5910,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-01-14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15687",
       "role": "member",
@@ -5964,7 +5964,7 @@
     {
       "area_id": "area/Виборчому_округу_№24",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15734",
       "role": "member",
@@ -6000,7 +6000,7 @@
     {
       "area_id": "area/Виборчому_округу_№71",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15757",
       "role": "member",
@@ -6045,7 +6045,7 @@
     {
       "area_id": "area/Виборчому_округу_№87",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15768",
       "role": "member",
@@ -6171,7 +6171,7 @@
     {
       "area_id": "area/Виборчому_округу_№145",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15802",
       "role": "member",
@@ -6207,7 +6207,7 @@
     {
       "area_id": "area/Виборчому_округу_№152",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15806",
       "role": "member",
@@ -6234,7 +6234,7 @@
     {
       "area_id": "area/Виборчому_округу_№164",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15813",
       "role": "member",
@@ -6243,7 +6243,7 @@
     {
       "area_id": "area/Виборчому_округу_№172",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15814",
       "role": "member",
@@ -6252,7 +6252,7 @@
     {
       "area_id": "area/Виборчому_округу_№173",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15815",
       "role": "member",
@@ -6297,7 +6297,7 @@
     {
       "area_id": "area/Виборчому_округу_№186",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15823",
       "role": "member",
@@ -6324,7 +6324,7 @@
     {
       "area_id": "area/Виборчому_округу_№192",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15827",
       "role": "member",
@@ -6378,7 +6378,7 @@
     {
       "area_id": "area/Виборчому_округу_№215",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15837",
       "role": "member",
@@ -6450,7 +6450,7 @@
     {
       "area_id": "area/Виборчому_округу_№198",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/16430",
       "role": "member",
@@ -6486,7 +6486,7 @@
     {
       "area_id": "area/Виборчому_округу_№223",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/16672",
       "role": "member",
@@ -6577,7 +6577,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/17666",
       "role": "member",
@@ -6820,7 +6820,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/17973",
       "role": "member",
@@ -6839,7 +6839,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/17975",
       "role": "member",
@@ -6993,7 +6993,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/17992",
       "role": "member",
@@ -7065,7 +7065,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18002",
       "role": "member",
@@ -7092,7 +7092,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18005",
       "role": "member",
@@ -7101,7 +7101,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18006",
       "role": "member",
@@ -7191,7 +7191,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18016",
       "role": "member",
@@ -7245,7 +7245,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18022",
       "role": "member",
@@ -7309,7 +7309,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-05-13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18030",
       "role": "member",
@@ -7418,7 +7418,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18044",
       "role": "member",
@@ -7536,7 +7536,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18057",
       "role": "member",
@@ -7572,7 +7572,7 @@
     {
       "area_id": "area/Виборчому_округу_№73",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18061",
       "role": "member",
@@ -7599,7 +7599,7 @@
     {
       "area_id": "area/Виборчому_округу_№213",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18064",
       "role": "member",
@@ -7608,7 +7608,7 @@
     {
       "area_id": "area/Виборчому_округу_№217",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18065",
       "role": "member",
@@ -7734,7 +7734,7 @@
     {
       "area_id": "area/Виборчому_округу_№26",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18081",
       "role": "member",
@@ -7752,7 +7752,7 @@
     {
       "area_id": "area/Виборчому_округу_№40",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18083",
       "role": "member",
@@ -7770,7 +7770,7 @@
     {
       "area_id": "area/Виборчому_округу_№115",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18085",
       "role": "member",
@@ -7779,7 +7779,7 @@
     {
       "area_id": "area/Виборчому_округу_№102",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18086",
       "role": "member",
@@ -7788,7 +7788,7 @@
     {
       "area_id": "area/Виборчому_округу_№30",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18087",
       "role": "member",
@@ -7869,7 +7869,7 @@
     {
       "area_id": "area/Виборчому_округу_№220",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18096",
       "role": "member",
@@ -7923,7 +7923,7 @@
     {
       "area_id": "area/Виборчому_округу_№29",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18111",
       "role": "member",
@@ -7986,7 +7986,7 @@
     {
       "area_id": "area/Виборчому_округу_№90",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18118",
       "role": "member",
@@ -8040,7 +8040,7 @@
     {
       "area_id": "area/Виборчому_округу_№122",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18124",
       "role": "member",
@@ -8184,7 +8184,7 @@
     {
       "area_id": "area/Виборчому_округу_№58",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18140",
       "role": "member",
@@ -8229,7 +8229,7 @@
     {
       "area_id": "area/Виборчому_округу_№27",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18145",
       "role": "member",
@@ -8301,7 +8301,7 @@
     {
       "area_id": "area/Виборчому_округу_№39",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18153",
       "role": "member",
@@ -8311,7 +8311,7 @@
       "area_id": "area/Виборчому_округу_№205",
       "end_date": "2015-05-19",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18160",
       "role": "member",
@@ -8375,7 +8375,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-05-13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18207",
       "role": "member",
@@ -8465,7 +8465,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/19058",
       "role": "member",
@@ -8493,7 +8493,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-01-14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/2086",
       "role": "member",
@@ -8503,7 +8503,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/2155",
       "role": "member",
@@ -8548,7 +8548,7 @@
     {
       "area_id": "area/Виборчому_округу_№150",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/2301",
       "role": "member",
@@ -8575,7 +8575,7 @@
     {
       "area_id": "area/Виборчому_округу_№135",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/2320",
       "role": "member",
@@ -8639,7 +8639,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/3008",
       "role": "member",
@@ -8648,7 +8648,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/3180",
       "role": "member",
@@ -8801,7 +8801,7 @@
     {
       "area_id": "area/Виборчому_округу_№133",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/5500",
       "role": "member",
@@ -8846,7 +8846,7 @@
     {
       "area_id": "area/Виборчому_округу_№174",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/5542",
       "role": "member",
@@ -8864,7 +8864,7 @@
     {
       "area_id": "area/Виборчому_округу_№69",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/5566",
       "role": "member",
@@ -8891,7 +8891,7 @@
     {
       "area_id": "area/Виборчому_округу_№206",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/5584",
       "role": "member",
@@ -9161,7 +9161,7 @@
     {
       "area_id": "area/Виборчому_округу_№46",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/8781",
       "role": "member",
@@ -9215,7 +9215,7 @@
     {
       "area_id": "area/Виборчому_округу_№98",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/8827",
       "role": "member",
@@ -9252,7 +9252,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-06-04",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/8889",
       "role": "member",
