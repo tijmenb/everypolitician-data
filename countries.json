@@ -1695,6 +1695,32 @@
     ]
   },
   {
+    "name": "Ecuador",
+    "country": "Ecuador",
+    "code": "EC",
+    "slug": "Ecuador",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Asamblea",
+        "sources_directory": "data/Ecuador/Asamblea/sources",
+        "popolo": "data/Ecuador/Asamblea/ep-popolo-v1.0.json",
+        "lastmod": "1441894102",
+        "person_count": 136,
+        "sha": "dce98c5",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Ecuador/Asamblea/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Estonia",
     "country": "Estonia",
     "code": "EE",
