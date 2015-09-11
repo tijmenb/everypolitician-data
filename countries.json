@@ -79,6 +79,32 @@
     ]
   },
   {
+    "name": "American Samoa",
+    "country": "American Samoa",
+    "code": "AS",
+    "slug": "American-Samoa",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/American_Samoa/House/sources",
+        "popolo": "data/American_Samoa/House/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 16,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/American_Samoa/House/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
@@ -637,6 +663,33 @@
     ]
   },
   {
+    "name": "Belize",
+    "country": "Belize",
+    "code": "BZ",
+    "slug": "Belize",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Belize/Representatives/sources",
+        "popolo": "data/Belize/Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 27,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/2012",
+            "name": "2012–2017",
+            "start_date": "2012-03-21",
+            "slug": "2012",
+            "csv": "data/Belize/Representatives/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Benin",
     "country": "Benin",
     "code": "BJ",
@@ -709,6 +762,32 @@
             "start_date": "2013-07-13",
             "slug": "2",
             "csv": "data/Bhutan/Assembly/term-2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "country": "Bolivia",
+    "code": "BO",
+    "slug": "Bolivia",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Bolivia/Deputies/sources",
+        "popolo": "data/Bolivia/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 128,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Bolivia/Deputies/term-2015.csv"
           }
         ]
       }
@@ -1239,6 +1318,58 @@
     ]
   },
   {
+    "name": "China",
+    "country": "China",
+    "code": "CN",
+    "slug": "China",
+    "legislatures": [
+      {
+        "name": "National People’s Congress",
+        "slug": "Congress",
+        "sources_directory": "data/China/Congress/sources",
+        "popolo": "data/China/Congress/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 2956,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12th National People’s Congress",
+            "start_date": "2013-03-05",
+            "slug": "12",
+            "csv": "data/China/Congress/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "country": "Colombia",
+    "code": "CO",
+    "slug": "Colombia",
+    "legislatures": [
+      {
+        "name": "Cámara de Representantes",
+        "slug": "Representatives",
+        "sources_directory": "data/Colombia/Representatives/sources",
+        "popolo": "data/Colombia/Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 165,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Colombia/Representatives/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Congo-Brazzaville",
     "country": "Congo-Brazzaville",
     "code": "CG",
@@ -1301,6 +1432,33 @@
             "start_date": "2006",
             "slug": "12",
             "csv": "data/Cook_Islands/Parliament/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "country": "Costa Rica",
+    "code": "CR",
+    "slug": "Costa-Rica",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Costa_Rica/Assembly/sources",
+        "popolo": "data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 56,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2018-04-30",
+            "id": "term/2014",
+            "name": "2014–2018",
+            "start_date": "2014-05-01",
+            "slug": "2014",
+            "csv": "data/Costa_Rica/Assembly/term-2014.csv"
           }
         ]
       }
@@ -2639,6 +2797,32 @@
     ]
   },
   {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "code": "ID",
+    "slug": "Indonesia",
+    "legislatures": [
+      {
+        "name": "Dewan Perwakilan Rakyat",
+        "slug": "Council",
+        "sources_directory": "data/Indonesia/Council/sources",
+        "popolo": "data/Indonesia/Council/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 552,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/18",
+            "name": "The Indonesian House - 11th General Election",
+            "start_date": "2014-10-01",
+            "slug": "18",
+            "csv": "data/Indonesia/Council/term-18.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Iran",
     "country": "Iran",
     "code": "IR",
@@ -2959,6 +3143,32 @@
             "start_date": "2011",
             "slug": "2011",
             "csv": "data/Jamaica/House_of_Representatives/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "country": "Japan",
+    "code": "JP",
+    "slug": "Japan",
+    "legislatures": [
+      {
+        "name": "Shūgiin",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Japan/House_of_Representatives/sources",
+        "popolo": "data/Japan/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 474,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/46",
+            "name": "The 46th House of Representatives",
+            "start_date": "2014-12-14",
+            "slug": "46",
+            "csv": "data/Japan/House_of_Representatives/term-46.csv"
           }
         ]
       }
@@ -4113,6 +4323,32 @@
     ]
   },
   {
+    "name": "Netherlands",
+    "country": "Netherlands",
+    "code": "NL",
+    "slug": "Netherlands",
+    "legislatures": [
+      {
+        "name": "Tweede Kamer",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Netherlands/House_of_Representatives/sources",
+        "popolo": "data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 150,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012-09-20",
+            "slug": "2012",
+            "csv": "data/Netherlands/House_of_Representatives/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "New Caledonia",
     "country": "New Caledonia",
     "code": "NC",
@@ -4587,6 +4823,32 @@
     ]
   },
   {
+    "name": "Panama",
+    "country": "Panama",
+    "code": "PA",
+    "slug": "Panama",
+    "legislatures": [
+      {
+        "name": "Cámara de Representantes",
+        "slug": "Assembly",
+        "sources_directory": "data/Panama/Assembly/sources",
+        "popolo": "data/Panama/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 71,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Panama/Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Papua New Guinea",
     "country": "Papua New Guinea",
     "code": "PG",
@@ -4879,6 +5141,58 @@
             "start_date": "2013-01-14",
             "slug": "29",
             "csv": "data/Puerto_Rico/House_of_Representatives/term-29.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "country": "Romania",
+    "code": "RO",
+    "slug": "Romania",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Romania/Deputies/sources",
+        "popolo": "data/Romania/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 417,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "7th Legislature",
+            "start_date": "2012-12-12",
+            "slug": "2012",
+            "csv": "data/Romania/Deputies/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Russia",
+    "country": "Russia",
+    "code": "RU",
+    "slug": "Russia",
+    "legislatures": [
+      {
+        "name": "Duma",
+        "slug": "Duma",
+        "sources_directory": "data/Russia/Duma/sources",
+        "popolo": "data/Russia/Duma/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 450,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6th Convocation",
+            "start_date": "2011-12-04",
+            "slug": "6",
+            "csv": "data/Russia/Duma/term-6.csv"
           }
         ]
       }
@@ -5639,6 +5953,32 @@
     ]
   },
   {
+    "name": "Tajikistan",
+    "country": "Tajikistan",
+    "code": "TJ",
+    "slug": "Tajikistan",
+    "legislatures": [
+      {
+        "name": "Assembly of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Tajikistan/Representatives/sources",
+        "popolo": "data/Tajikistan/Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 62,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Tajikistan/Representatives/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tanzania",
     "country": "Tanzania",
     "code": "TZ",
@@ -6046,64 +6386,6 @@
     ]
   },
   {
-    "name": "UK",
-    "country": "UK",
-    "code": "GB",
-    "slug": "UK",
-    "legislatures": [
-      {
-        "name": "House of Commons",
-        "slug": "Commons",
-        "sources_directory": "data/UK/Commons/sources",
-        "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "lastmod": "1441580901",
-        "person_count": 1337,
-        "sha": "aa6bc46",
-        "legislative_periods": [
-          {
-            "id": "term/56",
-            "name": "56th Parliament of the United Kingdom",
-            "start_date": "2015-05-08",
-            "slug": "56",
-            "csv": "data/UK/Commons/term-56.csv"
-          },
-          {
-            "end_date": "2015-03-30",
-            "id": "term/55",
-            "name": "55th Parliament of the United Kingdom",
-            "start_date": "2010-05-06",
-            "slug": "55",
-            "csv": "data/UK/Commons/term-55.csv"
-          },
-          {
-            "end_date": "2010-04-12",
-            "id": "term/54",
-            "name": "54th Parliament of the United Kingdom",
-            "start_date": "2005-05-05",
-            "slug": "54",
-            "csv": "data/UK/Commons/term-54.csv"
-          },
-          {
-            "end_date": "2005-04-11",
-            "id": "term/53",
-            "name": "53rd Parliament of the United Kingdom",
-            "start_date": "2001-06-07",
-            "slug": "53",
-            "csv": "data/UK/Commons/term-53.csv"
-          },
-          {
-            "end_date": "2001-05-14",
-            "id": "term/52",
-            "name": "52nd Parliament of the United Kingdom",
-            "start_date": "1997-05-01",
-            "slug": "52",
-            "csv": "data/UK/Commons/term-52.csv"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "US Virgin Islands",
     "country": "US Virgin Islands",
     "code": "VI",
@@ -6182,6 +6464,64 @@
     ]
   },
   {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "code": "GB",
+    "slug": "UK",
+    "legislatures": [
+      {
+        "name": "House of Commons",
+        "slug": "Commons",
+        "sources_directory": "data/UK/Commons/sources",
+        "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
+        "lastmod": "1441580901",
+        "person_count": 1337,
+        "sha": "aa6bc46",
+        "legislative_periods": [
+          {
+            "id": "term/56",
+            "name": "56th Parliament of the United Kingdom",
+            "start_date": "2015-05-08",
+            "slug": "56",
+            "csv": "data/UK/Commons/term-56.csv"
+          },
+          {
+            "end_date": "2015-03-30",
+            "id": "term/55",
+            "name": "55th Parliament of the United Kingdom",
+            "start_date": "2010-05-06",
+            "slug": "55",
+            "csv": "data/UK/Commons/term-55.csv"
+          },
+          {
+            "end_date": "2010-04-12",
+            "id": "term/54",
+            "name": "54th Parliament of the United Kingdom",
+            "start_date": "2005-05-05",
+            "slug": "54",
+            "csv": "data/UK/Commons/term-54.csv"
+          },
+          {
+            "end_date": "2005-04-11",
+            "id": "term/53",
+            "name": "53rd Parliament of the United Kingdom",
+            "start_date": "2001-06-07",
+            "slug": "53",
+            "csv": "data/UK/Commons/term-53.csv"
+          },
+          {
+            "end_date": "2001-05-14",
+            "id": "term/52",
+            "name": "52nd Parliament of the United Kingdom",
+            "start_date": "1997-05-01",
+            "slug": "52",
+            "csv": "data/UK/Commons/term-52.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "United States of America",
     "country": "United States of America",
     "code": "US",
@@ -6246,6 +6586,33 @@
             "start_date": "2012",
             "slug": "10",
             "csv": "data/Vanuatu/Parliament/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "country": "Venezuela",
+    "code": "VE",
+    "slug": "Venezuela",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Venezuela/Assembly/sources",
+        "popolo": "data/Venezuela/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 162,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2016",
+            "id": "term/2011",
+            "name": "2011–2016",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Venezuela/Assembly/term-2011.csv"
           }
         ]
       }
