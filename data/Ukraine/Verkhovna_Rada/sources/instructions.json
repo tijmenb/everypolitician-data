@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "openaustralia/ukraine_verkhovna_rada_deputies",
+        "query": "SELECT *, COALESCE(faction, 'Позафракційні') AS faction FROM data"
+      },
+      "source": "http://rada.gov.ua/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

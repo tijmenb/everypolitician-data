@@ -6438,6 +6438,32 @@
     ]
   },
   {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "code": "UA",
+    "slug": "Ukraine",
+    "legislatures": [
+      {
+        "name": "Verkhovna Rada",
+        "slug": "Verkhovna-Rada",
+        "sources_directory": "data/Ukraine/Verkhovna_Rada/sources",
+        "popolo": "data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
+        "lastmod": "1441954613",
+        "person_count": 439,
+        "sha": "f1160e6",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Verkhovna Rada",
+            "start_date": "2014-11-27",
+            "slug": "8",
+            "csv": "data/Ukraine/Verkhovna_Rada/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "United Kingdom",
     "country": "United Kingdom",
     "code": "GB",
