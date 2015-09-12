@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/turkmenistan-majilis",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://mejlis2.bushluk.com/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/turkmenistan-majilis",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}

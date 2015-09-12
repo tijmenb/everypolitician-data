@@ -6679,6 +6679,40 @@
     ]
   },
   {
+    "name": "Turkmenistan",
+    "country": "Turkmenistan",
+    "code": "TM",
+    "slug": "Turkmenistan",
+    "legislatures": [
+      {
+        "name": "Mejlis",
+        "slug": "Mejlis",
+        "sources_directory": "data/Turkmenistan/Mejlis/sources",
+        "popolo": "data/Turkmenistan/Mejlis/ep-popolo-v1.0.json",
+        "lastmod": "1442074792",
+        "person_count": 237,
+        "sha": "797af4c",
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "5th Convocation",
+            "start_date": "2013",
+            "slug": "5",
+            "csv": "data/Turkmenistan/Mejlis/term-5.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/4",
+            "name": "4th Convocation",
+            "start_date": "2009",
+            "slug": "4",
+            "csv": "data/Turkmenistan/Mejlis/term-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Turks and Caicos Islands",
     "country": "Turks and Caicos Islands",
     "code": "TC",
