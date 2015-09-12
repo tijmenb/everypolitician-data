@@ -11,6 +11,22 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/falkland-islands-assembly",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.falklands.gov.fk/self-governance/legislative/assembly-members/",
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 75,
+        "amatch_warning": 90
+      }
+    },
+    {
       "file": "morph/terms.csv",
       "create": {
         "type": "morph",
