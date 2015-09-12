@@ -3594,6 +3594,32 @@
     ]
   },
   {
+    "name": "Latvia",
+    "country": "Latvia",
+    "code": "LV",
+    "slug": "Latvia",
+    "legislatures": [
+      {
+        "name": "Saeima",
+        "slug": "Saeima",
+        "sources_directory": "data/Latvia/Saeima/sources",
+        "popolo": "data/Latvia/Saeima/ep-popolo-v1.0.json",
+        "lastmod": "1442070120",
+        "person_count": 100,
+        "sha": "3dd2996",
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12th Saeima",
+            "start_date": "2014-11-04",
+            "slug": "12",
+            "csv": "data/Latvia/Saeima/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Lesotho",
     "country": "Lesotho",
     "code": "LS",
