@@ -2804,6 +2804,32 @@
     ]
   },
   {
+    "name": "Guyana",
+    "country": "Guyana",
+    "code": "GY",
+    "slug": "Guyana",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Guyana/National_Assembly/sources",
+        "popolo": "data/Guyana/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442048025",
+        "person_count": 54,
+        "sha": "3d0ab45",
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Parliament",
+            "start_date": "2015-06-10",
+            "slug": "11",
+            "csv": "data/Guyana/National_Assembly/term-11.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Haiti",
     "country": "Haiti",
     "code": "HT",
