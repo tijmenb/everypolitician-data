@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "struan/hong_kong_legislative_council_members",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(id,'yr12-16/','') AS id FROM data"
       },
       "source": "http://www.legco.gov.hk/",
       "type": "membership"
