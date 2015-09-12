@@ -3190,9 +3190,69 @@
   ],
   "organizations": [
     {
+      "classification": "party",
+      "id": "party/alliance_of_vojvodina_hungarians",
+      "name": "Alliance of Vojvodina Hungarians"
+    },
+    {
+      "classification": "party",
+      "id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+      "name": "Boris Tadic – Social Democratic Party, Together for Serbia, Greens of Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_party",
+      "name": "Democratic Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/league_of_social_democrats_of_vojvodina",
+      "name": "League of Social Democrats of Vojvodina"
+    },
+    {
       "classification": "legislature",
       "id": "legislature",
       "name": "Legislature"
+    },
+    {
+      "classification": "party",
+      "id": "party/new_serbia",
+      "name": "New Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/party_of_united_pensioners_of_serbia",
+      "name": "Party of United Pensioners of Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/sda_sandzak_–_party_of_democratic_action",
+      "name": "SDA Sandzak – Party of Democratic Action"
+    },
+    {
+      "classification": "party",
+      "id": "party/serbian_progressive_party",
+      "name": "Serbian Progressive Party"
+    },
+    {
+      "classification": "party",
+      "id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
+      "name": "Serbian Renewal Movement – Demo-Christian Party of Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/social_democratic_party_of_serbia",
+      "name": "Social Democratic Party of Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/socialist_party_of_serbia",
+      "name": "Socialist Party of Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/united_serbia",
+      "name": "United Serbia"
     },
     {
       "classification": "party",
@@ -3206,7 +3266,7 @@
   "memberships": [
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/101",
       "role": "member",
@@ -3214,7 +3274,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/104",
       "role": "member",
@@ -3222,7 +3282,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/113",
       "role": "member",
@@ -3230,7 +3290,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/114",
       "role": "member",
@@ -3238,7 +3298,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia",
       "organization_id": "legislature",
       "person_id": "person/128",
       "role": "member",
@@ -3246,7 +3306,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/131",
       "role": "member",
@@ -3254,7 +3314,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/149",
       "role": "member",
@@ -3262,7 +3322,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/154",
       "role": "member",
@@ -3270,7 +3330,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/23",
       "role": "member",
@@ -3278,7 +3338,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/247",
       "role": "member",
@@ -3286,7 +3346,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/250",
       "role": "member",
@@ -3294,7 +3354,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/257",
       "role": "member",
@@ -3302,7 +3362,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sda_sandzak_–_party_of_democratic_action",
       "organization_id": "legislature",
       "person_id": "person/259",
       "role": "member",
@@ -3310,7 +3370,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "legislature",
       "person_id": "person/260",
       "role": "member",
@@ -3318,7 +3378,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/273",
       "role": "member",
@@ -3326,7 +3386,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/290",
       "role": "member",
@@ -3334,7 +3394,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia",
       "organization_id": "legislature",
       "person_id": "person/296",
       "role": "member",
@@ -3342,7 +3402,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/313",
       "role": "member",
@@ -3350,7 +3410,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "legislature",
       "person_id": "person/324",
       "role": "member",
@@ -3358,7 +3418,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/336",
       "role": "member",
@@ -3366,7 +3426,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/340",
       "role": "member",
@@ -3374,7 +3434,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/350",
       "role": "member",
@@ -3382,7 +3442,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/357",
       "role": "member",
@@ -3390,7 +3450,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/360",
       "role": "member",
@@ -3398,7 +3458,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/378",
       "role": "member",
@@ -3406,7 +3466,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/386",
       "role": "member",
@@ -3414,7 +3474,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/387",
       "role": "member",
@@ -3422,7 +3482,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/398",
       "role": "member",
@@ -3430,7 +3490,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "legislature",
       "person_id": "person/409",
       "role": "member",
@@ -3438,7 +3498,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/416",
       "role": "member",
@@ -3446,7 +3506,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/428",
       "role": "member",
@@ -3454,7 +3514,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia",
       "organization_id": "legislature",
       "person_id": "person/430",
       "role": "member",
@@ -3462,7 +3522,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/431",
       "role": "member",
@@ -3470,7 +3530,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia",
       "organization_id": "legislature",
       "person_id": "person/438",
       "role": "member",
@@ -3478,7 +3538,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/440",
       "role": "member",
@@ -3486,7 +3546,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/441",
       "role": "member",
@@ -3494,7 +3554,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina",
       "organization_id": "legislature",
       "person_id": "person/443",
       "role": "member",
@@ -3502,7 +3562,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/451",
       "role": "member",
@@ -3510,7 +3570,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/456",
       "role": "member",
@@ -3518,7 +3578,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina",
       "organization_id": "legislature",
       "person_id": "person/470",
       "role": "member",
@@ -3526,7 +3586,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "legislature",
       "person_id": "person/490",
       "role": "member",
@@ -3534,7 +3594,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/494",
       "role": "member",
@@ -3542,7 +3602,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/496",
       "role": "member",
@@ -3550,7 +3610,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/497",
       "role": "member",
@@ -3558,7 +3618,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/498",
       "role": "member",
@@ -3574,7 +3634,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/507",
       "role": "member",
@@ -3582,7 +3642,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/508",
       "role": "member",
@@ -3590,7 +3650,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/512",
       "role": "member",
@@ -3598,7 +3658,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina",
       "organization_id": "legislature",
       "person_id": "person/516",
       "role": "member",
@@ -3606,7 +3666,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/553",
       "role": "member",
@@ -3614,7 +3674,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/555",
       "role": "member",
@@ -3622,7 +3682,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/558",
       "role": "member",
@@ -3630,7 +3690,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/559",
       "role": "member",
@@ -3638,7 +3698,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina",
       "organization_id": "legislature",
       "person_id": "person/564",
       "role": "member",
@@ -3646,7 +3706,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/567",
       "role": "member",
@@ -3654,7 +3714,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/570",
       "role": "member",
@@ -3662,7 +3722,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/571",
       "role": "member",
@@ -3670,7 +3730,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/572",
       "role": "member",
@@ -3678,7 +3738,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/591",
       "role": "member",
@@ -3686,7 +3746,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/593",
       "role": "member",
@@ -3694,7 +3754,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia",
       "organization_id": "legislature",
       "person_id": "person/595",
       "role": "member",
@@ -3702,7 +3762,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/596",
       "role": "member",
@@ -3710,7 +3770,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/598",
       "role": "member",
@@ -3718,7 +3778,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/599",
       "role": "member",
@@ -3726,7 +3786,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/60",
       "role": "member",
@@ -3734,7 +3794,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/603",
       "role": "member",
@@ -3742,7 +3802,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/604",
       "role": "member",
@@ -3750,7 +3810,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/606",
       "role": "member",
@@ -3758,7 +3818,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/608",
       "role": "member",
@@ -3766,7 +3826,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/609",
       "role": "member",
@@ -3774,7 +3834,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/611",
       "role": "member",
@@ -3782,7 +3842,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/612",
       "role": "member",
@@ -3790,7 +3850,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/614",
       "role": "member",
@@ -3798,7 +3858,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/615",
       "role": "member",
@@ -3806,7 +3866,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/616",
       "role": "member",
@@ -3814,7 +3874,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/617",
       "role": "member",
@@ -3822,7 +3882,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/618",
       "role": "member",
@@ -3830,7 +3890,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/619",
       "role": "member",
@@ -3838,7 +3898,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/620",
       "role": "member",
@@ -3846,7 +3906,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/621",
       "role": "member",
@@ -3854,7 +3914,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/623",
       "role": "member",
@@ -3862,7 +3922,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/624",
       "role": "member",
@@ -3870,7 +3930,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/626",
       "role": "member",
@@ -3878,7 +3938,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/627",
       "role": "member",
@@ -3886,7 +3946,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/628",
       "role": "member",
@@ -3894,7 +3954,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/631",
       "role": "member",
@@ -3902,7 +3962,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/632",
       "role": "member",
@@ -3910,7 +3970,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/635",
       "role": "member",
@@ -3918,7 +3978,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/637",
       "role": "member",
@@ -3926,7 +3986,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/638",
       "role": "member",
@@ -3934,7 +3994,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/639",
       "role": "member",
@@ -3942,7 +4002,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/641",
       "role": "member",
@@ -3950,7 +4010,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/645",
       "role": "member",
@@ -3958,7 +4018,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/646",
       "role": "member",
@@ -3966,7 +4026,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/649",
       "role": "member",
@@ -3974,7 +4034,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/651",
       "role": "member",
@@ -3982,7 +4042,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/658",
       "role": "member",
@@ -3990,7 +4050,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "legislature",
       "person_id": "person/666",
       "role": "member",
@@ -3998,7 +4058,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/675",
       "role": "member",
@@ -4006,7 +4066,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/676",
       "role": "member",
@@ -4014,7 +4074,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/678",
       "role": "member",
@@ -4022,7 +4082,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/679",
       "role": "member",
@@ -4030,7 +4090,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/683",
       "role": "member",
@@ -4038,7 +4098,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/684",
       "role": "member",
@@ -4046,7 +4106,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/685",
       "role": "member",
@@ -4054,7 +4114,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/686",
       "role": "member",
@@ -4062,7 +4122,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/687",
       "role": "member",
@@ -4070,7 +4130,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/693",
       "role": "member",
@@ -4078,7 +4138,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/697",
       "role": "member",
@@ -4086,7 +4146,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sda_sandzak_–_party_of_democratic_action",
       "organization_id": "legislature",
       "person_id": "person/703",
       "role": "member",
@@ -4094,7 +4154,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/707",
       "role": "member",
@@ -4102,7 +4162,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/708",
       "role": "member",
@@ -4110,7 +4170,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/709",
       "role": "member",
@@ -4118,7 +4178,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/710",
       "role": "member",
@@ -4126,7 +4186,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/713",
       "role": "member",
@@ -4134,7 +4194,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/718",
       "role": "member",
@@ -4142,7 +4202,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/719",
       "role": "member",
@@ -4150,7 +4210,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/723",
       "role": "member",
@@ -4158,7 +4218,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/725",
       "role": "member",
@@ -4166,7 +4226,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/730",
       "role": "member",
@@ -4174,7 +4234,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/731",
       "role": "member",
@@ -4182,7 +4242,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/734",
       "role": "member",
@@ -4190,7 +4250,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/736",
       "role": "member",
@@ -4198,7 +4258,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/738",
       "role": "member",
@@ -4206,7 +4266,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/739",
       "role": "member",
@@ -4214,7 +4274,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/748",
       "role": "member",
@@ -4222,7 +4282,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/749",
       "role": "member",
@@ -4230,7 +4290,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/754",
       "role": "member",
@@ -4238,7 +4298,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/755",
       "role": "member",
@@ -4246,7 +4306,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/756",
       "role": "member",
@@ -4254,7 +4314,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/757",
       "role": "member",
@@ -4262,7 +4322,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/758",
       "role": "member",
@@ -4270,7 +4330,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/759",
       "role": "member",
@@ -4278,7 +4338,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/760",
       "role": "member",
@@ -4286,7 +4346,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/761",
       "role": "member",
@@ -4294,7 +4354,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/762",
       "role": "member",
@@ -4302,7 +4362,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/763",
       "role": "member",
@@ -4310,7 +4370,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/764",
       "role": "member",
@@ -4318,7 +4378,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/765",
       "role": "member",
@@ -4326,7 +4386,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/766",
       "role": "member",
@@ -4334,7 +4394,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/767",
       "role": "member",
@@ -4342,7 +4402,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/768",
       "role": "member",
@@ -4350,7 +4410,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/769",
       "role": "member",
@@ -4358,7 +4418,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/770",
       "role": "member",
@@ -4366,7 +4426,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/771",
       "role": "member",
@@ -4374,7 +4434,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/772",
       "role": "member",
@@ -4382,7 +4442,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/773",
       "role": "member",
@@ -4390,7 +4450,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/774",
       "role": "member",
@@ -4398,7 +4458,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/775",
       "role": "member",
@@ -4406,7 +4466,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/778",
       "role": "member",
@@ -4414,7 +4474,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/779",
       "role": "member",
@@ -4422,7 +4482,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/780",
       "role": "member",
@@ -4430,7 +4490,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/781",
       "role": "member",
@@ -4438,7 +4498,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/782",
       "role": "member",
@@ -4446,7 +4506,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/783",
       "role": "member",
@@ -4454,7 +4514,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/784",
       "role": "member",
@@ -4462,7 +4522,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_renewal_movement_–_demo-christian_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/786",
       "role": "member",
@@ -4470,7 +4530,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/787",
       "role": "member",
@@ -4478,7 +4538,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/788",
       "role": "member",
@@ -4486,7 +4546,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/789",
       "role": "member",
@@ -4494,7 +4554,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia",
       "organization_id": "legislature",
       "person_id": "person/79",
       "role": "member",
@@ -4502,7 +4562,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/790",
       "role": "member",
@@ -4510,7 +4570,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/791",
       "role": "member",
@@ -4518,7 +4578,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/792",
       "role": "member",
@@ -4526,7 +4586,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/793",
       "role": "member",
@@ -4534,7 +4594,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/795",
       "role": "member",
@@ -4542,7 +4602,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/796",
       "role": "member",
@@ -4550,7 +4610,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/797",
       "role": "member",
@@ -4558,7 +4618,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/798",
       "role": "member",
@@ -4566,7 +4626,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/799",
       "role": "member",
@@ -4574,7 +4634,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/801",
       "role": "member",
@@ -4582,7 +4642,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/802",
       "role": "member",
@@ -4590,7 +4650,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/803",
       "role": "member",
@@ -4598,7 +4658,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/804",
       "role": "member",
@@ -4606,7 +4666,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/805",
       "role": "member",
@@ -4614,7 +4674,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/806",
       "role": "member",
@@ -4622,7 +4682,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/807",
       "role": "member",
@@ -4630,7 +4690,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/808",
       "role": "member",
@@ -4638,7 +4698,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/809",
       "role": "member",
@@ -4646,7 +4706,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/810",
       "role": "member",
@@ -4654,7 +4714,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/811",
       "role": "member",
@@ -4662,7 +4722,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/812",
       "role": "member",
@@ -4670,7 +4730,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/813",
       "role": "member",
@@ -4678,7 +4738,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/814",
       "role": "member",
@@ -4686,7 +4746,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/815",
       "role": "member",
@@ -4694,7 +4754,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/816",
       "role": "member",
@@ -4702,7 +4762,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/817",
       "role": "member",
@@ -4710,7 +4770,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/818",
       "role": "member",
@@ -4718,7 +4778,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/820",
       "role": "member",
@@ -4726,7 +4786,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/821",
       "role": "member",
@@ -4734,7 +4794,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/822",
       "role": "member",
@@ -4742,7 +4802,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/823",
       "role": "member",
@@ -4750,7 +4810,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/824",
       "role": "member",
@@ -4758,7 +4818,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/825",
       "role": "member",
@@ -4766,7 +4826,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/826",
       "role": "member",
@@ -4774,7 +4834,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/827",
       "role": "member",
@@ -4782,7 +4842,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/828",
       "role": "member",
@@ -4790,7 +4850,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/829",
       "role": "member",
@@ -4798,7 +4858,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/830",
       "role": "member",
@@ -4806,7 +4866,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/831",
       "role": "member",
@@ -4814,7 +4874,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/832",
       "role": "member",
@@ -4822,7 +4882,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/833",
       "role": "member",
@@ -4830,7 +4890,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/834",
       "role": "member",
@@ -4838,7 +4898,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/835",
       "role": "member",
@@ -4846,7 +4906,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/836",
       "role": "member",
@@ -4854,7 +4914,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/837",
       "role": "member",
@@ -4862,7 +4922,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/838",
       "role": "member",
@@ -4870,7 +4930,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/839",
       "role": "member",
@@ -4878,7 +4938,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/840",
       "role": "member",
@@ -4886,7 +4946,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/united_serbia",
       "organization_id": "legislature",
       "person_id": "person/841",
       "role": "member",
@@ -4894,7 +4954,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/842",
       "role": "member",
@@ -4902,7 +4962,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/844",
       "role": "member",
@@ -4910,7 +4970,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/845",
       "role": "member",
@@ -4918,7 +4978,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/847",
       "role": "member",
@@ -4926,7 +4986,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/849",
       "role": "member",
@@ -4934,7 +4994,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina",
       "organization_id": "legislature",
       "person_id": "person/850",
       "role": "member",
@@ -4950,7 +5010,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/852",
       "role": "member",
@@ -4958,7 +5018,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/853",
       "role": "member",
@@ -4966,7 +5026,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/854",
       "role": "member",
@@ -4982,7 +5042,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/democratic_party",
       "organization_id": "legislature",
       "person_id": "person/856",
       "role": "member",
@@ -4998,7 +5058,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "legislature",
       "person_id": "person/858",
       "role": "member",
@@ -5006,7 +5066,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sda_sandzak_–_party_of_democratic_action",
       "organization_id": "legislature",
       "person_id": "person/860",
       "role": "member",
@@ -5014,7 +5074,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sda_sandzak_–_party_of_democratic_action",
       "organization_id": "legislature",
       "person_id": "person/861",
       "role": "member",
@@ -5022,7 +5082,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/862",
       "role": "member",
@@ -5030,7 +5090,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sda_sandzak_–_party_of_democratic_action",
       "organization_id": "legislature",
       "person_id": "person/863",
       "role": "member",
@@ -5038,7 +5098,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/864",
       "role": "member",
@@ -5046,7 +5106,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/865",
       "role": "member",
@@ -5054,7 +5114,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/866",
       "role": "member",
@@ -5062,7 +5122,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/867",
       "role": "member",
@@ -5070,7 +5130,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina",
       "organization_id": "legislature",
       "person_id": "person/868",
       "role": "member",
@@ -5078,7 +5138,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/869",
       "role": "member",
@@ -5086,7 +5146,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/870",
       "role": "member",
@@ -5094,7 +5154,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/871",
       "role": "member",
@@ -5102,7 +5162,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/872",
       "role": "member",
@@ -5110,7 +5170,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/874",
       "role": "member",
@@ -5118,7 +5178,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/876",
       "role": "member",
@@ -5126,7 +5186,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/878",
       "role": "member",
@@ -5134,7 +5194,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/879",
       "role": "member",
@@ -5142,7 +5202,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/880",
       "role": "member",
@@ -5150,7 +5210,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/881",
       "role": "member",
@@ -5158,7 +5218,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/882",
       "role": "member",
@@ -5166,7 +5226,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/883",
       "role": "member",
@@ -5174,7 +5234,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/885",
       "role": "member",
@@ -5182,7 +5242,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/886",
       "role": "member",
@@ -5190,7 +5250,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "legislature",
       "person_id": "person/887",
       "role": "member",
@@ -5198,7 +5258,7 @@
     },
     {
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/social_democratic_party_of_serbia",
       "organization_id": "legislature",
       "person_id": "person/96",
       "role": "member",
