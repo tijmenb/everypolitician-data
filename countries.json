@@ -1774,6 +1774,105 @@
     ]
   },
   {
+    "name": "Falkland Islands",
+    "country": "Falkland Islands",
+    "code": "FK",
+    "slug": "Falkland-Islands",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Falkland_Islands/Assembly/sources",
+        "popolo": "data/Falkland_Islands/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442042731",
+        "person_count": 49,
+        "sha": "c729b00",
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/2013",
+            "name": "2013 election",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Falkland_Islands/Assembly/term-2013.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/2009",
+            "name": "2009 election",
+            "start_date": "2009",
+            "slug": "2009",
+            "csv": "data/Falkland_Islands/Assembly/term-2009.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/2005",
+            "name": "2005 election",
+            "start_date": "2005",
+            "slug": "2005",
+            "csv": "data/Falkland_Islands/Assembly/term-2005.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/2001",
+            "name": "2001 election",
+            "start_date": "2001",
+            "slug": "2001",
+            "csv": "data/Falkland_Islands/Assembly/term-2001.csv"
+          },
+          {
+            "end_date": "2001",
+            "id": "term/1997",
+            "name": "1997 election",
+            "start_date": "1997",
+            "slug": "1997",
+            "csv": "data/Falkland_Islands/Assembly/term-1997.csv"
+          },
+          {
+            "end_date": "1997",
+            "id": "term/1993",
+            "name": "1993 election",
+            "start_date": "1993",
+            "slug": "1993",
+            "csv": "data/Falkland_Islands/Assembly/term-1993.csv"
+          },
+          {
+            "end_date": "1993",
+            "id": "term/1989",
+            "name": "1989 election",
+            "start_date": "1989",
+            "slug": "1989",
+            "csv": "data/Falkland_Islands/Assembly/term-1989.csv"
+          },
+          {
+            "end_date": "1989",
+            "id": "term/1985",
+            "name": "1985 election",
+            "start_date": "1985",
+            "slug": "1985",
+            "csv": "data/Falkland_Islands/Assembly/term-1985.csv"
+          },
+          {
+            "end_date": "1985",
+            "id": "term/1981",
+            "name": "1981 election",
+            "start_date": "1981",
+            "slug": "1981",
+            "csv": "data/Falkland_Islands/Assembly/term-1981.csv"
+          },
+          {
+            "end_date": "1981",
+            "id": "term/1977",
+            "name": "1977 election",
+            "start_date": "1977",
+            "slug": "1977",
+            "csv": "data/Falkland_Islands/Assembly/term-1977.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Faroe Islands",
     "country": "Faroe Islands",
     "code": "FO",
@@ -5007,6 +5106,33 @@
     ]
   },
   {
+    "name": "Peru",
+    "country": "Peru",
+    "code": "PE",
+    "slug": "Peru",
+    "legislatures": [
+      {
+        "name": "Congress",
+        "slug": "Congreso",
+        "sources_directory": "data/Peru/Congreso/sources",
+        "popolo": "data/Peru/Congreso/ep-popolo-v1.0.json",
+        "lastmod": "1441994830",
+        "person_count": 127,
+        "sha": "8fc5d87",
+        "legislative_periods": [
+          {
+            "end_date": "2016-07-26",
+            "id": "term/2011",
+            "name": "Congress of 2011–2016",
+            "start_date": "2011-07-27",
+            "slug": "2011",
+            "csv": "data/Peru/Congreso/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Philippines",
     "country": "Philippines",
     "code": "PH",
@@ -6146,6 +6272,32 @@
             "start_date": "2000-10-29",
             "slug": "2",
             "csv": "data/Tanzania/Assembly/term-2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "country": "Thailand",
+    "code": "TH",
+    "slug": "Thailand",
+    "legislatures": [
+      {
+        "name": "National Legislative Assembly",
+        "slug": "National-Legislative-Assembly",
+        "sources_directory": "data/Thailand/National_Legislative_Assembly/sources",
+        "popolo": "data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1441980978",
+        "person_count": 218,
+        "sha": "77aab0c",
+        "legislative_periods": [
+          {
+            "id": "term/2557",
+            "name": "2557 (NCPO)",
+            "start_date": "2014",
+            "slug": "2557",
+            "csv": "data/Thailand/National_Legislative_Assembly/term-2557.csv"
           }
         ]
       }
