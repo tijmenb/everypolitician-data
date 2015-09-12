@@ -5670,6 +5670,32 @@
     ]
   },
   {
+    "name": "Serbia",
+    "country": "Serbia",
+    "code": "RS",
+    "slug": "Serbia",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Serbia/National_Assembly/sources",
+        "popolo": "data/Serbia/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442058044",
+        "person_count": 250,
+        "sha": "5994e3d",
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "10th Assembly",
+            "start_date": "2014-04-16",
+            "slug": "10",
+            "csv": "data/Serbia/National_Assembly/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Seychelles",
     "country": "Seychelles",
     "code": "SC",

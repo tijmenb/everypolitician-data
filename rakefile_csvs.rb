@@ -29,13 +29,13 @@ namespace :term_csvs do
     return if t.to_s.empty?
     return $1 if t.match /^\@(\w+)$/
     return $1 if t.match /^(\w+)$/
-    return $1 if t.match %r{(?:www.)?twitter.com/@?(\w+)$}
+    return $1 if t.match %r{(?:www.)?twitter.com/@?(\w+)$}i
 
     # Odd special cases
-    return $1 if t.match %r{twitter.com/search\?q=%23(\w+)}
-    return $1 if t.match %r{twitter.com/#!/https://twitter.com/(\w+)}
-    return $1 if t.match %r{(?:www.)?twitter.com/#!/(\w+)[/\?]?}
-    return $1 if t.match %r{(?:www.)?twitter.com/@?(\w+)[/\/]?}
+    return $1 if t.match %r{twitter.com/search\?q=%23(\w+)}i
+    return $1 if t.match %r{twitter.com/#!/https://twitter.com/(\w+)}i
+    return $1 if t.match %r{(?:www.)?twitter.com/#!/(\w+)[/\?]?}i
+    return $1 if t.match %r{(?:www.)?twitter.com/@?(\w+)[/\/]?}i
     warn "Unknown twitter handle: #{t.to_s.magenta}"
     return 
   end
