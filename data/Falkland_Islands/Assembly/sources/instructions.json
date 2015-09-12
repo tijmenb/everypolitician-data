@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "dracos/falkland-islands",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "dracos/falkland-islands",
+        "query": "SELECT *, ID as start_date, ID + 4 AS end_date FROM terms"
+      },
+      "type": "term"
+    }
+  ]
+}
