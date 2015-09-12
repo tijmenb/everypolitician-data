@@ -7046,6 +7046,32 @@
     ]
   },
   {
+    "name": "Uzbekistan",
+    "country": "Uzbekistan",
+    "code": "UZ",
+    "slug": "Uzbekistan",
+    "legislatures": [
+      {
+        "name": "Legislative Chamber",
+        "slug": "Legislative-Chamber",
+        "sources_directory": "data/Uzbekistan/Legislative_Chamber/sources",
+        "popolo": "data/Uzbekistan/Legislative_Chamber/ep-popolo-v1.0.json",
+        "lastmod": "1442085774",
+        "person_count": 147,
+        "sha": "83872e2",
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "5th Convocation",
+            "start_date": "2015",
+            "slug": "5",
+            "csv": "data/Uzbekistan/Legislative_Chamber/term-5.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Vanuatu",
     "country": "Vanuatu",
     "code": "VU",
