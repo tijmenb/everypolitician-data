@@ -1482,6 +1482,32 @@
     ]
   },
   {
+    "name": "Congo-Kinshasa (DRC)",
+    "country": "Congo-Kinshasa (DRC)",
+    "code": "CD",
+    "slug": "Congo-Kinshasa",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Congo-Kinshasa/Assembly/sources",
+        "popolo": "data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442167417",
+        "person_count": 498,
+        "sha": "575f652",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Congo-Kinshasa/Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Cook Islands",
     "country": "Cook Islands",
     "code": "CK",
