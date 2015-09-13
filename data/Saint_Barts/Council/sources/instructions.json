@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-barthelemy-council",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Barthélemy",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-barthelemy-council-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__fr",
+        "existing_field": "wikiname"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
