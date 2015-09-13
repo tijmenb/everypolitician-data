@@ -5653,6 +5653,32 @@
     ]
   },
   {
+    "name": "Saint Martin",
+    "country": "Saint Martin",
+    "code": "MF",
+    "slug": "Saint-Martin",
+    "legislatures": [
+      {
+        "name": "Territorial Council",
+        "slug": "Council",
+        "sources_directory": "data/Saint_Martin/Council/sources",
+        "popolo": "data/Saint_Martin/Council/ep-popolo-v1.0.json",
+        "lastmod": "1442154281",
+        "person_count": 23,
+        "sha": "6cf3bc4",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Saint_Martin/Council/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Saint Vincent and the Grenadines",
     "country": "Saint Vincent and the Grenadines",
     "code": "VC",
