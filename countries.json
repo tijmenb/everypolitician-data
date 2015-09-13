@@ -4899,6 +4899,32 @@
     ]
   },
   {
+    "name": "Northern Cyprus",
+    "country": "Northern Cyprus",
+    "code": "CY-TRNC",
+    "slug": "Northern-Cyprus",
+    "legislatures": [
+      {
+        "name": "Assembly of the Republic",
+        "slug": "Assembly",
+        "sources_directory": "data/Northern_Cyprus/Assembly/sources",
+        "popolo": "data/Northern_Cyprus/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442172134",
+        "person_count": 50,
+        "sha": "56e2f48",
+        "legislative_periods": [
+          {
+            "id": "term/14",
+            "name": "14th Parliament",
+            "start_date": "2013",
+            "slug": "14",
+            "csv": "data/Northern_Cyprus/Assembly/term-14.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Northern Ireland",
     "country": "Northern Ireland",
     "code": "GB-NIR",
