@@ -5833,6 +5833,32 @@
     ]
   },
   {
+    "name": "Senegal",
+    "country": "Senegal",
+    "code": "SN",
+    "slug": "Senegal",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Senegal/Assembly/sources",
+        "popolo": "data/Senegal/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442156062",
+        "person_count": 149,
+        "sha": "75db0eb",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Senegal/Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Serbia",
     "country": "Serbia",
     "code": "RS",
