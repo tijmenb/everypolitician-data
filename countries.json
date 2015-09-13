@@ -5731,6 +5731,32 @@
     ]
   },
   {
+    "name": "Saudi Arabia",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "slug": "Saudi-Arabia",
+    "legislatures": [
+      {
+        "name": "Shura Council",
+        "slug": "Shura",
+        "sources_directory": "data/Saudi_Arabia/Shura/sources",
+        "popolo": "data/Saudi_Arabia/Shura/ep-popolo-v1.0.json",
+        "lastmod": "1442152582",
+        "person_count": 148,
+        "sha": "66e0a7a",
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6th Shura",
+            "start_date": "2013-02-24",
+            "slug": "6",
+            "csv": "data/Saudi_Arabia/Shura/term-6.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Scotland",
     "country": "Scotland",
     "code": "GB-SCT",
