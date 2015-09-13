@@ -6441,6 +6441,32 @@
     ]
   },
   {
+    "name": "Timor Leste",
+    "country": "Timor Leste",
+    "code": "TL",
+    "slug": "Timor-Leste",
+    "legislatures": [
+      {
+        "name": "Parlamento",
+        "slug": "Parlamento",
+        "sources_directory": "data/Timor_Leste/Parlamento/sources",
+        "popolo": "data/Timor_Leste/Parlamento/ep-popolo-v1.0.json",
+        "lastmod": "1442142153",
+        "person_count": 65,
+        "sha": "071dced",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "3rd Parliament",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Timor_Leste/Parlamento/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Togo",
     "country": "Togo",
     "code": "TG",
