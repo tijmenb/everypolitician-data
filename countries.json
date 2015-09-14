@@ -6639,6 +6639,32 @@
     ]
   },
   {
+    "name": "Taiwan",
+    "country": "Taiwan",
+    "code": "TW",
+    "slug": "Taiwan",
+    "legislatures": [
+      {
+        "name": "Legislative Yuan",
+        "slug": "Legislative-Yuan",
+        "sources_directory": "data/Taiwan/Legislative_Yuan/sources",
+        "popolo": "data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
+        "lastmod": "1442228940",
+        "person_count": 111,
+        "sha": "156254d",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Legislative Yuan",
+            "start_date": "2012-02-01",
+            "slug": "8",
+            "csv": "data/Taiwan/Legislative_Yuan/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tajikistan",
     "country": "Tajikistan",
     "code": "TJ",
