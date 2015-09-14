@@ -4951,6 +4951,32 @@
     ]
   },
   {
+    "name": "North Korea",
+    "country": "North Korea",
+    "code": "KP",
+    "slug": "North-Korea",
+    "legislatures": [
+      {
+        "name": "Supreme People’s Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/North_Korea/National_Assembly/sources",
+        "popolo": "data/North_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442242273",
+        "person_count": 687,
+        "sha": "9b28e08",
+        "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "13th Assembly",
+            "start_date": "2014-03-09",
+            "slug": "13",
+            "csv": "data/North_Korea/National_Assembly/term-13.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Northern Cyprus",
     "country": "Northern Cyprus",
     "code": "CY-TRNC",
