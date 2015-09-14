@@ -6344,6 +6344,32 @@
     ]
   },
   {
+    "name": "South Korea",
+    "country": "South Korea",
+    "code": "KR",
+    "slug": "South-Korea",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/South_Korea/National_Assembly/sources",
+        "popolo": "data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442223488",
+        "person_count": 296,
+        "sha": "ff1022a",
+        "legislative_periods": [
+          {
+            "id": "term/19",
+            "name": "19th National Assembly",
+            "start_date": "2012-05-30",
+            "slug": "19",
+            "csv": "data/South_Korea/National_Assembly/term-19.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Sudan",
     "country": "South Sudan",
     "code": "SS",
