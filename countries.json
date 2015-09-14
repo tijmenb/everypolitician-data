@@ -578,6 +578,32 @@
     ]
   },
   {
+    "name": "Bahamas",
+    "country": "Bahamas",
+    "code": "BS",
+    "slug": "Bahamas",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "House-of-Assembly",
+        "sources_directory": "data/Bahamas/House_of_Assembly/sources",
+        "popolo": "data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442215699",
+        "person_count": 38,
+        "sha": "b66488a",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Bahamas/House_of_Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bangladesh",
     "country": "Bangladesh",
     "code": "BD",
