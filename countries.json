@@ -6516,6 +6516,32 @@
     ]
   },
   {
+    "name": "Sweden",
+    "country": "Sweden",
+    "code": "SE",
+    "slug": "Sweden",
+    "legislatures": [
+      {
+        "name": "Riksdag",
+        "slug": "Riksdag",
+        "sources_directory": "data/Sweden/Riksdag/sources",
+        "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "lastmod": "1442249397",
+        "person_count": 349,
+        "sha": "2bb9795",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014 election",
+            "start_date": "2014-09-14",
+            "slug": "2014",
+            "csv": "data/Sweden/Riksdag/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Switzerland",
     "country": "Switzerland",
     "code": "CH",
