@@ -1,0 +1,3 @@
+# with http://harelba.github.io/q/
+
+q -d, -O -H 'SELECT *, SUBSTR(birth_date,7,4) || "-" || SUBSTR(birth_date,4,2) || "-" || SUBSTR(birth_date,1,2) as birth_date from full.csv WHERE term = 25' > members.csv
