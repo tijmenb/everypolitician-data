@@ -7857,18 +7857,18 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/c",
-      "name": "C"
+      "id": "C",
+      "name": "Centerpartiet"
     },
     {
       "classification": "party",
-      "id": "party/fp",
-      "name": "FP"
+      "id": "FP",
+      "name": "Folkpartiet liberalerna "
     },
     {
       "classification": "party",
-      "id": "party/kd",
-      "name": "KD"
+      "id": "KD",
+      "name": "Kristdemokraterna"
     },
     {
       "classification": "legislature",
@@ -7877,28 +7877,28 @@
     },
     {
       "classification": "party",
-      "id": "party/m",
-      "name": "M"
+      "id": "MP",
+      "name": "Miljöpartiet de gröna"
     },
     {
       "classification": "party",
-      "id": "party/mp",
-      "name": "MP"
+      "id": "M",
+      "name": "Moderata samlingspartiet"
     },
     {
       "classification": "party",
-      "id": "party/s",
-      "name": "S"
+      "id": "S",
+      "name": "Socialdemokraterna"
     },
     {
       "classification": "party",
-      "id": "party/sd",
-      "name": "SD"
+      "id": "SD",
+      "name": "Sverigedemokraterna"
     },
     {
       "classification": "party",
-      "id": "party/v",
-      "name": "V"
+      "id": "V",
+      "name": "Vänsterpartiet"
     }
   ],
   "meta": {
@@ -7908,7 +7908,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/010343930918",
       "role": "member"
@@ -7916,7 +7916,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0103624617217",
       "role": "member"
@@ -7924,7 +7924,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0105126451619",
       "role": "member"
@@ -7932,7 +7932,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0105632258713",
       "role": "member"
@@ -7940,7 +7940,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0105797223918",
       "role": "member"
@@ -7948,7 +7948,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0108109641223",
       "role": "member"
@@ -7956,7 +7956,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0110600080618",
       "role": "member"
@@ -7964,7 +7964,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0111479807829",
       "role": "member"
@@ -7972,7 +7972,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0113077554312",
       "role": "member"
@@ -7980,7 +7980,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0114869877121",
       "role": "member"
@@ -7988,7 +7988,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0115834246514",
       "role": "member"
@@ -7996,7 +7996,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0116759114313",
       "role": "member"
@@ -8004,7 +8004,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0117203219614",
       "role": "member"
@@ -8012,7 +8012,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/012053331219",
       "role": "member"
@@ -8020,7 +8020,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0122987223112",
       "role": "member"
@@ -8028,7 +8028,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0125056691517",
       "role": "member"
@@ -8036,7 +8036,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/012576033427",
       "role": "member"
@@ -8044,7 +8044,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0126797549328",
       "role": "member"
@@ -8052,7 +8052,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kronobergs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0128805841317",
       "role": "member"
@@ -8060,7 +8060,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0130789484021",
       "role": "member"
@@ -8068,7 +8068,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0132818093422",
       "role": "member"
@@ -8076,7 +8076,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0133767709317",
       "role": "member"
@@ -8084,7 +8084,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0134101155612",
       "role": "member"
@@ -8092,7 +8092,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0136310791918",
       "role": "member"
@@ -8100,7 +8100,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0136801772915",
       "role": "member"
@@ -8108,7 +8108,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0138741628520",
       "role": "member"
@@ -8116,7 +8116,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0139948283718",
       "role": "member"
@@ -8124,7 +8124,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/014386615025",
       "role": "member"
@@ -8132,7 +8132,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0144048894712",
       "role": "member"
@@ -8140,7 +8140,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0145294944502",
       "role": "member"
@@ -8148,7 +8148,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0150664940102",
       "role": "member"
@@ -8156,7 +8156,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0155487380917",
       "role": "member"
@@ -8164,7 +8164,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0157062733618",
       "role": "member"
@@ -8172,7 +8172,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0161597857912",
       "role": "member"
@@ -8180,7 +8180,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0166790812128",
       "role": "member"
@@ -8188,7 +8188,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/016950536026",
       "role": "member"
@@ -8196,7 +8196,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0170585430421",
       "role": "member"
@@ -8204,7 +8204,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0172220256016",
       "role": "member"
@@ -8212,7 +8212,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0173210620224",
       "role": "member"
@@ -8220,7 +8220,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0173946230722",
       "role": "member"
@@ -8228,7 +8228,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0176437434123",
       "role": "member"
@@ -8236,7 +8236,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0182190010218",
       "role": "member"
@@ -8244,7 +8244,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0182800488922",
       "role": "member"
@@ -8252,7 +8252,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0186426023519",
       "role": "member"
@@ -8260,7 +8260,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0190560012714",
       "role": "member"
@@ -8268,7 +8268,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0192918410514",
       "role": "member"
@@ -8276,7 +8276,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0193378456716",
       "role": "member"
@@ -8284,7 +8284,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0194498232620",
       "role": "member"
@@ -8292,7 +8292,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0196024739401",
       "role": "member"
@@ -8300,7 +8300,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0196077326617",
       "role": "member"
@@ -8308,7 +8308,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0198031297912",
       "role": "member"
@@ -8316,7 +8316,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0198917587520",
       "role": "member"
@@ -8324,7 +8324,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0199751900210",
       "role": "member"
@@ -8332,7 +8332,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0200490530919",
       "role": "member"
@@ -8340,7 +8340,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0204240926023",
       "role": "member"
@@ -8348,7 +8348,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0204443909416",
       "role": "member"
@@ -8356,7 +8356,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0205360448417",
       "role": "member"
@@ -8364,7 +8364,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0208558695314",
       "role": "member"
@@ -8372,7 +8372,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0210198640127",
       "role": "member"
@@ -8380,7 +8380,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0211757295524",
       "role": "member"
@@ -8388,7 +8388,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0216534495014",
       "role": "member"
@@ -8396,7 +8396,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0219220227418",
       "role": "member"
@@ -8404,7 +8404,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0222691314314",
       "role": "member"
@@ -8412,7 +8412,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0223069839622",
       "role": "member"
@@ -8420,7 +8420,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0229760896014",
       "role": "member"
@@ -8428,7 +8428,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0231432628318",
       "role": "member"
@@ -8436,7 +8436,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0235974887200",
       "role": "member"
@@ -8444,7 +8444,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0236051814311",
       "role": "member"
@@ -8452,7 +8452,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0237055280513",
       "role": "member"
@@ -8460,7 +8460,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/023767922422",
       "role": "member"
@@ -8468,7 +8468,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0246927519019",
       "role": "member"
@@ -8476,7 +8476,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gotlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0250583732424",
       "role": "member"
@@ -8484,7 +8484,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0251617324715",
       "role": "member"
@@ -8492,7 +8492,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0252067342313",
       "role": "member"
@@ -8500,7 +8500,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0256716955026",
       "role": "member"
@@ -8508,7 +8508,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0256743155204",
       "role": "member"
@@ -8516,7 +8516,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0257612529618",
       "role": "member"
@@ -8524,7 +8524,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:blekinge-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/025967059622",
       "role": "member"
@@ -8532,7 +8532,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0262017901513",
       "role": "member"
@@ -8540,7 +8540,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0264838147315",
       "role": "member"
@@ -8548,7 +8548,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0266517781926",
       "role": "member"
@@ -8556,7 +8556,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0269067253614",
       "role": "member"
@@ -8564,7 +8564,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0273506284025",
       "role": "member"
@@ -8572,7 +8572,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0274462857213",
       "role": "member"
@@ -8580,7 +8580,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0275724540919",
       "role": "member"
@@ -8588,7 +8588,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0280087199210",
       "role": "member"
@@ -8596,7 +8596,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0283117091429",
       "role": "member"
@@ -8604,7 +8604,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0284039893826",
       "role": "member"
@@ -8612,7 +8612,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kronobergs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0284192765516",
       "role": "member"
@@ -8620,7 +8620,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0285631067215",
       "role": "member"
@@ -8628,7 +8628,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0294138886823",
       "role": "member"
@@ -8636,7 +8636,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0299937536814",
       "role": "member"
@@ -8644,7 +8644,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0306286538528",
       "role": "member"
@@ -8652,7 +8652,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0308306375022",
       "role": "member"
@@ -8660,7 +8660,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0313210809828",
       "role": "member"
@@ -8668,7 +8668,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0313390540217",
       "role": "member"
@@ -8676,7 +8676,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0315499690028",
       "role": "member"
@@ -8684,7 +8684,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0316505710324",
       "role": "member"
@@ -8692,7 +8692,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0321885416125",
       "role": "member"
@@ -8700,7 +8700,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0325462829512",
       "role": "member"
@@ -8708,7 +8708,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0338458649710",
       "role": "member"
@@ -8716,7 +8716,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0339894357417",
       "role": "member"
@@ -8724,7 +8724,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0341628241813",
       "role": "member"
@@ -8732,7 +8732,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0344222203323",
       "role": "member"
@@ -8740,7 +8740,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0352254228107",
       "role": "member"
@@ -8748,7 +8748,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0363228965800",
       "role": "member"
@@ -8756,7 +8756,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0363721826713",
       "role": "member"
@@ -8764,7 +8764,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0365797008114",
       "role": "member"
@@ -8772,7 +8772,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0369028728526",
       "role": "member"
@@ -8780,7 +8780,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0373223420310",
       "role": "member"
@@ -8788,7 +8788,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/037508021018",
       "role": "member"
@@ -8796,7 +8796,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/037561614928",
       "role": "member"
@@ -8804,7 +8804,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0376353897112",
       "role": "member"
@@ -8812,7 +8812,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0376867803913",
       "role": "member"
@@ -8820,7 +8820,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0381918573217",
       "role": "member"
@@ -8828,7 +8828,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0383111552218",
       "role": "member"
@@ -8836,7 +8836,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0387358739126",
       "role": "member"
@@ -8844,7 +8844,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0397377293714",
       "role": "member"
@@ -8852,7 +8852,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0397924710612",
       "role": "member"
@@ -8860,7 +8860,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0401968752713",
       "role": "member"
@@ -8868,7 +8868,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0403769921921",
       "role": "member"
@@ -8876,7 +8876,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0404025497421",
       "role": "member"
@@ -8884,7 +8884,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jämtlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0407081382317",
       "role": "member"
@@ -8892,7 +8892,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0409540163215",
       "role": "member"
@@ -8900,7 +8900,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gotlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0412148992926",
       "role": "member"
@@ -8908,7 +8908,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0414687558527",
       "role": "member"
@@ -8916,7 +8916,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0415959965211",
       "role": "member"
@@ -8924,7 +8924,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0418929039326",
       "role": "member"
@@ -8932,7 +8932,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0427321850912",
       "role": "member"
@@ -8940,7 +8940,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/043972220518",
       "role": "member"
@@ -8948,7 +8948,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0442629549320",
       "role": "member"
@@ -8956,7 +8956,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0446541913415",
       "role": "member"
@@ -8964,7 +8964,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0447797778718",
       "role": "member"
@@ -8972,7 +8972,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0448155122323",
       "role": "member"
@@ -8980,7 +8980,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0452755722723",
       "role": "member"
@@ -8988,7 +8988,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0455086201022",
       "role": "member"
@@ -8996,7 +8996,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0456066032422",
       "role": "member"
@@ -9004,7 +9004,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0457308547314",
       "role": "member"
@@ -9012,7 +9012,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0460690753617",
       "role": "member"
@@ -9020,7 +9020,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/046426524512",
       "role": "member"
@@ -9028,7 +9028,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kronobergs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0465398691116",
       "role": "member"
@@ -9036,7 +9036,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0467253407311",
       "role": "member"
@@ -9044,7 +9044,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0468956880528",
       "role": "member"
@@ -9052,7 +9052,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0469825305127",
       "role": "member"
@@ -9060,7 +9060,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jämtlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0472349361027",
       "role": "member"
@@ -9068,7 +9068,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0474290584024",
       "role": "member"
@@ -9076,7 +9076,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0475778011711",
       "role": "member"
@@ -9084,7 +9084,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0480085646428",
       "role": "member"
@@ -9092,7 +9092,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0480339311713",
       "role": "member"
@@ -9100,7 +9100,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0482689573825",
       "role": "member"
@@ -9108,7 +9108,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0482927154110",
       "role": "member"
@@ -9116,7 +9116,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0483837558914",
       "role": "member"
@@ -9124,7 +9124,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0485476395125",
       "role": "member"
@@ -9132,7 +9132,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/048970816012",
       "role": "member"
@@ -9140,7 +9140,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0493288854424",
       "role": "member"
@@ -9148,7 +9148,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0494054455310",
       "role": "member"
@@ -9156,7 +9156,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0495218011521",
       "role": "member"
@@ -9164,7 +9164,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0495314169413",
       "role": "member"
@@ -9172,7 +9172,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0496341906327",
       "role": "member"
@@ -9180,7 +9180,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0499755198526",
       "role": "member"
@@ -9188,7 +9188,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0504711999229",
       "role": "member"
@@ -9196,7 +9196,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0506482805418",
       "role": "member"
@@ -9204,7 +9204,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0506541436524",
       "role": "member"
@@ -9212,7 +9212,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0506806850221",
       "role": "member"
@@ -9220,7 +9220,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/051207517226",
       "role": "member"
@@ -9228,7 +9228,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0513020576128",
       "role": "member"
@@ -9236,7 +9236,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0515990253512",
       "role": "member"
@@ -9244,7 +9244,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0516528386117",
       "role": "member"
@@ -9252,7 +9252,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0519542449425",
       "role": "member"
@@ -9260,7 +9260,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jämtlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0519740099915",
       "role": "member"
@@ -9268,7 +9268,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0521844714515",
       "role": "member"
@@ -9276,7 +9276,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0522460069116",
       "role": "member"
@@ -9284,7 +9284,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0526129317828",
       "role": "member"
@@ -9292,7 +9292,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0529103571012",
       "role": "member"
@@ -9300,7 +9300,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0535526562910",
       "role": "member"
@@ -9308,7 +9308,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0537400268911",
       "role": "member"
@@ -9316,7 +9316,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0538387395826",
       "role": "member"
@@ -9324,7 +9324,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0540190357911",
       "role": "member"
@@ -9332,7 +9332,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0542160909628",
       "role": "member"
@@ -9340,7 +9340,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0544046588414",
       "role": "member"
@@ -9348,7 +9348,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0545353563812",
       "role": "member"
@@ -9356,7 +9356,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0545733815610",
       "role": "member"
@@ -9364,7 +9364,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0547818628111",
       "role": "member"
@@ -9372,7 +9372,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0548314774911",
       "role": "member"
@@ -9380,7 +9380,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0552248175312",
       "role": "member"
@@ -9388,7 +9388,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/055257333723",
       "role": "member"
@@ -9396,7 +9396,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0554852839719",
       "role": "member"
@@ -9404,7 +9404,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0558039843819",
       "role": "member"
@@ -9412,7 +9412,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0559925283228",
       "role": "member"
@@ -9420,7 +9420,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0564126739422",
       "role": "member"
@@ -9428,7 +9428,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0565167965311",
       "role": "member"
@@ -9436,7 +9436,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0572788110724",
       "role": "member"
@@ -9444,7 +9444,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0573136138218",
       "role": "member"
@@ -9452,7 +9452,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0574355225922",
       "role": "member"
@@ -9460,7 +9460,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0582811195313",
       "role": "member"
@@ -9468,7 +9468,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0585684563812",
       "role": "member"
@@ -9476,7 +9476,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:blekinge-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0590042760718",
       "role": "member"
@@ -9484,7 +9484,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0599390849728",
       "role": "member"
@@ -9492,7 +9492,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0600784831409",
       "role": "member"
@@ -9500,7 +9500,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0603490586517",
       "role": "member"
@@ -9508,7 +9508,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0603753860213",
       "role": "member"
@@ -9516,7 +9516,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0604459858621",
       "role": "member"
@@ -9524,7 +9524,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0604811710522",
       "role": "member"
@@ -9532,7 +9532,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0607691439013",
       "role": "member"
@@ -9540,7 +9540,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0613297818326",
       "role": "member"
@@ -9548,7 +9548,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0617957067613",
       "role": "member"
@@ -9556,7 +9556,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0628190530410",
       "role": "member"
@@ -9564,7 +9564,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0628870165823",
       "role": "member"
@@ -9572,7 +9572,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0630820052511",
       "role": "member"
@@ -9580,7 +9580,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0630824497414",
       "role": "member"
@@ -9588,7 +9588,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0638497389621",
       "role": "member"
@@ -9596,7 +9596,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0641486384014",
       "role": "member"
@@ -9604,7 +9604,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0641953830512",
       "role": "member"
@@ -9612,7 +9612,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0644177413119",
       "role": "member"
@@ -9620,7 +9620,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/065105536026",
       "role": "member"
@@ -9628,7 +9628,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0652497579621",
       "role": "member"
@@ -9636,7 +9636,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0653904370212",
       "role": "member"
@@ -9644,7 +9644,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0655028250417",
       "role": "member"
@@ -9652,7 +9652,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0656591334119",
       "role": "member"
@@ -9660,7 +9660,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/065701062615",
       "role": "member"
@@ -9668,7 +9668,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0665485817222",
       "role": "member"
@@ -9676,7 +9676,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0666958447826",
       "role": "member"
@@ -9684,7 +9684,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0667220767927",
       "role": "member"
@@ -9692,7 +9692,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/066769783310",
       "role": "member"
@@ -9700,7 +9700,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0671881934227",
       "role": "member"
@@ -9708,7 +9708,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0677738818613",
       "role": "member"
@@ -9716,7 +9716,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0678712094213",
       "role": "member"
@@ -9724,7 +9724,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jämtlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0679228585116",
       "role": "member"
@@ -9732,7 +9732,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:blekinge-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/067992138910",
       "role": "member"
@@ -9740,7 +9740,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0680329141121",
       "role": "member"
@@ -9748,7 +9748,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0682989845822",
       "role": "member"
@@ -9756,7 +9756,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kronobergs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/069309987221",
       "role": "member"
@@ -9764,7 +9764,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0693341580004",
       "role": "member"
@@ -9772,7 +9772,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/069436402021",
       "role": "member"
@@ -9780,7 +9780,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0695090885212",
       "role": "member"
@@ -9788,7 +9788,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0697941234716",
       "role": "member"
@@ -9796,7 +9796,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/07012286624",
       "role": "member"
@@ -9804,7 +9804,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0704744533715",
       "role": "member"
@@ -9812,7 +9812,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0706528359123",
       "role": "member"
@@ -9820,7 +9820,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0709749259417",
       "role": "member"
@@ -9828,7 +9828,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0710022029620",
       "role": "member"
@@ -9836,7 +9836,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0714579775816",
       "role": "member"
@@ -9844,7 +9844,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0716036604716",
       "role": "member"
@@ -9852,7 +9852,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0718034011110",
       "role": "member"
@@ -9860,7 +9860,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0718937995813",
       "role": "member"
@@ -9868,7 +9868,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/072019517020",
       "role": "member"
@@ -9876,7 +9876,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0720249554818",
       "role": "member"
@@ -9884,7 +9884,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0721509806321",
       "role": "member"
@@ -9892,7 +9892,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0721657655513",
       "role": "member"
@@ -9900,7 +9900,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0729710260118",
       "role": "member"
@@ -9908,7 +9908,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0731442709013",
       "role": "member"
@@ -9916,7 +9916,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0732677378827",
       "role": "member"
@@ -9924,7 +9924,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/07351347121",
       "role": "member"
@@ -9932,7 +9932,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0737073162411",
       "role": "member"
@@ -9940,7 +9940,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0744139167426",
       "role": "member"
@@ -9948,7 +9948,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:södermanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0750518623913",
       "role": "member"
@@ -9956,7 +9956,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0750727320521",
       "role": "member"
@@ -9964,7 +9964,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0752691002718",
       "role": "member"
@@ -9972,7 +9972,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0758652610",
       "role": "member"
@@ -9980,7 +9980,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kronobergs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0760500234712",
       "role": "member"
@@ -9988,7 +9988,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fp",
+      "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0766496753128",
       "role": "member"
@@ -9996,7 +9996,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0768605712423",
       "role": "member"
@@ -10004,7 +10004,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0772402807013",
       "role": "member"
@@ -10012,7 +10012,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0773497241728",
       "role": "member"
@@ -10020,7 +10020,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0778725756419",
       "role": "member"
@@ -10028,7 +10028,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0779781772919",
       "role": "member"
@@ -10036,7 +10036,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0780214960516",
       "role": "member"
@@ -10044,7 +10044,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0781520322912",
       "role": "member"
@@ -10052,7 +10052,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0781623040415",
       "role": "member"
@@ -10060,7 +10060,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0787533297400",
       "role": "member"
@@ -10068,7 +10068,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0787535945527",
       "role": "member"
@@ -10076,7 +10076,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0788526088220",
       "role": "member"
@@ -10084,7 +10084,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0791649913415",
       "role": "member"
@@ -10092,7 +10092,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0791786201912",
       "role": "member"
@@ -10100,7 +10100,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0792733370419",
       "role": "member"
@@ -10108,7 +10108,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0801311569314",
       "role": "member"
@@ -10116,7 +10116,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0802546764724",
       "role": "member"
@@ -10124,7 +10124,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0802826314426",
       "role": "member"
@@ -10132,7 +10132,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:blekinge-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0803753212716",
       "role": "member"
@@ -10140,7 +10140,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0810201628512",
       "role": "member"
@@ -10148,7 +10148,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0819601620927",
       "role": "member"
@@ -10156,7 +10156,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0825441263617",
       "role": "member"
@@ -10164,7 +10164,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0828198456420",
       "role": "member"
@@ -10172,7 +10172,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0828721176319",
       "role": "member"
@@ -10180,7 +10180,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0831039938224",
       "role": "member"
@@ -10188,7 +10188,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:värmlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0831636664429",
       "role": "member"
@@ -10196,7 +10196,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0832311880029",
       "role": "member"
@@ -10204,7 +10204,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0836001490919",
       "role": "member"
@@ -10212,7 +10212,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0843345349823",
       "role": "member"
@@ -10220,7 +10220,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/084624777218",
       "role": "member"
@@ -10228,7 +10228,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västerbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0849219210615",
       "role": "member"
@@ -10236,7 +10236,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0853395328224",
       "role": "member"
@@ -10244,7 +10244,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/085742305813",
       "role": "member"
@@ -10252,7 +10252,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kalmar-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0859721748313",
       "role": "member"
@@ -10260,7 +10260,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0859968278117",
       "role": "member"
@@ -10268,7 +10268,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0860364634014",
       "role": "member"
@@ -10276,7 +10276,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0860429409414",
       "role": "member"
@@ -10284,7 +10284,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0861447317415",
       "role": "member"
@@ -10292,7 +10292,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0861521539920",
       "role": "member"
@@ -10300,7 +10300,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0871764071911",
       "role": "member"
@@ -10308,7 +10308,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0875221317013",
       "role": "member"
@@ -10316,7 +10316,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0877778793323",
       "role": "member"
@@ -10324,7 +10324,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0878075468027",
       "role": "member"
@@ -10332,7 +10332,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0879014196003",
       "role": "member"
@@ -10340,7 +10340,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0879782396219",
       "role": "member"
@@ -10348,7 +10348,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0880137451720",
       "role": "member"
@@ -10356,7 +10356,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västernorrlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/088028607414",
       "role": "member"
@@ -10364,7 +10364,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0882001830516",
       "role": "member"
@@ -10372,7 +10372,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0884738092723",
       "role": "member"
@@ -10380,7 +10380,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0889860537413",
       "role": "member"
@@ -10388,7 +10388,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:gävleborgs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/089246126523",
       "role": "member"
@@ -10396,7 +10396,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0893004490313",
       "role": "member"
@@ -10404,7 +10404,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0899112324519",
       "role": "member"
@@ -10412,7 +10412,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0901257862125",
       "role": "member"
@@ -10420,7 +10420,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:jönköpings-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0903307301618",
       "role": "member"
@@ -10428,7 +10428,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0905312407726",
       "role": "member"
@@ -10436,7 +10436,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0905637653912",
       "role": "member"
@@ -10444,7 +10444,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0909948830718",
       "role": "member"
@@ -10452,7 +10452,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0910241260018",
       "role": "member"
@@ -10460,7 +10460,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:norrbottens-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0911916463828",
       "role": "member"
@@ -10468,7 +10468,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0914002106327",
       "role": "member"
@@ -10476,7 +10476,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:blekinge-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0916608741910",
       "role": "member"
@@ -10484,7 +10484,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:dalarnas-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0920966427818",
       "role": "member"
@@ -10492,7 +10492,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0925451929216",
       "role": "member"
@@ -10500,7 +10500,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:kronobergs-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0925652297119",
       "role": "member"
@@ -10508,7 +10508,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0930305890123",
       "role": "member"
@@ -10516,7 +10516,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0932000030511",
       "role": "member"
@@ -10524,7 +10524,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0934639939611",
       "role": "member"
@@ -10532,7 +10532,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-södra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0940980416614",
       "role": "member"
@@ -10540,7 +10540,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mp",
+      "on_behalf_of_id": "MP",
       "organization_id": "legislature",
       "person_id": "person/0954072997110",
       "role": "member"
@@ -10548,7 +10548,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sd",
+      "on_behalf_of_id": "SD",
       "organization_id": "legislature",
       "person_id": "person/0955748436811",
       "role": "member"
@@ -10556,7 +10556,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:malmö-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0956595590924",
       "role": "member"
@@ -10564,7 +10564,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0958776965517",
       "role": "member"
@@ -10572,7 +10572,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/c",
+      "on_behalf_of_id": "C",
       "organization_id": "legislature",
       "person_id": "person/0962841101917",
       "role": "member"
@@ -10580,7 +10580,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:östergötlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0964730940415",
       "role": "member"
@@ -10588,7 +10588,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0970259744617",
       "role": "member"
@@ -10596,7 +10596,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0970427364222",
       "role": "member"
@@ -10604,7 +10604,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0973782197017",
       "role": "member"
@@ -10612,7 +10612,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-norra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0974061238314",
       "role": "member"
@@ -10620,7 +10620,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0975579292417",
       "role": "member"
@@ -10628,7 +10628,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:göteborgs-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0980316377627",
       "role": "member"
@@ -10636,7 +10636,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0980681611418",
       "role": "member"
@@ -10644,7 +10644,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0982795248728",
       "role": "member"
@@ -10652,7 +10652,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:örebro-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0983984918111",
       "role": "member"
@@ -10660,7 +10660,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västmanlands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0988383147219",
       "role": "member"
@@ -10668,7 +10668,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/m",
+      "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0992420223820",
       "role": "member"
@@ -10676,7 +10676,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:hallands-län",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/kd",
+      "on_behalf_of_id": "KD",
       "organization_id": "legislature",
       "person_id": "person/0992473266516",
       "role": "member"
@@ -10684,7 +10684,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/v",
+      "on_behalf_of_id": "V",
       "organization_id": "legislature",
       "person_id": "person/0995355603410",
       "role": "member"
@@ -10692,7 +10692,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/s",
+      "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0996640018922",
       "role": "member"
