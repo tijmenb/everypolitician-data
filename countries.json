@@ -552,6 +552,32 @@
     ]
   },
   {
+    "name": "Austria",
+    "country": "Austria",
+    "code": "AT",
+    "slug": "Austria",
+    "legislatures": [
+      {
+        "name": "Nationalrat",
+        "slug": "Nationalrat",
+        "sources_directory": "data/Austria/Nationalrat/sources",
+        "popolo": "data/Austria/Nationalrat/ep-popolo-v1.0.json",
+        "lastmod": "1442233984",
+        "person_count": 182,
+        "sha": "7a32309",
+        "legislative_periods": [
+          {
+            "id": "term/25",
+            "name": "25th Legislative Period",
+            "start_date": "2013-09-29",
+            "slug": "25",
+            "csv": "data/Austria/Nationalrat/term-25.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Azerbaijan",
     "country": "Azerbaijan",
     "code": "AZ",
@@ -6639,6 +6665,32 @@
     ]
   },
   {
+    "name": "Taiwan",
+    "country": "Taiwan",
+    "code": "TW",
+    "slug": "Taiwan",
+    "legislatures": [
+      {
+        "name": "Legislative Yuan",
+        "slug": "Legislative-Yuan",
+        "sources_directory": "data/Taiwan/Legislative_Yuan/sources",
+        "popolo": "data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
+        "lastmod": "1442228940",
+        "person_count": 111,
+        "sha": "156254d",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Legislative Yuan",
+            "start_date": "2012-02-01",
+            "slug": "8",
+            "csv": "data/Taiwan/Legislative_Yuan/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tajikistan",
     "country": "Tajikistan",
     "code": "TJ",
@@ -7463,6 +7515,32 @@
             "start_date": "2011-09-15",
             "slug": "4",
             "csv": "data/Wales/Assembly/term-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "country": "Yemen",
+    "code": "YE",
+    "slug": "Yemen",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Majlis",
+        "sources_directory": "data/Yemen/Majlis/sources",
+        "popolo": "data/Yemen/Majlis/ep-popolo-v1.0.json",
+        "lastmod": "1442231151",
+        "person_count": 302,
+        "sha": "9047dc2",
+        "legislative_periods": [
+          {
+            "id": "term/2003",
+            "name": "2003–",
+            "start_date": "2003",
+            "slug": "2003",
+            "csv": "data/Yemen/Majlis/term-2003.csv"
           }
         ]
       }
