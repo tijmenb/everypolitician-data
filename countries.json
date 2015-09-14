@@ -7495,6 +7495,32 @@
     ]
   },
   {
+    "name": "Yemen",
+    "country": "Yemen",
+    "code": "YE",
+    "slug": "Yemen",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Majlis",
+        "sources_directory": "data/Yemen/Majlis/sources",
+        "popolo": "data/Yemen/Majlis/ep-popolo-v1.0.json",
+        "lastmod": "1442231151",
+        "person_count": 302,
+        "sha": "9047dc2",
+        "legislative_periods": [
+          {
+            "id": "term/2003",
+            "name": "2003–",
+            "start_date": "2003",
+            "slug": "2003",
+            "csv": "data/Yemen/Majlis/term-2003.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Zambia",
     "country": "Zambia",
     "code": "ZM",
