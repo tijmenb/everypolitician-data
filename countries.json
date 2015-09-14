@@ -552,6 +552,32 @@
     ]
   },
   {
+    "name": "Austria",
+    "country": "Austria",
+    "code": "AT",
+    "slug": "Austria",
+    "legislatures": [
+      {
+        "name": "Nationalrat",
+        "slug": "Nationalrat",
+        "sources_directory": "data/Austria/Nationalrat/sources",
+        "popolo": "data/Austria/Nationalrat/ep-popolo-v1.0.json",
+        "lastmod": "1442233984",
+        "person_count": 182,
+        "sha": "7a32309",
+        "legislative_periods": [
+          {
+            "id": "term/25",
+            "name": "25th Legislative Period",
+            "start_date": "2013-09-29",
+            "slug": "25",
+            "csv": "data/Austria/Nationalrat/term-25.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Azerbaijan",
     "country": "Azerbaijan",
     "code": "AZ",
