@@ -3568,6 +3568,32 @@
     ]
   },
   {
+    "name": "Jordan",
+    "country": "Jordan",
+    "code": "JO",
+    "slug": "Jordan",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Jordan/House_of_Representatives/sources",
+        "popolo": "data/Jordan/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1442389280",
+        "person_count": 150,
+        "sha": "73bf37e",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Jordan/House_of_Representatives/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Kazakhstan",
     "country": "Kazakhstan",
     "code": "KZ",
