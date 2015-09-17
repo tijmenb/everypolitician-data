@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "file": "manual/scraped.csv",
+      "source": "http://www.observer.org.sz/index.php?news=54695",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
