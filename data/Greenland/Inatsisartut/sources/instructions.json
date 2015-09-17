@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "file": "manual/scraped.csv",
+      "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
+      "notes": "hand-scraped to work around odd JS set-up that keeps timing out in PhantomJS",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
