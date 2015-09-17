@@ -167,30 +167,9 @@ namespace :merge_sources do
       src[:type].to_s.empty? || src[:type].to_s.downcase == 'membership'
     }.each do |src| 
       file = src[:file] 
-      fuzzer = nil
       puts "Concat #{file}".magenta
       csv_table(file).each do |row|
-        if src.key? :merge
-          field = src[:merge][:field].to_sym
-          if src[:merge][:approximate] 
-            fuzzer ||= FuzzyMatch.new(all_rows, read: field, must_match_at_least_one_word: true )
-            found = fuzzer.find(row[field])
-            puts "Matched #{row[field]} to #{found[field]}".yellow
-          else
-            raise "Not implemented yet"
-          end
-
-          if src[:merge][:clobber]
-            row.keys.each do |h|
-              found[h] = row[h] unless row[h].to_s.empty? || row[h].to_s.downcase == 'unknown'
-            end
-          else
-            raise "Not implemented yet"
-          end
-
-        else # append
-          all_rows << row.to_hash
-        end
+        all_rows << row.to_hash
       end
     end
 
