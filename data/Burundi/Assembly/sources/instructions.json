@@ -1,13 +1,13 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/members-2010.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/burundi-assemblee",
         "query": "SELECT * FROM data"
       },
-      "source": "https://morph.io/tmtmtmtm/burundi-assemblee",
+      "source": "http://www.assemblee.bi",
       "type": "membership"
     },
     {
@@ -17,6 +17,7 @@
         "scraper": "duncanfwalker/burundi-national-assembly",
         "query": "SELECT * FROM data"
       },
+      "source": "http://www.assemblee.bi",
       "type": "membership"
     },
     {

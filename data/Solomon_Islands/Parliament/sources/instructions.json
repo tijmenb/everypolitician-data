@@ -18,11 +18,12 @@
         "query": "SELECT * FROM data"
       },
       "source": "http://www.parliament.gov.sb/index.php?q=node/833",
-      "type": "membership",
+      "type": "person",
       "merge": { 
-        "field": "name",
-        "approximate": true,
-        "clobber": true
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 80
       }
     },
     {
