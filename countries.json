@@ -1833,6 +1833,32 @@
     ]
   },
   {
+    "name": "Dominica",
+    "country": "Dominica",
+    "code": "DM",
+    "slug": "Dominica",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "House-of-Assembly",
+        "sources_directory": "data/Dominica/House_of_Assembly/sources",
+        "popolo": "data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442563103",
+        "person_count": 21,
+        "sha": "1ce4ff0",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Dominica/House_of_Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Dominican Republic",
     "country": "Dominican Republic",
     "code": "DO",
@@ -2554,9 +2580,9 @@
         "slug": "Parliament",
         "sources_directory": "data/Gibraltar/Parliament/sources",
         "popolo": "data/Gibraltar/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1442498206",
+        "lastmod": "1442506396",
         "person_count": 83,
-        "sha": "043b164",
+        "sha": "01e4c7f",
         "legislative_periods": [
           {
             "id": "term/12",

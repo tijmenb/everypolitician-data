@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/dominica-election-2014",
+        "query": "SELECT * FROM data WHERE winner = 'yes'"
+      },
+      "source": "http://electoraloffice.gov.dm/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
