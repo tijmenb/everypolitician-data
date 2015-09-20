@@ -1,11 +1,11 @@
 {
   "sources": [
     {
-      "file": "morph/wikipedia.csv",
+      "file": "morph/official.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/macau-legislative-assembly",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, name__en as name FROM data"
       },
       "source": "http://www.al.gov.mo/",
       "type": "membership"
