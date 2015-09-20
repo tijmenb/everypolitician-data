@@ -20,7 +20,7 @@ end
 
 @terms = CSV.table('../manual/terms.csv')
 
-file = 'twfy.json' # or take remote filename
+file = '../../../../UK/Commons/sources/parlparse/twfy.json'
 @json = json_load(file)
 posts = @json[:posts].find_all { |p| p[:organization_id] == 'northern-ireland-assembly' }
 # Special case for Eileen Bell as Speaker
