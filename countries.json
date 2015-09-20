@@ -4122,6 +4122,33 @@
     ]
   },
   {
+    "name": "Macao",
+    "country": "Macao",
+    "code": "MO",
+    "slug": "Macao",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Macao/Assembly/sources",
+        "popolo": "data/Macao/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442739916",
+        "person_count": 33,
+        "sha": "1baa494",
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/10",
+            "name": "10th Legislative Assembly",
+            "start_date": "2013",
+            "slug": "10",
+            "csv": "data/Macao/Assembly/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Macedonia",
     "country": "Macedonia",
     "code": "MK",
