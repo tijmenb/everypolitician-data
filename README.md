@@ -32,5 +32,5 @@ This document is for developers actively working _on_ the project, rather than c
 
 2. Make sure that the changes look sensible, and then commit the new/refreshed data.
 
-3. From the root directory of the *project* (not the legislature) run `bundle exec rake countries.json`. This updates the master list of country data with the information you’ve just added. (It includes the sha of the commit from stage 2, so needs to be run separately *after* it)
+3. From the root directory of the *project* (not the legislature) run `bundle exec rake countries.json`, and commit the resulting change. This updates the master list of country data with the information you’ve just added. (It includes the sha of the commit from stage 2, so needs to be run separately *after* it)
 
