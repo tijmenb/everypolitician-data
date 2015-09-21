@@ -6054,6 +6054,41 @@
     ]
   },
   {
+    "name": "Saint Pierre and Miquelon",
+    "country": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "slug": "Saint-Pierre-and-Miquelon",
+    "legislatures": [
+      {
+        "name": "Territorial Council",
+        "slug": "Territorial-Council",
+        "sources_directory": "data/Saint_Pierre_and_Miquelon/Territorial_Council/sources",
+        "popolo": "data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json",
+        "lastmod": "1442830233",
+        "person_count": 31,
+        "sha": "57f4af9",
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/2012",
+            "name": "2nd Territorial Council",
+            "start_date": "2012-03",
+            "slug": "2012",
+            "csv": "data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv"
+          },
+          {
+            "end_date": "2012-03",
+            "id": "term/2006",
+            "name": "1st Territorial Council",
+            "start_date": "2006-03",
+            "slug": "2006",
+            "csv": "data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Saint Vincent and the Grenadines",
     "country": "Saint Vincent and the Grenadines",
     "code": "VC",

@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-pierre-and-miquelon-territorial-council",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-pierre-and-miquelon-territorial-council-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://www.wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__fr",
+        "existing_field": "wikiname"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
