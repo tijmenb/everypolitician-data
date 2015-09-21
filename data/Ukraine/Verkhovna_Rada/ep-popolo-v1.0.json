@@ -4249,6 +4249,18 @@
       "name": "Святаш Дмитро Володимирович"
     },
     {
+      "family_name": "Севрюков",
+      "given_name": "Володимирович",
+      "id": "person/19405",
+      "image": "http://static.rada.gov.ua/dep_img8/bp73.jpg\n",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp73.jpg\n"
+        }
+      ],
+      "name": "Севрюков Владислав Володимирович"
+    },
+    {
       "family_name": "Семенуха",
       "given_name": "Сергійович",
       "id": "person/18026",
@@ -5017,6 +5029,18 @@
       "name": "Шаповалов Юрій Анатолійович"
     },
     {
+      "family_name": "Шверк",
+      "given_name": "Аронович",
+      "id": "person/19404",
+      "image": "http://static.rada.gov.ua/dep_img8/bp72.jpg\n",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp72.jpg\n"
+        }
+      ],
+      "name": "Шверк Григорій Аронович"
+    },
+    {
       "family_name": "Шевченко",
       "given_name": "Леонідович",
       "id": "person/17650",
@@ -5284,12 +5308,22 @@
     },
     {
       "classification": "party",
-      "id": "party/Група_\"Воля_народу\"",
+      "id": "2619",
       "name": "Група \"Воля народу\""
     },
     {
       "classification": "party",
-      "id": "party/Група_\"Партія_\"Відродження\"",
+      "id": "2795",
+      "name": "Група \"Відродження\""
+    },
+    {
+      "classification": "party",
+      "id": "2618",
+      "name": "Група \"Економічний розвиток\""
+    },
+    {
+      "classification": "party",
+      "id": "2846",
       "name": "Група \"Партія \"Відродження\""
     },
     {
@@ -5299,32 +5333,32 @@
     },
     {
       "classification": "party",
-      "id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "id": "2613",
       "name": "Фракція ПАРТІЇ \"БЛОК ПЕТРА ПОРОШЕНКА\""
     },
     {
       "classification": "party",
-      "id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "id": "2612",
       "name": "Фракція Політичної партії \"НАРОДНИЙ ФРОНТ\""
     },
     {
       "classification": "party",
-      "id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "id": "2614",
       "name": "Фракція Політичної партії \"Об'єднання \"САМОПОМІЧ\""
     },
     {
       "classification": "party",
-      "id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
-      "name": "Фракція Політичної партії \"Опозиційний блок\" у Верховній Раді України восьмого скликання "
+      "id": "2616",
+      "name": "Фракція Політичної партії \"Опозиційний блок\" у Верховній Раді України восьмого скликання"
     },
     {
       "classification": "party",
-      "id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "id": "2615",
       "name": "Фракція Радикальної партії Олега Ляшка"
     },
     {
       "classification": "party",
-      "id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "id": "2617",
       "name": "Фракція політичної партії \"Всеукраїнське об'єднання \"Батьківщина\" у Верховній Раді України"
     }
   ],
@@ -5335,7 +5369,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/10096",
       "role": "member"
@@ -5343,7 +5377,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/10204",
       "role": "member"
@@ -5351,7 +5385,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/11094",
       "role": "member"
@@ -5359,7 +5393,7 @@
     {
       "area_id": "area/Виборчому_округу_№37",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/11096",
       "role": "member"
@@ -5375,7 +5409,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/11098",
       "role": "member"
@@ -5383,7 +5417,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/11102",
       "role": "member"
@@ -5391,7 +5425,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/11106",
       "role": "member"
@@ -5399,7 +5433,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/11109",
       "role": "member"
@@ -5408,7 +5442,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/11116",
       "role": "member"
@@ -5416,7 +5450,7 @@
     {
       "area_id": "area/Виборчому_округу_№218",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/11118",
       "role": "member"
@@ -5424,7 +5458,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/11121",
       "role": "member"
@@ -5433,7 +5467,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/11129",
       "role": "member"
@@ -5449,7 +5483,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/11166",
       "role": "member",
@@ -5458,15 +5492,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/11342",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2014-12-04",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/11584",
       "role": "member"
@@ -5474,7 +5509,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/11596",
       "role": "member"
@@ -5482,7 +5517,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/11620",
       "role": "member"
@@ -5490,7 +5525,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/11694",
       "role": "member"
@@ -5498,15 +5533,16 @@
     {
       "area_id": "area/Виборчому_округу_№156",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/11728",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-02-11",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/11999",
       "role": "member"
@@ -5514,7 +5550,7 @@
     {
       "area_id": "area/Виборчому_округу_№157",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/12003",
       "role": "member"
@@ -5522,7 +5558,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/12265",
       "role": "member"
@@ -5530,7 +5566,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/12270",
       "role": "member"
@@ -5538,7 +5574,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
+      "organization_id": "legislature",
+      "person_id": "person/12272",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/12272",
       "role": "member",
@@ -5547,7 +5592,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/12290",
       "role": "member"
@@ -5555,7 +5600,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/12455",
       "role": "member"
@@ -5563,7 +5608,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/13379",
       "role": "member"
@@ -5571,7 +5616,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/1351",
       "role": "member"
@@ -5579,7 +5624,7 @@
     {
       "area_id": "area/Виборчому_округу_№49",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/13562",
       "role": "member"
@@ -5587,7 +5632,7 @@
     {
       "area_id": "area/Виборчому_округу_№25",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/13646",
       "role": "member"
@@ -5595,7 +5640,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/13694",
       "role": "member"
@@ -5603,7 +5648,27 @@
     {
       "area_id": "area/Виборчому_округу_№100",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/14393",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№100",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/14393",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№100",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/14393",
       "role": "member"
@@ -5611,7 +5676,7 @@
     {
       "area_id": "area/Виборчому_округу_№19",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/14674",
       "role": "member"
@@ -5619,7 +5684,7 @@
     {
       "area_id": "area/Виборчому_округу_№162",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/15257",
       "role": "member"
@@ -5627,7 +5692,7 @@
     {
       "area_id": "area/Виборчому_округу_№209",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15309",
       "role": "member"
@@ -5635,7 +5700,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/15644",
       "role": "member"
@@ -5643,7 +5708,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15645",
       "role": "member"
@@ -5651,7 +5716,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15646",
       "role": "member"
@@ -5659,7 +5724,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/15647",
+      "role": "member",
+      "start_date": "2015-02-04"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15647",
       "role": "member",
@@ -5668,7 +5742,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15649",
       "role": "member"
@@ -5677,7 +5751,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15650",
       "role": "member"
@@ -5685,7 +5759,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15651",
       "role": "member"
@@ -5693,7 +5767,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15652",
       "role": "member"
@@ -5701,7 +5775,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15653",
       "role": "member"
@@ -5709,7 +5783,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15654",
       "role": "member"
@@ -5717,7 +5791,7 @@
     {
       "area_id": "area/Виборчому_округу_№204",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15655",
       "role": "member"
@@ -5726,7 +5800,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15657",
       "role": "member"
@@ -5734,7 +5808,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15658",
       "role": "member"
@@ -5742,7 +5816,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15662",
       "role": "member"
@@ -5750,7 +5824,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15665",
       "role": "member",
@@ -5759,7 +5833,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15667",
       "role": "member"
@@ -5768,7 +5842,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-01-14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15668",
       "role": "member"
@@ -5776,7 +5850,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15669",
       "role": "member"
@@ -5784,7 +5858,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15670",
       "role": "member"
@@ -5792,7 +5866,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15671",
       "role": "member"
@@ -5800,7 +5874,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15672",
       "role": "member"
@@ -5808,7 +5882,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15674",
       "role": "member"
@@ -5816,7 +5890,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15676",
       "role": "member"
@@ -5824,7 +5898,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15680",
       "role": "member",
@@ -5833,7 +5907,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15681",
       "role": "member"
@@ -5841,7 +5915,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15684",
       "role": "member"
@@ -5849,7 +5923,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15685",
       "role": "member"
@@ -5858,7 +5932,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-01-14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15687",
       "role": "member"
@@ -5866,7 +5940,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/15725",
       "role": "member"
@@ -5874,7 +5948,7 @@
     {
       "area_id": "area/Виборчому_округу_№11",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15727",
       "role": "member"
@@ -5882,7 +5956,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15730",
       "role": "member"
@@ -5890,7 +5964,7 @@
     {
       "area_id": "area/Виборчому_округу_№20",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15732",
       "role": "member"
@@ -5898,7 +5972,7 @@
     {
       "area_id": "area/Виборчому_округу_№21",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15733",
       "role": "member"
@@ -5914,7 +5988,7 @@
     {
       "area_id": "area/Виборчому_округу_№31",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/15741",
       "role": "member"
@@ -5922,7 +5996,7 @@
     {
       "area_id": "area/Виборчому_округу_№36",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/15744",
       "role": "member"
@@ -5930,7 +6004,7 @@
     {
       "area_id": "area/Виборчому_округу_№70",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15756",
       "role": "member"
@@ -5946,7 +6020,7 @@
     {
       "area_id": "area/Виборчому_округу_№78",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15760",
       "role": "member"
@@ -5954,23 +6028,33 @@
     {
       "area_id": "area/Виборчому_округу_№79",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15761",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№80",
+      "end_date": "2014-12-04",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15762",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№80",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2616",
+      "organization_id": "legislature",
+      "person_id": "person/15762",
+      "role": "member",
+      "start_date": "2015-05-15"
+    },
+    {
       "area_id": "area/Виборчому_округу_№86",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15767",
       "role": "member"
@@ -5986,7 +6070,7 @@
     {
       "area_id": "area/Виборчому_округу_№91",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15769",
       "role": "member"
@@ -5994,7 +6078,7 @@
     {
       "area_id": "area/Виборчому_округу_№93",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15771",
       "role": "member"
@@ -6002,7 +6086,7 @@
     {
       "area_id": "area/Виборчому_округу_№96",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15773",
       "role": "member"
@@ -6010,7 +6094,7 @@
     {
       "area_id": "area/Виборчому_округу_№97",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15774",
       "role": "member"
@@ -6018,7 +6102,7 @@
     {
       "area_id": "area/Виборчому_округу_№107",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/15780",
       "role": "member"
@@ -6026,7 +6110,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15785",
       "role": "member"
@@ -6034,7 +6118,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15787",
       "role": "member"
@@ -6042,15 +6126,35 @@
     {
       "area_id": "area/Виборчому_округу_№120",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15790",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№128",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15794",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№128",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15794",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№128",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15794",
       "role": "member"
@@ -6058,7 +6162,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15796",
       "role": "member"
@@ -6066,23 +6170,43 @@
     {
       "area_id": "area/Виборчому_округу_№138",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15799",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№139",
+      "end_date": "2015-03-05",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15800",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№139",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15800",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№139",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15800",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
       "area_id": "area/Виборчому_округу_№144",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15801",
       "role": "member"
@@ -6098,15 +6222,35 @@
     {
       "area_id": "area/Виборчому_округу_№146",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15803",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№147",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15804",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№147",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15804",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№147",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15804",
       "role": "member"
@@ -6114,7 +6258,7 @@
     {
       "area_id": "area/Виборчому_округу_№151",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15805",
       "role": "member"
@@ -6130,7 +6274,7 @@
     {
       "area_id": "area/Виборчому_округу_№153",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15807",
       "role": "member"
@@ -6138,7 +6282,7 @@
     {
       "area_id": "area/Виборчому_округу_№160",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15810",
       "role": "member"
@@ -6169,24 +6313,64 @@
     },
     {
       "area_id": "area/Виборчому_округу_№175",
+      "end_date": "2015-02-11",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15816",
       "role": "member"
     },
     {
-      "area_id": "area/Виборчому_округу_№177",
+      "area_id": "area/Виборчому_округу_№175",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15816",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№175",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15816",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№177",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15817",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№177",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15817",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№177",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15817",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
       "area_id": "area/Виборчому_округу_№178",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/15818",
       "role": "member"
@@ -6194,7 +6378,16 @@
     {
       "area_id": "area/Виборчому_округу_№181",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
+      "organization_id": "legislature",
+      "person_id": "person/15819",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№181",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15819",
       "role": "member"
@@ -6208,9 +6401,19 @@
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№186",
+      "end_date": "2015-04-24",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/15823",
+      "role": "member",
+      "start_date": "2014-12-02"
+    },
+    {
       "area_id": "area/Виборчому_округу_№188",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15824",
       "role": "member"
@@ -6218,10 +6421,40 @@
     {
       "area_id": "area/Виборчому_округу_№191",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15826",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№191",
+      "end_date": "2015-01-16",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/15826",
       "role": "member"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№191",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
+      "organization_id": "legislature",
+      "person_id": "person/15826",
+      "role": "member",
+      "start_date": "2015-01-16"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№191",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15826",
+      "role": "member",
+      "start_date": "2015-03-06"
     },
     {
       "area_id": "area/Виборчому_округу_№192",
@@ -6234,7 +6467,7 @@
     {
       "area_id": "area/Виборчому_округу_№193",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15828",
       "role": "member"
@@ -6242,7 +6475,27 @@
     {
       "area_id": "area/Виборчому_округу_№196",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15829",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№196",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15829",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№196",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15829",
       "role": "member"
@@ -6250,7 +6503,27 @@
     {
       "area_id": "area/Виборчому_округу_№199",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/15830",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№199",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/15830",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№199",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/15830",
       "role": "member"
@@ -6258,7 +6531,7 @@
     {
       "area_id": "area/Виборчому_округу_№201",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15831",
       "role": "member"
@@ -6266,7 +6539,7 @@
     {
       "area_id": "area/Виборчому_округу_№214",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15836",
       "role": "member"
@@ -6282,7 +6555,7 @@
     {
       "area_id": "area/Виборчому_округу_№222",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15839",
       "role": "member"
@@ -6290,7 +6563,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15840",
       "role": "member",
@@ -6299,7 +6572,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/15901",
       "role": "member"
@@ -6307,7 +6580,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/15916",
       "role": "member"
@@ -6315,7 +6588,7 @@
     {
       "area_id": "area/Виборчому_округу_№183",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/15953",
       "role": "member"
@@ -6323,7 +6596,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/15972",
       "role": "member",
@@ -6332,7 +6605,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/15972",
+      "role": "member",
+      "start_date": "2014-12-09"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/16067",
       "role": "member"
@@ -6348,8 +6630,9 @@
     },
     {
       "area_id": "area/Виборчому_округу_№124",
+      "end_date": "2015-09-18",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/16517",
       "role": "member"
@@ -6357,7 +6640,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/16532",
       "role": "member"
@@ -6365,7 +6648,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/16618",
       "role": "member"
@@ -6381,7 +6664,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/16698",
       "role": "member"
@@ -6389,7 +6672,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/16716",
       "role": "member"
@@ -6397,7 +6680,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17047",
       "role": "member"
@@ -6405,7 +6688,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/17108",
       "role": "member"
@@ -6413,7 +6696,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17379",
       "role": "member"
@@ -6421,7 +6704,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17413",
       "role": "member"
@@ -6429,7 +6712,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17414",
       "role": "member"
@@ -6437,16 +6720,25 @@
     {
       "area_id": "area/Виборчому_округу_№205",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/17568",
       "role": "member",
       "start_date": "2015-09-02"
     },
     {
+      "area_id": "area/Виборчому_округу_№205",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/17568",
+      "role": "member",
+      "start_date": "2015-09-03"
+    },
+    {
       "area_id": "area/Виборчому_округу_№83",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17650",
       "role": "member"
@@ -6455,7 +6747,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17666",
       "role": "member"
@@ -6463,7 +6755,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/1792",
       "role": "member"
@@ -6471,7 +6763,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17946",
       "role": "member"
@@ -6479,7 +6771,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17947",
       "role": "member"
@@ -6487,7 +6779,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17948",
       "role": "member"
@@ -6495,7 +6787,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17949",
       "role": "member"
@@ -6503,7 +6795,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17950",
       "role": "member"
@@ -6511,7 +6803,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17952",
       "role": "member"
@@ -6519,7 +6811,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17953",
       "role": "member"
@@ -6527,7 +6819,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17954",
       "role": "member"
@@ -6535,7 +6827,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17955",
       "role": "member"
@@ -6543,7 +6835,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17956",
       "role": "member"
@@ -6551,7 +6843,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17957",
       "role": "member"
@@ -6559,7 +6851,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17958",
       "role": "member"
@@ -6567,7 +6859,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17959",
       "role": "member"
@@ -6575,7 +6867,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17960",
       "role": "member"
@@ -6583,7 +6875,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17961",
       "role": "member"
@@ -6591,7 +6883,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17962",
       "role": "member"
@@ -6599,7 +6891,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17963",
       "role": "member"
@@ -6607,7 +6899,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17964",
       "role": "member"
@@ -6615,7 +6907,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17965",
       "role": "member"
@@ -6623,7 +6915,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17966",
       "role": "member"
@@ -6631,7 +6923,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17967",
       "role": "member"
@@ -6639,7 +6931,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17968",
       "role": "member"
@@ -6647,7 +6939,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17969",
       "role": "member"
@@ -6655,7 +6947,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/17970",
       "role": "member"
@@ -6663,7 +6955,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17972",
       "role": "member"
@@ -6679,7 +6971,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17974",
       "role": "member"
@@ -6688,7 +6980,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17975",
       "role": "member"
@@ -6696,7 +6988,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17976",
       "role": "member"
@@ -6704,7 +6996,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17977",
       "role": "member"
@@ -6712,7 +7004,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17978",
       "role": "member"
@@ -6720,7 +7012,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17979",
       "role": "member"
@@ -6728,7 +7020,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17980",
       "role": "member"
@@ -6736,7 +7028,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17981",
       "role": "member"
@@ -6744,7 +7036,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17982",
       "role": "member"
@@ -6752,7 +7044,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17983",
       "role": "member"
@@ -6760,7 +7052,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17984",
       "role": "member"
@@ -6768,7 +7060,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17985",
       "role": "member"
@@ -6776,7 +7068,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17986",
       "role": "member"
@@ -6784,7 +7076,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17987",
       "role": "member"
@@ -6792,7 +7084,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17988",
       "role": "member"
@@ -6800,7 +7092,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17989",
       "role": "member"
@@ -6808,7 +7100,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17990",
       "role": "member"
@@ -6816,7 +7108,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17991",
       "role": "member"
@@ -6825,7 +7117,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17992",
       "role": "member"
@@ -6833,7 +7125,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17993",
       "role": "member"
@@ -6841,7 +7133,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17994",
       "role": "member"
@@ -6849,7 +7141,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17995",
       "role": "member"
@@ -6857,7 +7149,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17996",
       "role": "member"
@@ -6865,7 +7157,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17997",
       "role": "member"
@@ -6873,7 +7165,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17998",
       "role": "member"
@@ -6881,15 +7173,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/17999",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18002",
       "role": "member"
@@ -6897,7 +7190,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18003",
       "role": "member"
@@ -6905,23 +7198,25 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18004",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18005",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18006",
       "role": "member"
@@ -6929,7 +7224,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18007",
       "role": "member"
@@ -6937,7 +7232,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18008",
       "role": "member"
@@ -6945,7 +7240,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18009",
       "role": "member"
@@ -6953,7 +7248,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18010",
       "role": "member"
@@ -6961,7 +7256,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18011",
       "role": "member"
@@ -6969,7 +7264,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18012",
       "role": "member"
@@ -6977,7 +7272,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18013",
       "role": "member"
@@ -6985,7 +7280,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18014",
       "role": "member"
@@ -6993,15 +7288,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18015",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18016",
       "role": "member"
@@ -7009,7 +7305,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18017",
       "role": "member"
@@ -7017,7 +7313,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18018",
       "role": "member"
@@ -7025,7 +7321,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18019",
       "role": "member"
@@ -7033,7 +7329,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18020",
       "role": "member"
@@ -7041,15 +7337,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18021",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-09-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18022",
       "role": "member"
@@ -7057,7 +7354,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18024",
       "role": "member"
@@ -7065,7 +7362,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18025",
       "role": "member"
@@ -7073,7 +7370,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18026",
       "role": "member"
@@ -7081,7 +7378,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18027",
       "role": "member"
@@ -7089,7 +7386,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18028",
       "role": "member"
@@ -7097,7 +7394,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18029",
       "role": "member"
@@ -7106,7 +7403,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-05-13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18030",
       "role": "member"
@@ -7114,7 +7411,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18031",
       "role": "member"
@@ -7122,7 +7419,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18032",
       "role": "member"
@@ -7130,7 +7427,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18033",
       "role": "member"
@@ -7138,7 +7435,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18034",
       "role": "member"
@@ -7146,7 +7443,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18036",
       "role": "member"
@@ -7154,15 +7451,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18037",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-02-05",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18039",
       "role": "member"
@@ -7170,7 +7468,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2619",
+      "organization_id": "legislature",
+      "person_id": "person/18039",
+      "role": "member",
+      "start_date": "2015-03-03"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18040",
       "role": "member"
@@ -7178,7 +7485,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18041",
       "role": "member"
@@ -7186,15 +7493,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18042",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2015-09-18",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18043",
       "role": "member"
@@ -7203,7 +7511,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18044",
       "role": "member"
@@ -7211,7 +7519,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18045",
       "role": "member"
@@ -7219,7 +7527,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18046",
       "role": "member"
@@ -7227,7 +7535,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18047",
       "role": "member"
@@ -7235,7 +7543,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18048",
       "role": "member"
@@ -7243,7 +7551,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18049",
       "role": "member"
@@ -7251,7 +7559,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18050",
       "role": "member"
@@ -7259,7 +7567,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18051",
       "role": "member"
@@ -7267,7 +7575,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18052",
       "role": "member"
@@ -7275,7 +7583,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18053",
       "role": "member"
@@ -7283,7 +7591,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/18054",
       "role": "member"
@@ -7291,7 +7599,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/18055",
       "role": "member"
@@ -7299,7 +7607,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/18056",
       "role": "member"
@@ -7308,7 +7616,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/18057",
       "role": "member"
@@ -7316,7 +7624,7 @@
     {
       "area_id": "area/Виборчому_округу_№64",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18058",
       "role": "member"
@@ -7324,7 +7632,7 @@
     {
       "area_id": "area/Виборчому_округу_№75",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18059",
       "role": "member"
@@ -7332,7 +7640,7 @@
     {
       "area_id": "area/Виборчому_округу_№106",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18060",
       "role": "member"
@@ -7348,7 +7656,7 @@
     {
       "area_id": "area/Виборчому_округу_№167",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18062",
       "role": "member"
@@ -7356,7 +7664,7 @@
     {
       "area_id": "area/Виборчому_округу_№123",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18063",
       "role": "member"
@@ -7380,7 +7688,7 @@
     {
       "area_id": "area/Виборчому_округу_№119",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18066",
       "role": "member"
@@ -7388,7 +7696,7 @@
     {
       "area_id": "area/Виборчому_округу_№130",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18067",
       "role": "member"
@@ -7396,7 +7704,7 @@
     {
       "area_id": "area/Виборчому_округу_№81",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18068",
       "role": "member"
@@ -7404,7 +7712,7 @@
     {
       "area_id": "area/Виборчому_округу_№184",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18069",
       "role": "member"
@@ -7412,7 +7720,7 @@
     {
       "area_id": "area/Виборчому_округу_№95",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18070",
       "role": "member"
@@ -7420,7 +7728,7 @@
     {
       "area_id": "area/Виборчому_округу_№32",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18071",
       "role": "member"
@@ -7428,7 +7736,7 @@
     {
       "area_id": "area/Виборчому_округу_№114",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18072",
       "role": "member"
@@ -7436,7 +7744,7 @@
     {
       "area_id": "area/Виборчому_округу_№136",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18074",
       "role": "member"
@@ -7444,7 +7752,7 @@
     {
       "area_id": "area/Виборчому_округу_№68",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18075",
       "role": "member"
@@ -7452,15 +7760,35 @@
     {
       "area_id": "area/Виборчому_округу_№92",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18077",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№140",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/18078",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№140",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/18078",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№140",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/18078",
       "role": "member"
@@ -7468,7 +7796,16 @@
     {
       "area_id": "area/Виборчому_округу_№208",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/18079",
+      "role": "member",
+      "start_date": "2014-12-04"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№208",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18079",
       "role": "member"
@@ -7476,15 +7813,16 @@
     {
       "area_id": "area/Виборчому_округу_№18",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18080",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№26",
+      "end_date": "2015-04-07",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18081",
       "role": "member"
@@ -7492,15 +7830,16 @@
     {
       "area_id": "area/Виборчому_округу_№66",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18082",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№40",
+      "end_date": "2015-04-07",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18083",
       "role": "member"
@@ -7508,15 +7847,16 @@
     {
       "area_id": "area/Виборчому_округу_№210",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18084",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№115",
+      "end_date": "2015-07-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18085",
       "role": "member"
@@ -7530,9 +7870,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/Виборчому_округу_№30",
+      "area_id": "area/Виборчому_округу_№102",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2619",
+      "organization_id": "legislature",
+      "person_id": "person/18086",
+      "role": "member",
+      "start_date": "2015-09-18"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№30",
+      "end_date": "2015-04-07",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18087",
       "role": "member"
@@ -7540,7 +7890,7 @@
     {
       "area_id": "area/Виборчому_округу_№118",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18088",
       "role": "member"
@@ -7548,7 +7898,7 @@
     {
       "area_id": "area/Виборчому_округу_№207",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18089",
       "role": "member"
@@ -7556,7 +7906,7 @@
     {
       "area_id": "area/Виборчому_округу_№48",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18090",
       "role": "member"
@@ -7564,7 +7914,7 @@
     {
       "area_id": "area/Виборчому_округу_№129",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18091",
       "role": "member"
@@ -7572,7 +7922,7 @@
     {
       "area_id": "area/Виборчому_округу_№148",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18092",
       "role": "member"
@@ -7580,7 +7930,7 @@
     {
       "area_id": "area/Виборчому_округу_№169",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18093",
       "role": "member"
@@ -7588,7 +7938,7 @@
     {
       "area_id": "area/Виборчому_округу_№126",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18094",
       "role": "member"
@@ -7596,15 +7946,16 @@
     {
       "area_id": "area/Виборчому_округу_№127",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18095",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№220",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18096",
       "role": "member"
@@ -7612,7 +7963,7 @@
     {
       "area_id": "area/Виборчому_округу_№132",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18097",
       "role": "member"
@@ -7620,7 +7971,7 @@
     {
       "area_id": "area/Виборчому_округу_№82",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18107",
       "role": "member"
@@ -7628,7 +7979,7 @@
     {
       "area_id": "area/Виборчому_округу_№34",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18108",
       "role": "member"
@@ -7636,7 +7987,7 @@
     {
       "area_id": "area/Виборчому_округу_№103",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18109",
       "role": "member"
@@ -7644,15 +7995,16 @@
     {
       "area_id": "area/Виборчому_округу_№28",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18110",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№29",
+      "end_date": "2015-04-07",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18111",
       "role": "member"
@@ -7660,7 +8012,7 @@
     {
       "area_id": "area/Виборчому_округу_№17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18112",
       "role": "member"
@@ -7668,7 +8020,7 @@
     {
       "area_id": "area/Виборчому_округу_№161",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18113",
       "role": "member"
@@ -7676,7 +8028,7 @@
     {
       "area_id": "area/Виборчому_округу_№22",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18114",
       "role": "member"
@@ -7684,7 +8036,7 @@
     {
       "area_id": "area/Виборчому_округу_№131",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18115",
       "role": "member"
@@ -7692,7 +8044,7 @@
     {
       "area_id": "area/Виборчому_округу_№60",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18116",
       "role": "member"
@@ -7700,7 +8052,7 @@
     {
       "area_id": "area/Виборчому_округу_№166",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18117",
       "role": "member"
@@ -7716,7 +8068,7 @@
     {
       "area_id": "area/Виборчому_округу_№121",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18119",
       "role": "member"
@@ -7724,7 +8076,7 @@
     {
       "area_id": "area/Виборчому_округу_№190",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18120",
       "role": "member"
@@ -7732,7 +8084,7 @@
     {
       "area_id": "area/Виборчому_округу_№14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18121",
       "role": "member"
@@ -7740,7 +8092,7 @@
     {
       "area_id": "area/Виборчому_округу_№53",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18122",
       "role": "member"
@@ -7748,7 +8100,7 @@
     {
       "area_id": "area/Виборчому_округу_№38",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18123",
       "role": "member"
@@ -7764,7 +8116,16 @@
     {
       "area_id": "area/Виборчому_округу_№163",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
+      "organization_id": "legislature",
+      "person_id": "person/18125",
+      "role": "member",
+      "start_date": "2014-12-04"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№163",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18125",
       "role": "member"
@@ -7772,7 +8133,7 @@
     {
       "area_id": "area/Виборчому_округу_№194",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18126",
       "role": "member"
@@ -7780,7 +8141,7 @@
     {
       "area_id": "area/Виборчому_округу_№116",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/18127",
       "role": "member"
@@ -7788,7 +8149,7 @@
     {
       "area_id": "area/Виборчому_округу_№12",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18128",
       "role": "member"
@@ -7796,7 +8157,7 @@
     {
       "area_id": "area/Виборчому_округу_№149",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18129",
       "role": "member"
@@ -7804,7 +8165,7 @@
     {
       "area_id": "area/Виборчому_округу_№211",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18130",
       "role": "member"
@@ -7812,7 +8173,7 @@
     {
       "area_id": "area/Виборчому_округу_№62",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18131",
       "role": "member"
@@ -7820,7 +8181,7 @@
     {
       "area_id": "area/Виборчому_округу_№94",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18132",
       "role": "member"
@@ -7828,7 +8189,7 @@
     {
       "area_id": "area/Виборчому_округу_№59",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18133",
       "role": "member"
@@ -7836,7 +8197,7 @@
     {
       "area_id": "area/Виборчому_округу_№89",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18134",
       "role": "member"
@@ -7844,7 +8205,7 @@
     {
       "area_id": "area/Виборчому_округу_№47",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/18135",
       "role": "member"
@@ -7852,7 +8213,7 @@
     {
       "area_id": "area/Виборчому_округу_№182",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18136",
       "role": "member"
@@ -7860,7 +8221,7 @@
     {
       "area_id": "area/Виборчому_округу_№15",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18137",
       "role": "member"
@@ -7868,7 +8229,7 @@
     {
       "area_id": "area/Виборчому_округу_№212",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18138",
       "role": "member"
@@ -7876,7 +8237,7 @@
     {
       "area_id": "area/Виборчому_округу_№158",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18139",
       "role": "member"
@@ -7892,7 +8253,7 @@
     {
       "area_id": "area/Виборчому_округу_№88",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18141",
       "role": "member"
@@ -7900,7 +8261,7 @@
     {
       "area_id": "area/Виборчому_округу_№203",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18142",
       "role": "member"
@@ -7908,7 +8269,7 @@
     {
       "area_id": "area/Виборчому_округу_№143",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18143",
       "role": "member"
@@ -7916,7 +8277,7 @@
     {
       "area_id": "area/Виборчому_округу_№33",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18144",
       "role": "member"
@@ -7932,7 +8293,7 @@
     {
       "area_id": "area/Виборчому_округу_№76",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18146",
       "role": "member"
@@ -7940,7 +8301,7 @@
     {
       "area_id": "area/Виборчому_округу_№185",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18147",
       "role": "member"
@@ -7948,7 +8309,7 @@
     {
       "area_id": "area/Виборчому_округу_№165",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18148",
       "role": "member"
@@ -7956,7 +8317,7 @@
     {
       "area_id": "area/Виборчому_округу_№117",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18149",
       "role": "member"
@@ -7964,7 +8325,7 @@
     {
       "area_id": "area/Виборчому_округу_№13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18150",
       "role": "member"
@@ -7972,7 +8333,7 @@
     {
       "area_id": "area/Виборчому_округу_№155",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18151",
       "role": "member"
@@ -7980,7 +8341,7 @@
     {
       "area_id": "area/Виборчому_округу_№99",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18152",
       "role": "member"
@@ -7997,7 +8358,7 @@
       "area_id": "area/Виборчому_округу_№205",
       "end_date": "2015-05-19",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18160",
       "role": "member"
@@ -8005,7 +8366,7 @@
     {
       "area_id": "area/Виборчому_округу_№187",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18161",
       "role": "member"
@@ -8013,7 +8374,7 @@
     {
       "area_id": "area/Виборчому_округу_№16",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18163",
       "role": "member"
@@ -8021,7 +8382,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18164",
       "role": "member"
@@ -8029,7 +8390,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18165",
       "role": "member"
@@ -8037,7 +8398,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/18166",
       "role": "member"
@@ -8045,7 +8406,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18167",
       "role": "member"
@@ -8054,7 +8415,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-05-13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/18207",
       "role": "member",
@@ -8063,7 +8424,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/18218",
       "role": "member",
@@ -8072,7 +8433,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18220",
       "role": "member",
@@ -8081,7 +8442,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18221",
       "role": "member",
@@ -8090,7 +8451,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18222",
       "role": "member",
@@ -8099,7 +8460,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/18245",
       "role": "member",
@@ -8108,16 +8469,34 @@
     {
       "area_id": "area/Виборчому_округу_№63",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18414",
       "role": "member",
       "start_date": "2014-12-23"
     },
     {
+      "area_id": "area/Виборчому_округу_№63",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/18414",
+      "role": "member",
+      "start_date": "2014-12-25"
+    },
+    {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
+      "organization_id": "legislature",
+      "person_id": "person/18604",
+      "role": "member",
+      "start_date": "2015-02-03"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18604",
       "role": "member",
@@ -8126,7 +8505,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/18605",
+      "role": "member",
+      "start_date": "2015-02-04"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/18605",
       "role": "member",
@@ -8135,7 +8523,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/1897",
       "role": "member"
@@ -8152,7 +8540,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2619",
+      "organization_id": "legislature",
+      "person_id": "person/19058",
+      "role": "member",
+      "start_date": "2015-09-18"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/1908",
       "role": "member"
@@ -8160,7 +8557,16 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Об'єднання_\"САМОПОМІЧ\"",
+      "on_behalf_of_id": "2614",
+      "organization_id": "legislature",
+      "person_id": "person/19126",
+      "role": "member",
+      "start_date": "2014-10-27"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/19126",
       "role": "member",
@@ -8168,9 +8574,27 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/19404",
+      "role": "member",
+      "start_date": "2015-09-17"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/19405",
+      "role": "member",
+      "start_date": "2015-09-17"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-01-14",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/2086",
       "role": "member"
@@ -8179,7 +8603,7 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/2155",
       "role": "member"
@@ -8187,7 +8611,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/2179",
       "role": "member"
@@ -8195,7 +8619,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/2262",
       "role": "member"
@@ -8203,7 +8627,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/2274",
       "role": "member"
@@ -8211,7 +8635,7 @@
     {
       "area_id": "area/Виборчому_округу_№159",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/2284",
       "role": "member"
@@ -8227,7 +8651,7 @@
     {
       "area_id": "area/Виборчому_округу_№67",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/2308",
       "role": "member"
@@ -8235,7 +8659,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/2314",
       "role": "member"
@@ -8251,7 +8675,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/2323",
       "role": "member"
@@ -8259,16 +8683,25 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/2340",
       "role": "member",
       "start_date": "2015-05-15"
     },
     {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "person/2340",
+      "role": "member",
+      "start_date": "2015-05-20"
+    },
+    {
       "area_id": "area/Виборчому_округу_№57",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/2356",
       "role": "member"
@@ -8276,7 +8709,7 @@
     {
       "area_id": "area/Виборчому_округу_№85",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/2370",
       "role": "member"
@@ -8284,7 +8717,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/2394",
       "role": "member"
@@ -8292,7 +8725,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/2524",
       "role": "member"
@@ -8301,15 +8734,16 @@
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2014-12-02",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/3008",
       "role": "member"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2014-12-04",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2614",
       "organization_id": "legislature",
       "person_id": "person/3180",
       "role": "member"
@@ -8317,7 +8751,27 @@
     {
       "area_id": "area/Виборчому_округу_№180",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/3471",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№180",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/3471",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№180",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/3471",
       "role": "member"
@@ -8325,7 +8779,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/3849",
       "role": "member"
@@ -8333,7 +8787,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/386",
       "role": "member"
@@ -8341,23 +8795,43 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/4132",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№200",
+      "end_date": "2015-03-05",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/4339",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№200",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/4339",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№200",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/4339",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/4427",
       "role": "member"
@@ -8365,7 +8839,7 @@
     {
       "area_id": "area/Виборчому_округу_№221",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/4761",
       "role": "member"
@@ -8373,23 +8847,43 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/5380",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№52",
+      "end_date": "2015-03-05",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/5399",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№52",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/5399",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№52",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/5399",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/5414",
       "role": "member"
@@ -8397,7 +8891,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/5415",
       "role": "member"
@@ -8405,15 +8899,35 @@
     {
       "area_id": "area/Виборчому_округу_№101",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/5422",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№137",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/5423",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№137",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/5423",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№137",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/5423",
       "role": "member"
@@ -8421,7 +8935,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/5464",
       "role": "member"
@@ -8429,7 +8943,7 @@
     {
       "area_id": "area/Виборчому_округу_№65",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/5470",
       "role": "member"
@@ -8437,7 +8951,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/5486",
       "role": "member"
@@ -8453,15 +8967,16 @@
     {
       "area_id": "area/Виборчому_округу_№219",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/5504",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№23",
+      "end_date": "2015-08-13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/5509",
       "role": "member"
@@ -8469,7 +8984,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/5520",
       "role": "member"
@@ -8477,10 +8992,29 @@
     {
       "area_id": "area/Виборчому_округу_№170",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/5541",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№170",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/5541",
       "role": "member"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№170",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/5541",
+      "role": "member",
+      "start_date": "2015-03-06"
     },
     {
       "area_id": "area/Виборчому_округу_№174",
@@ -8492,8 +9026,28 @@
     },
     {
       "area_id": "area/Виборчому_округу_№171",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/5549",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№171",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/5549",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№171",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/5549",
       "role": "member"
@@ -8509,7 +9063,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/5578",
       "role": "member"
@@ -8517,7 +9071,7 @@
     {
       "area_id": "area/Виборчому_округу_№74",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/5582",
       "role": "member"
@@ -8533,7 +9087,7 @@
     {
       "area_id": "area/Виборчому_округу_№179",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/5606",
       "role": "member"
@@ -8541,15 +9095,35 @@
     {
       "area_id": "area/Виборчому_округу_№35",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/5785",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№35",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/5785",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№35",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/5785",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/6073",
       "role": "member"
@@ -8557,7 +9131,7 @@
     {
       "area_id": "area/Виборчому_округу_№154",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/6130",
       "role": "member"
@@ -8565,7 +9139,7 @@
     {
       "area_id": "area/Виборчому_округу_№84",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/6201",
       "role": "member"
@@ -8573,7 +9147,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/6332",
       "role": "member"
@@ -8581,7 +9155,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/6548",
       "role": "member"
@@ -8589,7 +9163,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/7175",
       "role": "member"
@@ -8597,15 +9171,35 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/735",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№142",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/7371",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№142",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/7371",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№142",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/7371",
       "role": "member"
@@ -8613,7 +9207,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/7718",
       "role": "member"
@@ -8621,7 +9215,7 @@
     {
       "area_id": "area/Виборчому_округу_№134",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/7741",
       "role": "member"
@@ -8629,7 +9223,7 @@
     {
       "area_id": "area/Виборчому_округу_№112",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/793",
       "role": "member"
@@ -8637,7 +9231,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/8125",
       "role": "member"
@@ -8645,7 +9239,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/8132",
       "role": "member"
@@ -8653,7 +9247,7 @@
     {
       "area_id": "area/Виборчому_округу_№197",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/8238",
       "role": "member"
@@ -8661,7 +9255,7 @@
     {
       "area_id": "area/Виборчому_округу_№45",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/833",
       "role": "member"
@@ -8669,7 +9263,7 @@
     {
       "area_id": "area/Виборчому_округу_№189",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/8473",
       "role": "member"
@@ -8677,7 +9271,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/862",
       "role": "member"
@@ -8685,7 +9279,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/8693",
       "role": "member"
@@ -8693,7 +9287,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/8696",
       "role": "member"
@@ -8701,7 +9295,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/8715",
       "role": "member"
@@ -8709,7 +9303,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/8723",
       "role": "member"
@@ -8717,7 +9311,7 @@
     {
       "area_id": "area/Виборчому_округу_№77",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Воля_народу\"",
+      "on_behalf_of_id": "2619",
       "organization_id": "legislature",
       "person_id": "person/8725",
       "role": "member"
@@ -8725,7 +9319,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/8737",
       "role": "member"
@@ -8733,15 +9327,35 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/8741",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№50",
+      "end_date": "2015-06-17",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/8746",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№50",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/8746",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№50",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/8746",
       "role": "member"
@@ -8749,18 +9363,38 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/8757",
       "role": "member"
     },
     {
       "area_id": "area/Виборчому_округу_№195",
+      "end_date": "2015-03-05",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/8771",
       "role": "member"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№195",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/8771",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№195",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/8771",
+      "role": "member",
+      "start_date": "2015-03-06"
     },
     {
       "area_id": "area/Виборчому_округу_№46",
@@ -8773,7 +9407,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/8786",
       "role": "member"
@@ -8781,7 +9415,7 @@
     {
       "area_id": "area/Виборчому_округу_№113",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/8803",
       "role": "member"
@@ -8789,7 +9423,7 @@
     {
       "area_id": "area/Виборчому_округу_№125",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/8815",
       "role": "member"
@@ -8797,7 +9431,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Радикальної_партії_Олега_Ляшка",
+      "on_behalf_of_id": "2615",
       "organization_id": "legislature",
       "person_id": "person/8818",
       "role": "member"
@@ -8805,7 +9439,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "2616",
       "organization_id": "legislature",
       "person_id": "person/8826",
       "role": "member"
@@ -8821,7 +9455,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_політичної_партії_\"Всеукраїнське_об'єднання_\"Батьківщина\"_у_Верховній_Раді_України",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/8830",
       "role": "member"
@@ -8829,24 +9463,52 @@
     {
       "area_id": "area/Виборчому_округу_№168",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/8838",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№168",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/8838",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№168",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/8838",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
       "area_id": "area/Виборчому_округу_№176",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"Опозиційний_блок\"_у_Верховній_Раді_України_восьмого_скликання_",
+      "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "person/8885",
       "role": "member"
     },
     {
+      "area_id": "area/Виборчому_округу_№176",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2616",
+      "organization_id": "legislature",
+      "person_id": "person/8885",
+      "role": "member",
+      "start_date": "2015-05-15"
+    },
+    {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "end_date": "2015-06-04",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2617",
       "organization_id": "legislature",
       "person_id": "person/8889",
       "role": "member"
@@ -8854,7 +9516,7 @@
     {
       "area_id": "area/Виборчому_округу_№202",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/9123",
       "role": "member"
@@ -8862,7 +9524,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_Політичної_партії_\"НАРОДНИЙ_ФРОНТ\"",
+      "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "person/9540",
       "role": "member"
@@ -8870,7 +9532,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Фракція_ПАРТІЇ_\"БЛОК_ПЕТРА_ПОРОШЕНКА\"",
+      "on_behalf_of_id": "2613",
       "organization_id": "legislature",
       "person_id": "person/9684",
       "role": "member"
@@ -8878,7 +9540,27 @@
     {
       "area_id": "area/Виборчому_округу_№141",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Група_\"Партія_\"Відродження\"",
+      "on_behalf_of_id": "2846",
+      "organization_id": "legislature",
+      "person_id": "person/9776",
+      "role": "member",
+      "start_date": "2015-06-17"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№141",
+      "end_date": "2015-06-17",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2795",
+      "organization_id": "legislature",
+      "person_id": "person/9776",
+      "role": "member",
+      "start_date": "2015-03-06"
+    },
+    {
+      "area_id": "area/Виборчому_округу_№141",
+      "end_date": "2015-03-05",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2618",
       "organization_id": "legislature",
       "person_id": "person/9776",
       "role": "member"
