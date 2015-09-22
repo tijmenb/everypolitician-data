@@ -12,18 +12,15 @@ namespace :merge_sources do
   end
 
   desc "Combine Sources"
-  task 'sources/manual/members.csv' => :fetch_missing do
+  task 'sources/merged.csv' => :fetch_missing do
     combine_sources
   end
 
   @recreatable = instructions(:sources).find_all { |i| i.key? :create }
   CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
-  CLEAN.include 'sources/manual/instructions.json'
 
-  # For now, write the merged file to manual/members.csv so we can then
-  # fall-back on the old-style rake task that looks there
-  # TODO: consolidate these
-  CLEAN.include 'sources/manual/members.csv'
+  CLEAN.include 'sources/manual/members.csv' # old name. Remove this once all have been renamed
+  CLEAN.include 'sources/merged.csv'
 
   def morph_select(src, qs)
     morph_api_key = ENV['MORPH_API_KEY'] or fail 'Need a Morph API key'
@@ -263,8 +260,7 @@ namespace :merge_sources do
     end
     
     # Then write it all out
-    FileUtils.mkpath "sources/manual"
-    CSV.open("sources/manual/members.csv", "w") do |out|
+    CSV.open("sources/merged.csv", "w") do |out|
       out << all_headers
       all_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
     end

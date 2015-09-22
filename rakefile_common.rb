@@ -5,10 +5,10 @@
 
 # Step 1: combine_sources.rb
 # This takes all the incoming data (mostly as CSVs) and joins them
-# together into 'manual/members.csv'
+# together into 'sources/merged.csv'
 
 # Step 2: turn_csv_to_popolo
-# This turns the 'members.csv' into a 'sources/merged.json'
+# This turns the 'merged.csv' into a 'sources/merged.json'
 
 # Step 3: generate_ep_popolo
 # This turns the generic 'merged.json' into the EP-specific
