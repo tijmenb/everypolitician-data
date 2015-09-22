@@ -1,3 +1,22 @@
+
+# We take various steps to convert all the incoming data into the output
+# formats. Each of these steps uses a different rake_helper:
+#
+
+# Step 1: combine_sources.rb
+# This takes all the incoming data (mostly as CSVs) and joins them
+# together into 'sources/merged.csv'
+
+# Step 2: turn_csv_to_popolo
+# This turns the 'merged.csv' into a 'sources/merged.json'
+
+# Step 3: generate_ep_popolo
+# This turns the generic 'merged.json' into the EP-specific
+# 'ep-popolo.json' 
+
+# Step 4: generate_term_csvs
+# Generates term-by-term CSVs from the ep-popolo
+
 require 'colorize'
 require 'csv'
 require 'csv_to_popolo'
@@ -61,7 +80,8 @@ desc "Rebuild from source data"
 task :rebuild => [ :clobber, 'ep-popolo-v1.0.json' ]
 task :default => :csvs
 
-require_relative 'rakefile_csvs.rb'
-require_relative 'rakefile_local.rb'
-require_relative 'rakefile_merged.rb'
-require_relative 'rakefile_transform.rb'
+require_relative 'rake_helpers/combine_sources.rb'
+require_relative 'rake_helpers/turn_csv_to_popolo.rb'
+require_relative 'rake_helpers/generate_ep_popolo.rb'
+require_relative 'rake_helpers/generate_term_csvs.rb'
+

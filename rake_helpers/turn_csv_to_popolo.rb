@@ -7,8 +7,8 @@ namespace :whittle do
   file 'sources/merged.json' => :write 
   CLEAN.include('sources/merged.json')
 
-  task :load => 'merge_sources:sources/manual/members.csv' do
-    @json = Popolo::CSV.new('sources/manual/members.csv').data
+  task :load => 'merge_sources:sources/merged.csv' do
+    @json = Popolo::CSV.new('sources/merged.csv').data
   end
 
   task :meta_info => :load do
