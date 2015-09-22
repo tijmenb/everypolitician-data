@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/palau-2012-election",
+        "query": "SELECT * FROM data WHERE won = 'yes'"
+      },
+      "source": "http://www.oceaniatv.net/republic-of-palau-2012-elections-candidates/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
