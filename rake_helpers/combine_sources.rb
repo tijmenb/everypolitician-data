@@ -143,16 +143,6 @@ namespace :merge_sources do
 
   end
 
-  def csv_table(file)
-    rows = []
-    CSV.table(file, converters: nil).each do |row|
-      # Need to make a copy in case there are multiple source columns
-      # mapping to the same term (e.g. with areas)
-      rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
-    end
-    rows
-  end
-
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
 
