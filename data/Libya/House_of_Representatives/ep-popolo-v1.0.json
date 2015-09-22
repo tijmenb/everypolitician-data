@@ -1,21 +1,6 @@
 {
   "persons": [
     {
-      "id": "person/_muhammed_alfitouri_alhanish",
-      "image": "https://www.temehu.com/pictures1/hor11/1315-zawiyah.jpg",
-      "images": [
-        {
-          "url": "https://www.temehu.com/pictures1/hor11/1315-zawiyah.jpg"
-        }
-      ],
-      "name": " Muhammed Alfitouri Alhanish",
-      "sources": [
-        {
-          "url": "https://www.temehu.com/house-of-representatives.htm"
-        }
-      ]
-    },
-    {
       "id": "person/abdulaghani_hasan_milad_altoumi",
       "image": "https://www.temehu.com/pictures2/hor12/550-wadi-shathi.jpg",
       "images": [
@@ -1891,6 +1876,21 @@
       ]
     },
     {
+      "id": "person/muhammed_alfitouri_alhanish",
+      "image": "https://www.temehu.com/pictures1/hor11/1315-zawiyah.jpg",
+      "images": [
+        {
+          "url": "https://www.temehu.com/pictures1/hor11/1315-zawiyah.jpg"
+        }
+      ],
+      "name": "Muhammed Alfitouri Alhanish",
+      "sources": [
+        {
+          "url": "https://www.temehu.com/house-of-representatives.htm"
+        }
+      ]
+    },
+    {
       "id": "person/muhammed_alhadi_ben_khalil",
       "image": "https://www.temehu.com/pictures1/hor11/khalil-benhashmi-ali.jpg",
       "images": [
@@ -2581,14 +2581,14 @@
       ]
     },
     {
-      "id": "person/sarah_amer_abduljalil_alsweih_",
+      "id": "person/sarah_amer_abduljalil_alsweih",
       "image": "https://www.temehu.com/pictures3/hor13/870-janzur.jpg",
       "images": [
         {
           "url": "https://www.temehu.com/pictures3/hor13/870-janzur.jpg"
         }
       ],
-      "name": "Sarah Amer Abduljalil Alsweih ",
+      "name": "Sarah Amer Abduljalil Alsweih",
       "sources": [
         {
           "url": "https://www.temehu.com/house-of-representatives.htm"
@@ -2859,14 +2859,6 @@
     "source": "https://morph.io/tmtmtmtm/libya-house-of-representatives"
   },
   "memberships": [
-    {
-      "area_id": "area/zawia",
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/_muhammed_alfitouri_alhanish",
-      "role": "member"
-    },
     {
       "area_id": "area/wadi_ashathi",
       "end_date": "2014-08-04",
@@ -3872,6 +3864,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/zawia",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/muhammed_alfitouri_alhanish",
+      "role": "member"
+    },
+    {
       "area_id": "area/zliten",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/independent",
@@ -4245,7 +4245,7 @@
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/sarah_amer_abduljalil_alsweih_",
+      "person_id": "person/sarah_amer_abduljalil_alsweih",
       "role": "member"
     },
     {
