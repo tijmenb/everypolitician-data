@@ -19,7 +19,6 @@ namespace :merge_sources do
   @recreatable = instructions(:sources).find_all { |i| i.key? :create }
   CLOBBER.include FileList.new(@recreatable.map { |i| i[:file] })
 
-  CLEAN.include 'sources/manual/members.csv' # old name. Remove this once all have been renamed
   CLEAN.include 'sources/merged.csv'
 
   def morph_select(src, qs)
