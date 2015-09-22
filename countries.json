@@ -5513,6 +5513,32 @@
     ]
   },
   {
+    "name": "Palau",
+    "country": "Palau",
+    "code": "PW",
+    "slug": "Palau",
+    "legislatures": [
+      {
+        "name": "House of Delegates",
+        "slug": "House-of-Delegates",
+        "sources_directory": "data/Palau/House_of_Delegates/sources",
+        "popolo": "data/Palau/House_of_Delegates/ep-popolo-v1.0.json",
+        "lastmod": "1442942468",
+        "person_count": 40,
+        "sha": "dd0f3c8",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "Ninth Olbiil Era Kelulau",
+            "start_date": "2013",
+            "slug": "2012",
+            "csv": "data/Palau/House_of_Delegates/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Panama",
     "country": "Panama",
     "code": "PA",
