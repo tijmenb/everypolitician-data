@@ -1,4 +1,9 @@
 
+class String
+  def tidy
+    self.gsub(/[[:space:]]+/, ' ').strip
+  end
+end
 
 namespace :merge_sources do
 
@@ -147,7 +152,7 @@ namespace :merge_sources do
     CSV.table(file, converters: nil).each do |row|
       # Need to make a copy in case there are multiple source columns
       # mapping to the same term (e.g. with areas)
-      rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h] ] } ]
+      rows << Hash[ row.headers.each.map { |h| [ remap(h), row[h].nil? ? nil : row[h].tidy ] } ]
     end
     rows
   end
