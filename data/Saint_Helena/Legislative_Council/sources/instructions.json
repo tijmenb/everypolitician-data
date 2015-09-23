@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-helena-election-2013",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/wiki/Saint_Helena_general_election,_2013",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/saint-helena-legislative-council",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.sainthelena.gov.sh/your-council/",
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 60,
+        "amatch_warning": 80
+      }
+    }
+  ]
+}

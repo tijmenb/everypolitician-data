@@ -3596,9 +3596,9 @@
         "slug": "House",
         "sources_directory": "data/Italy/House/sources",
         "popolo": "data/Italy/House/ep-popolo-v1.0.json",
-        "lastmod": "1442931581",
+        "lastmod": "1443007354",
         "person_count": 630,
-        "sha": "2971101",
+        "sha": "bcd5c72",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -5988,6 +5988,32 @@
             "start_date": "2012",
             "slug": "2012",
             "csv": "data/Saint_Barthelemy/Council/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Saint Helena",
+    "country": "Saint Helena",
+    "code": "SH",
+    "slug": "Saint-Helena",
+    "legislatures": [
+      {
+        "name": "Legislative Council",
+        "slug": "Legislative-Council",
+        "sources_directory": "data/Saint_Helena/Legislative_Council/sources",
+        "popolo": "data/Saint_Helena/Legislative_Council/ep-popolo-v1.0.json",
+        "lastmod": "1443024700",
+        "person_count": 12,
+        "sha": "bccaa28",
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013-07-17",
+            "slug": "2013",
+            "csv": "data/Saint_Helena/Legislative_Council/term-2013.csv"
           }
         ]
       }
