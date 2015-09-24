@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "Abbie2020/sri_lanka_members_of_parliament",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.parliament.lk",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
