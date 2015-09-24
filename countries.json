@@ -6780,6 +6780,32 @@
     ]
   },
   {
+    "name": "Sri Lanka",
+    "country": "Sri Lanka",
+    "code": "LK",
+    "slug": "Sri-Lanka",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Sri_Lanka/Parliament/sources",
+        "popolo": "data/Sri_Lanka/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1443081606",
+        "person_count": 226,
+        "sha": "8aea022",
+        "legislative_periods": [
+          {
+            "id": "term/15",
+            "name": "15th Parliament",
+            "start_date": "2015-09-01",
+            "slug": "15",
+            "csv": "data/Sri_Lanka/Parliament/term-15.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Suriname",
     "country": "Suriname",
     "code": "SR",
