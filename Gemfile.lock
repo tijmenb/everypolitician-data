@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: 652316baa09c0bfb77decc57940019a8a94f2e9d
+  revision: b5985ec2708b94ed3aa95939494b37b7dc732b35
   specs:
-    csv_to_popolo (0.12.1)
+    csv_to_popolo (0.13.0)
       json
 
 GEM
@@ -30,7 +30,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (>= 0.12.1)!
+  csv_to_popolo (>= 0.13.0)!
   fuzzy_match
   iso_country_codes
   json
