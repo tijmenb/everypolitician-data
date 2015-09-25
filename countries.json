@@ -4791,6 +4791,32 @@
     ]
   },
   {
+    "name": "Myanmar",
+    "country": "Myanmar",
+    "code": "MM",
+    "slug": "Myanmar",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Myanmar/House_of_Representatives/sources",
+        "popolo": "data/Myanmar/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1443174104",
+        "person_count": 314,
+        "sha": "897d940",
+        "legislative_periods": [
+          {
+            "id": "term/1",
+            "name": "1st Pyithu Hluttaw",
+            "start_date": "2011-01-31",
+            "slug": "1",
+            "csv": "data/Myanmar/House_of_Representatives/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Namibia",
     "country": "Namibia",
     "code": "NA",
