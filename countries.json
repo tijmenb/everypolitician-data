@@ -7274,6 +7274,32 @@
     ]
   },
   {
+    "name": "Transnistria",
+    "country": "Transnistria",
+    "code": "MD-PMR",
+    "slug": "Transnistria",
+    "legislatures": [
+      {
+        "name": "Supreme Council",
+        "slug": "Supreme-Council",
+        "sources_directory": "data/Transnistria/Supreme_Council/sources",
+        "popolo": "data/Transnistria/Supreme_Council/ep-popolo-v1.0.json",
+        "lastmod": "1443285189",
+        "person_count": 42,
+        "sha": "acd0859",
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "5th Convocation",
+            "start_date": "2010",
+            "slug": "5",
+            "csv": "data/Transnistria/Supreme_Council/term-5.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tunisia",
     "country": "Tunisia",
     "code": "TN",
