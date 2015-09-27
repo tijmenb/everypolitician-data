@@ -3134,6 +3134,33 @@
     ]
   },
   {
+    "name": "Honduras",
+    "country": "Honduras",
+    "code": "HN",
+    "slug": "Honduras",
+    "legislatures": [
+      {
+        "name": "National Congress",
+        "slug": "Congreso-Nacional",
+        "sources_directory": "data/Honduras/Congreso_Nacional/sources",
+        "popolo": "data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
+        "lastmod": "1443374757",
+        "person_count": 128,
+        "sha": "d0b4c00",
+        "legislative_periods": [
+          {
+            "end_date": "2018",
+            "id": "term/8",
+            "name": "VIII Legislatura",
+            "start_date": "2014",
+            "slug": "8",
+            "csv": "data/Honduras/Congreso_Nacional/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Hong Kong",
     "country": "Hong Kong",
     "code": "HK",
