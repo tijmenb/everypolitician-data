@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/honduras-national-congress-wikipedia",
+        "query": "SELECT *, 8 AS term FROM data"
+      },
+      "source": "https://es.wikipedia.org/wiki/Anexo:Diputados_del_Congreso_Nacional_de_Honduras_2014-2018",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/honduras-national-congress-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__es",
+        "existing_field": "wikiname"
+      }
+    }
+  ]
+}
