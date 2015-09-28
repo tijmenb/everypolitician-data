@@ -7594,6 +7594,67 @@
       "sort_name": "Davis, Danny"
     },
     {
+      "birth_date": "1968-07-05",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "202-225-6201"
+        }
+      ],
+      "family_name": "LaHood",
+      "gender": "male",
+      "given_name": "Darin",
+      "id": "person/L000585",
+      "identifiers": [
+        {
+          "identifier": "L000585",
+          "scheme": "bioguide"
+        },
+        {
+          "identifier": "412674",
+          "scheme": "govtrack"
+        },
+        {
+          "identifier": "128760",
+          "scheme": "votesmart"
+        },
+        {
+          "identifier": "H6IL18088",
+          "scheme": "fec"
+        },
+        {
+          "identifier": "Darin LaHood",
+          "scheme": "wikipedia"
+        },
+        {
+          "identifier": "15032425053",
+          "scheme": "house_history"
+        },
+        {
+          "identifier": "Darin LaHood",
+          "scheme": "ballotpedia"
+        },
+        {
+          "identifier": "2164",
+          "scheme": "maplight"
+        }
+      ],
+      "image": "https://theunitedstates.io/images/congress/original/L000585.jpg",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/L000585.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://lahood.house.gov/"
+        }
+      ],
+      "name": "Darin LaHood",
+      "sort_name": "LaHood, Darin"
+    },
+    {
       "birth_date": "1953-11-01",
       "contact_details": [
         {
@@ -42097,6 +42158,15 @@
       "role": "member"
     },
     {
+      "area_id": "ocd-division/country:us/state:il/cd:18",
+      "legislative_period_id": "term/114",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "person/L000585",
+      "role": "member",
+      "start_date": "2015-09-17"
+    },
+    {
       "area_id": "ocd-division/country:us/state:ny/cd:12",
       "legislative_period_id": "term/114",
       "on_behalf_of_id": "party/democrat",
@@ -44389,6 +44459,11 @@
     {
       "id": "ocd-division/country:us/state:il/cd:17",
       "name": "Illinois's 17th congressional district",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:us/state:il/cd:18",
+      "name": "Illinois's 18th congressional district",
       "type": "constituency"
     },
     {
