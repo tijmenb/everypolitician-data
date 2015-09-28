@@ -3016,6 +3016,12 @@
       "gender": "male",
       "given_name": "Francie",
       "id": "person/13836",
+      "identifiers": [
+        {
+          "identifier": "commons/francie-molloy/4274",
+          "scheme": "parliamentdotuk"
+        }
+      ],
       "name": "Francie Molloy",
       "other_names": [
         {
@@ -4571,6 +4577,12 @@
         {
           "identifier": "28512",
           "scheme": "europarlmep"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/JimAllister.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/JimAllister.jpg"
         }
       ],
       "name": "Jim Allister",
@@ -8223,6 +8235,12 @@
       "gender": "male",
       "given_name": "Peter",
       "id": "person/13870",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Peter_Weir_MLA.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Peter_Weir_MLA.jpg"
+        }
+      ],
       "name": "Peter Weir",
       "other_names": [
         {
