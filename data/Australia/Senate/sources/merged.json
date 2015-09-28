@@ -40,16 +40,6 @@
       "name": "Senator Anne McEwen"
     },
     {
-      "id": "person/243273",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg"
-        }
-      ],
-      "name": "Senator Anne Ruston"
-    },
-    {
       "email": "senator.urquhart@aph.gov.au",
       "id": "person/231199",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/231199/upload_ref_binary/231199.jpg",
@@ -384,28 +374,6 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "http://twitter.com/JamesMcGrathLNP"
-        }
-      ],
-      "id": "person/217241",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217241/upload_ref_binary/217241.jpg",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217241/upload_ref_binary/217241.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/JamesMcGrathLNP?fref=ts"
-        }
-      ],
-      "name": "Senator James McGrath"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "twitter",
           "value": "http://twitter.com/janet_rice"
         }
       ],
@@ -446,6 +414,12 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.joannalindgren.com.au/"
         }
       ],
       "name": "Senator Jo Lindgren"
@@ -746,6 +720,15 @@
       "name": "Senator Ricky Muir"
     },
     {
+      "id": "person/170166",
+      "images": [
+        {
+          "url": ""
+        }
+      ],
+      "name": "Senator Robert Simms"
+    },
+    {
       "id": "person/225099",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225099/upload_ref_binary/225099.jpg",
       "images": [
@@ -868,6 +851,16 @@
         }
       ],
       "name": "Senator Zhenya Wang"
+    },
+    {
+      "id": "person/243273",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg"
+        }
+      ],
+      "name": "Senator the Hon Anne Ruston"
     },
     {
       "email": "senator.sinodinos@aph.gov.au",
@@ -1049,6 +1042,28 @@
         }
       ],
       "name": "Senator the Hon Jacinta Collins"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "http://twitter.com/JamesMcGrathLNP"
+        }
+      ],
+      "id": "person/217241",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217241/upload_ref_binary/217241.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217241/upload_ref_binary/217241.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JamesMcGrathLNP?fref=ts"
+        }
+      ],
+      "name": "Senator the Hon James McGrath"
     },
     {
       "email": "senator.mclucas@aph.gov.au",
@@ -1578,6 +1593,14 @@
       "on_behalf_of_id": "australian_greens",
       "organization_id": "legislature",
       "person_id": "person/155410",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_australia",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_greens",
+      "organization_id": "legislature",
+      "person_id": "person/170166",
       "role": "member"
     },
     {

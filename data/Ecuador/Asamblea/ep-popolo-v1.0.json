@@ -2005,6 +2005,12 @@
           "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-255-1394720192.png?itok=RRiMRnJ2"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rocio.albantorres"
+        }
+      ],
       "name": "Mariana del Rocío Albán Torres",
       "sources": [
         {
@@ -3010,6 +3016,28 @@
       "contact_details": [
         {
           "type": "twitter",
+          "value": "http://twitter.com/@renecazat"
+        }
+      ],
+      "gender": "male",
+      "id": "person/15395",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15395-1443036437.jpg?itok=vwWTWmuo",
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15395-1443036437.jpg?itok=vwWTWmuo"
+        }
+      ],
+      "name": "René Caza",
+      "sources": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/blogs/renecaza"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "twitter",
           "value": "http://twitter.com/@RichardImbabura"
         }
       ],
@@ -3143,10 +3171,10 @@
       ],
       "gender": "female",
       "id": "person/256",
-      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-256-1413310054.jpg?itok=YDAvFSon",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-256-1443115864.jpg?itok=h0SB7gWK",
       "images": [
         {
-          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-256-1413310054.jpg?itok=YDAvFSon"
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-256-1443115864.jpg?itok=h0SB7gWK"
         }
       ],
       "links": [
@@ -3494,10 +3522,10 @@
       ],
       "gender": "female",
       "id": "person/267",
-      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-267-1441750180.jpg?itok=5MR0-5sI",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-267-1442101227.jpg?itok=AIQc85Tu",
       "images": [
         {
-          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-267-1441750180.jpg?itok=5MR0-5sI"
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-267-1442101227.jpg?itok=AIQc85Tu"
         }
       ],
       "links": [
@@ -3910,6 +3938,14 @@
       "on_behalf_of_id": "party/alianza_pais",
       "organization_id": "legislature",
       "person_id": "person/15336",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pichincha",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/alianza_pais",
+      "organization_id": "legislature",
+      "person_id": "person/15395",
       "role": "member"
     },
     {
