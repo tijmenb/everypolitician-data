@@ -1508,6 +1508,32 @@
     ]
   },
   {
+    "name": "Comoros",
+    "country": "Comoros",
+    "code": "KM",
+    "slug": "Comoros",
+    "legislatures": [
+      {
+        "name": "Assembly of the Union",
+        "slug": "Assembly",
+        "sources_directory": "data/Comoros/Assembly/sources",
+        "popolo": "data/Comoros/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1443428666",
+        "person_count": 24,
+        "sha": "93864b1",
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Comoros/Assembly/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Congo-Brazzaville",
     "country": "Congo-Brazzaville",
     "code": "CG",
