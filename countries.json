@@ -4002,6 +4002,33 @@
     ]
   },
   {
+    "name": "Lebanon",
+    "country": "Lebanon",
+    "code": "LB",
+    "slug": "Lebanon",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Lebanon/Parliament/sources",
+        "popolo": "data/Lebanon/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1443511566",
+        "person_count": 128,
+        "sha": "25c2c54",
+        "legislative_periods": [
+          {
+            "end_date": "2017-06-20",
+            "id": "term/2009",
+            "name": "2009–2017",
+            "start_date": "2009",
+            "slug": "2009",
+            "csv": "data/Lebanon/Parliament/term-2009.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Lesotho",
     "country": "Lesotho",
     "code": "LS",
