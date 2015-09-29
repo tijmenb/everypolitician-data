@@ -11,6 +11,20 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/turkey-tbmm-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__tr",
+        "existing_field": "wikipedia__tk"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
