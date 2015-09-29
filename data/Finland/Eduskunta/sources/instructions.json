@@ -11,22 +11,6 @@
       "type": "membership"
     },
     {
-      "file": "morph/wikidata.csv",
-      "create": {
-        "type": "morph",
-        "scraper": "tmtmtmtm/finland-eduskunta-wikidata",
-        "query": "SELECT * FROM data"
-      },
-      "source": "http://wikidata.org/",
-      "type": "wikidata",
-      "merge": { 
-        "incoming_field": "name",
-        "existing_field": "name",
-        "amatch_threshold": 48,
-        "amatch_warning": 80
-      }
-    },
-    {
       "file": "morph/terms.csv",
       "create": {
         "type": "morph",
