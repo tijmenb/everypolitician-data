@@ -27,6 +27,20 @@
       }
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/uk-house-of-commons-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikiname"
+      }
+    },
+    {
       "file": "manual/emails.csv",
       "type": "person",
       "merge": { 
