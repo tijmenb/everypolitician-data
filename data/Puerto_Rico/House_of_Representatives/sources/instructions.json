@@ -11,6 +11,22 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/puerto-rico-house-of-representatives-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 45,
+        "amatch_warning": 70
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
