@@ -3924,6 +3924,32 @@
     ]
   },
   {
+    "name": "Kuwait",
+    "country": "Kuwait",
+    "code": "KW",
+    "slug": "Kuwait",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Kuwait/National_Assembly/sources",
+        "popolo": "data/Kuwait/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1443598191",
+        "person_count": 45,
+        "sha": "2261c3d",
+        "legislative_periods": [
+          {
+            "id": "term/14",
+            "name": "14th Legislative Session",
+            "start_date": "2013-08-06",
+            "slug": "14",
+            "csv": "data/Kuwait/National_Assembly/term-14.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Kyrgyzstan",
     "country": "Kyrgyzstan",
     "code": "KG",
