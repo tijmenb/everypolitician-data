@@ -8063,6 +8063,32 @@
     ]
   },
   {
+    "name": "Wallis and Futuna",
+    "country": "Wallis and Futuna",
+    "code": "WF",
+    "slug": "Wallis-and-Futuna",
+    "legislatures": [
+      {
+        "name": "Territorial Assembly",
+        "slug": "Territorial-Assembly",
+        "sources_directory": "data/Wallis_and_Futuna/Territorial_Assembly/sources",
+        "popolo": "data/Wallis_and_Futuna/Territorial_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1443701084",
+        "person_count": 20,
+        "sha": "51798a8",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Wallis_and_Futuna/Territorial_Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Yemen",
     "country": "Yemen",
     "code": "YE",
