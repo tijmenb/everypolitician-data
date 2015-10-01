@@ -18,7 +18,7 @@
 # This turns the generic 'merged.json' into the EP-specific
 # 'ep-popolo.json' 
 
-# Step 5: generate_term_csvs
+# Step 5: generate_final_csvs
 # Generates term-by-term CSVs from the ep-popolo
 
 require 'colorize'
@@ -98,5 +98,5 @@ require_relative 'rake_helpers/combine_sources.rb'
 require_relative 'rake_helpers/verify_source_data.rb'
 require_relative 'rake_helpers/turn_csv_to_popolo.rb'
 require_relative 'rake_helpers/generate_ep_popolo.rb'
-require_relative 'rake_helpers/generate_term_csvs.rb'
+require_relative 'rake_helpers/generate_final_csvs.rb'
 
