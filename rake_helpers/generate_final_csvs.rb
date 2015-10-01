@@ -1,8 +1,8 @@
 
 desc "Build the term-table CSVs"
-task :csvs => ['term_csvs:term_tables']
+task :csvs => ['term_csvs:term_tables', 'term_csvs:name_list']
 
-CLEAN.include('term-*.csv')
+CLEAN.include('term-*.csv', 'names.csv')
 
 namespace :term_csvs do
 
@@ -99,6 +99,20 @@ namespace :term_csvs do
       warn "Creating #{filename}"
       File.write(filename, csv)
     end
+  end
+
+  task :name_list => :term_tables do
+    names = @json[:persons].map { |p|
+      nameset = Set.new([p[:name]])
+      nameset.merge (p[:other_names] || []).map { |n| n[:name] }
+      nameset.map { |n| [n, p[:id].split('/').last] }
+    }.flatten(1).sort_by { |name, id| name }
+
+    filename = "names.csv"
+    header = %w(name id).to_csv
+    csv    = [header, names.map(&:to_csv)].compact.join
+    warn "Creating #{filename}"
+    File.write(filename, csv)
   end
 
 end
