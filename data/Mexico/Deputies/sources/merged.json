@@ -16498,7 +16498,10 @@
     }
   ],
   "meta": {
-    "source": "http://sitl.diputados.gob.mx/LXII_leg/listado_diputados_gpnp.php?tipot=TOTAL"
+    "sources": [
+      "http://sitl.diputados.gob.mx/LXII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
+      "http://sitl.diputados.gob.mx/LXIII_leg/listado_diputados_gpnp.php?tipot=TOTAL"
+    ]
   },
   "memberships": [
     {

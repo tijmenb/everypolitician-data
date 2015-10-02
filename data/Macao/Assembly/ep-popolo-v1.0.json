@@ -1214,7 +1214,10 @@
     }
   ],
   "meta": {
-    "source": "http://www.al.gov.mo/"
+    "sources": [
+      "http://www.al.gov.mo/",
+      "https://www.wikidata.org/"
+    ]
   },
   "memberships": [
     {
