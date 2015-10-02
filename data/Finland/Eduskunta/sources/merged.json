@@ -25276,6 +25276,11 @@
           "lang": "de",
           "name": "Toimi Kankaanniemi",
           "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Toimi Kankaanniemi",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Kankaanniemi Toimi",
@@ -26832,7 +26837,10 @@
     }
   ],
   "meta": {
-    "source": "http://kansanmuisti.fi/"
+    "sources": [
+      "http://kansanmuisti.fi/",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {
