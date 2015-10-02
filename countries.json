@@ -37,9 +37,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Albania/Assembly/sources",
         "popolo": "data/Albania/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1443788806",
-        "person_count": 140,
-        "sha": "4ba7f07",
+        "lastmod": "1443809664",
+        "person_count": 199,
+        "sha": "6aa003f",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -47,6 +47,14 @@
             "start_date": "2013",
             "slug": "8",
             "csv": "data/Albania/Assembly/term-8.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/7",
+            "name": "Legislature VII",
+            "start_date": "2009",
+            "slug": "7",
+            "csv": "data/Albania/Assembly/term-7.csv"
           }
         ]
       }
