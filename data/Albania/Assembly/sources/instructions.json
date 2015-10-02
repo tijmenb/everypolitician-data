@@ -1,13 +1,13 @@
 {
   "sources": [
     {
-      "file": "morph/official-8.csv",
+      "file": "morph/wikipedia-8.csv",
       "create": {
         "type": "morph",
-        "scraper": "tmtmtmtm/albania-kuvendi",
-        "query": "SELECT name,image,birth_date,area,faction,term,source,id AS identifier__kuvendi FROM data"
+        "scraper": "tmtmtmtm/albania-kuvendi-wikipedia",
+        "query": "SELECT * FROM data"
       },
-      "source": "http://www.parlament.al/",
+      "source": "https://en.wikipedia.org/",
       "type": "membership"
     },
     {
@@ -19,6 +19,22 @@
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
+    },
+    {
+      "file": "morph/official-8.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/albania-kuvendi",
+        "query": "SELECT name,image,birth_date,area,faction,term,source AS homepage,id AS identifier__kuvendi FROM data"
+      },
+      "source": "http://www.parlament.al/",
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "amatch_threshold": 70,
+        "amatch_warning": 85
+      }
     },
     {
       "file": "morph/wikidata.csv",
