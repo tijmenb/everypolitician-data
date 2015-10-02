@@ -731,6 +731,7 @@
     {
       "birth_date": "1950-01-01",
       "gender": "male",
+      "given_name": "Ömer",
       "id": "person/Q20669153",
       "name": "Ömer Kalyoncu",
       "other_names": [
@@ -1245,7 +1246,9 @@
     }
   ],
   "meta": {
-    "source": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+    "sources": [
+      "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+    ]
   },
   "memberships": [
     {
