@@ -15346,6 +15346,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "於利·毛雷爾",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Ueli Maurer",
           "note": "multilingual"
@@ -17620,7 +17625,10 @@
     }
   ],
   "meta": {
-    "source": "http://ws.parlament.ch"
+    "sources": [
+      "http://ws.parlament.ch",
+      "https://www.wikidata.org/"
+    ]
   },
   "memberships": [
     {
