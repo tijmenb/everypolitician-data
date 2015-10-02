@@ -9730,6 +9730,11 @@
           "lang": "en",
           "name": "Sophie Wilmes",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sophie Wilmès",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Wilmès Sophie",
@@ -11316,6 +11321,12 @@
       "birth_date": "1976-01-15",
       "gender": "female",
       "id": "person/Q3574660",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Zakia_Khattabi_et_Patrick_Dupriez_-_débat_élection_coprésidence_Écolo_-_Charleroi_mars_2015_-_1.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Zakia_Khattabi_et_Patrick_Dupriez_-_débat_élection_coprésidence_Écolo_-_Charleroi_mars_2015_-_1.jpg"
+        }
+      ],
       "name": "Zakia Khattabi",
       "other_names": [
         {
@@ -11549,7 +11560,10 @@
     }
   ],
   "meta": {
-    "source": "https://nl.wikipedia.org/"
+    "sources": [
+      "https://nl.wikipedia.org/",
+      "http://www.lachambre.be/"
+    ]
   },
   "memberships": [
     {
