@@ -5081,6 +5081,11 @@
           "lang": "ast",
           "name": "Andrzej Duda",
           "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "อันด์แชย์ ดูดา",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -7593,8 +7598,28 @@
       "id": "person/andrzej-wielowieyski",
       "identifiers": [
         {
+          "identifier": "101863453",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "no2007098693",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "93543",
           "scheme": "europarlmep"
+        },
+        {
+          "identifier": "0000 0000 7911 1686",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "1019540346",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n 96103937",
+          "scheme": "nukat"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Andrzej_Wielowieyski_Senat_RP_02.JPG",
@@ -14736,6 +14761,11 @@
           "lang": "kaa",
           "name": "Bronislav Komorovski",
           "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "บรอญิสวัฟ กอมอรอฟสกี",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -17842,6 +17872,11 @@
         {
           "lang": "ne",
           "name": "डोनाल्ड टस्क",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ดอนัลต์ ตุสก์",
           "note": "multilingual"
         }
       ],
@@ -35710,6 +35745,10 @@
         {
           "identifier": "16135351q",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "nm0270205",
+          "scheme": "imdb"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jerzy_Fedorowicz_Sejm_2014_011.JPG",
@@ -51139,6 +51178,7 @@
       ]
     },
     {
+      "birth_date": "1963-12-09",
       "gender": "male",
       "given_name": "Marek",
       "id": "person/marek-kaczyński",
@@ -62320,6 +62360,11 @@
         {
           "lang": "bg",
           "name": "Радослав Сикорски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Radosław Sikorski",
           "note": "multilingual"
         },
         {
@@ -78705,6 +78750,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Władysław Reichelt",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Władysław Reichelt",
           "note": "multilingual"
@@ -78836,6 +78886,7 @@
       ]
     },
     {
+      "death_date": "2015-09-27",
       "gender": "male",
       "given_name": "Władysław",
       "id": "person/władysław-szkop",
@@ -83805,7 +83856,10 @@
     }
   ],
   "meta": {
-    "source": "https://pl.wikipedia.org/wiki/Sejm_Rzeczypospolitej_Polskiej"
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Sejm_Rzeczypospolitej_Polskiej",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {
