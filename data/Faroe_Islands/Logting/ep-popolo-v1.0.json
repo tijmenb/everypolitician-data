@@ -75,6 +75,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "阿克塞爾·V·約翰森",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "アクセル・ヨハネセン",
           "note": "multilingual"
@@ -4663,7 +4668,10 @@
     }
   ],
   "meta": {
-    "source": "https://fo.wikipedia.org/"
+    "sources": [
+      "https://fo.wikipedia.org/",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {

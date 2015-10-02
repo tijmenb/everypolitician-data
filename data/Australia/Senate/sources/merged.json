@@ -721,9 +721,10 @@
     },
     {
       "id": "person/170166",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg",
       "images": [
         {
-          "url": ""
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg"
         }
       ],
       "name": "Senator Robert Simms"
@@ -1480,7 +1481,9 @@
     }
   ],
   "meta": {
-    "source": "https://morph.io/openaustralia/aus_mp_contact_details"
+    "sources": [
+      "https://morph.io/openaustralia/aus_mp_contact_details"
+    ]
   },
   "memberships": [
     {

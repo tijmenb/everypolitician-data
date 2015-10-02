@@ -931,7 +931,10 @@
     }
   ],
   "meta": {
-    "source": "https://en.wikipedia.org"
+    "sources": [
+      "https://en.wikipedia.org",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {

@@ -2302,6 +2302,11 @@
           "lang": "ro",
           "name": "Lydie Polfer",
           "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λίντι Πόλφερ",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -3846,7 +3851,10 @@
     }
   ],
   "meta": {
-    "source": "http://www.chd.lu"
+    "sources": [
+      "http://www.chd.lu",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {

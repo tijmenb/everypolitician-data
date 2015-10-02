@@ -1336,7 +1336,10 @@
     }
   ],
   "meta": {
-    "source": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+    "sources": [
+      "http://www.congres.nc/assemblee/les-elus/?panel=5",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {

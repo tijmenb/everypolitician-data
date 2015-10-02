@@ -2261,11 +2261,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "http://www.facebook.com/profile.php?id=100001833476620"
+          "url": "https://www.facebook.com/brucebillsonMP"
         },
         {
           "note": "website",
-          "url": "http://www.billson4dunkley.com/"
+          "url": "http://www.brucebillson.com.au/"
         },
         {
           "note": "wikipedia",
@@ -14792,10 +14792,10 @@
           "scheme": "aph"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2X/upload_ref_binary/m2x.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2X/upload_ref_binary/M2X.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2X/upload_ref_binary/m2x.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M2X/upload_ref_binary/M2X.jpg"
         }
       ],
       "links": [
@@ -14898,7 +14898,11 @@
     }
   ],
   "meta": {
-    "source": "http://data.openaustralia.org/"
+    "sources": [
+      "http://data.openaustralia.org/",
+      "https://morph.io/openaustralia/aus_mp_contact_details",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {

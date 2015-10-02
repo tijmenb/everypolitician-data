@@ -3976,6 +3976,12 @@
     },
     {
       "id": "person/awang_adek_hussin",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Awang_Adek_Hussin"
+        }
+      ],
       "name": "Awang Adek Hussin"
     },
     {
@@ -28564,7 +28570,10 @@
     }
   ],
   "meta": {
-    "source": "https://en.wikipedia.org/"
+    "sources": [
+      "https://en.wikipedia.org/",
+      "http://wikidata.org/"
+    ]
   },
   "memberships": [
     {

@@ -7573,7 +7573,9 @@
     }
   ],
   "meta": {
-    "source": "https://morph.io/tmtmtmtm/kosovo-parldata"
+    "sources": [
+      "https://morph.io/tmtmtmtm/kosovo-parldata"
+    ]
   },
   "memberships": [
     {
@@ -7586,6 +7588,14 @@
       "start_date": "2007-12-13"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AdemGrabovci",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -7593,14 +7603,6 @@
       "person_id": "person/mp_AdemGrabovci",
       "role": "member",
       "start_date": "2010-12-12"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AdemGrabovci",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "end_date": "2010-11-03",
@@ -7629,6 +7631,14 @@
       "start_date": "2014-07-17"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AdemSalihaj",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_26",
@@ -7636,14 +7646,6 @@
       "person_id": "person/mp_AdemSalihaj",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AdemSalihaj",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "end_date": "2007-12-12",
@@ -7706,15 +7708,6 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AgimKrasniqi",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_7",
@@ -7722,6 +7715,15 @@
       "person_id": "person/mp_AgimKrasniqi",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AgimKrasniqi",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -7741,15 +7743,6 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_45",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AhmetIsufi",
-      "role": "member",
-      "start_date": "2010-12-12"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_29",
@@ -7757,6 +7750,15 @@
       "person_id": "person/mp_AhmetIsufi",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_45",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AhmetIsufi",
+      "role": "member",
+      "start_date": "2010-12-12"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -7811,14 +7813,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_56",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AlbulenaHaxhiu",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_40",
@@ -7826,6 +7820,14 @@
       "person_id": "person/mp_AlbulenaHaxhiu",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_56",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AlbulenaHaxhiu",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2004-11-23",
@@ -7846,21 +7848,13 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_44",
       "organization_id": "legislature",
       "person_id": "person/mp_AliSadriu",
       "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AliSadriu",
-      "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2010-12-12"
     },
     {
       "end_date": "2007-12-12",
@@ -7872,13 +7866,21 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_44",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
       "organization_id": "legislature",
       "person_id": "person/mp_AliSadriu",
       "role": "member",
-      "start_date": "2010-12-12"
+      "start_date": "2014-07-17"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AliSadriu",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -7943,6 +7945,14 @@
       "start_date": "2007-12-13"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AntonQuni",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
@@ -7950,14 +7960,6 @@
       "person_id": "person/mp_AntonQuni",
       "role": "member",
       "start_date": "2010-12-12"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AntonQuni",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "end_date": "2014-05-07",
@@ -7975,6 +7977,15 @@
       "person_id": "person/mp_ArbenGashi",
       "role": "member",
       "start_date": "2014-07-17"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_29",
+      "organization_id": "legislature",
+      "person_id": "person/mp_ArdianGjini",
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2014-05-07",
@@ -7986,13 +7997,12 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_29",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
       "organization_id": "legislature",
-      "person_id": "person/mp_ArdianGjini",
+      "person_id": "person/mp_ArmendZemaj",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2014-05-07",
@@ -8013,12 +8023,13 @@
       "start_date": "2007-12-13"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
       "organization_id": "legislature",
-      "person_id": "person/mp_ArmendZemaj",
+      "person_id": "person/mp_ArsimBajrami",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -8039,15 +8050,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_ArsimBajrami",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_26",
@@ -8066,14 +8068,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
-      "organization_id": "legislature",
-      "person_id": "person/mp_AzemSyla",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -8081,6 +8075,14 @@
       "person_id": "person/mp_AzemSyla",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_AzemSyla",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2010-11-03",
@@ -8110,15 +8112,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_3",
-      "organization_id": "legislature",
-      "person_id": "person/mp_BajramKosumi",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_29",
@@ -8126,6 +8119,15 @@
       "person_id": "person/mp_BajramKosumi",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_3",
+      "organization_id": "legislature",
+      "person_id": "person/mp_BajramKosumi",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2007-12-12",
@@ -8137,15 +8139,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_BajrushXhemaili",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -8153,6 +8146,15 @@
       "person_id": "person/mp_BajrushXhemaili",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
+      "organization_id": "legislature",
+      "person_id": "person/mp_BajrushXhemaili",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -8234,15 +8236,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_43",
-      "organization_id": "legislature",
-      "person_id": "person/mp_BekimHaxhiu",
-      "role": "member",
-      "start_date": "2010-12-12"
-    },
-    {
       "legislative_period_id": "term/chamber_2014-07-17",
       "on_behalf_of_id": "parliamentary_group_54",
       "organization_id": "legislature",
@@ -8255,9 +8248,27 @@
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
       "organization_id": "legislature",
+      "person_id": "person/mp_BekimHaxhiu",
+      "role": "member",
+      "start_date": "2010-12-12"
+    },
+    {
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_43",
+      "organization_id": "legislature",
       "person_id": "person/mp_BeratBushala",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
+      "organization_id": "legislature",
+      "person_id": "person/mp_BeratLuzha",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -8276,15 +8287,6 @@
       "person_id": "person/mp_BeratLuzha",
       "role": "member",
       "start_date": "2004-11-23"
-    },
-    {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_BeratLuzha",
-      "role": "member",
-      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -8313,15 +8315,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
-      "organization_id": "legislature",
-      "person_id": "person/mp_BesaGaxherri",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_24",
@@ -8337,6 +8330,15 @@
       "person_id": "person/mp_BesaGaxherri",
       "role": "member",
       "start_date": "2014-07-17"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_BesaGaxherri",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -8486,15 +8488,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_9",
-      "organization_id": "legislature",
-      "person_id": "person/mp_BujarDugolli",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_31",
@@ -8502,6 +8495,15 @@
       "person_id": "person/mp_BujarDugolli",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_9",
+      "organization_id": "legislature",
+      "person_id": "person/mp_BujarDugolli",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2004-11-23",
@@ -8531,12 +8533,13 @@
       "start_date": "2001-11-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_58",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_38",
       "organization_id": "legislature",
       "person_id": "person/mp_DanushAdemi",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2014-05-07",
@@ -8548,13 +8551,12 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_38",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_58",
       "organization_id": "legislature",
       "person_id": "person/mp_DanushAdemi",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2014-07-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -8601,6 +8603,14 @@
       "start_date": "2007-12-13"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_60",
+      "organization_id": "legislature",
+      "person_id": "person/mp_DonikaKadajBujupi",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_45",
@@ -8608,14 +8618,6 @@
       "person_id": "person/mp_DonikaKadajBujupi",
       "role": "member",
       "start_date": "2010-12-12"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_60",
-      "organization_id": "legislature",
-      "person_id": "person/mp_DonikaKadajBujupi",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -8680,15 +8682,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_DritaStatovci",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -8696,6 +8689,15 @@
       "person_id": "person/mp_DritaStatovci",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
+      "organization_id": "legislature",
+      "person_id": "person/mp_DritaStatovci",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2004-11-23",
@@ -8733,15 +8735,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_12",
-      "organization_id": "legislature",
-      "person_id": "person/mp_DEzairMurati",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_5",
@@ -8749,6 +8742,15 @@
       "person_id": "person/mp_DEzairMurati",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_12",
+      "organization_id": "legislature",
+      "person_id": "person/mp_DEzairMurati",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -8769,15 +8771,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
-      "organization_id": "legislature",
-      "person_id": "person/mp_EditaTahiri",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_25",
@@ -8785,6 +8778,15 @@
       "person_id": "person/mp_EditaTahiri",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_EditaTahiri",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -8829,6 +8831,13 @@
       "start_date": "2010-12-12"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "_unknown",
+      "organization_id": "legislature",
+      "person_id": "person/mp_EmilijaRedEpi",
+      "role": "member"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_40",
@@ -8836,6 +8845,15 @@
       "person_id": "person/mp_EminGërbeshi",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_8",
+      "organization_id": "legislature",
+      "person_id": "person/mp_EminKrasniqi",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2004-11-23",
@@ -8849,9 +8867,9 @@
     {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_8",
+      "on_behalf_of_id": "parliamentary_group_20",
       "organization_id": "legislature",
-      "person_id": "person/mp_EminKrasniqi",
+      "person_id": "person/mp_EmrushXhemajli",
       "role": "member",
       "start_date": "2004-11-23"
     },
@@ -8863,15 +8881,6 @@
       "person_id": "person/mp_EmrushXhemajli",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_20",
-      "organization_id": "legislature",
-      "person_id": "person/mp_EmrushXhemajli",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2014-05-07",
@@ -8908,15 +8917,6 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_8",
-      "organization_id": "legislature",
-      "person_id": "person/mp_EnverHoxhaj",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_25",
@@ -8924,6 +8924,15 @@
       "person_id": "person/mp_EnverHoxhaj",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_8",
+      "organization_id": "legislature",
+      "person_id": "person/mp_EnverHoxhaj",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -8971,13 +8980,12 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_32",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
       "organization_id": "legislature",
       "person_id": "person/mp_EtemArifi",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2014-05-07",
@@ -8989,12 +8997,13 @@
       "start_date": "2010-12-12"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_32",
       "organization_id": "legislature",
       "person_id": "person/mp_EtemArifi",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2010-11-03",
@@ -9075,15 +9084,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
-      "organization_id": "legislature",
-      "person_id": "person/mp_FadilKryeziu",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_7",
@@ -9091,6 +9091,15 @@
       "person_id": "person/mp_FadilKryeziu",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_FadilKryeziu",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2004-11-23",
@@ -9102,15 +9111,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_25",
-      "organization_id": "legislature",
-      "person_id": "person/mp_FatmirLimaj",
-      "role": "member",
-      "start_date": "2007-12-13"
-    },
-    {
       "legislative_period_id": "term/chamber_2014-07-17",
       "on_behalf_of_id": "parliamentary_group_59",
       "organization_id": "legislature",
@@ -9119,13 +9119,13 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_25",
       "organization_id": "legislature",
       "person_id": "person/mp_FatmirLimaj",
       "role": "member",
-      "start_date": "2001-11-17"
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2014-05-07",
@@ -9137,13 +9137,21 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_26",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
+      "organization_id": "legislature",
+      "person_id": "person/mp_FatmirLimaj",
+      "role": "member",
+      "start_date": "2001-11-17"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
       "organization_id": "legislature",
       "person_id": "person/mp_FatmirRexhepi",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2004-11-23",
@@ -9164,12 +9172,13 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_26",
       "organization_id": "legislature",
       "person_id": "person/mp_FatmirRexhepi",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2004-11-23",
@@ -9208,14 +9217,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_56",
-      "organization_id": "legislature",
-      "person_id": "person/mp_FatonTopalli",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_40",
@@ -9223,6 +9224,14 @@
       "person_id": "person/mp_FatonTopalli",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_56",
+      "organization_id": "legislature",
+      "person_id": "person/mp_FatonTopalli",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2007-12-12",
@@ -9295,21 +9304,13 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_8",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
       "organization_id": "legislature",
       "person_id": "person/mp_FloraBrovina",
       "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
-      "organization_id": "legislature",
-      "person_id": "person/mp_FloraBrovina",
-      "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -9321,13 +9322,12 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
       "organization_id": "legislature",
       "person_id": "person/mp_FloraBrovina",
       "role": "member",
-      "start_date": "2001-11-17"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2010-11-03",
@@ -9337,6 +9337,15 @@
       "person_id": "person/mp_FloraBrovina",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_8",
+      "organization_id": "legislature",
+      "person_id": "person/mp_FloraBrovina",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2014-05-07",
@@ -9411,14 +9420,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
-      "organization_id": "legislature",
-      "person_id": "person/mp_GanimeteMusliu",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -9426,6 +9427,14 @@
       "person_id": "person/mp_GanimeteMusliu",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_GanimeteMusliu",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2007-12-12",
@@ -9455,6 +9464,15 @@
       "start_date": "2004-11-23"
     },
     {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_9",
+      "organization_id": "legislature",
+      "person_id": "person/mp_GjylnazeSyla",
+      "role": "member",
+      "start_date": "2004-11-23"
+    },
+    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_29",
@@ -9466,9 +9484,9 @@
     {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_9",
+      "on_behalf_of_id": "parliamentary_group_7",
       "organization_id": "legislature",
-      "person_id": "person/mp_GjylnazeSyla",
+      "person_id": "person/mp_GjylshenBerisha",
       "role": "member",
       "start_date": "2004-11-23"
     },
@@ -9480,15 +9498,6 @@
       "person_id": "person/mp_GjylshenBerisha",
       "role": "member",
       "start_date": "2001-11-17"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_GjylshenBerisha",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2014-05-07",
@@ -9596,15 +9605,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_25",
-      "organization_id": "legislature",
-      "person_id": "person/mp_HajredinHyseni",
-      "role": "member",
-      "start_date": "2007-12-13"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -9612,6 +9612,15 @@
       "person_id": "person/mp_HajredinHyseni",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_25",
+      "organization_id": "legislature",
+      "person_id": "person/mp_HajredinHyseni",
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2004-11-23",
@@ -9641,15 +9650,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_29",
-      "organization_id": "legislature",
-      "person_id": "person/mp_HakiShatri",
-      "role": "member",
-      "start_date": "2007-12-13"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_1",
@@ -9657,6 +9657,15 @@
       "person_id": "person/mp_HakiShatri",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_29",
+      "organization_id": "legislature",
+      "person_id": "person/mp_HakiShatri",
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2004-11-23",
@@ -9731,14 +9740,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_HatimBaxhaku",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
@@ -9748,13 +9749,12 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
       "organization_id": "legislature",
-      "person_id": "person/mp_HatixheMusliHoxha",
+      "person_id": "person/mp_HatimBaxhaku",
       "role": "member",
-      "start_date": "2001-11-17"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2007-12-12",
@@ -9766,12 +9766,13 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_59",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
       "organization_id": "legislature",
-      "person_id": "person/mp_HaxhiShala",
+      "person_id": "person/mp_HatixheMusliHoxha",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -9781,6 +9782,14 @@
       "person_id": "person/mp_HaxhiShala",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_59",
+      "organization_id": "legislature",
+      "person_id": "person/mp_HaxhiShala",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2010-11-03",
@@ -9810,6 +9819,15 @@
       "start_date": "2004-11-23"
     },
     {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_8",
+      "organization_id": "legislature",
+      "person_id": "person/mp_HydajetHyseni",
+      "role": "member",
+      "start_date": "2004-11-23"
+    },
+    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_2",
@@ -9835,15 +9853,6 @@
       "person_id": "person/mp_HydajetHyseni",
       "role": "member",
       "start_date": "2010-12-12"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_8",
-      "organization_id": "legislature",
-      "person_id": "person/mp_HydajetHyseni",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2014-05-07",
@@ -9882,15 +9891,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_IbushJonuzi",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_1",
@@ -9898,6 +9898,15 @@
       "person_id": "person/mp_IbushJonuzi",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
+      "organization_id": "legislature",
+      "person_id": "person/mp_IbushJonuzi",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2004-11-23",
@@ -9970,15 +9979,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_26",
-      "organization_id": "legislature",
-      "person_id": "person/mp_IsmetBeqiri",
-      "role": "member",
-      "start_date": "2007-12-13"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
@@ -9986,6 +9986,15 @@
       "person_id": "person/mp_IsmetBeqiri",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_26",
+      "organization_id": "legislature",
+      "person_id": "person/mp_IsmetBeqiri",
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -10005,13 +10014,11 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_25",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
       "person_id": "person/mp_JakupKrasniqi",
-      "role": "member",
-      "start_date": "2007-12-13"
+      "role": "member"
     },
     {
       "end_date": "2007-12-12",
@@ -10023,6 +10030,13 @@
       "start_date": "2004-11-23"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "_unknown",
+      "organization_id": "legislature",
+      "person_id": "person/mp_JakupKrasniqi",
+      "role": "member"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -10032,11 +10046,13 @@
       "start_date": "2010-12-12"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "_unknown",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_25",
       "organization_id": "legislature",
       "person_id": "person/mp_JakupKrasniqi",
-      "role": "member"
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2007-12-12",
@@ -10100,15 +10116,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
-      "organization_id": "legislature",
-      "person_id": "person/mp_JusufSutaj",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_7",
@@ -10116,6 +10123,15 @@
       "person_id": "person/mp_JusufSutaj",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_JusufSutaj",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -10318,15 +10334,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_24",
-      "organization_id": "legislature",
-      "person_id": "person/mp_LulzimZeneli",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_1",
@@ -10334,6 +10341,15 @@
       "person_id": "person/mp_LulzimZeneli",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_24",
+      "organization_id": "legislature",
+      "person_id": "person/mp_LulzimZeneli",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2007-12-12",
@@ -10363,6 +10379,15 @@
       "start_date": "2007-12-13"
     },
     {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_26",
+      "organization_id": "legislature",
+      "person_id": "person/mp_LutfiZharku",
+      "role": "member",
+      "start_date": "2007-12-13"
+    },
+    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_7",
@@ -10381,13 +10406,13 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_26",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_5",
       "organization_id": "legislature",
-      "person_id": "person/mp_LutfiZharku",
+      "person_id": "person/mp_MahirYağcılar",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -10410,15 +10435,6 @@
     {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_5",
-      "organization_id": "legislature",
-      "person_id": "person/mp_MahirYağcılar",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_3",
       "organization_id": "legislature",
       "person_id": "person/mp_MahmutBakalli",
@@ -10432,15 +10448,6 @@
       "person_id": "person/mp_MargaritaKadriu",
       "role": "member",
       "start_date": "2014-07-17"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_MarkKrasniqi",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -10459,6 +10466,15 @@
       "person_id": "person/mp_MarkKrasniqi",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
+      "organization_id": "legislature",
+      "person_id": "person/mp_MarkKrasniqi",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2007-12-12",
@@ -10488,15 +10504,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_MelihateTërmkolli",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_29",
@@ -10504,6 +10511,15 @@
       "person_id": "person/mp_MelihateTërmkolli",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
+      "organization_id": "legislature",
+      "person_id": "person/mp_MelihateTërmkolli",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2004-11-23",
@@ -10541,14 +10557,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_MilazimHaliti",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_24",
@@ -10556,6 +10564,14 @@
       "person_id": "person/mp_MilazimHaliti",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_MilazimHaliti",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -10619,14 +10635,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_MuhametMustafa",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
@@ -10634,6 +10642,14 @@
       "person_id": "person/mp_MuhametMustafa",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_MuhametMustafa",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -10713,13 +10729,11 @@
       "role": "member"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_41",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
       "person_id": "person/mp_Müferaªinik",
-      "role": "member",
-      "start_date": "2010-12-12"
+      "role": "member"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -10730,11 +10744,19 @@
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_58",
+      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
-      "person_id": "person/mp_MüferaŞinik",
+      "person_id": "person/mp_Müferaªinik",
+      "role": "member"
+    },
+    {
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_41",
+      "organization_id": "legislature",
+      "person_id": "person/mp_Müferaªinik",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2010-12-12"
     },
     {
       "end_date": "2010-11-03",
@@ -10744,6 +10766,14 @@
       "person_id": "person/mp_MüferaŞinik",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_58",
+      "organization_id": "legislature",
+      "person_id": "person/mp_MüferaŞinik",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2004-11-23",
@@ -10781,13 +10811,11 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
       "person_id": "person/mp_NaimJerliu",
-      "role": "member",
-      "start_date": "2004-11-23"
+      "role": "member"
     },
     {
       "legislative_period_id": "term/chamber_2001-11-17",
@@ -10799,9 +10827,9 @@
     {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_9",
+      "on_behalf_of_id": "parliamentary_group_7",
       "organization_id": "legislature",
-      "person_id": "person/mp_NaimMaloku",
+      "person_id": "person/mp_NaimJerliu",
       "role": "member",
       "start_date": "2004-11-23"
     },
@@ -10822,6 +10850,15 @@
       "person_id": "person/mp_NaimMaloku",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_9",
+      "organization_id": "legislature",
+      "person_id": "person/mp_NaimMaloku",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -10851,6 +10888,15 @@
       "start_date": "2007-12-13"
     },
     {
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_43",
+      "organization_id": "legislature",
+      "person_id": "person/mp_NaitHasani",
+      "role": "member",
+      "start_date": "2010-12-12"
+    },
+    {
       "legislative_period_id": "term/chamber_2014-07-17",
       "on_behalf_of_id": "parliamentary_group_54",
       "organization_id": "legislature",
@@ -10859,13 +10905,13 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_43",
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
       "organization_id": "legislature",
-      "person_id": "person/mp_NaitHasani",
+      "person_id": "person/mp_NaserOsmani",
       "role": "member",
-      "start_date": "2010-12-12"
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -10892,15 +10938,6 @@
       "person_id": "person/mp_NaserOsmani",
       "role": "member",
       "start_date": "2010-12-12"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_NaserOsmani",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -10966,6 +11003,15 @@
       "start_date": "2001-11-17"
     },
     {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_8",
+      "organization_id": "legislature",
+      "person_id": "person/mp_NerxhivaneDauti",
+      "role": "member",
+      "start_date": "2004-11-23"
+    },
+    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_2",
@@ -10984,13 +11030,18 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_8",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
-      "person_id": "person/mp_NerxhivaneDauti",
-      "role": "member",
-      "start_date": "2004-11-23"
+      "person_id": "person/mp_NexhatDaci",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "_unknown",
+      "organization_id": "legislature",
+      "person_id": "person/mp_NexhatDaci",
+      "role": "member"
     },
     {
       "end_date": "2010-11-03",
@@ -11000,13 +11051,6 @@
       "person_id": "person/mp_NexhatDaci",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "_unknown",
-      "organization_id": "legislature",
-      "person_id": "person/mp_NexhatDaci",
-      "role": "member"
     },
     {
       "end_date": "2007-12-12",
@@ -11071,6 +11115,14 @@
       "start_date": "2004-11-23"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_NjomzaEmini",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_26",
@@ -11078,14 +11130,6 @@
       "person_id": "person/mp_NjomzaEmini",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_NjomzaEmini",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "end_date": "2007-12-12",
@@ -11158,15 +11202,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_4",
-      "organization_id": "legislature",
-      "person_id": "person/mp_OliverIvanović",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_11",
@@ -11174,6 +11209,15 @@
       "person_id": "person/mp_OliverIvanović",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_4",
+      "organization_id": "legislature",
+      "person_id": "person/mp_OliverIvanović",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -11246,15 +11290,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_4",
-      "organization_id": "legislature",
-      "person_id": "person/mp_RadaTrajkoviæ",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_47",
@@ -11262,6 +11297,15 @@
       "person_id": "person/mp_RadaTrajkoviæ",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_4",
+      "organization_id": "legislature",
+      "person_id": "person/mp_RadaTrajkoviæ",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -11369,6 +11413,14 @@
       "start_date": "2010-12-12"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_60",
+      "organization_id": "legislature",
+      "person_id": "person/mp_RamushHaradinaj",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_3",
@@ -11378,12 +11430,13 @@
       "start_date": "2001-11-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_60",
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_8",
       "organization_id": "legislature",
-      "person_id": "person/mp_RamushHaradinaj",
+      "person_id": "person/mp_RamëBuja",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -11393,15 +11446,6 @@
       "person_id": "person/mp_RamëBuja",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_8",
-      "organization_id": "legislature",
-      "person_id": "person/mp_RamëBuja",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2010-11-03",
@@ -11581,15 +11625,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_19",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SabitRrahmani",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_5",
@@ -11597,6 +11632,15 @@
       "person_id": "person/mp_SabitRrahmani",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_19",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SabitRrahmani",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2004-11-23",
@@ -11617,23 +11661,6 @@
       "start_date": "2001-11-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SabriHamiti",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SabriHamiti",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_1",
@@ -11641,15 +11668,6 @@
       "person_id": "person/mp_SabriHamiti",
       "role": "member",
       "start_date": "2001-11-17"
-    },
-    {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_44",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SabriHamiti",
-      "role": "member",
-      "start_date": "2010-12-12"
     },
     {
       "end_date": "2010-11-03",
@@ -11661,13 +11679,30 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_30",
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_44",
       "organization_id": "legislature",
-      "person_id": "person/mp_SadikIdrizi",
+      "person_id": "person/mp_SabriHamiti",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SabriHamiti",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SabriHamiti",
+      "role": "member",
+      "start_date": "2004-11-23"
     },
     {
       "end_date": "2004-11-23",
@@ -11677,6 +11712,15 @@
       "person_id": "person/mp_SadikIdrizi",
       "role": "member",
       "start_date": "2001-11-17"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_30",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SadikIdrizi",
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2014-05-07",
@@ -11696,15 +11740,6 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SadudinBerisha",
-      "role": "member",
-      "start_date": "2004-11-23"
-    },
-    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_1",
@@ -11714,12 +11749,22 @@
       "start_date": "2001-11-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SadudinBerisha",
+      "role": "member",
+      "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_43",
       "organization_id": "legislature",
       "person_id": "person/mp_SafeteHadergjonaj",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2010-12-12"
     },
     {
       "end_date": "2010-11-03",
@@ -11731,13 +11776,12 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_43",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
       "organization_id": "legislature",
       "person_id": "person/mp_SafeteHadergjonaj",
       "role": "member",
-      "start_date": "2010-12-12"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2007-12-12",
@@ -11776,12 +11820,13 @@
       "start_date": "2001-11-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_25",
       "organization_id": "legislature",
       "person_id": "person/mp_SalaBerishaShala",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2007-12-12",
@@ -11793,13 +11838,12 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_25",
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
       "organization_id": "legislature",
       "person_id": "person/mp_SalaBerishaShala",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2014-05-07",
@@ -11828,14 +11872,6 @@
       "start_date": "2014-07-17"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SaliheMustafa",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -11845,6 +11881,23 @@
       "start_date": "2010-12-12"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SaliheMustafa",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
+      "end_date": "2007-12-12",
+      "legislative_period_id": "term/chamber_2004-11-23",
+      "on_behalf_of_id": "parliamentary_group_7",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SamijeZeqiraj",
+      "role": "member",
+      "start_date": "2004-11-23"
+    },
+    {
       "end_date": "2004-11-23",
       "legislative_period_id": "term/chamber_2001-11-17",
       "on_behalf_of_id": "parliamentary_group_1",
@@ -11858,9 +11911,18 @@
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_7",
       "organization_id": "legislature",
-      "person_id": "person/mp_SamijeZeqiraj",
+      "person_id": "person/mp_SanijeAliaj",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_1",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SanijeAliaj",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2010-11-03",
@@ -11870,24 +11932,6 @@
       "person_id": "person/mp_SanijeAliaj",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_1",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SanijeAliaj",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
-      "end_date": "2007-12-12",
-      "legislative_period_id": "term/chamber_2004-11-23",
-      "on_behalf_of_id": "parliamentary_group_7",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SanijeAliaj",
-      "role": "member",
-      "start_date": "2004-11-23"
     },
     {
       "end_date": "2007-12-12",
@@ -11952,6 +11996,14 @@
       "start_date": "2007-12-13"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SelvijeHalimi",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -11962,11 +12014,10 @@
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
+      "on_behalf_of_id": "_unknown",
       "organization_id": "legislature",
-      "person_id": "person/mp_SelvijeHalimi",
-      "role": "member",
-      "start_date": "2014-07-17"
+      "person_id": "person/mp_SerdjanPopović",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/chamber_2014-07-17",
@@ -11994,14 +12045,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_61",
-      "organization_id": "legislature",
-      "person_id": "person/mp_ShaipMuja",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -12009,6 +12052,14 @@
       "person_id": "person/mp_ShaipMuja",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_61",
+      "organization_id": "legislature",
+      "person_id": "person/mp_ShaipMuja",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2004-11-23",
@@ -12053,15 +12104,6 @@
       "start_date": "2014-07-17"
     },
     {
-      "end_date": "2014-05-07",
-      "legislative_period_id": "term/chamber_2010-12-12",
-      "on_behalf_of_id": "parliamentary_group_44",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SkenderHyseni",
-      "role": "member",
-      "start_date": "2010-12-12"
-    },
-    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_26",
@@ -12069,6 +12111,15 @@
       "person_id": "person/mp_SkenderHyseni",
       "role": "member",
       "start_date": "2007-12-13"
+    },
+    {
+      "end_date": "2014-05-07",
+      "legislative_period_id": "term/chamber_2010-12-12",
+      "on_behalf_of_id": "parliamentary_group_44",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SkenderHyseni",
+      "role": "member",
+      "start_date": "2010-12-12"
     },
     {
       "end_date": "2010-11-03",
@@ -12106,6 +12157,14 @@
       "start_date": "2001-11-17"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_57",
+      "organization_id": "legislature",
+      "person_id": "person/mp_SlobodanPetrović",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
       "on_behalf_of_id": "parliamentary_group_32",
@@ -12113,14 +12172,6 @@
       "person_id": "person/mp_SlobodanPetrović",
       "role": "member",
       "start_date": "2007-12-13"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_57",
-      "organization_id": "legislature",
-      "person_id": "person/mp_SlobodanPetrović",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "end_date": "2004-11-23",
@@ -12257,15 +12308,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_TeutaHadri",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -12273,6 +12315,15 @@
       "person_id": "person/mp_TeutaHadri",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
+      "organization_id": "legislature",
+      "person_id": "person/mp_TeutaHadri",
+      "role": "member",
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -12309,14 +12360,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_TeutaSahatqija",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
@@ -12324,6 +12367,14 @@
       "person_id": "person/mp_TeutaSahatqija",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_TeutaSahatqija",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2014-05-07",
@@ -12457,6 +12508,14 @@
       "start_date": "2004-11-23"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_56",
+      "organization_id": "legislature",
+      "person_id": "person/mp_VisarYmeri",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_40",
@@ -12464,14 +12523,6 @@
       "person_id": "person/mp_VisarYmeri",
       "role": "member",
       "start_date": "2010-12-12"
-    },
-    {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_56",
-      "organization_id": "legislature",
-      "person_id": "person/mp_VisarYmeri",
-      "role": "member",
-      "start_date": "2014-07-17"
     },
     {
       "end_date": "2014-05-07",
@@ -12483,14 +12534,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_55",
-      "organization_id": "legislature",
-      "person_id": "person/mp_VjosaOsmani",
-      "role": "member",
-      "start_date": "2014-07-17"
-    },
-    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_44",
@@ -12498,6 +12541,14 @@
       "person_id": "person/mp_VjosaOsmani",
       "role": "member",
       "start_date": "2010-12-12"
+    },
+    {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_55",
+      "organization_id": "legislature",
+      "person_id": "person/mp_VjosaOsmani",
+      "role": "member",
+      "start_date": "2014-07-17"
     },
     {
       "end_date": "2010-11-03",
@@ -12527,6 +12578,14 @@
       "start_date": "2010-12-12"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_XhavitHaliti",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2014-05-07",
       "legislative_period_id": "term/chamber_2010-12-12",
       "on_behalf_of_id": "parliamentary_group_43",
@@ -12545,15 +12604,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_XhavitHaliti",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -12563,12 +12613,13 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
       "organization_id": "legislature",
       "person_id": "person/mp_XhavitHaliti",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -12580,15 +12631,6 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_2",
-      "organization_id": "legislature",
-      "person_id": "person/mp_XhelalCanziba",
-      "role": "member",
-      "start_date": "2001-11-17"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -12598,12 +12640,13 @@
       "start_date": "2004-11-23"
     },
     {
-      "legislative_period_id": "term/chamber_2014-07-17",
-      "on_behalf_of_id": "parliamentary_group_54",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_2",
       "organization_id": "legislature",
-      "person_id": "person/mp_XhevahireIzmaku",
+      "person_id": "person/mp_XhelalCanziba",
       "role": "member",
-      "start_date": "2014-07-17"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -12615,6 +12658,14 @@
       "start_date": "2010-12-12"
     },
     {
+      "legislative_period_id": "term/chamber_2014-07-17",
+      "on_behalf_of_id": "parliamentary_group_54",
+      "organization_id": "legislature",
+      "person_id": "person/mp_XhevahireIzmaku",
+      "role": "member",
+      "start_date": "2014-07-17"
+    },
+    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_8",
@@ -12624,13 +12675,13 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_29",
+      "end_date": "2004-11-23",
+      "legislative_period_id": "term/chamber_2001-11-17",
+      "on_behalf_of_id": "parliamentary_group_3",
       "organization_id": "legislature",
       "person_id": "person/mp_XhevdetNeziraj",
       "role": "member",
-      "start_date": "2007-12-13"
+      "start_date": "2001-11-17"
     },
     {
       "end_date": "2014-05-07",
@@ -12642,13 +12693,13 @@
       "start_date": "2010-12-12"
     },
     {
-      "end_date": "2004-11-23",
-      "legislative_period_id": "term/chamber_2001-11-17",
-      "on_behalf_of_id": "parliamentary_group_3",
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_29",
       "organization_id": "legislature",
       "person_id": "person/mp_XhevdetNeziraj",
       "role": "member",
-      "start_date": "2001-11-17"
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2007-12-12",
@@ -12722,15 +12773,6 @@
       "start_date": "2004-11-23"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_26",
-      "organization_id": "legislature",
-      "person_id": "person/mp_ZefMorina",
-      "role": "member",
-      "start_date": "2007-12-13"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_7",
@@ -12738,6 +12780,15 @@
       "person_id": "person/mp_ZefMorina",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_26",
+      "organization_id": "legislature",
+      "person_id": "person/mp_ZefMorina",
+      "role": "member",
+      "start_date": "2007-12-13"
     },
     {
       "end_date": "2004-11-23",
@@ -12820,15 +12871,6 @@
       "start_date": "2007-12-13"
     },
     {
-      "end_date": "2010-11-03",
-      "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_29",
-      "organization_id": "legislature",
-      "person_id": "person/mp_ZylfijeHundozi",
-      "role": "member",
-      "start_date": "2007-12-13"
-    },
-    {
       "end_date": "2007-12-12",
       "legislative_period_id": "term/chamber_2004-11-23",
       "on_behalf_of_id": "parliamentary_group_9",
@@ -12849,9 +12891,9 @@
     {
       "end_date": "2010-11-03",
       "legislative_period_id": "term/chamber_2007-12-13",
-      "on_behalf_of_id": "parliamentary_group_30",
+      "on_behalf_of_id": "parliamentary_group_29",
       "organization_id": "legislature",
-      "person_id": "person/mp_PresaMurati",
+      "person_id": "person/mp_ZylfijeHundozi",
       "role": "member",
       "start_date": "2007-12-13"
     },
@@ -12863,6 +12905,15 @@
       "person_id": "person/mp_PresaMurati",
       "role": "member",
       "start_date": "2004-11-23"
+    },
+    {
+      "end_date": "2010-11-03",
+      "legislative_period_id": "term/chamber_2007-12-13",
+      "on_behalf_of_id": "parliamentary_group_30",
+      "organization_id": "legislature",
+      "person_id": "person/mp_PresaMurati",
+      "role": "member",
+      "start_date": "2007-12-13"
     }
   ],
   "events": [

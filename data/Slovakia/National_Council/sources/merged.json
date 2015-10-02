@@ -17219,7 +17219,9 @@
     }
   ],
   "meta": {
-    "source": "http://api.parldata.eu/sk/nrsr/"
+    "sources": [
+      "http://api.parldata.eu/sk/nrsr/"
+    ]
   },
   "memberships": [
     {
