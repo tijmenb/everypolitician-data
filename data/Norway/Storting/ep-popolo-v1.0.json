@@ -4382,7 +4382,7 @@
       "birth_date": "1954-04-27",
       "family_name": "Toskedal",
       "gender": "male",
-      "given_name": "Geir S.",
+      "given_name": "Geir Sigbjørn",
       "id": "person/GEST",
       "image": "http://data.stortinget.no/eksport/personbilde?personid=GEST&storrelse=middels",
       "images": [
@@ -4390,8 +4390,8 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=GEST&storrelse=middels"
         }
       ],
-      "name": "Geir S. Toskedal",
-      "sort_name": "Toskedal, Geir S.",
+      "name": "Geir Sigbjørn Toskedal",
+      "sort_name": "Toskedal, Geir Sigbjørn",
       "sources": [
         {
           "url": "http://data.stortinget.no/eksport/representanter?stortingsperiodeid=2013-2017"
@@ -18611,7 +18611,9 @@
     }
   ],
   "meta": {
-    "source": "http://data.stortinget.no/"
+    "sources": [
+      "http://data.stortinget.no/"
+    ]
   },
   "memberships": [
     {
