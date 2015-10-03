@@ -76,6 +76,7 @@ namespace :term_csvs do
       {
         id: person[:id].split('/').last,
         name: name_at(person, m[:end_date] || terms[m[:legislative_period_id]][:end_date]),
+        sort_name: person[:sort_name].to_s.empty? ? person[:name] : person[:sort_name],
         email: person[:email],
         twitter: standardised_twitter(persons_twitter(person)),
         facebook: persons_facebook(person),
