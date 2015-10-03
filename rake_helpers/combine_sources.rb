@@ -169,9 +169,7 @@ namespace :merge_sources do
 
     # Then merge with Person data files
     #   existing_field: name — the field name in the existing data to match
-    #      previously "field"
     #   incoming_field: name — the field name in the incoming data to match
-    #      previously "match_on"
     #
     # For non-exact matching set 'amatch_threshold' to a minimum % score
     # We also warn on any fuzzy match under the 'amatch_warning' % score
@@ -186,16 +184,6 @@ namespace :merge_sources do
       raise "No merge instructions" unless pd.key?(:merge) 
 
       persondata = csv_table(pd[:file])
-
-      if pd[:merge].key? :field
-        warn "WARNING deprecated use of merge 'field'. Use 'existing_field' instead".red
-        pd[:merge][:existing_field] = pd[:merge].delete :field
-      end
-
-      if pd[:merge].key? :match_on
-        warn "WARNING deprecated use of merge 'match_on'. Use 'incoming_field' instead".red
-        pd[:merge][:incoming_field] = pd[:merge].delete :match_on
-      end
 
       warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
 
