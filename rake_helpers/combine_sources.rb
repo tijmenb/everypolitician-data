@@ -154,13 +154,19 @@ namespace :merge_sources do
       all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
     end
 
-    # First concat everything that's a "membership" (or default)
     merged_rows = []
-    instructions(:sources).find_all { |src|
-      src[:type].to_s.empty? || src[:type].to_s.downcase == 'membership'
-    }.each do |src| 
+
+    # Make sure all instructions have a `type`
+    if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
+      raise "Missing `type` in #{no_type} file"
+    end
+
+    # First get all the `membership` rows. 
+    # Assume for now that each is unique, and simply concat them
+   
+    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src| 
       file = src[:file] 
-      puts "Concat #{file}".magenta
+      puts "Add memberships from #{file}".magenta
       csv_table(file).each do |row|
         merged_rows << row.to_hash
       end
