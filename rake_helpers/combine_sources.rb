@@ -91,6 +91,10 @@ namespace :merge_sources do
       @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
     end
 
+    def existing
+      @_lookup ||= @_existing_rows.group_by { |r| r[@_existing_field] }
+    end
+
     def fuzzer
       @_fuzzer ||= FuzzyMatch.new(@_existing_rows, read: @_existing_field)
     end
@@ -117,10 +121,10 @@ namespace :merge_sources do
         end
 
         warn "Matched %s to %s @ %.2f%%".yellow % [incoming_row[@_incoming_field], match.first[@_existing_field], confidence ] if confidence < @_instructions[:amatch_warning].to_f
-        return @_existing_rows.find_all { |r| r[@_existing_field] == match.first[@_existing_field] }
+        return existing[ match.first[@_existing_field] ]
       end
 
-      @_existing_rows.find_all { |r| r[@_existing_field] == incoming_row[@_incoming_field] } 
+      return existing[ incoming_row[@_incoming_field] ]
     end
 
   end
