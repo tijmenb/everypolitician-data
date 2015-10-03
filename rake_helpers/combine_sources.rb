@@ -110,6 +110,10 @@ namespace :merge_sources do
         return @_existing_rows.find_all { |r| r[:id] == exact_match }
       end
 
+      if exact_match = existing[ incoming_row[@_incoming_field] ]
+        return exact_match
+      end
+
       # Approximate match?
       if @_instructions.key? :amatch_threshold
         match = fuzzer.find_with_score(incoming_row[@_incoming_field])
@@ -124,7 +128,9 @@ namespace :merge_sources do
         return existing[ match.first[@_existing_field] ]
       end
 
-      return existing[ incoming_row[@_incoming_field] ]
+      # Nothing found
+      return []
+
     end
 
   end
@@ -181,7 +187,8 @@ namespace :merge_sources do
         # TODO factor this out to a Patcher again
         to_patch = reconciler.find_all(incoming_row)
         if to_patch && !to_patch.size.zero?
-          to_patch.keep_if { |r| r[:term].to_s == incoming_row[:term].to_s } if pd[:merge][:term_match] 
+          # Be careful to take a copy and not delete from the core list
+          to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if pd[:merge][:term_match] 
           to_patch.each do |existing_row|
             # For now, only set values that are not already set (or are set to 'unknown')
             # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
