@@ -146,24 +146,23 @@ namespace :merge_sources do
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
 
-    # build headers for everything
+    # Build the master list of columns
     all_headers = instructions(:sources).find_all { |src|
       src[:type] != 'term'
     }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
-      # puts "Headers from #{file}".cyan
       header_line = File.open(file, &:gets)     
       all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
     end
 
     # First concat everything that's a "membership" (or default)
-    all_rows = []
+    merged_rows = []
     instructions(:sources).find_all { |src|
       src[:type].to_s.empty? || src[:type].to_s.downcase == 'membership'
     }.each do |src| 
       file = src[:file] 
       puts "Concat #{file}".magenta
       csv_table(file).each do |row|
-        all_rows << row.to_hash
+        merged_rows << row.to_hash
       end
     end
 
@@ -187,9 +186,9 @@ namespace :merge_sources do
 
       warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
 
-      patcher = CSVPatch.new(all_rows)
+      patcher = CSVPatch.new(merged_rows)
       persondata.each { |pd_row| patcher.patch!(pd_row, pd[:merge]) }
-      all_rows = patcher.all_data
+      merged_rows = patcher.all_data
     end
 
     # Map Areas 
@@ -199,7 +198,7 @@ namespace :merge_sources do
       all_headers |= [:area, :area_id]
 
       if area[:generate] == 'area'
-        all_rows.each do |r|
+        merged_rows.each do |r|
           ocd = ocds.find { |o| o[:id] == r[:area_id] } or warn "No area for #{r}"
           r[:area] = ocd[:name] if ocd
         end
@@ -220,7 +219,7 @@ namespace :merge_sources do
         }
 
         areas = {}
-        all_rows.each do |r|
+        merged_rows.each do |r|
           raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
           unless areas.key? r[:area]
             areas[r[:area]] = override.(r[:area]) || finder.(r) 
@@ -239,7 +238,7 @@ namespace :merge_sources do
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
       out << all_headers
-      all_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
+      merged_rows.each { |r| out << all_headers.map { |header| r[header.to_sym] } }
     end
 
   end
