@@ -81,64 +81,46 @@ namespace :merge_sources do
     REMAP.find(->{[str]}) { |k, v| v.include? str.to_s }.first.to_sym
   end
 
+  class Reconciler
 
-  # Simplest version for now; can evolve over time based on actual usage
-  class CSVPatch
-
-    def initialize(original)
-      @_csv = original
+    def initialize(existing_rows, instructions)
+      @_existing_rows = existing_rows
+      @_instructions  = instructions
+      @_instructions[:overrides] ||= {}
+      @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
+      @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
     end
 
-    def patch!(new_row, opts)
-      existing_field = opts[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
-      incoming_field = opts[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-      opts[:overrides] ||= {}
+    def fuzzer
+      @_fuzzer ||= FuzzyMatch.new(@_existing_rows, read: @_existing_field)
+    end
 
-      unless new_row[incoming_field]
-        warn "#{new_row} has no #{incoming_field}" 
-        return
+    def find_all(incoming_row)
+      if incoming_row[@_incoming_field].to_s.empty?
+        warn "#{incoming_row} has no #{@_incoming_field}" 
+        return []
       end
+
       # Short-circuit if we've already been told who this matches
-      if exact_match = opts[:overrides][new_row[incoming_field].to_sym]
-        to_patch = @_csv.find_all { |r| r[:id] == exact_match }
+      if exact_match = @_instructions[:overrides][incoming_row[@_incoming_field].to_sym]
+        return @_existing_rows.find_all { |r| r[:id] == exact_match }
+      end
 
       # Approximate match?
-      elsif opts.key? :amatch_threshold
-        (@fuzzer ||= {})[existing_field] ||= FuzzyMatch.new(@_csv, read: existing_field)
-        match = @fuzzer[existing_field].find_with_score(new_row[incoming_field])
+      if @_instructions.key? :amatch_threshold
+        match = fuzzer.find_with_score(incoming_row[@_incoming_field])
         confidence = match[1].to_f * 100
 
-        if confidence < opts[:amatch_threshold].to_f
-          warn "Too low match for: %s (Best = %s @ %.2f%%)".cyan % [ new_row[incoming_field], match.first[existing_field], confidence ]
-          to_patch = []
-        else
-          warn "Matched %s to %s @ %.2f%%".yellow % [new_row[incoming_field], match.first[existing_field], confidence ] if
-            confidence < opts[:amatch_warning].to_f
-          to_patch = @_csv.find_all { |r| r[existing_field] == match.first[existing_field] }
+        if confidence < @_instructions[:amatch_threshold].to_f
+          warn "Too low match for: %s (Best = %s @ %.2f%%)".cyan % [ incoming_row[@_incoming_field], match.first[@_existing_field], confidence ]
+          return []
         end
-      else
-        to_patch = @_csv.find_all { |r| r[existing_field] == new_row[incoming_field] }
+
+        warn "Matched %s to %s @ %.2f%%".yellow % [incoming_row[@_incoming_field], match.first[@_existing_field], confidence ] if confidence < @_instructions[:amatch_warning].to_f
+        return @_existing_rows.find_all { |r| r[@_existing_field] == match.first[@_existing_field] }
       end
 
-      if to_patch.empty?
-        warn "Can't match row to existing data: #{new_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
-      else 
-        # warn "Patching #{to_patch.size} rows with #{new_row[incoming_field]}".green
-      end
-
-      # If 'term_match: true' is set, only merge data for the same term
-      to_patch.keep_if { |r| r[:term].to_s == new_row[:term].to_s } if opts[:term_match] 
-      to_patch.each do |existing_row|
-        # For now, only set values that are not already set (or are set to 'unknown')
-        # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
-        new_row.keys.each do |h| 
-          existing_row[h] = new_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
-        end
-      end
-    end
-
-    def all_data
-      @_csv
+      @_existing_rows.find_all { |r| r[@_existing_field] == incoming_row[@_incoming_field] } 
     end
 
   end
@@ -173,8 +155,8 @@ namespace :merge_sources do
     end
 
     # Then merge with Person data files
-    #   existing_field: name — the field name in the existing data to match
-    #   incoming_field: name — the field name in the incoming data to match
+    #   existing_field: the field in the existing data to match to
+    #   incoming_field: the field in the incoming data to match with
     #
     # For non-exact matching set 'amatch_threshold' to a minimum % score
     # We also warn on any fuzzy match under the 'amatch_warning' % score
@@ -185,16 +167,28 @@ namespace :merge_sources do
 
     instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
       puts "Merging with #{pd[:file]}".magenta
-
       raise "No merge instructions" unless pd.key?(:merge) 
-
-      persondata = csv_table(pd[:file])
 
       warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
 
-      patcher = CSVPatch.new(merged_rows)
-      persondata.each { |pd_row| patcher.patch!(pd_row, pd[:merge]) }
-      merged_rows = patcher.all_data
+      reconciler = Reconciler.new(merged_rows, pd[:merge])
+      incoming_data = csv_table(pd[:file])
+      incoming_data.each do |incoming_row|
+        # TODO factor this out to a Patcher again
+        to_patch = reconciler.find_all(incoming_row)
+        if to_patch && !to_patch.size.zero?
+          to_patch.keep_if { |r| r[:term].to_s == incoming_row[:term].to_s } if pd[:merge][:term_match] 
+          to_patch.each do |existing_row|
+            # For now, only set values that are not already set (or are set to 'unknown')
+            # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
+            incoming_row.keys.each do |h| 
+              existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
+            end
+          end
+        else
+          warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
+        end
+      end
     end
 
     # Map Areas 
