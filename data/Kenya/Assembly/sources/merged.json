@@ -7703,7 +7703,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mbeere_south",
+      "area_id": "area/embu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -7711,7 +7711,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/likoni",
+      "area_id": "area/shika_adabu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -7727,7 +7727,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/taita_taveta",
+      "area_id": "area/taveta",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -9399,11 +9399,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/likoni",
-      "name": "Likoni",
-      "type": "constituency"
-    },
-    {
       "id": "area/likuyani",
       "name": "Likuyani",
       "type": "constituency"
@@ -9571,11 +9566,6 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mbeere_south",
-      "name": "Mbeere South",
       "type": "constituency"
     },
     {
@@ -9959,6 +9949,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/shika_adabu",
+      "name": "Shika Adabu",
+      "type": "constituency"
+    },
+    {
       "id": "area/shinyalu",
       "name": "Shinyalu",
       "type": "constituency"
@@ -10036,6 +10031,11 @@
     {
       "id": "area/tana_river",
       "name": "Tana River",
+      "type": "constituency"
+    },
+    {
+      "id": "area/taveta",
+      "name": "Taveta",
       "type": "constituency"
     },
     {
