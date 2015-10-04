@@ -82,6 +82,8 @@
     },
     {
       "email": "rahimdwd@yahoo.co.uk",
+      "gender": "male",
+      "given_name": "Abdul",
       "id": "person/abdul-rahim-dawood",
       "image": "http://info.mzalendo.com/media_root/cache/be/a9/bea9416a85a18bd5007a85fa1981871e.jpg",
       "images": [
@@ -90,6 +92,18 @@
         }
       ],
       "name": "Abdul Rahim Dawood",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Abdul Rahim Dawood",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Abdul Rahim Dawood",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/abdul-rahim-dawood/"
@@ -178,6 +192,7 @@
     {
       "birth_date": "1967-06-15",
       "email": "hmsk@wananchi.commailto:adendualle@gmail.com",
+      "gender": "male",
       "id": "person/aden-duale",
       "image": "http://info.mzalendo.com/media_root/cache/c7/b6/c7b6086c56f423b3a57bc31190fc8b47.jpg",
       "images": [
@@ -186,6 +201,28 @@
         }
       ],
       "name": "Aden Bare Duale",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aden Bare Duale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Aden Bare Duale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aden Bare Duale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Aden Duale",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/aden-duale/"
@@ -795,6 +832,7 @@
     {
       "birth_date": "1987",
       "email": "kinotigatobu@yahoo.com",
+      "gender": "male",
       "id": "person/boniface-gatobu-kinoti",
       "image": "http://info.mzalendo.com/media_root/cache/b7/9e/b79e9cc21f0a067eb8cb562d66d698a5.jpg",
       "images": [
@@ -803,6 +841,18 @@
         }
       ],
       "name": "Boniface Gatobu Kinoti",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kinoti Gatobu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kinoti Gatobu",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/boniface-gatobu-kinoti/"
@@ -1848,6 +1898,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/fatuma-ibrahim-ali",
       "image": "http://info.mzalendo.com/media_root/cache/90/d2/90d2f2c9e4aff8c164cfa8f4b8d57d71.jpg",
       "images": [
@@ -1856,6 +1907,23 @@
         }
       ],
       "name": "Fatuma Ibrahim Ali",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fatuma Ibrahim Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fatuma Ibrahim Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fatuma Ibrahim Ali",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/fatuma-ibrahim-ali/"
@@ -2430,6 +2498,7 @@
     {
       "birth_date": "1962-12-09",
       "email": "lionsumra@yahoo.com",
+      "gender": "male",
       "id": "person/irshadali-mohomed-sumra",
       "image": "http://info.mzalendo.com/media_root/cache/01/80/0180afca5158a569e27cd38bdecec978.jpg",
       "images": [
@@ -2437,7 +2506,40 @@
           "url": "http://info.mzalendo.com/media_root/cache/01/80/0180afca5158a569e27cd38bdecec978.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.sumraforchange.com"
+        }
+      ],
       "name": "Irshadali Mohomed Sumra",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Irshadali Sumra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Irshadali Sumra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Irshadali Sumra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irshadali Sumra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Irshadali Sumra",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/irshadali-mohomed-sumra/"
@@ -2462,6 +2564,8 @@
     {
       "birth_date": "1982",
       "email": "mwaura.isa@gmail.com",
+      "gender": "male",
+      "given_name": "Isaac",
       "id": "person/isaac-mwaura",
       "image": "http://info.mzalendo.com/media_root/cache/22/08/22083f10ee21383d4cad89838147d780.jpg",
       "images": [
@@ -2470,6 +2574,13 @@
         }
       ],
       "name": "Isaac Maigua Mwaura",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Isaac Mwaura",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/isaac-mwaura/"
@@ -4947,6 +5058,8 @@
     {
       "birth_date": "1960",
       "email": "losumamoroto@yahoo.com",
+      "gender": "male",
+      "given_name": "Samuel",
       "id": "person/samuel-moroto",
       "image": "http://info.mzalendo.com/media_root/cache/9e/93/9e933d98685e8b164197c2713a4f44b8.jpg",
       "images": [
@@ -4955,6 +5068,28 @@
         }
       ],
       "name": "Samuel Moroto",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Samuel Moroto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Samuel Moroto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Samuel Moroto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Samuel Moroto",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/samuel-moroto/"
@@ -5010,6 +5145,8 @@
     {
       "birth_date": "1953",
       "email": "shakeelshabbirahmed@gmail.commailto:shakeelshabbirahmed@gmail.commailto:KisumuTownEast@parliament.go.ke",
+      "gender": "male",
+      "given_name": "Ahmed",
       "id": "person/shakeel-shabbir",
       "image": "http://info.mzalendo.com/media_root/cache/2b/77/2b77385f43e9db377e8b726190a2834e.jpg",
       "images": [
@@ -5018,6 +5155,28 @@
         }
       ],
       "name": "Shakeel Shabbir",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ahmed Shakeel Shabbir Ahmed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ahmed Shakeel Shabbir Ahmed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ahmed Shakeel Shabbir Ahmed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ahmed Shakeel Shabbir Ahmed",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/shakeel-shabbir/"
@@ -5074,6 +5233,7 @@
     {
       "birth_date": "1978-07-06",
       "email": "shukrangure@gmail.com",
+      "gender": "female",
       "id": "person/shukran-hussein-gure",
       "image": "http://info.mzalendo.com/media_root/cache/30/6c/306c88926f2901f5285c2f85ac31a293.jpg",
       "images": [
@@ -5082,6 +5242,23 @@
         }
       ],
       "name": "Shukran Hussein Gure",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Shukran Hussein Gure",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Shukran Hussein Gure",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Shukran Hussein Gure",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/shukran-hussein-gure/"
@@ -5429,7 +5606,19 @@
     {
       "birth_date": "1982-10-15",
       "email": "wesley@kenyakidsfoundation.orgmailto:wesley@kenyakidsfoundation.org",
+      "gender": "male",
+      "given_name": "Wesley",
       "id": "person/wesley-kipchumba-korir",
+      "identifiers": [
+        {
+          "identifier": "/m/0j9p_js",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "231597",
+          "scheme": "iiaf"
+        }
+      ],
       "image": "http://info.mzalendo.com/media_root/cache/27/ed/27edc16b9d183137c023793f117809d1.jpg",
       "images": [
         {
@@ -5437,6 +5626,48 @@
         }
       ],
       "name": "Wesley Kipchumba Korir",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Корир, Уэсли",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Wesley Korir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "ويسلي كورير",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/wesley-kipchumba-korir/"
@@ -5544,6 +5775,8 @@
     {
       "birth_date": "1958",
       "email": "kamukunji@parliament.go.kemailto:Yusuf.hassan@ymail.com",
+      "gender": "male",
+      "given_name": "Yusuf",
       "id": "person/yusuf-hassan-abdi",
       "image": "http://info.mzalendo.com/media_root/cache/3f/f7/3ff754a48bf85012d8a3e3428aa05bb5.jpg",
       "images": [
@@ -5552,6 +5785,33 @@
         }
       ],
       "name": "Yusuf Hassan Abdi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Abdi Yusuf Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Abdi Yusuf Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Abdi Yusuf Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdi Yusuf Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yusuf Hassan Abdi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/yusuf-hassan-abdi/"
@@ -5776,7 +6036,8 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/kenya-mzalendo"
+      "https://morph.io/tmtmtmtm/kenya-mzalendo",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
