@@ -180,10 +180,14 @@ namespace :merge_sources do
       raise "No merge instructions" unless pd.key?(:merge) 
 
       warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
+      all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
 
       reconciler = Reconciler.new(merged_rows, pd[:merge])
       incoming_data = csv_table(pd[:file])
       incoming_data.each do |incoming_row|
+
+        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
+
         # TODO factor this out to a Patcher again
         to_patch = reconciler.find_all(incoming_row)
         if to_patch && !to_patch.size.zero?
