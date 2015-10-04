@@ -6920,6 +6920,32 @@
     ]
   },
   {
+    "name": "South Ossetia",
+    "country": "South Ossetia",
+    "code": "X-SO",
+    "slug": "South-Ossetia",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/South_Ossetia/Parliament/sources",
+        "popolo": "data/South_Ossetia/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1443962754",
+        "person_count": 34,
+        "sha": "957c8ac",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/South_Ossetia/Parliament/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Sudan",
     "country": "South Sudan",
     "code": "SS",
