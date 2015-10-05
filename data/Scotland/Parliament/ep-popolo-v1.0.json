@@ -3530,8 +3530,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_provan",
-      "legislative_period_id": "term/4",
+      "area_id": "area/glasgow_springburn",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
       "person_id": "person/14039",
@@ -3555,8 +3555,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_springburn",
-      "legislative_period_id": "term/1",
+      "area_id": "area/glasgow_provan",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
       "person_id": "person/14039",
@@ -3582,14 +3582,6 @@
     },
     {
       "area_id": "area/mid_scotland_and_fife",
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "scottish-national-party",
-      "organization_id": "legislature",
-      "person_id": "person/14041",
-      "role": "member"
-    },
-    {
-      "area_id": "area/mid_scotland_and_fife",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -3599,10 +3591,11 @@
     {
       "area_id": "area/mid_fife_and_glenrothes",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "scottish-national-party",
+      "on_behalf_of_id": "none",
       "organization_id": "legislature",
       "person_id": "person/14041",
-      "role": "member"
+      "role": "member",
+      "start_date": "2011-05-11"
     },
     {
       "area_id": "area/central_fife",
@@ -3611,6 +3604,31 @@
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
       "person_id": "person/14041",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mid_fife_and_glenrothes",
+      "end_date": "2011-05-11",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "scottish-national-party",
+      "organization_id": "legislature",
+      "person_id": "person/14041",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mid_scotland_and_fife",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "scottish-national-party",
+      "organization_id": "legislature",
+      "person_id": "person/14041",
+      "role": "member"
+    },
+    {
+      "area_id": "area/highlands_and_islands",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "scottish-national-party",
+      "organization_id": "legislature",
+      "person_id": "person/14042",
       "role": "member"
     },
     {
@@ -3623,24 +3641,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "scottish-national-party",
-      "organization_id": "legislature",
-      "person_id": "person/14042",
-      "role": "member"
-    },
-    {
-      "area_id": "area/central_scotland",
-      "legislative_period_id": "term/1",
+      "area_id": "area/falkirk_west",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
       "person_id": "person/14043",
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_west",
-      "legislative_period_id": "term/4",
+      "area_id": "area/central_scotland",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
       "person_id": "person/14043",
@@ -3657,7 +3667,7 @@
     },
     {
       "area_id": "area/central_scotland",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
       "person_id": "person/14043",
@@ -3773,7 +3783,8 @@
     },
     {
       "area_id": "area/motherwell_and_wishaw",
-      "legislative_period_id": "term/2",
+      "end_date": "2011-03-23",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
       "person_id": "person/14049",
@@ -3781,8 +3792,7 @@
     },
     {
       "area_id": "area/motherwell_and_wishaw",
-      "end_date": "2011-03-23",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
       "person_id": "person/14049",
@@ -4625,15 +4635,6 @@
     },
     {
       "area_id": "area/highlands_and_islands",
-      "end_date": "2006-04-07",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "conservative",
-      "organization_id": "legislature",
-      "person_id": "person/14090",
-      "role": "member"
-    },
-    {
-      "area_id": "area/highlands_and_islands",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -4644,6 +4645,15 @@
       "area_id": "area/highlands_and_islands",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "legislature",
+      "person_id": "person/14090",
+      "role": "member"
+    },
+    {
+      "area_id": "area/highlands_and_islands",
+      "end_date": "2006-04-07",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "person/14090",
