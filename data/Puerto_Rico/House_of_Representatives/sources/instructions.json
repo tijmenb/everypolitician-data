@@ -22,8 +22,7 @@
       "merge": { 
         "incoming_field": "name",
         "existing_field": "name",
-        "amatch_threshold": 45,
-        "amatch_warning": 70
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
