@@ -34,11 +34,7 @@
       "merge": { 
         "incoming_field": "name",
         "existing_field": "name",
-        "amatch_threshold": 60,
-        "amatch_warning": 100,
-        "overrides": { 
-          "Óscar Andrés López Arias": "808"
-        }
+        "reconciliation_file": "reconciliation/wikimedia.csv"
       }
     },
     {

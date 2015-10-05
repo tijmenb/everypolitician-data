@@ -20,10 +20,7 @@
       "merge": { 
         "incoming_field": "name",
         "existing_field": "name",
-        "amatch_threshold": 60,
-        "amatch_warning": 80,
-        "overrides": { 
-        }
+        "reconciliation_file": "reconciliation/wikidata.csv"
       },
       "source": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2012",
       "type": "person"

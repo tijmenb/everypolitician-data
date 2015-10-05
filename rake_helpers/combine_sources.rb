@@ -5,6 +5,73 @@ class String
   end
 end
 
+class Fuzzer
+
+  def initialize(existing_rows, incoming_rows, instructions)
+    @_existing_rows = existing_rows
+    @_incoming_rows = incoming_rows
+    @_instructions  = instructions
+    @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
+    @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
+  end
+
+  def fuzzer
+    @_fuzzer ||= FuzzyMatch.new(@_existing_rows, read: @_existing_field)
+  end
+
+  def find_all
+    @_incoming_rows.map do |incoming_row|
+      if incoming_row[@_incoming_field].to_s.empty?
+        warn "No #{@_incoming_field} in #{incoming_row}".red 
+        nil
+      else 
+        match = fuzzer.find_with_score(incoming_row[@_incoming_field])
+        data = [ incoming_row[@_incoming_field], match.first[@_existing_field], match[1].to_f * 100 ]
+        warn "Fuzzed #{data.to_s}"
+        data
+      end
+    end.compact
+  end
+
+end
+
+class Reconciler
+
+  def initialize(existing_rows, instructions, precanned)
+    @_existing_rows = existing_rows
+    @_instructions  = instructions
+    warn "Deprecated use of 'overrides'".cyan if @_instructions.include? :overrides
+    @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
+    @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
+    # TODO fix the ugly way we're getting these
+    @_instructions[:overrides] = precanned ? Hash[precanned.map { |r| [r.to_hash.values[0], r.to_hash.values[1]] }] : {}
+  end
+
+  def existing
+    @_lookup ||= @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
+  end
+
+  def find_all(incoming_row)
+    if incoming_row[@_incoming_field].to_s.empty?
+      warn "#{incoming_row} has no #{@_incoming_field}" 
+      return []
+    end
+
+    # Short-circuit if we've already been told who this matches
+    if preset = @_instructions[:overrides][incoming_row[@_incoming_field]]
+      return existing[ preset.downcase ] unless preset.to_s.empty?
+    end
+
+    if exact_match = existing[ incoming_row[@_incoming_field].downcase ]
+      return exact_match
+    end
+
+    return []
+
+  end
+
+end
+
 namespace :merge_sources do
 
   task :fetch_missing do
@@ -81,60 +148,6 @@ namespace :merge_sources do
     REMAP.find(->{[str]}) { |k, v| v.include? str.to_s }.first.to_sym
   end
 
-  class Reconciler
-
-    def initialize(existing_rows, instructions)
-      @_existing_rows = existing_rows
-      @_instructions  = instructions
-      @_instructions[:overrides] ||= {}
-      @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
-      @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-    end
-
-    def existing
-      @_lookup ||= @_existing_rows.group_by { |r| r[@_existing_field] }
-    end
-
-    def fuzzer
-      @_fuzzer ||= FuzzyMatch.new(@_existing_rows, read: @_existing_field)
-    end
-
-    def find_all(incoming_row)
-      if incoming_row[@_incoming_field].to_s.empty?
-        warn "#{incoming_row} has no #{@_incoming_field}" 
-        return []
-      end
-
-      # Short-circuit if we've already been told who this matches
-      if exact_match = @_instructions[:overrides][incoming_row[@_incoming_field].to_sym]
-        return @_existing_rows.find_all { |r| r[:id] == exact_match }
-      end
-
-      if exact_match = existing[ incoming_row[@_incoming_field] ]
-        return exact_match
-      end
-
-      # Approximate match?
-      if @_instructions.key? :amatch_threshold
-        match = fuzzer.find_with_score(incoming_row[@_incoming_field])
-        confidence = match[1].to_f * 100
-
-        if confidence < @_instructions[:amatch_threshold].to_f
-          warn "Too low match for: %s (Best = %s @ %.2f%%)".cyan % [ incoming_row[@_incoming_field], match.first[@_existing_field], confidence ]
-          return []
-        end
-
-        warn "Matched %s to %s @ %.2f%%".yellow % [incoming_row[@_incoming_field], match.first[@_existing_field], confidence ] if confidence < @_instructions[:amatch_warning].to_f
-        return existing[ match.first[@_existing_field] ]
-      end
-
-      # Nothing found
-      return []
-
-    end
-
-  end
-
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
 
@@ -167,13 +180,6 @@ namespace :merge_sources do
     # Then merge with Person data files
     #   existing_field: the field in the existing data to match to
     #   incoming_field: the field in the incoming data to match with
-    #
-    # For non-exact matching set 'amatch_threshold' to a minimum % score
-    # We also warn on any fuzzy match under the 'amatch_warning' % score
-    #
-    # To override to an exact match, supply the ID of the existing record 
-    # e.g. (with incoming_field='name')
-    #    "overrides": { "Ian Paisley, Jr.": "13852" }
 
     instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
       puts "Merging with #{pd[:file]}".magenta
@@ -182,8 +188,30 @@ namespace :merge_sources do
       warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
       all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
 
-      reconciler = Reconciler.new(merged_rows, pd[:merge])
       incoming_data = csv_table(pd[:file])
+
+      if rec_file = pd[:merge][:reconciliation_file]
+        rec_filename = File.join "sources", rec_file
+
+        incoming_fieldname = "incoming_" + pd[:merge][:incoming_field]
+        existing_fieldname = "existing_" + pd[:merge][:existing_field]
+
+        if File.exist? rec_filename
+          reconciled = CSV.table(rec_filename)
+        else
+          warn "Need to create #{rec_file}".cyan
+          fuzzer = Fuzzer.new(merged_rows, incoming_data, pd[:merge])
+          matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
+          FileUtils.mkpath File.dirname rec_filename
+          CSV.open(rec_filename, "wb") do |csv|
+            csv << [incoming_fieldname, existing_fieldname, 'confidence']
+            matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
+          end
+          abort "Created #{rec_filename} — please check it and re-run".green
+        end
+      end
+
+      reconciler = Reconciler.new(merged_rows, pd[:merge], reconciled)
       incoming_data.each do |incoming_row|
 
         incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
