@@ -8123,6 +8123,33 @@
     ]
   },
   {
+    "name": "Vietnam",
+    "country": "Vietnam",
+    "code": "vn",
+    "slug": "Vietnam",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Vietnam/National_Assembly/sources",
+        "popolo": "data/Vietnam/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1444059370",
+        "person_count": 492,
+        "sha": "aacd796",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/13",
+            "name": "13th Congress",
+            "start_date": "2011",
+            "slug": "13",
+            "csv": "data/Vietnam/National_Assembly/term-13.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Wales",
     "country": "Wales",
     "code": "GB-WLS",
