@@ -1,13 +1,22 @@
 {
   "persons": [
     {
+      "birth_date": "1968-08-13",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Alfred",
       "id": "person/845",
+      "identifiers": [
+        {
+          "identifier": "Q4722723",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Alfred_Ghiro.JPG",
       "images": [
         {
@@ -15,6 +24,34 @@
         }
       ],
       "name": "Alfred GHIRO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alfred Ghiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alfred Ghiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alfred Ghiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alfred Ghiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alfred Ghiro",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Ghiro, Hon. Alfred",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -36,24 +73,7 @@
         }
       ],
       "name": "Andrew MANEPORA'A",
-      "sources": [
-        {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
-        }
-      ]
-    },
-    {
-      "id": "person/bartholomew_parapolo",
-      "name": "Bartholomew PARAPOLO",
-      "sources": [
-        {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
-        }
-      ]
-    },
-    {
-      "id": "person/bradley_tovosia",
-      "name": "Bradley TOVOSIA",
+      "sort_name": "Manepora’a, Hon Andrew",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -64,10 +84,83 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "+677 22263"
+        }
+      ],
+      "id": "person/592",
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Bartholomew_Parapolo.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Bartholomew_Parapolo.jpg"
+        }
+      ],
+      "name": "Bartholomew PARAPOLO",
+      "sort_name": "Parapolo, Hon. Bartholomew",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1967-04-10",
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "id": "person/965",
+      "identifiers": [
+        {
+          "identifier": "Q4954443",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Bradley_Tovosia.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Bradley_Tovosia.jpg"
+        }
+      ],
+      "name": "Bradley TOVOSIA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Braddley Tovosia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Braddley Tovosia",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Tovosia, Hon. Bradley",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1957-02-11",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 28520"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Charles",
       "id": "person/871",
+      "identifiers": [
+        {
+          "identifier": "Q948060",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Charles%20Sigoto.jpg",
       "images": [
         {
@@ -75,6 +168,24 @@
         }
       ],
       "name": "Charles SIGOTO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Charles Sigoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Charles Sigoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Charles Sigoto",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Sigoto, Hon. Charles",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -96,6 +207,7 @@
         }
       ],
       "name": "Christopher LAORE",
+      "sort_name": "Laore, Hon. Christopher",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -103,13 +215,21 @@
       ]
     },
     {
+      "birth_date": "1965-04-11",
       "contact_details": [
         {
           "type": "phone",
-          "value": "+677 36720/36721"
+          "value": "+677 22208/28421"
         }
       ],
+      "gender": "male",
       "id": "person/861",
+      "identifiers": [
+        {
+          "identifier": "Q5152607",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Commins%20Aston%20Mewa.jpg",
       "images": [
         {
@@ -117,6 +237,24 @@
         }
       ],
       "name": "Commins Aston MEWA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Commins Mewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Commins Mewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Commins Aston Mewa",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Mewa, Hon. Commins Aston",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -132,15 +270,7 @@
         }
       ],
       "name": "Connelly Matthew SANDAKABATU",
-      "sources": [
-        {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
-        }
-      ]
-    },
-    {
-      "id": "person/culwick_togamana",
-      "name": "Culwick TOGAMANA",
+      "sort_name": "Sadakabatu, Hon. Connelly Mathew",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -151,10 +281,45 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "+677 28520"
+        }
+      ],
+      "id": "person/958",
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Dr%20Calwick_Togamana.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Dr%20Calwick_Togamana.JPG"
+        }
+      ],
+      "name": "Culwick TOGAMANA",
+      "sort_name": "Togamana, Hon. Dr. Culwick",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1953-08-05",
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "+677 38255/38256"
         }
       ],
+      "gender": "male",
+      "given_name": "Danny",
       "id": "person/865",
+      "identifiers": [
+        {
+          "identifier": "/m/0cgxc5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q561575",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Danny%20Philip.jpg",
       "images": [
         {
@@ -162,6 +327,74 @@
         }
       ],
       "name": "Danny Phillip",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ダニー・フィリップ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντάνι Φίλιπ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "داني فيليب",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Danny Philip",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Philip, Hon. Danny",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -183,6 +416,7 @@
         }
       ],
       "name": "David Tome WANESIOFA",
+      "sort_name": "Tome, Hon. David Wanesiofa",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -190,13 +424,22 @@
       ]
     },
     {
+      "birth_date": "1964-12-25",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 21552"
         }
       ],
+      "gender": "male",
+      "given_name": "David",
       "id": "person/863",
+      "identifiers": [
+        {
+          "identifier": "Q5238339",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/memberpics/pacha.jpg",
       "images": [
         {
@@ -204,15 +447,29 @@
         }
       ],
       "name": "David day PACHA",
-      "sources": [
+      "other_names": [
         {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+          "lang": "en",
+          "name": "David Pacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "David Pacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "David Pacha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Pacha",
+          "note": "multilingual"
         }
-      ]
-    },
-    {
-      "id": "person/derek_rawcliff_manu'ari",
-      "name": "Derek Rawcliff MANU'ARI",
+      ],
+      "sort_name": "Pacha, Hon. David Day",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -223,10 +480,45 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "+677 28520"
+        }
+      ],
+      "id": "person/967",
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Derrick_Manuari.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Derrick_Manuari.JPG"
+        }
+      ],
+      "name": "Derek Rawcliff MANU'ARI",
+      "sort_name": "Manu’ari, Hon. Derick Rawcliff",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-10-10",
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "+677 28803"
         }
       ],
+      "gender": "male",
+      "given_name": "Derek",
       "id": "person/872",
+      "identifiers": [
+        {
+          "identifier": "/m/03gy98f",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q379730",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Dr.%20Derek%20Sikua.JPG",
       "images": [
         {
@@ -234,6 +526,104 @@
         }
       ],
       "name": "Derek SIKUA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "デリック・シクア",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντέρεκ Σικούα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bi",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "데릭 시쿠아",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сикуа, Дерек",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tpi",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Derek Sikua",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Sikua, Hon. Dr. Derek",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -241,13 +631,22 @@
       ]
     },
     {
+      "birth_date": "1967-02-27",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Bodo",
       "id": "person/503",
+      "identifiers": [
+        {
+          "identifier": "Q4936699",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Bodo%20Dettke.jpg",
       "images": [
         {
@@ -255,6 +654,29 @@
         }
       ],
       "name": "Dettke Horst Heinz BODO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bodo Dettke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bodo Dettke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bodo Dettke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Heinz Horst Bodo Dettke",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Dettke, Hon. Horst Heinz Bodo",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -262,13 +684,22 @@
       ]
     },
     {
+      "birth_date": "1972-11-04",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Dickson",
       "id": "person/864",
+      "identifiers": [
+        {
+          "identifier": "Q2791876",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Dickson%20Mua.jpg",
       "images": [
         {
@@ -276,6 +707,24 @@
         }
       ],
       "name": "Dickson Mua PANAKITASI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dickson Mua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dickson Mua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dickson Mua Panakitasi",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Panakitasi, Hon. Dickson Mua",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -283,13 +732,22 @@
       ]
     },
     {
+      "birth_date": "1964-08-04",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 25591"
         }
       ],
+      "gender": "male",
+      "given_name": "Douglas",
       "id": "person/532",
+      "identifiers": [
+        {
+          "identifier": "Q5301444",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Douglas_Ete.JPG",
       "images": [
         {
@@ -297,6 +755,34 @@
         }
       ],
       "name": "Douglas ETE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Douglas Ete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Douglas Ete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Douglas Ete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Douglas Ete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Douglas Ete",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Ete, Hon. Douglas",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -307,7 +793,7 @@
       "contact_details": [
         {
           "type": "phone",
-          "value": "+677 28709"
+          "value": "+677 22143"
         }
       ],
       "id": "person/916",
@@ -318,6 +804,60 @@
         }
       ],
       "name": "Dudley KOPU",
+      "sort_name": "Kopu, Hon. Duddley",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-01-20",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 28520"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Elijah",
+      "id": "person/862",
+      "identifiers": [
+        {
+          "identifier": "Q5360910",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Elijah%20Doro%20Muala.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Elijah%20Doro%20Muala.jpg"
+        }
+      ],
+      "name": "Elijah Doro MUALA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Elijah Doro Muala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Elijah Doro Muala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elijah Doro Muala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Elijah Doro Muala",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Muala, Hon. Elijah Doro",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -328,26 +868,18 @@
       "contact_details": [
         {
           "type": "phone",
-          "value": "+677 28520"
+          "value": "+677 23544"
         }
       ],
-      "id": "person/862",
-      "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Elijah%20Doro%20Muala.jpg",
+      "id": "person/959",
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_FredaTuki_Soriocomua.JPG",
       "images": [
         {
-          "url": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Elijah%20Doro%20Muala.jpg"
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_FredaTuki_Soriocomua.JPG"
         }
       ],
-      "name": "Elijah Doro MUALA",
-      "sources": [
-        {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
-        }
-      ]
-    },
-    {
-      "id": "person/fredaab_tuki_soria_comua",
       "name": "FredaAB Tuki Soria COMUA",
+      "sort_name": "Soriacomua, Hon. Freda A.B. Tuki",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -369,6 +901,7 @@
         }
       ],
       "name": "Ishmael Mali AVUI",
+      "sort_name": "Avui, Hon. Ishmael Mali",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -376,13 +909,22 @@
       ]
     },
     {
+      "birth_date": "1957-10-13",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Jackson",
       "id": "person/506",
+      "identifiers": [
+        {
+          "identifier": "Q6117107",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Jackson_Fiulaua.JPG",
       "images": [
         {
@@ -390,6 +932,34 @@
         }
       ],
       "name": "Jackson FIULAUA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jackson Fiulaua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jackson Fiulaua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jackson Fiulaua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jackson Fiulaua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jackson Fiulaua",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Fiulaua, Hon. Jackson",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -411,6 +981,7 @@
         }
       ],
       "name": "Jeremiah MANELE",
+      "sort_name": "Manele, Hon. Jeremiah",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -432,6 +1003,7 @@
         }
       ],
       "name": "Jimmy LUSIBAEA",
+      "sort_name": "Lusibaea, Hon. Jimmy",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -439,8 +1011,21 @@
       ]
     },
     {
-      "id": "person/jimson_fiau_tanangada",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 25238"
+        }
+      ],
+      "id": "person/956",
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Jimson_Fiau%20Tanangada.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Jimson_Fiau%20Tanangada.jpg"
+        }
+      ],
       "name": "Jimson Fiau TANANGADA",
+      "sort_name": "Tanangada, Hon. Jimson Fiau",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -462,6 +1047,7 @@
         }
       ],
       "name": "John Dean KUKU",
+      "sort_name": "Kuku, Hon. John Dean",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -483,6 +1069,7 @@
         }
       ],
       "name": "John MANENIARU",
+      "sort_name": "Maneniaru, Hon. John",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -490,13 +1077,22 @@
       ]
     },
     {
+      "birth_date": "1961-09-09",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "John",
       "id": "person/507",
+      "identifiers": [
+        {
+          "identifier": "Q6249053",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Moffat_Fugui.JPG",
       "images": [
         {
@@ -504,6 +1100,29 @@
         }
       ],
       "name": "John Moffat FUGUI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "John Moffat Fugui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Moffat Fugui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "John Moffat Fugui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Moffat Fugui",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Fugui, Hon. John Moffat",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -514,7 +1133,7 @@
       "contact_details": [
         {
           "type": "phone",
-          "value": "+677 22143"
+          "value": "+677 28709"
         }
       ],
       "id": "person/930",
@@ -525,6 +1144,7 @@
         }
       ],
       "name": "Maeue Augustine AGA",
+      "sort_name": "Maeue, Hon. Augustine Auga",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -532,13 +1152,25 @@
       ]
     },
     {
+      "birth_date": "1955-01-17",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
       "id": "person/846",
+      "identifiers": [
+        {
+          "identifier": "/m/0bt_sb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q536063",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Manasseh%20Sogavare.JPG",
       "images": [
         {
@@ -546,6 +1178,99 @@
         }
       ],
       "name": "Manasseh Damukana SOGAVARE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μανάσε Σογκαβάρε",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Согаваре, Манассе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "梅纳西·索加瓦雷",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "梅納西·索加瓦雷",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "梅納西·索加瓦雷",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Manasseh Sogavare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "梅納西·索加瓦雷",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Sogavare, Hon. Manasseh Damukana",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -553,13 +1278,21 @@
       ]
     },
     {
+      "birth_date": "1970-03-25",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
       "id": "person/857",
+      "identifiers": [
+        {
+          "identifier": "Q6747030",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Manasseh%20Maelanga.jpg",
       "images": [
         {
@@ -567,6 +1300,29 @@
         }
       ],
       "name": "Manasseh MAELANGA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Manasseh Maelanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Manasseh Maelanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Manasseh Maelanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manasseh Maelanga",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Maelanga, Hon. Manasseh",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -588,6 +1344,7 @@
         }
       ],
       "name": "Martin KEALOE",
+      "sort_name": "Kealoe, Hon. Martin",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -595,31 +1352,117 @@
       ]
     },
     {
-      "id": "person/matthew_c_wale",
-      "name": "Matthew C WALE",
-      "sources": [
-        {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
-        }
-      ]
-    },
-    {
-      "id": "person/milner_tozaka",
-      "name": "Milner TOZAKA",
-      "sources": [
-        {
-          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
-        }
-      ]
-    },
-    {
+      "birth_date": "1968-06-13",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Matthew",
+      "id": "person/962",
+      "identifiers": [
+        {
+          "identifier": "Q6791373",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Matthew_C_Wale.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Matthew_C_Wale.jpg"
+        }
+      ],
+      "name": "Matthew C WALE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Matthew Wale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Matthew Wale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Matthew Wale",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Wale, Hon. Matthew C.",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1951-10-21",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 21250"
+        }
+      ],
+      "gender": "male",
+      "id": "person/964",
+      "identifiers": [
+        {
+          "identifier": "Q6860185",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Milner_Tozaka.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Milner_Tozaka.JPG"
+        }
+      ],
+      "name": "Milner TOZAKA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Milna Tozaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Milna Tozaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Milna Tozaka",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Tozaka, Hon. Milner",
+      "sources": [
+        {
+          "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
+        }
+      ]
+    },
+    {
+      "birth_date": "1969-12-01",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 28520"
+        }
+      ],
+      "gender": "male",
+      "given_name": "Moses",
       "id": "person/521",
+      "identifiers": [
+        {
+          "identifier": "Q6915778",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Moses_Garu.JPG",
       "images": [
         {
@@ -627,6 +1470,34 @@
         }
       ],
       "name": "Moses GARU",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Moses Garu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Moses Garu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Moses Garu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Moses Garu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Moses Garu",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Garu, Hon. Moses",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -634,8 +1505,51 @@
       ]
     },
     {
-      "id": "person/namson_tran",
+      "birth_date": "1968-12-03",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 28520"
+        }
+      ],
+      "gender": "male",
+      "id": "person/963",
+      "identifiers": [
+        {
+          "identifier": "Q6962085",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Namson_Tran.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Namson_Tran.jpg"
+        }
+      ],
       "name": "Namson TRAN",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Namson Tran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Namson Tran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Namson Tran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Namson Tran",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Tran, Hon. Namson",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -657,6 +1571,7 @@
         }
       ],
       "name": "Nestor GIRO",
+      "sort_name": "Giro, Hon. Nestor",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -664,13 +1579,22 @@
       ]
     },
     {
+      "birth_date": "1959-11-01",
       "contact_details": [
         {
           "type": "phone",
-          "value": "+677 28607"
+          "value": "+677 36720"
         }
       ],
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/591",
+      "identifiers": [
+        {
+          "identifier": "Q7176876",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Peter_Shanel_Agovaka.JPG",
       "images": [
         {
@@ -678,6 +1602,19 @@
         }
       ],
       "name": "Peter Shanel AGOVAKA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peter Shannel Agovaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter Shannel Agovaka",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Agovaka, Hon. Peter Shanel",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -685,13 +1622,22 @@
       ]
     },
     {
+      "birth_date": "1964-01-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Peter",
       "id": "person/875",
+      "identifiers": [
+        {
+          "identifier": "Q7177338",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/memberpics/tom.jpg",
       "images": [
         {
@@ -699,6 +1645,24 @@
         }
       ],
       "name": "Peter TOM",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peter Tom",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Peter Tom",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Peter Tom",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Tom, Hon. Peter",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -706,13 +1670,22 @@
       ]
     },
     {
+      "birth_date": "1971-04-12",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Lionel",
       "id": "person/866",
+      "identifiers": [
+        {
+          "identifier": "Q6555508",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Lionel%20Alex.jpg",
       "images": [
         {
@@ -720,6 +1693,34 @@
         }
       ],
       "name": "Qora Alex LIONAL",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lionel Alex",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lionel Alex",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lionel Alex",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lionel Alex",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lional Alex",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Qora, Hon. Lionel Alex",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -727,13 +1728,22 @@
       ]
     },
     {
+      "birth_date": "1958-08-08",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Rick",
       "id": "person/852",
+      "identifiers": [
+        {
+          "identifier": "Q7331464",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Rick_Houenipwela.JPG",
       "images": [
         {
@@ -741,6 +1751,19 @@
         }
       ],
       "name": "Rick Nelson HOUENIPWELA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rick Houenipwela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rick Houenipwela",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Houenipwela, Hon. Rick Nelson",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -754,7 +1777,15 @@
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Sam",
       "id": "person/853",
+      "identifiers": [
+        {
+          "identifier": "Q7407679",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20ShemuelSam%20Iduri.jpg",
       "images": [
         {
@@ -762,6 +1793,24 @@
         }
       ],
       "name": "Sam Shemuel IDURI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sam Iduri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sam Iduri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sam Iduri",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Iduri, Hon. Sam Shemuel",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -769,13 +1818,22 @@
       ]
     },
     {
+      "birth_date": "1969-01-24",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 23031/23032"
         }
       ],
+      "gender": "male",
+      "given_name": "Samuel",
       "id": "person/860",
+      "identifiers": [
+        {
+          "identifier": "Q7412100",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Samuel_Manetoali.JPG",
       "images": [
         {
@@ -783,6 +1841,29 @@
         }
       ],
       "name": "Sameul MANETOALI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Samuel Manetoali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Samuel Manetoali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Samuel Manetoali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Samuel Manetoali",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Manetoali, Hon. Samuel",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -804,6 +1885,7 @@
         }
       ],
       "name": "Samson MANEKA",
+      "sort_name": "Maneka, Hon. Samson",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -811,13 +1893,22 @@
       ]
     },
     {
+      "birth_date": "1983-08-12",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
+      "gender": "male",
+      "given_name": "Silas",
       "id": "person/874",
+      "identifiers": [
+        {
+          "identifier": "Q9336876",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Silas%20Tausinga.JPG",
       "images": [
         {
@@ -825,6 +1916,29 @@
         }
       ],
       "name": "Silas Kerry Vaqara TAUSINGA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silas Tausinga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Silas Tausinga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Silas Tausinga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Silas Tausinga",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Tausinga, Hon. Silas Kerry Vaqara",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -832,13 +1946,25 @@
       ]
     },
     {
+      "birth_date": "1949-07-27",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 22556/22557/22558"
         }
       ],
+      "gender": "male",
       "id": "person/849",
+      "identifiers": [
+        {
+          "identifier": "/m/0cp1th",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1370998",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles%5Cmemberpics%5Crini.jpg",
       "images": [
         {
@@ -846,6 +1972,64 @@
         }
       ],
       "name": "Snyder RINI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Рини, Снайдер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Snyder Rini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "स्नायडर रिनी",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Rini, Hon. Snyder",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -853,13 +2037,22 @@
       ]
     },
     {
+      "birth_date": "1964-01-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 21141/23430"
         }
       ],
+      "gender": "male",
+      "given_name": "Stanley",
       "id": "person/873",
+      "identifiers": [
+        {
+          "identifier": "Q7599597",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sb/memberfiles/memberpics/sofu.jpg",
       "images": [
         {
@@ -867,6 +2060,24 @@
         }
       ],
       "name": "Stanley Festus SOFU",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Stanley Festus Sofu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stanley Festus Sofu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stanley Festus Sofu",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Sofu, Hon. Stanley Festus",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -874,20 +2085,66 @@
       ]
     },
     {
+      "birth_date": "1969-01-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "+677 28520"
         }
       ],
-      "id": "person/592",
-      "image": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Steve%20Abana.jpg",
+      "gender": "male",
+      "given_name": "Steve",
+      "id": "person/961",
+      "identifiers": [
+        {
+          "identifier": "/m/04ychmk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q466573",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Steve_Abana.jpg",
       "images": [
         {
-          "url": "http://www.parliament.gov.sb/memberfiles/9th_Parliament/memberpics/Hon.%20Steve%20Abana.jpg"
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics/Hon_Steve_Abana.jpg"
         }
       ],
       "name": "Steve ABANA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Steve Abana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Steve Abana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Steve Abana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Steve Abana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Steve Abana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Steve Abana",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Abana, Hon. Steve William",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -909,6 +2166,7 @@
         }
       ],
       "name": "Tautai Agikimua KAITU'U",
+      "sort_name": "Kaitu’u, Hon. Dr. Tautai Angikimua",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -916,8 +2174,21 @@
       ]
     },
     {
-      "id": "person/willie_bradford_marau",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "+677 25081"
+        }
+      ],
+      "id": "person/966",
+      "image": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Willie_Bradford_Marau.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sb/memberfiles/10th_Parliament/memberpics%5CHon_Willie_Bradford_Marau.JPG"
+        }
+      ],
       "name": "Willie Bradford MARAU",
+      "sort_name": "Marau, Hon. William Bradford",
       "sources": [
         {
           "url": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results"
@@ -977,7 +2248,8 @@
   "meta": {
     "sources": [
       "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results",
-      "http://www.parliament.gov.sb/index.php?q=node/833"
+      "http://www.parliament.gov.sb/index.php?q=node/833",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
@@ -1030,7 +2302,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/fataleka",
+      "area_id": "area/ngella",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
@@ -1302,19 +2574,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/ngella",
+      "area_id": "area/gizo/kolombangara",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/united_democratic_party",
       "organization_id": "legislature",
-      "person_id": "person/bartholomew_parapolo",
-      "role": "member"
-    },
-    {
-      "area_id": "area/east_guadalcanal",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/bradley_tovosia",
+      "person_id": "person/956",
       "role": "member"
     },
     {
@@ -1322,15 +2586,7 @@
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/culwick_togamana",
-      "role": "member"
-    },
-    {
-      "area_id": "area/west_makira",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/solomon_islands_people_first_party",
-      "organization_id": "legislature",
-      "person_id": "person/derek_rawcliff_manu'ari",
+      "person_id": "person/958",
       "role": "member"
     },
     {
@@ -1338,15 +2594,15 @@
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
-      "person_id": "person/fredaab_tuki_soria_comua",
+      "person_id": "person/959",
       "role": "member"
     },
     {
-      "area_id": "area/gizo/kolombangara",
+      "area_id": "area/fataleka",
       "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/united_democratic_party",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/jimson_fiau_tanangada",
+      "person_id": "person/961",
       "role": "member"
     },
     {
@@ -1354,15 +2610,7 @@
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/matthew_c_wale",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_vella_la_vella",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/people's_alliance_party",
-      "organization_id": "legislature",
-      "person_id": "person/milner_tozaka",
+      "person_id": "person/962",
       "role": "member"
     },
     {
@@ -1370,7 +2618,23 @@
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/namson_tran",
+      "person_id": "person/963",
+      "role": "member"
+    },
+    {
+      "area_id": "area/north_vella_la_vella",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/people's_alliance_party",
+      "organization_id": "legislature",
+      "person_id": "person/964",
+      "role": "member"
+    },
+    {
+      "area_id": "area/east_guadalcanal",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/965",
       "role": "member"
     },
     {
@@ -1378,7 +2642,15 @@
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/people's_alliance_party",
       "organization_id": "legislature",
-      "person_id": "person/willie_bradford_marau",
+      "person_id": "person/966",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west_makira",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/solomon_islands_people_first_party",
+      "organization_id": "legislature",
+      "person_id": "person/967",
       "role": "member"
     }
   ],
