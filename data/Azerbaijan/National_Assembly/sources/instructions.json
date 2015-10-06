@@ -11,6 +11,20 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikidata",
+        "query": "SELECT *, id AS identifier__wikidata, NULL as id FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "original_wikiname",
+        "existing_field": "wikiname"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     }
