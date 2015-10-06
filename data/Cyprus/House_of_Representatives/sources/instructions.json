@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/cyprus-openpatata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://github.com/openpatata/openpatata-data/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/cyprus-openpatata",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}

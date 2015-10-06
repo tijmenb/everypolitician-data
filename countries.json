@@ -1741,6 +1741,32 @@
     ]
   },
   {
+    "name": "Cyprus",
+    "country": "Cyprus",
+    "code": "CY",
+    "slug": "Cyprus",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Cyprus/House_of_Representatives/sources",
+        "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1444143515",
+        "person_count": 57,
+        "sha": "d3ea9f5",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011-06-02",
+            "slug": "2011",
+            "csv": "data/Cyprus/House_of_Representatives/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Czech Republic",
     "country": "Czech Republic",
     "code": "CZ",
