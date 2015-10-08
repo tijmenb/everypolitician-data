@@ -3193,6 +3193,32 @@
     ]
   },
   {
+    "name": "Guinea-Bissau",
+    "country": "Guinea-Bissau",
+    "code": "GW",
+    "slug": "Guinea-Bissau",
+    "legislatures": [
+      {
+        "name": "National People's Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Guinea-Bissau/Assembly/sources",
+        "popolo": "data/Guinea-Bissau/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1444324712",
+        "person_count": 99,
+        "sha": "06e0daf",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014-",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Guinea-Bissau/Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Guyana",
     "country": "Guyana",
     "code": "GY",
