@@ -1,0 +1,126 @@
+{
+  "persons": [
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/antonio_maria_vegliò",
+      "name": "Antonio Maria Vegliò"
+    },
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/attilio_nicora",
+      "name": "Attilio Nicora"
+    },
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/domenico_calcagno",
+      "name": "Domenico Calcagno"
+    },
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/giovanni_battista_re",
+      "name": "Giovanni Battista Re"
+    },
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/giuseppe_bertello",
+      "name": "Giuseppe Bertello"
+    },
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/jean-louis_tauran",
+      "name": "Jean-Louis Tauran"
+    },
+    {
+      "honorific_prefix": "Cardinal",
+      "id": "person/leonardo_sandri",
+      "name": "Leonardo Sandri"
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q7478146",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Pontifical Commission",
+      "seats": 7
+    },
+    {
+      "classification": "party",
+      "id": "_ind",
+      "name": "n/a"
+    }
+  ],
+  "meta": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pontifical_Commission_for_Vatican_City_State"
+    ]
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/antonio_maria_vegliò",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/attilio_nicora",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/domenico_calcagno",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/giovanni_battista_re",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/giuseppe_bertello",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/jean-louis_tauran",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "_ind",
+      "organization_id": "legislature",
+      "person_id": "person/leonardo_sandri",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2011",
+      "name": "2011–",
+      "organization_id": "legislature",
+      "start_date": "2011-10-01"
+    }
+  ],
+  "areas": [
+
+  ]
+}
