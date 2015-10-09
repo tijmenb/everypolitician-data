@@ -5502,9 +5502,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1444047222",
+        "lastmod": "1444401824",
         "person_count": 238,
-        "sha": "5398858",
+        "sha": "b12e00c",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -6525,9 +6525,9 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1444049599",
+        "lastmod": "1444402003",
         "person_count": 254,
-        "sha": "44956e7",
+        "sha": "d6e60d7",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -6930,9 +6930,9 @@
         "slug": "Lower",
         "sources_directory": "data/Somalia/Lower/sources",
         "popolo": "data/Somalia/Lower/ep-popolo-v1.0.json",
-        "lastmod": "1443992302",
+        "lastmod": "1444381436",
         "person_count": 204,
-        "sha": "b96a5ec",
+        "sha": "3339ea2",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -7355,9 +7355,9 @@
         "slug": "Legislative-Yuan",
         "sources_directory": "data/Taiwan/Legislative_Yuan/sources",
         "popolo": "data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
-        "lastmod": "1443992302",
+        "lastmod": "1444395702",
         "person_count": 111,
-        "sha": "b96a5ec",
+        "sha": "54c9bb6",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -8004,9 +8004,9 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "lastmod": "1444047154",
+        "lastmod": "1444402192",
         "person_count": 1337,
-        "sha": "8b51375",
+        "sha": "4a983c8",
         "legislative_periods": [
           {
             "id": "term/56",
@@ -8168,6 +8168,32 @@
             "start_date": "2012",
             "slug": "10",
             "csv": "data/Vanuatu/Parliament/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "country": "Vatican City",
+    "code": "VA",
+    "slug": "Vatican-City",
+    "legislatures": [
+      {
+        "name": "Pontifical Commission",
+        "slug": "Pontifical-Commission",
+        "sources_directory": "data/Vatican_City/Pontifical_Commission/sources",
+        "popolo": "data/Vatican_City/Pontifical_Commission/ep-popolo-v1.0.json",
+        "lastmod": "1444421201",
+        "person_count": 7,
+        "sha": "9fff044",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011-10-01",
+            "slug": "2011",
+            "csv": "data/Vatican_City/Pontifical_Commission/term-2011.csv"
           }
         ]
       }
