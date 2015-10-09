@@ -10,7 +10,6 @@ require 'colorize'
 require 'csv'
 require 'open-uri'
 require 'pry'
-# require 'scraperwiki'
 require 'set'
 require 'yajl/json_gem'
 
@@ -18,12 +17,22 @@ def json_load(file)
   JSON.parse(open(file).read, symbolize_names: true)
 end
 
-@terms = CSV.table('../terms.csv')
+@terms = CSV.table('../manual/terms.csv')
 
-file = 'twfy.json' # or take remote filename
+config = { 
+  organization_id: 'house-of-commons',
+  start_date: '1997-05-01',
+  period_overrides: { }
+}
+
+file = '../../../../UK/Commons/sources/parlparse/twfy.json'
 @json = json_load(file)
-posts = @json[:posts].find_all { |p| p[:organization_id] == 'house-of-commons' }
-@json[:memberships].delete_if { |m| m.key?(:start_date) && m[:start_date] < '1997-05-01' }
+posts = @json[:posts].find_all { |p| p[:organization_id] == config[:organization_id] }
+config[:period_overrides].each do |mid, pid|
+  @json[:memberships].find { |m| m[:id] == "uk.org.publicwhip/member/#{mid}" }[:legislative_period_id] = pid
+end
+
+@json[:memberships].delete_if { |m| m.key?(:start_date) && m[:start_date] < config[:start_date] } if config.key? :start_date
 
 #----------
 
