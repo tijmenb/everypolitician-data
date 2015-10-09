@@ -3,4 +3,4 @@
 
 curl -o twfy.json https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json 
 
-ruby json_to_csv.rb twfy.json > data.csv
+ruby $(git rev-parse --show-toplevel)/bin/parlparse_to_csv.rb instructions.json > data.csv
