@@ -19,12 +19,7 @@ end
 
 @terms = CSV.table('../manual/terms.csv')
 
-config = { 
-  organization_id: 'northern-ireland-assembly',
-  period_overrides: { 
-    '90241' => '2',
-  }
-}
+config = json_load('instructions.json')
 
 file = '../../../../UK/Commons/sources/parlparse/twfy.json'
 @json = json_load(file)
