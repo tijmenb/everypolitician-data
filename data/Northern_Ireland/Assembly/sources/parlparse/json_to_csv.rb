@@ -19,7 +19,8 @@ end
 
 @terms = CSV.table('../manual/terms.csv')
 
-config = json_load('instructions.json')
+instructions_file = ARGV.shift or abort 'Need an instructions file'
+config = json_load(instructions_file)
 
 file = '../../../../UK/Commons/sources/parlparse/twfy.json'
 @json = json_load(file)
@@ -28,9 +29,6 @@ config[:period_overrides].each do |mid, pid|
   @json[:memberships].find { |m| m[:id] == "uk.org.publicwhip/member/#{mid}" }[:legislative_period_id] = pid
 end
 @json[:memberships].delete_if { |m| m.key?(:start_date) && m[:start_date] < config[:start_date] } if config.key? :start_date
-
-
-#----------
 
 
 
