@@ -10,7 +10,6 @@ require 'colorize'
 require 'csv'
 require 'open-uri'
 require 'pry'
-# require 'scraperwiki'
 require 'set'
 require 'yajl/json_gem'
 
@@ -20,12 +19,21 @@ end
 
 @terms = CSV.table('../manual/terms.csv')
 
+config = { 
+  organization_id: 'northern-ireland-assembly',
+  period_overrides: { 
+    '90241' => '2',
+  }
+}
+
 file = '../../../../UK/Commons/sources/parlparse/twfy.json'
 @json = json_load(file)
-posts = @json[:posts].find_all { |p| p[:organization_id] == 'northern-ireland-assembly' }
-# Special case for Eileen Bell as Speaker
-@json[:memberships].find { |m| m[:id] == 'uk.org.publicwhip/member/90241' }[:legislative_period_id] = '2'
-#
+posts = @json[:posts].find_all { |p| p[:organization_id] == config[:organization_id] }
+config[:period_overrides].each do |mid, pid|
+  @json[:memberships].find { |m| m[:id] == "uk.org.publicwhip/member/#{mid}" }[:legislative_period_id] = pid
+end
+@json[:memberships].delete_if { |m| m.key?(:start_date) && m[:start_date] < config[:start_date] } if config.key? :start_date
+
 
 #----------
 
