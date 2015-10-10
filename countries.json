@@ -1281,6 +1281,32 @@
     ]
   },
   {
+    "name": "Cambodia",
+    "country": "Cambodia",
+    "code": "KH",
+    "slug": "Cambodia",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Cambodia/National_Assembly/sources",
+        "popolo": "data/Cambodia/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1444505270",
+        "person_count": 123,
+        "sha": "206128d",
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "5th Mandate",
+            "start_date": "2013",
+            "slug": "5",
+            "csv": "data/Cambodia/National_Assembly/term-5.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Cameroon",
     "country": "Cameroon",
     "code": "CM",
