@@ -1372,6 +1372,15 @@
       ]
     },
     {
+      "id": "person/keo_sambath",
+      "name": "Keo Sambath",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_of_the_National_Assembly_of_Cambodia"
+        }
+      ]
+    },
+    {
       "birth_date": "1951-02-07",
       "gender": "male",
       "id": "person/Q3194577",
@@ -3597,6 +3606,14 @@
       "on_behalf_of_id": "party/cambodian_people's_party",
       "organization_id": "legislature",
       "person_id": "person/keo_ratanak",
+      "role": "member"
+    },
+    {
+      "area_id": "area/phnom_penh_province",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/cambodia_national_rescue_party",
+      "organization_id": "legislature",
+      "person_id": "person/keo_sambath",
       "role": "member"
     },
     {
