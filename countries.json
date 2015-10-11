@@ -6515,6 +6515,57 @@
     ]
   },
   {
+    "name": "Sark",
+    "country": "Sark",
+    "code": "GG-SRK",
+    "slug": "Sark",
+    "legislatures": [
+      {
+        "name": "Chief Pleas",
+        "slug": "Chief-Pleas",
+        "sources_directory": "data/Sark/Chief_Pleas/sources",
+        "popolo": "data/Sark/Chief_Pleas/ep-popolo-v1.0.json",
+        "lastmod": "1444554756",
+        "person_count": 46,
+        "sha": "6b38bc8",
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/2015",
+            "name": "2015-2017",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Sark/Chief_Pleas/term-2015.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/2013",
+            "name": "2013-2015",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Sark/Chief_Pleas/term-2013.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/2011",
+            "name": "2011-2013",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Sark/Chief_Pleas/term-2011.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/2009",
+            "name": "2009-2011",
+            "start_date": "2009",
+            "slug": "2009",
+            "csv": "data/Sark/Chief_Pleas/term-2009.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Saudi Arabia",
     "country": "Saudi Arabia",
     "code": "SA",
