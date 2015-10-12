@@ -5,20 +5,14 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/kyrgyzstan-deputies",
-        "query": "SELECT * FROM data"
+        "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, 5 AS term, source FROM data"
       },
       "source": "https://morph.io/tmtmtmtm/kyrgyzstan-deputies",
       "type": "membership"
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "type": "morph",
-        "scraper": "tmtmtmtm/kyrgyzstan-deputies",
-        "query": "SELECT * FROM terms"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     }
   ]
 }
