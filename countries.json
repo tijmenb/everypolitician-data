@@ -8080,6 +8080,33 @@
     ]
   },
   {
+    "name": "United Arab Emirates",
+    "country": "United Arab Emirates",
+    "code": "AE",
+    "slug": "United-Arab-Emirates",
+    "legislatures": [
+      {
+        "name": "Federal National Council",
+        "slug": "Federal-National-Council",
+        "sources_directory": "data/United_Arab_Emirates/Federal_National_Council/sources",
+        "popolo": "data/United_Arab_Emirates/Federal_National_Council/ep-popolo-v1.0.json",
+        "lastmod": "1444679682",
+        "person_count": 40,
+        "sha": "07e23cf",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/2011",
+            "name": "2011–2015",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/United_Arab_Emirates/Federal_National_Council/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "United Kingdom",
     "country": "United Kingdom",
     "code": "GB",
