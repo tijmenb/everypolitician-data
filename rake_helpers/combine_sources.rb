@@ -53,7 +53,7 @@ class Reconciler
 
   def find_all(incoming_row)
     if incoming_row[@_incoming_field].to_s.empty?
-      warn "#{incoming_row} has no #{@_incoming_field}" 
+      warn "#{incoming_row.reject { |k, v| v.nil? }} has no #{@_incoming_field}" 
       return []
     end
 
