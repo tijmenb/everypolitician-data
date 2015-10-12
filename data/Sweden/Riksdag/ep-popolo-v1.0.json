@@ -334,6 +334,23 @@
       ]
     },
     {
+      "email": "anders.osterberg@riksdagen.se",
+      "gender": "male",
+      "id": "person/0277648711624",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0277648711624_max.jpg",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0277648711624_max.jpg"
+        }
+      ],
+      "name": "Anders Österberg",
+      "sources": [
+        {
+          "url": "http://data.riksdagen.se/"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -999,6 +1016,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "64419"
+        }
+      ],
       "email": "birgitta.ohlsson@riksdagen.se",
       "gender": "female",
       "id": "person/0404025497421",
@@ -3028,6 +3051,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "64762"
+        }
+      ],
       "email": "isabella.hokmark@riksdagen.se",
       "gender": "female",
       "id": "person/0219220227418",
@@ -3803,6 +3832,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "64149"
+        }
+      ],
       "email": "jonas.millard@riksdagen.se",
       "gender": "male",
       "id": "person/0387358739126",
@@ -6072,12 +6107,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "65132"
-        }
-      ],
       "email": "pavel.gamov@riksdagen.se",
       "gender": "male",
       "id": "person/0504711999229",
@@ -7615,6 +7644,29 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "65845"
+        }
+      ],
+      "email": "ulrika.heindorff@riksdagen.se",
+      "gender": "female",
+      "id": "person/0764949934324",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0764949934324_max.jpg",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0764949934324_max.jpg"
+        }
+      ],
+      "name": "Ulrika Heindorff",
+      "sources": [
+        {
+          "url": "http://data.riksdagen.se/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "65325"
         }
       ],
@@ -8592,6 +8644,14 @@
       "on_behalf_of_id": "FP",
       "organization_id": "legislature",
       "person_id": "person/0275724540919",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "S",
+      "organization_id": "legislature",
+      "person_id": "person/0277648711624",
       "role": "member"
     },
     {
@@ -9992,6 +10052,14 @@
       "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "person/0760500234712",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:se/constituency:skåne-läns-västra",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "M",
+      "organization_id": "legislature",
+      "person_id": "person/0764949934324",
       "role": "member"
     },
     {
