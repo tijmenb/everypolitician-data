@@ -5618,6 +5618,22 @@
     },
     {
       "gender": "male",
+      "id": "person/shiiki_tamotsu",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_s.htm",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_s.htm"
+        }
+      ],
+      "name": "SHIIKI Tamotsu",
+      "sources": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_s.htm"
+        }
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/shimada_yoshikazu",
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/222.jpg/$File/222.jpg",
       "images": [
@@ -7618,11 +7634,6 @@
     },
     {
       "classification": "party",
-      "id": "party/pfg",
-      "name": "PFG"
-    },
-    {
-      "classification": "party",
       "id": "party/plptyf",
       "name": "PLPTYF"
     },
@@ -8277,7 +8288,7 @@
     {
       "area_id": "area/okayama_3rd_district",
       "legislative_period_id": "term/46",
-      "on_behalf_of_id": "party/pfg",
+      "on_behalf_of_id": "party/ldp",
       "organization_id": "legislature",
       "person_id": "person/hiranuma_takeo",
       "role": "member"
@@ -10459,6 +10470,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kinki_block",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/jip",
+      "organization_id": "legislature",
+      "person_id": "person/shiiki_tamotsu",
+      "role": "member"
+    },
+    {
       "area_id": "area/tokai_bloc",
       "legislative_period_id": "term/46",
       "on_behalf_of_id": "party/ldp",
@@ -10581,7 +10600,7 @@
     {
       "area_id": "area/kumamoto_4th_district",
       "legislative_period_id": "term/46",
-      "on_behalf_of_id": "party/pfg",
+      "on_behalf_of_id": "party/ldp",
       "organization_id": "legislature",
       "person_id": "person/sonoda_hiroyuki",
       "role": "member"
@@ -12156,6 +12175,11 @@
     {
       "id": "area/kinki_bloc",
       "name": "Kinki Bloc",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kinki_block",
+      "name": "Kinki Block",
       "type": "constituency"
     },
     {
