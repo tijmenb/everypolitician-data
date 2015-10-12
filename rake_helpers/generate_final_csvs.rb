@@ -107,7 +107,7 @@ namespace :term_csvs do
       nameset = Set.new([p[:name]])
       nameset.merge (p[:other_names] || []).map { |n| n[:name] }
       nameset.map { |n| [n, p[:id].split('/').last] }
-    }.flatten(1).uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| name }
+    }.flatten(1).uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name, id] }
 
     filename = "names.csv"
     header = %w(name id).to_csv

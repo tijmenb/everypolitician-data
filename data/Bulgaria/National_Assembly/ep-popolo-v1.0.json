@@ -11853,6 +11853,30 @@
       ]
     },
     {
+      "birth_date": "1977-01-26",
+      "email": "ivan.ibrishimov@parliament.bg",
+      "id": "person/2625",
+      "image": "http://www.parliament.bg/images/Assembly/2625.png",
+      "images": [
+        {
+          "url": "http://www.parliament.bg/images/Assembly/2625.png"
+        }
+      ],
+      "name": "IVAN IVAN IBRISHIMOV",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "IVAN IVAN IBRISHIMOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ИВАН ИВАН ИБРИШИМОВ",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1967-03-26",
       "email": "i_iskrov@hotmail.com",
       "id": "person/676",
@@ -35319,15 +35343,6 @@
     },
     {
       "area_id": "25",
-      "end_date": "2014-06-25",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/coalition_for_bulgaria",
-      "organization_id": "legislature",
-      "person_id": "person/1680",
-      "role": "member"
-    },
-    {
-      "area_id": "25",
       "end_date": "2014-06-27",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "party/coalition_for_bulgaria",
@@ -35335,6 +35350,15 @@
       "person_id": "person/1680",
       "role": "member",
       "start_date": "2014-06-25"
+    },
+    {
+      "area_id": "25",
+      "end_date": "2014-06-25",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "party/coalition_for_bulgaria",
+      "organization_id": "legislature",
+      "person_id": "person/1680",
+      "role": "member"
     },
     {
       "area_id": "15",
@@ -35362,21 +35386,21 @@
     },
     {
       "area_id": "6",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/coalition_for_bulgaria",
-      "organization_id": "legislature",
-      "person_id": "person/1685",
-      "role": "member",
-      "start_date": "2014-06-25"
-    },
-    {
-      "area_id": "6",
       "end_date": "2014-06-25",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "party/coalition_for_bulgaria",
       "organization_id": "legislature",
       "person_id": "person/1685",
       "role": "member"
+    },
+    {
+      "area_id": "6",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "party/coalition_for_bulgaria",
+      "organization_id": "legislature",
+      "person_id": "person/1685",
+      "role": "member",
+      "start_date": "2014-06-25"
     },
     {
       "area_id": "27",
@@ -35478,21 +35502,21 @@
     },
     {
       "area_id": "4",
-      "end_date": "2013-12-03",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/political_party_gerb",
-      "organization_id": "legislature",
-      "person_id": "person/1696",
-      "role": "member"
-    },
-    {
-      "area_id": "4",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "party/national_assembly_members_of_no_membership_with_a_parliamentary_group",
       "organization_id": "legislature",
       "person_id": "person/1696",
       "role": "member",
       "start_date": "2013-12-03"
+    },
+    {
+      "area_id": "4",
+      "end_date": "2013-12-03",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "party/political_party_gerb",
+      "organization_id": "legislature",
+      "person_id": "person/1696",
+      "role": "member"
     },
     {
       "area_id": "24",
@@ -35591,15 +35615,6 @@
     },
     {
       "area_id": "13",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/movement_for_rights_and_freedoms",
-      "organization_id": "legislature",
-      "person_id": "person/1705",
-      "role": "member",
-      "start_date": "2014-06-27"
-    },
-    {
-      "area_id": "13",
       "end_date": "2014-06-19",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "party/movement_for_rights_and_freedoms",
@@ -35607,6 +35622,15 @@
       "person_id": "person/1705",
       "role": "member",
       "start_date": "2013-05-31"
+    },
+    {
+      "area_id": "13",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "party/movement_for_rights_and_freedoms",
+      "organization_id": "legislature",
+      "person_id": "person/1705",
+      "role": "member",
+      "start_date": "2014-06-27"
     },
     {
       "area_id": "18",
@@ -35683,6 +35707,15 @@
     },
     {
       "area_id": "29",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/nmss_stability_and_prosperity",
+      "organization_id": "legislature",
+      "person_id": "person/173",
+      "role": "member",
+      "start_date": "2008-04-24"
+    },
+    {
+      "area_id": "29",
       "end_date": "2005-08-16",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/nmss_stability_and_prosperity",
@@ -35690,15 +35723,6 @@
       "person_id": "person/173",
       "role": "member",
       "start_date": "2005-07-14"
-    },
-    {
-      "area_id": "29",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/nmss_stability_and_prosperity",
-      "organization_id": "legislature",
-      "person_id": "person/173",
-      "role": "member",
-      "start_date": "2008-04-24"
     },
     {
       "area_id": "26",
@@ -35747,15 +35771,6 @@
     },
     {
       "area_id": "29",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/the_bulgarian_new_democracy",
-      "organization_id": "legislature",
-      "person_id": "person/174",
-      "role": "member",
-      "start_date": "2007-12-05"
-    },
-    {
-      "area_id": "29",
       "end_date": "2007-12-04",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/nmss_stability_and_prosperity",
@@ -35763,6 +35778,15 @@
       "person_id": "person/174",
       "role": "member",
       "start_date": "2005-07-14"
+    },
+    {
+      "area_id": "29",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/the_bulgarian_new_democracy",
+      "organization_id": "legislature",
+      "person_id": "person/174",
+      "role": "member",
+      "start_date": "2007-12-05"
     },
     {
       "area_id": "29",
@@ -35776,12 +35800,13 @@
     },
     {
       "area_id": "29",
-      "end_date": "2008-12-16",
+      "end_date": "2009-06-24",
       "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/bulgarian_people's_union",
+      "on_behalf_of_id": "party/movement_forward",
       "organization_id": "legislature",
       "person_id": "person/175",
-      "role": "member"
+      "role": "member",
+      "start_date": "2008-12-16"
     },
     {
       "area_id": "29",
@@ -35794,13 +35819,12 @@
     },
     {
       "area_id": "29",
-      "end_date": "2009-06-24",
+      "end_date": "2008-12-16",
       "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/movement_forward",
+      "on_behalf_of_id": "party/bulgarian_people's_union",
       "organization_id": "legislature",
       "person_id": "person/175",
-      "role": "member",
-      "start_date": "2008-12-16"
+      "role": "member"
     },
     {
       "area_id": "29",
@@ -35830,6 +35854,15 @@
     },
     {
       "area_id": "30",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/179",
+      "role": "member",
+      "start_date": "2009-06-17"
+    },
+    {
+      "area_id": "30",
       "end_date": "2009-06-17",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/the_ataka_coalition",
@@ -35837,15 +35870,6 @@
       "person_id": "person/179",
       "role": "member",
       "start_date": "2005-07-13"
-    },
-    {
-      "area_id": "30",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/179",
-      "role": "member",
-      "start_date": "2009-06-17"
     },
     {
       "area_id": "3",
@@ -35919,16 +35943,6 @@
     },
     {
       "area_id": "31",
-      "end_date": "2005-09-02",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/nmss_stability_and_prosperity",
-      "organization_id": "legislature",
-      "person_id": "person/186",
-      "role": "member",
-      "start_date": "2005-07-14"
-    },
-    {
-      "area_id": "31",
       "end_date": "2007-11-07",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/nmss_stability_and_prosperity",
@@ -35936,6 +35950,16 @@
       "person_id": "person/186",
       "role": "member",
       "start_date": "2005-09-02"
+    },
+    {
+      "area_id": "31",
+      "end_date": "2005-09-02",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/nmss_stability_and_prosperity",
+      "organization_id": "legislature",
+      "person_id": "person/186",
+      "role": "member",
+      "start_date": "2005-07-14"
     },
     {
       "area_id": "9",
@@ -36030,15 +36054,6 @@
     },
     {
       "area_id": "23",
-      "end_date": "2008-12-16",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/bulgarian_people's_union",
-      "organization_id": "legislature",
-      "person_id": "person/196",
-      "role": "member"
-    },
-    {
-      "area_id": "23",
       "end_date": "2009-06-24",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/movement_forward",
@@ -36046,6 +36061,15 @@
       "person_id": "person/196",
       "role": "member",
       "start_date": "2008-12-16"
+    },
+    {
+      "area_id": "23",
+      "end_date": "2008-12-16",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/bulgarian_people's_union",
+      "organization_id": "legislature",
+      "person_id": "person/196",
+      "role": "member"
     },
     {
       "area_id": "23",
@@ -36077,6 +36101,15 @@
     },
     {
       "area_id": "23",
+      "end_date": "2005-10-20",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
+      "organization_id": "legislature",
+      "person_id": "person/199",
+      "role": "member"
+    },
+    {
+      "area_id": "23",
       "end_date": "2008-07-23",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
@@ -36084,15 +36117,6 @@
       "person_id": "person/199",
       "role": "member",
       "start_date": "2005-10-20"
-    },
-    {
-      "area_id": "23",
-      "end_date": "2005-10-20",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
-      "organization_id": "legislature",
-      "person_id": "person/199",
-      "role": "member"
     },
     {
       "area_id": "1",
@@ -36755,23 +36779,13 @@
     },
     {
       "area_id": "23",
-      "end_date": "2008-02-07",
+      "end_date": "2008-12-16",
       "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/bulgarian_people's_union",
       "organization_id": "legislature",
       "person_id": "person/231",
       "role": "member",
-      "start_date": "2006-08-09"
-    },
-    {
-      "area_id": "23",
-      "end_date": "2006-08-09",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/the_ataka_coalition",
-      "organization_id": "legislature",
-      "person_id": "person/231",
-      "role": "member",
-      "start_date": "2005-07-13"
+      "start_date": "2008-02-07"
     },
     {
       "area_id": "23",
@@ -36781,6 +36795,16 @@
       "person_id": "person/231",
       "role": "member",
       "start_date": "2009-06-24"
+    },
+    {
+      "area_id": "23",
+      "end_date": "2008-02-07",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/231",
+      "role": "member",
+      "start_date": "2006-08-09"
     },
     {
       "area_id": "23",
@@ -36794,13 +36818,13 @@
     },
     {
       "area_id": "23",
-      "end_date": "2008-12-16",
+      "end_date": "2006-08-09",
       "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/bulgarian_people's_union",
+      "on_behalf_of_id": "party/the_ataka_coalition",
       "organization_id": "legislature",
       "person_id": "person/231",
       "role": "member",
-      "start_date": "2008-02-07"
+      "start_date": "2005-07-13"
     },
     {
       "area_id": "25",
@@ -36900,15 +36924,6 @@
     },
     {
       "area_id": "24",
-      "end_date": "2008-12-16",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/bulgarian_people's_union",
-      "organization_id": "legislature",
-      "person_id": "person/233",
-      "role": "member"
-    },
-    {
-      "area_id": "24",
       "end_date": "2009-06-24",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/movement_forward",
@@ -36916,6 +36931,15 @@
       "person_id": "person/233",
       "role": "member",
       "start_date": "2008-12-16"
+    },
+    {
+      "area_id": "24",
+      "end_date": "2008-12-16",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/bulgarian_people's_union",
+      "organization_id": "legislature",
+      "person_id": "person/233",
+      "role": "member"
     },
     {
       "area_id": "23",
@@ -36936,19 +36960,19 @@
     {
       "area_id": "23",
       "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/parliamentary_group_bsp_left_bulgaria",
+      "organization_id": "legislature",
+      "person_id": "person/2332",
+      "role": "member"
+    },
+    {
+      "area_id": "23",
+      "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/national_assembly_members_not_affiliated_with_a_parliamentary_group",
       "organization_id": "legislature",
       "person_id": "person/2332",
       "role": "member",
       "start_date": "2015-09-10"
-    },
-    {
-      "area_id": "23",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/parliamentary_group_bsp_left_bulgaria",
-      "organization_id": "legislature",
-      "person_id": "person/2332",
-      "role": "member"
     },
     {
       "area_id": "23",
@@ -37067,21 +37091,21 @@
     },
     {
       "area_id": "1",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/national_assembly_members_not_affiliated_with_a_parliamentary_group",
-      "organization_id": "legislature",
-      "person_id": "person/2347",
-      "role": "member",
-      "start_date": "2014-11-28"
-    },
-    {
-      "area_id": "1",
       "end_date": "2014-11-28",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/movement_for_rights_and_freedoms",
       "organization_id": "legislature",
       "person_id": "person/2347",
       "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/national_assembly_members_not_affiliated_with_a_parliamentary_group",
+      "organization_id": "legislature",
+      "person_id": "person/2347",
+      "role": "member",
+      "start_date": "2014-11-28"
     },
     {
       "area_id": "24",
@@ -37101,16 +37125,6 @@
     },
     {
       "area_id": "25",
-      "end_date": "2009-02-26",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/235",
-      "role": "member",
-      "start_date": "2006-02-02"
-    },
-    {
-      "area_id": "25",
       "end_date": "2006-02-02",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/the_ataka_coalition",
@@ -37118,6 +37132,16 @@
       "person_id": "person/235",
       "role": "member",
       "start_date": "2005-07-13"
+    },
+    {
+      "area_id": "25",
+      "end_date": "2009-02-26",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/235",
+      "role": "member",
+      "start_date": "2006-02-02"
     },
     {
       "area_id": "24",
@@ -37146,15 +37170,6 @@
     },
     {
       "area_id": "24",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/reformist_bloc",
-      "organization_id": "legislature",
-      "person_id": "person/2353",
-      "role": "member",
-      "start_date": "2014-11-28"
-    },
-    {
-      "area_id": "24",
       "end_date": "2014-11-28",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/reformist_bloc",
@@ -37167,16 +37182,16 @@
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/reformist_bloc",
       "organization_id": "legislature",
-      "person_id": "person/2354",
-      "role": "member"
+      "person_id": "person/2353",
+      "role": "member",
+      "start_date": "2014-11-28"
     },
     {
-      "area_id": "1",
-      "end_date": "2014-12-18",
+      "area_id": "24",
       "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/bulgarian_democratic_center",
+      "on_behalf_of_id": "party/reformist_bloc",
       "organization_id": "legislature",
-      "person_id": "person/2355",
+      "person_id": "person/2354",
       "role": "member"
     },
     {
@@ -37187,6 +37202,15 @@
       "person_id": "person/2355",
       "role": "member",
       "start_date": "2014-12-18"
+    },
+    {
+      "area_id": "1",
+      "end_date": "2014-12-18",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/bulgarian_democratic_center",
+      "organization_id": "legislature",
+      "person_id": "person/2355",
+      "role": "member"
     },
     {
       "area_id": "1",
@@ -37526,21 +37550,21 @@
     },
     {
       "area_id": "26",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/bulgarian_democratic_center",
-      "organization_id": "legislature",
-      "person_id": "person/2396",
-      "role": "member",
-      "start_date": "2014-12-18"
-    },
-    {
-      "area_id": "26",
       "end_date": "2014-12-18",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/bulgarian_democratic_center",
       "organization_id": "legislature",
       "person_id": "person/2396",
       "role": "member"
+    },
+    {
+      "area_id": "26",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/bulgarian_democratic_center",
+      "organization_id": "legislature",
+      "person_id": "person/2396",
+      "role": "member",
+      "start_date": "2014-12-18"
     },
     {
       "area_id": "4",
@@ -37964,21 +37988,21 @@
     },
     {
       "area_id": "9",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/political_party_gerb",
-      "organization_id": "legislature",
-      "person_id": "person/2449",
-      "role": "member",
-      "start_date": "2014-11-07"
-    },
-    {
-      "area_id": "9",
       "end_date": "2014-11-07",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/political_party_gerb",
       "organization_id": "legislature",
       "person_id": "person/2449",
       "role": "member"
+    },
+    {
+      "area_id": "9",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/political_party_gerb",
+      "organization_id": "legislature",
+      "person_id": "person/2449",
+      "role": "member",
+      "start_date": "2014-11-07"
     },
     {
       "area_id": "9",
@@ -38014,6 +38038,7 @@
     },
     {
       "area_id": "10",
+      "end_date": "2015-10-08",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/parliamentary_group_bsp_left_bulgaria",
       "organization_id": "legislature",
@@ -38749,21 +38774,21 @@
     },
     {
       "area_id": "17",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/national_assembly_members_not_affiliated_with_a_parliamentary_group",
-      "organization_id": "legislature",
-      "person_id": "person/2545",
-      "role": "member",
-      "start_date": "2015-07-22"
-    },
-    {
-      "area_id": "17",
       "end_date": "2015-07-22",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/political_party_gerb",
       "organization_id": "legislature",
       "person_id": "person/2545",
       "role": "member"
+    },
+    {
+      "area_id": "17",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/national_assembly_members_not_affiliated_with_a_parliamentary_group",
+      "organization_id": "legislature",
+      "person_id": "person/2545",
+      "role": "member",
+      "start_date": "2015-07-22"
     },
     {
       "area_id": "17",
@@ -38972,15 +38997,6 @@
     },
     {
       "area_id": "25",
-      "legislative_period_id": "term/43",
-      "on_behalf_of_id": "party/abv",
-      "organization_id": "legislature",
-      "person_id": "person/2609",
-      "role": "member",
-      "start_date": "2015-09-28"
-    },
-    {
-      "area_id": "25",
       "end_date": "2015-09-28",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "party/abv",
@@ -38988,6 +39004,15 @@
       "person_id": "person/2609",
       "role": "member",
       "start_date": "2014-11-12"
+    },
+    {
+      "area_id": "25",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/abv",
+      "organization_id": "legislature",
+      "person_id": "person/2609",
+      "role": "member",
+      "start_date": "2015-09-28"
     },
     {
       "area_id": "24",
@@ -39133,6 +39158,15 @@
       "person_id": "person/2624",
       "role": "member",
       "start_date": "2015-02-27"
+    },
+    {
+      "area_id": "10",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "party/parliamentary_group_bsp_left_bulgaria",
+      "organization_id": "legislature",
+      "person_id": "person/2625",
+      "role": "member",
+      "start_date": "2015-10-09"
     },
     {
       "area_id": "4",
@@ -44937,21 +44971,21 @@
     },
     {
       "area_id": "1",
-      "end_date": "2011-12-21",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/ataka_party",
-      "organization_id": "legislature",
-      "person_id": "person/843",
-      "role": "member"
-    },
-    {
-      "area_id": "1",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/843",
       "role": "member",
       "start_date": "2011-12-21"
+    },
+    {
+      "area_id": "1",
+      "end_date": "2011-12-21",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/ataka_party",
+      "organization_id": "legislature",
+      "person_id": "person/843",
+      "role": "member"
     },
     {
       "area_id": "1",
@@ -44973,6 +45007,15 @@
     },
     {
       "area_id": "2",
+      "end_date": "2009-07-27",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/political_party_gerb",
+      "organization_id": "legislature",
+      "person_id": "person/845",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
       "end_date": "2011-02-09",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/political_party_gerb",
@@ -44980,15 +45023,6 @@
       "person_id": "person/845",
       "role": "member",
       "start_date": "2011-02-04"
-    },
-    {
-      "area_id": "2",
-      "end_date": "2009-07-27",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/political_party_gerb",
-      "organization_id": "legislature",
-      "person_id": "person/845",
-      "role": "member"
     },
     {
       "area_id": "2",
@@ -45074,21 +45108,21 @@
     },
     {
       "area_id": "2",
-      "end_date": "2011-07-13",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/ataka_party",
-      "organization_id": "legislature",
-      "person_id": "person/854",
-      "role": "member"
-    },
-    {
-      "area_id": "2",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/854",
       "role": "member",
       "start_date": "2011-07-13"
+    },
+    {
+      "area_id": "2",
+      "end_date": "2011-07-13",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/ataka_party",
+      "organization_id": "legislature",
+      "person_id": "person/854",
+      "role": "member"
     },
     {
       "area_id": "2",
@@ -45116,21 +45150,21 @@
     },
     {
       "area_id": "3",
-      "end_date": "2011-12-21",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/ataka_party",
-      "organization_id": "legislature",
-      "person_id": "person/859",
-      "role": "member"
-    },
-    {
-      "area_id": "3",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/859",
       "role": "member",
       "start_date": "2011-12-21"
+    },
+    {
+      "area_id": "3",
+      "end_date": "2011-12-21",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/ataka_party",
+      "organization_id": "legislature",
+      "person_id": "person/859",
+      "role": "member"
     },
     {
       "area_id": "15",
@@ -45215,21 +45249,21 @@
     },
     {
       "area_id": "3",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/869",
-      "role": "member",
-      "start_date": "2011-11-17"
-    },
-    {
-      "area_id": "3",
       "end_date": "2011-11-17",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/ataka_party",
       "organization_id": "legislature",
       "person_id": "person/869",
       "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/869",
+      "role": "member",
+      "start_date": "2011-11-17"
     },
     {
       "area_id": "15",
@@ -45508,21 +45542,21 @@
     },
     {
       "area_id": "8",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/895",
-      "role": "member",
-      "start_date": "2011-05-26"
-    },
-    {
-      "area_id": "8",
       "end_date": "2011-05-26",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/ataka_party",
       "organization_id": "legislature",
       "person_id": "person/895",
       "role": "member"
+    },
+    {
+      "area_id": "8",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/895",
+      "role": "member",
+      "start_date": "2011-05-26"
     },
     {
       "area_id": "8",
@@ -45535,13 +45569,21 @@
     },
     {
       "area_id": "8",
-      "end_date": "2010-02-25",
+      "end_date": "2009-09-02",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/the_blue_coalition_-_utdf,_dsb,_the_united_agrarians,_bsdp,_rdp",
       "organization_id": "legislature",
       "person_id": "person/897",
+      "role": "member"
+    },
+    {
+      "area_id": "8",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/897",
       "role": "member",
-      "start_date": "2010-02-24"
+      "start_date": "2010-02-25"
     },
     {
       "area_id": "8",
@@ -45555,21 +45597,13 @@
     },
     {
       "area_id": "8",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/897",
-      "role": "member",
-      "start_date": "2010-02-25"
-    },
-    {
-      "area_id": "8",
-      "end_date": "2009-09-02",
+      "end_date": "2010-02-25",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/the_blue_coalition_-_utdf,_dsb,_the_united_agrarians,_bsdp,_rdp",
       "organization_id": "legislature",
       "person_id": "person/897",
-      "role": "member"
+      "role": "member",
+      "start_date": "2010-02-24"
     },
     {
       "area_id": "8",
@@ -45637,6 +45671,15 @@
     },
     {
       "area_id": "15",
+      "end_date": "2008-12-15",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
+      "organization_id": "legislature",
+      "person_id": "person/90",
+      "role": "member"
+    },
+    {
+      "area_id": "15",
       "end_date": "2008-12-16",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/bulgarian_people's_union",
@@ -45644,15 +45687,6 @@
       "person_id": "person/90",
       "role": "member",
       "start_date": "2008-12-15"
-    },
-    {
-      "area_id": "15",
-      "end_date": "2008-12-15",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
-      "organization_id": "legislature",
-      "person_id": "person/90",
-      "role": "member"
     },
     {
       "area_id": "8",
@@ -45773,21 +45807,21 @@
     },
     {
       "area_id": "10",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/coalition_for_bulgaria",
-      "organization_id": "legislature",
-      "person_id": "person/911",
-      "role": "member",
-      "start_date": "2009-07-29"
-    },
-    {
-      "area_id": "10",
       "end_date": "2009-07-29",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/coalition_for_bulgaria",
       "organization_id": "legislature",
       "person_id": "person/911",
       "role": "member"
+    },
+    {
+      "area_id": "10",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/coalition_for_bulgaria",
+      "organization_id": "legislature",
+      "person_id": "person/911",
+      "role": "member",
+      "start_date": "2009-07-29"
     },
     {
       "area_id": "11",
@@ -45889,6 +45923,15 @@
     },
     {
       "area_id": "12",
+      "end_date": "2010-02-24",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/the_blue_coalition_-_utdf,_dsb,_the_united_agrarians,_bsdp,_rdp",
+      "organization_id": "legislature",
+      "person_id": "person/920",
+      "role": "member"
+    },
+    {
+      "area_id": "12",
       "end_date": "2012-02-01",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/the_blue_coalition_-_utdf,_dsb,_the_united_agrarians,_bsdp,_rdp",
@@ -45896,15 +45939,6 @@
       "person_id": "person/920",
       "role": "member",
       "start_date": "2010-02-24"
-    },
-    {
-      "area_id": "12",
-      "end_date": "2010-02-24",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/the_blue_coalition_-_utdf,_dsb,_the_united_agrarians,_bsdp,_rdp",
-      "organization_id": "legislature",
-      "person_id": "person/920",
-      "role": "member"
     },
     {
       "area_id": "12",
@@ -45983,6 +46017,16 @@
     },
     {
       "area_id": "16",
+      "end_date": "2007-12-05",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/93",
+      "role": "member",
+      "start_date": "2007-11-29"
+    },
+    {
+      "area_id": "16",
       "end_date": "2007-11-29",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/nmss_stability_and_prosperity",
@@ -45999,16 +46043,6 @@
       "person_id": "person/93",
       "role": "member",
       "start_date": "2007-12-05"
-    },
-    {
-      "area_id": "16",
-      "end_date": "2007-12-05",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/93",
-      "role": "member",
-      "start_date": "2007-11-29"
     },
     {
       "area_id": "13",
@@ -46029,21 +46063,21 @@
     },
     {
       "area_id": "14",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/coalition_for_bulgaria",
-      "organization_id": "legislature",
-      "person_id": "person/932",
-      "role": "member",
-      "start_date": "2009-07-29"
-    },
-    {
-      "area_id": "14",
       "end_date": "2009-07-29",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/coalition_for_bulgaria",
       "organization_id": "legislature",
       "person_id": "person/932",
       "role": "member"
+    },
+    {
+      "area_id": "14",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/coalition_for_bulgaria",
+      "organization_id": "legislature",
+      "person_id": "person/932",
+      "role": "member",
+      "start_date": "2009-07-29"
     },
     {
       "area_id": "14",
@@ -46055,21 +46089,21 @@
     },
     {
       "area_id": "14",
-      "end_date": "2009-12-09",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/order,_lawfulness,_justice",
-      "organization_id": "legislature",
-      "person_id": "person/934",
-      "role": "member"
-    },
-    {
-      "area_id": "14",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/934",
       "role": "member",
       "start_date": "2009-12-09"
+    },
+    {
+      "area_id": "14",
+      "end_date": "2009-12-09",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/order,_lawfulness,_justice",
+      "organization_id": "legislature",
+      "person_id": "person/934",
+      "role": "member"
     },
     {
       "area_id": "14",
@@ -46097,6 +46131,15 @@
     },
     {
       "area_id": "15",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/938",
+      "role": "member",
+      "start_date": "2009-12-09"
+    },
+    {
+      "area_id": "15",
       "end_date": "2009-12-09",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/order,_lawfulness,_justice",
@@ -46107,28 +46150,10 @@
     {
       "area_id": "15",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/938",
-      "role": "member",
-      "start_date": "2009-12-09"
-    },
-    {
-      "area_id": "15",
-      "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/ataka_party",
       "organization_id": "legislature",
       "person_id": "person/939",
       "role": "member"
-    },
-    {
-      "area_id": "16",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/order,_lawfulness_justice",
-      "organization_id": "legislature",
-      "person_id": "person/94",
-      "role": "member",
-      "start_date": "2009-06-24"
     },
     {
       "area_id": "16",
@@ -46148,6 +46173,15 @@
       "person_id": "person/94",
       "role": "member",
       "start_date": "2008-12-16"
+    },
+    {
+      "area_id": "16",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/order,_lawfulness_justice",
+      "organization_id": "legislature",
+      "person_id": "person/94",
+      "role": "member",
+      "start_date": "2009-06-24"
     },
     {
       "area_id": "15",
@@ -46397,6 +46431,15 @@
     },
     {
       "area_id": "16",
+      "end_date": "2005-10-20",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
+      "organization_id": "legislature",
+      "person_id": "person/97",
+      "role": "member"
+    },
+    {
+      "area_id": "16",
       "end_date": "2007-09-14",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
@@ -46406,31 +46449,12 @@
       "start_date": "2005-10-20"
     },
     {
-      "area_id": "16",
-      "end_date": "2005-10-20",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "party/the_united_democratic_forces,_dp,_national_alliance_-_bapu,_bapu,_st._george's_day_movement",
-      "organization_id": "legislature",
-      "person_id": "person/97",
-      "role": "member"
-    },
-    {
       "area_id": "18",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "party/movement_for_rights_and_freedoms",
       "organization_id": "legislature",
       "person_id": "person/970",
       "role": "member"
-    },
-    {
-      "area_id": "18",
-      "end_date": "2011-02-09",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/political_party_gerb",
-      "organization_id": "legislature",
-      "person_id": "person/971",
-      "role": "member",
-      "start_date": "2009-07-28"
     },
     {
       "area_id": "18",
@@ -46449,6 +46473,16 @@
       "person_id": "person/971",
       "role": "member",
       "start_date": "2011-02-09"
+    },
+    {
+      "area_id": "18",
+      "end_date": "2011-02-09",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "party/political_party_gerb",
+      "organization_id": "legislature",
+      "person_id": "person/971",
+      "role": "member",
+      "start_date": "2009-07-28"
     },
     {
       "area_id": "18",

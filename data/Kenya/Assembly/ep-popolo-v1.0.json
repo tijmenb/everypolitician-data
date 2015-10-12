@@ -7827,7 +7827,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/samburu",
+      "area_id": "area/trans-nzoia",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -8035,7 +8035,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/embu",
+      "area_id": "area/mbeere_south",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -8043,7 +8043,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/shika_adabu",
+      "area_id": "area/likoni",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -8576,7 +8576,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kisumu_east",
+      "area_id": "area/kisumu_town_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -8632,7 +8632,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/bomachoge_chache",
+      "area_id": "area/bomachoge",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -8983,13 +8983,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/bomachoge_borabu",
-      "name": "Bomachoge Borabu",
+      "id": "area/bomachoge",
+      "name": "Bomachoge",
       "type": "constituency"
     },
     {
-      "id": "area/bomachoge_chache",
-      "name": "Bomachoge Chache",
+      "id": "area/bomachoge_borabu",
+      "name": "Bomachoge Borabu",
       "type": "constituency"
     },
     {
@@ -9583,8 +9583,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/kisumu_east",
-      "name": "Kisumu East",
+      "id": "area/kisumu_town_east",
+      "name": "Kisumu Town East",
       "type": "constituency"
     },
     {
@@ -9730,6 +9730,11 @@
     {
       "id": "area/lari",
       "name": "Lari",
+      "type": "constituency"
+    },
+    {
+      "id": "area/likoni",
+      "name": "Likoni",
       "type": "constituency"
     },
     {
@@ -9900,6 +9905,11 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mbeere_south",
+      "name": "Mbeere South",
       "type": "constituency"
     },
     {
@@ -10258,11 +10268,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/samburu",
-      "name": "Samburu",
-      "type": "constituency"
-    },
-    {
       "id": "area/samburu_east",
       "name": "Samburu East",
       "type": "constituency"
@@ -10280,11 +10285,6 @@
     {
       "id": "area/seme",
       "name": "Seme",
-      "type": "constituency"
-    },
-    {
-      "id": "area/shika_adabu",
-      "name": "Shika Adabu",
       "type": "constituency"
     },
     {
