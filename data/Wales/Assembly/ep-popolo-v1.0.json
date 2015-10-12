@@ -399,6 +399,7 @@
       "birth_date": "1981-12-09",
       "email": "Bethan.Jenkins@assembly.wales",
       "gender": "female",
+      "given_name": "Bethan",
       "id": "person/159",
       "identifiers": [
         {
@@ -1937,6 +1938,10 @@
       "id": "person/245",
       "identifiers": [
         {
+          "identifier": "ms-julie-morgan",
+          "scheme": "hansard"
+        },
+        {
           "identifier": "Q6308404",
           "scheme": "wikidata"
         }
@@ -2587,6 +2592,10 @@
           "scheme": "viaf"
         },
         {
+          "identifier": "158151498",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "Q6767407",
           "scheme": "wikidata"
         }
@@ -3017,6 +3026,10 @@
         {
           "identifier": "291414435",
           "scheme": "nta"
+        },
+        {
+          "identifier": "131841010",
+          "scheme": "bnf"
         },
         {
           "identifier": "Q7172838",
