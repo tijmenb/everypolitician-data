@@ -12036,7 +12036,6 @@
       ]
     },
     {
-      "birth_date": "1974-08-10",
       "contact_details": [
         {
           "type": "twitter",
@@ -18458,6 +18457,11 @@
     },
     {
       "classification": "party",
+      "id": "party/partito_democratico",
+      "name": "Partito Democratico"
+    },
+    {
+      "classification": "party",
       "id": "party/scelta_civica_per_l'italia",
       "name": "SCELTA CIVICA PER L'ITALIA"
     },
@@ -18481,15 +18485,6 @@
   "memberships": [
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/15080",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -18497,6 +18492,15 @@
       "person_id": "person/15080",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/15080",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "III",
@@ -18537,13 +18541,12 @@
     },
     {
       "area_id": "XXV",
-      "end_date": "2014-12-16",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
       "person_id": "person/300239",
       "role": "member",
-      "start_date": "2013-12-10"
+      "start_date": "2014-12-16"
     },
     {
       "area_id": "XXV",
@@ -18557,12 +18560,13 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2014-12-16",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
       "organization_id": "legislature",
       "person_id": "person/300239",
       "role": "member",
-      "start_date": "2014-12-16"
+      "start_date": "2013-12-10"
     },
     {
       "area_id": "XI",
@@ -18575,15 +18579,6 @@
     },
     {
       "area_id": "XXIII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/300274",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "XXIII",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -18591,6 +18586,15 @@
       "person_id": "person/300274",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/300274",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "X",
@@ -18630,16 +18634,6 @@
     },
     {
       "area_id": "XX",
-      "end_date": "2013-04-03",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/300319",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "XX",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
       "organization_id": "legislature",
@@ -18648,12 +18642,12 @@
       "start_date": "2013-04-03"
     },
     {
-      "area_id": "XXVI",
-      "end_date": "2013-06-11",
+      "area_id": "XX",
+      "end_date": "2013-04-03",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
-      "person_id": "person/300327",
+      "person_id": "person/300319",
       "role": "member",
       "start_date": ""
     },
@@ -18667,21 +18661,21 @@
       "start_date": "2013-06-11"
     },
     {
+      "area_id": "XXVI",
+      "end_date": "2013-06-11",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/300327",
+      "role": "member",
+      "start_date": ""
+    },
+    {
       "area_id": "XX",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "person/300332",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "XXIV",
-      "end_date": "2015-09-23",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
-      "organization_id": "legislature",
-      "person_id": "person/300369",
       "role": "member",
       "start_date": ""
     },
@@ -18705,6 +18699,16 @@
       "start_date": "2015-09-24"
     },
     {
+      "area_id": "XXIV",
+      "end_date": "2015-09-23",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+      "organization_id": "legislature",
+      "person_id": "person/300369",
+      "role": "member",
+      "start_date": ""
+    },
+    {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
@@ -18744,15 +18748,6 @@
     },
     {
       "area_id": "III",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/300398",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "III",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -18760,6 +18755,15 @@
       "person_id": "person/300398",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/300398",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "XXV",
@@ -18819,15 +18823,6 @@
     },
     {
       "area_id": "III",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/300447",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "III",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -18835,6 +18830,15 @@
       "person_id": "person/300447",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/300447",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "IV",
@@ -18874,16 +18878,6 @@
     },
     {
       "area_id": "XIX",
-      "end_date": "2014-10-30",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_centro_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/300541",
-      "role": "member",
-      "start_date": "2013-03-21"
-    },
-    {
-      "area_id": "XIX",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
@@ -18900,6 +18894,16 @@
       "person_id": "person/300541",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XIX",
+      "end_date": "2014-10-30",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_centro_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/300541",
+      "role": "member",
+      "start_date": "2013-03-21"
     },
     {
       "area_id": "XII",
@@ -18986,15 +18990,6 @@
     },
     {
       "area_id": "XIX",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/301435",
-      "role": "member",
-      "start_date": "2015-06-25"
-    },
-    {
-      "area_id": "XIX",
       "end_date": "2015-06-25",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -19002,6 +18997,15 @@
       "person_id": "person/301435",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/301435",
+      "role": "member",
+      "start_date": "2015-06-25"
     },
     {
       "area_id": "XV",
@@ -19024,6 +19028,15 @@
     },
     {
       "area_id": "XXVI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/301438",
+      "role": "member",
+      "start_date": "2013-10-02"
+    },
+    {
+      "area_id": "XXVI",
       "end_date": "2013-10-02",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -19031,15 +19044,6 @@
       "person_id": "person/301438",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "XXVI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/301438",
-      "role": "member",
-      "start_date": "2013-10-02"
     },
     {
       "area_id": "XXIII",
@@ -19135,13 +19139,12 @@
     },
     {
       "area_id": "XXV",
-      "end_date": "2015-08-05",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/301477",
       "role": "member",
-      "start_date": "2014-11-19"
+      "start_date": "2015-08-05"
     },
     {
       "area_id": "XXV",
@@ -19155,6 +19158,16 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2015-08-05",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/301477",
+      "role": "member",
+      "start_date": "2014-11-19"
+    },
+    {
+      "area_id": "XXV",
       "end_date": "2014-11-19",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_centro_democratico",
@@ -19162,15 +19175,6 @@
       "person_id": "person/301477",
       "role": "member",
       "start_date": "2013-03-21"
-    },
-    {
-      "area_id": "XXV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/301477",
-      "role": "member",
-      "start_date": "2015-08-05"
     },
     {
       "area_id": "XXIV",
@@ -19337,6 +19341,15 @@
     },
     {
       "area_id": "II",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/301541",
+      "role": "member",
+      "start_date": "2013-11-18"
+    },
+    {
+      "area_id": "II",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -19344,15 +19357,6 @@
       "person_id": "person/301541",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "II",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/301541",
-      "role": "member",
-      "start_date": "2013-11-18"
     },
     {
       "area_id": "XV",
@@ -19374,6 +19378,15 @@
     },
     {
       "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/301550",
+      "role": "member",
+      "start_date": "2013-11-18"
+    },
+    {
+      "area_id": "III",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -19381,15 +19394,6 @@
       "person_id": "person/301550",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "III",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/301550",
-      "role": "member",
-      "start_date": "2013-11-18"
     },
     {
       "area_id": "XXI",
@@ -19457,16 +19461,6 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2014-07-07",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/301576",
-      "role": "member",
-      "start_date": "2014-06-23"
-    },
-    {
-      "area_id": "IV",
       "end_date": "2014-06-23",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
@@ -19477,12 +19471,13 @@
     },
     {
       "area_id": "IV",
+      "end_date": "2014-07-07",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/301576",
       "role": "member",
-      "start_date": "2014-11-17"
+      "start_date": "2014-06-23"
     },
     {
       "area_id": "IV",
@@ -19493,6 +19488,15 @@
       "person_id": "person/301576",
       "role": "member",
       "start_date": "2014-07-07"
+    },
+    {
+      "area_id": "IV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/301576",
+      "role": "member",
+      "start_date": "2014-11-17"
     },
     {
       "area_id": "VII",
@@ -19570,15 +19574,6 @@
     },
     {
       "area_id": "XI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/302117",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "XI",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -19586,6 +19581,15 @@
       "person_id": "person/302117",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/302117",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "VI",
@@ -19683,15 +19687,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/302190",
-      "role": "member",
-      "start_date": "2014-12-16"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
@@ -19709,6 +19704,15 @@
       "person_id": "person/302190",
       "role": "member",
       "start_date": "2013-12-10"
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/302190",
+      "role": "member",
+      "start_date": "2014-12-16"
     },
     {
       "area_id": "II",
@@ -19767,15 +19771,6 @@
     },
     {
       "area_id": "XII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
-      "organization_id": "legislature",
-      "person_id": "person/302274",
-      "role": "member",
-      "start_date": "2013-04-03"
-    },
-    {
-      "area_id": "XII",
       "end_date": "2013-04-03",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -19783,6 +19778,15 @@
       "person_id": "person/302274",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "organization_id": "legislature",
+      "person_id": "person/302274",
+      "role": "member",
+      "start_date": "2013-04-03"
     },
     {
       "area_id": "V",
@@ -19795,16 +19799,6 @@
     },
     {
       "area_id": "XXIII",
-      "end_date": "2015-09-29",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
-      "organization_id": "legislature",
-      "person_id": "person/302282",
-      "role": "member",
-      "start_date": "2013-06-26"
-    },
-    {
-      "area_id": "XXIII",
       "end_date": "2013-06-26",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -19812,6 +19806,16 @@
       "person_id": "person/302282",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XXIII",
+      "end_date": "2015-09-29",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
+      "organization_id": "legislature",
+      "person_id": "person/302282",
+      "role": "member",
+      "start_date": "2013-06-26"
     },
     {
       "area_id": "XXIII",
@@ -19880,15 +19884,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/302748",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -19896,6 +19891,15 @@
       "person_id": "person/302748",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/302748",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "XVI",
@@ -19926,16 +19930,6 @@
     },
     {
       "area_id": "III",
-      "end_date": "2013-04-03",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/302757",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "III",
       "end_date": "2015-03-04",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
@@ -19945,13 +19939,14 @@
       "start_date": "2013-04-03"
     },
     {
-      "area_id": "IV",
+      "area_id": "III",
+      "end_date": "2013-04-03",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
-      "person_id": "person/302758",
+      "person_id": "person/302757",
       "role": "member",
-      "start_date": "2013-11-18"
+      "start_date": ""
     },
     {
       "area_id": "IV",
@@ -19962,6 +19957,15 @@
       "person_id": "person/302758",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "IV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/302758",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "V",
@@ -20074,13 +20078,12 @@
     },
     {
       "area_id": "XX",
-      "end_date": "2015-09-22",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "organization_id": "legislature",
       "person_id": "person/302786",
       "role": "member",
-      "start_date": "2013-11-18"
+      "start_date": "2015-09-22"
     },
     {
       "area_id": "XX",
@@ -20094,12 +20097,13 @@
     },
     {
       "area_id": "XX",
+      "end_date": "2015-09-22",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
       "person_id": "person/302786",
       "role": "member",
-      "start_date": "2015-09-22"
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "XVI",
@@ -20426,16 +20430,6 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2015-09-24",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/302868",
-      "role": "member",
-      "start_date": "2015-09-23"
-    },
-    {
-      "area_id": "XII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "legislature",
@@ -20455,12 +20449,31 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2015-09-24",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/302868",
+      "role": "member",
+      "start_date": "2015-09-23"
+    },
+    {
+      "area_id": "XII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "organization_id": "legislature",
       "person_id": "person/302870",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
+      "organization_id": "legislature",
+      "person_id": "person/302871",
+      "role": "member",
+      "start_date": "2015-09-24"
     },
     {
       "area_id": "XII",
@@ -20471,15 +20484,6 @@
       "person_id": "person/302871",
       "role": "member",
       "start_date": "2015-09-23"
-    },
-    {
-      "area_id": "XII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
-      "organization_id": "legislature",
-      "person_id": "person/302871",
-      "role": "member",
-      "start_date": "2015-09-24"
     },
     {
       "area_id": "XII",
@@ -20556,13 +20560,12 @@
     },
     {
       "area_id": "XXI",
-      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
       "person_id": "person/302887",
       "role": "member",
-      "start_date": ""
+      "start_date": "2014-12-16"
     },
     {
       "area_id": "XXI",
@@ -20576,12 +20579,13 @@
     },
     {
       "area_id": "XXI",
+      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "legislature",
       "person_id": "person/302887",
       "role": "member",
-      "start_date": "2014-12-16"
+      "start_date": ""
     },
     {
       "area_id": "XXIV",
@@ -20668,22 +20672,13 @@
     },
     {
       "area_id": "XVI",
-      "end_date": "2013-11-18",
+      "end_date": "2015-03-31",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/302914",
       "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "XVI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
-      "organization_id": "legislature",
-      "person_id": "person/302914",
-      "role": "member",
-      "start_date": "2015-03-31"
+      "start_date": "2015-02-09"
     },
     {
       "area_id": "XVI",
@@ -20697,13 +20692,22 @@
     },
     {
       "area_id": "XVI",
-      "end_date": "2015-03-31",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
       "organization_id": "legislature",
       "person_id": "person/302914",
       "role": "member",
-      "start_date": "2015-02-09"
+      "start_date": "2015-03-31"
+    },
+    {
+      "area_id": "XVI",
+      "end_date": "2013-11-18",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
+      "organization_id": "legislature",
+      "person_id": "person/302914",
+      "role": "member",
+      "start_date": ""
     },
     {
       "area_id": "XXV",
@@ -20854,6 +20858,16 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2015-09-24",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/302961",
+      "role": "member",
+      "start_date": "2015-09-23"
+    },
+    {
+      "area_id": "XI",
       "end_date": "2015-09-23",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -20870,16 +20884,6 @@
       "person_id": "person/302961",
       "role": "member",
       "start_date": "2015-09-24"
-    },
-    {
-      "area_id": "XI",
-      "end_date": "2015-09-24",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/302961",
-      "role": "member",
-      "start_date": "2015-09-23"
     },
     {
       "area_id": "II",
@@ -20902,15 +20906,6 @@
     },
     {
       "area_id": "XXIV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/302964",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "XXIV",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -20918,6 +20913,15 @@
       "person_id": "person/302964",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XXIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/302964",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "XX",
@@ -20948,15 +20952,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/302971",
-      "role": "member",
-      "start_date": "2013-11-18"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -20964,6 +20959,15 @@
       "person_id": "person/302971",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/302971",
+      "role": "member",
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "XXVI",
@@ -21012,6 +21016,15 @@
     },
     {
       "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/303032",
+      "role": "member",
+      "start_date": "2013-11-18"
+    },
+    {
+      "area_id": "XIX",
       "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -21019,15 +21032,6 @@
       "person_id": "person/303032",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "XIX",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/303032",
-      "role": "member",
-      "start_date": "2013-11-18"
     },
     {
       "area_id": "XVII",
@@ -21113,15 +21117,6 @@
     },
     {
       "area_id": "XXI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/30350",
-      "role": "member",
-      "start_date": "2014-06-27"
-    },
-    {
-      "area_id": "XXI",
       "end_date": "2014-06-27",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_centro_democratico",
@@ -21129,6 +21124,15 @@
       "person_id": "person/30350",
       "role": "member",
       "start_date": "2013-03-21"
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/30350",
+      "role": "member",
+      "start_date": "2014-06-27"
     },
     {
       "area_id": "XXI",
@@ -21151,6 +21155,16 @@
     },
     {
       "area_id": "XX",
+      "end_date": "2015-09-23",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+      "organization_id": "legislature",
+      "person_id": "person/304961",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "XX",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "legislature",
@@ -21167,16 +21181,6 @@
       "person_id": "person/304961",
       "role": "member",
       "start_date": "2015-09-23"
-    },
-    {
-      "area_id": "XX",
-      "end_date": "2015-09-23",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
-      "organization_id": "legislature",
-      "person_id": "person/304961",
-      "role": "member",
-      "start_date": ""
     },
     {
       "area_id": "VII",
@@ -21254,16 +21258,6 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2013-12-10",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
-      "organization_id": "legislature",
-      "person_id": "person/305511",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "IV",
       "end_date": "2014-10-02",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/per_l'italia",
@@ -21271,6 +21265,16 @@
       "person_id": "person/305511",
       "role": "member",
       "start_date": "2013-12-10"
+    },
+    {
+      "area_id": "IV",
+      "end_date": "2013-12-10",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "organization_id": "legislature",
+      "person_id": "person/305511",
+      "role": "member",
+      "start_date": ""
     },
     {
       "area_id": "IV",
@@ -21367,16 +21371,6 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2015-04-01",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
-      "organization_id": "legislature",
-      "person_id": "person/305528",
-      "role": "member",
-      "start_date": "2014-11-20"
-    },
-    {
-      "area_id": "IV",
       "end_date": "2014-11-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -21393,6 +21387,16 @@
       "person_id": "person/305528",
       "role": "member",
       "start_date": "2015-04-01"
+    },
+    {
+      "area_id": "IV",
+      "end_date": "2015-04-01",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+      "organization_id": "legislature",
+      "person_id": "person/305528",
+      "role": "member",
+      "start_date": "2014-11-20"
     },
     {
       "area_id": "IV",
@@ -21633,15 +21637,6 @@
     },
     {
       "area_id": "VI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_minoranze_linguistiche",
-      "organization_id": "legislature",
-      "person_id": "person/305578",
-      "role": "member",
-      "start_date": "2013-03-21"
-    },
-    {
-      "area_id": "VI",
       "end_date": "2013-03-21",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -21649,6 +21644,15 @@
       "person_id": "person/305578",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "VI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_minoranze_linguistiche",
+      "organization_id": "legislature",
+      "person_id": "person/305578",
+      "role": "member",
+      "start_date": "2013-03-21"
     },
     {
       "area_id": "VI",
@@ -21690,15 +21694,6 @@
     },
     {
       "area_id": "VI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_minoranze_linguistiche",
-      "organization_id": "legislature",
-      "person_id": "person/305584",
-      "role": "member",
-      "start_date": "2013-03-21"
-    },
-    {
-      "area_id": "VI",
       "end_date": "2013-03-21",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -21706,6 +21701,15 @@
       "person_id": "person/305584",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "VI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_minoranze_linguistiche",
+      "organization_id": "legislature",
+      "person_id": "person/305584",
+      "role": "member",
+      "start_date": "2013-03-21"
     },
     {
       "area_id": "VI",
@@ -21819,22 +21823,22 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2015-04-30",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "organization_id": "legislature",
+      "person_id": "person/305606",
+      "role": "member",
+      "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "VII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "person/305606",
       "role": "member",
       "start_date": "2015-04-30"
-    },
-    {
-      "area_id": "VII",
-      "end_date": "2015-02-05",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305606",
-      "role": "member",
-      "start_date": "2015-01-27"
     },
     {
       "area_id": "VII",
@@ -21848,13 +21852,13 @@
     },
     {
       "area_id": "VII",
-      "end_date": "2015-04-30",
+      "end_date": "2015-02-05",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/305606",
       "role": "member",
-      "start_date": "2015-02-05"
+      "start_date": "2015-01-27"
     },
     {
       "area_id": "VII",
@@ -21904,16 +21908,6 @@
     },
     {
       "area_id": "VII",
-      "end_date": "2015-02-05",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305614",
-      "role": "member",
-      "start_date": "2015-01-27"
-    },
-    {
-      "area_id": "VII",
       "end_date": "2015-01-27",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
@@ -21921,6 +21915,16 @@
       "person_id": "person/305614",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "VII",
+      "end_date": "2015-02-05",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/305614",
+      "role": "member",
+      "start_date": "2015-01-27"
     },
     {
       "area_id": "V",
@@ -21942,12 +21946,13 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "legislature",
       "person_id": "person/305620",
       "role": "member",
-      "start_date": "2014-02-12"
+      "start_date": ""
     },
     {
       "area_id": "VII",
@@ -21961,13 +21966,12 @@
     },
     {
       "area_id": "VII",
-      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "legislature",
       "person_id": "person/305620",
       "role": "member",
-      "start_date": ""
+      "start_date": "2014-02-12"
     },
     {
       "area_id": "V",
@@ -22007,15 +22011,6 @@
     },
     {
       "area_id": "VII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305632",
-      "role": "member",
-      "start_date": "2015-03-26"
-    },
-    {
-      "area_id": "VII",
       "end_date": "2015-03-26",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/lega_nord_e_autonomie",
@@ -22023,6 +22018,15 @@
       "person_id": "person/305632",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "VII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/305632",
+      "role": "member",
+      "start_date": "2015-03-26"
     },
     {
       "area_id": "VII",
@@ -22135,15 +22139,6 @@
     },
     {
       "area_id": "VIII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
-      "organization_id": "legislature",
-      "person_id": "person/305658",
-      "role": "member",
-      "start_date": "2013-06-11"
-    },
-    {
-      "area_id": "VIII",
       "end_date": "2013-06-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -22151,6 +22146,15 @@
       "person_id": "person/305658",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+      "organization_id": "legislature",
+      "person_id": "person/305658",
+      "role": "member",
+      "start_date": "2013-06-11"
     },
     {
       "area_id": "VIII",
@@ -22182,15 +22186,6 @@
     },
     {
       "area_id": "VIII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305664",
-      "role": "member",
-      "start_date": "2015-03-26"
-    },
-    {
-      "area_id": "VIII",
       "end_date": "2015-03-26",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/lega_nord_e_autonomie",
@@ -22198,6 +22193,15 @@
       "person_id": "person/305664",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/305664",
+      "role": "member",
+      "start_date": "2015-03-26"
     },
     {
       "area_id": "VIII",
@@ -22310,6 +22314,25 @@
     },
     {
       "area_id": "IX",
+      "end_date": "2015-02-05",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/305688",
+      "role": "member",
+      "start_date": "2015-01-27"
+    },
+    {
+      "area_id": "IX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "organization_id": "legislature",
+      "person_id": "person/305688",
+      "role": "member",
+      "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "IX",
       "end_date": "2015-01-27",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
@@ -22323,19 +22346,9 @@
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera",
       "organization_id": "legislature",
-      "person_id": "person/305688",
+      "person_id": "person/305690",
       "role": "member",
       "start_date": "2015-02-05"
-    },
-    {
-      "area_id": "IX",
-      "end_date": "2015-02-05",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305688",
-      "role": "member",
-      "start_date": "2015-01-27"
     },
     {
       "area_id": "IX",
@@ -22356,15 +22369,6 @@
       "person_id": "person/305690",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "IX",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
-      "organization_id": "legislature",
-      "person_id": "person/305690",
-      "role": "member",
-      "start_date": "2015-02-05"
     },
     {
       "area_id": "XIII",
@@ -22585,15 +22589,6 @@
     },
     {
       "area_id": "XVI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/305739",
-      "role": "member",
-      "start_date": "2013-12-10"
-    },
-    {
-      "area_id": "XVI",
       "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
@@ -22601,6 +22596,15 @@
       "person_id": "person/305739",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XVI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/305739",
+      "role": "member",
+      "start_date": "2013-12-10"
     },
     {
       "area_id": "XI",
@@ -22731,15 +22735,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/305770",
-      "role": "member",
-      "start_date": "2014-06-26"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2014-06-26",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
@@ -22747,6 +22742,15 @@
       "person_id": "person/305770",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/305770",
+      "role": "member",
+      "start_date": "2014-06-26"
     },
     {
       "area_id": "XIV",
@@ -22859,15 +22863,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
-      "organization_id": "legislature",
-      "person_id": "person/305794",
-      "role": "member",
-      "start_date": "2014-10-14"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2014-10-14",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -22875,6 +22870,15 @@
       "person_id": "person/305794",
       "role": "member",
       "start_date": "2013-06-25"
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "organization_id": "legislature",
+      "person_id": "person/305794",
+      "role": "member",
+      "start_date": "2014-10-14"
     },
     {
       "area_id": "XV",
@@ -22943,15 +22947,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305806",
-      "role": "member",
-      "start_date": "2015-06-25"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2015-06-25",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
@@ -22959,6 +22954,15 @@
       "person_id": "person/305806",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/305806",
+      "role": "member",
+      "start_date": "2015-06-25"
     },
     {
       "area_id": "XV",
@@ -23016,15 +23020,6 @@
     },
     {
       "area_id": "XV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/305821",
-      "role": "member",
-      "start_date": "2015-06-24"
-    },
-    {
-      "area_id": "XV",
       "end_date": "2015-06-24",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
@@ -23032,6 +23027,15 @@
       "person_id": "person/305821",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/305821",
+      "role": "member",
+      "start_date": "2015-06-24"
     },
     {
       "area_id": "XV",
@@ -23074,15 +23078,6 @@
     },
     {
       "area_id": "XXI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/305834",
-      "role": "member",
-      "start_date": "2013-12-10"
-    },
-    {
-      "area_id": "XXI",
       "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
@@ -23090,6 +23085,15 @@
       "person_id": "person/305834",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/305834",
+      "role": "member",
+      "start_date": "2013-12-10"
     },
     {
       "area_id": "XIX",
@@ -23379,16 +23383,6 @@
     },
     {
       "area_id": "XXI",
-      "end_date": "2015-04-29",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
-      "organization_id": "legislature",
-      "person_id": "person/305887",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "XXI",
       "end_date": "2015-05-04",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -23396,6 +23390,16 @@
       "person_id": "person/305887",
       "role": "member",
       "start_date": "2015-04-29"
+    },
+    {
+      "area_id": "XXI",
+      "end_date": "2015-04-29",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "organization_id": "legislature",
+      "person_id": "person/305887",
+      "role": "member",
+      "start_date": ""
     },
     {
       "area_id": "XI",
@@ -23707,15 +23711,6 @@
     },
     {
       "area_id": "XX",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/305956",
-      "role": "member",
-      "start_date": "2014-06-19"
-    },
-    {
-      "area_id": "XX",
       "end_date": "2014-06-19",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
@@ -23723,6 +23718,15 @@
       "person_id": "person/305956",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/305956",
+      "role": "member",
+      "start_date": "2014-06-19"
     },
     {
       "area_id": "XXI",
@@ -23744,13 +23748,13 @@
     },
     {
       "area_id": "XI",
-      "end_date": "2015-02-05",
+      "end_date": "2015-01-27",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
       "person_id": "person/305962",
       "role": "member",
-      "start_date": "2015-01-27"
+      "start_date": ""
     },
     {
       "area_id": "XI",
@@ -23763,13 +23767,13 @@
     },
     {
       "area_id": "XI",
-      "end_date": "2015-01-27",
+      "end_date": "2015-02-05",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/movimento_5_stelle",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/305962",
       "role": "member",
-      "start_date": ""
+      "start_date": "2015-01-27"
     },
     {
       "area_id": "XXI",
@@ -23891,12 +23895,13 @@
     },
     {
       "area_id": "XXIV",
+      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "legislature",
       "person_id": "person/305989",
       "role": "member",
-      "start_date": "2014-10-02"
+      "start_date": ""
     },
     {
       "area_id": "XXIV",
@@ -23910,13 +23915,12 @@
     },
     {
       "area_id": "XXIV",
-      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "person/305989",
       "role": "member",
-      "start_date": ""
+      "start_date": "2014-10-02"
     },
     {
       "area_id": "II",
@@ -24340,6 +24344,15 @@
     },
     {
       "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/306074",
+      "role": "member",
+      "start_date": "2015-04-01"
+    },
+    {
+      "area_id": "XXV",
       "end_date": "2014-12-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
@@ -24347,15 +24360,6 @@
       "person_id": "person/306074",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "XXV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/306074",
-      "role": "member",
-      "start_date": "2015-04-01"
     },
     {
       "area_id": "XVII",
@@ -24440,13 +24444,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2015-02-05",
+      "end_date": "2014-11-30",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
       "person_id": "person/306092",
       "role": "member",
-      "start_date": "2014-11-30"
+      "start_date": ""
     },
     {
       "area_id": "XII",
@@ -24459,13 +24463,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2014-11-30",
+      "end_date": "2015-02-05",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/movimento_5_stelle",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/306092",
       "role": "member",
-      "start_date": ""
+      "start_date": "2014-11-30"
     },
     {
       "area_id": "XII",
@@ -24479,6 +24483,15 @@
     },
     {
       "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "organization_id": "legislature",
+      "person_id": "person/306094",
+      "role": "member",
+      "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "XII",
       "end_date": "2015-02-05",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -24486,15 +24499,6 @@
       "person_id": "person/306094",
       "role": "member",
       "start_date": "2015-01-27"
-    },
-    {
-      "area_id": "XII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
-      "organization_id": "legislature",
-      "person_id": "person/306094",
-      "role": "member",
-      "start_date": "2015-02-05"
     },
     {
       "area_id": "XII",
@@ -24525,13 +24529,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2015-01-27",
+      "end_date": "2015-02-05",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/movimento_5_stelle",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/306102",
       "role": "member",
-      "start_date": ""
+      "start_date": "2015-01-27"
     },
     {
       "area_id": "XII",
@@ -24544,13 +24548,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2015-02-05",
+      "end_date": "2015-01-27",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
       "person_id": "person/306102",
       "role": "member",
-      "start_date": "2015-01-27"
+      "start_date": ""
     },
     {
       "area_id": "XXV",
@@ -24599,6 +24603,16 @@
     },
     {
       "area_id": "XXIII",
+      "end_date": "2015-02-05",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/306115",
+      "role": "member",
+      "start_date": "2015-01-27"
+    },
+    {
+      "area_id": "XXIII",
       "end_date": "2015-01-27",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
@@ -24615,16 +24629,6 @@
       "person_id": "person/306115",
       "role": "member",
       "start_date": "2015-02-05"
-    },
-    {
-      "area_id": "XXIII",
-      "end_date": "2015-02-05",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/306115",
-      "role": "member",
-      "start_date": "2015-01-27"
     },
     {
       "area_id": "XXV",
@@ -24810,20 +24814,29 @@
     },
     {
       "area_id": "XXIII",
-      "end_date": "2013-11-18",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
       "person_id": "person/306156",
       "role": "member",
-      "start_date": ""
+      "start_date": "2013-11-18"
     },
     {
       "area_id": "XXIII",
+      "end_date": "2013-11-18",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/il_popolo_della_liberta'_-_berlusconi_presidente",
+      "organization_id": "legislature",
+      "person_id": "person/306156",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "XXV",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
-      "person_id": "person/306156",
+      "person_id": "person/306158",
       "role": "member",
       "start_date": "2013-11-18"
     },
@@ -24836,15 +24849,6 @@
       "person_id": "person/306158",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "XXV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/306158",
-      "role": "member",
-      "start_date": "2013-11-18"
     },
     {
       "area_id": "XII",
@@ -24929,13 +24933,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2014-11-12",
+      "end_date": "2014-10-21",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "legislature",
       "person_id": "person/306181",
       "role": "member",
-      "start_date": "2014-10-21"
+      "start_date": ""
     },
     {
       "area_id": "XII",
@@ -24948,13 +24952,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2014-10-21",
+      "end_date": "2014-11-12",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "person/306181",
       "role": "member",
-      "start_date": ""
+      "start_date": "2014-10-21"
     },
     {
       "area_id": "XII",
@@ -25014,22 +25018,22 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2014-06-26",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "organization_id": "legislature",
+      "person_id": "person/306193",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "XII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "person/306193",
       "role": "member",
       "start_date": "2014-11-17"
-    },
-    {
-      "area_id": "XII",
-      "end_date": "2014-11-17",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_liberta'_e_diritti_-_socialisti_europei_(led)",
-      "organization_id": "legislature",
-      "person_id": "person/306193",
-      "role": "member",
-      "start_date": "2014-07-07"
     },
     {
       "area_id": "XII",
@@ -25043,13 +25047,13 @@
     },
     {
       "area_id": "XII",
-      "end_date": "2014-06-26",
+      "end_date": "2014-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/misto_-_liberta'_e_diritti_-_socialisti_europei_(led)",
       "organization_id": "legislature",
       "person_id": "person/306193",
       "role": "member",
-      "start_date": ""
+      "start_date": "2014-07-07"
     },
     {
       "area_id": "III",
@@ -25272,15 +25276,6 @@
     },
     {
       "area_id": "A",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/306245",
-      "role": "member",
-      "start_date": "2015-04-13"
-    },
-    {
-      "area_id": "A",
       "end_date": "2015-04-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -25298,6 +25293,15 @@
       "person_id": "person/306245",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "A",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/306245",
+      "role": "member",
+      "start_date": "2015-04-13"
     },
     {
       "area_id": "B",
@@ -25349,6 +25353,16 @@
     },
     {
       "area_id": "C",
+      "end_date": "2013-04-10",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_maie-movimento_associativo_italiani_all'estero",
+      "organization_id": "legislature",
+      "person_id": "person/306251",
+      "role": "member",
+      "start_date": "2013-04-08"
+    },
+    {
+      "area_id": "C",
       "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
@@ -25368,20 +25382,20 @@
     },
     {
       "area_id": "C",
-      "end_date": "2013-04-10",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_maie-movimento_associativo_italiani_all'estero",
-      "organization_id": "legislature",
-      "person_id": "person/306251",
-      "role": "member",
-      "start_date": "2013-04-08"
-    },
-    {
-      "area_id": "C",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "person/306253",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "II",
+      "end_date": "2014-06-24",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "organization_id": "legislature",
+      "person_id": "person/306261",
       "role": "member",
       "start_date": ""
     },
@@ -25394,16 +25408,6 @@
       "person_id": "person/306261",
       "role": "member",
       "start_date": "2014-06-24"
-    },
-    {
-      "area_id": "II",
-      "end_date": "2014-06-24",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
-      "organization_id": "legislature",
-      "person_id": "person/306261",
-      "role": "member",
-      "start_date": ""
     },
     {
       "area_id": "II",
@@ -25435,22 +25439,13 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2014-06-26",
+      "end_date": "2014-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/misto_-_liberta'_e_diritti_-_socialisti_europei_(led)",
       "organization_id": "legislature",
       "person_id": "person/306266",
       "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "IV",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/306266",
-      "role": "member",
-      "start_date": "2014-11-17"
+      "start_date": "2014-07-07"
     },
     {
       "area_id": "IV",
@@ -25464,13 +25459,22 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2014-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_liberta'_e_diritti_-_socialisti_europei_(led)",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "person/306266",
       "role": "member",
-      "start_date": "2014-07-07"
+      "start_date": "2014-11-17"
+    },
+    {
+      "area_id": "IV",
+      "end_date": "2014-06-26",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "organization_id": "legislature",
+      "person_id": "person/306266",
+      "role": "member",
+      "start_date": ""
     },
     {
       "area_id": "V",
@@ -25614,16 +25618,6 @@
     },
     {
       "area_id": "XV",
-      "end_date": "2014-06-23",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
-      "organization_id": "legislature",
-      "person_id": "person/306288",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "XV",
       "end_date": "2014-07-07",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -25640,6 +25634,26 @@
       "person_id": "person/306288",
       "role": "member",
       "start_date": "2014-11-17"
+    },
+    {
+      "area_id": "XV",
+      "end_date": "2014-06-23",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_ecologia_liberta'",
+      "organization_id": "legislature",
+      "person_id": "person/306288",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "XVI",
+      "end_date": "2014-07-07",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/306290",
+      "role": "member",
+      "start_date": "2014-06-24"
     },
     {
       "area_id": "XVI",
@@ -25660,16 +25674,6 @@
       "person_id": "person/306290",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "XVI",
-      "end_date": "2014-07-07",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/306290",
-      "role": "member",
-      "start_date": "2014-06-24"
     },
     {
       "area_id": "XVI",
@@ -25700,15 +25704,6 @@
     },
     {
       "area_id": "XX",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
-      "organization_id": "legislature",
-      "person_id": "person/306296",
-      "role": "member",
-      "start_date": "2014-12-16"
-    },
-    {
-      "area_id": "XX",
       "end_date": "2014-12-16",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
@@ -25716,6 +25711,15 @@
       "person_id": "person/306296",
       "role": "member",
       "start_date": "2013-12-10"
+    },
+    {
+      "area_id": "XX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "organization_id": "legislature",
+      "person_id": "person/306296",
+      "role": "member",
+      "start_date": "2014-12-16"
     },
     {
       "area_id": "XX",
@@ -25803,6 +25807,15 @@
     },
     {
       "area_id": "XVI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "organization_id": "legislature",
+      "person_id": "person/306310",
+      "role": "member",
+      "start_date": "2013-04-03"
+    },
+    {
+      "area_id": "XVI",
       "end_date": "2013-04-03",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -25810,15 +25823,6 @@
       "person_id": "person/306310",
       "role": "member",
       "start_date": ""
-    },
-    {
-      "area_id": "XVI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
-      "organization_id": "legislature",
-      "person_id": "person/306310",
-      "role": "member",
-      "start_date": "2013-04-03"
     },
     {
       "area_id": "XV",
@@ -25873,6 +25877,15 @@
       "person_id": "person/306683",
       "role": "member",
       "start_date": "2014-06-25"
+    },
+    {
+      "area_id": "area/lazio_1",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/306683",
+      "role": "member",
+      "start_date": ""
     },
     {
       "area_id": "XI",
@@ -25930,15 +25943,6 @@
     },
     {
       "area_id": "II",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
-      "organization_id": "legislature",
-      "person_id": "person/306741",
-      "role": "member",
-      "start_date": "2015-07-27"
-    },
-    {
-      "area_id": "II",
       "end_date": "2015-07-27",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica_per_l'italia",
@@ -25946,6 +25950,15 @@
       "person_id": "person/306741",
       "role": "member",
       "start_date": "2014-09-29"
+    },
+    {
+      "area_id": "II",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "person/306741",
+      "role": "member",
+      "start_date": "2015-07-27"
     },
     {
       "area_id": "XXI",
@@ -26039,6 +26052,15 @@
     },
     {
       "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+      "organization_id": "legislature",
+      "person_id": "person/33040",
+      "role": "member",
+      "start_date": "2014-11-20"
+    },
+    {
+      "area_id": "III",
       "end_date": "2014-11-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_liberta'_e_diritti_-_socialisti_europei_(led)",
@@ -26056,15 +26078,6 @@
       "person_id": "person/33040",
       "role": "member",
       "start_date": "2014-06-23"
-    },
-    {
-      "area_id": "III",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
-      "organization_id": "legislature",
-      "person_id": "person/33040",
-      "role": "member",
-      "start_date": "2014-11-20"
     },
     {
       "area_id": "III",
@@ -26088,15 +26101,6 @@
     },
     {
       "area_id": "XXI",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
-      "organization_id": "legislature",
-      "person_id": "person/33410",
-      "role": "member",
-      "start_date": "2013-04-03"
-    },
-    {
-      "area_id": "XXI",
       "end_date": "2013-04-03",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
@@ -26104,6 +26108,15 @@
       "person_id": "person/33410",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "organization_id": "legislature",
+      "person_id": "person/33410",
+      "role": "member",
+      "start_date": "2013-04-03"
     },
     {
       "area_id": "XVII",
@@ -26125,6 +26138,16 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2013-03-21",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "person/34580",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "XII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
       "organization_id": "legislature",
@@ -26141,16 +26164,6 @@
       "person_id": "person/34580",
       "role": "member",
       "start_date": "2013-03-21"
-    },
-    {
-      "area_id": "XII",
-      "end_date": "2013-03-21",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
-      "organization_id": "legislature",
-      "person_id": "person/34580",
-      "role": "member",
-      "start_date": ""
     },
     {
       "area_id": "XXI",
@@ -26182,6 +26195,16 @@
     },
     {
       "area_id": "XXIV",
+      "end_date": "2013-12-10",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "organization_id": "legislature",
+      "person_id": "person/34960",
+      "role": "member",
+      "start_date": ""
+    },
+    {
+      "area_id": "XXIV",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
@@ -26198,16 +26221,6 @@
       "person_id": "person/34960",
       "role": "member",
       "start_date": "2013-12-10"
-    },
-    {
-      "area_id": "XXIV",
-      "end_date": "2013-12-10",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
-      "organization_id": "legislature",
-      "person_id": "person/34960",
-      "role": "member",
-      "start_date": ""
     },
     {
       "area_id": "XVI",
@@ -26229,16 +26242,6 @@
     },
     {
       "area_id": "XIX",
-      "end_date": "2013-12-10",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
-      "organization_id": "legislature",
-      "person_id": "person/35640",
-      "role": "member",
-      "start_date": ""
-    },
-    {
-      "area_id": "XIX",
       "end_date": "2014-12-16",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/per_l'italia_-_centro_democratico",
@@ -26255,6 +26258,16 @@
       "person_id": "person/35640",
       "role": "member",
       "start_date": "2014-12-16"
+    },
+    {
+      "area_id": "XIX",
+      "end_date": "2013-12-10",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "organization_id": "legislature",
+      "person_id": "person/35640",
+      "role": "member",
+      "start_date": ""
     },
     {
       "area_id": "XXVI",
@@ -26435,15 +26448,6 @@
     },
     {
       "area_id": "XXIII",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
-      "organization_id": "legislature",
-      "person_id": "person/50258",
-      "role": "member",
-      "start_date": "2015-09-24"
-    },
-    {
-      "area_id": "XXIII",
       "end_date": "2015-09-23",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
@@ -26451,6 +26455,15 @@
       "person_id": "person/50258",
       "role": "member",
       "start_date": ""
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
+      "organization_id": "legislature",
+      "person_id": "person/50258",
+      "role": "member",
+      "start_date": "2015-09-24"
     },
     {
       "area_id": "XI",
@@ -26663,6 +26676,11 @@
     {
       "id": "XXVII",
       "name": "VALLE D'AOSTA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lazio_1",
+      "name": "Lazio 1",
       "type": "constituency"
     }
   ]
