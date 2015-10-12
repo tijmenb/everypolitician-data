@@ -482,6 +482,10 @@
           "scheme": "historichansard"
         },
         {
+          "identifier": "577",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "217086908",
           "scheme": "viaf"
         },
@@ -965,6 +969,10 @@
           "scheme": "historichansard"
         },
         {
+          "identifier": "mr-andrew-welsh",
+          "scheme": "hansard"
+        },
+        {
           "identifier": "Q334000",
           "scheme": "wikidata"
         }
@@ -1232,6 +1240,10 @@
       "id": "person/13998",
       "identifiers": [
         {
+          "identifier": "4306",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "Q544742",
           "scheme": "wikidata"
         }
@@ -1303,6 +1315,10 @@
       "id": "person/25085",
       "identifiers": [
         {
+          "identifier": "ms-annabelle-ewing",
+          "scheme": "hansard"
+        },
+        {
           "identifier": "Q564093",
           "scheme": "wikidata"
         }
@@ -1354,6 +1370,10 @@
       "given_name": "Anne",
       "id": "person/14146",
       "identifiers": [
+        {
+          "identifier": "4437",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "Q373047",
           "scheme": "wikidata"
@@ -1495,6 +1515,10 @@
       "given_name": "Ben",
       "id": "person/11668",
       "identifiers": [
+        {
+          "identifier": "1539",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "Q263166",
           "scheme": "wikidata"
@@ -3471,8 +3495,16 @@
       "id": "person/11970",
       "identifiers": [
         {
+          "identifier": "1512",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "mr-david-mundell",
           "scheme": "hansard"
+        },
+        {
+          "identifier": "commons/david-mundell/1512",
+          "scheme": "parliamentdotuk"
         },
         {
           "identifier": "Q333520",
@@ -6215,6 +6247,10 @@
       "id": "person/14049",
       "identifiers": [
         {
+          "identifier": "4168",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "264402638",
           "scheme": "viaf"
         },
@@ -6852,6 +6888,10 @@
       "given_name": "Jeremy",
       "id": "person/14080",
       "identifiers": [
+        {
+          "identifier": "4293",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "Q1687620",
           "scheme": "wikidata"
@@ -8984,6 +9024,10 @@
           "scheme": "historichansard"
         },
         {
+          "identifier": "579",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "Q1507362",
           "scheme": "wikidata"
         }
@@ -9023,6 +9067,10 @@
       "given_name": "James",
       "id": "person/13182",
       "identifiers": [
+        {
+          "identifier": "802",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "0000 0001 1006 3935",
           "scheme": "isni"
@@ -9119,6 +9167,10 @@
           "scheme": "historichansard"
         },
         {
+          "identifier": "949",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "17350935",
           "scheme": "viaf"
         },
@@ -9141,6 +9193,10 @@
         {
           "identifier": "068369972",
           "scheme": "nta"
+        },
+        {
+          "identifier": "128697919",
+          "scheme": "bnf"
         },
         {
           "identifier": "Q333847",
@@ -9494,6 +9550,10 @@
           "scheme": "oxforddnb"
         },
         {
+          "identifier": "mrs-margaret-bain",
+          "scheme": "hansard"
+        },
+        {
           "identifier": "mp69951",
           "scheme": "npg"
         },
@@ -9787,6 +9847,10 @@
       "given_name": "Margo",
       "id": "person/14032",
       "identifiers": [
+        {
+          "identifier": "mrs-margo-macdonald",
+          "scheme": "hansard"
+        },
         {
           "identifier": "Q334376",
           "scheme": "wikidata"
@@ -11079,6 +11143,10 @@
       "gender": "male",
       "id": "person/14101",
       "identifiers": [
+        {
+          "identifier": "4239",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "mr-nicol-stephen",
           "scheme": "hansard"
@@ -13948,6 +14016,10 @@
           "scheme": "sudoc"
         },
         {
+          "identifier": "mr-winifred-ewing",
+          "scheme": "hansard"
+        },
+        {
           "identifier": "1369",
           "scheme": "europarlmep"
         },
@@ -14088,7 +14160,7 @@
   },
   "memberships": [
     {
-      "area_id": "area/falkirk_west",
+      "area_id": "uk.org.publicwhip/cons/10757",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -14096,7 +14168,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_west",
+      "area_id": "uk.org.publicwhip/cons/10757",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -14104,7 +14176,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_north_and_leith",
+      "area_id": "uk.org.publicwhip/cons/10752",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14112,7 +14184,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_north_and_leith",
+      "area_id": "uk.org.publicwhip/cons/10752",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14120,7 +14192,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_northern_and_leith",
+      "area_id": "uk.org.publicwhip/cons/10813",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14128,7 +14200,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_north_and_leith",
+      "area_id": "uk.org.publicwhip/cons/10752",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14137,7 +14209,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/perthshire_south_and_kinross-shire",
+      "area_id": "uk.org.publicwhip/cons/10830",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14145,7 +14217,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/perth",
+      "area_id": "uk.org.publicwhip/cons/10787",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14153,7 +14225,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/perth",
+      "area_id": "uk.org.publicwhip/cons/10787",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14162,7 +14234,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/perth",
+      "area_id": "uk.org.publicwhip/cons/10787",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14170,7 +14242,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_anniesland",
+      "area_id": "uk.org.publicwhip/cons/10759",
       "end_date": "2000-10-11",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
@@ -14179,7 +14251,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/moray",
+      "area_id": "uk.org.publicwhip/cons/10779",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14187,7 +14259,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/moray",
+      "area_id": "uk.org.publicwhip/cons/10779",
       "end_date": "2006-03-21",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
@@ -14196,7 +14268,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14205,7 +14277,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/strathkelvin_and_bearsden",
+      "area_id": "uk.org.publicwhip/cons/10792",
       "end_date": "2001-05-14",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
@@ -14214,7 +14286,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14222,7 +14294,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14230,7 +14302,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_lothian",
+      "area_id": "uk.org.publicwhip/cons/10748",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14238,7 +14310,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_lothian",
+      "area_id": "uk.org.publicwhip/cons/10748",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14246,7 +14318,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_east",
+      "area_id": "uk.org.publicwhip/cons/10743",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14254,7 +14326,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_fife",
+      "area_id": "uk.org.publicwhip/cons/10734",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14262,7 +14334,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14271,7 +14343,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/galloway_and_upper_nithsdale",
+      "area_id": "uk.org.publicwhip/cons/10758",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14279,7 +14351,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14287,7 +14359,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/banff_and_buchan",
+      "area_id": "uk.org.publicwhip/cons/10731",
       "end_date": "2001-05-14",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
@@ -14296,7 +14368,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/gordon",
+      "area_id": "uk.org.publicwhip/cons/10769",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14305,7 +14377,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeenshire_east",
+      "area_id": "uk.org.publicwhip/cons/10799",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14313,7 +14385,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_tayside",
+      "area_id": "uk.org.publicwhip/cons/10782",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14321,7 +14393,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_tayside",
+      "area_id": "uk.org.publicwhip/cons/10782",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14330,7 +14402,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/perthshire_north",
+      "area_id": "uk.org.publicwhip/cons/10829",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14338,7 +14410,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_tayside",
+      "area_id": "uk.org.publicwhip/cons/10782",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14346,7 +14418,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/orkney_islands",
+      "area_id": "uk.org.publicwhip/cons/10784",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14354,7 +14426,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/orkney_islands",
+      "area_id": "uk.org.publicwhip/cons/10784",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14362,7 +14434,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/angus",
+      "area_id": "uk.org.publicwhip/cons/10728",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14370,7 +14442,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/angus",
+      "area_id": "uk.org.publicwhip/cons/10728",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14379,7 +14451,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/angus",
+      "area_id": "uk.org.publicwhip/cons/10728",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14387,7 +14459,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14395,7 +14467,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2005-06-17",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
@@ -14404,7 +14476,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14412,7 +14484,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14420,7 +14492,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14428,7 +14500,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "1999-05-11",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "none",
@@ -14437,7 +14509,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2003-05-06",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "none",
@@ -14447,7 +14519,7 @@
       "start_date": "1999-05-12"
     },
     {
-      "area_id": "area/aberdeen_north",
+      "area_id": "uk.org.publicwhip/cons/10725",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14455,7 +14527,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_north",
+      "area_id": "uk.org.publicwhip/cons/10725",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14464,7 +14536,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_donside",
+      "area_id": "uk.org.publicwhip/cons/10797",
       "end_date": "2013-04-25",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -14473,7 +14545,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14481,7 +14553,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2009-02-06",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14490,7 +14562,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -14499,7 +14571,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14507,7 +14579,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14515,7 +14587,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/paisley_north",
+      "area_id": "uk.org.publicwhip/cons/10785",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14523,7 +14595,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/paisley_north",
+      "area_id": "uk.org.publicwhip/cons/10785",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14532,7 +14604,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/paisley_north",
+      "area_id": "uk.org.publicwhip/cons/10785",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14540,7 +14612,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/na_h-eileanan_an_iar",
+      "area_id": "uk.org.publicwhip/cons/10816",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14548,7 +14620,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_isles",
+      "area_id": "uk.org.publicwhip/cons/10795",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14557,7 +14629,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14566,7 +14638,7 @@
       "start_date": "2005-01-10"
     },
     {
-      "area_id": "area/dumbarton",
+      "area_id": "uk.org.publicwhip/cons/10741",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14574,7 +14646,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumbarton",
+      "area_id": "uk.org.publicwhip/cons/10741",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14582,7 +14654,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumbarton",
+      "area_id": "uk.org.publicwhip/cons/10741",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14590,7 +14662,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumbarton",
+      "area_id": "uk.org.publicwhip/cons/10741",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14599,7 +14671,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -14607,7 +14679,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14615,7 +14687,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14624,7 +14696,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14632,7 +14704,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14641,7 +14713,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14649,7 +14721,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -14657,7 +14729,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -14665,7 +14737,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline_west",
+      "area_id": "uk.org.publicwhip/cons/10746",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14673,7 +14745,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline_west",
+      "area_id": "uk.org.publicwhip/cons/10746",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14681,7 +14753,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_central",
+      "area_id": "uk.org.publicwhip/cons/10750",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14689,7 +14761,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_central",
+      "area_id": "uk.org.publicwhip/cons/10750",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14698,7 +14770,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14706,7 +14778,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_central",
+      "area_id": "uk.org.publicwhip/cons/10750",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14714,7 +14786,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/midlothian",
+      "area_id": "uk.org.publicwhip/cons/10778",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14722,7 +14794,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/midlothian",
+      "area_id": "uk.org.publicwhip/cons/10778",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14731,7 +14803,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/midlothian",
+      "area_id": "uk.org.publicwhip/cons/10778",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14739,7 +14811,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14747,7 +14819,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -14756,7 +14828,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14764,7 +14836,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -14772,7 +14844,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -14781,7 +14853,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -14790,7 +14862,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14798,7 +14870,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clackmannanshire_and_dunblane",
+      "area_id": "uk.org.publicwhip/cons/10806",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14806,7 +14878,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ochil",
+      "area_id": "uk.org.publicwhip/cons/10783",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14815,7 +14887,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14824,7 +14896,7 @@
       "start_date": "2005-06-22"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -14833,7 +14905,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_anniesland",
+      "area_id": "uk.org.publicwhip/cons/10759",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14841,7 +14913,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_anniesland",
+      "area_id": "uk.org.publicwhip/cons/10759",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14850,7 +14922,7 @@
       "start_date": "2000-11-23"
     },
     {
-      "area_id": "area/glasgow_anniesland",
+      "area_id": "uk.org.publicwhip/cons/10759",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14859,7 +14931,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "sg",
       "organization_id": "legislature",
@@ -14868,7 +14940,7 @@
       "start_date": "2006-09-04"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2006-09-03",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "ssp",
@@ -14877,7 +14949,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14885,7 +14957,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14894,7 +14966,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydesdale",
+      "area_id": "uk.org.publicwhip/cons/10736",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14902,7 +14974,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -14911,7 +14983,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -14919,7 +14991,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kilmarnock_and_irvine_valley",
+      "area_id": "uk.org.publicwhip/cons/10824",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14927,7 +14999,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kilmarnock_and_loudoun",
+      "area_id": "uk.org.publicwhip/cons/10774",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14936,7 +15008,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/almond_valley",
+      "area_id": "uk.org.publicwhip/cons/10801",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14944,7 +15016,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/livingston",
+      "area_id": "uk.org.publicwhip/cons/10777",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14953,7 +15025,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cumbernauld_and_kilsyth",
+      "area_id": "uk.org.publicwhip/cons/10738",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14961,7 +15033,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cumbernauld_and_kilsyth",
+      "area_id": "uk.org.publicwhip/cons/10738",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -14970,7 +15042,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cumbernauld_and_kilsyth",
+      "area_id": "uk.org.publicwhip/cons/10738",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -14978,7 +15050,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -14986,7 +15058,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/stirling",
+      "area_id": "uk.org.publicwhip/cons/10791",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -14995,7 +15067,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/stirling",
+      "area_id": "uk.org.publicwhip/cons/10791",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15003,7 +15075,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15011,7 +15083,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "ssp",
       "organization_id": "legislature",
@@ -15019,7 +15091,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_baillieston",
+      "area_id": "uk.org.publicwhip/cons/10760",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15027,7 +15099,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_baillieston",
+      "area_id": "uk.org.publicwhip/cons/10760",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15036,7 +15108,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_baillieston",
+      "area_id": "uk.org.publicwhip/cons/10760",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15044,7 +15116,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15052,7 +15124,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15060,7 +15132,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_east_and_musselburgh",
+      "area_id": "uk.org.publicwhip/cons/10751",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15068,7 +15140,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_east_and_musselburgh",
+      "area_id": "uk.org.publicwhip/cons/10751",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15076,7 +15148,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/angus_north_and_mearns",
+      "area_id": "uk.org.publicwhip/cons/10802",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15084,7 +15156,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15093,7 +15165,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15101,7 +15173,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15110,7 +15182,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline_east",
+      "area_id": "uk.org.publicwhip/cons/10745",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15118,7 +15190,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline_east",
+      "area_id": "uk.org.publicwhip/cons/10745",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15127,7 +15199,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline_east",
+      "area_id": "uk.org.publicwhip/cons/10745",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15135,7 +15207,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cowdenbeath",
+      "area_id": "uk.org.publicwhip/cons/10807",
       "end_date": "2013-11-09",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -15144,7 +15216,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -15153,7 +15225,7 @@
       "start_date": "2002-05-01"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2002-04-30",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "independent",
@@ -15162,7 +15234,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/inverness_east,_nairn_and_lochaber",
+      "area_id": "uk.org.publicwhip/cons/10773",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15170,7 +15242,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/inverness_east,_nairn_and_lochaber",
+      "area_id": "uk.org.publicwhip/cons/10773",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15178,7 +15250,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/inverness_and_nairn",
+      "area_id": "uk.org.publicwhip/cons/10823",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15186,7 +15258,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/inverness_east,_nairn_and_lochaber",
+      "area_id": "uk.org.publicwhip/cons/10773",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15195,7 +15267,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15203,7 +15275,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15211,7 +15283,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15220,7 +15292,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_kilbride",
+      "area_id": "uk.org.publicwhip/cons/10747",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15228,7 +15300,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15236,7 +15308,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ross,_skye_and_inverness_west",
+      "area_id": "uk.org.publicwhip/cons/10788",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -15244,7 +15316,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ross,_skye_and_inverness_west",
+      "area_id": "uk.org.publicwhip/cons/10788",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -15253,7 +15325,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ross,_skye_and_inverness_west",
+      "area_id": "uk.org.publicwhip/cons/10788",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -15261,7 +15333,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_maryhill",
+      "area_id": "uk.org.publicwhip/cons/10764",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15269,7 +15341,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_maryhill",
+      "area_id": "uk.org.publicwhip/cons/10764",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15278,7 +15350,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_maryhill_and_springburn",
+      "area_id": "uk.org.publicwhip/cons/10819",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15286,7 +15358,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_maryhill",
+      "area_id": "uk.org.publicwhip/cons/10764",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15294,7 +15366,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/galloway_and_upper_nithsdale",
+      "area_id": "uk.org.publicwhip/cons/10758",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15302,7 +15374,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15310,7 +15382,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/galloway_and_upper_nithsdale",
+      "area_id": "uk.org.publicwhip/cons/10758",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "none",
@@ -15320,7 +15392,7 @@
       "start_date": "2007-05-14"
     },
     {
-      "area_id": "area/galloway_and_west_dumfries",
+      "area_id": "uk.org.publicwhip/cons/10818",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15328,7 +15400,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/galloway_and_upper_nithsdale",
+      "area_id": "uk.org.publicwhip/cons/10758",
       "end_date": "2007-05-13",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "none",
@@ -15337,7 +15409,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -15345,7 +15417,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -15354,7 +15426,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -15362,7 +15434,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_city_west",
+      "area_id": "uk.org.publicwhip/cons/10810",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15370,7 +15442,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_west",
+      "area_id": "uk.org.publicwhip/cons/10744",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15379,7 +15451,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/strathkelvin_and_bearsden",
+      "area_id": "uk.org.publicwhip/cons/10792",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15388,7 +15460,7 @@
       "start_date": "2001-06-07"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "ssp",
       "organization_id": "legislature",
@@ -15396,7 +15468,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15405,7 +15477,7 @@
       "start_date": "2001-08-14"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15413,7 +15485,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -15422,7 +15494,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15430,7 +15502,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15438,7 +15510,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15446,7 +15518,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15454,7 +15526,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/caithness,_sutherland_and_ross",
+      "area_id": "uk.org.publicwhip/cons/10805",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15462,7 +15534,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15471,7 +15543,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15479,7 +15551,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_north",
+      "area_id": "uk.org.publicwhip/cons/10739",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15488,7 +15560,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_north",
+      "area_id": "uk.org.publicwhip/cons/10739",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15496,7 +15568,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydesdale",
+      "area_id": "uk.org.publicwhip/cons/10736",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15504,7 +15576,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydesdale",
+      "area_id": "uk.org.publicwhip/cons/10736",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15512,7 +15584,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydesdale",
+      "area_id": "uk.org.publicwhip/cons/10736",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15521,7 +15593,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15530,7 +15602,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15538,7 +15610,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_renfrewshire",
+      "area_id": "uk.org.publicwhip/cons/10796",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15546,7 +15618,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_renfrewshire",
+      "area_id": "uk.org.publicwhip/cons/10796",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15555,7 +15627,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_renfrewshire",
+      "area_id": "uk.org.publicwhip/cons/10796",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15563,7 +15635,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15571,7 +15643,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15579,7 +15651,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15587,7 +15659,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -15596,7 +15668,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_cathcart",
+      "area_id": "uk.org.publicwhip/cons/10761",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15605,7 +15677,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_cathcart",
+      "area_id": "uk.org.publicwhip/cons/10761",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15614,7 +15686,7 @@
       "start_date": "2005-09-29"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15622,7 +15694,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15630,7 +15702,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/midlothian_south,_tweeddale_and_lauderdale",
+      "area_id": "uk.org.publicwhip/cons/10827",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15638,7 +15710,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15647,7 +15719,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15655,7 +15727,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15664,7 +15736,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15672,7 +15744,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_pentlands",
+      "area_id": "uk.org.publicwhip/cons/10753",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15680,7 +15752,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_lothian",
+      "area_id": "uk.org.publicwhip/cons/10748",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15689,7 +15761,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_lothian",
+      "area_id": "uk.org.publicwhip/cons/10748",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15697,7 +15769,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15705,7 +15777,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -15713,7 +15785,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -15721,7 +15793,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -15729,7 +15801,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "green",
@@ -15738,7 +15810,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -15746,7 +15818,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "green",
@@ -15755,7 +15827,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -15763,7 +15835,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15772,7 +15844,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/paisley_south",
+      "area_id": "uk.org.publicwhip/cons/10786",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15780,7 +15852,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/paisley_south",
+      "area_id": "uk.org.publicwhip/cons/10786",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15788,7 +15860,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/paisley_south",
+      "area_id": "uk.org.publicwhip/cons/10786",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15797,7 +15869,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/renfrewshire_south",
+      "area_id": "uk.org.publicwhip/cons/10832",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15805,7 +15877,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15814,7 +15886,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cumbernauld_and_kilsyth",
+      "area_id": "uk.org.publicwhip/cons/10738",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15822,7 +15894,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_rutherglen",
+      "area_id": "uk.org.publicwhip/cons/10766",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15830,7 +15902,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_rutherglen",
+      "area_id": "uk.org.publicwhip/cons/10766",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15838,7 +15910,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -15847,7 +15919,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -15855,7 +15927,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15863,7 +15935,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15871,7 +15943,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/linlithgow",
+      "area_id": "uk.org.publicwhip/cons/10776",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15879,7 +15951,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15888,7 +15960,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15896,7 +15968,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15904,7 +15976,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -15913,7 +15985,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/carrick,_cumnock_and_doon_valley",
+      "area_id": "uk.org.publicwhip/cons/10733",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -15921,7 +15993,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_govan",
+      "area_id": "uk.org.publicwhip/cons/10762",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15929,7 +16001,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_govan",
+      "area_id": "uk.org.publicwhip/cons/10762",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15937,7 +16009,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/stirling",
+      "area_id": "uk.org.publicwhip/cons/10791",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15945,7 +16017,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/stirling",
+      "area_id": "uk.org.publicwhip/cons/10791",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15953,7 +16025,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kilmarnock_and_loudoun",
+      "area_id": "uk.org.publicwhip/cons/10774",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15961,7 +16033,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kilmarnock_and_loudoun",
+      "area_id": "uk.org.publicwhip/cons/10774",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15969,7 +16041,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/carrick,_cumnock_and_doon_valley",
+      "area_id": "uk.org.publicwhip/cons/10733",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15977,7 +16049,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/carrick,_cumnock_and_doon_valley",
+      "area_id": "uk.org.publicwhip/cons/10733",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -15985,7 +16057,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/carrick,_cumnock_and_doon_valley",
+      "area_id": "uk.org.publicwhip/cons/10733",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -15994,7 +16066,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/tweeddale,_ettrick_and_lauderdale",
+      "area_id": "uk.org.publicwhip/cons/10793",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -16002,7 +16074,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2001-08-10",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
@@ -16011,7 +16083,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16019,7 +16091,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16027,7 +16099,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16035,7 +16107,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -16044,7 +16116,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "ssp",
       "organization_id": "legislature",
@@ -16052,7 +16124,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_rutherglen",
+      "area_id": "uk.org.publicwhip/cons/10766",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16061,7 +16133,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/rutherglen",
+      "area_id": "uk.org.publicwhip/cons/10833",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16069,7 +16141,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_kilbride",
+      "area_id": "uk.org.publicwhip/cons/10747",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16077,7 +16149,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_kilbride",
+      "area_id": "uk.org.publicwhip/cons/10747",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16085,7 +16157,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_kilbride",
+      "area_id": "uk.org.publicwhip/cons/10747",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16094,7 +16166,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16103,7 +16175,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_anniesland",
+      "area_id": "uk.org.publicwhip/cons/10759",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16111,7 +16183,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_pollok",
+      "area_id": "uk.org.publicwhip/cons/10765",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16119,7 +16191,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_pollok",
+      "area_id": "uk.org.publicwhip/cons/10765",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16127,7 +16199,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_pollok",
+      "area_id": "uk.org.publicwhip/cons/10765",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16136,7 +16208,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_pollok",
+      "area_id": "uk.org.publicwhip/cons/10765",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16144,7 +16216,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/roxburgh_and_berwickshire",
+      "area_id": "uk.org.publicwhip/cons/10789",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -16153,7 +16225,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ettrick,_roxburgh_and_berwickshire",
+      "area_id": "uk.org.publicwhip/cons/10817",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16161,7 +16233,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "ssp",
       "organization_id": "legislature",
@@ -16169,7 +16241,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kirkcaldy",
+      "area_id": "uk.org.publicwhip/cons/10775",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16177,7 +16249,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kirkcaldy",
+      "area_id": "uk.org.publicwhip/cons/10775",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16185,7 +16257,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kirkcaldy",
+      "area_id": "uk.org.publicwhip/cons/10775",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16194,7 +16266,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16202,7 +16274,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2006-04-07",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
@@ -16211,7 +16283,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/moray",
+      "area_id": "uk.org.publicwhip/cons/10779",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16219,7 +16291,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/moray",
+      "area_id": "uk.org.publicwhip/cons/10779",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16228,7 +16300,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/moray",
+      "area_id": "uk.org.publicwhip/cons/10779",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16237,7 +16309,7 @@
       "start_date": "2006-04-27"
     },
     {
-      "area_id": "area/argyll_and_bute",
+      "area_id": "uk.org.publicwhip/cons/10729",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -16245,7 +16317,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/argyll_and_bute",
+      "area_id": "uk.org.publicwhip/cons/10729",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -16253,7 +16325,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16261,7 +16333,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_eastern",
+      "area_id": "uk.org.publicwhip/cons/10812",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16269,7 +16341,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_east_and_musselburgh",
+      "area_id": "uk.org.publicwhip/cons/10751",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16278,7 +16350,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16286,7 +16358,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2003-01-27",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "independent",
@@ -16295,7 +16367,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -16304,7 +16376,7 @@
       "start_date": "2003-01-28"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -16312,7 +16384,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "independent",
@@ -16321,7 +16393,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "end_date": "2014-04-04",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
@@ -16330,7 +16402,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_south",
+      "area_id": "uk.org.publicwhip/cons/10754",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16338,7 +16410,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_central",
+      "area_id": "uk.org.publicwhip/cons/10724",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16346,7 +16418,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16354,7 +16426,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_central",
+      "area_id": "uk.org.publicwhip/cons/10724",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16363,7 +16435,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_central",
+      "area_id": "uk.org.publicwhip/cons/10724",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16371,7 +16443,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/eastwood",
+      "area_id": "uk.org.publicwhip/cons/10749",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16379,7 +16451,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/eastwood",
+      "area_id": "uk.org.publicwhip/cons/10749",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16388,7 +16460,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/eastwood",
+      "area_id": "uk.org.publicwhip/cons/10749",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16396,7 +16468,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_west",
+      "area_id": "uk.org.publicwhip/cons/10744",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16404,7 +16476,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_west",
+      "area_id": "uk.org.publicwhip/cons/10744",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16412,7 +16484,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16420,7 +16492,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16428,7 +16500,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_springburn",
+      "area_id": "uk.org.publicwhip/cons/10768",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16436,7 +16508,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_springburn",
+      "area_id": "uk.org.publicwhip/cons/10768",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16444,7 +16516,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_springburn",
+      "area_id": "uk.org.publicwhip/cons/10768",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16453,7 +16525,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_provan",
+      "area_id": "uk.org.publicwhip/cons/10820",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16461,7 +16533,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2004-07-10",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
@@ -16470,7 +16542,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -16479,7 +16551,7 @@
       "start_date": "2004-07-11"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16487,7 +16559,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_fife_and_glenrothes",
+      "area_id": "uk.org.publicwhip/cons/10825",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "none",
       "organization_id": "legislature",
@@ -16496,7 +16568,7 @@
       "start_date": "2011-05-11"
     },
     {
-      "area_id": "area/central_fife",
+      "area_id": "uk.org.publicwhip/cons/10734",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16505,7 +16577,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_fife_and_glenrothes",
+      "area_id": "uk.org.publicwhip/cons/10825",
       "end_date": "2011-05-11",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -16514,7 +16586,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16522,7 +16594,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16530,7 +16602,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/argyll_and_bute",
+      "area_id": "uk.org.publicwhip/cons/10729",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16539,7 +16611,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_west",
+      "area_id": "uk.org.publicwhip/cons/10757",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16547,7 +16619,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16555,7 +16627,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_west",
+      "area_id": "uk.org.publicwhip/cons/10757",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16564,7 +16636,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16572,7 +16644,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16580,7 +16652,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16589,7 +16661,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16597,7 +16669,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_fife",
+      "area_id": "uk.org.publicwhip/cons/10734",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16605,7 +16677,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/orkney_islands",
+      "area_id": "uk.org.publicwhip/cons/10784",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -16613,7 +16685,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/orkney_islands",
+      "area_id": "uk.org.publicwhip/cons/10784",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -16622,7 +16694,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_shettleston",
+      "area_id": "uk.org.publicwhip/cons/10767",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16630,7 +16702,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_shettleston",
+      "area_id": "uk.org.publicwhip/cons/10767",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16639,7 +16711,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_shettleston",
+      "area_id": "uk.org.publicwhip/cons/10767",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16647,7 +16719,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton_south",
+      "area_id": "uk.org.publicwhip/cons/10772",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16655,7 +16727,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton_south",
+      "area_id": "uk.org.publicwhip/cons/10772",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16663,7 +16735,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton_south",
+      "area_id": "uk.org.publicwhip/cons/10772",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16672,7 +16744,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/motherwell_and_wishaw",
+      "area_id": "uk.org.publicwhip/cons/10780",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16680,7 +16752,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/motherwell_and_wishaw",
+      "area_id": "uk.org.publicwhip/cons/10780",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16689,7 +16761,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/motherwell_and_wishaw",
+      "area_id": "uk.org.publicwhip/cons/10780",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16697,7 +16769,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16705,7 +16777,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16713,7 +16785,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16721,7 +16793,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -16730,7 +16802,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16738,7 +16810,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16746,7 +16818,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -16755,7 +16827,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -16763,7 +16835,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16771,7 +16843,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16780,7 +16852,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16789,7 +16861,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton,_larkhall_and_stonehouse",
+      "area_id": "uk.org.publicwhip/cons/10822",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16797,7 +16869,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16805,7 +16877,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/strathkelvin_and_bearsden",
+      "area_id": "uk.org.publicwhip/cons/10792",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16813,7 +16885,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16821,7 +16893,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_pentlands",
+      "area_id": "uk.org.publicwhip/cons/10753",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16829,7 +16901,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "end_date": "2013-08-12",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
@@ -16838,7 +16910,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_pentlands",
+      "area_id": "uk.org.publicwhip/cons/10753",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -16847,7 +16919,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton_north_and_bellshill",
+      "area_id": "uk.org.publicwhip/cons/10771",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16855,7 +16927,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton_north_and_bellshill",
+      "area_id": "uk.org.publicwhip/cons/10771",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16863,7 +16935,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/uddingston_and_bellshill",
+      "area_id": "uk.org.publicwhip/cons/10835",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16871,7 +16943,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/hamilton_north_and_bellshill",
+      "area_id": "uk.org.publicwhip/cons/10771",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16880,7 +16952,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -16888,7 +16960,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -16897,7 +16969,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/greenock_and_inverclyde",
+      "area_id": "uk.org.publicwhip/cons/10770",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16905,7 +16977,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/greenock_and_inverclyde",
+      "area_id": "uk.org.publicwhip/cons/10770",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16913,7 +16985,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/greenock_and_inverclyde",
+      "area_id": "uk.org.publicwhip/cons/10770",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16922,7 +16994,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/greenock_and_inverclyde",
+      "area_id": "uk.org.publicwhip/cons/10770",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16930,7 +17002,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_kelvin",
+      "area_id": "uk.org.publicwhip/cons/10763",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16938,7 +17010,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_kelvin",
+      "area_id": "uk.org.publicwhip/cons/10763",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16946,7 +17018,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_kelvin",
+      "area_id": "uk.org.publicwhip/cons/10763",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16955,7 +17027,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydebank_and_milngavie",
+      "area_id": "uk.org.publicwhip/cons/10735",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16963,7 +17035,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydebank_and_milngavie",
+      "area_id": "uk.org.publicwhip/cons/10735",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -16971,7 +17043,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydebank_and_milngavie",
+      "area_id": "uk.org.publicwhip/cons/10735",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -16980,7 +17052,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -16988,7 +17060,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -16997,7 +17069,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17005,7 +17077,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17013,7 +17085,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -17022,7 +17094,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17030,7 +17102,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17038,7 +17110,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2005-11-08",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
@@ -17047,7 +17119,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -17056,7 +17128,7 @@
       "start_date": "2005-11-09"
     },
     {
-      "area_id": "area/western_isles",
+      "area_id": "uk.org.publicwhip/cons/10795",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17064,7 +17136,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_isles",
+      "area_id": "uk.org.publicwhip/cons/10795",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17072,7 +17144,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/livingston",
+      "area_id": "uk.org.publicwhip/cons/10777",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17080,7 +17152,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/livingston",
+      "area_id": "uk.org.publicwhip/cons/10777",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17088,7 +17160,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/linlithgow",
+      "area_id": "uk.org.publicwhip/cons/10776",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17096,7 +17168,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/linlithgow",
+      "area_id": "uk.org.publicwhip/cons/10776",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17104,7 +17176,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/linlithgow",
+      "area_id": "uk.org.publicwhip/cons/10776",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17113,7 +17185,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumfries",
+      "area_id": "uk.org.publicwhip/cons/10742",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17121,7 +17193,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumfriesshire",
+      "area_id": "uk.org.publicwhip/cons/10808",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17129,7 +17201,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumfries",
+      "area_id": "uk.org.publicwhip/cons/10742",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17138,7 +17210,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dumfries",
+      "area_id": "uk.org.publicwhip/cons/10742",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17146,7 +17218,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17154,7 +17226,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17162,7 +17234,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17171,7 +17243,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/airdrie_and_shotts",
+      "area_id": "uk.org.publicwhip/cons/10727",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17179,7 +17251,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17188,7 +17260,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_south",
+      "area_id": "uk.org.publicwhip/cons/10740",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17196,7 +17268,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_south",
+      "area_id": "uk.org.publicwhip/cons/10740",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17204,7 +17276,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_south",
+      "area_id": "uk.org.publicwhip/cons/10740",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17213,7 +17285,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17222,7 +17294,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2012-12-07",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
@@ -17231,7 +17303,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17239,7 +17311,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/clydebank_and_milngavie",
+      "area_id": "uk.org.publicwhip/cons/10735",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17247,7 +17319,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17256,7 +17328,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17264,7 +17336,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17273,7 +17345,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17281,7 +17353,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_east",
+      "area_id": "uk.org.publicwhip/cons/10756",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17289,7 +17361,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_east",
+      "area_id": "uk.org.publicwhip/cons/10756",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17297,7 +17369,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_east",
+      "area_id": "uk.org.publicwhip/cons/10756",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17306,7 +17378,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17315,7 +17387,7 @@
       "start_date": "2006-04-19"
     },
     {
-      "area_id": "area/edinburgh_south",
+      "area_id": "uk.org.publicwhip/cons/10754",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17323,7 +17395,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_south",
+      "area_id": "uk.org.publicwhip/cons/10754",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17332,7 +17404,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/tweeddale,_ettrick_and_lauderdale",
+      "area_id": "uk.org.publicwhip/cons/10793",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17340,7 +17412,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/tweeddale,_ettrick_and_lauderdale",
+      "area_id": "uk.org.publicwhip/cons/10793",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17349,7 +17421,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17357,7 +17429,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/gordon",
+      "area_id": "uk.org.publicwhip/cons/10769",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17365,7 +17437,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/gordon",
+      "area_id": "uk.org.publicwhip/cons/10769",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17373,7 +17445,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17381,7 +17453,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2005-01-07",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
@@ -17390,7 +17462,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17398,7 +17470,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ochil",
+      "area_id": "uk.org.publicwhip/cons/10783",
       "end_date": "2003-05-06",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
@@ -17407,7 +17479,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ochil",
+      "area_id": "uk.org.publicwhip/cons/10783",
       "end_date": "2007-05-14",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "none",
@@ -17417,7 +17489,7 @@
       "start_date": "2003-05-07"
     },
     {
-      "area_id": "area/dundee_city_east",
+      "area_id": "uk.org.publicwhip/cons/10809",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17425,7 +17497,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_east",
+      "area_id": "uk.org.publicwhip/cons/10743",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17433,7 +17505,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dundee_east",
+      "area_id": "uk.org.publicwhip/cons/10743",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17442,7 +17514,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17450,7 +17522,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/roxburgh_and_berwickshire",
+      "area_id": "uk.org.publicwhip/cons/10789",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17458,7 +17530,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/roxburgh_and_berwickshire",
+      "area_id": "uk.org.publicwhip/cons/10789",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17466,7 +17538,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_aberdeenshire_and_kincardine",
+      "area_id": "uk.org.publicwhip/cons/10794",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17474,7 +17546,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_aberdeenshire_and_kincardine",
+      "area_id": "uk.org.publicwhip/cons/10794",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17482,7 +17554,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_aberdeenshire_and_kincardine",
+      "area_id": "uk.org.publicwhip/cons/10794",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17491,7 +17563,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -17499,7 +17571,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/argyll_and_bute",
+      "area_id": "uk.org.publicwhip/cons/10729",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17507,7 +17579,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17516,7 +17588,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17524,7 +17596,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17532,7 +17604,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17540,7 +17612,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -17549,7 +17621,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2006-04-07",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
@@ -17558,7 +17630,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ayr",
+      "area_id": "uk.org.publicwhip/cons/10730",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17567,7 +17639,7 @@
       "start_date": "2000-03-16"
     },
     {
-      "area_id": "area/ayr",
+      "area_id": "uk.org.publicwhip/cons/10730",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17575,7 +17647,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ayr",
+      "area_id": "uk.org.publicwhip/cons/10730",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -17584,7 +17656,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ayr",
+      "area_id": "uk.org.publicwhip/cons/10730",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17592,7 +17664,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/shetland_islands",
+      "area_id": "uk.org.publicwhip/cons/10790",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17600,7 +17672,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/shetland_islands",
+      "area_id": "uk.org.publicwhip/cons/10790",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17608,7 +17680,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/shetland_islands",
+      "area_id": "uk.org.publicwhip/cons/10790",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17617,7 +17689,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/shetland_islands",
+      "area_id": "uk.org.publicwhip/cons/10790",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17625,7 +17697,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -17633,7 +17705,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "sg",
       "organization_id": "legislature",
@@ -17642,7 +17714,7 @@
       "start_date": "2006-09-03"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2006-09-02",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "ssp",
@@ -17651,7 +17723,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "ssp",
       "organization_id": "legislature",
@@ -17659,7 +17731,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ochil",
+      "area_id": "uk.org.publicwhip/cons/10783",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17667,7 +17739,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17676,7 +17748,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17684,7 +17756,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17692,7 +17764,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "conservative",
@@ -17701,7 +17773,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_west",
+      "area_id": "uk.org.publicwhip/cons/10755",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17710,7 +17782,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_west",
+      "area_id": "uk.org.publicwhip/cons/10755",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17718,7 +17790,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_west",
+      "area_id": "uk.org.publicwhip/cons/10755",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17726,7 +17798,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_fife",
+      "area_id": "uk.org.publicwhip/cons/10781",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17734,7 +17806,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_fife",
+      "area_id": "uk.org.publicwhip/cons/10781",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17742,7 +17814,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_fife",
+      "area_id": "uk.org.publicwhip/cons/10781",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17751,7 +17823,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/coatbridge_and_chryston",
+      "area_id": "uk.org.publicwhip/cons/10737",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17759,7 +17831,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/coatbridge_and_chryston",
+      "area_id": "uk.org.publicwhip/cons/10737",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17767,7 +17839,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/coatbridge_and_chryston",
+      "area_id": "uk.org.publicwhip/cons/10737",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17776,7 +17848,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/coatbridge_and_chryston",
+      "area_id": "uk.org.publicwhip/cons/10737",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17784,7 +17856,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17794,7 +17866,7 @@
       "start_date": "2007-08-31"
     },
     {
-      "area_id": "area/aberdeen_south",
+      "area_id": "uk.org.publicwhip/cons/10726",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17802,7 +17874,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_south",
+      "area_id": "uk.org.publicwhip/cons/10726",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17810,7 +17882,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_south",
+      "area_id": "uk.org.publicwhip/cons/10726",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17819,7 +17891,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/banff_and_buchan",
+      "area_id": "uk.org.publicwhip/cons/10731",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17828,7 +17900,7 @@
       "start_date": "2001-06-07"
     },
     {
-      "area_id": "area/banff_and_buchan",
+      "area_id": "uk.org.publicwhip/cons/10731",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17836,7 +17908,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/banffshire_and_buchan_coast",
+      "area_id": "uk.org.publicwhip/cons/10804",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17844,7 +17916,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/banff_and_buchan",
+      "area_id": "uk.org.publicwhip/cons/10731",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17853,7 +17925,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -17862,7 +17934,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17870,7 +17942,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/caithness,_sutherland_and_easter_ross",
+      "area_id": "uk.org.publicwhip/cons/10732",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17878,7 +17950,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/caithness,_sutherland_and_easter_ross",
+      "area_id": "uk.org.publicwhip/cons/10732",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -17886,7 +17958,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/caithness,_sutherland_and_easter_ross",
+      "area_id": "uk.org.publicwhip/cons/10732",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17895,7 +17967,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17903,7 +17975,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17911,7 +17983,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_govan",
+      "area_id": "uk.org.publicwhip/cons/10762",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17920,7 +17992,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_southside",
+      "area_id": "uk.org.publicwhip/cons/10821",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17928,7 +18000,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "sscup",
       "organization_id": "legislature",
@@ -17936,7 +18008,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -17945,7 +18017,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/skye,_lochaber_and_badenoch",
+      "area_id": "uk.org.publicwhip/cons/10834",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -17953,7 +18025,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_north",
+      "area_id": "uk.org.publicwhip/cons/10725",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -17961,7 +18033,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline_west",
+      "area_id": "uk.org.publicwhip/cons/10746",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "liberal-democrat",
@@ -17970,7 +18042,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10722",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17978,7 +18050,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -17986,7 +18058,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/strathkelvin_and_bearsden",
+      "area_id": "uk.org.publicwhip/cons/10792",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -17994,7 +18066,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothians",
+      "area_id": "uk.org.publicwhip/cons/10719",
       "end_date": "2007-08-30",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -18003,7 +18075,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18011,7 +18083,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_cathcart",
+      "area_id": "uk.org.publicwhip/cons/10761",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18019,7 +18091,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_cathcart",
+      "area_id": "uk.org.publicwhip/cons/10761",
       "end_date": "2005-09-05",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "independent",
@@ -18029,7 +18101,7 @@
       "start_date": "2004-11-16"
     },
     {
-      "area_id": "area/glasgow_cathcart",
+      "area_id": "uk.org.publicwhip/cons/10761",
       "end_date": "2004-11-15",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
@@ -18038,7 +18110,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18047,7 +18119,7 @@
       "start_date": "2006-04-19"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -18056,7 +18128,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_south_and_north_kincardine",
+      "area_id": "uk.org.publicwhip/cons/10798",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18064,7 +18136,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/ayr",
+      "area_id": "uk.org.publicwhip/cons/10730",
       "end_date": "1999-12-21",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
@@ -18073,7 +18145,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18081,7 +18153,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18089,7 +18161,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_kelvin",
+      "area_id": "uk.org.publicwhip/cons/10763",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18097,7 +18169,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -18106,7 +18178,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/airdrie_and_shotts",
+      "area_id": "uk.org.publicwhip/cons/10727",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18114,7 +18186,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/airdrie_and_shotts",
+      "area_id": "uk.org.publicwhip/cons/10727",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18122,7 +18194,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/airdrie_and_shotts",
+      "area_id": "uk.org.publicwhip/cons/10727",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -18131,7 +18203,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/strathkelvin_and_bearsden",
+      "area_id": "uk.org.publicwhip/cons/10792",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "labour",
@@ -18140,7 +18212,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -18149,7 +18221,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18157,7 +18229,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_north",
+      "area_id": "uk.org.publicwhip/cons/10739",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18165,7 +18237,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_north",
+      "area_id": "uk.org.publicwhip/cons/10739",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18173,7 +18245,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18181,7 +18253,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -18190,7 +18262,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_of_scotland",
+      "area_id": "uk.org.publicwhip/cons/10723",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -18198,7 +18270,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "end_date": "2011-03-23",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "scottish-national-party",
@@ -18208,7 +18280,7 @@
       "start_date": "2009-02-11"
     },
     {
-      "area_id": "area/paisley",
+      "area_id": "uk.org.publicwhip/cons/10828",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18216,7 +18288,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18224,7 +18296,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/midlothian_north_and_musselburgh",
+      "area_id": "uk.org.publicwhip/cons/10826",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18232,7 +18304,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_central",
+      "area_id": "uk.org.publicwhip/cons/10750",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18240,7 +18312,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18248,7 +18320,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18256,7 +18328,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/cunninghame_south",
+      "area_id": "uk.org.publicwhip/cons/10740",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18264,7 +18336,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_fife",
+      "area_id": "uk.org.publicwhip/cons/10781",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18272,7 +18344,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -18280,7 +18352,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/angus_south",
+      "area_id": "uk.org.publicwhip/cons/10803",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18288,7 +18360,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_cathcart",
+      "area_id": "uk.org.publicwhip/cons/10761",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18296,7 +18368,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18304,7 +18376,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_southern",
+      "area_id": "uk.org.publicwhip/cons/10814",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18312,7 +18384,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18320,7 +18392,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18328,7 +18400,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18336,7 +18408,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -18345,7 +18417,7 @@
       "start_date": "2012-10-23"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2012-10-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -18354,7 +18426,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18362,7 +18434,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18370,7 +18442,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "green",
       "organization_id": "legislature",
@@ -18378,7 +18450,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_western",
+      "area_id": "uk.org.publicwhip/cons/10815",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18386,7 +18458,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18394,7 +18466,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/falkirk_east",
+      "area_id": "uk.org.publicwhip/cons/10756",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18402,7 +18474,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/edinburgh_pentlands",
+      "area_id": "uk.org.publicwhip/cons/10753",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18410,7 +18482,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/renfrewshire_north_and_west",
+      "area_id": "uk.org.publicwhip/cons/10831",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18418,7 +18490,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18426,7 +18498,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/eastwood",
+      "area_id": "uk.org.publicwhip/cons/10749",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18434,7 +18506,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18442,7 +18514,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18450,7 +18522,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow_shettleston",
+      "area_id": "uk.org.publicwhip/cons/10767",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18458,7 +18530,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18466,7 +18538,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18474,7 +18546,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_donside",
+      "area_id": "uk.org.publicwhip/cons/10797",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18483,7 +18555,7 @@
       "start_date": "2013-06-21"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "end_date": "2013-05-14",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -18492,7 +18564,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/west_scotland",
+      "area_id": "uk.org.publicwhip/cons/10838",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18500,7 +18572,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18508,7 +18580,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_scotland",
+      "area_id": "uk.org.publicwhip/cons/10716",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18516,7 +18588,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18524,7 +18596,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18532,7 +18604,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/motherwell_and_wishaw",
+      "area_id": "uk.org.publicwhip/cons/10780",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18540,7 +18612,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "liberal-democrat",
       "organization_id": "legislature",
@@ -18548,7 +18620,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeenshire_west",
+      "area_id": "uk.org.publicwhip/cons/10800",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18556,7 +18628,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18564,7 +18636,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/aberdeen_central",
+      "area_id": "uk.org.publicwhip/cons/10724",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18572,7 +18644,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kirkcaldy",
+      "area_id": "uk.org.publicwhip/cons/10775",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18580,7 +18652,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "end_date": "2012-10-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -18589,7 +18661,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/highlands_and_islands",
+      "area_id": "uk.org.publicwhip/cons/10718",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
       "organization_id": "legislature",
@@ -18598,7 +18670,7 @@
       "start_date": "2012-10-23"
     },
     {
-      "area_id": "area/dunfermline",
+      "area_id": "uk.org.publicwhip/cons/10811",
       "end_date": "2012-04-08",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
@@ -18607,7 +18679,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/dunfermline",
+      "area_id": "uk.org.publicwhip/cons/10811",
       "end_date": "2013-09-07",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "independent",
@@ -18617,7 +18689,7 @@
       "start_date": "2012-04-08"
     },
     {
-      "area_id": "area/south_scotland",
+      "area_id": "uk.org.publicwhip/cons/10837",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18625,7 +18697,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/glasgow",
+      "area_id": "uk.org.publicwhip/cons/10717",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18633,7 +18705,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mid_scotland_and_fife",
+      "area_id": "uk.org.publicwhip/cons/10720",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18642,7 +18714,7 @@
       "start_date": "2012-12-07"
     },
     {
-      "area_id": "area/north_east_scotland",
+      "area_id": "uk.org.publicwhip/cons/10721",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
@@ -18651,7 +18723,7 @@
       "start_date": "2013-05-15"
     },
     {
-      "area_id": "area/dunfermline",
+      "area_id": "uk.org.publicwhip/cons/10811",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18660,7 +18732,7 @@
       "start_date": "2013-10-25"
     },
     {
-      "area_id": "area/cowdenbeath",
+      "area_id": "uk.org.publicwhip/cons/10807",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -18669,7 +18741,7 @@
       "start_date": "2014-01-23"
     },
     {
-      "area_id": "area/lothian",
+      "area_id": "uk.org.publicwhip/cons/10836",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
@@ -18713,618 +18785,618 @@
   ],
   "areas": [
     {
-      "id": "area/aberdeen_central",
-      "name": "Aberdeen Central",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_donside",
-      "name": "Aberdeen Donside",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_north",
-      "name": "Aberdeen North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_south",
-      "name": "Aberdeen South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeen_south_and_north_kincardine",
-      "name": "Aberdeen South and North Kincardine",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeenshire_east",
-      "name": "Aberdeenshire East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/aberdeenshire_west",
-      "name": "Aberdeenshire West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/airdrie_and_shotts",
-      "name": "Airdrie and Shotts",
-      "type": "constituency"
-    },
-    {
-      "id": "area/almond_valley",
-      "name": "Almond Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/angus",
-      "name": "Angus",
-      "type": "constituency"
-    },
-    {
-      "id": "area/angus_north_and_mearns",
-      "name": "Angus North and Mearns",
-      "type": "constituency"
-    },
-    {
-      "id": "area/angus_south",
-      "name": "Angus South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/argyll_and_bute",
-      "name": "Argyll and Bute",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ayr",
-      "name": "Ayr",
-      "type": "constituency"
-    },
-    {
-      "id": "area/banff_and_buchan",
-      "name": "Banff and Buchan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/banffshire_and_buchan_coast",
-      "name": "Banffshire and Buchan Coast",
-      "type": "constituency"
-    },
-    {
-      "id": "area/caithness,_sutherland_and_easter_ross",
-      "name": "Caithness, Sutherland and Easter Ross",
-      "type": "constituency"
-    },
-    {
-      "id": "area/caithness,_sutherland_and_ross",
-      "name": "Caithness, Sutherland and Ross",
-      "type": "constituency"
-    },
-    {
-      "id": "area/carrick,_cumnock_and_doon_valley",
-      "name": "Carrick, Cumnock and Doon Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/central_fife",
-      "name": "Central Fife",
-      "type": "constituency"
-    },
-    {
-      "id": "area/central_scotland",
+      "id": "uk.org.publicwhip/cons/10716",
       "name": "Central Scotland",
       "type": "constituency"
     },
     {
-      "id": "area/clackmannanshire_and_dunblane",
-      "name": "Clackmannanshire and Dunblane",
-      "type": "constituency"
-    },
-    {
-      "id": "area/clydebank_and_milngavie",
-      "name": "Clydebank and Milngavie",
-      "type": "constituency"
-    },
-    {
-      "id": "area/clydesdale",
-      "name": "Clydesdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/coatbridge_and_chryston",
-      "name": "Coatbridge and Chryston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cowdenbeath",
-      "name": "Cowdenbeath",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cumbernauld_and_kilsyth",
-      "name": "Cumbernauld and Kilsyth",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cunninghame_north",
-      "name": "Cunninghame North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/cunninghame_south",
-      "name": "Cunninghame South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dumbarton",
-      "name": "Dumbarton",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dumfries",
-      "name": "Dumfries",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dumfriesshire",
-      "name": "Dumfriesshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_city_east",
-      "name": "Dundee City East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_city_west",
-      "name": "Dundee City West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_east",
-      "name": "Dundee East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dundee_west",
-      "name": "Dundee West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dunfermline",
-      "name": "Dunfermline",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dunfermline_east",
-      "name": "Dunfermline East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/dunfermline_west",
-      "name": "Dunfermline West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_kilbride",
-      "name": "East Kilbride",
-      "type": "constituency"
-    },
-    {
-      "id": "area/east_lothian",
-      "name": "East Lothian",
-      "type": "constituency"
-    },
-    {
-      "id": "area/eastwood",
-      "name": "Eastwood",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_central",
-      "name": "Edinburgh Central",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_east_and_musselburgh",
-      "name": "Edinburgh East and Musselburgh",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_eastern",
-      "name": "Edinburgh Eastern",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_north_and_leith",
-      "name": "Edinburgh North and Leith",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_northern_and_leith",
-      "name": "Edinburgh Northern and Leith",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_pentlands",
-      "name": "Edinburgh Pentlands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_south",
-      "name": "Edinburgh South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_southern",
-      "name": "Edinburgh Southern",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_west",
-      "name": "Edinburgh West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/edinburgh_western",
-      "name": "Edinburgh Western",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ettrick,_roxburgh_and_berwickshire",
-      "name": "Ettrick, Roxburgh and Berwickshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/falkirk_east",
-      "name": "Falkirk East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/falkirk_west",
-      "name": "Falkirk West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/galloway_and_upper_nithsdale",
-      "name": "Galloway and Upper Nithsdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/galloway_and_west_dumfries",
-      "name": "Galloway and West Dumfries",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow",
+      "id": "uk.org.publicwhip/cons/10717",
       "name": "Glasgow",
       "type": "constituency"
     },
     {
-      "id": "area/glasgow_anniesland",
-      "name": "Glasgow Anniesland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_baillieston",
-      "name": "Glasgow Baillieston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_cathcart",
-      "name": "Glasgow Cathcart",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_govan",
-      "name": "Glasgow Govan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_kelvin",
-      "name": "Glasgow Kelvin",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_maryhill",
-      "name": "Glasgow Maryhill",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_maryhill_and_springburn",
-      "name": "Glasgow Maryhill and Springburn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_pollok",
-      "name": "Glasgow Pollok",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_provan",
-      "name": "Glasgow Provan",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_rutherglen",
-      "name": "Glasgow Rutherglen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_shettleston",
-      "name": "Glasgow Shettleston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_southside",
-      "name": "Glasgow Southside",
-      "type": "constituency"
-    },
-    {
-      "id": "area/glasgow_springburn",
-      "name": "Glasgow Springburn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/gordon",
-      "name": "Gordon",
-      "type": "constituency"
-    },
-    {
-      "id": "area/greenock_and_inverclyde",
-      "name": "Greenock and Inverclyde",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hamilton,_larkhall_and_stonehouse",
-      "name": "Hamilton, Larkhall and Stonehouse",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hamilton_north_and_bellshill",
-      "name": "Hamilton North and Bellshill",
-      "type": "constituency"
-    },
-    {
-      "id": "area/hamilton_south",
-      "name": "Hamilton South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/highlands_and_islands",
+      "id": "uk.org.publicwhip/cons/10718",
       "name": "Highlands and Islands",
       "type": "constituency"
     },
     {
-      "id": "area/inverness_and_nairn",
-      "name": "Inverness and Nairn",
-      "type": "constituency"
-    },
-    {
-      "id": "area/inverness_east,_nairn_and_lochaber",
-      "name": "Inverness East, Nairn and Lochaber",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kilmarnock_and_irvine_valley",
-      "name": "Kilmarnock and Irvine Valley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kilmarnock_and_loudoun",
-      "name": "Kilmarnock and Loudoun",
-      "type": "constituency"
-    },
-    {
-      "id": "area/kirkcaldy",
-      "name": "Kirkcaldy",
-      "type": "constituency"
-    },
-    {
-      "id": "area/linlithgow",
-      "name": "Linlithgow",
-      "type": "constituency"
-    },
-    {
-      "id": "area/livingston",
-      "name": "Livingston",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lothian",
-      "name": "Lothian",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lothians",
+      "id": "uk.org.publicwhip/cons/10719",
       "name": "Lothians",
       "type": "constituency"
     },
     {
-      "id": "area/mid_fife_and_glenrothes",
-      "name": "Mid Fife and Glenrothes",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mid_scotland_and_fife",
+      "id": "uk.org.publicwhip/cons/10720",
       "name": "Mid Scotland and Fife",
       "type": "constituency"
     },
     {
-      "id": "area/midlothian",
-      "name": "Midlothian",
-      "type": "constituency"
-    },
-    {
-      "id": "area/midlothian_north_and_musselburgh",
-      "name": "Midlothian North and Musselburgh",
-      "type": "constituency"
-    },
-    {
-      "id": "area/midlothian_south,_tweeddale_and_lauderdale",
-      "name": "Midlothian South, Tweeddale and Lauderdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/moray",
-      "name": "Moray",
-      "type": "constituency"
-    },
-    {
-      "id": "area/motherwell_and_wishaw",
-      "name": "Motherwell and Wishaw",
-      "type": "constituency"
-    },
-    {
-      "id": "area/na_h-eileanan_an_iar",
-      "name": "Na h-Eileanan an Iar",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_east_fife",
-      "name": "North East Fife",
-      "type": "constituency"
-    },
-    {
-      "id": "area/north_east_scotland",
+      "id": "uk.org.publicwhip/cons/10721",
       "name": "North East Scotland",
       "type": "constituency"
     },
     {
-      "id": "area/north_tayside",
-      "name": "North Tayside",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ochil",
-      "name": "Ochil",
-      "type": "constituency"
-    },
-    {
-      "id": "area/orkney_islands",
-      "name": "Orkney Islands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/paisley",
-      "name": "Paisley",
-      "type": "constituency"
-    },
-    {
-      "id": "area/paisley_north",
-      "name": "Paisley North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/paisley_south",
-      "name": "Paisley South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/perth",
-      "name": "Perth",
-      "type": "constituency"
-    },
-    {
-      "id": "area/perthshire_north",
-      "name": "Perthshire North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/perthshire_south_and_kinross-shire",
-      "name": "Perthshire South and Kinross-shire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/renfrewshire_north_and_west",
-      "name": "Renfrewshire North and West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/renfrewshire_south",
-      "name": "Renfrewshire South",
-      "type": "constituency"
-    },
-    {
-      "id": "area/ross,_skye_and_inverness_west",
-      "name": "Ross, Skye and Inverness West",
-      "type": "constituency"
-    },
-    {
-      "id": "area/roxburgh_and_berwickshire",
-      "name": "Roxburgh and Berwickshire",
-      "type": "constituency"
-    },
-    {
-      "id": "area/rutherglen",
-      "name": "Rutherglen",
-      "type": "constituency"
-    },
-    {
-      "id": "area/shetland_islands",
-      "name": "Shetland Islands",
-      "type": "constituency"
-    },
-    {
-      "id": "area/skye,_lochaber_and_badenoch",
-      "name": "Skye, Lochaber and Badenoch",
-      "type": "constituency"
-    },
-    {
-      "id": "area/south_of_scotland",
+      "id": "uk.org.publicwhip/cons/10722",
       "name": "South of Scotland",
       "type": "constituency"
     },
     {
-      "id": "area/south_scotland",
-      "name": "South Scotland",
-      "type": "constituency"
-    },
-    {
-      "id": "area/stirling",
-      "name": "Stirling",
-      "type": "constituency"
-    },
-    {
-      "id": "area/strathkelvin_and_bearsden",
-      "name": "Strathkelvin and Bearsden",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tweeddale,_ettrick_and_lauderdale",
-      "name": "Tweeddale, Ettrick and Lauderdale",
-      "type": "constituency"
-    },
-    {
-      "id": "area/uddingston_and_bellshill",
-      "name": "Uddingston and Bellshill",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_aberdeenshire_and_kincardine",
-      "name": "West Aberdeenshire and Kincardine",
-      "type": "constituency"
-    },
-    {
-      "id": "area/west_of_scotland",
+      "id": "uk.org.publicwhip/cons/10723",
       "name": "West of Scotland",
       "type": "constituency"
     },
     {
-      "id": "area/west_renfrewshire",
+      "id": "uk.org.publicwhip/cons/10724",
+      "name": "Aberdeen Central",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10725",
+      "name": "Aberdeen North",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10726",
+      "name": "Aberdeen South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10727",
+      "name": "Airdrie and Shotts",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10728",
+      "name": "Angus",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10729",
+      "name": "Argyll and Bute",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10730",
+      "name": "Ayr",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10731",
+      "name": "Banff and Buchan",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10732",
+      "name": "Caithness, Sutherland and Easter Ross",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10733",
+      "name": "Carrick, Cumnock and Doon Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10734",
+      "name": "Central Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10735",
+      "name": "Clydebank and Milngavie",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10736",
+      "name": "Clydesdale",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10737",
+      "name": "Coatbridge and Chryston",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10738",
+      "name": "Cumbernauld and Kilsyth",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10739",
+      "name": "Cunninghame North",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10740",
+      "name": "Cunninghame South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10741",
+      "name": "Dumbarton",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10742",
+      "name": "Dumfries",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10743",
+      "name": "Dundee East",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10744",
+      "name": "Dundee West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10745",
+      "name": "Dunfermline East",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10746",
+      "name": "Dunfermline West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10747",
+      "name": "East Kilbride",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10748",
+      "name": "East Lothian",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10749",
+      "name": "Eastwood",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10750",
+      "name": "Edinburgh Central",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10751",
+      "name": "Edinburgh East and Musselburgh",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10752",
+      "name": "Edinburgh North and Leith",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10753",
+      "name": "Edinburgh Pentlands",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10754",
+      "name": "Edinburgh South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10755",
+      "name": "Edinburgh West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10756",
+      "name": "Falkirk East",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10757",
+      "name": "Falkirk West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10758",
+      "name": "Galloway and Upper Nithsdale",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10759",
+      "name": "Glasgow Anniesland",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10760",
+      "name": "Glasgow Baillieston",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10761",
+      "name": "Glasgow Cathcart",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10762",
+      "name": "Glasgow Govan",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10763",
+      "name": "Glasgow Kelvin",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10764",
+      "name": "Glasgow Maryhill",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10765",
+      "name": "Glasgow Pollok",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10766",
+      "name": "Glasgow Rutherglen",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10767",
+      "name": "Glasgow Shettleston",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10768",
+      "name": "Glasgow Springburn",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10769",
+      "name": "Gordon",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10770",
+      "name": "Greenock and Inverclyde",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10771",
+      "name": "Hamilton North and Bellshill",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10772",
+      "name": "Hamilton South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10773",
+      "name": "Inverness East, Nairn and Lochaber",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10774",
+      "name": "Kilmarnock and Loudoun",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10775",
+      "name": "Kirkcaldy",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10776",
+      "name": "Linlithgow",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10777",
+      "name": "Livingston",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10778",
+      "name": "Midlothian",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10779",
+      "name": "Moray",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10780",
+      "name": "Motherwell and Wishaw",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10781",
+      "name": "North East Fife",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10782",
+      "name": "North Tayside",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10783",
+      "name": "Ochil",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10784",
+      "name": "Orkney Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10785",
+      "name": "Paisley North",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10786",
+      "name": "Paisley South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10787",
+      "name": "Perth",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10788",
+      "name": "Ross, Skye and Inverness West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10789",
+      "name": "Roxburgh and Berwickshire",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10790",
+      "name": "Shetland Islands",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10791",
+      "name": "Stirling",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10792",
+      "name": "Strathkelvin and Bearsden",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10793",
+      "name": "Tweeddale, Ettrick and Lauderdale",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10794",
+      "name": "West Aberdeenshire and Kincardine",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10795",
+      "name": "Western Isles",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10796",
       "name": "West Renfrewshire",
       "type": "constituency"
     },
     {
-      "id": "area/west_scotland",
-      "name": "West Scotland",
+      "id": "uk.org.publicwhip/cons/10797",
+      "name": "Aberdeen Donside",
       "type": "constituency"
     },
     {
-      "id": "area/western_isles",
-      "name": "Western Isles",
+      "id": "uk.org.publicwhip/cons/10798",
+      "name": "Aberdeen South and North Kincardine",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10799",
+      "name": "Aberdeenshire East",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10800",
+      "name": "Aberdeenshire West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10801",
+      "name": "Almond Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10802",
+      "name": "Angus North and Mearns",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10803",
+      "name": "Angus South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10804",
+      "name": "Banffshire and Buchan Coast",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10805",
+      "name": "Caithness, Sutherland and Ross",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10806",
+      "name": "Clackmannanshire and Dunblane",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10807",
+      "name": "Cowdenbeath",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10808",
+      "name": "Dumfriesshire",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10809",
+      "name": "Dundee City East",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10810",
+      "name": "Dundee City West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10811",
+      "name": "Dunfermline",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10812",
+      "name": "Edinburgh Eastern",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10813",
+      "name": "Edinburgh Northern and Leith",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10814",
+      "name": "Edinburgh Southern",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10815",
+      "name": "Edinburgh Western",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10816",
+      "name": "Na h-Eileanan an Iar",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10817",
+      "name": "Ettrick, Roxburgh and Berwickshire",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10818",
+      "name": "Galloway and West Dumfries",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10819",
+      "name": "Glasgow Maryhill and Springburn",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10820",
+      "name": "Glasgow Provan",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10821",
+      "name": "Glasgow Southside",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10822",
+      "name": "Hamilton, Larkhall and Stonehouse",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10823",
+      "name": "Inverness and Nairn",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10824",
+      "name": "Kilmarnock and Irvine Valley",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10825",
+      "name": "Mid Fife and Glenrothes",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10826",
+      "name": "Midlothian North and Musselburgh",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10827",
+      "name": "Midlothian South, Tweeddale and Lauderdale",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10828",
+      "name": "Paisley",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10829",
+      "name": "Perthshire North",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10830",
+      "name": "Perthshire South and Kinross-shire",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10831",
+      "name": "Renfrewshire North and West",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10832",
+      "name": "Renfrewshire South",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10833",
+      "name": "Rutherglen",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10834",
+      "name": "Skye, Lochaber and Badenoch",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10835",
+      "name": "Uddingston and Bellshill",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10836",
+      "name": "Lothian",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10837",
+      "name": "South Scotland",
+      "type": "constituency"
+    },
+    {
+      "id": "uk.org.publicwhip/cons/10838",
+      "name": "West Scotland",
       "type": "constituency"
     }
   ]
