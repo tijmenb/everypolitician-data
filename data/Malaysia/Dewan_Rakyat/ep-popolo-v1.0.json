@@ -3965,6 +3965,10 @@
           "scheme": "cantic"
         },
         {
+          "identifier": "16954848r",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "Q299574",
           "scheme": "wikidata"
         }
@@ -4199,14 +4203,33 @@
       "name": "Awang Abdul Jabar"
     },
     {
+      "gender": "male",
       "id": "person/awang_adek_hussin",
+      "identifiers": [
+        {
+          "identifier": "Q12683034",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Awang_Adek_Hussin"
         }
       ],
-      "name": "Awang Adek Hussin"
+      "name": "Awang Adek Hussin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Awang Adek Hussin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Awang Adek Hussin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "person/awang_bungsu_abdullah",
@@ -9653,6 +9676,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "16940016r",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "Q5984464",
           "scheme": "wikidata"
         }
@@ -15023,6 +15050,10 @@
         {
           "identifier": "5ef869f6-d103-4aa0-a0f6-575017e10696",
           "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "145788396",
+          "scheme": "bnf"
         },
         {
           "identifier": "Q181383",
@@ -21997,6 +22028,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Rahman",
       "id": "person/rahman_ismail",
       "identifiers": [
         {
@@ -24359,6 +24391,12 @@
         {
           "identifier": "Q7461744",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Datuk_Seri_Shahidan_Kassim.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Datuk_Seri_Shahidan_Kassim.jpg"
         }
       ],
       "links": [
