@@ -2832,11 +2832,19 @@
         "slug": "Parliament",
         "sources_directory": "data/Greece/Parliament/sources",
         "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1443992302",
-        "person_count": 1721,
-        "sha": "b96a5ec",
+        "lastmod": "1444653811",
+        "person_count": 1782,
+        "sha": "bbf25ec",
         "legislative_periods": [
           {
+            "id": "term/17",
+            "name": "17th Hellenic Parliament",
+            "start_date": "2015-09-20",
+            "slug": "17",
+            "csv": "data/Greece/Parliament/term-17.csv"
+          },
+          {
+            "end_date": "2015-08-28",
             "id": "term/16",
             "name": "16th Hellenic Parliament",
             "start_date": "2015-01-25",
