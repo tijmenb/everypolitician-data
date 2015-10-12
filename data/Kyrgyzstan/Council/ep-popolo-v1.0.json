@@ -461,7 +461,15 @@
       ]
     },
     {
+      "birth_date": "1983-11-22",
+      "gender": "male",
       "id": "person/319",
+      "identifiers": [
+        {
+          "identifier": "Q13166829",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.kenesh.kg/MyFiles/image/%D0%91%D0%B5%D0%BA%D0%B5%D1%88%D0%B5%D0%B2%20%D0%94_%20%D0%94_.jpg",
       "images": [
         {
@@ -473,6 +481,11 @@
         {
           "lang": "ru",
           "name": "БЕКЕШЕВ Дастан Далабайевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Бекешев Дастан Далабайевич",
           "note": "multilingual"
         }
       ],
@@ -527,7 +540,15 @@
       ]
     },
     {
+      "birth_date": "1977-03-22",
+      "gender": "male",
       "id": "person/236",
+      "identifiers": [
+        {
+          "identifier": "Q13174526",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.kenesh.kg/MyFiles/image/%D0%A7%D0%BE%D0%BB%D0%BF%D0%BE%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2%20%D0%A3_%20copy.jpg",
       "images": [
         {
@@ -539,6 +560,11 @@
         {
           "lang": "ru",
           "name": "ЧОЛПОНБАЕВ Улан Сапарбекович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Чолпонбаев, Улан Сапарбекович",
           "note": "multilingual"
         }
       ],
@@ -921,7 +947,20 @@
       ]
     },
     {
+      "birth_date": "1950-07-10",
+      "gender": "male",
+      "given_name": "Ismail",
       "id": "person/382",
+      "identifiers": [
+        {
+          "identifier": "/m/04jj05g",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2562313",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.kenesh.kg/MyFiles/image/11-%D1%8F%D0%BD%D0%B2%20%D0%98_%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2t.jpeg",
       "images": [
         {
@@ -933,6 +972,36 @@
         {
           "lang": "ru",
           "name": "ИСАКОВ Исмаил Исакович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Исаков, Исмаил Исакович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ismaïl Issakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ismail Isakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ismail Isakov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イスマイル・イサコフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ismail Isakov",
           "note": "multilingual"
         }
       ],
@@ -2324,7 +2393,19 @@
       ]
     },
     {
+      "birth_date": "1958-12-22",
+      "gender": "male",
       "id": "person/352",
+      "identifiers": [
+        {
+          "identifier": "/m/05lwyk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q297568",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.kenesh.kg/MyFiles/image/IMG_1170%D0%B0%D0%B2.jpg",
       "images": [
         {
@@ -2336,6 +2417,61 @@
         {
           "lang": "ru",
           "name": "ТЕКЕБАЕВ Омурбек Чиркешович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Текебаев, Өмүрбек Чиркешович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ömürbek Tekebajew",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ömürbek Tekebaev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Omurbek Tekebayev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ömürbek Tekebajev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ömürbek Tekebajew",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オムルベク・テケバエフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Omurbek Tekebayev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Omurbek Tekebajev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Omurbek Tekebayev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Омурбек Текебаєв",
           "note": "multilingual"
         }
       ],
@@ -2697,7 +2833,8 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/kyrgyzstan-deputies"
+      "https://morph.io/tmtmtmtm/kyrgyzstan-deputies",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
@@ -3545,6 +3682,7 @@
   "events": [
     {
       "classification": "legislative period",
+      "end_date": "2015-10-15",
       "id": "term/5",
       "name": "5th Convocation",
       "organization_id": "legislature",
