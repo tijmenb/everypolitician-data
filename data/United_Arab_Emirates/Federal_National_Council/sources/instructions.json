@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "chrismytton/united-arab-emirates-federal-national-council",
+        "query": "SELECT id, name, name_ar AS name__ar, email, photo, 2011 AS term FROM data"
+      },
+      "source": "https://www.almajles.gov.ae",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
