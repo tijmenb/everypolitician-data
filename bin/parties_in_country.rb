@@ -82,18 +82,27 @@ def snakdate(c)
   end
 end
 
+
 meta = json_from('meta.json')
 house = Item.new(meta[:wikidata])
+puts Dir.pwd.to_s.blue
 
 puts house.url.to_s.cyan
 
 puts "Name (en): #{house.label(:en)}"
 
+# Instance of... 
+house.claims(31).each do |c|
+  io = Item.new c[:mainsnak][:datavalue][:value][:'numeric-id']
+  puts "  Instance of: #{io.label(:en)}"
+end
+
+
 # Seat Count 
 if seat = house.claim(1342)
   puts "Seats: #{seat[:mainsnak][:datavalue][:value]}"
 else
-  warn "Seats: undefined".red 
+  puts "Seats: undefined".red 
 end
 
 # Website 
@@ -102,7 +111,7 @@ house.claims(856).each do |c|
 end
 
 # Location = Jurisdiction (1001) || Administrative territory (131) or Country (17)
-location_c = house.claim(1001) || house.claim(131) || house.claim(17) || raise("No country or territory")
+location_c = house.claim(1001) || house.claim(131) || house.claim(17) || abort("No country or territory for #{Dir.pwd.to_s.red}")
 location = location_c[:mainsnak][:datavalue][:value][:"numeric-id"]
 
 party_json = json_from(PARTIES_IN_COUNTRY % location)
