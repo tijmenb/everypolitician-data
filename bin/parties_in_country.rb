@@ -44,6 +44,7 @@ class Item
 
   def claims(p_id)
     pid = "P#{p_id}".sub('PP','P')
+    return [] if entity[:claims].empty?
     entity[:claims][pid.to_sym] || []
   end
 
