@@ -54,7 +54,7 @@ class Item
   end
 
   def label(lang)
-    entity[:labels][lang.to_sym][:value]
+    entity[:labels][lang.to_sym][:value] rescue nil
   end
 
   def all_labels
