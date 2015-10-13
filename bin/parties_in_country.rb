@@ -100,9 +100,8 @@ house.claims(856).each do |c|
   puts "Site: #{c[:mainsnak][:datavalue][:value]}"
 end
 
-# Location = Administrative territory (P131) or Country (P17)
-# TODO: "applies to jurisdiction" 1001? (e.g. https://www.wikidata.org/wiki/Q217799)
-location_c = house.claim(131) || house.claim(17) || raise("No country or territory")
+# Location = Jurisdiction (1001) || Administrative territory (131) or Country (17)
+location_c = house.claim(1001) || house.claim(131) || house.claim(17) || raise("No country or territory")
 location = location_c[:mainsnak][:datavalue][:value][:"numeric-id"]
 
 party_json = json_from(PARTIES_IN_COUNTRY % location)
