@@ -1,7 +1,15 @@
 {
   "persons": [
     {
+      "gender": "male",
+      "given_name": "Anthony",
       "id": "person/116",
+      "identifiers": [
+        {
+          "identifier": "Q4773030",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/a_martinez.jpg",
       "images": [
         {
@@ -9,6 +17,23 @@
         }
       ],
       "name": "Anthony Martinez",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Anthony Martinez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Anthony Martinez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Anthony Martinez",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/116-hon-anthony-martinez/index.php/hor-lowerhouse/69-members-of-the-house/116-hon-anthony-martinez"
@@ -16,7 +41,32 @@
       ]
     },
     {
+      "birth_date": "1951-03-02",
+      "gender": "male",
+      "given_name": "Dean",
       "id": "person/110",
+      "identifiers": [
+        {
+          "identifier": "240180017",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "1021420417",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "/m/08fq2h",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "00000026644",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "Q57701",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/d_barrow.jpg",
       "images": [
         {
@@ -24,6 +74,163 @@
         }
       ],
       "name": "Dean Oliver Barrow",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дин Барроу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Дін Берроу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντιν Μπάροου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "딘 벨로우",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "迪安·奥利弗·巴罗",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qu",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "דין בארו",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "डीन बॅरो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dean Barrow",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/110-the-hon-dean-barrow"
@@ -31,7 +238,16 @@
       ]
     },
     {
+      "birth_date": "1957-01-01",
+      "gender": "female",
+      "given_name": "Dolores",
       "id": "person/d_balderamos.jpg",
+      "identifiers": [
+        {
+          "identifier": "Q5289506",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/past_senate/d_balderamos.jpg",
       "images": [
         {
@@ -39,6 +255,33 @@
         }
       ],
       "name": "Dolores Balderamos Garcia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dolores Balderamos-García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dolores Balderamos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dolores Balderamos-García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dolores Balderamos-García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dolores Balderamos-García",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/images/past_senate/d_balderamos.jpg"
@@ -61,7 +304,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Edmond",
       "id": "person/126",
+      "identifiers": [
+        {
+          "identifier": "Q5338849",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/e_castro.jpg",
       "images": [
         {
@@ -69,6 +320,38 @@
         }
       ],
       "name": "Edmond George Castro Deputy Speaker",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edmond Castro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Edmond Castro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Edmond Castro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Edmond Castro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Edmond Castro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Edmond Castro",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/126-hon-edmond-castro"
@@ -76,7 +359,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Elvin",
       "id": "person/129",
+      "identifiers": [
+        {
+          "identifier": "Q5368083",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/e_penner.jpg",
       "images": [
         {
@@ -84,6 +375,28 @@
         }
       ],
       "name": "Elvin Penner",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Elvin Penner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Elvin Penner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Elvin Penner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Elvin Penner",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/129-hon-elvin-penner"
@@ -91,7 +404,16 @@
       ]
     },
     {
+      "birth_date": "1966-07-09",
+      "gender": "male",
+      "given_name": "Erwin",
       "id": "person/112",
+      "identifiers": [
+        {
+          "identifier": "Q5396111",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/e_contreras.jpg",
       "images": [
         {
@@ -99,6 +421,28 @@
         }
       ],
       "name": "Erwin Rafael Contreras",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Erwin Contreras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Erwin Contreras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Erwin Contreras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Erwin Contreras",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/112-hon-erwin-contreras/index.php/hor-lowerhouse/69-members-of-the-house/112-hon-erwin-contreras"
@@ -106,7 +450,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Francis",
       "id": "person/139",
+      "identifiers": [
+        {
+          "identifier": "Q5480967",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/f_fonseca.jpg",
       "images": [
         {
@@ -114,6 +466,28 @@
         }
       ],
       "name": "Francis Fonseca",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Francis Fonseca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Francis Fonseca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Francis Fonseca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Francis Fonseca",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/139-hon-francis-fonseca-"
@@ -121,7 +495,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Gaspar",
       "id": "person/111",
+      "identifiers": [
+        {
+          "identifier": "Q5526559",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/g_vega.jpg",
       "images": [
         {
@@ -129,6 +511,43 @@
         }
       ],
       "name": "Gaspar Vega",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gaspar Vega",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/111-hon-gaspar-vega/index.php/hor-lowerhouse/69-members-of-the-house/111-hon-gaspar-vega"
@@ -196,7 +615,16 @@
       ]
     },
     {
+      "birth_date": "1960-01-01",
+      "gender": "male",
+      "given_name": "John",
       "id": "person/135",
+      "identifiers": [
+        {
+          "identifier": "Q6266369",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/j_briceno.jpg",
       "images": [
         {
@@ -204,6 +632,38 @@
         }
       ],
       "name": "John Briceño",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Johnny Briceño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Johnny Briceño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "John Briceño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Johnny Briceño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Johnny Briceño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Johnny Briceño",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/135-hon-juan-antonio-johnny-briceno-"
@@ -301,7 +761,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Michael",
       "id": "person/113",
+      "identifiers": [
+        {
+          "identifier": "Q6830297",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/m_finnegan.jpg",
       "images": [
         {
@@ -309,6 +777,28 @@
         }
       ],
       "name": "Michael Kwame Finnegan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Michael Finnegan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Michael Finnegan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Michael Finnegan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Michael Finnegan",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/113-hon-michael-finnegan/index.php/hor-lowerhouse/69-members-of-the-house/113-hon-michael-finnegan"
@@ -331,7 +821,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Rene",
       "id": "person/124",
+      "identifiers": [
+        {
+          "identifier": "Q7312920",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/r_montero.jpg",
       "images": [
         {
@@ -339,6 +837,28 @@
         }
       ],
       "name": "Rene Montero",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rene Montero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rene Montero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Rene Montero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rene Montero",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/124-hon-rene-montero"
@@ -361,7 +881,36 @@
       ]
     },
     {
+      "birth_date": "1944-03-19",
+      "gender": "male",
+      "given_name": "Said",
       "id": "person/138",
+      "identifiers": [
+        {
+          "identifier": "171264784",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "130250414",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "/m/01fvk_",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "00000022746",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "n2011036593",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "Q335215",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/s_musa.jpg",
       "images": [
         {
@@ -369,6 +918,118 @@
         }
       ],
       "name": "Rt. Said Wilbert Musa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Муса, Саид",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Саїд Муса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σαΐντ Μούσα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סעיד מוסה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "सैद मुसा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "सयद मूसा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Said Musa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サイド・ムサ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سعيد موسى",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "سعید موسی",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/138-the-rt-hon-said-musa"
@@ -391,7 +1052,16 @@
       ]
     },
     {
+      "birth_date": "2000-01-01",
+      "gender": "male",
+      "given_name": "Wilfred",
       "id": "person/118",
+      "identifiers": [
+        {
+          "identifier": "Q58325",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/w_elrington.jpg",
       "images": [
         {
@@ -399,6 +1069,48 @@
         }
       ],
       "name": "Wilfred Peter Elrington",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wilfred Elrington",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/120-hon-wilfred-peter-elrington/index.php/hor-lowerhouse/69-members-of-the-house/120-hon-wilfred-peter-elrington/index.php/hor-lowerhouse/69-members-of-the-house/118-hon-john-saldivar"
@@ -432,7 +1144,8 @@
   ],
   "meta": {
     "sources": [
-      "http://nationalassembly.gov.bz/"
+      "http://nationalassembly.gov.bz/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
