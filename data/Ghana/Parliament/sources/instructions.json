@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/ghana-parliament",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(name, 'Hon. ', '') AS name FROM data"
       },
       "source": "https://morph.io/tmtmtmtm/ghana-parliament",
       "type": "membership"
