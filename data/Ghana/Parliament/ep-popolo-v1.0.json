@@ -2,14 +2,33 @@
   "persons": [
     {
       "birth_date": "1964-05-06",
+      "gender": "male",
       "id": "person/76",
+      "identifiers": [
+        {
+          "identifier": "Q4665233",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/196_PELPUO_ABDUL_RASHID_HASSAN.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/196_PELPUO_ABDUL_RASHID_HASSAN.jpg"
         }
       ],
-      "name": "Abdul-Rashid Pelpuo"
+      "name": "Abdul-Rashid Pelpuo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Abdul-Rashid Pelpuo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Abdul-Rashid Pelpuo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-03-28",
@@ -111,14 +130,44 @@
     },
     {
       "birth_date": "1957-09-24",
+      "gender": "male",
+      "given_name": "Alban",
       "id": "person/112",
+      "identifiers": [
+        {
+          "identifier": "Q2637206",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/3BAGBIN_ALBAN_SK_NDC.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/3BAGBIN_ALBAN_SK_NDC.jpg"
         }
       ],
-      "name": "Alban S. K. Bagbin"
+      "name": "Alban S. K. Bagbin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alban Bagbin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alban K. S. Bagbin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alban Bagbin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alban Bagbin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-09-15",
@@ -200,14 +249,48 @@
     },
     {
       "birth_date": "1965-12-18",
+      "gender": "male",
       "id": "person/129",
+      "identifiers": [
+        {
+          "identifier": "Q4724464",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/244_AZONG_ALHASSAN.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/244_AZONG_ALHASSAN.jpg"
         }
       ],
-      "name": "Alhassan Azong"
+      "name": "Alhassan Azong",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alhassan Azong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alhassan Azong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alhassan Azong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alhassan Azong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alhassan Azong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-08-25",
@@ -346,14 +429,38 @@
     },
     {
       "birth_date": "1951-11-30",
+      "gender": "male",
       "id": "person/22",
+      "identifiers": [
+        {
+          "identifier": "Q5131978",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/224_AVOKA_CLETUS_APUL.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/224_AVOKA_CLETUS_APUL.jpg"
         }
       ],
-      "name": "Apul Cletus Avoka"
+      "name": "Apul Cletus Avoka",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Cletus Avoka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Cletus Avoka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cletus Avoka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-04-04",
@@ -422,14 +529,38 @@
     },
     {
       "birth_date": "1956-02-02",
+      "gender": "male",
       "id": "person/322",
+      "identifiers": [
+        {
+          "identifier": "Q16146239",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/25_FUSEINI_ALHASSAN_BASHIR.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/25_FUSEINI_ALHASSAN_BASHIR.jpg"
         }
       ],
-      "name": "Bashir Fuseini Alhassan"
+      "name": "Bashir Fuseini Alhassan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alhassan Bashir Fuseini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alhassan Bashir Fuseini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alhassan Bashir Fuseini",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-08-15",
@@ -466,14 +597,34 @@
     },
     {
       "birth_date": "1957-07-15",
+      "gender": "male",
+      "given_name": "Benjamin",
       "id": "person/370",
+      "identifiers": [
+        {
+          "identifier": "Q4888931",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/187_KUNBUOR_BENJAMIN.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/187_KUNBUOR_BENJAMIN.jpg"
         }
       ],
-      "name": "Benjamin Bewa-Nyog Kunbuor (Dr.)"
+      "name": "Benjamin Bewa-Nyog Kunbuor (Dr.)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Benjamin Kunbuor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Benjamin Kunbuor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-11-16",
@@ -586,25 +737,84 @@
     },
     {
       "birth_date": "1953-12-18",
+      "gender": "male",
+      "given_name": "Clement",
       "id": "person/67",
+      "identifiers": [
+        {
+          "identifier": "Q5131356",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/166_HUMADO_CLEMENT_KOFI.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/166_HUMADO_CLEMENT_KOFI.jpg"
         }
       ],
-      "name": "Clement Kofi Humado"
+      "name": "Clement Kofi Humado",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clement Kofi Humado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Clement Kofi Humado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Clement Kofi Humado",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-02-13",
+      "gender": "male",
       "id": "person/249",
+      "identifiers": [
+        {
+          "identifier": "Q5147367",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/86_DAUDA_COLLINS_ALHAJI.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/86_DAUDA_COLLINS_ALHAJI.jpg"
         }
       ],
-      "name": "Collins Dauda (Alhaji)"
+      "name": "Collins Dauda (Alhaji)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Collins Dauda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Collins Dauda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Collins Dauda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Collins Dauda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Collins Dauda",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-08-21",
@@ -950,14 +1160,39 @@
     },
     {
       "birth_date": "1946-05-17",
+      "gender": "male",
+      "given_name": "Enoch",
       "id": "person/99",
+      "identifiers": [
+        {
+          "identifier": "Q5379334",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/10MENSAH_ENOCH_TEYE.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/10MENSAH_ENOCH_TEYE.jpg"
         }
       ],
-      "name": "Enoch Teye Mensah"
+      "name": "Enoch Teye Mensah",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Enoch Teye Mensah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Enoch Teye Mensah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Enoch Teye Mensah",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-09-21",
@@ -1006,14 +1241,49 @@
     },
     {
       "birth_date": "1958-08-04",
+      "gender": "male",
+      "given_name": "Paul",
       "id": "person/94",
+      "identifiers": [
+        {
+          "identifier": "Q2059474",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/190_AIDOO_EVANS_PAUL.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/190_AIDOO_EVANS_PAUL.jpg"
         }
       ],
-      "name": "Evans Paul Aidoo"
+      "name": "Evans Paul Aidoo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Paul Evans Aidoo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Paul Evans Aidoo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Paul Evans Aidoo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paul Evans Aidoo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul Evans Aidoo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-06-02",
@@ -1150,14 +1420,49 @@
     },
     {
       "birth_date": "1952-03-11",
+      "gender": "male",
+      "given_name": "Fritz",
       "id": "person/26",
+      "identifiers": [
+        {
+          "identifier": "Q5504853",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/63_BAFFOUR_FRITZ_FREDERIC.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/63_BAFFOUR_FRITZ_FREDERIC.jpg"
         }
       ],
-      "name": "Fritz Frederic Baffour"
+      "name": "Fritz Frederic Baffour",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fritz Baffour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fritz Baffour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fritz Baffour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fritz Baffour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fritz Baffour",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-01-10",
@@ -1283,25 +1588,100 @@
     },
     {
       "birth_date": "1967-05-31",
+      "gender": "female",
+      "given_name": "Hanna",
       "id": "person/279",
+      "identifiers": [
+        {
+          "identifier": "Q5648740",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/164_TETTEH_HANNAH_SERWAAH_MS.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/164_TETTEH_HANNAH_SERWAAH_MS.jpg"
         }
       ],
-      "name": "Hanna Serwaah Tetteh (Ms)"
+      "name": "Hanna Serwaah Tetteh (Ms)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hanna Tetteh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Hanna Tetteh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Hanna Tetteh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hanna Tetteh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hanna Tetteh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Hanna Tetteh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ханна Тетте",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-09-08",
+      "gender": "male",
+      "given_name": "Haruna",
       "id": "person/73",
+      "identifiers": [
+        {
+          "identifier": "Q16211514",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/96_IDDRISU_HARUNA.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/96_IDDRISU_HARUNA.jpg"
         }
       ],
-      "name": "Haruna Iddrisu"
+      "name": "Haruna Iddrisu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Haruna Iddrisu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Haruna Iddrisu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Haruna Iddrisu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Haruna Iddrisu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-02-03",
@@ -1505,25 +1885,80 @@
     },
     {
       "birth_date": "1961-06-15",
+      "gender": "male",
+      "given_name": "Joseph",
       "id": "person/161",
+      "identifiers": [
+        {
+          "identifier": "Q1691433",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/268_GHARTEY_JOE.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/268_GHARTEY_JOE.jpg"
         }
       ],
-      "name": "Joe Ghartey"
+      "name": "Joe Ghartey",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joe Ghartey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joe Ghartey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joe Ghartey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Joseph Ghartey",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-02-22",
+      "gender": "male",
+      "given_name": "Joe",
       "id": "person/162",
+      "identifiers": [
+        {
+          "identifier": "Q16219412",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/193_GIDISU_JOE_KWASHIE.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/193_GIDISU_JOE_KWASHIE.jpg"
         }
       ],
-      "name": "Joe Kwashie Gidisu"
+      "name": "Joe Kwashie Gidisu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joe Gidisu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joe Gidisu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joe Gidisu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-10-01",
@@ -1658,49 +2093,170 @@
       "name": "Joseph Osei-Owusu,"
     },
     {
+      "birth_date": "1954-10-14",
       "email": "thywillbedone203@gmail.com",
+      "gender": "male",
+      "given_name": "Joseph",
       "id": "person/51",
+      "identifiers": [
+        {
+          "identifier": "Q16148840",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/115_AMANKWANOR_JOSEPH_SAM.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/115_AMANKWANOR_JOSEPH_SAM.jpg"
         }
       ],
-      "name": "Joseph Sam Amankwanor"
+      "name": "Joseph Sam Amankwanor",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joseph Amankwanor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joseph Amankwanor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joseph Amankwanor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joseph Amankwanor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-07-08",
+      "gender": "male",
+      "given_name": "Joseph",
       "id": "person/63",
+      "identifiers": [
+        {
+          "identifier": "Q1708293",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/87_CHIREH_JOSEPH_YIELEH.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/87_CHIREH_JOSEPH_YIELEH.jpg"
         }
       ],
-      "name": "Joseph Yieleh Chireh"
+      "name": "Joseph Yieleh Chireh",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joseph Yieleh Chireh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joseph Yieleh Chireh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joseph Yieleh Chireh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joseph Yieleh Chireh",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-08-13",
       "email": "ezaph@yahoo.com",
+      "gender": "male",
+      "given_name": "Joseph",
       "id": "person/116",
+      "identifiers": [
+        {
+          "identifier": "Q1409254",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/192_AMENORWODE_JOSEPH_ZAPHENAT.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/192_AMENORWODE_JOSEPH_ZAPHENAT.jpg"
         }
       ],
-      "name": "Joseph Z. Amenowode"
+      "name": "Joseph Z. Amenowode",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joseph Amenowode",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joseph Amenowode",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joseph Amenowode",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joseph Amenowode",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joseph Amenowode",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-06-15",
+      "gender": "female",
+      "given_name": "Juliana",
       "id": "person/391",
+      "identifiers": [
+        {
+          "identifier": "Q6307729",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/138_AZUMAH_MENSAH_JULIANA_MRS_1.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/138_AZUMAH_MENSAH_JULIANA_MRS_1.jpg"
         }
       ],
-      "name": "Juliana Azumah-Mensah (Mrs)"
+      "name": "Juliana Azumah-Mensah (Mrs)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Juliana Azumah-Mensah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Juliana Azumah-Mensah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Juliana Azumah-Mensah",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-12-21",
@@ -2100,14 +2656,43 @@
     },
     {
       "birth_date": "1974-05-12",
+      "gender": "male",
       "id": "person/334",
+      "identifiers": [
+        {
+          "identifier": "Q6732981",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/210_AYARIGA_MAHAMA_BAWKU_CENTRAL.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/210_AYARIGA_MAHAMA_BAWKU_CENTRAL.jpg"
         }
       ],
-      "name": "Mahama Ayariga"
+      "name": "Mahama Ayariga",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mahama Ayariga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mahama Ayariga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mahama Ayariga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mahama Ayariga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-03-02",
@@ -2122,14 +2707,34 @@
     },
     {
       "birth_date": "1946-06-09",
+      "gender": "male",
+      "given_name": "Mark",
       "id": "person/310",
+      "identifiers": [
+        {
+          "identifier": "Q6770431",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/231_WOYONGO_MARK_OWEN.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/231_WOYONGO_MARK_OWEN.jpg"
         }
       ],
-      "name": "Mark Owen Woyongo"
+      "name": "Mark Owen Woyongo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mark Woyongo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mark Woyongo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-02-25",
@@ -2255,14 +2860,33 @@
     },
     {
       "birth_date": "1970-10-17",
+      "gender": "male",
       "id": "person/192",
+      "identifiers": [
+        {
+          "identifier": "Q16733008",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/230_MUNTAKA_MOHAMMED_MUBARAK_ALHAJI.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/230_MUNTAKA_MOHAMMED_MUBARAK_ALHAJI.jpg"
         }
       ],
-      "name": "Mubarak Mohammed Muntaka (Alhaji)"
+      "name": "Mubarak Mohammed Muntaka (Alhaji)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Muntaka Mohammed Mubarak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Muntaka Mohammed Mubarak",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-09-23",
@@ -2477,14 +3101,49 @@
     },
     {
       "birth_date": "1958-04-27",
+      "gender": "male",
+      "given_name": "Papa",
       "id": "person/216",
+      "identifiers": [
+        {
+          "identifier": "Q1698546",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/36_OWUSU_ANKOMAH_PAPA.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/36_OWUSU_ANKOMAH_PAPA.jpg"
         }
       ],
-      "name": "Papa Owusu-Ankomah,"
+      "name": "Papa Owusu-Ankomah,",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Papa Owusu-Ankomah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Papa Owusu-Ankomah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Papa Owusu-Ankomah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Papa Owusu-Ankomah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Papa Owusu-Ankomah",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-09-19",
@@ -2730,14 +3389,29 @@
     },
     {
       "birth_date": "1981-12-28",
+      "gender": "female",
+      "given_name": "Sarah",
       "id": "person/358",
+      "identifiers": [
+        {
+          "identifier": "Q20898403",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gh/userfiles/mps/77_SAFO_SARAH_ADWOA_MS.jpg",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/77_SAFO_SARAH_ADWOA_MS.jpg"
         }
       ],
-      "name": "Sarah Adwoa Safo (Ms)"
+      "name": "Sarah Adwoa Safo (Ms)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sarah Adwoa Sarfo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-03-09",
