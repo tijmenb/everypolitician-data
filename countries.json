@@ -2067,6 +2067,33 @@
     ]
   },
   {
+    "name": "El Salvador",
+    "country": "El Salvador",
+    "code": "SV",
+    "slug": "El-Salvador",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Legislative-Assembly",
+        "sources_directory": "data/El_Salvador/Legislative_Assembly/sources",
+        "popolo": "data/El_Salvador/Legislative_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1444919483",
+        "person_count": 84,
+        "sha": "1b7209b",
+        "legislative_periods": [
+          {
+            "end_date": "2018",
+            "id": "term/2015-2018",
+            "name": "2015/2018",
+            "start_date": "2015",
+            "slug": "2015-2018",
+            "csv": "data/El_Salvador/Legislative_Assembly/term-2015-2018.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Estonia",
     "country": "Estonia",
     "code": "EE",
