@@ -1385,6 +1385,24 @@
             "csv": "data/Cameroon/Assembly/term-1.csv"
           }
         ]
+      },
+      {
+        "name": "Sénat",
+        "slug": "Senate",
+        "sources_directory": "data/Cameroon/Senate/sources",
+        "popolo": "data/Cameroon/Senate/ep-popolo-v1.0.json",
+        "lastmod": "1444893702",
+        "person_count": 100,
+        "sha": "6422ea9",
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9e législature",
+            "start_date": "2013",
+            "slug": "9",
+            "csv": "data/Cameroon/Senate/term-9.csv"
+          }
+        ]
       }
     ]
   },
