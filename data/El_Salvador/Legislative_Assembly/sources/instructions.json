@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "jennahowe/El_Salvador_Legislative_Assembly",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://asamblea.gob.sv/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
