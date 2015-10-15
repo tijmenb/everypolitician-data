@@ -32,7 +32,7 @@
         "scraper": "tmtmtmtm/belgium-represenatives-wikidata",
         "query": "SELECT * FROM data"
       },
-      "type": "person",
+      "type": "wikidata",
       "merge": { 
         "incoming_field": "original_wikiname",
         "existing_field": "wikiname__nl"
