@@ -185,52 +185,62 @@ namespace :merge_sources do
       puts "Merging with #{pd[:file]}".magenta
       raise "No merge instructions" unless pd.key?(:merge) 
 
-      warn "  Match incoming #{pd[:merge][:incoming_field]} to #{pd[:merge][:existing_field]}"
       all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
 
       incoming_data = csv_table(pd[:file])
+      
+      approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
+      approaches.each do |merger|
+        warn "  Match incoming #{merger[:incoming_field]} to #{merger[:existing_field]}"
 
-      if rec_file = pd[:merge][:reconciliation_file]
-        rec_filename = File.join "sources", rec_file
+        # TODO complain if this isn't the last step — all prior ones
+        # should be exact matches
+        if rec_file = merger[:reconciliation_file]
+          rec_filename = File.join "sources", rec_file
 
-        incoming_fieldname = "incoming_" + pd[:merge][:incoming_field]
-        existing_fieldname = "existing_" + pd[:merge][:existing_field]
+          incoming_fieldname = "incoming_" + merger[:incoming_field]
+          existing_fieldname = "existing_" + merger[:existing_field]
 
-        if File.exist? rec_filename
-          reconciled = CSV.table(rec_filename)
-        else
-          warn "Need to create #{rec_file}".cyan
-          fuzzer = Fuzzer.new(merged_rows, incoming_data, pd[:merge])
-          matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
-          FileUtils.mkpath File.dirname rec_filename
-          CSV.open(rec_filename, "wb") do |csv|
-            csv << [incoming_fieldname, existing_fieldname, 'confidence']
-            matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
-          end
-          abort "Created #{rec_filename} — please check it and re-run".green
-        end
-      end
-
-      reconciler = Reconciler.new(merged_rows, pd[:merge], reconciled)
-      incoming_data.each do |incoming_row|
-
-        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
-
-        # TODO factor this out to a Patcher again
-        to_patch = reconciler.find_all(incoming_row)
-        if to_patch && !to_patch.size.zero?
-          # Be careful to take a copy and not delete from the core list
-          to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if pd[:merge][:term_match] 
-          to_patch.each do |existing_row|
-            # For now, only set values that are not already set (or are set to 'unknown')
-            # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
-            incoming_row.keys.each do |h| 
-              existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
+          if File.exist? rec_filename
+            reconciled = CSV.table(rec_filename)
+          else
+            warn "Need to create #{rec_file}".cyan
+            fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
+            matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
+            FileUtils.mkpath File.dirname rec_filename
+            CSV.open(rec_filename, "wb") do |csv|
+              csv << [incoming_fieldname, existing_fieldname, 'confidence']
+              matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
             end
+            abort "Created #{rec_filename} — please check it and re-run".green
           end
-        else
-          warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
         end
+
+        
+        unmatched = []
+        reconciler = Reconciler.new(merged_rows, merger, reconciled)
+        incoming_data.each do |incoming_row|
+
+          incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
+
+          # TODO factor this out to a Patcher again
+          to_patch = reconciler.find_all(incoming_row)
+          if to_patch && !to_patch.size.zero?
+            # Be careful to take a copy and not delete from the core list
+            to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match] 
+            to_patch.each do |existing_row|
+              # For now, only set values that are not already set (or are set to 'unknown')
+              # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
+              incoming_row.keys.each do |h| 
+                existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
+              end
+            end
+          else
+            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
+            unmatched << incoming_row
+          end
+        end
+        incoming_data = unmatched
       end
     end
 
