@@ -13,6 +13,7 @@
         "query": "SELECT * FROM data"
       },
       "type": "person",
+      "source": "http://data.parliament.uk",
       "merge": { 
         "incoming_field": "id",
         "existing_field": "identifier__datadotparl"
@@ -21,6 +22,7 @@
     {
       "file": "YNMP/winners.csv",
       "type": "person",
+      "source": "https://yournextmp.com/",
       "merge": { 
         "incoming_field": "id",
         "existing_field": "id"
