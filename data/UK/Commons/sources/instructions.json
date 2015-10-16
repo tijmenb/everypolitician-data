@@ -33,14 +33,18 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/uk-house-of-commons-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": [{ 
         "incoming_field": "wikipedia__en",
         "existing_field": "wikiname"
-      }
+      },
+      {
+        "incoming_field": "parlid",
+        "existing_field": "identifier__datadotparl"
+      }]
     },
     {
       "file": "manual/emails.csv",
