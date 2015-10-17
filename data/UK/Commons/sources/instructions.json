@@ -37,13 +37,13 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [{ 
-        "incoming_field": "wikipedia__en",
-        "existing_field": "wikiname"
-      },
-      {
+      "merge": [{
         "incoming_field": "parlid",
         "existing_field": "identifier__datadotparl"
+      },
+      {
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikiname"
       }]
     },
     {
