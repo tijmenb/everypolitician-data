@@ -10,15 +10,19 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/ni-assembly-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": [{ 
+        "incoming_field": "parlid",
+        "existing_field": "identifier__datadotparl"
+      },
+      { 
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
-      }
+      }]
     },
     {
       "file": "manual/terms.csv",
