@@ -26,7 +26,8 @@ class Fuzzer
         nil
       else 
         match = fuzzer.find_with_score(incoming_row[@_incoming_field])
-        data = [ incoming_row[@_incoming_field], match.first[@_existing_field], match[1].to_f * 100 ]
+        matched_id = match.first.key?(:id)? match.first[:id] : nil
+        data = [ incoming_row[@_incoming_field], match.first[@_existing_field], matched_id, match[1].to_f * 100 ]
         warn "Fuzzed #{data.to_s}"
         data
       end
@@ -209,7 +210,7 @@ namespace :merge_sources do
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
             CSV.open(rec_filename, "wb") do |csv|
-              csv << [incoming_fieldname, existing_fieldname, 'confidence']
+              csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
               matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
             end
             abort "Created #{rec_filename} — please check it and re-run".green
@@ -228,6 +229,11 @@ namespace :merge_sources do
           if to_patch && !to_patch.size.zero?
             # Be careful to take a copy and not delete from the core list
             to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match] 
+            uids = to_patch.map { |r| r[:id] }.uniq
+            if uids.count > 1
+              warn "Too many IDs: #{uids}".red.on_yellow
+              next
+            end
             to_patch.each do |existing_row|
               # For now, only set values that are not already set (or are set to 'unknown')
               # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
