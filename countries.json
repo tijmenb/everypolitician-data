@@ -2104,14 +2104,15 @@
         "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
-        "lastmod": "1444668989",
+        "lastmod": "1445085577",
         "person_count": 120,
-        "sha": "c111838",
+        "sha": "23321df",
         "legislative_periods": [
           {
             "id": "term/13",
             "name": "13th Riigikogu",
             "start_date": "2015-03-30",
+            "wikidata": "Q20530392",
             "slug": "13",
             "csv": "data/Estonia/Riigikogu/term-13.csv"
           }
@@ -5582,14 +5583,15 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1445085120",
+        "lastmod": "1445085525",
         "person_count": 238,
-        "sha": "fda9612",
+        "sha": "0403c50",
         "legislative_periods": [
           {
             "id": "term/4",
             "name": "4th Assembly",
             "start_date": "2011-05-06",
+            "wikidata": "Q21124329",
             "slug": "4",
             "csv": "data/Northern_Ireland/Assembly/term-4.csv"
           },
@@ -5598,6 +5600,7 @@
             "id": "term/3",
             "name": "3rd Assembly",
             "start_date": "2007-03-09",
+            "wikidata": "Q21128152",
             "slug": "3",
             "csv": "data/Northern_Ireland/Assembly/term-3.csv"
           },
@@ -5606,6 +5609,7 @@
             "id": "term/2",
             "name": "2nd Assembly",
             "start_date": "2003-11-26",
+            "wikidata": "Q21128144",
             "slug": "2",
             "csv": "data/Northern_Ireland/Assembly/term-2.csv"
           },
@@ -5614,6 +5618,7 @@
             "id": "term/1",
             "name": "1st Assembly",
             "start_date": "1998-06-25",
+            "wikidata": "Q21128140",
             "slug": "1",
             "csv": "data/Northern_Ireland/Assembly/term-1.csv"
           }
@@ -8162,14 +8167,15 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "lastmod": "1445030469",
+        "lastmod": "1445085746",
         "person_count": 1337,
-        "sha": "cafa547",
+        "sha": "cc0d329",
         "legislative_periods": [
           {
             "id": "term/56",
             "name": "56th Parliament of the United Kingdom",
             "start_date": "2015-05-08",
+            "wikidata": "Q21084473",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv"
           },
@@ -8178,6 +8184,7 @@
             "id": "term/55",
             "name": "55th Parliament of the United Kingdom",
             "start_date": "2010-05-06",
+            "wikidata": "Q21084472",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv"
           },
@@ -8186,6 +8193,7 @@
             "id": "term/54",
             "name": "54th Parliament of the United Kingdom",
             "start_date": "2005-05-05",
+            "wikidata": "Q21084471",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv"
           },
@@ -8194,6 +8202,7 @@
             "id": "term/53",
             "name": "53rd Parliament of the United Kingdom",
             "start_date": "2001-06-07",
+            "wikidata": "Q21084470",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv"
           },
@@ -8202,6 +8211,7 @@
             "id": "term/52",
             "name": "52nd Parliament of the United Kingdom",
             "start_date": "1997-05-01",
+            "wikidata": "Q21084469",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv"
           }

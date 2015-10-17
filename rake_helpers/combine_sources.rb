@@ -252,6 +252,7 @@ namespace :merge_sources do
             unmatched << incoming_row
           end
         end
+        puts "* %d of %d unmatched".magenta % [unmatched.count, incoming_data.count]
         incoming_data = unmatched
       end
     end
