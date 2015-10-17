@@ -44,12 +44,16 @@ class Reconciler
     warn "Deprecated use of 'overrides'".cyan if @_instructions.include? :overrides
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-    # TODO fix the ugly way we're getting these
-    @_instructions[:overrides] = precanned ? Hash[precanned.map { |r| [r.to_hash.values[0], r.to_hash.values[1]] }] : {}
+   
+    @_instructions[:overrides] = precanned ? Hash[precanned.map { |r| [r.to_hash.values[0], r.to_hash] }] : {}
   end
 
   def existing
     @_lookup ||= @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
+  end
+
+  def existing_by_id
+    @_lookup_by_id ||= @_existing_rows.group_by { |r| r[:id].to_s }
   end
 
   def find_all(incoming_row)
@@ -58,9 +62,10 @@ class Reconciler
       return []
     end
 
-    # Short-circuit if we've already been told who this matches
+    # Short-circuit if we've already been told who this matches (either by ID or field)
     if preset = @_instructions[:overrides][incoming_row[@_incoming_field]]
-      return existing[ preset.downcase ] unless preset.to_s.empty?
+      return existing_by_id[ preset[:id].to_s ] if preset[:id] 
+      return existing[ preset[ "existing_#{@_incoming_field}".to_sym ].downcase ] 
     end
 
     if exact_match = existing[ incoming_row[@_incoming_field].downcase ]
@@ -232,6 +237,7 @@ namespace :merge_sources do
             uids = to_patch.map { |r| r[:id] }.uniq
             if uids.count > 1
               warn "Too many IDs: #{uids}".red.on_yellow
+              binding.pry
               next
             end
             to_patch.each do |existing_row|
