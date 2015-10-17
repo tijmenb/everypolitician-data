@@ -143,7 +143,7 @@
     {
       "gender": "female",
       "id": "person/haman_paul",
-      "name": "HAMAN Paul"
+      "name": "HAMAN PAUL"
     },
     {
       "death_date": "2014-11-15",
@@ -232,6 +232,11 @@
       "name": "MENYE ONDO François Xavier"
     },
     {
+      "gender": "female",
+      "id": "person/metiedje_nguifo_tchetagne",
+      "name": "METIEDJE NGUIFO TCHETAGNE"
+    },
+    {
       "gender": "male",
       "id": "person/mohaman_gabdo",
       "name": "MOHAMAN GABDO"
@@ -295,11 +300,6 @@
       "gender": "male",
       "id": "person/mme_medjo_delphine",
       "name": "Mme MEDJO Delphine"
-    },
-    {
-      "gender": "female",
-      "id": "person/mme_metiedje_nguifo_tchetagne_delphine",
-      "name": "Mme METIEDJE NGUIFO TCHETAGNE Delphine"
     },
     {
       "gender": "male",
@@ -446,7 +446,7 @@
     {
       "gender": "male",
       "id": "person/sonkin_etienne",
-      "name": "SONKIN Etienne"
+      "name": "SONKIN ETIENNE"
     },
     {
       "gender": "male",
@@ -507,6 +507,31 @@
   ],
   "organizations": [
     {
+      "classification": "party",
+      "id": "party/andp",
+      "name": "ANDP"
+    },
+    {
+      "classification": "party",
+      "id": "party/fsnc",
+      "name": "FSNC"
+    },
+    {
+      "classification": "party",
+      "id": "party/mdr",
+      "name": "MDR"
+    },
+    {
+      "classification": "party",
+      "id": "party/rdpc",
+      "name": "RDPC"
+    },
+    {
+      "classification": "party",
+      "id": "party/sdf",
+      "name": "SDF"
+    },
+    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -520,812 +545,812 @@
     },
     {
       "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
+      "id": "party/undp",
+      "name": "UNDP"
     }
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/cameroon-senate"
+      "http://www.afroleadership.org/"
     ]
   },
   "memberships": [
     {
-      "area_id": "far-north-1",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/abba_boukar",
       "role": "member"
     },
     {
-      "area_id": "far-north-4",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/abdoulaye_wouyack_marava",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-1",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/aboubakar_siroma",
       "role": "member"
     },
     {
-      "area_id": "north-8",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/aboubakary_abdoulaye",
       "role": "member"
     },
     {
-      "area_id": "north-west-1",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/achidi_ashu_simon",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-7",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/ahmadou_tidjani",
       "role": "member"
     },
     {
-      "area_id": "far-north-3",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/alioum_aladji_hamadou",
       "role": "member"
     },
     {
-      "area_id": "east-5",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/amama_amama_benjamin",
       "role": "member"
     },
     {
-      "area_id": "north-6",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/amidou_maurice",
       "role": "member"
     },
     {
-      "area_id": "far-north-7",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/amrakaye_martin",
       "role": "member"
     },
     {
-      "area_id": "centre-4",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/anong_adibime_pascal",
       "role": "member"
     },
     {
-      "area_id": "north-west-6",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/awanga_zacharie",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-8",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/baba_hamadou",
       "role": "member"
     },
     {
-      "area_id": "far-north-9",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/baskouda_jean_baptiste",
       "role": "member"
     },
     {
-      "area_id": "north-5",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/bebnone_payounni",
       "role": "member"
     },
     {
-      "area_id": "centre-5",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/bell_luc_rené",
       "role": "member"
     },
     {
-      "area_id": "south-west-10",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/chief_anja_simon_onjwo",
       "role": "member"
     },
     {
-      "area_id": "far-north-10",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/mdr",
       "organization_id": "legislature",
       "person_id": "person/dakole_daÏssala",
       "role": "member"
     },
     {
-      "area_id": "north-west-3",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/dinga_ignatius_bayin",
       "role": "member"
     },
     {
-      "area_id": "west-9",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/djomo_kamga_victor",
       "role": "member"
     },
     {
-      "area_id": "north-3",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/dr_amadou_alim",
       "role": "member"
     },
     {
-      "area_id": "littoral-6",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/ebongue_ngoh_jean_jules",
       "role": "member"
     },
     {
-      "area_id": "centre-3",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/essomba_tsoungui_elie",
       "role": "member"
     },
     {
-      "area_id": "littoral-9",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/etame_massoma_david_siegfried",
       "role": "member"
     },
     {
-      "area_id": "north-west-8",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/fon._doh_ganyonga_iii",
       "role": "member"
     },
     {
-      "area_id": "south-west-9",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/fon._mukete_essimi_ngo_victor",
       "role": "member"
     },
     {
-      "area_id": "north-west-10",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/fon_teche_njei_ii",
       "role": "member"
     },
     {
-      "area_id": "north-10",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/fsnc",
       "organization_id": "legislature",
       "person_id": "person/hamadou_abbo",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-3",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/haman_paul",
       "role": "member"
     },
     {
-      "area_id": "north-west-7",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/jikong_stephen_yerima",
       "role": "member"
     },
     {
-      "area_id": "littoral-7",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/kemayou_claude",
       "role": "member"
     },
     {
-      "area_id": "littoral-5",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/kingue_simon",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-4",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/maande_paul",
       "role": "member"
     },
     {
-      "area_id": "littoral-8",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/madiba_songue",
       "role": "member"
     },
     {
-      "area_id": "south-west-8",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mafany_musonge_peter",
       "role": "member"
     },
     {
-      "area_id": "far-north-2",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mahamat_abdoulkarim",
       "role": "member"
     },
     {
-      "area_id": "far-north-8",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mahamat_bahar_manouf",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-2",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/maikano_abdoulahi",
       "role": "member"
     },
     {
-      "area_id": "east-8",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/matta_joseph_roland",
       "role": "member"
     },
     {
-      "area_id": "south-west-4",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/matute_daniel",
       "role": "member"
     },
     {
-      "area_id": "south-4",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mba_mba_grégoire",
       "role": "member"
     },
     {
-      "area_id": "littoral-4",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mbassa_ndine_roger_victor",
       "role": "member"
     },
     {
-      "area_id": "south-west-7",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mbella_moki_charles",
       "role": "member"
     },
     {
-      "area_id": "south-7",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mbita_mvaebeme",
       "role": "member"
     },
     {
-      "area_id": "east-7",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mboundjo_jean",
       "role": "member"
     },
     {
-      "area_id": "south-9",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/menye_ondo_françois_xavier",
       "role": "member"
     },
     {
-      "area_id": "east-10",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
+      "organization_id": "legislature",
+      "person_id": "person/metiedje_nguifo_tchetagne",
+      "role": "member"
+    },
+    {
+      "area_id": "east",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/andp",
       "organization_id": "legislature",
       "person_id": "person/mme_aboui_marlyse",
       "role": "member"
     },
     {
-      "area_id": "north-7",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_adamou_née_doudou",
       "role": "member"
     },
     {
-      "area_id": "north-4",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_asta_yvonne",
       "role": "member"
     },
     {
-      "area_id": "south-10",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_bisseck_paulette",
       "role": "member"
     },
     {
-      "area_id": "littoral-3",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_din_bell_marie_armande",
       "role": "member"
     },
     {
-      "area_id": "far-north-6",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_djakaou_née_foutchou_julienne",
       "role": "member"
     },
     {
-      "area_id": "south-5",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_eloumba_medjo_thérèse",
       "role": "member"
     },
     {
-      "area_id": "north-west-4",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_eno_lafon_emma_vergele",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-6",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/mme_haoua_madeleine",
       "role": "member"
     },
     {
-      "area_id": "north-9",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_hayatou_aïcha_pierrette",
       "role": "member"
     },
     {
-      "area_id": "south-1",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_medjo_delphine",
       "role": "member"
     },
     {
-      "area_id": "west-4",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "legislature",
-      "person_id": "person/mme_metiedje_nguifo_tchetagne_delphine",
-      "role": "member"
-    },
-    {
-      "area_id": "east-6",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_moampea_marie_claire",
       "role": "member"
     },
     {
-      "area_id": "east-2",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_ndjole_assouo_épse_tokpanou_isabelle",
       "role": "member"
     },
     {
-      "area_id": "south-6",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_nnanga_ndoume",
       "role": "member"
     },
     {
-      "area_id": "south-west-5",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_ntube_agnès_ndode_épse_ndjock",
       "role": "member"
     },
     {
-      "area_id": "centre-6",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_okala_bilaÎ_nicole",
       "role": "member"
     },
     {
-      "area_id": "east-3",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_ouli_ndongo_monique",
       "role": "member"
     },
     {
-      "area_id": "littoral-1",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_tjoues_généviève",
       "role": "member"
     },
     {
-      "area_id": "far-north-5",
+      "area_id": "far-north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mme_zakiatou_épse_sale",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-10",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mohaman_gabdo",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-9",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/moussa_sabo",
       "role": "member"
     },
     {
-      "area_id": "south-west-2",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/mrs_ankie_affiong_rebecca_amah",
       "role": "member"
     },
     {
-      "area_id": "centre-1",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/naah_ondoua_sylvestre",
       "role": "member"
     },
     {
-      "area_id": "north-2",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/namio_pierre",
       "role": "member"
     },
     {
-      "area_id": "east-4",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/ndanga_ndinga_badel",
       "role": "member"
     },
     {
-      "area_id": "south-8",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/ngalli_ngoa_pierre_henri",
       "role": "member"
     },
     {
-      "area_id": "littoral-10",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/undp",
       "organization_id": "legislature",
       "person_id": "person/ngayap_pierre_flambeau",
       "role": "member"
     },
     {
-      "area_id": "adamaoua-5",
+      "area_id": "adamaoua",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/nguiebe_joël",
       "role": "member"
     },
     {
-      "area_id": "west-10",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/niat_njifenji_marcel",
       "role": "member"
     },
     {
-      "area_id": "south-west-3",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/njifua_lucas_fontem",
       "role": "member"
     },
     {
-      "area_id": "centre-8",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/nkodo_laurent",
       "role": "member"
     },
     {
-      "area_id": "north-west-9",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/nkwain_francis",
       "role": "member"
     },
     {
-      "area_id": "centre-7",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/nnemde_emmanuel",
       "role": "member"
     },
     {
-      "area_id": "west-7",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/nono",
       "role": "member"
     },
     {
-      "area_id": "south-3",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/obam_assam_samuel",
       "role": "member"
     },
     {
-      "area_id": "centre-9",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/ondoua_pius",
       "role": "member"
     },
     {
-      "area_id": "south-west-6",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/otte_andrew_moffa",
       "role": "member"
     },
     {
-      "area_id": "centre-10",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/pongmoni_jean_marie",
       "role": "member"
     },
     {
-      "area_id": "west-8",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/s._m._ibrahim_mbombo_njoya",
       "role": "member"
     },
     {
-      "area_id": "centre-2",
+      "area_id": "centre",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/s.m._mama_jean_marie",
       "role": "member"
     },
     {
-      "area_id": "east-1",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/sale_charles",
       "role": "member"
     },
     {
-      "area_id": "west-5",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/sonkin_etienne",
       "role": "member"
     },
     {
-      "area_id": "south-west-1",
+      "area_id": "south-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/tabe_tando_ndiep_nso",
       "role": "member"
     },
     {
-      "area_id": "west-2",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/tantse_tagne_bernard",
       "role": "member"
     },
     {
-      "area_id": "west-3",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/tchatchouang_paul",
       "role": "member"
     },
     {
-      "area_id": "west-6",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/tchomnou_raoul",
       "role": "member"
     },
     {
-      "area_id": "littoral-2",
+      "area_id": "littoral",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/tobbo_eyoum_thomas",
       "role": "member"
     },
     {
-      "area_id": "west-1",
+      "area_id": "west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdf",
       "organization_id": "legislature",
       "person_id": "person/tsomelou_jean",
       "role": "member"
     },
     {
-      "area_id": "north-west-2",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/wallang_david_akwo",
       "role": "member"
     },
     {
-      "area_id": "north-west-5",
+      "area_id": "north-west",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/wanlo_chiamua_john",
       "role": "member"
     },
     {
-      "area_id": "north-1",
+      "area_id": "north",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/youssoufa_daoua",
       "role": "member"
     },
     {
-      "area_id": "south-2",
+      "area_id": "south",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/zang_oyono_calvin",
       "role": "member"
     },
     {
-      "area_id": "east-9",
+      "area_id": "east",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/rdpc",
       "organization_id": "legislature",
       "person_id": "person/ze_nguele_rené",
       "role": "member"
@@ -1342,503 +1367,53 @@
   ],
   "areas": [
     {
-      "id": "adamaoua-1",
-      "name": "Adamaoua 1",
+      "id": "adamaoua",
+      "name": "Adamaoua",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-10",
-      "name": "Adamaoua 10",
+      "id": "centre",
+      "name": "Centre",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-2",
-      "name": "Adamaoua 2",
+      "id": "east",
+      "name": "East",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-3",
-      "name": "Adamaoua 3",
+      "id": "far-north",
+      "name": "Far-North",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-4",
-      "name": "Adamaoua 4",
+      "id": "littoral",
+      "name": "LITTORAL",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-5",
-      "name": "Adamaoua 5",
+      "id": "north",
+      "name": "North",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-6",
-      "name": "Adamaoua 6",
+      "id": "north-west",
+      "name": "North-West",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-7",
-      "name": "Adamaoua 7",
+      "id": "south",
+      "name": "South",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-8",
-      "name": "Adamaoua 8",
+      "id": "south-west",
+      "name": "South-West",
       "type": "constituency"
     },
     {
-      "id": "adamaoua-9",
-      "name": "Adamaoua 9",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-1",
-      "name": "Centre 1",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-10",
-      "name": "Centre 10",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-2",
-      "name": "Centre 2",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-3",
-      "name": "Centre 3",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-4",
-      "name": "Centre 4",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-5",
-      "name": "Centre 5",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-6",
-      "name": "Centre 6",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-7",
-      "name": "Centre 7",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-8",
-      "name": "Centre 8",
-      "type": "constituency"
-    },
-    {
-      "id": "centre-9",
-      "name": "Centre 9",
-      "type": "constituency"
-    },
-    {
-      "id": "east-1",
-      "name": "East 1",
-      "type": "constituency"
-    },
-    {
-      "id": "east-10",
-      "name": "East 10",
-      "type": "constituency"
-    },
-    {
-      "id": "east-2",
-      "name": "East 2",
-      "type": "constituency"
-    },
-    {
-      "id": "east-3",
-      "name": "East 3",
-      "type": "constituency"
-    },
-    {
-      "id": "east-4",
-      "name": "East 4",
-      "type": "constituency"
-    },
-    {
-      "id": "east-5",
-      "name": "East 5",
-      "type": "constituency"
-    },
-    {
-      "id": "east-6",
-      "name": "East 6",
-      "type": "constituency"
-    },
-    {
-      "id": "east-7",
-      "name": "East 7",
-      "type": "constituency"
-    },
-    {
-      "id": "east-8",
-      "name": "East 8",
-      "type": "constituency"
-    },
-    {
-      "id": "east-9",
-      "name": "East 9",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-1",
-      "name": "Far-North 1",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-10",
-      "name": "Far-North 10",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-2",
-      "name": "Far-North 2",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-3",
-      "name": "Far-North 3",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-4",
-      "name": "Far-North 4",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-5",
-      "name": "Far-North 5",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-6",
-      "name": "Far-North 6",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-7",
-      "name": "Far-North 7",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-8",
-      "name": "Far-North 8",
-      "type": "constituency"
-    },
-    {
-      "id": "far-north-9",
-      "name": "Far-North 9",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-1",
-      "name": "LITTORAL 1",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-10",
-      "name": "LITTORAL 10",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-2",
-      "name": "LITTORAL 2",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-3",
-      "name": "LITTORAL 3",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-4",
-      "name": "LITTORAL 4",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-5",
-      "name": "LITTORAL 5",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-6",
-      "name": "LITTORAL 6",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-7",
-      "name": "LITTORAL 7",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-8",
-      "name": "LITTORAL 8",
-      "type": "constituency"
-    },
-    {
-      "id": "littoral-9",
-      "name": "LITTORAL 9",
-      "type": "constituency"
-    },
-    {
-      "id": "north-1",
-      "name": "North 1",
-      "type": "constituency"
-    },
-    {
-      "id": "north-10",
-      "name": "North 10",
-      "type": "constituency"
-    },
-    {
-      "id": "north-2",
-      "name": "North 2",
-      "type": "constituency"
-    },
-    {
-      "id": "north-3",
-      "name": "North 3",
-      "type": "constituency"
-    },
-    {
-      "id": "north-4",
-      "name": "North 4",
-      "type": "constituency"
-    },
-    {
-      "id": "north-5",
-      "name": "North 5",
-      "type": "constituency"
-    },
-    {
-      "id": "north-6",
-      "name": "North 6",
-      "type": "constituency"
-    },
-    {
-      "id": "north-7",
-      "name": "North 7",
-      "type": "constituency"
-    },
-    {
-      "id": "north-8",
-      "name": "North 8",
-      "type": "constituency"
-    },
-    {
-      "id": "north-9",
-      "name": "North 9",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-1",
-      "name": "North-West 1",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-10",
-      "name": "North-West 10",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-2",
-      "name": "North-West 2",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-3",
-      "name": "North-West 3",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-4",
-      "name": "North-West 4",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-5",
-      "name": "North-West 5",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-6",
-      "name": "North-West 6",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-7",
-      "name": "North-West 7",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-8",
-      "name": "North-West 8",
-      "type": "constituency"
-    },
-    {
-      "id": "north-west-9",
-      "name": "North-West 9",
-      "type": "constituency"
-    },
-    {
-      "id": "south-1",
-      "name": "South 1",
-      "type": "constituency"
-    },
-    {
-      "id": "south-10",
-      "name": "South 10",
-      "type": "constituency"
-    },
-    {
-      "id": "south-2",
-      "name": "South 2",
-      "type": "constituency"
-    },
-    {
-      "id": "south-3",
-      "name": "South 3",
-      "type": "constituency"
-    },
-    {
-      "id": "south-4",
-      "name": "South 4",
-      "type": "constituency"
-    },
-    {
-      "id": "south-5",
-      "name": "South 5",
-      "type": "constituency"
-    },
-    {
-      "id": "south-6",
-      "name": "South 6",
-      "type": "constituency"
-    },
-    {
-      "id": "south-7",
-      "name": "South 7",
-      "type": "constituency"
-    },
-    {
-      "id": "south-8",
-      "name": "South 8",
-      "type": "constituency"
-    },
-    {
-      "id": "south-9",
-      "name": "South 9",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-1",
-      "name": "South-West 1",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-10",
-      "name": "South-West 10",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-2",
-      "name": "South-West 2",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-3",
-      "name": "South-West 3",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-4",
-      "name": "South-West 4",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-5",
-      "name": "South-West 5",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-6",
-      "name": "South-West 6",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-7",
-      "name": "South-West 7",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-8",
-      "name": "South-West 8",
-      "type": "constituency"
-    },
-    {
-      "id": "south-west-9",
-      "name": "South-West 9",
-      "type": "constituency"
-    },
-    {
-      "id": "west-1",
-      "name": "West 1",
-      "type": "constituency"
-    },
-    {
-      "id": "west-10",
-      "name": "West 10",
-      "type": "constituency"
-    },
-    {
-      "id": "west-2",
-      "name": "West 2",
-      "type": "constituency"
-    },
-    {
-      "id": "west-3",
-      "name": "West 3",
-      "type": "constituency"
-    },
-    {
-      "id": "west-4",
-      "name": "West 4",
-      "type": "constituency"
-    },
-    {
-      "id": "west-5",
-      "name": "West 5",
-      "type": "constituency"
-    },
-    {
-      "id": "west-6",
-      "name": "West 6",
-      "type": "constituency"
-    },
-    {
-      "id": "west-7",
-      "name": "West 7",
-      "type": "constituency"
-    },
-    {
-      "id": "west-8",
-      "name": "West 8",
-      "type": "constituency"
-    },
-    {
-      "id": "west-9",
-      "name": "West 9",
+      "id": "west",
+      "name": "West",
       "type": "constituency"
     }
   ]
