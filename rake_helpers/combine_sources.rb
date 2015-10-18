@@ -65,7 +65,7 @@ class Reconciler
     # Short-circuit if we've already been told who this matches (either by ID or field)
     if preset = @_instructions[:overrides][incoming_row[@_incoming_field]]
       return existing_by_id[ preset[:id].to_s ] if preset[:id] 
-      return existing[ preset[ "existing_#{@_incoming_field}".to_sym ].downcase ] 
+      return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ] 
     end
 
     if exact_match = existing[ incoming_row[@_incoming_field].downcase ]

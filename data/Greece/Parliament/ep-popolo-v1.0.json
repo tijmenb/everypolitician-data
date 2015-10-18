@@ -16067,6 +16067,11 @@
     },
     {
       "classification": "party",
+      "id": "democraticcoalition",
+      "name": "DEMOCRATIC COALITION (Panhellenic Socialist Movement Democratic Left )"
+    },
+    {
+      "classification": "party",
       "id": "dhmar",
       "name": "DHM.AR (Democratic Left)"
     },
@@ -16079,11 +16084,6 @@
       "classification": "party",
       "id": "dikki",
       "name": "DI.K.KI."
-    },
-    {
-      "classification": "party",
-      "id": "democraticcoalition",
-      "name": "Democratic Coalition"
     },
     {
       "classification": "party",
@@ -16166,6 +16166,11 @@
       "classification": "party",
       "id": "topotami",
       "name": "TO POTAMI (The River)"
+    },
+    {
+      "classification": "party",
+      "id": "unionofcentrists",
+      "name": "UNION OF CENTRISTS"
     },
     {
       "classification": "party",
@@ -27530,7 +27535,7 @@
     {
       "area_id": "area/thessaloniki_b",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/4174987a-010d-407c-92c3-a525010946fe",
       "role": "member"
@@ -29385,7 +29390,7 @@
     {
       "area_id": "area/serres",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/4b28a478-8768-453f-b820-a52500f1a43a",
       "role": "member"
@@ -29433,7 +29438,7 @@
     {
       "area_id": "area/piraeus_b",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/4b7816c1-bfe1-4065-b6d1-a525010b1938",
       "role": "member"
@@ -31830,7 +31835,7 @@
     {
       "area_id": "area/athens_a",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/59729bf4-5f01-4701-b5b2-a52500d85911",
       "role": "member"
@@ -33789,7 +33794,7 @@
     {
       "area_id": "area/larissa",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/67666e3e-f577-496e-bac9-a52501045504",
       "role": "member"
@@ -37023,7 +37028,7 @@
     {
       "area_id": "area/attica",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/78db387f-2e80-49e3-9379-a52500efbddf",
       "role": "member"
@@ -52735,7 +52740,7 @@
     {
       "area_id": "area/thessaloniki_a",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/d8c8202e-40f3-4daa-bf64-a52500ee129f",
       "role": "member"
@@ -54059,7 +54064,7 @@
     {
       "area_id": "area/athens_b",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/e2b76583-92c6-48d4-aec4-a52500efac61",
       "role": "member"
@@ -57878,7 +57883,7 @@
     {
       "area_id": "area/athens_b",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/_unknown",
+      "on_behalf_of_id": "unionofcentrists",
       "organization_id": "legislature",
       "person_id": "person/f734a420-5262-4bb3-b993-a52500f04611",
       "role": "member"
