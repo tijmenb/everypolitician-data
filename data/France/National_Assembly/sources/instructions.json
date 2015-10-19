@@ -4,10 +4,10 @@
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
-        "scraper": "tmtmtmtm/nos_deputes_france",
+        "scraper": "tmtmtmtm/france-national-assembly-wikipedia",
         "query": "SELECT * FROM data"
       },
-      "source": "http://www.nosdeputes.fr/",
+      "source": "https://fr.wikipedia.org/",
       "type": "membership"
     },
     {
@@ -17,12 +17,11 @@
         "scraper": "tmtmtmtm/france-chamber-of-deputies-wikidata",
         "query": "SELECT * FROM data"
       },
-      "source": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:D%C3%A9put%C3%A9_de_la_XIVe_l%C3%A9gislature_de_la_Ve_R%C3%A9publique",
+      "source": "https://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
+        "incoming_field": "name__fr",
+        "existing_field": "wikiname"
       }
     }
   ]
