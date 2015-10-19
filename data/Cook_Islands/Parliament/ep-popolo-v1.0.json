@@ -207,7 +207,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -302,7 +302,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -420,7 +420,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -585,7 +585,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -664,7 +664,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -758,7 +758,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -803,7 +803,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -881,7 +881,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -926,7 +926,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
         }
       ]
     },
@@ -1049,7 +1049,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
         }
       ]
     },
@@ -1097,7 +1097,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -1145,7 +1145,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
         }
       ]
     },
@@ -1217,7 +1217,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -1261,7 +1261,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -1289,7 +1289,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -1425,7 +1425,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
         }
       ]
     },
@@ -1483,7 +1483,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
         }
       ]
     },
@@ -1579,7 +1579,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
         }
       ]
     },
@@ -1701,7 +1701,7 @@
       ],
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
         }
       ]
     }
@@ -1721,6 +1721,11 @@
       "classification": "party",
       "id": "party/independent",
       "name": "Independent"
+    },
+    {
+      "classification": "party",
+      "id": "party/oci",
+      "name": "OCI"
     },
     {
       "classification": "legislature",
@@ -1761,6 +1766,14 @@
     {
       "area_id": "area/manihiki",
       "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q2569345",
+      "role": "member"
+    },
+    {
+      "area_id": "area/manihiki",
+      "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/cip",
       "organization_id": "legislature",
       "person_id": "person/Q2569345",
@@ -1816,6 +1829,14 @@
     },
     {
       "area_id": "area/titikaveka",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3324531",
+      "role": "member"
+    },
+    {
+      "area_id": "area/titikaveka",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/dp",
       "organization_id": "legislature",
@@ -1831,11 +1852,51 @@
       "role": "member"
     },
     {
+      "area_id": "area/tengatangi-areora-ngatiarua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q3335628",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tengatangi-areora-ngatiarua",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q3335628",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nikao-panama",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3339268",
+      "role": "member"
+    },
+    {
       "area_id": "area/nikao-panama",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/dp",
       "organization_id": "legislature",
       "person_id": "person/Q3339268",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nikao-panama",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3339268",
+      "role": "member"
+    },
+    {
+      "area_id": "area/teenui-mapumai",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q3343780",
       "role": "member"
     },
     {
@@ -1863,6 +1924,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/oneroa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3390985",
+      "role": "member"
+    },
+    {
+      "area_id": "area/penrhyn",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3391007",
+      "role": "member"
+    },
+    {
       "area_id": "area/penrhyn",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/dp",
@@ -1879,8 +1956,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/mitiaro",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3391011",
+      "role": "member"
+    },
+    {
       "area_id": "area/akaoa",
       "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q3391017",
+      "role": "member"
+    },
+    {
+      "area_id": "area/akaoa",
+      "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/cip",
       "organization_id": "legislature",
       "person_id": "person/Q3391017",
@@ -1895,11 +1988,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/rua'au",
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/dp",
+      "area_id": "area/murienua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
       "organization_id": "legislature",
-      "person_id": "person/Q3391029",
+      "person_id": "person/Q3391025",
       "role": "member"
     },
     {
@@ -1911,11 +2004,35 @@
       "role": "member"
     },
     {
+      "area_id": "area/rua'au",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q3391029",
+      "role": "member"
+    },
+    {
       "area_id": "area/amuri-ureia",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/dp",
       "organization_id": "legislature",
       "person_id": "person/Q3391036",
+      "role": "member"
+    },
+    {
+      "area_id": "area/arutanga-reureu-nikaupara",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/oci",
+      "organization_id": "legislature",
+      "person_id": "person/Q3391383",
+      "role": "member"
+    },
+    {
+      "area_id": "area/arutanga-reureu-nikaupara",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q3391383",
       "role": "member"
     },
     {
@@ -1944,7 +2061,23 @@
     },
     {
       "area_id": "area/ivirua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q381810",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ivirua",
       "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "person/Q381810",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ivirua",
+      "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/dp",
       "organization_id": "legislature",
       "person_id": "person/Q381810",
@@ -1956,6 +2089,14 @@
       "on_behalf_of_id": "party/cip",
       "organization_id": "legislature",
       "person_id": "person/Q4812881",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tupapa-maraerenga",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/oci",
+      "organization_id": "legislature",
+      "person_id": "person/Q5536264",
       "role": "member"
     },
     {
@@ -1983,6 +2124,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/matavera",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q6415093",
+      "role": "member"
+    },
+    {
+      "area_id": "area/takuvaine-tutakimoa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q6766871",
+      "role": "member"
+    },
+    {
       "area_id": "area/takuvaine-tutakimoa",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/cip",
@@ -1993,6 +2150,14 @@
     {
       "area_id": "area/vaipae-tautu",
       "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q6886399",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vaipae-tautu",
+      "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/cip",
       "organization_id": "legislature",
       "person_id": "person/Q6886399",
@@ -2015,6 +2180,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/mauke",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q7675846",
+      "role": "member"
+    },
+    {
       "area_id": "area/rakahanga",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/dp",
@@ -2024,10 +2197,26 @@
     },
     {
       "area_id": "area/pukapuka-nassau",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q7695346",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pukapuka-nassau",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/cip",
       "organization_id": "legislature",
       "person_id": "person/Q7695346",
+      "role": "member"
+    },
+    {
+      "area_id": "area/amuri-ureia",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "person/Q7811397",
       "role": "member"
     },
     {
