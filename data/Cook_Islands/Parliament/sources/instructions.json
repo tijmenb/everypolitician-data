@@ -4,29 +4,29 @@
       "file": "morph/2014.csv",
       "create": {
         "type": "morph",
-        "scraper": "tmtmtmtm/cook-islands-2014-election",
+        "scraper": "tmtmtmtm/cook-islands-elections-wikipedia",
         "query": "SELECT * FROM data"
       },
-      "source": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014",
+      "source": "https://en.wikipedia.org/",
       "type": "membership"
     },
     {
-      "file": "morph/2010.csv",
+      "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
-        "scraper": "tmtmtmtm/cook-islands-2010-election",
+        "scraper": "tmtmtmtm/cook-islands-representatives-wikidata",
         "query": "SELECT * FROM data"
       },
-      "type": "membership"
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "original_wikiname",
+        "existing_field": "wikiname"
+      }
     },
     {
-      "file": "morph/2006.csv",
-      "create": {
-        "type": "morph",
-        "scraper": "tmtmtmtm/cook-islands-2006-election",
-        "query": "SELECT * FROM data"
-      },
-      "type": "membership"
+      "file": "manual/terms.csv",
+      "type": "term"
     }
   ]
 }
