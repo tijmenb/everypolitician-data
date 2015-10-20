@@ -4,10 +4,10 @@
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
-        "scraper": "tmtmtmtm/france-national-assembly-wikipedia",
+        "scraper": "tmtmtmtm/france-national-assembly-syccomore",
         "query": "SELECT * FROM data"
       },
-      "source": "https://fr.wikipedia.org/",
+      "source": "http://www.assemblee-nationale.fr/sycomore",
       "type": "membership"
     },
     {
@@ -20,8 +20,8 @@
       "source": "https://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "incoming_field": "original_wikiname",
-        "existing_field": "wikiname"
+        "incoming_field": "identifier__sycomore",
+        "existing_field": "id"
       }
     }
   ]
