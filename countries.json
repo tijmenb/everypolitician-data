@@ -2445,16 +2445,134 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1445159507",
-        "person_count": 627,
-        "sha": "0888ffa",
+        "lastmod": "1445286449",
+        "person_count": 3183,
+        "sha": "12210e0",
         "legislative_periods": [
           {
             "id": "term/14",
-            "name": "XIVe législature de la Ve République",
+            "name": "XIVe législature de la Cinquième République",
             "start_date": "2012-06-20",
+            "wikidata": "Q3570385",
             "slug": "14",
             "csv": "data/France/National_Assembly/term-14.csv"
+          },
+          {
+            "end_date": "2012-06-19",
+            "id": "term/13",
+            "name": "XIIIe législature de la Cinquième République",
+            "start_date": "2007-06-20",
+            "wikidata": "Q3025921",
+            "slug": "13",
+            "csv": "data/France/National_Assembly/term-13.csv"
+          },
+          {
+            "end_date": "2007-06-19",
+            "id": "term/12",
+            "name": "XIIe législature de la Cinquième République",
+            "start_date": "2002-06-19",
+            "wikidata": "Q3570376",
+            "slug": "12",
+            "csv": "data/France/National_Assembly/term-12.csv"
+          },
+          {
+            "end_date": "2002-06-18",
+            "id": "term/11",
+            "name": "XIe législature de la Cinquième République",
+            "start_date": "1997-06-01",
+            "wikidata": "Q3570394",
+            "slug": "11",
+            "csv": "data/France/National_Assembly/term-11.csv"
+          },
+          {
+            "end_date": "1997-04-21",
+            "id": "term/10",
+            "name": "Xe législature de la Cinquième République",
+            "start_date": "1993-04-02",
+            "wikidata": "Q3570849",
+            "slug": "10",
+            "csv": "data/France/National_Assembly/term-10.csv"
+          },
+          {
+            "end_date": "1993-04-01",
+            "id": "term/9",
+            "name": "IXe législature de la Cinquième République",
+            "start_date": "1988-06-06",
+            "wikidata": "Q3147021",
+            "slug": "9",
+            "csv": "data/France/National_Assembly/term-9.csv"
+          },
+          {
+            "end_date": "1988-05-14",
+            "id": "term/8",
+            "name": "VIIIe législature de la Cinquième République",
+            "start_date": "1986-04-02",
+            "wikidata": "Q3552944",
+            "slug": "8",
+            "csv": "data/France/National_Assembly/term-8.csv"
+          },
+          {
+            "end_date": "1986-04-01",
+            "id": "term/7",
+            "name": "VIIe législature de la Cinquième République",
+            "start_date": "1981-07-02",
+            "wikidata": "Q3552950",
+            "slug": "7",
+            "csv": "data/France/National_Assembly/term-7.csv"
+          },
+          {
+            "end_date": "1981-05-22",
+            "id": "term/6",
+            "name": "VIe législature de la Cinquième République",
+            "start_date": "1978-04-03",
+            "wikidata": "Q3552959",
+            "slug": "6",
+            "csv": "data/France/National_Assembly/term-6.csv"
+          },
+          {
+            "end_date": "1978-04-02",
+            "id": "term/5",
+            "name": "Ve législature de la Cinquième République",
+            "start_date": "1973-04-02",
+            "wikidata": "Q3555150",
+            "slug": "5",
+            "csv": "data/France/National_Assembly/term-5.csv"
+          },
+          {
+            "end_date": "1973-04-01",
+            "id": "term/4",
+            "name": "IVe législature de la Cinquième République",
+            "start_date": "1968-07-11",
+            "wikidata": "Q2380278",
+            "slug": "4",
+            "csv": "data/France/National_Assembly/term-4.csv"
+          },
+          {
+            "end_date": "1968-05-30",
+            "id": "term/3",
+            "name": "IIIe législature de la Cinquième République",
+            "start_date": "1967-04-03",
+            "wikidata": "Q3146694",
+            "slug": "3",
+            "csv": "data/France/National_Assembly/term-3.csv"
+          },
+          {
+            "end_date": "1967-04-02",
+            "id": "term/2",
+            "name": "IIe législature de la Cinquième République",
+            "start_date": "1962-12-06",
+            "wikidata": "Q3146705",
+            "slug": "2",
+            "csv": "data/France/National_Assembly/term-2.csv"
+          },
+          {
+            "end_date": "1962-10-09",
+            "id": "term/1",
+            "name": "Ire législature de la Cinquième République",
+            "start_date": "1958-12-09",
+            "wikidata": "Q3154303",
+            "slug": "1",
+            "csv": "data/France/National_Assembly/term-1.csv"
           }
         ]
       }
