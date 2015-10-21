@@ -2,6 +2,10 @@
   "sources": [
     {
       "file": "parlparse/data.csv",
+      "create": {
+        "type": "parlparse",
+        "instructions": "parlparse/instructions.json"
+      },
       "source": "http://theyworkforyou.com/",
       "type": "membership"
     },
