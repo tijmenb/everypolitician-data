@@ -3,6 +3,10 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
+      "create": {
+        "type": "parlparse",
+        "instructions": "parlparse/instructions.json"
+      },
       "source": "http://parser.theyworkforyou.com/"
     },
     {

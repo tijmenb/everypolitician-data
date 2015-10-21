@@ -114,6 +114,20 @@ namespace :merge_sources do
         elsif c[:type] == 'morph'
           data = morph_select(c[:scraper], c[:query])
           File.write(i[:file], data)
+        elsif c[:type] == 'parlparse'
+          instructions = json_load("sources/#{c[:instructions]}")
+
+          gh_url = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/data/'
+          term_file_url = gh_url + '%s/sources/manual/terms.csv'
+          instructions_url = gh_url + '%s/sources/parlparse/instructions.json'
+          cwd = pwd.split("/").last(2).join("/")
+
+          args = { 
+            terms_csv: term_file_url % cwd,
+            instructions_json: instructions_url % cwd,
+          }
+          remote = 'https://parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
+          IO.copy_stream(open(remote), i[:file])
         elsif c[:type] == 'ocd'
           remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + c[:source]
           IO.copy_stream(open(remote), i[:file])
