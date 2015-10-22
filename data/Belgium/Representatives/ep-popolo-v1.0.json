@@ -989,6 +989,10 @@
           "scheme": "viaf"
         },
         {
+          "identifier": "186064659",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "Q454893",
           "scheme": "wikidata"
         }
@@ -4589,6 +4593,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "076110478",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "97125",
           "scheme": "europarlmep"
         },
@@ -4671,6 +4679,36 @@
       "sources": [
         {
           "url": "http://www.lachambre.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=cvview54.cfm?key=06731&lactivity=54"
+        }
+      ]
+    },
+    {
+      "birth_date": "1980-08-18",
+      "gender": "male",
+      "given_name": "Gautier",
+      "id": "person/Q21141795",
+      "identifiers": [
+        {
+          "identifier": "Q21141795",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Gautier Calomne",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Gautier Calomne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gautier Calomne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gautier Calomne",
+          "note": "multilingual"
         }
       ]
     },
@@ -6911,6 +6949,10 @@
         {
           "identifier": "n90678116",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "033465770",
+          "scheme": "sudoc"
         },
         {
           "identifier": "074864017",
@@ -10718,6 +10760,10 @@
       ]
     },
     {
+      "id": "person/sophie_wilmès",
+      "name": "Sophie Wilmès"
+    },
+    {
       "birth_date": "1973-01-04",
       "email": "eb.remaked@ekcehnav.naafets",
       "gender": "male",
@@ -13965,6 +14011,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/brussel-hoofdstad",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "person/Q21141795",
+      "role": "member",
+      "start_date": "2015-09-22"
+    },
+    {
       "area_id": "area/luik",
       "end_date": "2015-04-19",
       "legislative_period_id": "term/54",
@@ -14070,6 +14125,15 @@
       "on_behalf_of_id": "party/mr",
       "organization_id": "legislature",
       "person_id": "person/Q978208",
+      "role": "member"
+    },
+    {
+      "area_id": "area/brussel-hoofdstad",
+      "end_date": "2015-09-22",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/mr",
+      "organization_id": "legislature",
+      "person_id": "person/sophie_wilmès",
       "role": "member"
     }
   ],
