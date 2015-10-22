@@ -1,14 +1,29 @@
 {
   "sources": [
     {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/represent-ca",
-        "query": "SELECT *, 41 AS term FROM data ORDER BY CAST(id as unsigned)"
+        "query": "SELECT *, id AS identifier__represent, NULL AS id FROM data"
       },
       "source": "https://morph.io/tmtmtmtm/represent-ca",
-      "type": "membership"
+      "type": "person",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/represent.csv"
+      }
     },
     {
       "file": "morph/wikidata.csv",
