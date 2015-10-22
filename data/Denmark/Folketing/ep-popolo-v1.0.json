@@ -5727,10 +5727,24 @@
       ]
     },
     {
+      "birth_date": "1978-04-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JeppeBruus"
+        }
+      ],
       "email": "jeppe.bruus@ft.dk",
       "family_name": "Bruus",
+      "gender": "male",
       "given_name": "Jeppe",
       "id": "person/sjebr",
+      "identifiers": [
+        {
+          "identifier": "Q12319515",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jeppe_Bruus/Jeppe_Bruus_133.jpg.ashx",
       "images": [
         {
@@ -5744,6 +5758,58 @@
         }
       ],
       "name": "Jeppe Bruus",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jeppe Bruus Christensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jeppe Bruus",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/sjebr.aspx"
