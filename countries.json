@@ -1417,14 +1417,24 @@
         "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
-        "lastmod": "1444857204",
-        "person_count": 305,
-        "sha": "8e0d75b",
+        "lastmod": "1445513406",
+        "person_count": 541,
+        "sha": "ea41b0f",
         "legislative_periods": [
           {
+            "id": "term/42",
+            "name": "42nd Canadian Parliament",
+            "start_date": "2015-11-16",
+            "wikidata": "Q21157957",
+            "slug": "42",
+            "csv": "data/Canada/Commons/term-42.csv"
+          },
+          {
+            "end_date": "2015-08-02",
             "id": "term/41",
             "name": "41st Canadian Parliament",
             "start_date": "2011-06-02",
+            "wikidata": "Q2816776",
             "slug": "41",
             "csv": "data/Canada/Commons/term-41.csv"
           }
