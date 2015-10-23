@@ -6661,7 +6661,15 @@
     },
     {
       "birth_date": "1954-10-19",
+      "gender": "male",
+      "given_name": "Roberto",
       "id": "person/005",
+      "identifiers": [
+        {
+          "identifier": "Q2044214",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P005",
       "images": [
         {
@@ -6669,6 +6677,68 @@
         }
       ],
       "name": "Roberto Battelli",
+      "other_names": [
+        {
+          "lang": "sl",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Roberto Battelli",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.dz-rs.si/wps/portal/en/Home/ODrzavnemZboru/KdoJeKdo/PoslankeInPoslanci/poslanec?idOseba=P005"
