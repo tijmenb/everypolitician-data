@@ -8240,14 +8240,14 @@
         "slug": "House",
         "sources_directory": "data/United_States_of_America/House/sources",
         "popolo": "data/United_States_of_America/House/ep-popolo-v1.0.json",
-        "lastmod": "1445612504",
-        "person_count": 744,
-        "sha": "0cab539",
+        "lastmod": "1445619274",
+        "person_count": 767,
+        "sha": "a6b35cc",
         "legislative_periods": [
           {
             "id": "term/114",
             "name": "114th Congress",
-            "start_date": "2015-01-03",
+            "start_date": "2015-01-06",
             "wikidata": "Q16146771",
             "slug": "114",
             "csv": "data/United_States_of_America/House/term-114.csv"
@@ -8256,7 +8256,7 @@
             "end_date": "2015-01-03",
             "id": "term/113",
             "name": "113th Congress",
-            "start_date": "2013-01-03",
+            "start_date": "2013-01-06",
             "wikidata": "Q71871",
             "slug": "113",
             "csv": "data/United_States_of_America/House/term-113.csv"
@@ -8265,7 +8265,7 @@
             "end_date": "2013-01-03",
             "id": "term/112",
             "name": "112th Congress",
-            "start_date": "2011-01-03",
+            "start_date": "2011-01-06",
             "wikidata": "Q170447",
             "slug": "112",
             "csv": "data/United_States_of_America/House/term-112.csv"
@@ -8274,7 +8274,7 @@
             "end_date": "2011-01-03",
             "id": "term/111",
             "name": "111th Congress",
-            "start_date": "2009-01-03",
+            "start_date": "2009-01-06",
             "wikidata": "Q170375",
             "slug": "111",
             "csv": "data/United_States_of_America/House/term-111.csv"
@@ -8283,7 +8283,7 @@
             "end_date": "2009-01-03",
             "id": "term/110",
             "name": "110th Congress",
-            "start_date": "2007-01-03",
+            "start_date": "2007-01-06",
             "wikidata": "Q170018",
             "slug": "110",
             "csv": "data/United_States_of_America/House/term-110.csv"
@@ -8295,14 +8295,14 @@
         "slug": "Senate",
         "sources_directory": "data/United_States_of_America/Senate/sources",
         "popolo": "data/United_States_of_America/Senate/ep-popolo-v1.0.json",
-        "lastmod": "1445612607",
+        "lastmod": "1445618318",
         "person_count": 144,
-        "sha": "7346c13",
+        "sha": "5ad1bc4",
         "legislative_periods": [
           {
             "id": "term/114",
             "name": "114th Congress",
-            "start_date": "2015-01-03",
+            "start_date": "2015-01-06",
             "wikidata": "Q16146771",
             "slug": "114",
             "csv": "data/United_States_of_America/Senate/term-114.csv"
@@ -8311,7 +8311,7 @@
             "end_date": "2015-01-03",
             "id": "term/113",
             "name": "113th Congress",
-            "start_date": "2013-01-03",
+            "start_date": "2013-01-06",
             "wikidata": "Q71871",
             "slug": "113",
             "csv": "data/United_States_of_America/Senate/term-113.csv"
@@ -8320,7 +8320,7 @@
             "end_date": "2013-01-03",
             "id": "term/112",
             "name": "112th Congress",
-            "start_date": "2011-01-03",
+            "start_date": "2011-01-06",
             "wikidata": "Q170447",
             "slug": "112",
             "csv": "data/United_States_of_America/Senate/term-112.csv"
@@ -8329,7 +8329,7 @@
             "end_date": "2011-01-03",
             "id": "term/111",
             "name": "111th Congress",
-            "start_date": "2009-01-03",
+            "start_date": "2009-01-06",
             "wikidata": "Q170375",
             "slug": "111",
             "csv": "data/United_States_of_America/Senate/term-111.csv"
@@ -8338,7 +8338,7 @@
             "end_date": "2009-01-03",
             "id": "term/110",
             "name": "110th Congress",
-            "start_date": "2007-01-03",
+            "start_date": "2007-01-06",
             "wikidata": "Q170018",
             "slug": "110",
             "csv": "data/United_States_of_America/Senate/term-110.csv"
