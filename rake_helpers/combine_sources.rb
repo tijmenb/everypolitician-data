@@ -273,14 +273,13 @@ namespace :merge_sources do
 
     # Map Areas 
     if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' } 
-      ocds = CSV.table(area[:file], converters: nil)
+      ocds = CSV.table(area[:file], converters: nil).group_by { |r| r[:id] }
 
       all_headers |= [:area, :area_id]
 
       if area[:generate] == 'area'
         merged_rows.each do |r|
-          ocd = ocds.find { |o| o[:id] == r[:area_id] } or warn "No area for #{r}"
-          r[:area] = ocd[:name] if ocd
+          r[:area] = ocd = ocds[r[:area_id]].first[:name] rescue nil
         end
 
       else 
