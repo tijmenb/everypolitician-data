@@ -237,16 +237,16 @@
   },
   "memberships": [
     {
-      "area_id": "area/pohnpei",
-      "legislative_period_id": "term/18",
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/berney_martin",
       "role": "member"
     },
     {
-      "area_id": "area/n/a",
-      "legislative_period_id": "term/17",
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/berney_martin",
@@ -262,7 +262,7 @@
     },
     {
       "area_id": "area/chuuk",
-      "legislative_period_id": "term/18",
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/bonsiano_fasy_nethon",
@@ -270,18 +270,10 @@
     },
     {
       "area_id": "area/chuuk",
-      "legislative_period_id": "term/17",
+      "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/bonsiano_fasy_nethon",
-      "role": "member"
-    },
-    {
-      "area_id": "area/pohnpei",
-      "legislative_period_id": "term/19",
-      "on_behalf_of_id": "party/none",
-      "organization_id": "legislature",
-      "person_id": "person/david_w._panuelo",
       "role": "member"
     },
     {
@@ -295,6 +287,14 @@
     {
       "area_id": "area/pohnpei",
       "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "person/david_w._panuelo",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/david_w._panuelo",
@@ -366,7 +366,7 @@
     },
     {
       "area_id": "area/yap",
-      "legislative_period_id": "term/19",
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/joseph_j._urusemal",
@@ -382,18 +382,10 @@
     },
     {
       "area_id": "area/yap",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/none",
-      "organization_id": "legislature",
-      "person_id": "person/joseph_j._urusemal",
-      "role": "member"
-    },
-    {
-      "area_id": "area/kosrae",
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
-      "person_id": "person/paliknoa_k._welly",
+      "person_id": "person/joseph_j._urusemal",
       "role": "member"
     },
     {
@@ -413,8 +405,16 @@
       "role": "member"
     },
     {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "person/paliknoa_k._welly",
+      "role": "member"
+    },
+    {
       "area_id": "area/pohnpei",
-      "legislative_period_id": "term/18",
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/peter_m._christian",
@@ -422,7 +422,7 @@
     },
     {
       "area_id": "area/pohnpei",
-      "legislative_period_id": "term/17",
+      "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/peter_m._christian",
@@ -470,7 +470,7 @@
     },
     {
       "area_id": "area/chuuk",
-      "legislative_period_id": "term/18",
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/tiwiter_aritos",
@@ -478,7 +478,7 @@
     },
     {
       "area_id": "area/chuuk",
-      "legislative_period_id": "term/17",
+      "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/tiwiter_aritos",
@@ -542,7 +542,7 @@
     },
     {
       "area_id": "area/kosrae",
-      "legislative_period_id": "term/18",
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/yosiwo_p._george",
@@ -550,7 +550,7 @@
     },
     {
       "area_id": "area/kosrae",
-      "legislative_period_id": "term/17",
+      "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/none",
       "organization_id": "legislature",
       "person_id": "person/yosiwo_p._george",
