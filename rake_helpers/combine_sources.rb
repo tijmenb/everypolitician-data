@@ -211,6 +211,7 @@ namespace :merge_sources do
       approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
       approaches.each do |merger|
         warn "  Match incoming #{merger[:incoming_field]} to #{merger[:existing_field]}"
+        merger[:report_missing] = true unless merger.key? :report_missing
 
         # TODO complain if this isn't the last step — all prior ones
         # should be exact matches
@@ -261,7 +262,7 @@ namespace :merge_sources do
               end
             end
           else
-            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
+            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merger[:report_missing]
             unmatched << incoming_row
           end
         end
