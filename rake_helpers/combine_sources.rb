@@ -287,14 +287,16 @@ namespace :merge_sources do
         # So far only tested with Australia, so super-simple logic. 
         # TOOD: Expand this later
 
-        fuzzer = FuzzyMatch.new(ocds, read: :name)
+        fuzzer = FuzzyMatch.new(ocds.values.flatten(1), read: :name)
         finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
 
         override = ->(name) { 
           return unless area[:merge].key? :overrides
           return unless override_id = area[:merge][:overrides][name.to_sym] 
           return '' if override_id.empty?
-          ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
+          binding.pry
+          # FIXME look up in Hash instead
+          # ocds.find { |o| o[:id] == override_id } or raise "no match for #{override_id}"
         }
 
         areas = {}
