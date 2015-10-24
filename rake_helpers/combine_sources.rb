@@ -99,7 +99,6 @@ namespace :merge_sources do
     key = ERB::Util.url_encode(morph_api_key)
     query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
-    warn "Fetching #{url}"
     open(url).read
   end
 
@@ -108,8 +107,8 @@ namespace :merge_sources do
       unless File.exist? i[:file]
         c = i[:create]
         FileUtils.mkpath File.dirname i[:file]
+        warn "Regenerating #{i[:file]}"
         if c.key? :url
-          warn "Fetching #{c[:url]}"
           IO.copy_stream(open(c[:url]), i[:file])
         elsif c[:type] == 'morph'
           data = morph_select(c[:scraper], c[:query])
@@ -212,6 +211,7 @@ namespace :merge_sources do
       approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
       approaches.each do |merger|
         warn "  Match incoming #{merger[:incoming_field]} to #{merger[:existing_field]}"
+        merger[:report_missing] = true unless merger.key? :report_missing
 
         # TODO complain if this isn't the last step — all prior ones
         # should be exact matches
@@ -262,7 +262,7 @@ namespace :merge_sources do
               end
             end
           else
-            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red
+            warn "Can't match row to existing data: #{incoming_row.to_hash.reject { |k,v| v.to_s.empty? } }".red if merger[:report_missing]
             unmatched << incoming_row
           end
         end
@@ -279,7 +279,7 @@ namespace :merge_sources do
 
       if area[:generate] == 'area'
         merged_rows.each do |r|
-          r[:area] = ocd = ocds[r[:area_id]].first[:name] rescue nil
+          r[:area] = ocds[r[:area_id]].first[:name] rescue nil
         end
 
       else 
