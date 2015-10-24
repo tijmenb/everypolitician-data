@@ -25,6 +25,20 @@
       "type": "person"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/us-representatives-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "identifier__wikipedia"
+      }
+    },
+    {
       "file": "ocd/divisions.csv",
       "create": {
         "type": "ocd",
