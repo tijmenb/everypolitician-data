@@ -34,10 +34,13 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": { 
+      "merge": [{ 
+        "incoming_field": "identifier__uscongress",
+        "existing_field": "identifier__bioguide"
+      },{ 
         "incoming_field": "wikipedia__en",
         "existing_field": "identifier__wikipedia"
-      }
+      }]
     },
     {
       "file": "ocd/divisions.csv",
