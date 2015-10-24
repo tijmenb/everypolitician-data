@@ -339,14 +339,6 @@
   "memberships": [
     {
       "area_id": "7",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/anguilla_united_movement",
-      "organization_id": "legislature",
-      "person_id": "person/albert_e._hughes",
-      "role": "member"
-    },
-    {
-      "area_id": "7",
       "legislative_period_id": "term/1989",
       "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
@@ -363,16 +355,24 @@
     },
     {
       "area_id": "7",
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "party/anguilla_strategic_alliance",
+      "legislative_period_id": "term/1999",
+      "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
       "person_id": "person/albert_e._hughes",
       "role": "member"
     },
     {
       "area_id": "7",
-      "legislative_period_id": "term/1999",
-      "on_behalf_of_id": "party/anguilla_united_party",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/anguilla_united_movement",
+      "organization_id": "legislature",
+      "person_id": "person/albert_e._hughes",
+      "role": "member"
+    },
+    {
+      "area_id": "7",
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "party/anguilla_strategic_alliance",
       "organization_id": "legislature",
       "person_id": "person/albert_e._hughes",
       "role": "member"
@@ -403,16 +403,8 @@
     },
     {
       "area_id": "5",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/edison_baird",
-      "role": "member"
-    },
-    {
-      "area_id": "5",
-      "legislative_period_id": "term/2010",
-      "on_behalf_of_id": "party/anguilla_united_movement",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/edison_baird",
       "role": "member"
@@ -427,8 +419,8 @@
     },
     {
       "area_id": "5",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/edison_baird",
       "role": "member"
@@ -437,6 +429,14 @@
       "area_id": "5",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_strategic_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/edison_baird",
+      "role": "member"
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/2010",
+      "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
       "person_id": "person/edison_baird",
       "role": "member"
@@ -459,7 +459,7 @@
     },
     {
       "area_id": "3",
-      "legislative_period_id": "term/2000",
+      "legislative_period_id": "term/1994",
       "on_behalf_of_id": "party/anguilla_national_alliance",
       "organization_id": "legislature",
       "person_id": "person/eric_reid",
@@ -475,7 +475,7 @@
     },
     {
       "area_id": "3",
-      "legislative_period_id": "term/1994",
+      "legislative_period_id": "term/2000",
       "on_behalf_of_id": "party/anguilla_national_alliance",
       "organization_id": "legislature",
       "person_id": "person/eric_reid",
@@ -523,15 +523,7 @@
     },
     {
       "area_id": "6",
-      "legislative_period_id": "term/2000",
-      "on_behalf_of_id": "party/anguilla_united_movement",
-      "organization_id": "legislature",
-      "person_id": "person/hubert_benjamin_hughes",
-      "role": "member"
-    },
-    {
-      "area_id": "6",
-      "legislative_period_id": "term/1999",
+      "legislative_period_id": "term/1989",
       "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
       "person_id": "person/hubert_benjamin_hughes",
@@ -547,15 +539,7 @@
     },
     {
       "area_id": "6",
-      "legislative_period_id": "term/2010",
-      "on_behalf_of_id": "party/anguilla_united_movement",
-      "organization_id": "legislature",
-      "person_id": "person/hubert_benjamin_hughes",
-      "role": "member"
-    },
-    {
-      "area_id": "6",
-      "legislative_period_id": "term/1989",
+      "legislative_period_id": "term/1999",
       "on_behalf_of_id": "party/anguilla_united_party",
       "organization_id": "legislature",
       "person_id": "person/hubert_benjamin_hughes",
@@ -563,7 +547,23 @@
     },
     {
       "area_id": "6",
+      "legislative_period_id": "term/2000",
+      "on_behalf_of_id": "party/anguilla_united_movement",
+      "organization_id": "legislature",
+      "person_id": "person/hubert_benjamin_hughes",
+      "role": "member"
+    },
+    {
+      "area_id": "6",
       "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "party/anguilla_united_movement",
+      "organization_id": "legislature",
+      "person_id": "person/hubert_benjamin_hughes",
+      "role": "member"
+    },
+    {
+      "area_id": "6",
+      "legislative_period_id": "term/2010",
       "on_behalf_of_id": "party/anguilla_united_movement",
       "organization_id": "legislature",
       "person_id": "person/hubert_benjamin_hughes",
@@ -579,6 +579,22 @@
     },
     {
       "area_id": "1",
+      "legislative_period_id": "term/1989",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/kenneth_harrigan",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "organization_id": "legislature",
+      "person_id": "person/kenneth_harrigan",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "party/anguilla_national_alliance",
       "organization_id": "legislature",
@@ -595,14 +611,6 @@
     },
     {
       "area_id": "1",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
-      "organization_id": "legislature",
-      "person_id": "person/kenneth_harrigan",
-      "role": "member"
-    },
-    {
-      "area_id": "1",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_united_front",
       "organization_id": "legislature",
@@ -610,11 +618,19 @@
       "role": "member"
     },
     {
-      "area_id": "1",
+      "area_id": "2",
       "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/anguilla_national_alliance",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/kenneth_harrigan",
+      "person_id": "person/osbourne_b._fleming",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "person/osbourne_b._fleming",
       "role": "member"
     },
     {
@@ -637,22 +653,6 @@
       "area_id": "2",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/osbourne_b._fleming",
-      "role": "member"
-    },
-    {
-      "area_id": "2",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "person/osbourne_b._fleming",
-      "role": "member"
-    },
-    {
-      "area_id": "2",
-      "legislative_period_id": "term/1989",
-      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "person/osbourne_b._fleming",
       "role": "member"
@@ -683,16 +683,8 @@
     },
     {
       "area_id": "4",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/anguilla_united_front",
-      "organization_id": "legislature",
-      "person_id": "person/victor_banks",
-      "role": "member"
-    },
-    {
-      "area_id": "4",
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "party/anguilla_united_front",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/anguilla_democratic_party",
       "organization_id": "legislature",
       "person_id": "person/victor_banks",
       "role": "member"
@@ -715,8 +707,16 @@
     },
     {
       "area_id": "4",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/anguilla_democratic_party",
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "party/anguilla_united_front",
+      "organization_id": "legislature",
+      "person_id": "person/victor_banks",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/anguilla_united_front",
       "organization_id": "legislature",
       "person_id": "person/victor_banks",
       "role": "member"

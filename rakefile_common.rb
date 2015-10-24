@@ -65,8 +65,14 @@ end
 def json_write(file, json)
   # TODO remove the need for the .to_s here, by ensuring all People and Orgs have names
   json[:persons].sort_by!       { |p| [ p[:name].to_s, p[:id] ] }
+  json[:persons].each do |p|
+    p[:identifiers].sort_by!     { |i| [ i[:scheme], i[:identifier] ] } if p.key?(:identifiers)
+    p[:contact_details].sort_by! { |d| [ d[:type], d[:value] ] }        if p.key?(:contact_details)
+    p[:links].sort_by!           { |l| [ l[:note], l[:url] ] }          if p.key?(:links)
+    p[:other_names].sort_by!     { |n| [ n[:lang].to_s, n[:name] ] }    if p.key?(:other_names)
+  end
   json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
-  json[:memberships].sort_by!   { |m| [ m[:person_id], m[:organization_id] ] }
+  json[:memberships].sort_by!   { |m| [ m[:person_id], m[:organization_id], m[:legislative_period_id] ] }
   json[:events].sort_by!        { |e| [ e[:start_date] || '', e[:id] ] } if json.key? :events
   json[:areas].sort_by!         { |a| [ a[:id] ] } if json.key? :areas
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]

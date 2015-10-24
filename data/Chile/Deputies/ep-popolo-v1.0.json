@@ -2562,15 +2562,15 @@
   },
   "memberships": [
     {
-      "area_id": "area/52",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/1",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/52",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/1",
@@ -2679,6 +2679,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/11",
+      "role": "member"
+    },
+    {
       "area_id": "area/13",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "UDI",
@@ -2695,10 +2702,10 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "UDI",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/11",
+      "person_id": "person/110",
       "role": "member"
     },
     {
@@ -2710,10 +2717,10 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "PPD",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "PS",
       "organization_id": "legislature",
-      "person_id": "person/110",
+      "person_id": "person/111",
       "role": "member"
     },
     {
@@ -2727,13 +2734,6 @@
     {
       "area_id": "area/4",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/111",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/111",
@@ -2778,15 +2778,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/10",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/119",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/10",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/119",
@@ -2809,6 +2809,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/132",
+      "role": "member"
+    },
+    {
       "area_id": "area/48",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
@@ -2826,21 +2833,6 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/132",
-      "role": "member"
-    },
-    {
-      "area_id": "area/27",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/137",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/137",
@@ -2849,6 +2841,14 @@
     {
       "area_id": "area/27",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/137",
+      "role": "member"
+    },
+    {
+      "area_id": "area/27",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/137",
@@ -2871,15 +2871,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/54",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/15",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/54",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/15",
@@ -2933,6 +2933,14 @@
     },
     {
       "area_id": "area/49",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/155",
+      "role": "member"
+    },
+    {
+      "area_id": "area/49",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
@@ -2948,11 +2956,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/49",
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "RN",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/155",
+      "person_id": "person/158",
       "role": "member"
     },
     {
@@ -2969,21 +2976,6 @@
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/158",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/158",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/159",
       "role": "member"
     },
     {
@@ -2995,8 +2987,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/23",
+      "area_id": "area/1",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/159",
+      "role": "member"
+    },
+    {
+      "area_id": "area/23",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/161",
@@ -3004,7 +3004,7 @@
     },
     {
       "area_id": "area/23",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/161",
@@ -3043,8 +3043,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/43",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/169",
@@ -3060,25 +3059,18 @@
     },
     {
       "area_id": "area/43",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/169",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/43",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/169",
-      "role": "member"
-    },
-    {
-      "area_id": "area/31",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "IND",
-      "organization_id": "legislature",
-      "person_id": "person/170",
       "role": "member"
     },
     {
@@ -3090,8 +3082,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/57",
-      "legislative_period_id": "term/3",
+      "area_id": "area/31",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "person/170",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/172",
@@ -3107,14 +3106,15 @@
     },
     {
       "area_id": "area/57",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/172",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/57",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/172",
@@ -3145,7 +3145,7 @@
     },
     {
       "area_id": "area/19",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/175",
@@ -3153,7 +3153,7 @@
     },
     {
       "area_id": "area/19",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/175",
@@ -3168,7 +3168,7 @@
     },
     {
       "area_id": "area/33",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/176",
@@ -3176,7 +3176,7 @@
     },
     {
       "area_id": "area/33",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/176",
@@ -3191,8 +3191,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/42",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/177",
@@ -3207,7 +3206,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/42",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/177",
@@ -3230,14 +3230,6 @@
     },
     {
       "area_id": "area/12",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/178",
-      "role": "member"
-    },
-    {
-      "area_id": "area/12",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
@@ -3253,15 +3245,31 @@
       "role": "member"
     },
     {
-      "area_id": "area/30",
-      "legislative_period_id": "term/3",
+      "area_id": "area/12",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/178",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/179",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/30",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/179",
+      "role": "member"
+    },
+    {
+      "area_id": "area/30",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/179",
@@ -3276,11 +3284,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/30",
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "UDI",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/179",
+      "person_id": "person/181",
       "role": "member"
     },
     {
@@ -3294,13 +3301,6 @@
     {
       "area_id": "area/16",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/181",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/181",
@@ -3331,8 +3331,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/31",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/19",
@@ -3347,10 +3346,19 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/31",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/19",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/190",
       "role": "member"
     },
     {
@@ -3362,23 +3370,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/3",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/190",
-      "role": "member"
-    },
-    {
-      "area_id": "area/60",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/193",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/60",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/193",
@@ -3424,14 +3424,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/35",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/205",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
@@ -3441,6 +3433,14 @@
     {
       "area_id": "area/32",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/205",
+      "role": "member"
+    },
+    {
+      "area_id": "area/35",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/205",
@@ -3470,15 +3470,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/47",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/208",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/47",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/208",
@@ -3494,7 +3494,7 @@
     },
     {
       "area_id": "area/47",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/208",
@@ -3509,6 +3509,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/211",
+      "role": "member"
+    },
+    {
       "area_id": "area/7",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
@@ -3517,13 +3524,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/211",
-      "role": "member"
-    },
-    {
       "area_id": "area/30",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
@@ -3540,22 +3540,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/45",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/220",
-      "role": "member"
-    },
-    {
-      "area_id": "area/45",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/220",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -3571,11 +3555,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/59",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
+      "area_id": "area/45",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/221",
+      "person_id": "person/220",
+      "role": "member"
+    },
+    {
+      "area_id": "area/45",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/220",
       "role": "member"
     },
     {
@@ -3587,11 +3579,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/28",
+      "area_id": "area/59",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/222",
+      "person_id": "person/221",
       "role": "member"
     },
     {
@@ -3618,6 +3610,21 @@
       "role": "member"
     },
     {
+      "area_id": "area/28",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/222",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/224",
+      "role": "member"
+    },
+    {
       "area_id": "area/53",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
@@ -3628,13 +3635,6 @@
     {
       "area_id": "area/53",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/224",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/224",
@@ -3665,6 +3665,14 @@
     },
     {
       "area_id": "area/48",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/239",
+      "role": "member"
+    },
+    {
+      "area_id": "area/48",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -3674,14 +3682,6 @@
     {
       "area_id": "area/48",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/239",
-      "role": "member"
-    },
-    {
-      "area_id": "area/48",
-      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/239",
@@ -3735,7 +3735,7 @@
     },
     {
       "area_id": "area/21",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/30",
@@ -3743,7 +3743,7 @@
     },
     {
       "area_id": "area/21",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/30",
@@ -3758,22 +3758,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/50",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/35",
-      "role": "member"
-    },
-    {
-      "area_id": "area/50",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/35",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
@@ -3781,15 +3765,31 @@
       "role": "member"
     },
     {
-      "area_id": "area/37",
+      "area_id": "area/50",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/35",
+      "role": "member"
+    },
+    {
+      "area_id": "area/50",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/35",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/39",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/37",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/39",
@@ -3892,15 +3892,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/33",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/424",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/33",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/424",
@@ -3914,15 +3914,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/20",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/426",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/20",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/426",
@@ -3944,6 +3944,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/43",
+      "role": "member"
+    },
+    {
       "area_id": "area/50",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
@@ -3954,13 +3961,6 @@
     {
       "area_id": "area/50",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/43",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/43",
@@ -4004,15 +4004,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/4",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/437",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/4",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/437",
@@ -4056,15 +4056,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/47",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/449",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/47",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/449",
@@ -4151,6 +4151,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/491",
+      "role": "member"
+    },
+    {
       "area_id": "area/51",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
@@ -4162,7 +4169,7 @@
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
-      "person_id": "person/491",
+      "person_id": "person/493",
       "role": "member"
     },
     {
@@ -4175,21 +4182,14 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/493",
-      "role": "member"
-    },
-    {
-      "area_id": "area/42",
-      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/495",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/42",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/495",
@@ -4241,6 +4241,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/503",
+      "role": "member"
+    },
+    {
       "area_id": "area/53",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
@@ -4250,9 +4257,9 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "RN",
+      "on_behalf_of_id": "PS",
       "organization_id": "legislature",
-      "person_id": "person/503",
+      "person_id": "person/504",
       "role": "member"
     },
     {
@@ -4265,21 +4272,14 @@
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/504",
-      "role": "member"
-    },
-    {
-      "area_id": "area/14",
-      "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/507",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/14",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/507",
@@ -4301,15 +4301,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/44",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/514",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/44",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/514",
@@ -4663,6 +4663,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/74",
+      "role": "member"
+    },
+    {
       "area_id": "area/39",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "PS",
@@ -4673,13 +4680,6 @@
     {
       "area_id": "area/39",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/74",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/74",
@@ -4734,7 +4734,7 @@
     },
     {
       "area_id": "area/24",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/800",
@@ -4742,7 +4742,7 @@
     },
     {
       "area_id": "area/24",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/800",
@@ -4757,8 +4757,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/37",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/802",
@@ -4774,6 +4773,14 @@
     },
     {
       "area_id": "area/37",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/802",
+      "role": "member"
+    },
+    {
+      "area_id": "area/37",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
@@ -4781,7 +4788,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/37",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/802",
@@ -4804,14 +4812,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/37",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/802",
-      "role": "member"
-    },
-    {
       "area_id": "area/59",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
@@ -4828,23 +4828,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/29",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/804",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/804",
-      "role": "member"
-    },
-    {
-      "area_id": "area/29",
-      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/804",
@@ -4859,6 +4843,29 @@
       "role": "member"
     },
     {
+      "area_id": "area/29",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/804",
+      "role": "member"
+    },
+    {
+      "area_id": "area/29",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/804",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/805",
+      "role": "member"
+    },
+    {
       "area_id": "area/58",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "UDI",
@@ -4875,34 +4882,11 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/805",
-      "role": "member"
-    },
-    {
       "area_id": "area/58",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/805",
-      "role": "member"
-    },
-    {
-      "area_id": "area/38",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/806",
-      "role": "member"
-    },
-    {
-      "area_id": "area/38",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/806",
       "role": "member"
     },
     {
@@ -4914,7 +4898,7 @@
     },
     {
       "area_id": "area/38",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/806",
@@ -4929,11 +4913,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/60",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
+      "area_id": "area/38",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "RN",
       "organization_id": "legislature",
-      "person_id": "person/807",
+      "person_id": "person/806",
+      "role": "member"
+    },
+    {
+      "area_id": "area/38",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/806",
       "role": "member"
     },
     {
@@ -4953,9 +4945,17 @@
       "role": "member"
     },
     {
+      "area_id": "area/60",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/807",
+      "role": "member"
+    },
+    {
       "area_id": "area/4",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PRI",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/808",
       "role": "member"
@@ -4970,8 +4970,8 @@
     },
     {
       "area_id": "area/4",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PRI",
       "organization_id": "legislature",
       "person_id": "person/808",
       "role": "member"
@@ -5001,8 +5001,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/58",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/810",
@@ -5025,7 +5024,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/58",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/810",
@@ -5049,7 +5049,7 @@
     },
     {
       "area_id": "area/35",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/811",
@@ -5057,7 +5057,7 @@
     },
     {
       "area_id": "area/35",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/811",
@@ -5073,7 +5073,7 @@
     },
     {
       "area_id": "area/33",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/812",
@@ -5089,7 +5089,7 @@
     },
     {
       "area_id": "area/33",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/812",
@@ -5097,7 +5097,7 @@
     },
     {
       "area_id": "area/50",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/813",
@@ -5106,6 +5106,14 @@
     {
       "area_id": "area/50",
       "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/813",
+      "role": "member"
+    },
+    {
+      "area_id": "area/50",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/813",
@@ -5120,22 +5128,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/50",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/813",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/814",
-      "role": "member"
-    },
-    {
       "area_id": "area/7",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
@@ -5145,7 +5137,7 @@
     },
     {
       "area_id": "area/7",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/814",
@@ -5160,8 +5152,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/45",
+      "area_id": "area/7",
       "legislative_period_id": "term/6",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/814",
+      "role": "member"
+    },
+    {
+      "area_id": "area/45",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/815",
@@ -5169,7 +5169,7 @@
     },
     {
       "area_id": "area/45",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/815",
@@ -5197,14 +5197,6 @@
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/816",
-      "role": "member"
-    },
-    {
-      "area_id": "area/12",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/817",
       "role": "member"
     },
     {
@@ -5218,6 +5210,14 @@
     {
       "area_id": "area/12",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/817",
+      "role": "member"
+    },
+    {
+      "area_id": "area/12",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/817",
@@ -5225,6 +5225,22 @@
     },
     {
       "legislative_period_id": "term/2",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/818",
+      "role": "member"
+    },
+    {
+      "area_id": "area/22",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/818",
+      "role": "member"
+    },
+    {
+      "area_id": "area/22",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/818",
@@ -5240,34 +5256,10 @@
     },
     {
       "area_id": "area/22",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/818",
-      "role": "member"
-    },
-    {
-      "area_id": "area/22",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/818",
-      "role": "member"
-    },
-    {
-      "area_id": "area/22",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/818",
-      "role": "member"
-    },
-    {
-      "area_id": "area/40",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/819",
       "role": "member"
     },
     {
@@ -5279,7 +5271,15 @@
     },
     {
       "area_id": "area/40",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/819",
+      "role": "member"
+    },
+    {
+      "area_id": "area/40",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/819",
@@ -5295,7 +5295,7 @@
     },
     {
       "area_id": "area/40",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/819",
@@ -5303,7 +5303,7 @@
     },
     {
       "area_id": "area/40",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/819",
@@ -5318,8 +5318,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/36",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/821",
@@ -5335,14 +5334,7 @@
     },
     {
       "area_id": "area/36",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/821",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/821",
@@ -5350,10 +5342,25 @@
     },
     {
       "area_id": "area/36",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/821",
+      "role": "member"
+    },
+    {
+      "area_id": "area/36",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/821",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/822",
       "role": "member"
     },
     {
@@ -5366,21 +5373,6 @@
     },
     {
       "area_id": "area/24",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/822",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/822",
-      "role": "member"
-    },
-    {
-      "area_id": "area/24",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
@@ -5389,7 +5381,7 @@
     },
     {
       "area_id": "area/24",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/822",
@@ -5404,11 +5396,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/21",
-      "legislative_period_id": "term/5",
+      "area_id": "area/24",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/823",
+      "person_id": "person/822",
       "role": "member"
     },
     {
@@ -5420,11 +5412,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/53",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PS",
+      "area_id": "area/21",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/824",
+      "person_id": "person/823",
       "role": "member"
     },
     {
@@ -5438,6 +5430,22 @@
     {
       "area_id": "area/53",
       "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/824",
+      "role": "member"
+    },
+    {
+      "area_id": "area/53",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "person/825",
+      "role": "member"
+    },
+    {
+      "area_id": "area/53",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/825",
@@ -5453,15 +5461,7 @@
     },
     {
       "area_id": "area/53",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "IND",
-      "organization_id": "legislature",
-      "person_id": "person/825",
-      "role": "member"
-    },
-    {
-      "area_id": "area/53",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/825",
@@ -5493,7 +5493,7 @@
     },
     {
       "area_id": "area/7",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/827",
@@ -5501,7 +5501,7 @@
     },
     {
       "area_id": "area/7",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/827",
@@ -5510,14 +5510,6 @@
     {
       "area_id": "area/23",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/828",
-      "role": "member"
-    },
-    {
-      "area_id": "area/23",
-      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/828",
@@ -5532,19 +5524,19 @@
       "role": "member"
     },
     {
+      "area_id": "area/23",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/828",
+      "role": "member"
+    },
+    {
       "area_id": "area/26",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/829",
-      "role": "member"
-    },
-    {
-      "area_id": "area/25",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/83",
       "role": "member"
     },
     {
@@ -5563,11 +5555,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/44",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
+      "area_id": "area/25",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/830",
+      "person_id": "person/83",
       "role": "member"
     },
     {
@@ -5579,11 +5571,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/14",
-      "legislative_period_id": "term/6",
+      "area_id": "area/44",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/831",
+      "person_id": "person/830",
       "role": "member"
     },
     {
@@ -5595,11 +5587,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/8",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PS",
+      "area_id": "area/14",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/832",
+      "person_id": "person/831",
       "role": "member"
     },
     {
@@ -5611,7 +5603,7 @@
     },
     {
       "area_id": "area/8",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/832",
@@ -5620,6 +5612,14 @@
     {
       "area_id": "area/8",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/832",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/832",
@@ -5650,16 +5650,16 @@
     },
     {
       "area_id": "area/29",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "IND",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/834",
       "role": "member"
     },
     {
       "area_id": "area/29",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/834",
       "role": "member"
@@ -5674,7 +5674,7 @@
     },
     {
       "area_id": "area/3",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/836",
@@ -5682,7 +5682,7 @@
     },
     {
       "area_id": "area/3",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/836",
@@ -5694,30 +5694,6 @@
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/836",
-      "role": "member"
-    },
-    {
-      "area_id": "area/56",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/837",
-      "role": "member"
-    },
-    {
-      "area_id": "area/56",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/837",
-      "role": "member"
-    },
-    {
-      "area_id": "area/56",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/837",
       "role": "member"
     },
     {
@@ -5729,11 +5705,27 @@
       "role": "member"
     },
     {
-      "area_id": "area/49",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
+      "area_id": "area/56",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PS",
       "organization_id": "legislature",
-      "person_id": "person/838",
+      "person_id": "person/837",
+      "role": "member"
+    },
+    {
+      "area_id": "area/56",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/837",
+      "role": "member"
+    },
+    {
+      "area_id": "area/56",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/837",
       "role": "member"
     },
     {
@@ -5742,6 +5734,30 @@
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/838",
+      "role": "member"
+    },
+    {
+      "area_id": "area/49",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/838",
+      "role": "member"
+    },
+    {
+      "area_id": "area/30",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/839",
+      "role": "member"
+    },
+    {
+      "area_id": "area/30",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/839",
       "role": "member"
     },
     {
@@ -5753,24 +5769,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/30",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/839",
-      "role": "member"
-    },
-    {
-      "area_id": "area/30",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/839",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/84",
@@ -5785,10 +5784,19 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/7",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/84",
+      "role": "member"
+    },
+    {
+      "area_id": "area/11",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/840",
       "role": "member"
     },
     {
@@ -5800,11 +5808,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/11",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/840",
+      "person_id": "person/841",
       "role": "member"
     },
     {
@@ -5816,21 +5823,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/841",
-      "role": "member"
-    },
-    {
-      "area_id": "area/59",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/842",
-      "role": "member"
-    },
-    {
       "area_id": "area/59",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
@@ -5844,6 +5836,53 @@
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/842",
+      "role": "member"
+    },
+    {
+      "area_id": "area/59",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/842",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/843",
+      "role": "member"
+    },
+    {
+      "area_id": "area/52",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/843",
+      "role": "member"
+    },
+    {
+      "area_id": "area/52",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/843",
+      "role": "member"
+    },
+    {
+      "area_id": "area/52",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/843",
+      "role": "member"
+    },
+    {
+      "area_id": "area/52",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/843",
       "role": "member"
     },
     {
@@ -5863,47 +5902,31 @@
       "role": "member"
     },
     {
-      "area_id": "area/52",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/843",
-      "role": "member"
-    },
-    {
-      "area_id": "area/52",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/843",
-      "role": "member"
-    },
-    {
-      "area_id": "area/52",
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "RN",
+      "on_behalf_of_id": "UCCP",
       "organization_id": "legislature",
-      "person_id": "person/843",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/843",
-      "role": "member"
-    },
-    {
-      "area_id": "area/52",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/843",
+      "person_id": "person/844",
       "role": "member"
     },
     {
       "area_id": "area/32",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/844",
+      "role": "member"
+    },
+    {
+      "area_id": "area/32",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/844",
+      "role": "member"
+    },
+    {
+      "area_id": "area/32",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/844",
@@ -5913,29 +5936,6 @@
       "area_id": "area/32",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/844",
-      "role": "member"
-    },
-    {
-      "area_id": "area/32",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/844",
-      "role": "member"
-    },
-    {
-      "area_id": "area/32",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/844",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "UCCP",
       "organization_id": "legislature",
       "person_id": "person/844",
       "role": "member"
@@ -5950,7 +5950,7 @@
     },
     {
       "area_id": "area/13",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/846",
@@ -5958,7 +5958,7 @@
     },
     {
       "area_id": "area/13",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/846",
@@ -5990,6 +5990,22 @@
     },
     {
       "area_id": "area/14",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/848",
+      "role": "member"
+    },
+    {
+      "area_id": "area/14",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/848",
+      "role": "member"
+    },
+    {
+      "area_id": "area/14",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
@@ -6005,19 +6021,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/14",
-      "legislative_period_id": "term/4",
+      "area_id": "area/19",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/848",
+      "person_id": "person/849",
       "role": "member"
     },
     {
-      "area_id": "area/14",
-      "legislative_period_id": "term/5",
+      "area_id": "area/19",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/848",
+      "person_id": "person/849",
       "role": "member"
     },
     {
@@ -6031,22 +6047,6 @@
     {
       "area_id": "area/19",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/849",
-      "role": "member"
-    },
-    {
-      "area_id": "area/19",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/849",
-      "role": "member"
-    },
-    {
-      "area_id": "area/19",
-      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/849",
@@ -6062,7 +6062,7 @@
     },
     {
       "area_id": "area/55",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/850",
@@ -6086,7 +6086,7 @@
     },
     {
       "area_id": "area/55",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/850",
@@ -6134,7 +6134,7 @@
     },
     {
       "area_id": "area/54",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/854",
@@ -6150,22 +6150,6 @@
     },
     {
       "area_id": "area/54",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/854",
-      "role": "member"
-    },
-    {
-      "area_id": "area/54",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/854",
-      "role": "member"
-    },
-    {
-      "area_id": "area/54",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
@@ -6173,24 +6157,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/54",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/854",
+      "role": "member"
+    },
+    {
+      "area_id": "area/54",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/854",
+      "role": "member"
+    },
+    {
       "area_id": "area/41",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PRSD",
-      "organization_id": "legislature",
-      "person_id": "person/855",
-      "role": "member"
-    },
-    {
-      "area_id": "area/41",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PRSD",
-      "organization_id": "legislature",
-      "person_id": "person/855",
-      "role": "member"
-    },
-    {
-      "area_id": "area/41",
-      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/855",
@@ -6213,11 +6197,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/27",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PPD",
+      "area_id": "area/41",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
-      "person_id": "person/856",
+      "person_id": "person/855",
+      "role": "member"
+    },
+    {
+      "area_id": "area/41",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PRSD",
+      "organization_id": "legislature",
+      "person_id": "person/855",
       "role": "member"
     },
     {
@@ -6237,11 +6229,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/30",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
+      "area_id": "area/27",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/857",
+      "person_id": "person/856",
       "role": "member"
     },
     {
@@ -6255,6 +6247,14 @@
     {
       "area_id": "area/30",
       "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/857",
+      "role": "member"
+    },
+    {
+      "area_id": "area/30",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/857",
@@ -6269,14 +6269,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/35",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/858",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -6293,6 +6285,14 @@
     },
     {
       "area_id": "area/35",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/858",
+      "role": "member"
+    },
+    {
+      "area_id": "area/35",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -6301,7 +6301,7 @@
     },
     {
       "area_id": "area/5",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/859",
@@ -6317,23 +6317,14 @@
     },
     {
       "area_id": "area/5",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/859",
       "role": "member"
     },
     {
-      "area_id": "area/36",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/860",
-      "role": "member"
-    },
-    {
-      "area_id": "area/36",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/860",
@@ -6348,7 +6339,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/36",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/860",
@@ -6363,11 +6355,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/47",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
+      "area_id": "area/36",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/861",
+      "person_id": "person/860",
       "role": "member"
     },
     {
@@ -6379,19 +6371,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/38",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/862",
-      "role": "member"
-    },
-    {
-      "area_id": "area/38",
+      "area_id": "area/47",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "DC",
+      "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/862",
+      "person_id": "person/861",
       "role": "member"
     },
     {
@@ -6419,23 +6403,23 @@
       "role": "member"
     },
     {
-      "area_id": "area/41",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "RN",
+      "area_id": "area/38",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/863",
+      "person_id": "person/862",
+      "role": "member"
+    },
+    {
+      "area_id": "area/38",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/862",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/863",
-      "role": "member"
-    },
-    {
-      "area_id": "area/41",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/863",
@@ -6451,6 +6435,22 @@
     },
     {
       "area_id": "area/41",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/863",
+      "role": "member"
+    },
+    {
+      "area_id": "area/41",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/863",
+      "role": "member"
+    },
+    {
+      "area_id": "area/41",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
@@ -6466,15 +6466,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/34",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/864",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/34",
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/864",
@@ -6498,10 +6498,25 @@
     },
     {
       "area_id": "area/34",
-      "legislative_period_id": "term/2",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/864",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/865",
+      "role": "member"
+    },
+    {
+      "area_id": "area/16",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/865",
       "role": "member"
     },
     {
@@ -6514,23 +6529,7 @@
     },
     {
       "area_id": "area/16",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/865",
-      "role": "member"
-    },
-    {
-      "area_id": "area/16",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/865",
-      "role": "member"
-    },
-    {
-      "area_id": "area/16",
-      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/865",
@@ -6553,18 +6552,11 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/16",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/865",
-      "role": "member"
-    },
-    {
-      "area_id": "area/52",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PRSD",
-      "organization_id": "legislature",
-      "person_id": "person/866",
       "role": "member"
     },
     {
@@ -6592,11 +6584,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/23",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "RN",
+      "area_id": "area/52",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
-      "person_id": "person/867",
+      "person_id": "person/866",
       "role": "member"
     },
     {
@@ -6609,6 +6601,14 @@
     },
     {
       "area_id": "area/23",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/867",
+      "role": "member"
+    },
+    {
+      "area_id": "area/23",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
@@ -6616,16 +6616,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/18",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/868",
-      "role": "member"
-    },
-    {
-      "area_id": "area/18",
-      "legislative_period_id": "term/8",
+      "area_id": "area/42",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/868",
@@ -6640,8 +6632,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/42",
-      "legislative_period_id": "term/4",
+      "area_id": "area/18",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/868",
+      "role": "member"
+    },
+    {
+      "area_id": "area/18",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/868",
@@ -6657,7 +6657,7 @@
     },
     {
       "area_id": "area/46",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/869",
@@ -6665,50 +6665,10 @@
     },
     {
       "area_id": "area/46",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/869",
-      "role": "member"
-    },
-    {
-      "area_id": "area/26",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/870",
-      "role": "member"
-    },
-    {
-      "area_id": "area/26",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/870",
-      "role": "member"
-    },
-    {
-      "area_id": "area/26",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/870",
-      "role": "member"
-    },
-    {
-      "area_id": "area/26",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/870",
-      "role": "member"
-    },
-    {
-      "area_id": "area/26",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/870",
       "role": "member"
     },
     {
@@ -6719,8 +6679,63 @@
       "role": "member"
     },
     {
+      "area_id": "area/26",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/870",
+      "role": "member"
+    },
+    {
+      "area_id": "area/26",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/870",
+      "role": "member"
+    },
+    {
+      "area_id": "area/26",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/870",
+      "role": "member"
+    },
+    {
+      "area_id": "area/26",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/870",
+      "role": "member"
+    },
+    {
+      "area_id": "area/26",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/870",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/871",
+      "role": "member"
+    },
+    {
       "area_id": "area/27",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/871",
+      "role": "member"
+    },
+    {
+      "area_id": "area/27",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/871",
@@ -6743,18 +6758,19 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "UDI",
+      "area_id": "area/6",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/871",
+      "person_id": "person/872",
       "role": "member"
     },
     {
-      "area_id": "area/27",
+      "area_id": "area/6",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
+      "on_behalf_of_id": "DC",
       "organization_id": "legislature",
-      "person_id": "person/871",
+      "person_id": "person/872",
       "role": "member"
     },
     {
@@ -6766,22 +6782,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/6",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/872",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/872",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
@@ -6790,14 +6790,6 @@
     },
     {
       "area_id": "area/9",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/873",
-      "role": "member"
-    },
-    {
-      "area_id": "area/9",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
@@ -6806,6 +6798,14 @@
     },
     {
       "area_id": "area/9",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/873",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
@@ -6822,42 +6822,26 @@
     },
     {
       "area_id": "area/19",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/874",
+      "role": "member"
+    },
+    {
+      "area_id": "area/19",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/874",
+      "role": "member"
+    },
+    {
+      "area_id": "area/19",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/874",
-      "role": "member"
-    },
-    {
-      "area_id": "area/19",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/874",
-      "role": "member"
-    },
-    {
-      "area_id": "area/19",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/874",
-      "role": "member"
-    },
-    {
-      "area_id": "area/46",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/875",
-      "role": "member"
-    },
-    {
-      "area_id": "area/46",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/875",
       "role": "member"
     },
     {
@@ -6870,18 +6854,26 @@
     },
     {
       "area_id": "area/46",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/875",
       "role": "member"
     },
     {
-      "area_id": "area/11",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PPD",
+      "area_id": "area/46",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/876",
+      "person_id": "person/875",
+      "role": "member"
+    },
+    {
+      "area_id": "area/46",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/875",
       "role": "member"
     },
     {
@@ -6901,47 +6893,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/55",
+      "area_id": "area/11",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/877",
+      "person_id": "person/876",
       "role": "member"
     },
     {
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/877",
-      "role": "member"
-    },
-    {
-      "area_id": "area/55",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/877",
-      "role": "member"
-    },
-    {
-      "area_id": "area/55",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/877",
-      "role": "member"
-    },
-    {
-      "area_id": "area/55",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/877",
-      "role": "member"
-    },
-    {
-      "area_id": "area/55",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/877",
@@ -6953,6 +6913,62 @@
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/877",
+      "role": "member"
+    },
+    {
+      "area_id": "area/55",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/877",
+      "role": "member"
+    },
+    {
+      "area_id": "area/55",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/877",
+      "role": "member"
+    },
+    {
+      "area_id": "area/55",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/877",
+      "role": "member"
+    },
+    {
+      "area_id": "area/55",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/877",
+      "role": "member"
+    },
+    {
+      "area_id": "area/55",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/877",
+      "role": "member"
+    },
+    {
+      "area_id": "area/18",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/878",
+      "role": "member"
+    },
+    {
+      "area_id": "area/18",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/878",
       "role": "member"
     },
     {
@@ -6964,38 +6980,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/18",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/878",
-      "role": "member"
-    },
-    {
-      "area_id": "area/18",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/878",
-      "role": "member"
-    },
-    {
-      "area_id": "area/44",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/879",
-      "role": "member"
-    },
-    {
-      "area_id": "area/44",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/879",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -7012,7 +6996,23 @@
     },
     {
       "area_id": "area/44",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/879",
+      "role": "member"
+    },
+    {
+      "area_id": "area/44",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/879",
+      "role": "member"
+    },
+    {
+      "area_id": "area/44",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/879",
@@ -7028,7 +7028,7 @@
     },
     {
       "area_id": "area/44",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/879",
@@ -7036,7 +7036,7 @@
     },
     {
       "area_id": "area/45",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/880",
@@ -7044,7 +7044,7 @@
     },
     {
       "area_id": "area/45",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/880",
@@ -7060,7 +7060,7 @@
     },
     {
       "area_id": "area/39",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/881",
@@ -7076,7 +7076,7 @@
     },
     {
       "area_id": "area/39",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/881",
@@ -7100,6 +7100,14 @@
     },
     {
       "area_id": "area/31",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "person/883",
+      "role": "member"
+    },
+    {
+      "area_id": "area/31",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
@@ -7109,14 +7117,6 @@
     {
       "area_id": "area/31",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PS",
-      "organization_id": "legislature",
-      "person_id": "person/883",
-      "role": "member"
-    },
-    {
-      "area_id": "area/31",
-      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/883",
@@ -7131,7 +7131,7 @@
     },
     {
       "area_id": "area/28",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/884",
@@ -7147,7 +7147,7 @@
     },
     {
       "area_id": "area/28",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/884",
@@ -7156,6 +7156,14 @@
     {
       "area_id": "area/47",
       "legislative_period_id": "term/3",
+      "on_behalf_of_id": "PRSD",
+      "organization_id": "legislature",
+      "person_id": "person/885",
+      "role": "member"
+    },
+    {
+      "area_id": "area/47",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/885",
@@ -7186,11 +7194,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/47",
+      "area_id": "area/49",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PRSD",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/885",
+      "person_id": "person/886",
       "role": "member"
     },
     {
@@ -7199,30 +7207,6 @@
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/886",
-      "role": "member"
-    },
-    {
-      "area_id": "area/49",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/886",
-      "role": "member"
-    },
-    {
-      "area_id": "area/56",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/887",
-      "role": "member"
-    },
-    {
-      "area_id": "area/56",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/887",
       "role": "member"
     },
     {
@@ -7242,10 +7226,50 @@
     },
     {
       "area_id": "area/56",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/887",
+      "role": "member"
+    },
+    {
+      "area_id": "area/56",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/887",
+      "role": "member"
+    },
+    {
+      "area_id": "area/56",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/887",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PRSD",
+      "organization_id": "legislature",
+      "person_id": "person/888",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PRSD",
+      "organization_id": "legislature",
+      "person_id": "person/888",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "PRSD",
+      "organization_id": "legislature",
+      "person_id": "person/888",
       "role": "member"
     },
     {
@@ -7254,46 +7278,6 @@
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/888",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PRSD",
-      "organization_id": "legislature",
-      "person_id": "person/888",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PRSD",
-      "organization_id": "legislature",
-      "person_id": "person/888",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "PRSD",
-      "organization_id": "legislature",
-      "person_id": "person/888",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/889",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/889",
       "role": "member"
     },
     {
@@ -7306,7 +7290,23 @@
     },
     {
       "area_id": "area/4",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/889",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4",
       "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/889",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/889",
@@ -7330,8 +7330,8 @@
     },
     {
       "area_id": "area/17",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/891",
       "role": "member"
@@ -7346,30 +7346,14 @@
     },
     {
       "area_id": "area/17",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "RN",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/891",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/892",
-      "role": "member"
-    },
-    {
-      "area_id": "area/17",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/892",
-      "role": "member"
-    },
-    {
-      "area_id": "area/17",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/892",
@@ -7385,6 +7369,22 @@
     },
     {
       "area_id": "area/17",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/892",
+      "role": "member"
+    },
+    {
+      "area_id": "area/17",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/892",
+      "role": "member"
+    },
+    {
+      "area_id": "area/17",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
@@ -7393,7 +7393,7 @@
     },
     {
       "area_id": "area/42",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/893",
@@ -7409,7 +7409,7 @@
     },
     {
       "area_id": "area/42",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/893",
@@ -7473,6 +7473,14 @@
     },
     {
       "area_id": "area/34",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "person/897",
+      "role": "member"
+    },
+    {
+      "area_id": "area/34",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "PRI",
       "organization_id": "legislature",
@@ -7481,26 +7489,10 @@
     },
     {
       "area_id": "area/34",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "IND",
-      "organization_id": "legislature",
-      "person_id": "person/897",
-      "role": "member"
-    },
-    {
-      "area_id": "area/34",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/897",
-      "role": "member"
-    },
-    {
-      "area_id": "area/16",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/898",
       "role": "member"
     },
     {
@@ -7520,8 +7512,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/13",
-      "legislative_period_id": "term/5",
+      "area_id": "area/16",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/898",
+      "role": "member"
+    },
+    {
+      "area_id": "area/14",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/899",
@@ -7536,8 +7536,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/14",
-      "legislative_period_id": "term/3",
+      "area_id": "area/13",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/899",
@@ -7561,7 +7561,7 @@
     },
     {
       "area_id": "area/39",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/902",
@@ -7570,6 +7570,14 @@
     {
       "area_id": "area/39",
       "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/902",
+      "role": "member"
+    },
+    {
+      "area_id": "area/39",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/902",
@@ -7584,14 +7592,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/39",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/902",
-      "role": "member"
-    },
-    {
       "area_id": "area/22",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "PPD",
@@ -7605,26 +7605,10 @@
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/903",
-      "role": "member"
-    },
-    {
-      "area_id": "area/51",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/904",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2",
-      "on_behalf_of_id": "PPD",
-      "organization_id": "legislature",
-      "person_id": "person/904",
-      "role": "member"
-    },
-    {
-      "area_id": "area/51",
-      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/904",
@@ -7639,6 +7623,30 @@
       "role": "member"
     },
     {
+      "area_id": "area/51",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/904",
+      "role": "member"
+    },
+    {
+      "area_id": "area/51",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/904",
+      "role": "member"
+    },
+    {
+      "area_id": "area/57",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/905",
+      "role": "member"
+    },
+    {
       "area_id": "area/57",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
@@ -7648,42 +7656,10 @@
     },
     {
       "area_id": "area/57",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/905",
-      "role": "member"
-    },
-    {
-      "area_id": "area/57",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/905",
-      "role": "member"
-    },
-    {
-      "area_id": "area/43",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/906",
-      "role": "member"
-    },
-    {
-      "area_id": "area/43",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/906",
-      "role": "member"
-    },
-    {
-      "area_id": "area/43",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/906",
       "role": "member"
     },
     {
@@ -7711,6 +7687,22 @@
     },
     {
       "area_id": "area/43",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/906",
+      "role": "member"
+    },
+    {
+      "area_id": "area/43",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/906",
+      "role": "member"
+    },
+    {
+      "area_id": "area/43",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
@@ -7718,11 +7710,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/31",
-      "legislative_period_id": "term/6",
+      "area_id": "area/43",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/907",
+      "person_id": "person/906",
       "role": "member"
     },
     {
@@ -7739,35 +7731,43 @@
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/907",
+      "role": "member"
+    },
+    {
+      "area_id": "area/31",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/907",
+      "role": "member"
+    },
+    {
+      "area_id": "area/40",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/908",
+      "role": "member"
+    },
+    {
+      "area_id": "area/40",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/908",
+      "role": "member"
+    },
+    {
+      "area_id": "area/40",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "UDI",
+      "organization_id": "legislature",
+      "person_id": "person/908",
       "role": "member"
     },
     {
       "area_id": "area/40",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/908",
-      "role": "member"
-    },
-    {
-      "area_id": "area/40",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/908",
-      "role": "member"
-    },
-    {
-      "area_id": "area/40",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/908",
-      "role": "member"
-    },
-    {
-      "area_id": "area/40",
-      "legislative_period_id": "term/5",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/908",
@@ -7822,14 +7822,6 @@
     },
     {
       "area_id": "area/57",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/911",
-      "role": "member"
-    },
-    {
-      "area_id": "area/57",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -7837,8 +7829,15 @@
       "role": "member"
     },
     {
-      "area_id": "area/10",
-      "legislative_period_id": "term/5",
+      "area_id": "area/57",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/911",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/912",
@@ -7861,18 +7860,11 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/2",
+      "area_id": "area/10",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/912",
-      "role": "member"
-    },
-    {
-      "area_id": "area/48",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/913",
       "role": "member"
     },
     {
@@ -7892,8 +7884,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/48",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/913",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/914",
+      "role": "member"
+    },
+    {
+      "area_id": "area/15",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/914",
       "role": "member"
@@ -7915,11 +7923,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/15",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "PRSD",
+      "area_id": "area/37",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "RN",
       "organization_id": "legislature",
-      "person_id": "person/914",
+      "person_id": "person/915",
       "role": "member"
     },
     {
@@ -7939,16 +7947,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/37",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "RN",
+      "area_id": "area/25",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
-      "person_id": "person/915",
+      "person_id": "person/916",
       "role": "member"
     },
     {
       "area_id": "area/25",
-      "legislative_period_id": "term/4",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/916",
@@ -7963,11 +7971,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/25",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "PPD",
+      "area_id": "area/54",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/916",
+      "person_id": "person/917",
       "role": "member"
     },
     {
@@ -7981,14 +7989,6 @@
     {
       "area_id": "area/54",
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/917",
-      "role": "member"
-    },
-    {
-      "area_id": "area/54",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/917",
@@ -8028,14 +8028,6 @@
     },
     {
       "area_id": "area/3",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/919",
-      "role": "member"
-    },
-    {
-      "area_id": "area/3",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
@@ -8043,11 +8035,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/55",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "RN",
+      "area_id": "area/3",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
-      "person_id": "person/92",
+      "person_id": "person/919",
       "role": "member"
     },
     {
@@ -8059,6 +8051,14 @@
     },
     {
       "area_id": "area/55",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/92",
+      "role": "member"
+    },
+    {
+      "area_id": "area/55",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
@@ -8067,7 +8067,7 @@
     },
     {
       "area_id": "area/12",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/920",
@@ -8083,10 +8083,18 @@
     },
     {
       "area_id": "area/12",
-      "legislative_period_id": "term/5",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/920",
+      "role": "member"
+    },
+    {
+      "area_id": "area/26",
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/921",
       "role": "member"
     },
     {
@@ -8106,14 +8114,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/26",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/921",
-      "role": "member"
-    },
-    {
       "area_id": "area/22",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "PPD",
@@ -8131,7 +8131,7 @@
     },
     {
       "area_id": "area/38",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/923",
@@ -8139,7 +8139,7 @@
     },
     {
       "area_id": "area/38",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/923",
@@ -8147,7 +8147,7 @@
     },
     {
       "area_id": "area/29",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/924",
@@ -8155,7 +8155,7 @@
     },
     {
       "area_id": "area/29",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/924",
@@ -8187,16 +8187,16 @@
     },
     {
       "area_id": "area/28",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/927",
       "role": "member"
     },
     {
       "area_id": "area/28",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "RN",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "person/927",
       "role": "member"
@@ -8211,7 +8211,7 @@
     },
     {
       "area_id": "area/43",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/929",
@@ -8219,10 +8219,17 @@
     },
     {
       "area_id": "area/43",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/929",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/93",
       "role": "member"
     },
     {
@@ -8242,15 +8249,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/93",
-      "role": "member"
-    },
-    {
       "area_id": "area/5",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PC",
       "organization_id": "legislature",
       "person_id": "person/930",
@@ -8258,7 +8258,7 @@
     },
     {
       "area_id": "area/5",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PC",
       "organization_id": "legislature",
       "person_id": "person/930",
@@ -8304,6 +8304,14 @@
     },
     {
       "area_id": "area/13",
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/933",
+      "role": "member"
+    },
+    {
+      "area_id": "area/13",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -8320,14 +8328,6 @@
     },
     {
       "area_id": "area/13",
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/933",
-      "role": "member"
-    },
-    {
-      "area_id": "area/13",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
@@ -8336,7 +8336,7 @@
     },
     {
       "area_id": "area/49",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/934",
@@ -8344,7 +8344,7 @@
     },
     {
       "area_id": "area/49",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/934",
@@ -8416,7 +8416,7 @@
     },
     {
       "area_id": "area/26",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/939",
@@ -8424,7 +8424,7 @@
     },
     {
       "area_id": "area/26",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/939",
@@ -8448,7 +8448,7 @@
     },
     {
       "area_id": "area/9",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/941",
@@ -8456,7 +8456,7 @@
     },
     {
       "area_id": "area/9",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PS",
       "organization_id": "legislature",
       "person_id": "person/941",
@@ -8488,7 +8488,7 @@
     },
     {
       "area_id": "area/10",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/944",
@@ -8496,7 +8496,7 @@
     },
     {
       "area_id": "area/10",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/944",
@@ -8532,22 +8532,6 @@
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/946",
-      "role": "member"
-    },
-    {
-      "area_id": "area/33",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/947",
-      "role": "member"
-    },
-    {
-      "area_id": "area/33",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "DC",
-      "organization_id": "legislature",
-      "person_id": "person/947",
       "role": "member"
     },
     {
@@ -8556,6 +8540,30 @@
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/947",
+      "role": "member"
+    },
+    {
+      "area_id": "area/33",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/947",
+      "role": "member"
+    },
+    {
+      "area_id": "area/33",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "DC",
+      "organization_id": "legislature",
+      "person_id": "person/947",
+      "role": "member"
+    },
+    {
+      "area_id": "area/11",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/948",
       "role": "member"
     },
     {
@@ -8567,14 +8575,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/11",
-      "legislative_period_id": "term/6",
-      "on_behalf_of_id": "RN",
-      "organization_id": "legislature",
-      "person_id": "person/948",
-      "role": "member"
-    },
-    {
       "area_id": "area/21",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "RN",
@@ -8591,8 +8591,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/56",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/95",
@@ -8607,7 +8606,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/56",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "DC",
       "organization_id": "legislature",
       "person_id": "person/95",
@@ -8631,7 +8631,7 @@
     },
     {
       "area_id": "area/59",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/951",
@@ -8639,7 +8639,7 @@
     },
     {
       "area_id": "area/59",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/951",
@@ -8647,7 +8647,7 @@
     },
     {
       "area_id": "area/58",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/952",
@@ -8655,7 +8655,7 @@
     },
     {
       "area_id": "area/58",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/952",
@@ -8687,7 +8687,7 @@
     },
     {
       "area_id": "area/12",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/955",
@@ -8695,7 +8695,7 @@
     },
     {
       "area_id": "area/12",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/955",
@@ -8735,7 +8735,7 @@
     },
     {
       "area_id": "area/51",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/958",
@@ -8743,7 +8743,7 @@
     },
     {
       "area_id": "area/51",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "PPD",
       "organization_id": "legislature",
       "person_id": "person/958",
@@ -8751,7 +8751,7 @@
     },
     {
       "area_id": "area/44",
-      "legislative_period_id": "term/8",
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/959",
@@ -8759,7 +8759,7 @@
     },
     {
       "area_id": "area/44",
-      "legislative_period_id": "term/6",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "UDI",
       "organization_id": "legislature",
       "person_id": "person/959",
@@ -8782,6 +8782,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "RN",
+      "organization_id": "legislature",
+      "person_id": "person/962",
+      "role": "member"
+    },
+    {
       "area_id": "area/5",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "RN",
@@ -8790,7 +8797,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/5",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/962",
@@ -8808,14 +8816,6 @@
       "area_id": "area/5",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "UDI",
-      "organization_id": "legislature",
-      "person_id": "person/962",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5",
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "RN",
       "organization_id": "legislature",
       "person_id": "person/962",
       "role": "member"
@@ -8973,8 +8973,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/46",
-      "legislative_period_id": "term/3",
+      "legislative_period_id": "term/1",
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/98",
@@ -8989,7 +8988,8 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/1",
+      "area_id": "area/46",
+      "legislative_period_id": "term/3",
       "on_behalf_of_id": "PRSD",
       "organization_id": "legislature",
       "person_id": "person/98",

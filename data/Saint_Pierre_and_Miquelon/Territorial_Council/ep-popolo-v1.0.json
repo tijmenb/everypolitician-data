@@ -16,16 +16,12 @@
       "id": "person/Q2851582",
       "identifiers": [
         {
-          "identifier": "0000 0000 5894 7759",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "85951681",
-          "scheme": "viaf"
-        },
-        {
           "identifier": "159972742",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 5894 7759",
+          "scheme": "isni"
         },
         {
           "identifier": "132178117",
@@ -34,6 +30,10 @@
         {
           "identifier": "17313",
           "scheme": "sycomore"
+        },
+        {
+          "identifier": "85951681",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q2851582",
@@ -49,7 +49,12 @@
       "name": "Annick Girardin",
       "other_names": [
         {
-          "lang": "fr",
+          "lang": "da",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
           "name": "Annick Girardin",
           "note": "multilingual"
         },
@@ -59,7 +64,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "nl",
+          "lang": "eo",
           "name": "Annick Girardin",
           "note": "multilingual"
         },
@@ -69,7 +74,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "eo",
+          "lang": "fr",
           "name": "Annick Girardin",
           "note": "multilingual"
         },
@@ -79,7 +84,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "da",
+          "lang": "nl",
           "name": "Annick Girardin",
           "note": "multilingual"
         },
@@ -90,11 +95,6 @@
         },
         {
           "lang": "sv",
-          "name": "Annick Girardin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
           "name": "Annick Girardin",
           "note": "multilingual"
         }
@@ -213,7 +213,7 @@
       "name": "Gérard Grignon",
       "other_names": [
         {
-          "lang": "fr",
+          "lang": "da",
           "name": "Gérard Grignon",
           "note": "multilingual"
         },
@@ -223,12 +223,12 @@
           "note": "multilingual"
         },
         {
-          "lang": "nb",
+          "lang": "fr",
           "name": "Gérard Grignon",
           "note": "multilingual"
         },
         {
-          "lang": "da",
+          "lang": "nb",
           "name": "Gérard Grignon",
           "note": "multilingual"
         },
@@ -384,42 +384,7 @@
       "name": "Stéphane Artano",
       "other_names": [
         {
-          "lang": "fr",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
           "lang": "da",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Stéphane Artano",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
           "name": "Stéphane Artano",
           "note": "multilingual"
         },
@@ -429,7 +394,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Stéphane Artano",
           "note": "multilingual"
         }
@@ -576,7 +576,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2012",
+      "legislative_period_id": "term/2006",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/catherine_de_arburn",
@@ -584,7 +584,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2006",
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/catherine_de_arburn",
@@ -656,7 +656,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2012",
+      "legislative_period_id": "term/2006",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/gérard_briand",
@@ -664,7 +664,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2006",
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/gérard_briand",
@@ -680,7 +680,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2012",
+      "legislative_period_id": "term/2006",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/jean-pierre_lebailly",
@@ -688,7 +688,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2006",
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/jean-pierre_lebailly",
@@ -736,7 +736,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2012",
+      "legislative_period_id": "term/2006",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/nicolas_gourmelon",
@@ -744,7 +744,7 @@
     },
     {
       "area_id": "area/saint-pierre",
-      "legislative_period_id": "term/2006",
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/archipel_demain",
       "organization_id": "legislature",
       "person_id": "person/nicolas_gourmelon",

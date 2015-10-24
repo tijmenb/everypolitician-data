@@ -792,13 +792,6 @@
   },
   "memberships": [
     {
-      "legislative_period_id": "term/31",
-      "on_behalf_of_id": "rep",
-      "organization_id": "legislature",
-      "person_id": "person/adolpho_b._palacios,_sr.",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/30",
       "on_behalf_of_id": "rep",
       "organization_id": "legislature",
@@ -806,10 +799,10 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/32",
+      "legislative_period_id": "term/31",
       "on_behalf_of_id": "rep",
       "organization_id": "legislature",
-      "person_id": "person/aline_a._yamashita,_ph.d.",
+      "person_id": "person/adolpho_b._palacios,_sr.",
       "role": "member"
     },
     {
@@ -821,9 +814,9 @@
     },
     {
       "legislative_period_id": "term/32",
-      "on_behalf_of_id": "dem",
+      "on_behalf_of_id": "rep",
       "organization_id": "legislature",
-      "person_id": "person/benjamin_j.f._cruz",
+      "person_id": "person/aline_a._yamashita,_ph.d.",
       "role": "member"
     },
     {
@@ -835,6 +828,13 @@
     },
     {
       "legislative_period_id": "term/31",
+      "on_behalf_of_id": "dem",
+      "organization_id": "legislature",
+      "person_id": "person/benjamin_j.f._cruz",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/32",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/benjamin_j.f._cruz",
@@ -904,14 +904,14 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/32",
+      "legislative_period_id": "term/30",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/frank_b._aguon,_jr.",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/30",
+      "legislative_period_id": "term/32",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/frank_b._aguon,_jr.",
@@ -925,6 +925,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/30",
+      "on_behalf_of_id": "rep",
+      "organization_id": "legislature",
+      "person_id": "person/frank_f._blas,_jr.",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/31",
       "on_behalf_of_id": "rep",
       "organization_id": "legislature",
@@ -933,13 +940,6 @@
     },
     {
       "legislative_period_id": "term/33",
-      "on_behalf_of_id": "rep",
-      "organization_id": "legislature",
-      "person_id": "person/frank_f._blas,_jr.",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/30",
       "on_behalf_of_id": "rep",
       "organization_id": "legislature",
       "person_id": "person/frank_f._blas,_jr.",
@@ -971,6 +971,20 @@
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/judith_p._guthertz,_dpa",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/30",
+      "on_behalf_of_id": "dem",
+      "organization_id": "legislature",
+      "person_id": "person/judith_t._won_pat,_ed.d.",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/31",
+      "on_behalf_of_id": "dem",
+      "organization_id": "legislature",
+      "person_id": "person/judith_t._won_pat,_ed.d.",
       "role": "member"
     },
     {
@@ -981,21 +995,7 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/31",
-      "on_behalf_of_id": "dem",
-      "organization_id": "legislature",
-      "person_id": "person/judith_t._won_pat,_ed.d.",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/33",
-      "on_behalf_of_id": "dem",
-      "organization_id": "legislature",
-      "person_id": "person/judith_t._won_pat,_ed.d.",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/30",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/judith_t._won_pat,_ed.d.",
@@ -1016,14 +1016,14 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/33",
+      "legislative_period_id": "term/32",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/michael_f.q._san_nicolas",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/32",
+      "legislative_period_id": "term/33",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/michael_f.q._san_nicolas",
@@ -1051,20 +1051,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/31",
-      "on_behalf_of_id": "dem",
-      "organization_id": "legislature",
-      "person_id": "person/rory_j._respicio",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/33",
-      "on_behalf_of_id": "dem",
-      "organization_id": "legislature",
-      "person_id": "person/rory_j._respicio",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/30",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
@@ -1072,7 +1058,21 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/31",
+      "on_behalf_of_id": "dem",
+      "organization_id": "legislature",
+      "person_id": "person/rory_j._respicio",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/32",
+      "on_behalf_of_id": "dem",
+      "organization_id": "legislature",
+      "person_id": "person/rory_j._respicio",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/33",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/rory_j._respicio",
@@ -1100,14 +1100,7 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/33",
-      "on_behalf_of_id": "dem",
-      "organization_id": "legislature",
-      "person_id": "person/thomas_c._ada",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/32",
+      "legislative_period_id": "term/30",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/thomas_c._ada",
@@ -1121,7 +1114,14 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/30",
+      "legislative_period_id": "term/32",
+      "on_behalf_of_id": "dem",
+      "organization_id": "legislature",
+      "person_id": "person/thomas_c._ada",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/33",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/thomas_c._ada",
@@ -1135,14 +1135,14 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/31",
+      "legislative_period_id": "term/30",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/tina_rose_muña_barnes",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/30",
+      "legislative_period_id": "term/31",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/tina_rose_muña_barnes",
@@ -1163,13 +1163,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/31",
-      "on_behalf_of_id": "rep",
-      "organization_id": "legislature",
-      "person_id": "person/v._anthony_ada",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/30",
       "on_behalf_of_id": "rep",
       "organization_id": "legislature",
@@ -1177,7 +1170,7 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/33",
+      "legislative_period_id": "term/31",
       "on_behalf_of_id": "rep",
       "organization_id": "legislature",
       "person_id": "person/v._anthony_ada",
@@ -1191,14 +1184,21 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/31",
+      "legislative_period_id": "term/33",
+      "on_behalf_of_id": "rep",
+      "organization_id": "legislature",
+      "person_id": "person/v._anthony_ada",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/30",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/vicente_c._pangelinan",
       "role": "member"
     },
     {
-      "legislative_period_id": "term/30",
+      "legislative_period_id": "term/31",
       "on_behalf_of_id": "dem",
       "organization_id": "legislature",
       "person_id": "person/vicente_c._pangelinan",
