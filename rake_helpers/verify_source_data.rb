@@ -9,14 +9,14 @@ desc "Verify merged data"
 namespace :verify do
 
   task :load => 'merge_sources:sources/merged.csv' do
-    @csv = csv_table('sources/merged.csv')
+    # plain CSV read — no need for the (much slower) csv_table remapping
+    @csv = CSV.read('sources/merged.csv', headers: true, header_converters: :symbol)
   end
 
   task :check_data => :load do
     @csv.each do |r|
       abort "No `name` in #{r}" if r[:name].to_s.empty?
-
-      r.keys.select { |k| k.to_s.include? '_date' }.each do |d|
+      r.to_hash.keys.select { |k| k.to_s.include? '_date' }.each do |d|
         next if r[d].nil? || r[d].empty?
         if r[d].match /^\d{4}$/ 
           warn "Short #{d} in #{r}" 
