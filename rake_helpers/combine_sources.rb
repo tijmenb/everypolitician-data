@@ -251,7 +251,7 @@ namespace :merge_sources do
             uids = to_patch.map { |r| r[:id] }.uniq
             if uids.count > 1
               warn "Too many IDs: #{uids}".red.on_yellow
-              binding.pry
+              # binding.pry
               next
             end
             to_patch.each do |existing_row|
