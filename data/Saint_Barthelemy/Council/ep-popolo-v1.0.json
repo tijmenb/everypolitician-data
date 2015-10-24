@@ -54,22 +54,17 @@
       "name": "Bruno Magras",
       "other_names": [
         {
-          "lang": "fr",
+          "lang": "da",
+          "name": "Bruno Magras",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
           "name": "Bruno Magras",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Bruno Magras",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Bruno Magras",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
           "name": "Bruno Magras",
           "note": "multilingual"
         },
@@ -89,12 +84,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Bruno Magras",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Bruno Magras",
           "note": "multilingual"
         },
         {
-          "lang": "da",
+          "lang": "nl",
           "name": "Bruno Magras",
           "note": "multilingual"
         },
@@ -104,12 +104,12 @@
           "note": "multilingual"
         },
         {
-          "lang": "sv",
+          "lang": "pl",
           "name": "Bruno Magras",
           "note": "multilingual"
         },
         {
-          "lang": "de",
+          "lang": "sv",
           "name": "Bruno Magras",
           "note": "multilingual"
         }
@@ -199,24 +199,24 @@
       "id": "person/Q385483",
       "identifiers": [
         {
+          "identifier": "121381322",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "0000 0000 2941 9316",
           "scheme": "isni"
         },
         {
-          "identifier": "59119452",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "121381322",
-          "scheme": "bnf"
+          "identifier": "senateur/magras_michel08019v",
+          "scheme": "senatdotfr"
         },
         {
           "identifier": "129032298",
           "scheme": "sudoc"
         },
         {
-          "identifier": "senateur/magras_michel08019v",
-          "scheme": "senatdotfr"
+          "identifier": "59119452",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q385483",
@@ -226,7 +226,7 @@
       "name": "Michel Magras",
       "other_names": [
         {
-          "lang": "fr",
+          "lang": "de",
           "name": "Michel Magras",
           "note": "multilingual"
         },
@@ -241,7 +241,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "de",
+          "lang": "fr",
           "name": "Michel Magras",
           "note": "multilingual"
         }
