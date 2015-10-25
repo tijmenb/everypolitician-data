@@ -1595,6 +1595,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "121396703",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "34269811",
           "scheme": "viaf"
         },
@@ -2278,6 +2282,21 @@
         }
       ],
       "name": "Dr. H. M. FARID AL FAUZI",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "person/1642",
+      "image": "http://dpr.go.id/doksigota/photo/1642.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1642.jpg"
+        }
+      ],
+      "name": "Dr. H. NOOR ACHMAD, MA.",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -3118,6 +3137,10 @@
       "id": "person/1229",
       "identifiers": [
         {
+          "identifier": "096028653",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "6700107",
           "scheme": "viaf"
         },
@@ -3503,21 +3526,6 @@
       ]
     },
     {
-      "id": "person/106",
-      "image": "http://dpr.go.id/doksigota/photo/106.jpg",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/106.jpg"
-        }
-      ],
-      "name": "Drs. H. ELDIE SUWANDIE",
-      "sources": [
-        {
-          "url": "http://dpr.go.id/en/anggota"
-        }
-      ]
-    },
-    {
       "id": "person/1515",
       "image": "http://dpr.go.id/doksigota/photo/1515.jpg",
       "images": [
@@ -3758,6 +3766,10 @@
       "birth_date": "1966-09-25",
       "id": "person/520",
       "identifiers": [
+        {
+          "identifier": "161778135",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "43718970",
           "scheme": "viaf"
@@ -10910,6 +10922,10 @@
       "id": "person/195",
       "identifiers": [
         {
+          "identifier": "129688045",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "215131830",
           "scheme": "viaf"
         },
@@ -12056,6 +12072,21 @@
       ]
     },
     {
+      "id": "person/1641",
+      "image": "http://dpr.go.id/doksigota/photo/1641.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1641.jpg"
+        }
+      ],
+      "name": "RAHMAT NASUTION HAMKA, SH., M. Si.",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "person/1114",
       "image": "http://dpr.go.id/doksigota/photo/1114_Ramson_Sigian.jpg",
       "images": [
@@ -12349,21 +12380,6 @@
           "note": "multilingual"
         }
       ],
-      "sources": [
-        {
-          "url": "http://dpr.go.id/en/anggota"
-        }
-      ]
-    },
-    {
-      "id": "person/1641",
-      "image": "http://dpr.go.id/doksigota/photo/1641.jpg",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/1641.jpg"
-        }
-      ],
-      "name": "Rahmat Nasution Hamka, SH., M. Si.",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -12942,6 +12958,21 @@
       ]
     },
     {
+      "id": "person/1640",
+      "image": "http://dpr.go.id/doksigota/photo/1640.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1640.jpg"
+        }
+      ],
+      "name": "VENNY DEVIANTI, S.Sos",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "person/752",
       "image": "http://dpr.go.id/doksigota/photo/752_VIKTOR_BUNGTILU_LAISKODAT.jpg",
       "images": [
@@ -12980,6 +13011,21 @@
         }
       ],
       "name": "VIVI SUMANTRI JAYABAYA, S.Sos",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "person/106",
+      "image": "http://dpr.go.id/doksigota/photo/106.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/106.jpg"
+        }
+      ],
+      "name": "Venny Devianti, S.Sos",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -13486,10 +13532,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://dpr.go.id/doksigota/photo/A-554_dr._VERNA_GLADIES_MERRY_INKIRIWANG..jpg",
+      "image": "http://dpr.go.id/doksigota/photo/486.jpg",
       "images": [
         {
-          "url": "http://dpr.go.id/doksigota/photo/A-554_dr._VERNA_GLADIES_MERRY_INKIRIWANG..jpg"
+          "url": "http://dpr.go.id/doksigota/photo/486.jpg"
         }
       ],
       "links": [
@@ -16418,11 +16464,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/jawa_barat_ix",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/golkar_party_faction",
+      "organization_id": "legislature",
+      "person_id": "person/1640",
+      "role": "member"
+    },
+    {
       "area_id": "area/kalimantan_tengah",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/indonesian_democratic_party_of_struggle_faction",
       "organization_id": "legislature",
       "person_id": "person/1641",
+      "role": "member"
+    },
+    {
+      "area_id": "area/jawa_tengah_ii",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/golkar_party_faction",
+      "organization_id": "legislature",
+      "person_id": "person/1642",
       "role": "member"
     },
     {
