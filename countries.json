@@ -7110,6 +7110,32 @@
     ]
   },
   {
+    "name": "Somaliland",
+    "country": "Somaliland",
+    "code": "SO-SOM",
+    "slug": "Somaliland",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Somaliland/Representatives/sources",
+        "popolo": "data/Somaliland/Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1445763093",
+        "person_count": 82,
+        "sha": "d204a2f",
+        "legislative_periods": [
+          {
+            "id": "term/2005",
+            "name": "First Parliament",
+            "start_date": "2005-09-29",
+            "slug": "2005",
+            "csv": "data/Somaliland/Representatives/term-2005.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Africa",
     "country": "South Africa",
     "code": "ZA",
