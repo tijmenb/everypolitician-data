@@ -3388,6 +3388,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Jaak Madison",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Мадисон, Яак",
           "note": "multilingual"
@@ -4820,6 +4825,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/KE_Kalev_Kallo.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/KE_Kalev_Kallo.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (commons)",
@@ -4987,6 +4998,10 @@
         {
           "identifier": "e463fafd-cc07-486a-966b-23b6b72ce9ff",
           "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "176146911",
+          "scheme": "sudoc"
         },
         {
           "identifier": "105088450",
@@ -6217,6 +6232,11 @@
         },
         {
           "lang": "et",
+          "name": "Madis Milling",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Madis Milling",
           "note": "multilingual"
         },
@@ -7474,6 +7494,10 @@
       "id": "person/cabaad00-b521-4b45-aed2-67946e6baeb9",
       "identifiers": [
         {
+          "identifier": "080404340",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "83580580",
           "scheme": "viaf"
         },
@@ -7903,6 +7927,7 @@
         }
       ],
       "email": "Martin.Repinski@riigikogu.ee",
+      "gender": "male",
       "given_name": "Martin",
       "id": "person/ce3f9ed0-083c-4d0f-b45a-096610012b5f",
       "identifiers": [

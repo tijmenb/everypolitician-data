@@ -3008,6 +3008,29 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "66499"
+        }
+      ],
+      "email": "ida.ekeroth@riksdagen.se",
+      "gender": "female",
+      "id": "person/0412502344925",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0412502344925_max.jpg",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0412502344925_max.jpg"
+        }
+      ],
+      "name": "Ida Ekeroth",
+      "sources": [
+        {
+          "url": "http://data.riksdagen.se/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "65645"
         }
       ],
@@ -5467,12 +5490,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "66499"
-        }
-      ],
       "email": "mattias.jonsson@riksdagen.se",
       "gender": "male",
       "id": "person/0499755198526",
@@ -8975,6 +8992,14 @@
       "role": "member"
     },
     {
+      "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "S",
+      "organization_id": "legislature",
+      "person_id": "person/0412502344925",
+      "role": "member"
+    },
+    {
       "area_id": "ocd-division/country:se/constituency:uppsala-län",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "FP",
@@ -10220,6 +10245,14 @@
       "on_behalf_of_id": "M",
       "organization_id": "legislature",
       "person_id": "person/0810201628512",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:se/constituency:stockholms-län",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "MP",
+      "organization_id": "legislature",
+      "person_id": "person/0819601620927",
       "role": "member"
     },
     {

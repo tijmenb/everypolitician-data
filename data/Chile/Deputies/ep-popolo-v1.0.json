@@ -1870,6 +1870,13 @@
       "sort_name": "Hernández"
     },
     {
+      "email": "miguelangel.alvarado",
+      "gender": "male",
+      "id": "person/1007",
+      "name": "Miguel Ángel Alvarado Ramírez",
+      "sort_name": "Alvarado"
+    },
+    {
       "gender": "male",
       "id": "person/718",
       "name": "Milenko Vilicic Karnincic",
@@ -2653,6 +2660,14 @@
       "on_behalf_of_id": "PC",
       "organization_id": "legislature",
       "person_id": "person/1006",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PPD",
+      "organization_id": "legislature",
+      "person_id": "person/1007",
       "role": "member"
     },
     {

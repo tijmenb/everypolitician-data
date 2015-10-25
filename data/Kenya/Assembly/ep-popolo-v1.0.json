@@ -7079,7 +7079,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/malindi",
+      "area_id": "area/kilifi_north",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -7915,7 +7915,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/trans-nzoia",
+      "area_id": "area/samburu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -8067,7 +8067,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/tarbaj",
+      "area_id": "area/wajir_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -8115,7 +8115,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kajiado_north",
+      "area_id": "area/kajiado_west",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -8147,7 +8147,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/taveta",
+      "area_id": "area/taita_taveta",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -8664,7 +8664,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kisumu_town_east",
+      "area_id": "area/kisumu_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -9446,6 +9446,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/kajiado_west",
+      "name": "Kajiado West",
+      "type": "constituency"
+    },
+    {
       "id": "area/kakamega",
       "name": "Kakamega",
       "type": "constituency"
@@ -9591,6 +9596,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/kilifi_north",
+      "name": "Kilifi North",
+      "type": "constituency"
+    },
+    {
       "id": "area/kilifi_south",
       "name": "Kilifi South",
       "type": "constituency"
@@ -9666,8 +9676,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/kisumu_town_east",
-      "name": "Kisumu Town East",
+      "id": "area/kisumu_east",
+      "name": "Kisumu East",
       "type": "constituency"
     },
     {
@@ -10341,6 +10351,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/samburu",
+      "name": "Samburu",
+      "type": "constituency"
+    },
+    {
       "id": "area/samburu_east",
       "name": "Samburu East",
       "type": "constituency"
@@ -10443,16 +10458,6 @@
     {
       "id": "area/tana_river",
       "name": "Tana River",
-      "type": "constituency"
-    },
-    {
-      "id": "area/tarbaj",
-      "name": "Tarbaj",
-      "type": "constituency"
-    },
-    {
-      "id": "area/taveta",
-      "name": "Taveta",
       "type": "constituency"
     },
     {

@@ -1297,6 +1297,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21174009",
       "identifiers": [
         {
@@ -2668,6 +2669,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21175197",
       "identifiers": [
         {
@@ -18536,6 +18538,10 @@
           "url": "https://ru.wikipedia.org/wiki/Трюдо,_Джастин"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Justin_Trudeau"
         },
@@ -18751,6 +18757,11 @@
         {
           "lang": "ru",
           "name": "Трюдо, Джастин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Justin Trudeau",
           "note": "multilingual"
         },
         {

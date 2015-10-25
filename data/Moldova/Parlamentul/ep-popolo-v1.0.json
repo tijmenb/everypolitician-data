@@ -210,6 +210,7 @@
     {
       "birth_date": "1973-01-01",
       "email": "Anatolie.Zagorodnii@parlament.md",
+      "gender": "male",
       "id": "person/15",
       "identifiers": [
         {
@@ -313,6 +314,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Andrian_Candu"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Andrian_Candu"
@@ -523,6 +528,7 @@
       ]
     },
     {
+      "birth_date": "1974-07-23",
       "gender": "male",
       "id": "person/574",
       "identifiers": [
@@ -1047,6 +1053,7 @@
       ]
     },
     {
+      "birth_date": "1939-09-17",
       "gender": "male",
       "id": "person/570",
       "identifiers": [
@@ -2983,6 +2990,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/565",
       "identifiers": [
         {
@@ -3762,6 +3770,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/67",
       "identifiers": [
         {
@@ -4137,6 +4146,12 @@
         {
           "identifier": "Q7911417",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Valeriu_Streleț_(2015).png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Valeriu_Streleț_(2015).png"
         }
       ],
       "links": [
@@ -4796,6 +4811,10 @@
       "gender": "male",
       "id": "person/566",
       "identifiers": [
+        {
+          "identifier": "166240966",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "81364992",
           "scheme": "viaf"
