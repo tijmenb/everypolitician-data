@@ -25,7 +25,11 @@ class Fuzzer
         warn "No #{@_incoming_field} in #{incoming_row}".red 
         nil
       else 
-        match = fuzzer.find_with_score(incoming_row[@_incoming_field])
+        match = fuzzer.find_with_score(incoming_row[@_incoming_field]) 
+        unless match
+          warn "No matches for #{incoming_row}"
+          next
+        end
         matched_id = match.first.key?(:id)? match.first[:id] : nil
         data = [ incoming_row[@_incoming_field], match.first[@_existing_field], matched_id, match[1].to_f * 100 ]
         warn "Fuzzed #{data.to_s}"
