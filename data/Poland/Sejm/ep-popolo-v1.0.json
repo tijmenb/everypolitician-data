@@ -65,6 +65,10 @@
           "scheme": "europarlmep"
         },
         {
+          "identifier": "030425107",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "29578171",
           "scheme": "viaf"
         },
@@ -1509,6 +1513,7 @@
       ]
     },
     {
+      "birth_date": "1957-01-01",
       "gender": "male",
       "given_name": "Adam",
       "id": "person/adam-struzik",
@@ -3040,6 +3045,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "mzk2002148165",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "028563239",
           "scheme": "sudoc"
         },
@@ -3181,6 +3190,10 @@
         {
           "identifier": "jn20030314001",
           "scheme": "nkc"
+        },
+        {
+          "identifier": "080022782",
+          "scheme": "sudoc"
         },
         {
           "identifier": "79430209",
@@ -4772,6 +4785,7 @@
       ]
     },
     {
+      "birth_date": "1945-01-01",
       "gender": "male",
       "given_name": "Alfred",
       "id": "person/alfred-domagalski",
@@ -4781,14 +4795,29 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alfred_Domagalski_Sejm_08.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alfred_Domagalski_Sejm_08.JPG"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Alfred_Domagalski"
+        },
+        {
+          "note": "Wikipedia (plwikisource)",
+          "url": "https://plwikisource.wikipedia.org/wiki/Autor:Alfred_Domagalski"
         }
       ],
       "name": "Alfred Domagalski",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Alfred Domagalski",
+          "note": "multilingual"
+        },
         {
           "lang": "pl",
           "name": "Alfred Domagalski",
@@ -8562,6 +8591,8 @@
       ]
     },
     {
+      "birth_date": "1572-01-01",
+      "death_date": "1657-07-14",
       "gender": "male",
       "given_name": "Andrzej",
       "id": "person/andrzej-lipski",
@@ -8573,6 +8604,12 @@
         {
           "identifier": "Q9152767",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/POL_COA_Grabie.svg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/POL_COA_Grabie.svg"
         }
       ],
       "links": [
@@ -9030,6 +9067,11 @@
       "name": "Andrzej Micewski",
       "other_names": [
         {
+          "lang": "fr",
+          "name": "Andrzej Micewski",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Andrzej Micewski",
           "note": "multilingual"
@@ -9244,6 +9286,10 @@
       "given_name": "Andrzej",
       "id": "person/andrzej-ostoja-owsiany",
       "identifiers": [
+        {
+          "identifier": "164022244",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "166566639",
           "scheme": "viaf"
@@ -10760,6 +10806,10 @@
         {
           "identifier": "n96100204",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "130630748",
+          "scheme": "sudoc"
         },
         {
           "identifier": "44629506",
@@ -16844,6 +16894,14 @@
           "url": "https://fr.wikipedia.org/wiki/Beata_Szydło"
         },
         {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Beata_Szydło"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Beata_Szydło"
+        },
+        {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Beata_Szydło"
         },
@@ -16901,6 +16959,16 @@
         },
         {
           "lang": "fr",
+          "name": "Beata Szydło",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Beata Szydło",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
           "name": "Beata Szydło",
           "note": "multilingual"
         },
@@ -19322,6 +19390,11 @@
         },
         {
           "lang": "eo",
+          "name": "Borys Budka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Borys Budka",
           "note": "multilingual"
         },
@@ -23606,6 +23679,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "14963935X",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "6673882",
           "scheme": "viaf"
         },
@@ -24410,6 +24487,10 @@
         {
           "identifier": "n95200429",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "081852401",
+          "scheme": "sudoc"
         },
         {
           "identifier": "36491339",
@@ -29468,6 +29549,7 @@
       ]
     },
     {
+      "birth_date": "1978-09-02",
       "gender": "female",
       "given_name": "Ewa",
       "id": "person/ewa-kołodziej",
@@ -33417,6 +33499,7 @@
       ]
     },
     {
+      "birth_date": "1962-06-01",
       "gender": "male",
       "given_name": "Gwidon",
       "id": "person/gwidon-wójcik",
@@ -36195,6 +36278,7 @@
       ]
     },
     {
+      "birth_date": "1940-12-25",
       "gender": "male",
       "given_name": "Henryk",
       "id": "person/henryk-wujec",
@@ -36897,6 +36981,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Iwona Arent",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Iwona Arent",
           "note": "multilingual"
@@ -37172,10 +37261,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/POL_Warsawa_Izabela_Jaruga-Nowacka_commemorative_plaque.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Izabela_Jaruga-Nowacka_tablica.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/POL_Warsawa_Izabela_Jaruga-Nowacka_commemorative_plaque.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Izabela_Jaruga-Nowacka_tablica.jpg"
         }
       ],
       "links": [
@@ -42078,6 +42167,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "A11768265",
+          "scheme": "nlp"
+        },
+        {
           "identifier": "n96102340",
           "scheme": "nukat"
         },
@@ -44558,6 +44651,10 @@
           "scheme": "nkc"
         },
         {
+          "identifier": "050649922",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "69087349",
           "scheme": "viaf"
         },
@@ -45535,7 +45632,17 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Janusz_Chwierut,_January_2012_(6944415585).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Janusz_Chwierut,_January_2012_(6944415585).jpg"
+        }
+      ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Janusz_Chwierut"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Janusz_Chwierut"
@@ -45603,6 +45710,11 @@
         {
           "lang": "pt",
           "name": "Janusz Chwierut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Януш Хверут",
           "note": "multilingual"
         },
         {
@@ -50307,6 +50419,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Posel-borkowski-jerzy-2013-11m.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Posel-borkowski-jerzy-2013-11m.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -50570,6 +50688,10 @@
         {
           "identifier": "1471411",
           "scheme": "ptbnp"
+        },
+        {
+          "identifier": "081362730",
+          "scheme": "sudoc"
         },
         {
           "identifier": "32833332",
@@ -51180,6 +51302,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "140527400",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "100356433",
           "scheme": "viaf"
         },
@@ -51460,6 +51586,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "032163479",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "85299279",
           "scheme": "viaf"
         },
@@ -51635,6 +51765,12 @@
         {
           "identifier": "Q11724742",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Jerzy_Jankowski_Sejm_11.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Jerzy_Jankowski_Sejm_11.JPG"
         }
       ],
       "links": [
@@ -53813,6 +53949,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "102159521",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "41963608",
           "scheme": "viaf"
         },
@@ -55102,6 +55242,10 @@
         {
           "note": "Wikipedia (plwikiquote)",
           "url": "https://plwikiquote.wikipedia.org/wiki/John_Godson"
+        },
+        {
+          "note": "website",
+          "url": "http://johngodson.pl/"
         }
       ],
       "name": "John Godson",
@@ -57651,6 +57795,7 @@
       ]
     },
     {
+      "birth_date": "1954-08-25",
       "gender": "male",
       "given_name": "Józef",
       "id": "person/józef-szczepańczyk",
@@ -59020,6 +59165,10 @@
         {
           "identifier": "139122443",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm0215186",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0001 1488 3930",
@@ -61451,6 +61600,10 @@
       "given_name": "Konstanty",
       "id": "person/konstanty-miodowicz",
       "identifiers": [
+        {
+          "identifier": "183972678",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "308699137",
           "scheme": "viaf"
@@ -71194,6 +71347,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "033380376",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "100610",
           "scheme": "viaf"
         },
@@ -71674,6 +71831,10 @@
         {
           "identifier": "n2001113279",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "180466771",
+          "scheme": "sudoc"
         },
         {
           "identifier": "101842123",
@@ -72779,6 +72940,10 @@
         {
           "identifier": "12465429d",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "033837236",
+          "scheme": "sudoc"
         },
         {
           "identifier": "85286277",
@@ -74028,6 +74193,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Marek_Opioła_2015.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Marek_Opioła_2015.JPG"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -74230,6 +74401,12 @@
         {
           "identifier": "Q11768396",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marek_Pol.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marek_Pol.jpg"
         }
       ],
       "links": [
@@ -77608,6 +77785,7 @@
       ]
     },
     {
+      "birth_date": "1939-07-16",
       "gender": "male",
       "given_name": "Marian",
       "id": "person/marian-król",
@@ -77888,6 +78066,10 @@
         {
           "identifier": "0000 0001 1630 6176",
           "scheme": "isni"
+        },
+        {
+          "identifier": "029581311",
+          "scheme": "sudoc"
         },
         {
           "identifier": "43416099",
@@ -81759,6 +81941,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/MieczysławGolba_Sejm_2014_01.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/MieczysławGolba_Sejm_2014_01.JPG"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -82828,6 +83016,7 @@
       ]
     },
     {
+      "birth_date": "1961-10-13",
       "gender": "male",
       "id": "person/mirosław-lewandowski",
       "identifiers": [
@@ -84774,6 +84963,10 @@
         {
           "identifier": "/m/0f6w91",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "174936214",
+          "scheme": "sudoc"
         },
         {
           "identifier": "162668994",
@@ -88223,6 +88416,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Przemysław_Wipler"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Przemysław_Wipler"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Przemysław_Wipler"
         },
@@ -90323,6 +90520,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_Maciaszek_Sejm_2015.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_Maciaszek_Sejm_2015.JPG"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (pl)",
@@ -91394,6 +91597,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Roman_Jagieliński_by_Foksal.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Roman_Jagieliński_by_Foksal.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (pl)",
@@ -92278,6 +92487,10 @@
       "given_name": "Ryszard",
       "id": "person/ryszard-bugaj",
       "identifiers": [
+        {
+          "identifier": "12322909X",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "165168778",
           "scheme": "viaf"
@@ -102688,12 +102901,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tadeusz_Mazowiecki_nah.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tadeusz_Mazowiecki_nah.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (pl)",
@@ -104988,6 +105195,10 @@
           "scheme": "nta"
         },
         {
+          "identifier": "03020643X",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "19718477",
           "scheme": "viaf"
         },
@@ -106301,6 +106512,10 @@
       "given_name": "Waldemar",
       "id": "person/waldemar-michna",
       "identifiers": [
+        {
+          "identifier": "133060764",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "79511063",
           "scheme": "viaf"
@@ -111705,6 +111920,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0003 8156 9479",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n86133799",
           "scheme": "lcauth"
         },
@@ -114191,6 +114410,10 @@
         {
           "identifier": "nr2004031825",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "113363044",
+          "scheme": "sudoc"
         },
         {
           "identifier": "3642744",
@@ -118057,6 +118280,11 @@
       "name": "Zygmunt Berdychowski",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Zygmunt Berdychowski",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Zygmunt Berdychowski",
           "note": "multilingual"
@@ -118613,6 +118841,12 @@
         {
           "identifier": "Q8080925",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Łukasz_Abgarowicz_VII_kadencja_Kancelaria_Senatu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Łukasz_Abgarowicz_VII_kadencja_Kancelaria_Senatu.jpg"
         }
       ],
       "links": [
