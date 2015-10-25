@@ -936,6 +936,7 @@
       "name": "Abdul Hadi Derani"
     },
     {
+      "birth_date": "1939-11-10",
       "gender": "male",
       "given_name": "Abdul",
       "id": "person/abdul_halim_abdul_rahman",
@@ -2389,6 +2390,10 @@
       "id": "person/abdullah_ahmad",
       "identifiers": [
         {
+          "identifier": "131184563",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "263737328",
           "scheme": "viaf"
         },
@@ -2401,6 +2406,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Abdullah_Ahmad"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/عبدالله_احمد_(روزنامه‌نگار)"
         },
         {
           "note": "Wikipedia (ms)",
@@ -2431,6 +2440,11 @@
         {
           "lang": "es",
           "name": "Abdullah Ahmad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "عبدالله احمد",
           "note": "multilingual"
         },
         {
@@ -4222,6 +4236,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Ahmad_Zahid_Hamidi"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/아흐마드_자히드_하미디"
         },
         {
           "note": "Wikipedia (ms)",
@@ -11271,6 +11289,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "13101322X",
+          "scheme": "sudoc"
+        },
+        {
           "identifier": "120264648",
           "scheme": "viaf"
         },
@@ -11734,6 +11756,10 @@
         {
           "identifier": "/m/09rxcw4",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "184879604",
+          "scheme": "sudoc"
         },
         {
           "identifier": "313416017",
@@ -12234,6 +12260,7 @@
       "name": "Ismail Idris"
     },
     {
+      "birth_date": "1959-10-02",
       "gender": "male",
       "given_name": "Ismail",
       "id": "person/ismail_kassim",
@@ -13593,6 +13620,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tan_Sri_Joseph_Kurup.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tan_Sri_Joseph_Kurup.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -14100,6 +14133,12 @@
         {
           "identifier": "Q17056625",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Julian_Tan_Kok_Ping.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Julian_Tan_Kok_Ping.jpg"
         }
       ],
       "links": [
@@ -23823,6 +23862,10 @@
           "url": "https://ms.wikipedia.org/wiki/Nancy_Shukri"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/南希苏克里"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Nancy_Shukri"
         }
@@ -23867,6 +23910,11 @@
         {
           "lang": "sv",
           "name": "Nancy Shukri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "南希苏克里",
           "note": "multilingual"
         }
       ]
@@ -25131,6 +25179,12 @@
         {
           "identifier": "Q5243164",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Nur_Jazlan.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Nur_Jazlan.jpg"
         }
       ],
       "links": [
@@ -27353,6 +27407,10 @@
       "gender": "male",
       "id": "person/ramli_ngah_talib",
       "identifiers": [
+        {
+          "identifier": "160110939",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "8950493",
           "scheme": "viaf"
