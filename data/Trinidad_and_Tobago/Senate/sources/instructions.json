@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "jennahowe/trinidad_and_tobago",
+        "query": "SELECT *, 11 AS term FROM senate"
+      },
+      "source": "http://ttparliament.org",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

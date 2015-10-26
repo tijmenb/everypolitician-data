@@ -7810,6 +7810,24 @@
             "csv": "data/Trinidad_and_Tobago/Representatives/term-11.csv"
           }
         ]
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Trinidad_and_Tobago/Senate/sources",
+        "popolo": "data/Trinidad_and_Tobago/Senate/ep-popolo-v1.0.json",
+        "lastmod": "1445882260",
+        "person_count": 31,
+        "sha": "3e0d9b0",
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Republican Parliament",
+            "start_date": "2015-09-23",
+            "slug": "11",
+            "csv": "data/Trinidad_and_Tobago/Senate/term-11.csv"
+          }
+        ]
       }
     ]
   },
