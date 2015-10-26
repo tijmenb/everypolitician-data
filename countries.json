@@ -1136,6 +1136,33 @@
     ]
   },
   {
+    "name": "Brunei",
+    "country": "Brunei",
+    "code": "BN",
+    "slug": "Brunei",
+    "legislatures": [
+      {
+        "name": "Legislative Council of Brunei",
+        "slug": "Legislative-Council",
+        "sources_directory": "data/Brunei/Legislative_Council/sources",
+        "popolo": "data/Brunei/Legislative_Council/ep-popolo-v1.0.json",
+        "lastmod": "1445879055",
+        "person_count": 19,
+        "sha": "e7cd2d6",
+        "legislative_periods": [
+          {
+            "end_date": "2015-03-24",
+            "id": "term/11",
+            "name": "11th Legislative Council",
+            "start_date": "2015-03-05",
+            "slug": "11",
+            "csv": "data/Brunei/Legislative_Council/term-11.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bulgaria",
     "country": "Bulgaria",
     "code": "BG",
