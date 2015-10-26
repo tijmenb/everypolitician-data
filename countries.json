@@ -7788,6 +7788,32 @@
     ]
   },
   {
+    "name": "Trinidad and Tobago",
+    "country": "Trinidad and Tobago",
+    "code": "TT",
+    "slug": "Trinidad-and-Tobago",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Trinidad_and_Tobago/Representatives/sources",
+        "popolo": "data/Trinidad_and_Tobago/Representatives/ep-popolo-v1.0.json",
+        "lastmod": "1445882212",
+        "person_count": 42,
+        "sha": "6bdd7ce",
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Republican Parliament",
+            "start_date": "2015-09-23",
+            "slug": "11",
+            "csv": "data/Trinidad_and_Tobago/Representatives/term-11.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Tunisia",
     "country": "Tunisia",
     "code": "TN",
