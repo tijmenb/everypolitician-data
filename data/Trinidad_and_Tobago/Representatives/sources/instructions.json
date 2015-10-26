@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "jennahowe/trinidad_and_tobago",
-        "query": "SELECT * FROM house_of_representatives"
+        "query": "SELECT *, 11 AS term FROM house_of_representatives"
       },
       "source": "http://ttparliament.org",
       "type": "membership"
