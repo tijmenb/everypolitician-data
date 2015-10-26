@@ -7771,15 +7771,16 @@
         "slug": "Representatives",
         "sources_directory": "data/Trinidad_and_Tobago/Representatives/sources",
         "popolo": "data/Trinidad_and_Tobago/Representatives/ep-popolo-v1.0.json",
-        "lastmod": "1445880156",
+        "lastmod": "1445882212",
         "person_count": 42,
-        "sha": "16ee610",
+        "sha": "6bdd7ce",
         "legislative_periods": [
           {
-            "id": "term/11th_republican_parliament",
+            "id": "term/11",
             "name": "11th Republican Parliament",
-            "slug": "11th_republican_parliament",
-            "csv": "data/Trinidad_and_Tobago/Representatives/term-11th_republican_parliament.csv"
+            "start_date": "2015-09-23",
+            "slug": "11",
+            "csv": "data/Trinidad_and_Tobago/Representatives/term-11.csv"
           }
         ]
       }
