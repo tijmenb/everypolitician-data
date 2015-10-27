@@ -31,7 +31,7 @@ class Fuzzer
           next
         end
         matched_uuid = match.first.key?(:uuid)? match.first[:uuid] : nil
-        data = [ incoming_row[@_incoming_field], incoming_row[:id], match.first[@_existing_field], matched_uuid, match[1].to_f * 100 ]
+        data = [ incoming_row[:id], incoming_row[@_incoming_field], matched_uuid, match.first[@_existing_field], match[1].to_f * 100 ]
         warn "Fuzzed #{data.to_s}"
         data
       end
@@ -49,7 +49,7 @@ class Reconciler
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
    
-    @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[1], r.to_hash] }] : {}
+    @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[0], r.to_hash] }] : {}
   end
 
   def existing
@@ -258,7 +258,7 @@ namespace :merge_sources do
             #   csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
             #   matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
             # end
-            headers = [incoming_fieldname, 'id', existing_fieldname, 'uuid', 'confidence']
+            headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
             rows = matched.reject { |match| match[0].downcase == match[1].downcase }
             html = <<-EOD
 <html>
@@ -278,8 +278,8 @@ $(function() {
   var table = $('table');
   $.each(matches, function(i, match) {
     var row = $('<tr>');
-    $('<td>').addClass('existing').text(match[2]).data('uuid', match[3]).data('name', match[2]).droppable({drop: function(e, ui) {console.log("Dropped", ui.draggable)}}).appendTo(row);
-    var td2 = $('<td>').addClass('incoming').text(match[0]).data('id', match[1]).data('name', match[0]).draggable({snap: 'td'}).appendTo(row);
+    $('<td>').addClass('existing').text(match[3]).data('uuid', match[2]).data('name', match[3]).droppable({drop: function(e, ui) {console.log("Dropped", ui.draggable)}}).appendTo(row);
+    var td2 = $('<td>').addClass('incoming').text(match[1]).data('id', match[0]).data('name', match[1]).draggable({snap: 'td'}).appendTo(row);
     var span = $('<span/>').text('x').appendTo(td2);
     table.append(row);
     span.click(function(e) {
@@ -297,9 +297,9 @@ $(function() {
     $('table tr').each(function(i, row) {
       var existing = $('.existing', row).data('name');
       var incoming = $('.incoming', row).data('name');
-      var id = $('.existing', row).data('uuid');
+      var uuid = $('.existing', row).data('uuid');
       var incomingId = $('.incoming', row).data('id');
-      csv.push([incoming, incomingId, existing, id, null].join(','));
+      csv.push([incomingId, incoming, uuid, existing, null].join(','));
     });
     $('<textarea>').val(csv.join('\\n')).appendTo('body');
   });
