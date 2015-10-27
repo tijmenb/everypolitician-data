@@ -199,8 +199,21 @@ namespace :merge_sources do
     instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src| 
       file = src[:file] 
       puts "Add memberships from #{file}".magenta
-      csv_table(file).each do |row|
+      ids_file = file.sub(/.csv$/, '-ids.csv')
+      id_map = {}
+      if File.exists?(ids_file)
+        id_map = Hash[CSV.table(ids_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
+      end
+      table = csv_table(file)
+      abort "No id column found for #{src[:file]}" unless table.first.keys.include?(:id)
+      table.each do |row|
+        # Assume that incoming data has no useful uuid column
+        row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
         merged_rows << row.to_hash
+      end
+      CSV.open(ids_file, 'w') do |csv|
+        csv << [:id, :uuid]
+        id_map.each { |id, uuid| csv << [id, uuid] }
       end
     end
 
