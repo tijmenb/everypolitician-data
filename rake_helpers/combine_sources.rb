@@ -240,12 +240,38 @@ namespace :merge_sources do
             rows = matched.reject { |match| match[0].downcase == match[1].downcase }
             html = <<-EOD
 <html>
+<head>
 <meta charset="utf-8">
+<style>
+dl { border: 1px solid #000; margin: 2em; width: 300px; overflow: hidden; }
+dt { float: left; clear: left; width: 150px; color: #f00;}
+dd { color: #0a0; white-space: nowrap;}
+
+dd {
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+
+</style>
+
 <script src="http://code.jquery.com/jquery.js"></script>
 <script>
 window.headers = #{headers.to_json};
 window.matches = #{rows.to_json};
+$(function() {
+  var dl = $('dl');
+  $.each(matches, function(i, match) {
+    $('<dt>').text(match[1]).appendTo(dl);
+    $('<dd>').text(match[0]).appendTo(dl);
+  });
+});
 </script>
+</head>
+<body>
+<dl></dl>
+</body>
 </html>
             EOD
             html_filename = rec_filename.gsub('.csv', '.html')
