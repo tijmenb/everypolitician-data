@@ -31,7 +31,7 @@ class Fuzzer
           next
         end
         matched_id = match.first.key?(:id)? match.first[:id] : nil
-        data = [ incoming_row[@_incoming_field], match.first[@_existing_field], matched_id, match[1].to_f * 100 ]
+        data = [ incoming_row[@_incoming_field], incoming_row[:id], match.first[@_existing_field], matched_id, match[1].to_f * 100 ]
         warn "Fuzzed #{data.to_s}"
         data
       end
@@ -236,7 +236,7 @@ namespace :merge_sources do
             #   csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
             #   matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
             # end
-            headers = [incoming_fieldname, existing_fieldname, 'id', 'confidence']
+            headers = [incoming_fieldname, 'incoming_id', existing_fieldname, 'id', 'confidence']
             rows = matched.reject { |match| match[0].downcase == match[1].downcase }
             html = <<-EOD
 <html>
@@ -267,8 +267,8 @@ $(function() {
   var table = $('table');
   $.each(matches, function(i, match) {
     var row = $('<tr>');
-    $('<td>').addClass('existing').text(match[1]).data('existing-id', match[2]).appendTo(row);
-    var td2 = $('<td>').addClass('incoming').text(match[0]).appendTo(row);
+    $('<td>').addClass('existing').text(match[2]).data('id', match[3]).data('name', match[2]).appendTo(row);
+    var td2 = $('<td>').addClass('incoming').text(match[0]).data('id', match[1]).data('name', match[0]).appendTo(row);
     var span = $('<span/>').text('x').appendTo(td2);
     table.append(row);
     span.click(function(e) {
@@ -284,10 +284,11 @@ $(function() {
     var csv = [];
     csv.push(headers.join(','));
     $('table tr').each(function(i, row) {
-      var existing = $('.existing', row).text();
-      var incoming = $('.incoming', row).text();
-      var id = $('.existing', row).data('existing-id');
-      csv.push([incoming, existing, id, null].join(','));
+      var existing = $('.existing', row).data('name');
+      var incoming = $('.incoming', row).data('name');
+      var id = $('.existing', row).data('id');
+      var incomingId = $('.incoming', row).data('id');
+      csv.push([incoming, incomingId, existing, id, null].join(','));
     });
     $('<textarea>').val(csv.join('\\n')).appendTo('body');
   });
