@@ -242,23 +242,10 @@ namespace :merge_sources do
 <html>
 <head>
 <meta charset="utf-8">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 <style>
-dl { border: 1px solid #000; margin: 2em; width: 400px; overflow: hidden; }
-dt { float: left; clear: left; width: 150px; color: #f00;}
-dd { color: #0a0; white-space: nowrap;}
-
-dd {
-    
-    overflow: hidden;
-    text-overflow: ellipsis;
-    
-}
-span {
-  float: right;
-  cursor: pointer;
-}
+span { float: right; }
 </style>
-
 <script src="http://code.jquery.com/jquery.js"></script>
 <script>
 window.headers = #{headers.to_json};
@@ -296,8 +283,16 @@ $(function() {
 </script>
 </head>
 <body>
-<table></table>
+<div class="container">
+<table class="table">
+  <tr>
+    <th>Existing</th>
+    <th>Incoming</th>
+    <th></th>
+  </tr>
+</table>
 <a href="#" id="generate-csv">Generate CSV</a>
+</div>
 </body>
 </html>
             EOD
