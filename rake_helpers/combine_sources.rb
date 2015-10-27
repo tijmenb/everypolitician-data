@@ -66,6 +66,10 @@ class Reconciler
       return []
     end
 
+    if match = @_reconciled[incoming_row[:id]]
+      return existing_by_id[match[:id].to_s] if match[:id]
+    end
+
     # Short-circuit if we've already been told who this matches (either by ID or field)
     if preset = @_reconciled[incoming_row[@_incoming_field]]
       return existing_by_id[ preset[:id].to_s ] if preset[:id] 
