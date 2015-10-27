@@ -243,7 +243,7 @@ namespace :merge_sources do
 <head>
 <meta charset="utf-8">
 <style>
-dl { border: 1px solid #000; margin: 2em; width: 300px; overflow: hidden; }
+dl { border: 1px solid #000; margin: 2em; width: 400px; overflow: hidden; }
 dt { float: left; clear: left; width: 150px; color: #f00;}
 dd { color: #0a0; white-space: nowrap;}
 
@@ -253,7 +253,10 @@ dd {
     text-overflow: ellipsis;
     
 }
-
+span {
+  float: right;
+  cursor: pointer;
+}
 </style>
 
 <script src="http://code.jquery.com/jquery.js"></script>
@@ -261,16 +264,26 @@ dd {
 window.headers = #{headers.to_json};
 window.matches = #{rows.to_json};
 $(function() {
-  var dl = $('dl');
+  var table = $('table');
   $.each(matches, function(i, match) {
-    $('<dt>').text(match[1]).appendTo(dl);
-    $('<dd>').text(match[0]).appendTo(dl);
+    var row = $('<tr>');
+    $('<td>').text(match[1]).appendTo(row);
+    var td2 = $('<td>').text(match[0]).appendTo(row);
+    var span = $('<span/>').text('x').appendTo(td2);
+    table.append(row);
+    span.click(function(e) {
+      e.preventDefault();
+      var newRow = $('<tr>');
+      $('<td>').appendTo(newRow);
+      span.closest('td').appendTo(newRow);
+      newRow.appendTo(table);
+    });
   });
 });
 </script>
 </head>
 <body>
-<dl></dl>
+<table></table>
 </body>
 </html>
             EOD
