@@ -267,8 +267,8 @@ $(function() {
   var table = $('table');
   $.each(matches, function(i, match) {
     var row = $('<tr>');
-    $('<td>').text(match[1]).appendTo(row);
-    var td2 = $('<td>').text(match[0]).appendTo(row);
+    $('<td>').addClass('existing').text(match[1]).data('existing-id', match[2]).appendTo(row);
+    var td2 = $('<td>').addClass('incoming').text(match[0]).appendTo(row);
     var span = $('<span/>').text('x').appendTo(td2);
     table.append(row);
     span.click(function(e) {
@@ -279,11 +279,24 @@ $(function() {
       newRow.appendTo(table);
     });
   });
+  $('#generate-csv').click(function(e) {
+    e.preventDefault();
+    var csv = [];
+    csv.push(headers.join(','));
+    $('table tr').each(function(i, row) {
+      var existing = $('.existing', row).text();
+      var incoming = $('.incoming', row).text();
+      var id = $('.existing', row).data('existing-id');
+      csv.push([incoming, existing, id, null].join(','));
+    });
+    $('<textarea>').val(csv.join('\\n')).appendTo('body');
+  });
 });
 </script>
 </head>
 <body>
 <table></table>
+<a href="#" id="generate-csv">Generate CSV</a>
 </body>
 </html>
             EOD
