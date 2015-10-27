@@ -232,11 +232,25 @@ namespace :merge_sources do
             fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
-            CSV.open(rec_filename, "wb") do |csv|
-              csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
-              matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
-            end
-            abort "Created #{rec_filename} — please check it and re-run".green
+            # CSV.open(rec_filename, "wb") do |csv|
+            #   csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
+            #   matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
+            # end
+            headers = [incoming_fieldname, existing_fieldname, 'id', 'confidence']
+            rows = matched.reject { |match| match[0].downcase == match[1].downcase }
+            html = <<-EOD
+<html>
+<meta charset="utf-8">
+<script src="http://code.jquery.com/jquery.js"></script>
+<script>
+window.headers = #{headers.to_json};
+window.matches = #{rows.to_json};
+</script>
+</html>
+            EOD
+            html_filename = rec_filename.gsub('.csv', '.html')
+            File.write(html_filename, html)
+            abort "Created #{html_filename} — please check it and re-run".green
           end
         end
 
