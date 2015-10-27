@@ -250,7 +250,9 @@ namespace :merge_sources do
 <style>
 span { float: right; }
 </style>
+<link rel="stylesheet" rel="http://code.jquery.com/ui/1.11.4/themes/ui-darkness/jquery-ui.css">
 <script src="http://code.jquery.com/jquery.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>
 window.headers = #{headers.to_json};
 window.matches = #{rows.to_json};
@@ -258,8 +260,8 @@ $(function() {
   var table = $('table');
   $.each(matches, function(i, match) {
     var row = $('<tr>');
-    $('<td>').addClass('existing').text(match[2]).data('id', match[3]).data('name', match[2]).appendTo(row);
-    var td2 = $('<td>').addClass('incoming').text(match[0]).data('id', match[1]).data('name', match[0]).appendTo(row);
+    $('<td>').addClass('existing').text(match[2]).data('id', match[3]).data('name', match[2]).droppable({drop: function(e, ui) {console.log("Dropped", ui.draggable)}}).appendTo(row);
+    var td2 = $('<td>').addClass('incoming').text(match[0]).data('id', match[1]).data('name', match[0]).draggable({snap: 'td'}).appendTo(row);
     var span = $('<span/>').text('x').appendTo(td2);
     table.append(row);
     span.click(function(e) {
