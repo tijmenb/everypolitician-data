@@ -42,14 +42,14 @@ end
 
 class Reconciler
 
-  def initialize(existing_rows, instructions, precanned)
+  def initialize(existing_rows, instructions, reconciled_csv)
     @_existing_rows = existing_rows
     @_instructions  = instructions
     warn "Deprecated use of 'overrides'".cyan if @_instructions.include? :overrides
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
    
-    @_instructions[:overrides] = precanned ? Hash[precanned.map { |r| [r.to_hash.values[0], r.to_hash] }] : {}
+    @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[1], r.to_hash] }] : {}
   end
 
   def existing
@@ -67,7 +67,7 @@ class Reconciler
     end
 
     # Short-circuit if we've already been told who this matches (either by ID or field)
-    if preset = @_instructions[:overrides][incoming_row[@_incoming_field]]
+    if preset = @_reconciled[incoming_row[@_incoming_field]]
       return existing_by_id[ preset[:id].to_s ] if preset[:id] 
       return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ] 
     end
