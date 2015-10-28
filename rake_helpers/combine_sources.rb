@@ -260,68 +260,9 @@ namespace :merge_sources do
             # end
             headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
             rows = matched.reject { |match| match[0].downcase == match[1].downcase }
-            html = <<-EOD
-<html>
-<head>
-<meta charset="utf-8">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-<style>
-span { float: right; }
-</style>
-<link rel="stylesheet" rel="http://code.jquery.com/ui/1.11.4/themes/ui-darkness/jquery-ui.css">
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script>
-window.headers = #{headers.to_json};
-window.matches = #{rows.to_json};
-$(function() {
-  var table = $('table');
-  $.each(matches, function(i, match) {
-    var row = $('<tr>');
-    $('<td>').addClass('existing').text(match[3]).data('uuid', match[2]).data('name', match[3]).droppable({drop: function(e, ui) {console.log("Dropped", ui.draggable)}}).appendTo(row);
-    var td2 = $('<td>').addClass('incoming').text(match[1]).data('id', match[0]).data('name', match[1]).draggable({snap: 'td'}).appendTo(row);
-    var span = $('<span/>').text('x').appendTo(td2);
-    table.append(row);
-    span.click(function(e) {
-      e.preventDefault();
-      var newRow = $('<tr>');
-      $('<td>').appendTo(newRow);
-      span.closest('td').appendTo(newRow);
-      newRow.appendTo(table);
-    });
-  });
-  $('#generate-csv').click(function(e) {
-    e.preventDefault();
-    var csv = [];
-    csv.push(headers.join(','));
-    $('table tr').each(function(i, row) {
-      var existing = $('.existing', row).data('name');
-      var incoming = $('.incoming', row).data('name');
-      var uuid = $('.existing', row).data('uuid');
-      var incomingId = $('.incoming', row).data('id');
-      csv.push([incomingId, incoming, uuid, existing, null].join(','));
-    });
-    $('<textarea>').val(csv.join('\\n')).appendTo('body');
-  });
-});
-</script>
-</head>
-<body>
-<div class="container">
-<table class="table">
-  <tr>
-    <th>Existing</th>
-    <th>Incoming</th>
-    <th></th>
-  </tr>
-</table>
-<a href="#" id="generate-csv">Generate CSV</a>
-</div>
-</body>
-</html>
-            EOD
+            html = ERB.new(File.read(File.expand_path('../../templates/reconciliation.html.erb', __FILE__)))
             html_filename = rec_filename.gsub('.csv', '.html')
-            File.write(html_filename, html)
+            File.write(html_filename, html.result(binding))
             abort "Created #{html_filename} — please check it and re-run".green
           end
         end
