@@ -36,16 +36,16 @@ jQuery(function($) {
     row.append(incoming);
     table.append(row);
 
-    var span = $('<span/>').text('x').appendTo(incoming);
+    var span = $('<span/>').addClass('remove').text('x').appendTo(incoming);
     span.click(function(e) {
       e.preventDefault();
       var newRow = $('<tr>');
       var manual = $('<td>').addClass('existing');
-      var input = $('.js-merged-rows').clone().show();
+      var input = $('.js-merged-rows').clone().show().removeClass('js-merged-rows');
       input.change(function(e) {
         console.log("Changed input to ", $(this).val());
       });
-      input.appendTo(manual);
+      input.appendTo(manual).select2();
       manual.appendTo(newRow);
       span.closest('td').appendTo(newRow);
       newRow.appendTo(table);
@@ -68,7 +68,11 @@ jQuery(function($) {
       var existing;
       if ($('select', $existing).length >= 1) {
         uuid = $('select', $existing).val();
-        existing = $('select option:selected', $existing).text();
+        if (uuid) {
+          existing = $('select option:selected', $existing).text();
+        } else {
+          existing = '';
+        }
       } else {
         uuid = $existing.data('uuid');
         existing = $existing.data('text');
