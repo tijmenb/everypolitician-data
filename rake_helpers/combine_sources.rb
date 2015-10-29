@@ -259,7 +259,6 @@ namespace :merge_sources do
             #   matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
             # end
             headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
-            rows = matched.reject { |match| match[0].downcase == match[1].downcase }
             html = ERB.new(File.read(File.expand_path('../../templates/reconciliation.html.erb', __FILE__)))
             html_filename = rec_filename.gsub('.csv', '.html')
             File.write(html_filename, html.result(binding))

@@ -11,7 +11,7 @@ span { float: right; }
     <script>
 
 var headers = <%= Yajl::Encoder.encode(headers, html_safe: true) %>;
-var matches = <%= Yajl::Encoder.encode(rows, html_safe: true) %>;
+var matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
 
 jQuery(function($) {
   var table = $('table');
