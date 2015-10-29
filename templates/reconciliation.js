@@ -1,6 +1,11 @@
 jQuery(function($) {
   var table = $('table');
   $.each(matches, function(i, match) {
+    // Skip 100 confidence for now
+    // TODO: This will get removed when we display everyone we know about
+    if (match[4] == 100) {
+      return;
+    }
     var row = $('<tr>');
     var existing = $('<td>').addClass('existing').text(match[3]).data({uuid: match[2], text: match[3]});
     existing.droppable({
@@ -35,7 +40,13 @@ jQuery(function($) {
     span.click(function(e) {
       e.preventDefault();
       var newRow = $('<tr>');
-      $('<td>').appendTo(newRow);
+      var manual = $('<td>').addClass('existing');
+      var input = $('.js-merged-rows').clone().show();
+      input.change(function(e) {
+        console.log("Changed input to ", $(this).val());
+      });
+      input.appendTo(manual);
+      manual.appendTo(newRow);
       span.closest('td').appendTo(newRow);
       newRow.appendTo(table);
     });
@@ -50,10 +61,18 @@ jQuery(function($) {
       if ($('th', row).length > 0) {
         return;
       }
-      var existing = $('.existing', row).data('text');
-      var incoming = $('.incoming', row).data('text');
-      var uuid = $('.existing', row).data('uuid');
       var id = $('.incoming', row).data('id');
+      var incoming = $('.incoming', row).data('text');
+      var $existing = $('.existing', row);
+      var uuid;
+      var existing;
+      if ($('select', $existing).length >= 1) {
+        uuid = $('select', $existing).val();
+        existing = $('select option:selected', $existing).text();
+      } else {
+        uuid = $existing.data('uuid');
+        existing = $existing.data('text');
+      }
       csv.push([id, incoming, uuid, existing, null].join(','));
     });
     $('#csv-output').val(csv.join('\n'));
