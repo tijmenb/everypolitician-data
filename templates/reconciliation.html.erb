@@ -9,9 +9,11 @@ span { float: right; }
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <script>
-window.headers = <%= headers.to_json %>;
-window.matches = <%= rows.to_json %>;
-$(function() {
+
+var headers = <%= Yajl::Encoder.encode(headers, html_safe: true) %>;
+var matches = <%= Yajl::Encoder.encode(rows, html_safe: true) %>;
+
+jQuery(function($) {
   var table = $('table');
   $.each(matches, function(i, match) {
     var row = $('<tr>');
