@@ -64,7 +64,7 @@ task 'countries.json' do
         json_file = h + '/ep-popolo-v1.0.json'
         popolo = json_from(json_file)
 
-        cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{h}"
+        cmd = "git --no-pager log --format='%h|%at' -1 #{h}"
         (sha, lastmod) = `#{cmd}`.chomp.split('|')
         lname = name_from(popolo)
         lslug = h.split('/').last.tr('_', '-')
