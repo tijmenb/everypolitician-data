@@ -213,9 +213,12 @@ namespace :merge_sources do
       incoming_data = csv_table(pd[:file])
       
       approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
-      approaches.each do |merger|
+      approaches.each_with_index do |merger, i|
         warn "  Match incoming #{merger[:incoming_field]} to #{merger[:existing_field]}"
-        merger[:report_missing] = true unless merger.key? :report_missing
+        unless merger.key? :report_missing
+          # By default only report people who are still unmatched at the end
+          merger[:report_missing] = (i == approaches.size - 1)
+        end
 
         # TODO complain if this isn't the last step — all prior ones
         # should be exact matches
