@@ -254,10 +254,6 @@ namespace :merge_sources do
             fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
-            # CSV.open(rec_filename, "wb") do |csv|
-            #   csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
-            #   matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
-            # end
             headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
             html = ERB.new(File.read(File.expand_path('../../templates/reconciliation.html.erb', __FILE__)))
             html_filename = rec_filename.gsub('.csv', '.html')
