@@ -40,7 +40,7 @@ jQuery(function($) {
       var incomingId = $('.incoming', row).data('id');
       csv.push([incomingId, incoming, uuid, existing, null].join(','));
     });
-    $('<textarea>').val(csv.join('\\n')).appendTo('body');
+    $('<textarea>').val(csv.join('\n')).appendTo('body');
   });
 });
 
