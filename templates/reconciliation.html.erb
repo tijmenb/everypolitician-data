@@ -42,7 +42,7 @@ jQuery(function($) {
     });
     row.append(existing);
     var incoming = $('<td>').addClass('incoming').text(match[1]).data({id: match[0], text: match[1]});
-    incoming.draggable();
+    incoming.draggable({revert: 'invalid'});
     row.append(incoming);
     table.append(row);
 
