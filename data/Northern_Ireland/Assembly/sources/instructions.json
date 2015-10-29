@@ -20,7 +20,8 @@
       "type": "wikidata",
       "merge": [{ 
         "incoming_field": "parlid",
-        "existing_field": "identifier__datadotparl"
+        "existing_field": "identifier__datadotparl",
+        "report_missing": false
       },
       { 
         "incoming_field": "name",
