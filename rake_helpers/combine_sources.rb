@@ -258,7 +258,9 @@ namespace :merge_sources do
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
             headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
-            html = ERB.new(File.read(File.expand_path('../../templates/reconciliation.html.erb', __FILE__)))
+            templates_dir = File.expand_path('../../templates', __FILE__)
+            reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
+            html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
             html_filename = rec_filename.gsub('.csv', '.html')
             File.write(html_filename, html.result(binding))
             abort "Created #{html_filename} — please check it and re-run".green
