@@ -258,6 +258,7 @@ namespace :merge_sources do
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
             headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
+            unique_merged_rows = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
             templates_dir = File.expand_path('../../templates', __FILE__)
             reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
             html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))

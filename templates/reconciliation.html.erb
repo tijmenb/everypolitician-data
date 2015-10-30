@@ -33,7 +33,7 @@ window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
           </table>
           <select class="js-merged-rows" style="display: none;">
             <option value="">Select an existing person to match with</option>
-            <% merged_rows.sort_by { |r| r[:name] }.each do |row| %>
+            <% unique_merged_rows.each do |row| %>
               <option value="<%= row[:uuid] %>"><%= row[:name] %></option>
             <% end %>
           </select>
