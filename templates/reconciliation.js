@@ -55,7 +55,7 @@ jQuery(function($) {
   $('#generate-csv').click(function(e) {
     e.preventDefault();
     var csv = [];
-    csv.push(headers.join(','));
+    csv.push(headers);
     $('table tr').each(function(i, row) {
       // Skip header rows
       if ($('th', row).length > 0) {
@@ -77,8 +77,8 @@ jQuery(function($) {
         uuid = $existing.data('uuid');
         existing = $existing.data('text');
       }
-      csv.push([id, incoming, uuid, existing, null].join(','));
+      csv.push([id, incoming, uuid, existing, null]);
     });
-    $('#csv-output').val(csv.join('\n'));
+    $('#csv-output').val(Papa.unparse(csv));
   });
 });
