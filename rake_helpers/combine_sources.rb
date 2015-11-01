@@ -49,7 +49,7 @@ class Reconciler
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
    
-    @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[0], r.to_hash] }] : {}
+    @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[0].to_s, r.to_hash] }] : {}
   end
 
   def existing
@@ -71,7 +71,7 @@ class Reconciler
       return []
     end
 
-    if match = @_reconciled[incoming_row[:id]]
+    if match = @_reconciled[incoming_row[:id].to_s]
       return existing_by_uuid[match[:uuid].to_s] if match[:uuid]
     end
 
