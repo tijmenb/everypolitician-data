@@ -30,8 +30,8 @@ class Fuzzer
           warn "No matches for #{incoming_row}"
           next
         end
-        matched_id = match.first.key?(:id)? match.first[:id] : nil
-        data = [ incoming_row[@_incoming_field], match.first[@_existing_field], matched_id, match[1].to_f * 100 ]
+        matched_uuid = match.first.key?(:uuid)? match.first[:uuid] : nil
+        data = [ incoming_row[:id], incoming_row[@_incoming_field], matched_uuid, match.first[@_existing_field], match[1].to_f * 100 ]
         warn "Fuzzed #{data.to_s}"
         data
       end
@@ -42,22 +42,27 @@ end
 
 class Reconciler
 
-  def initialize(existing_rows, instructions, precanned)
+  def initialize(existing_rows, instructions, reconciled_csv)
     @_existing_rows = existing_rows
     @_instructions  = instructions
     warn "Deprecated use of 'overrides'".cyan if @_instructions.include? :overrides
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
    
-    @_instructions[:overrides] = precanned ? Hash[precanned.map { |r| [r.to_hash.values[0], r.to_hash] }] : {}
+    @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[0].to_s, r.to_hash] }] : {}
   end
 
   def existing
     @_lookup ||= @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
   end
 
+  # TODO: Delete this method once everything uses existing_by_uuid below
   def existing_by_id
     @_lookup_by_id ||= @_existing_rows.group_by { |r| r[:id].to_s }
+  end
+
+  def existing_by_uuid
+    @_lookup_by_uuid ||= @_existing_rows.group_by { |r| r[:uuid].to_s }
   end
 
   def find_all(incoming_row)
@@ -66,8 +71,12 @@ class Reconciler
       return []
     end
 
+    if match = @_reconciled[incoming_row[:id].to_s]
+      return existing_by_uuid[match[:uuid].to_s] if match[:uuid]
+    end
+
     # Short-circuit if we've already been told who this matches (either by ID or field)
-    if preset = @_instructions[:overrides][incoming_row[@_incoming_field]]
+    if preset = @_reconciled[incoming_row[@_incoming_field]]
       return existing_by_id[ preset[:id].to_s ] if preset[:id] 
       return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ] 
     end
@@ -195,8 +204,21 @@ namespace :merge_sources do
     instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src| 
       file = src[:file] 
       puts "Add memberships from #{file}".magenta
-      csv_table(file).each do |row|
+      ids_file = file.sub(/.csv$/, '-ids.csv')
+      id_map = {}
+      if File.exists?(ids_file)
+        id_map = Hash[CSV.table(ids_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
+      end
+      table = csv_table(file)
+      abort "No id column found for #{src[:file]}" unless table.first.keys.include?(:id)
+      table.each do |row|
+        # Assume that incoming data has no useful uuid column
+        row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
         merged_rows << row.to_hash
+      end
+      CSV.open(ids_file, 'w') do |csv|
+        csv << [:id, :uuid]
+        id_map.each { |id, uuid| csv << [id, uuid] }
       end
     end
 
@@ -235,11 +257,14 @@ namespace :merge_sources do
             fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
-            CSV.open(rec_filename, "wb") do |csv|
-              csv << [incoming_fieldname, existing_fieldname, 'id', 'confidence']
-              matched.each { |match| csv << match unless match[0].downcase == match[1].downcase }
-            end
-            abort "Created #{rec_filename} — please check it and re-run".green
+            headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
+            unique_merged_rows = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
+            templates_dir = File.expand_path('../../templates', __FILE__)
+            reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
+            html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
+            html_filename = rec_filename.gsub('.csv', '.html')
+            File.write(html_filename, html.result(binding))
+            abort "Created #{html_filename} — please check it and re-run".green
           end
         end
 
