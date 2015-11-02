@@ -1,9 +1,9 @@
 jQuery(function($) {
   var table = $('table');
   $.each(matches, function(i, match) {
-    // Skip 100 confidence for now
+    // Skip exact matches for now
     // TODO: This will get removed when we display everyone we know about
-    if (match[4] == 100) {
+    if (match[1].toLowerCase() == match[3].toLowerCase()) {
       return;
     }
     var row = $('<tr>');
