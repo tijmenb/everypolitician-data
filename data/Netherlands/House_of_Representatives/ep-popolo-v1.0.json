@@ -3148,6 +3148,20 @@
       "gender": "female",
       "given_name": "Esther",
       "id": "person/ouwehand-e-pvdd",
+      "identifiers": [
+        {
+          "identifier": "/m/03cxk6t",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "vhfk2riblcwm",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "Q434842",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7918_0.jpg?itok=2lyG4Kf3",
       "images": [
         {
@@ -3156,11 +3170,54 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Esther_Ouwehand"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Esther_Ouwehand"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Esther_Ouwehand"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Esther_Ouwehand"
+        },
+        {
           "note": "website",
           "url": "http://www.partijvoordedieren.nl"
         }
       ],
       "name": "Esther Ouwehand",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Esther Ouwehand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Esther Ouwehand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Esther Ouwehand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Esther Ouwehand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Esther Ouwehand",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ouwehand, E.",
       "sources": [
         {
@@ -4996,13 +5053,126 @@
       "gender": "male",
       "given_name": "Henk",
       "id": "person/krol-hcm-50plus",
+      "identifiers": [
+        {
+          "identifier": "/m/0553sf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "101966200X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nm2222461",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "no2014156559",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "170113175",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "vhy1h70ce2uf",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "232418059",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q455186",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8252_0.jpg?itok=5M84pid2",
       "images": [
         {
           "url": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8252_0.jpg?itok=5M84pid2"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Henk_Krol"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Henk_Krol"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Henk_Krol"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Henk_Krol"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Henk_Krol"
+        }
+      ],
       "name": "Henk C M Krol",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Henk Krol",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Krol, H.C.M.",
       "sources": [
         {
@@ -6023,6 +6193,10 @@
       "given_name": "Jeroen",
       "id": "person/wijngaarden-j-van-vvd",
       "identifiers": [
+        {
+          "identifier": "239936",
+          "scheme": "gtaa"
+        },
         {
           "identifier": "vjkljup9bgw0",
           "scheme": "parlement"
@@ -8522,11 +8696,47 @@
     },
     {
       "birth_date": "1972-03-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mariannethieme"
+        }
+      ],
       "email": "marianne.thieme@tweedekamer.nl",
       "family_name": "Thieme",
       "gender": "female",
       "given_name": "Marianne",
       "id": "person/thieme-ml-pvdd",
+      "identifiers": [
+        {
+          "identifier": "169250303",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "/m/026yxxf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2011039760",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "266811825",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "vhey1abyfbxx",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "291434352",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q463434",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7929_0.jpg?itok=Sz85iSl-",
       "images": [
         {
@@ -8535,11 +8745,154 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Мариане_Тиме"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (itwikiquote)",
+          "url": "https://itwikiquote.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (nds_nl)",
+          "url": "https://nds_nl.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "Wikipedia (zea)",
+          "url": "https://zea.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
+          "note": "facebook",
+          "url": "mariannethieme"
+        },
+        {
           "note": "website",
           "url": "http://www.partijvoordedieren.nl"
         }
       ],
       "name": "Marianne L Thieme",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Мариане Тиме",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zea",
+          "name": "Marianne Thieme",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Thieme, M.L.",
       "sources": [
         {
@@ -10294,13 +10647,70 @@
       "gender": "male",
       "given_name": "Norbert",
       "id": "person/klein-npm-klein",
+      "identifiers": [
+        {
+          "identifier": "290947132",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q82771",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8253_0.jpg?itok=XUzoVGRK",
       "images": [
         {
           "url": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8253_0.jpg?itok=XUzoVGRK"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Norbert_Klein_(politician)"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Norbert_Klein"
+        }
+      ],
       "name": "Norbert P M Klein",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Norbert Klein",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Klein, N.P.M.",
       "sources": [
         {
