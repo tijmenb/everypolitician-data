@@ -1,13 +1,20 @@
 jQuery(function($) {
   var table = $('table');
   $.each(matches, function(i, match) {
+    var incomingPerson = incomingPeople.find(function(person) {
+      return person.id === match[0];
+    });
+    var existingPerson = existingPeople.find(function(person) {
+      return person.uuid === match[1];
+    });
+
     // Skip exact matches for now
     // TODO: This will get removed when we display everyone we know about
-    if (match[1].toLowerCase() == match[3].toLowerCase()) {
+    if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
       return;
     }
     var row = $('<tr>');
-    var existing = $('<td>').addClass('existing').text(match[3]).data({uuid: match[2], text: match[3]});
+    var existing = $('<td>').addClass('existing').text(existingPerson.name).data('uuid', existingPerson.uuid);
     existing.droppable({
       activate: function(e, ui) {
         // Add some styles or whatever to indicate where draggable should be dropped
@@ -31,7 +38,7 @@ jQuery(function($) {
       }
     });
     row.append(existing);
-    var incoming = $('<td>').addClass('incoming').text(match[1]).data({id: match[0], text: match[1]});
+    var incoming = $('<td>').addClass('incoming').text(incomingPerson.name).data('id', incomingPerson.id);
     incoming.draggable({revert: 'invalid'});
     row.append(incoming);
     table.append(row);
@@ -55,29 +62,21 @@ jQuery(function($) {
   $('#generate-csv').click(function(e) {
     e.preventDefault();
     var csv = [];
-    csv.push(headers);
+    csv.push(['id', 'uuid']);
     $('table tr').each(function(i, row) {
       // Skip header rows
       if ($('th', row).length > 0) {
         return;
       }
       var id = $('.incoming', row).data('id');
-      var incoming = $('.incoming', row).data('text');
       var $existing = $('.existing', row);
       var uuid;
-      var existing;
       if ($('select', $existing).length >= 1) {
         uuid = $('select', $existing).val();
-        if (uuid) {
-          existing = $('select option:selected', $existing).text();
-        } else {
-          existing = '';
-        }
       } else {
         uuid = $existing.data('uuid');
-        existing = $existing.data('text');
       }
-      csv.push([id, incoming, uuid, existing, null]);
+      csv.push([id, uuid]);
     });
     $('#csv-output').val(Papa.unparse(csv));
   });
