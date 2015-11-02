@@ -31,7 +31,7 @@ class Fuzzer
           next
         end
         matched_uuid = match.first.key?(:uuid)? match.first[:uuid] : nil
-        data = [ incoming_row[:id], incoming_row[@_incoming_field], matched_uuid, match.first[@_existing_field], match[1].to_f * 100 ]
+        data = [incoming_row[:id], matched_uuid, match[1].to_f * 100]
         warn "Fuzzed #{data.to_s}"
         data
       end
@@ -247,8 +247,8 @@ namespace :merge_sources do
         if rec_file = merger[:reconciliation_file]
           rec_filename = File.join "sources", rec_file
 
-          incoming_fieldname = "incoming_" + merger[:incoming_field]
-          existing_fieldname = "existing_" + merger[:existing_field]
+          incoming_field = merger[:incoming_field]
+          existing_field = merger[:existing_field]
 
           if File.exist? rec_filename
             reconciled = CSV.table(rec_filename)
@@ -257,8 +257,7 @@ namespace :merge_sources do
             fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
-            headers = ['id', incoming_fieldname, 'uuid', existing_fieldname, 'confidence']
-            unique_merged_rows = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
+            existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
             templates_dir = File.expand_path('../../templates', __FILE__)
             reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
             html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))

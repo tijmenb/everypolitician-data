@@ -12,8 +12,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
     <script>
-window.headers = <%= Yajl::Encoder.encode(headers, html_safe: true) %>;
+window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
+window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
 window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
+window.existingPeople = <%= Yajl::Encoder.encode(existing_people, html_safe: true) %>;
+window.incomingPeople = <%= Yajl::Encoder.encode(incoming_data, html_safe: true) %>;
     </script>
     <script>
 <%= reconciliation_js %>
@@ -34,7 +37,7 @@ window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
           </table>
           <select class="js-merged-rows" style="display: none;">
             <option value="">Select an existing person to match with</option>
-            <% unique_merged_rows.each do |row| %>
+            <% existing_people.each do |row| %>
               <option value="<%= row[:uuid] %>"><%= row[:name] %></option>
             <% end %>
           </select>
