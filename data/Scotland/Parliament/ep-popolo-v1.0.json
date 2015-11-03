@@ -1342,6 +1342,11 @@
           "lang": "nl",
           "name": "Andrew Arbuckle",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эндрю Арбакль",
+          "note": "multilingual"
         }
       ]
     },
@@ -4572,6 +4577,10 @@
           "url": "https://fr.wikipedia.org/wiki/David_Mundell"
         },
         {
+          "note": "Wikipedia (gd)",
+          "url": "https://gd.wikipedia.org/wiki/Dàibhidh_Mundell"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/David_Mundell"
         },
@@ -6156,6 +6165,11 @@
         {
           "lang": "nl",
           "name": "Elizabeth Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Элизабет Смит",
           "note": "multilingual"
         }
       ]
@@ -10991,6 +11005,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Кеннет Гибсон",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Kenneth Gibson",
           "note": "multilingual"
@@ -11559,6 +11578,10 @@
         {
           "identifier": "579",
           "scheme": "datadotparl"
+        },
+        {
+          "identifier": "mr-george-foulkes",
+          "scheme": "hansard"
         },
         {
           "identifier": "286",
@@ -12375,6 +12398,11 @@
         {
           "lang": "nl",
           "name": "Margaret Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Маргарет Митчелл",
           "note": "multilingual"
         }
       ]
@@ -16338,6 +16366,11 @@
         {
           "lang": "nl",
           "name": "Sandra White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сандра Уайт",
           "note": "multilingual"
         },
         {
@@ -22060,11 +22093,21 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10716",
+      "end_date": "2014-09-23",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "scottish-national-party",
       "organization_id": "legislature",
       "person_id": "person/14120",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/10716",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "person/14120",
+      "role": "member",
+      "start_date": "2014-09-24"
     },
     {
       "area_id": "uk.org.publicwhip/cons/10739",
