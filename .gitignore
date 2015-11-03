@@ -5,3 +5,6 @@ merged.json
 *.pyc
 .bundle
 vendor/
+.sass-cache
+templates/*.css
+templates/*.css.map

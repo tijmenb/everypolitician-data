@@ -1,0 +1,7 @@
+// To build the styles:
+// $ sass --watch --style compressed templates/reconciliation.scss:templates/reconciliation.css
+
+@import 'sass/normalize';
+@import 'sass/variables';
+
+@import 'sass/styles';
