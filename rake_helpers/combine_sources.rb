@@ -17,7 +17,7 @@ class Fuzzer
   end
 
   def fuzzer
-    @_fuzzer ||= FuzzyMatch.new(@_existing_rows, read: @_existing_field)
+    @_fuzzer ||= FuzzyMatch.new(@_existing_rows.uniq { |r| r[:uuid] }, read: @_existing_field)
   end
 
   def find_all
