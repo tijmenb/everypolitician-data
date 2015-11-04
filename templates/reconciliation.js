@@ -92,16 +92,14 @@ var updateUndoButton = function updateUndoButton(){
 jQuery(function($) {
   $.each(matches, function(i, match) {
     var incomingPerson = _.findWhere(incomingPeople, { id: match[0] });
-    var existingPerson = _.findWhere(existingPeople, { uuid: match[1] });
 
-    // Skip exact matches for now
-    // TODO: This will get removed when we display everyone we know about
-    if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
-      return;
-    }
+    var existingPersonHTML = _.map(match[1], function(uuid) {
+      var person = _.findWhere(existingPeople, { uuid: uuid });
+      return renderTemplate('person', { person: person });
+    });
 
     var html = renderTemplate('pairing', {
-      existingPersonHTML: renderTemplate('person', { person: existingPerson }),
+      existingPersonHTML: existingPersonHTML.join("\n"),
       incomingPersonHTML: renderTemplate('person', { person: incomingPerson })
     });
     $('.pairings').append(html);

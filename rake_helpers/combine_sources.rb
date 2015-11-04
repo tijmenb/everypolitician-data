@@ -25,13 +25,13 @@ class Fuzzer
         warn "No #{@_incoming_field} in #{incoming_row}".red
         nil
       else
-        match = fuzzer.find_with_score(incoming_row[@_incoming_field])
-        unless match
+        matches = fuzzer.find_all_with_score(incoming_row[@_incoming_field])
+        unless matches
           warn "No matches for #{incoming_row}"
           next
         end
-        matched_uuid = match.first.key?(:uuid)? match.first[:uuid] : nil
-        data = [incoming_row[:id], matched_uuid, match[1].to_f * 100]
+        matched_uuids = matches[0...3].map { |match| match.first[:uuid] }
+        data = [incoming_row[:id], matched_uuids, matches.first[1].to_f * 100]
         warn "Fuzzed #{data.to_s}"
         data
       end
