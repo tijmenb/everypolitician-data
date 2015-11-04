@@ -27,7 +27,12 @@ var vote = function vote($choice){
     window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
 
-  $pairing.hide().next().show();
+  $pairing.hide();
+  if($pairing.next().length){
+    $pairing.next().show();
+  } else {
+    showOrHideCSV();
+  }
   updateProgressBar();
   updateUndoButton();
 }
