@@ -1,57 +1,90 @@
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css" rel="stylesheet" />
-    <style>
-.remove { float: right; }
-    </style>
+    <style><%= reconciliation_css %></style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
     <script>
-window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
-window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
-window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
-window.existingPeople = <%= Yajl::Encoder.encode(existing_people, html_safe: true) %>;
-window.incomingPeople = <%= Yajl::Encoder.encode(incoming_data, html_safe: true) %>;
+      window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
+      window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
+      window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
+      window.existingPeople = <%= Yajl::Encoder.encode(existing_people, html_safe: true) %>;
+      window.incomingPeople = <%= Yajl::Encoder.encode(incoming_data, html_safe: true) %>;
+      window.votes = [];
     </script>
-    <script>
-<%= reconciliation_js %>
+    <script><%= reconciliation_js %></script>
+
+</head>
+<body>
+    <textarea class="csv"></textarea>
+
+    <div class="progress">
+        <div class="row">
+            <div class="column-8">
+                <div class="progress-bar"><div></div></div>
+            </div>
+            <div class="column-2">
+                <div class="undo">Undo</div>
+            </div>
+            <div class="column-2">
+                <div class="export-csv">Export CSV</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="pairings"></div>
+
+    <!--
+    <a href="#" id="generate-csv">Generate CSV</a>
+    <p>Paste this CSV into <code><%= rec_filename %></code></p>
+    <textarea id="csv-output" rows="10"></textarea>
+    -->
+
+    <script type="text/html" id="pairing">
+        <div class="pairing">
+            <div class="row">
+                <div class="column-6 pairing__incoming">
+                    <h2>Incoming person</h2>
+                    {{ incomingPersonHTML }}
+                </div>
+                <div class="column-6 pairing__choices">
+                    <h2>Potential matches from existing data</h2>
+                    {{ existingPersonHTML }}
+                    <div class="no-matches">None of these match</div>
+                    <div class="skip-person">Skip for now</div>
+                </div>
+            </div>
+        </div>
     </script>
 
-  </head>
-  <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <h1 class="page-title">Reconciliation</h1>
-          <p>Check that the names on the left match the names on the right. If they don't then press the <code>x</code> to the right of the row and it will drop to the bottom. If the row matches someone in the existing data you can choose their name from the dropdown once the row appears at the bottom of the table.</p>
-          <table class="table">
-            <tr>
-              <th>Existing</th>
-              <th>Incoming</th>
-            </tr>
-          </table>
-          <select class="js-merged-rows" style="display: none;">
-            <option value="">Select an existing person to match with</option>
-            <% existing_people.each do |row| %>
-              <option value="<%= row[:uuid] %>"><%= row[:name] %></option>
-            <% end %>
-          </select>
+    <script type="text/html" id="person">
+      {% if(person.uuid){ %}
+        <div class="person" data-uuid="{{ person.uuid }}">
+      {% } else if(person.id){ %}
+        <div class="person" data-id="{{ person.id }}">
+      {% } %}
+            <h1>{{ person.name }}</h1>
+            <dl>
+              {% if(person.gender){ %}
+                <dt>Gender:</dt>
+                <dd>{{ person.gender }}</dd>
+              {% } %}
+              {% if(person.birth_date){ %}
+                <dt>Born:</dt>
+                <dd>{{ person.birth_date }}</dd>
+              {% } %}
+              {% if(person.death_date){ %}
+                <dt>Died:</dt>
+                <dd>{{ person.death_date }}</dd>
+              {% } %}
+              {% if(person.area){ %}
+                <dt>Represents:</dt>
+                <dd>{{ person.area }}</dd>
+              {% } %}
+            </dl>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-3">
-          <p>Once you've reconciled the records above generate the CSV file and then paste the result into <code><%= rec_filename %></code></p>
-          <a href="#" class="btn btn-primary" id="generate-csv">Generate CSV</a>
-        </div>
-        <div class="col-md-9">
-          <textarea id="csv-output" class="form-control" rows="15"></textarea>
-        </div>
-      </div>
-    </div>
-  </body>
+    </script>
+
+</body>
 </html>

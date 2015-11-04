@@ -1,3 +1,4 @@
+require 'sass'
 
 class String
   def tidy
@@ -16,22 +17,22 @@ class Fuzzer
   end
 
   def fuzzer
-    @_fuzzer ||= FuzzyMatch.new(@_existing_rows, read: @_existing_field)
+    @_fuzzer ||= FuzzyMatch.new(@_existing_rows.uniq { |r| r[:uuid] }, read: @_existing_field)
   end
 
   def find_all
     @_incoming_rows.map do |incoming_row|
       if incoming_row[@_incoming_field].to_s.empty?
-        warn "No #{@_incoming_field} in #{incoming_row}".red 
+        warn "No #{@_incoming_field} in #{incoming_row}".red
         nil
-      else 
-        match = fuzzer.find_with_score(incoming_row[@_incoming_field]) 
-        unless match
+      else
+        matches = fuzzer.find_all_with_score(incoming_row[@_incoming_field])
+        unless matches
           warn "No matches for #{incoming_row}"
           next
         end
-        matched_uuid = match.first.key?(:uuid)? match.first[:uuid] : nil
-        data = [incoming_row[:id], matched_uuid, match[1].to_f * 100]
+        matched_uuids = matches[0...3].map { |match| match.first[:uuid] }
+        data = [incoming_row[:id], matched_uuids, matches.first[1].to_f * 100]
         warn "Fuzzed #{data.to_s}"
         data
       end
@@ -48,7 +49,7 @@ class Reconciler
     warn "Deprecated use of 'overrides'".cyan if @_instructions.include? :overrides
     @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
     @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-   
+
     @_reconciled = reconciled_csv ? Hash[reconciled_csv.map { |r| [r.to_hash.values[0].to_s, r.to_hash] }] : {}
   end
 
@@ -67,7 +68,7 @@ class Reconciler
 
   def find_all(incoming_row)
     if incoming_row[@_incoming_field].to_s.empty?
-      # warn "#{incoming_row.reject { |k, v| v.nil? }} has no #{@_incoming_field}" 
+      # warn "#{incoming_row.reject { |k, v| v.nil? }} has no #{@_incoming_field}"
       return []
     end
 
@@ -77,8 +78,8 @@ class Reconciler
 
     # Short-circuit if we've already been told who this matches (either by ID or field)
     if preset = @_reconciled[incoming_row[@_incoming_field]]
-      return existing_by_id[ preset[:id].to_s ] if preset[:id] 
-      return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ] 
+      return existing_by_id[ preset[:id].to_s ] if preset[:id]
+      return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ]
     end
 
     if exact_match = existing[ incoming_row[@_incoming_field].downcase ]
@@ -134,7 +135,7 @@ namespace :merge_sources do
           instructions_url = gh_url + '%s/sources/parlparse/instructions.json'
           cwd = pwd.split("/").last(2).join("/")
 
-          args = { 
+          args = {
             terms_csv: term_file_url % cwd,
             instructions_json: instructions_url % cwd,
           }
@@ -147,7 +148,7 @@ namespace :merge_sources do
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end
       end
-    end 
+    end
   end
 
   REMAP = {
@@ -187,8 +188,8 @@ namespace :merge_sources do
     all_headers = instructions(:sources).find_all { |src|
       src[:type] != 'term'
     }. map { |src| src[:file] }.reduce([]) do |all_headers, file|
-      header_line = File.open(file, &:gets)     
-      all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) } 
+      header_line = File.open(file, &:gets)
+      all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) }
     end
 
     merged_rows = []
@@ -198,11 +199,11 @@ namespace :merge_sources do
       raise "Missing `type` in #{no_type} file"
     end
 
-    # First get all the `membership` rows. 
+    # First get all the `membership` rows.
     # Assume for now that each is unique, and simply concat them
-   
-    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src| 
-      file = src[:file] 
+
+    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'membership' }.each do |src|
+      file = src[:file]
       puts "Add memberships from #{file}".magenta
       ids_file = file.sub(/.csv$/, '-ids.csv')
       id_map = {}
@@ -228,12 +229,12 @@ namespace :merge_sources do
 
     instructions(:sources).find_all { |src| %w(wikidata person).include? src[:type].to_s.downcase }.each do |pd|
       puts "Merging with #{pd[:file]}".magenta
-      raise "No merge instructions" unless pd.key?(:merge) 
+      raise "No merge instructions" unless pd.key?(:merge)
 
       all_headers |= [:identifier__wikidata] if pd[:type] == 'wikidata'
 
       incoming_data = csv_table(pd[:file])
-      
+
       approaches = pd[:merge].class == Hash ? [pd[:merge]] : pd[:merge]
       approaches.each_with_index do |merger, i|
         warn "  Match incoming #{merger[:incoming_field]} to #{merger[:existing_field]}"
@@ -260,6 +261,9 @@ namespace :merge_sources do
             existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
             templates_dir = File.expand_path('../../templates', __FILE__)
             reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
+            reconciliation_scss = File.read(File.join(templates_dir, 'reconciliation.scss'))
+            engine = Sass::Engine.new(reconciliation_scss, syntax: :scss, load_paths: [templates_dir])
+            reconciliation_css = engine.render
             html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
             html_filename = rec_filename.gsub('.csv', '.html')
             File.write(html_filename, html.result(binding))
@@ -267,7 +271,7 @@ namespace :merge_sources do
           end
         end
 
-        
+
         unmatched = []
         reconciler = Reconciler.new(merged_rows, merger, reconciled)
         incoming_data.each do |incoming_row|
@@ -278,7 +282,7 @@ namespace :merge_sources do
           to_patch = reconciler.find_all(incoming_row)
           if to_patch && !to_patch.size.zero?
             # Be careful to take a copy and not delete from the core list
-            to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match] 
+            to_patch = to_patch.select { |r| r[:term].to_s == incoming_row[:term].to_s } if merger[:term_match]
             uids = to_patch.map { |r| r[:id] }.uniq
             if uids.count > 1
               warn "Too many IDs: #{uids}".red.on_yellow
@@ -288,8 +292,8 @@ namespace :merge_sources do
             to_patch.each do |existing_row|
               # For now, only set values that are not already set (or are set to 'unknown')
               # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
-              incoming_row.keys.each do |h| 
-                existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
+              incoming_row.keys.each do |h|
+                existing_row[h] = incoming_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown'
               end
             end
           else
@@ -302,8 +306,8 @@ namespace :merge_sources do
       end
     end
 
-    # Map Areas 
-    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' } 
+    # Map Areas
+    if area = instructions(:sources).find { |src| src[:type].to_s.downcase == 'area' }
       ocds = CSV.table(area[:file], converters: nil).group_by { |r| r[:id] }
 
       all_headers |= [:area, :area_id]
@@ -313,17 +317,17 @@ namespace :merge_sources do
           r[:area] = ocds[r[:area_id]].first[:name] rescue nil
         end
 
-      else 
+      else
         # Generate IDs from names
-        # So far only tested with Australia, so super-simple logic. 
+        # So far only tested with Australia, so super-simple logic.
         # TOOD: Expand this later
 
         fuzzer = FuzzyMatch.new(ocds.values.flatten(1), read: :name)
         finder = ->(r) { fuzzer.find(r[:area], must_match_at_least_one_word: true) }
 
-        override = ->(name) { 
+        override = ->(name) {
           return unless area[:merge].key? :overrides
-          return unless override_id = area[:merge][:overrides][name.to_sym] 
+          return unless override_id = area[:merge][:overrides][name.to_sym]
           return '' if override_id.empty?
           binding.pry
           # FIXME look up in Hash instead
@@ -334,7 +338,7 @@ namespace :merge_sources do
         merged_rows.each do |r|
           raise "existing Area ID: #{r[:area_id]}" if r.key? :area_id
           unless areas.key? r[:area]
-            areas[r[:area]] = override.(r[:area]) || finder.(r) 
+            areas[r[:area]] = override.(r[:area]) || finder.(r)
             if areas[r[:area]].to_s.empty?
               warn "No area match for #{r[:area]}"
             else
@@ -342,7 +346,7 @@ namespace :merge_sources do
             end
           end
           next if areas[r[:area]].to_s.empty?
-          r[:area_id] = areas[r[:area]][:id] 
+          r[:area_id] = areas[r[:area]][:id]
         end
       end
     end
@@ -353,7 +357,7 @@ namespace :merge_sources do
       row[:identifier__everypolitician_legacy] = row[:id]
       row[:id] = row[:uuid]
     end
-    
+
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
       out << all_headers

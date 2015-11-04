@@ -1,83 +1,154 @@
+_.templateSettings = {
+  evaluate: /\{\%(.+?)\%\}/g,
+  interpolate: /\{\{(.+?)\}\}/g,
+  escape: /\{-(.+?)-\}/g
+}
+
+var renderTemplate = function renderTemplate(templateName, data){
+  data = data || {};
+  var source = $('#' + templateName);
+  if(source.length){
+    return _.template(source.html())(data);
+  } else {
+    throw 'renderTemplate Error: Could not find source template with matching #' + templateName;
+  }
+}
+
+var vote = function vote($choice){
+  var $pairing = $choice.parents('.pairing');
+  var incomingPersonID = $('.pairing__incoming .person', $pairing).attr('data-id');
+  var vote = [];
+
+  if($choice.is('.skip-person')) {
+    // do nothing
+  } else if($choice.is('.no-matches')){
+    window.votes.push( [incomingPersonID, null] );
+  } else {
+    window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
+  }
+
+  $pairing.hide();
+  if($pairing.next().length){
+    $pairing.next().show();
+  } else {
+    showOrHideCSV();
+  }
+  updateProgressBar();
+  updateUndoButton();
+}
+
+var updateProgressBar = function updateProgressBar(){
+  var progress = window.votes.length / $('.pairing').length * 100;
+  $('.progress-bar div').animate({
+    width: '' + progress + '%'
+  }, 100);
+}
+
+var generateCSV = function generateCSV(){
+  return Papa.unparse({
+    fields: ['id', 'uuid'],
+    data: window.votes
+  });
+}
+
+var showOrHideCSV = function showOrHideCSV(){
+  var $csv = $('.csv');
+  if($csv.is(':visible')){
+    $csv.slideUp(100);
+  } else {
+    $csv.val(generateCSV());
+    $csv.slideDown(100, function(){
+      $csv.select();
+    });
+    $(document).on('click.dismiss-csv', function(){
+        $csv.slideUp(100);
+        $(document).off('click.dismiss-csv');
+    });
+  }
+}
+
+var undo = function undo(){
+  // Only continue if there's actually something to undo.
+  if(window.votes.length == 0){ return; }
+
+  // Remove last vote from window.votes,
+  // and re-show the most recently hidden pairing.
+  var undoneVote = window.votes.pop();
+  $('.pairing:visible').hide().prev().show();
+
+  // Update the various bits of UI.
+  updateProgressBar();
+  updateUndoButton();
+}
+
+var updateUndoButton = function updateUndoButton(){
+  if(window.votes.length == 0){
+    $('.undo').addClass('disabled');
+  } else {
+    $('.undo').removeClass('disabled');
+  }
+}
+
 jQuery(function($) {
-  var table = $('table');
   $.each(matches, function(i, match) {
-    var incomingPerson = incomingPeople.find(function(person) {
-      return person.id === match[0];
-    });
-    var existingPerson = existingPeople.find(function(person) {
-      return person.uuid === match[1];
-    });
+    var incomingPerson = _.findWhere(incomingPeople, { id: match[0] });
+    var existingPerson = _.findWhere(existingPeople, { uuid: match[1][0] });
 
     // Skip exact matches for now
-    // TODO: This will get removed when we display everyone we know about
     if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
       return;
     }
-    var row = $('<tr>');
-    var existing = $('<td>').addClass('existing').text(existingPerson.name).data('uuid', existingPerson.uuid);
-    existing.droppable({
-      activate: function(e, ui) {
-        // Add some styles or whatever to indicate where draggable should be dropped
-        $(this).css({backgroundColor: 'beige'});
-      },
-      deactivate: function(e, ui) {
-        // Add some styles or whatever to indicate where draggable should be dropped
-        $(this).css({backgroundColor: 'white'});
-      },
-      over: function(e, ui) {
-        // Add some styles or whatever when hovering over a drop target
-        $(this).animate({backgroundColor: 'red'});
-      },
-      out: function(e, ui) {
-        // Add some styles or whatever when user stops hovering on drop target
-        $(this).animate({backgroundColor: 'white'});
-      },
-      drop: function(e, ui) {
-        console.log("Dropped", ui.draggable.data());
-        console.log("Target", $(this).data());
-      }
-    });
-    row.append(existing);
-    var incoming = $('<td>').addClass('incoming').text(incomingPerson.name).data('id', incomingPerson.id);
-    incoming.draggable({revert: 'invalid'});
-    row.append(incoming);
-    table.append(row);
 
-    var span = $('<span/>').addClass('remove').text('x').appendTo(incoming);
-    span.click(function(e) {
-      e.preventDefault();
-      var newRow = $('<tr>');
-      var manual = $('<td>').addClass('existing');
-      var input = $('.js-merged-rows').clone().show().removeClass('js-merged-rows');
-      input.change(function(e) {
-        console.log("Changed input to ", $(this).val());
-      });
-      input.appendTo(manual).select2();
-      manual.appendTo(newRow);
-      span.closest('td').appendTo(newRow);
-      newRow.appendTo(table);
+    var existingPersonHTML = _.map(match[1], function(uuid) {
+      var person = _.findWhere(existingPeople, { uuid: uuid });
+      return renderTemplate('person', { person: person });
     });
+
+    var html = renderTemplate('pairing', {
+      existingPersonHTML: existingPersonHTML.join("\n"),
+      incomingPersonHTML: renderTemplate('person', { person: incomingPerson })
+    });
+    $('.pairings').append(html);
   });
 
-  $('#generate-csv').click(function(e) {
-    e.preventDefault();
-    var csv = [];
-    csv.push(['id', 'uuid']);
-    $('table tr').each(function(i, row) {
-      // Skip header rows
-      if ($('th', row).length > 0) {
-        return;
-      }
-      var id = $('.incoming', row).data('id');
-      var $existing = $('.existing', row);
-      var uuid;
-      if ($('select', $existing).length >= 1) {
-        uuid = $('select', $existing).val();
-      } else {
-        uuid = $existing.data('uuid');
-      }
-      csv.push([id, uuid]);
-    });
-    $('#csv-output').val(Papa.unparse(csv));
+  $('.pairing').eq(0).nextAll().hide();
+
+  updateUndoButton();
+  updateProgressBar();
+
+  $(document).on('click', '.pairing__choices > div', function(){
+    vote($(this));
+  });
+
+  $(document).on('keydown', function(e){
+    if(e.which == 39){
+      var $choice = $('.pairing:visible .skip-person');
+      vote($choice);
+    } else if(e.which == 48){
+      var $choice = $('.pairing:visible .no-matches');
+      vote($choice);
+    } else if(e.which > 48 && e.which < 58){
+      var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
+      vote($choice);
+    } else if(e.keyCode == 27){
+      showOrHideCSV();
+    } else if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)){
+      undo();
+    }
+  });
+
+  $('.undo').on('click', function(){
+    undo();
+  });
+
+  $('.export-csv').on('click', function(e){
+    e.stopPropagation();
+    showOrHideCSV();
+  });
+
+  $('.csv').on('click', function(e){
+    e.stopPropagation();
+  }).on('focus', function(){
+    $(this).select();
   });
 });
