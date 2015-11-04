@@ -28,7 +28,11 @@ var vote = function vote($choice){
   }
 
   $pairing.hide().next().show();
+  updateProgressBar();
+  updateUndoButton();
+}
 
+var updateProgressBar = function updateProgressBar(){
   var progress = window.votes.length / $('.pairing').length * 100;
   $('.progress-bar div').animate({
     width: '' + progress + '%'
@@ -47,7 +51,7 @@ var showOrHideCSV = function showOrHideCSV(){
   if($csv.is(':visible')){
     $csv.slideUp(100);
   } else {
-    $csv.text(generateCSV());
+    $csv.val(generateCSV());
     $csv.slideDown(100, function(){
       $csv.select();
     });
@@ -55,6 +59,28 @@ var showOrHideCSV = function showOrHideCSV(){
         $csv.slideUp(100);
         $(document).off('click.dismiss-csv');
     });
+  }
+}
+
+var undo = function undo(){
+  // Only continue if there's actually something to undo.
+  if(window.votes.length == 0){ return; }
+
+  // Remove last vote from window.votes,
+  // and re-show the most recently hidden pairing.
+  var undoneVote = window.votes.pop();
+  $('.pairing:visible').hide().prev().show();
+
+  // Update the various bits of UI.
+  updateProgressBar();
+  updateUndoButton();
+}
+
+var updateUndoButton = function updateUndoButton(){
+  if(window.votes.length == 0){
+    $('.undo').addClass('disabled');
+  } else {
+    $('.undo').removeClass('disabled');
   }
 }
 
@@ -78,6 +104,9 @@ jQuery(function($) {
 
   $('.pairing').eq(0).nextAll().hide();
 
+  updateUndoButton();
+  updateProgressBar();
+
   $(document).on('click', '.pairing__choices > div', function(){
     vote($(this));
   });
@@ -94,8 +123,14 @@ jQuery(function($) {
       vote($choice);
     } else if(e.keyCode == 27){
       showOrHideCSV();
+    } else if(e.keyCode == 90 && (e.metaKey || e.ctrlKey)){
+      undo();
     }
-  })
+  });
+
+  $('.undo').on('click', function(){
+    undo();
+  });
 
   $('.export-csv').on('click', function(e){
     e.stopPropagation();

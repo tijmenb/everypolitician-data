@@ -21,19 +21,11 @@ body {
   padding: 0 $column_gutter;
 }
 
-.column-2 {
-  @extend %column;
-  width: (100% / (12/2));
-}
-
-.column-10 {
-  @extend %column;
-  width: (100% / (12/10));
-}
-
-.column-6 {
-  @extend %column;
-  width: (100% / (12/6));
+@for $i from 1 through 12 {
+  .column-#{$i} {
+    @extend %column;
+    width: (100% / (12/$i));
+  }
 }
 
 .csv {
@@ -68,7 +60,8 @@ body {
   }
 }
 
-.export-csv {
+.export-csv,
+.undo {
   border-radius: 0.3em;
   padding: 0.5em;
   background-color: $color_green;
@@ -78,6 +71,24 @@ body {
 
   &:hover {
     background-color: darken($color_green, 5%);
+  }
+
+  &.disabled {
+    opacity: 0.8;
+    cursor: not-allowed;
+    background-color: mix($color_green, #ccc, 50%);
+  }
+}
+
+.undo {
+  background-color: $color_mid_grey;
+
+  &:hover {
+    background-color: darken($color_mid_grey, 5%);
+  }
+
+  &.disabled {
+    background-color: mix($color_mid_grey, #ddd, 50%);
   }
 }
 
