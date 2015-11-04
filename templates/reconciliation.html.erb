@@ -11,6 +11,7 @@
       window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
       window.existingPeople = <%= Yajl::Encoder.encode(existing_people, html_safe: true) %>;
       window.incomingPeople = <%= Yajl::Encoder.encode(incoming_data, html_safe: true) %>;
+      window.votes = [];
     </script>
     <script><%= reconciliation_js %></script>
 
@@ -40,14 +41,14 @@
     <script type="text/html" id="pairing">
         <div class="pairing">
             <div class="row">
-                <div class="column-6 pairing__existing">
-                    <h2>Existing person</h2>
-                    {{ existingPersonHTML }}
+                <div class="column-6 pairing__incoming">
+                    <h2>Incoming person</h2>
+                    {{ incomingPersonHTML }}
                 </div>
                 <div class="column-6 pairing__choices">
-                    <h2>Potential incoming matches</h2>
-                    {{ incomingPersonHTML }}
-                    <div class="no-matches">No matches</div>
+                    <h2>Potential matches from existing data</h2>
+                    {{ existingPersonHTML }}
+                    <div class="no-matches">None of these match</div>
                     <div class="skip-person">Skip for now</div>
                 </div>
             </div>

@@ -16,41 +16,46 @@ var renderTemplate = function renderTemplate(templateName, data){
 
 var vote = function vote($choice){
   var $pairing = $choice.parents('.pairing');
-  var $existingPerson = $('.pairing__existing .person', $pairing);
+  var incomingPersonID = $('.pairing__incoming .person', $pairing).attr('data-id');
+  var vote = [];
 
-  if($choice.is('.no-matches')){
-    console.log('No match for', $existingPerson.attr('data-uuid'));
-  } else if($choice.is('.skip-person')) {
-    console.log('Skipped', $existingPerson.attr('data-uuid'));
+  if($choice.is('.skip-person')) {
+    // do nothing
+  } else if($choice.is('.no-matches')){
+    window.votes.push( [incomingPersonID, null] );
   } else {
-    console.log($existingPerson.attr('data-uuid'), 'matches', $choice.attr('data-id'));
+    window.votes.push( [incomingPersonID, $choice.attr('data-uuid')] );
   }
 
   $pairing.hide().next().show();
 
-  var progress = ($pairing.index()+1) / $('.pairing').length * 100;
-  $('.progress-bar div').css('width', '' + progress + '%')
+  var progress = window.votes.length / $('.pairing').length * 100;
+  $('.progress-bar div').animate({
+    width: '' + progress + '%'
+  }, 100);
 }
 
-var generateCSV = function generateCSV() {
-  var csv = [];
-  csv.push(['id', 'uuid']);
-  $('table tr').each(function(i, row) {
-    // Skip header rows
-    if ($('th', row).length > 0) {
-      return;
-    }
-    var id = $('.incoming', row).data('id');
-    var $existing = $('.existing', row);
-    var uuid;
-    if ($('select', $existing).length >= 1) {
-      uuid = $('select', $existing).val();
-    } else {
-      uuid = $existing.data('uuid');
-    }
-    csv.push([id, uuid]);
+var generateCSV = function generateCSV(){
+  return Papa.unparse({
+    fields: ['id', 'uuid'],
+    data: window.votes
   });
-  return Papa.unparse(csv);
+}
+
+var showOrHideCSV = function showOrHideCSV(){
+  var $csv = $('.csv');
+  if($csv.is(':visible')){
+    $csv.slideUp(100);
+  } else {
+    $csv.text(generateCSV());
+    $csv.slideDown(100, function(){
+      $csv.select();
+    });
+    $(document).on('click.dismiss-csv', function(){
+        $csv.slideUp(100);
+        $(document).off('click.dismiss-csv');
+    });
+  }
 }
 
 jQuery(function($) {
@@ -87,25 +92,19 @@ jQuery(function($) {
     } else if(e.which > 48 && e.which < 58){
       var $choice = $('.pairing:visible .pairing__choices .person').eq(e.which - 49);
       vote($choice);
+    } else if(e.keyCode == 27){
+      showOrHideCSV();
     }
   })
 
   $('.export-csv').on('click', function(e){
     e.stopPropagation();
-    var $csv = $('.csv');
-    if($csv.is(':visible')){
-      $csv.slideUp(100);
-    } else {
-      $csv.text(generateCSV());
-      $csv.slideDown(100);
-      $(document).on('click.dismiss-csv', function(){
-          $csv.slideUp(100);
-          $(document).off('click.dismiss-csv');
-      });
-    }
+    showOrHideCSV();
   });
 
   $('.csv').on('click', function(e){
     e.stopPropagation();
+  }).on('focus', function(){
+    $(this).select();
   });
 });
