@@ -351,6 +351,13 @@ namespace :merge_sources do
       end
     end
 
+    all_headers << :identifier__everypolitician_legacy
+
+    merged_rows.each do |row|
+      row[:identifier__everypolitician_legacy] = row[:id]
+      row[:id] = row[:uuid]
+    end
+
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
       out << all_headers

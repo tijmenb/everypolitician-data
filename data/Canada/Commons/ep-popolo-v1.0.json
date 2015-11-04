@@ -219,7 +219,30 @@
     },
     {
       "id": "person/alain-rayes",
+      "identifiers": [
+        {
+          "identifier": "Q21296174",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alain_Rayes"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alain_Rayes"
+        }
+      ],
       "name": "Alain Rayes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alain Rayes",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -2979,6 +3002,11 @@
         {
           "lang": "nl",
           "name": "Bill Blair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Билл Блэр",
           "note": "multilingual"
         }
       ],
@@ -18468,6 +18496,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Джойс Мюррэй",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Joyce Murray",
           "note": "multilingual"
@@ -25079,7 +25112,35 @@
     },
     {
       "id": "person/monique-pauzé",
+      "identifiers": [
+        {
+          "identifier": "Q21286025",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Monique_Pauzé"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Monique_Pauzé"
+        }
+      ],
       "name": "Monique Pauzé",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Monique Pauzé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Monique Pauzé",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -30178,6 +30239,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Роб Кларк",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Rob Clarke",
           "note": "multilingual"
@@ -34326,6 +34392,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/steve-mackinnon",
       "identifiers": [
         {
@@ -36817,8 +36884,32 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/xavier-barsalou-duval",
+      "identifiers": [
+        {
+          "identifier": "Q21284594",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Xavier_Barsalou-Duval"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Xavier_Barsalou-Duval"
+        }
+      ],
       "name": "Xavier Barsalou-Duval",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Xavier Barsalou-Duval",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
