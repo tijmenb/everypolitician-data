@@ -1,3 +1,4 @@
+require 'sass'
 
 class String
   def tidy
@@ -260,7 +261,9 @@ namespace :merge_sources do
             existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
             templates_dir = File.expand_path('../../templates', __FILE__)
             reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
-            reconciliation_css = File.read(File.join(templates_dir, 'reconciliation.css'))
+            reconciliation_scss = File.read(File.join(templates_dir, 'reconciliation.scss'))
+            engine = Sass::Engine.new(reconciliation_scss, syntax: :scss, load_paths: [templates_dir])
+            reconciliation_css = engine.render
             html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
             html_filename = rec_filename.gsub('.csv', '.html')
             File.write(html_filename, html.result(binding))
