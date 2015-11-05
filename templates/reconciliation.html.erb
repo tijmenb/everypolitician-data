@@ -64,7 +64,7 @@
       {% } else if(person.id){ %}
         <div class="person" data-id="{{ person.id }}">
       {% } %}
-            <h1>{{ person.name }}</h1>
+            <h1>{{ person[field] || person.name }}</h1>
             <dl>
               {% if(person.gender){ %}
                 <dt>Gender:</dt>
