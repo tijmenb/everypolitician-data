@@ -1,7 +1,13 @@
 {
   "persons": [
     {
-      "id": "person/alfred_brin",
+      "id": "b4110759-cb9a-45a1-ac99-f35ddc5b570b",
+      "identifiers": [
+        {
+          "identifier": "alfred_brin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Alfred Brin",
       "sources": [
         {
@@ -10,7 +16,13 @@
       ]
     },
     {
-      "id": "person/andy_laplace",
+      "id": "4d53538b-c81d-4b1a-bee0-8c0aab69d256",
+      "identifiers": [
+        {
+          "identifier": "andy_laplace",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Andy Laplace",
       "sources": [
         {
@@ -19,7 +31,13 @@
       ]
     },
     {
-      "id": "person/benoît_chauvin",
+      "id": "f57d6843-36eb-4e03-a534-109b75d3ad81",
+      "identifiers": [
+        {
+          "identifier": "benoît_chauvin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Benoît Chauvin",
       "sources": [
         {
@@ -28,7 +46,13 @@
       ]
     },
     {
-      "id": "person/bettina_cointre",
+      "id": "7bb4317d-4ea9-40e3-81d3-6a83bf90e0aa",
+      "identifiers": [
+        {
+          "identifier": "bettina_cointre",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Bettina Cointre",
       "sources": [
         {
@@ -40,8 +64,12 @@
       "birth_date": "1951-09-09",
       "gender": "male",
       "given_name": "Bruno",
-      "id": "person/Q2792714",
+      "id": "1da11163-7064-480e-a26c-84ac309939a2",
       "identifiers": [
+        {
+          "identifier": "Q2792714",
+          "scheme": "everypolitician_legacy"
+        },
         {
           "identifier": "/m/0hr2zqp",
           "scheme": "freebase"
@@ -143,7 +171,13 @@
       ]
     },
     {
-      "id": "person/corinne_febrissy",
+      "id": "a29d116e-3731-47b7-9873-a2c288d04d61",
+      "identifiers": [
+        {
+          "identifier": "corinne_febrissy",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Corinne Febrissy",
       "sources": [
         {
@@ -152,7 +186,13 @@
       ]
     },
     {
-      "id": "person/cécile_tiberghien",
+      "id": "f8ba9863-d2ee-42c5-9bbc-25b90dac18e9",
+      "identifiers": [
+        {
+          "identifier": "cécile_tiberghien",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Cécile Tiberghien",
       "sources": [
         {
@@ -161,7 +201,13 @@
       ]
     },
     {
-      "id": "person/donald_gumbs",
+      "id": "686b321c-9e5c-45c9-9c8f-805cc169f4b1",
+      "identifiers": [
+        {
+          "identifier": "donald_gumbs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Donald Gumbs",
       "sources": [
         {
@@ -170,7 +216,13 @@
       ]
     },
     {
-      "id": "person/jean-marie_danet",
+      "id": "f58a33cc-de0a-4ef0-b1a5-d36e76b0b163",
+      "identifiers": [
+        {
+          "identifier": "jean-marie_danet",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Jean-Marie Danet",
       "sources": [
         {
@@ -179,7 +231,13 @@
       ]
     },
     {
-      "id": "person/juliette_gréaux",
+      "id": "5e1654fb-87fc-499a-9dd4-90e1352f7a85",
+      "identifiers": [
+        {
+          "identifier": "juliette_gréaux",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Juliette Gréaux",
       "sources": [
         {
@@ -188,7 +246,13 @@
       ]
     },
     {
-      "id": "person/karine_miot_richard",
+      "id": "74291a09-a335-41b1-a7cf-2c6c20448ca4",
+      "identifiers": [
+        {
+          "identifier": "karine_miot_richard",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Karine Miot Richard",
       "sources": [
         {
@@ -197,7 +261,13 @@
       ]
     },
     {
-      "id": "person/marie-angèle_aubin",
+      "id": "db6d5282-1651-4d98-8c3c-e63abc57378d",
+      "identifiers": [
+        {
+          "identifier": "marie-angèle_aubin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Marie-Angèle Aubin",
       "sources": [
         {
@@ -206,7 +276,13 @@
       ]
     },
     {
-      "id": "person/maxime_desouches",
+      "id": "4dd8484a-3dfa-4213-b366-eee069ca9c19",
+      "identifiers": [
+        {
+          "identifier": "maxime_desouches",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Maxime Desouches",
       "sources": [
         {
@@ -218,11 +294,15 @@
       "birth_date": "1954-01-06",
       "gender": "male",
       "given_name": "Michel",
-      "id": "person/Q385483",
+      "id": "14b40efb-bacb-495b-8f03-6f4a9872b1b9",
       "identifiers": [
         {
           "identifier": "121381322",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "Q385483",
+          "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "0000 0000 2941 9316",
@@ -285,7 +365,13 @@
       ]
     },
     {
-      "id": "person/micheline_jacques",
+      "id": "e436e711-5966-40c6-b6e5-48c9c96f0e8a",
+      "identifiers": [
+        {
+          "identifier": "micheline_jacques",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Micheline Jacques",
       "sources": [
         {
@@ -294,7 +380,13 @@
       ]
     },
     {
-      "id": "person/nicole_gréaux",
+      "id": "f41d4030-687d-419e-b862-a8b525adb957",
+      "identifiers": [
+        {
+          "identifier": "nicole_gréaux",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Nicole Gréaux",
       "sources": [
         {
@@ -303,7 +395,13 @@
       ]
     },
     {
-      "id": "person/nils_dufau",
+      "id": "3c2e8027-a1af-4c0c-a498-cceab2d8a17a",
+      "identifiers": [
+        {
+          "identifier": "nils_dufau",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Nils Dufau",
       "sources": [
         {
@@ -312,7 +410,13 @@
       ]
     },
     {
-      "id": "person/xavier_lédée",
+      "id": "a08b1d05-f2f5-4834-acfb-677c87ec685a",
+      "identifiers": [
+        {
+          "identifier": "xavier_lédée",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Xavier Lédée",
       "sources": [
         {
@@ -321,7 +425,13 @@
       ]
     },
     {
-      "id": "person/Élodie_laplace",
+      "id": "9439a8d8-77c5-4367-b762-a8d6264ab1f3",
+      "identifiers": [
+        {
+          "identifier": "Élodie_laplace",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Élodie Laplace",
       "sources": [
         {
@@ -369,133 +479,133 @@
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/Q2792714",
+      "person_id": "14b40efb-bacb-495b-8f03-6f4a9872b1b9",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/Q385483",
+      "person_id": "1da11163-7064-480e-a26c-84ac309939a2",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/alfred_brin",
+      "person_id": "3c2e8027-a1af-4c0c-a498-cceab2d8a17a",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/andy_laplace",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/tous_pour_saint-barth",
-      "organization_id": "legislature",
-      "person_id": "person/benoît_chauvin",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/tous_pour_saint-barth",
-      "organization_id": "legislature",
-      "person_id": "person/bettina_cointre",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/corinne_febrissy",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/cécile_tiberghien",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/donald_gumbs",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/jean-marie_danet",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/juliette_gréaux",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/karine_miot_richard",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/saint-barth_d'abord",
-      "organization_id": "legislature",
-      "person_id": "person/marie-angèle_aubin",
+      "person_id": "4d53538b-c81d-4b1a-bee0-8c0aab69d256",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_en_mouvement_!",
       "organization_id": "legislature",
-      "person_id": "person/maxime_desouches",
+      "person_id": "4dd8484a-3dfa-4213-b366-eee069ca9c19",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/micheline_jacques",
+      "person_id": "5e1654fb-87fc-499a-9dd4-90e1352f7a85",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/nicole_gréaux",
+      "person_id": "686b321c-9e5c-45c9-9c8f-805cc169f4b1",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/nils_dufau",
+      "person_id": "74291a09-a335-41b1-a7cf-2c6c20448ca4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/tous_pour_saint-barth",
+      "organization_id": "legislature",
+      "person_id": "7bb4317d-4ea9-40e3-81d3-6a83bf90e0aa",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/xavier_lédée",
+      "person_id": "9439a8d8-77c5-4367-b762-a8d6264ab1f3",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/saint-barth_d'abord",
       "organization_id": "legislature",
-      "person_id": "person/Élodie_laplace",
+      "person_id": "a08b1d05-f2f5-4834-acfb-677c87ec685a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "a29d116e-3731-47b7-9873-a2c288d04d61",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "b4110759-cb9a-45a1-ac99-f35ddc5b570b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "db6d5282-1651-4d98-8c3c-e63abc57378d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "e436e711-5966-40c6-b6e5-48c9c96f0e8a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "f41d4030-687d-419e-b862-a8b525adb957",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/tous_pour_saint-barth",
+      "organization_id": "legislature",
+      "person_id": "f57d6843-36eb-4e03-a534-109b75d3ad81",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "f58a33cc-de0a-4ef0-b1a5-d36e76b0b163",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/saint-barth_d'abord",
+      "organization_id": "legislature",
+      "person_id": "f8ba9863-d2ee-42c5-9bbc-25b90dac18e9",
       "role": "member"
     }
   ],
