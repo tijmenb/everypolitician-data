@@ -9777,6 +9777,29 @@
       ]
     },
     {
+      "email": "jamal.mouneimne@riksdagen.se",
+      "gender": "male",
+      "id": "b51411dc-5e9a-446e-ae25-03403243abd9",
+      "identifiers": [
+        {
+          "identifier": "080633830413",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/080633830413_max.jpg",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/080633830413_max.jpg"
+        }
+      ],
+      "name": "Jamal Mouneimne",
+      "sources": [
+        {
+          "url": "http://data.riksdagen.se/"
+        }
+      ]
+    },
+    {
       "birth_date": "1962-04-18",
       "contact_details": [
         {
@@ -23875,6 +23898,11 @@
     },
     {
       "classification": "party",
+      "id": "-",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
       "id": "KD",
       "name": "Kristdemokraterna"
     },
@@ -25262,7 +25290,7 @@
     {
       "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "SD",
+      "on_behalf_of_id": "-",
       "organization_id": "legislature",
       "person_id": "7ef06afd-a927-48e8-9396-b27609eeb560",
       "role": "member"
@@ -25857,6 +25885,14 @@
       "on_behalf_of_id": "S",
       "organization_id": "legislature",
       "person_id": "b503b958-4323-4425-a2cd-27ed323b709e",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:se/constituency:västerbottens-län",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "S",
+      "organization_id": "legislature",
+      "person_id": "b51411dc-5e9a-446e-ae25-03403243abd9",
       "role": "member"
     },
     {

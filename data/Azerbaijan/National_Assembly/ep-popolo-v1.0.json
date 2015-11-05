@@ -3083,6 +3083,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Rafael",
       "id": "46f24b10-dd41-483a-a954-e74926e37c4e",
       "identifiers": [
         {
@@ -3100,6 +3101,10 @@
           "url": "https://az.wikipedia.org/wiki/Rafael_Hüseynov"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rafael_Hüseynov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гусейнов,_Рафаэль_Баба_оглу"
         }
@@ -3108,6 +3113,11 @@
       "other_names": [
         {
           "lang": "az",
+          "name": "Rafael Hüseynov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Rafael Hüseynov",
           "note": "multilingual"
         },
@@ -5193,6 +5203,12 @@
         {
           "identifier": "Q16378622",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ahmed_veliyev.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ahmed_veliyev.jpg"
         }
       ],
       "links": [

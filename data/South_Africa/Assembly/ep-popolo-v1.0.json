@@ -978,6 +978,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "110597",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "no00008353",
           "scheme": "lcauth"
         },
@@ -2258,6 +2262,10 @@
           "url": "https://it.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/시릴_라마포사"
+        },
+        {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
@@ -2335,6 +2343,11 @@
         {
           "lang": "it",
           "name": "Cyril Ramaphosa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "시릴 라마포사",
           "note": "multilingual"
         },
         {
@@ -3679,6 +3692,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mohamed_Enver_Surty"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mohamed_Enver_Surty"
         }
@@ -4770,6 +4787,28 @@
       "sources": [
         {
           "url": "http://www.pa.org.za/person/hlengiwe-buhle-mkhize/"
+        }
+      ]
+    },
+    {
+      "honorific_prefix": "Ms",
+      "id": "ecb29e9d-5fe8-47bf-89e8-7ac6d9098fb5",
+      "identifiers": [
+        {
+          "identifier": "hlengiwe-octavia-hlophe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg"
+        }
+      ],
+      "name": "Hlengiwe Octavia Hlophe",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/hlengiwe-octavia-hlophe/"
         }
       ]
     },
@@ -8519,12 +8558,18 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Mildred",
       "honorific_prefix": "Ms",
       "id": "f30f87a7-9178-408c-a2f5-43218cfd335d",
       "identifiers": [
         {
           "identifier": "mildred-nelisiwe-oliphant",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16765319",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/96/77/9677a53043b14f6bd8485b6d1c286c06.jpg",
@@ -8533,7 +8578,30 @@
           "url": "http://www.pa.org.za/media_root/cache/96/77/9677a53043b14f6bd8485b6d1c286c06.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mildred_Oliphant"
+        }
+      ],
       "name": "Mildred Oliphant",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mildred Oliphant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mildred Oliphant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mildred Oliphant",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.pa.org.za/person/mildred-nelisiwe-oliphant/"
@@ -11868,6 +11936,11 @@
         {
           "lang": "nn",
           "name": "Rob Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Роб Дэвис",
           "note": "multilingual"
         },
         {
@@ -17338,6 +17411,13 @@
       "on_behalf_of_id": "DA",
       "organization_id": "legislature",
       "person_id": "eaf1136c-23d6-4ce6-9a72-ba7f4113f98e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "EFF",
+      "organization_id": "legislature",
+      "person_id": "ecb29e9d-5fe8-47bf-89e8-7ac6d9098fb5",
       "role": "member"
     },
     {

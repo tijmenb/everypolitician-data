@@ -3041,7 +3041,7 @@
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Datuk_Seri_Abdullah_bin_Haji_Ahmad_Badawi"
+          "url": "https://tr.wikipedia.org/wiki/Abdullah_Ahmad_Badawi"
         },
         {
           "note": "Wikipedia (uk)",
@@ -4965,6 +4965,11 @@
         {
           "lang": "id",
           "name": "Ahmad Zahid Hamidi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "아흐마드 자히드 하미디",
           "note": "multilingual"
         },
         {
@@ -9336,6 +9341,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Devan_Nair"
         },
         {
           "note": "Wikipedia (ka)",
@@ -14437,6 +14446,7 @@
       "name": "Ismail Kassim"
     },
     {
+      "birth_date": "1965-09-07",
       "gender": "male",
       "given_name": "Ismail",
       "id": "67e521e6-523c-462d-a8e6-6f90fb0f0fbc",
@@ -15535,11 +15545,16 @@
       "name": "Jimmy Donald Lim"
     },
     {
+      "gender": "male",
       "id": "25572039-b781-45ef-bb2e-d92c5c4cebdf",
       "identifiers": [
         {
           "identifier": "wong_sze_phin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12712635",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -15548,11 +15563,22 @@
           "url": "https://en.wikipedia.org/wiki/Wong_Sze_Phin"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Wong_Sze_Phin"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Wong_Sze_Phin"
         }
       ],
-      "name": "Jimmy Wong Sze Phin"
+      "name": "Jimmy Wong Sze Phin",
+      "other_names": [
+        {
+          "lang": "ms",
+          "name": "Wong Sze Phin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "61cdf2a7-aa4a-465a-9e14-1ec925885930",
@@ -24353,6 +24379,10 @@
           "url": "https://ms.wikipedia.org/wiki/Mohd_Ali_bin_Mohd_Rustam"
         },
         {
+          "note": "facebook",
+          "url": "datuk.seri.mohd.ali.rustam"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Mohd_Ali_Rustam"
         }
@@ -26751,7 +26781,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/慕克里"
+          "url": "https://zh.wikipedia.org/wiki/慕克里·马哈迪"
         },
         {
           "note": "wikipedia",
@@ -30722,6 +30752,10 @@
           "url": "https://ta.wikipedia.org/wiki/கோவிந்தசாமி_பழனிவேல்"
         },
         {
+          "note": "facebook",
+          "url": "DatukSeriGPalanivel"
+        },
+        {
           "note": "website",
           "url": "http://www.gpalanivel.com.my/"
         },
@@ -31615,6 +31649,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/莱士雅丁"
+        },
+        {
+          "note": "facebook",
+          "url": "drraisyatim"
         },
         {
           "note": "wikipedia",
@@ -35353,6 +35391,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sim_Tong_Him.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sim_Tong_Him.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -38150,6 +38194,10 @@
         {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Tan_Siew_Sin"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陳修信"
         },
         {
           "note": "wikipedia",

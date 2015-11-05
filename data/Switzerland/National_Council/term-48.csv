@@ -1,5 +1,5 @@
 id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
-3840b5a5-b9ff-4988-aa51-8557d20bd8f0,Ada Marra,"Marra, Ada",,,,S,s,area/vd,VD,National Council,48,,,,female
+3840b5a5-b9ff-4988-aa51-8557d20bd8f0,Ada Marra,"Marra, Ada",,,,S,s,area/vd,VD,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/a/a2/Ada_Marra.jpg,female
 b21e6373-0989-4667-86ca-42299d318814,Adrian Amstutz,"Amstutz, Adrian",,,,V,v,area/be,BE,National Council,48,,2011-05-29,https://upload.wikimedia.org/wikipedia/commons/7/70/Adrian_Amstutz_(2007).jpg,male
 628da35f-6953-43f4-858f-230b258927ed,Adèle Thorens Goumaz,"Thorens Goumaz, Adèle",,,,G,g,area/vd,VD,National Council,48,,,,female
 ea612891-4912-4d6e-ab66-52e627175838,Alec von Graffenried,"von Graffenried, Alec",,,,G,g,area/be,BE,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/e/e8/Alec_von_graffenried.jpg,male
@@ -25,7 +25,7 @@ b9c7f8b6-8cdc-4a40-bb4b-59d426e1ce9d,Antonio Hodgers,"Hodgers, Antonio",,,,G,g,a
 7d66869b-0f6d-412e-808d-cda880869d6a,Beat Jans,"Jans, Beat",,,,S,s,area/bs,BS,National Council,48,2010-05-31,,,male
 a8eade88-82aa-472c-8ff2-0050c8c09b59,Brigit Wyss,"Wyss, Brigit",,,,G,g,area/so,SO,National Council,48,2008-02-22,,,female
 de299cb5-5bd0-4798-bf99-1001f438f15d,Brigitta M. Gadient,"Gadient, Brigitta M.",,,,BD,bd,area/gr,GR,National Council,48,2011-09-23,,,female
-f04747f7-22f1-4f7c-bcab-ae1a501538b6,Brigitte Häberli-Koller,"Häberli-Koller, Brigitte",,,,CEg,ceg,area/tg,TG,National Council,48,,,,female
+f04747f7-22f1-4f7c-bcab-ae1a501538b6,Brigitte Häberli-Koller,"Häberli-Koller, Brigitte",,,,CEg,ceg,area/tg,TG,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/f/fc/Brigitte_Häberli-Koller_(2007).jpg,female
 946d436c-7f55-46a3-b4bd-8369d358204e,Bruno Zuppiger,"Zuppiger, Bruno",,,,V,v,area/zh,ZH,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/7/7b/Bruno_Zuppiger_(2007).jpg,male
 fadeca7a-2eee-4772-9443-9a0f11687c6d,Carlo Sommaruga,"Sommaruga, Carlo",,,,S,s,area/ge,GE,National Council,48,,,,male
 82af5ec2-b7e5-470d-bb75-06bbdd70e0b9,Caspar Baader,"Baader, Caspar",,,,V,v,area/bl,BL,National Council,48,,,,male
@@ -33,8 +33,8 @@ fadeca7a-2eee-4772-9443-9a0f11687c6d,Carlo Sommaruga,"Sommaruga, Carlo",,,,S,s,a
 183938c1-13fb-4c77-8441-c9dd30f24fed,Charles Favre,"Favre, Charles",,,,RL,rl,area/vd,VD,National Council,48,2008-11-22,,,male
 fbc41be7-55a1-48cc-8507-981f09a86ce0,Chiara Simoneschi-Cortesi,"Simoneschi-Cortesi, Chiara",,,,CEg,ceg,area/ti,TI,National Council,48,2009-11-23,,,female
 ba7db07e-49c9-4c83-8b22-d0292a39abdb,Christa Markwalder,"Markwalder, Christa",,,,RL,rl,area/be,BE,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/5/5c/Christa_Markwalder.jpg,female
-63313590-280b-4cb8-8ff3-49966d23bbdb,Christian Levrat,"Levrat, Christian",,,,S,s,area/fr,FR,National Council,48,,,,male
-733ec44e-b45f-4855-87a0-397df3a18267,Christian Lüscher,"Lüscher, Christian",,,,RL,rl,area/ge,GE,National Council,48,2008-11-22,,,male
+63313590-280b-4cb8-8ff3-49966d23bbdb,Christian Levrat,"Levrat, Christian",,,,S,s,area/fr,FR,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/7/70/Christian_Levrat_am_30._April_2008_in_St._Gallen.jpg,male
+733ec44e-b45f-4855-87a0-397df3a18267,Christian Lüscher,"Lüscher, Christian",,,,RL,rl,area/ge,GE,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/b/b3/Christian_luescher.jpg,male
 b24a1058-517d-4d13-b1d6-d2afc410d43c,Christian Miesch,"Miesch, Christian",,,,V,v,area/bl,BL,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/c/c8/Christian_Miesch_(2007).jpg,male
 dbbac9c1-0804-47ba-a5d7-7a877cda4d9b,Christian Waber,"Waber, Christian",,,,-,-,area/be,BE,National Council,48,2007-12-19,2009-08-31,https://upload.wikimedia.org/wikipedia/commons/1/15/Christian_Waber.jpg,male
 f5836f06-f19d-42a0-9175-d18293b3b117,Christian Wasserfallen,"Wasserfallen, Christian",,,,RL,rl,area/be,BE,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/7/7d/Christian_Wasserfallen.jpg,male
@@ -44,10 +44,10 @@ fba99682-d6d0-472e-b3ff-62a0cc229fc1,Christoph Mörgeli,"Mörgeli, Christoph",,,
 b5ef9458-9cbf-4810-8ce4-1a9f8457b1d6,Christoph von Rotz,"von Rotz, Christoph",,,,V,v,area/ow,OW,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/5/5e/Christoph_von_Rotz.jpg,male
 4afa8ab5-52a3-4ad4-8006-b0325720d661,Christophe Darbellay,"Darbellay, Christophe",,,,CEg,ceg,area/vs,VS,National Council,48,,,,male
 cf6d3dfd-a6bf-437f-a30a-9cea03f628f4,Claude Ruey,"Ruey, Claude",,,,RL,rl,area/vd,VD,National Council,48,2008-11-22,,,male
-67a535c2-37f2-49a4-9643-ed5454569861,Corina Eichenberger-Walther,"Eichenberger-Walther, Corina",,,,RL,rl,area/ag,AG,National Council,48,2008-11-22,,,female
+67a535c2-37f2-49a4-9643-ed5454569861,Corina Eichenberger-Walther,"Eichenberger-Walther, Corina",,,,RL,rl,area/ag,AG,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/5/56/Corina_Eichenberger-Walther.jpg,female
 081580de-b3ca-46bf-a84d-d693a0f40666,Corrado Pardini,"Pardini, Corrado",,,,S,s,area/be,BE,National Council,48,2011-05-30,,https://upload.wikimedia.org/wikipedia/commons/0/04/Corrado_Pardini.jpg,male
-556cf845-5ba2-4721-af49-59ffb1087165,Daniel Brélaz,"Brélaz, Daniel",,,,G,g,area/vd,VD,National Council,48,,,,male
-d003d143-96f1-4713-aa33-52f1d2849c47,Daniel Jositsch,"Jositsch, Daniel",,,,S,s,area/zh,ZH,National Council,48,,,,male
+556cf845-5ba2-4721-af49-59ffb1087165,Daniel Brélaz,"Brélaz, Daniel",,,,G,g,area/vd,VD,National Council,48,,,"https://upload.wikimedia.org/wikipedia/commons/e/e7/Daniel_Brélaz_(Nationalrat,_2007).jpg",male
+d003d143-96f1-4713-aa33-52f1d2849c47,Daniel Jositsch,"Jositsch, Daniel",,,,S,s,area/zh,ZH,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/1/18/Daniel_jositsch.jpg,male
 2e71230f-8563-40ec-b2a6-3c832b4d82a8,Daniel Vischer,"Vischer, Daniel",,,,G,g,area/zh,ZH,National Council,48,,,,male
 f39efc17-1253-4540-875f-09bc8ca4bd5d,Didier Berberat,"Berberat, Didier",,,,S,s,area/ne,NE,National Council,48,,2009-09-20,,male
 0458efad-eb95-4aab-95f2-1adeda60b001,Dominique Baettig,"Baettig, Dominique",,,,V,v,area/ju,JU,National Council,48,,,,male
@@ -56,7 +56,7 @@ fc0f2d19-2859-442f-a9dc-ef6e42de5dbe,Dominique de Buman,"de Buman, Dominique",,,
 a395d5e5-119c-49f7-ad97-5a5f99b8d253,Doris Stump,"Stump, Doris",,,,S,s,area/ag,AG,National Council,48,,,,female
 b356754e-1e6b-4c50-acbe-d63807984454,Edi Engelberger,"Engelberger, Edi",,,,RL,rl,area/nw,NW,National Council,48,2008-11-22,,,male
 b9cd18ea-d94b-4fb1-bbd1-289910a1314d,Edith Graf-Litscher,"Graf-Litscher, Edith",,,,S,s,area/tg,TG,National Council,48,,,,female
-8e7ec37f-7ff5-4e20-bada-4d423e81bfdc,Elisabeth Schneider-Schneiter,"Schneider-Schneiter, Elisabeth",,,,CEg,ceg,area/bl,BL,National Council,48,2010-11-29,,,female
+8e7ec37f-7ff5-4e20-bada-4d423e81bfdc,Elisabeth Schneider-Schneiter,"Schneider-Schneiter, Elisabeth",,,,CEg,ceg,area/bl,BL,National Council,48,2010-11-29,,https://upload.wikimedia.org/wikipedia/commons/b/b4/Elisabeth_Schneider-Schneiter.jpg,female
 6066cc08-7450-45ee-a32d-c73ea1faabd0,Elmar Bigger,"Bigger, Elmar",,,,V,v,area/sg,SG,National Council,48,,,,male
 21a92d16-9d56-4e8a-8b97-f748013c976e,Elvira Bader,"Bader, Elvira",,,,CEg,ceg,area/so,SO,National Council,48,,,,female
 ee2e6ea1-ca03-48b9-bb25-5894ed126433,Eric Nussbaumer,"Nussbaumer, Eric",,,,S,s,area/bl,BL,National Council,48,,,,male
@@ -94,10 +94,10 @@ db4b8ab4-6778-4f19-87ef-8c13d76e4c3d,Hugo Fasel,"Fasel, Hugo",,,,G,g,area/fr,FR,
 3788dbd2-3a03-418c-bb12-ad28b336a5e9,Hugues Hiltpold,"Hiltpold, Hugues",,,,RL,rl,area/ge,GE,National Council,48,2008-11-22,,,male
 5ac6d04b-1ead-4e5e-8454-215132ce281f,Ida Glanzmann-Hunkeler,"Glanzmann-Hunkeler, Ida",,,,CEg,ceg,area/lu,LU,National Council,48,,,,female
 3d999e57-beb1-4eee-ac4e-1439bdd0ba95,Ignazio Cassis,"Cassis, Ignazio",,,,RL,rl,area/ti,TI,National Council,48,2008-11-22,,,male
-784777cf-ac4c-437b-8a07-66c27ce1fd89,Isabelle Moret,"Moret, Isabelle",,,,RL,rl,area/vd,VD,National Council,48,2008-11-22,,,female
+784777cf-ac4c-437b-8a07-66c27ce1fd89,Isabelle Moret,"Moret, Isabelle",,,,RL,rl,area/vd,VD,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/6/69/Portrait_d'Isabelle_Moret.jpg,female
 99876cb7-5b77-49d9-9303-ee9db8631add,J. Alexander Baumann,"Baumann, J. Alexander",,,,V,v,area/tg,TG,National Council,48,,,,male
 52eeec17-a694-428e-830c-3dadce69bc58,Jacqueline Fehr,"Fehr, Jacqueline",,,,S,s,area/zh,ZH,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/3/3b/Jacqueline_Fehr_(2007).jpg,female
-a53d6133-4c9f-4c3d-9fd9-3ee5ee2e8aeb,Jacques Bourgeois,"Bourgeois, Jacques",,,,RL,rl,area/fr,FR,National Council,48,2008-11-22,,,male
+a53d6133-4c9f-4c3d-9fd9-3ee5ee2e8aeb,Jacques Bourgeois,"Bourgeois, Jacques",,,,RL,rl,area/fr,FR,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/0/08/Jacques_Bourgeois.jpg,male
 2a7cdd3f-4a7c-42f5-8dfb-801fafb57699,Jacques Neirynck,"Neirynck, Jacques",,,,CEg,ceg,area/vd,VD,National Council,48,,,,male
 c83e8943-dee3-49dc-81c3-cb117d85cd6a,Jacques-André Maire,"Maire, Jacques-André",,,,S,s,area/ne,NE,National Council,48,2009-09-21,,,male
 9b835c3d-c8b7-420c-9282-8626849987bc,Jakob Büchler,"Büchler, Jakob",,,,CEg,ceg,area/sg,SG,National Council,48,,,,male
@@ -106,7 +106,7 @@ a1cda610-c90b-47d1-a5ab-0904c870249d,Jean Henri Dunant,"Dunant, Jean Henri",,,,V
 ff655a88-504a-45c5-a873-63601e8f12ed,Jean-Charles Rielle,"Rielle, Jean-Charles",,,,S,s,area/ge,GE,National Council,48,,,,male
 fbbeaaf3-0428-430d-ac88-83661ca60670,Jean-Claude Rennwald,"Rennwald, Jean-Claude",,,,S,s,area/ju,JU,National Council,48,,,,male
 3b9d3f10-e24e-4624-80f9-ff258a43be1c,Jean-François Rime,"Rime, Jean-François",,,,V,v,area/fr,FR,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/3/3d/Jean-François_Rime_(2007).jpg,male
-5ec3e158-c0a5-49f0-99c7-c00faaa72a73,Jean-François Steiert,"Steiert, Jean-François",,,,S,s,area/fr,FR,National Council,48,,,,male
+5ec3e158-c0a5-49f0-99c7-c00faaa72a73,Jean-François Steiert,"Steiert, Jean-François",,,,S,s,area/fr,FR,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/c/ca/Jean-François_Steiert_(2007).jpg,male
 253803c2-fd0d-4f85-bf74-b53c53318f34,Jean-Pierre Graber,"Graber, Jean-Pierre",,,,V,v,area/be,BE,National Council,48,,,,male
 ad208a85-ee34-4c33-9bfd-57d0a00d725f,Jean-Pierre Grin,"Grin, Jean-Pierre",,,,V,v,area/vd,VD,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/3/3a/Jean-Pierre_Grin-Hofmann.jpg,male
 8e52ebd1-6789-4647-a377-bd3f408f2e10,Jean-René Germanier,"Germanier, Jean-René",,,,RL,rl,area/vs,VS,National Council,48,2010-11-29,,,male
@@ -151,10 +151,10 @@ d0adf479-ceb8-465b-b43a-6b2f10bd65a0,Meinrado Robbiani,"Robbiani, Meinrado",,,,C
 39d91768-93cf-41d7-afe2-a1bae1137789,Natalie Simone Rickli,"Rickli, Natalie Simone",,,,V,v,area/zh,ZH,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/3/3d/Natalie_Rickli.jpg,female
 d7e21a27-37a7-40f0-97e9-421a55e48e6a,Norbert Hochreutener,"Hochreutener, Norbert",,,,CEg,ceg,area/be,BE,National Council,48,,,,male
 c81200da-aa95-460e-b5f6-719117f48d3a,Norman Gobbi,"Gobbi, Norman",,,,V,v,area/ti,TI,National Council,48,2010-03-01,2011-04-14,,male
-80d68f10-1d5e-4cb3-9b6e-b937fd7c45d7,Olivier Français,"Français, Olivier",,,,RL,rl,area/vd,VD,National Council,48,2008-11-22,,,male
+80d68f10-1d5e-4cb3-9b6e-b937fd7c45d7,Olivier Français,"Français, Olivier",,,,RL,rl,area/vd,VD,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/2/24/Olivier_Français_(2007).jpg,male
 a41296c0-7df1-4608-9acb-71a81846b0c4,Oskar Freysinger,"Freysinger, Oskar",,,,V,v,area/vs,VS,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/8/82/Oskar_Freysinger_(2007).jpg,male
 416067b1-a73c-4b39-b942-cf27efd8762f,Otto Ineichen,"Ineichen, Otto",,,,RL,rl,area/lu,LU,National Council,48,2008-11-22,,,male
-eb49c0af-b3d8-496a-989b-118cd3e7f773,Pascale Bruderer Wyss,"Bruderer Wyss, Pascale",,,,S,s,area/ag,AG,National Council,48,2010-11-29,,,female
+eb49c0af-b3d8-496a-989b-118cd3e7f773,Pascale Bruderer Wyss,"Bruderer Wyss, Pascale",,,,S,s,area/ag,AG,National Council,48,2010-11-29,,https://upload.wikimedia.org/wikipedia/commons/8/8a/Pascale_Bruderer_NRCR_President_cropped.jpg,female
 cc08a9e7-df2f-4f66-b46d-da063bbca14a,Paul Rechsteiner,"Rechsteiner, Paul",,,,S,s,area/sg,SG,National Council,48,,,,male
 5fd87ed2-dcfa-4afa-838b-8aa8f605c057,Paul-André Roux,"Roux, Paul-André",,,,CEg,ceg,area/vs,VS,National Council,48,2010-03-01,,,male
 dd26f921-82a9-4feb-8fdf-6b95ed9fab58,Peter Flück,"Flück, Peter",,,,RL,rl,area/be,BE,National Council,48,2010-11-29,,,male
@@ -164,14 +164,14 @@ decbf36c-613b-430c-9890-0f4404c018f3,Peter Malama,"Malama, Peter",,,,RL,rl,area/
 28639b42-4a4c-4660-a800-4fec073a4c3f,Philipp Müller,"Müller, Philipp",,,,RL,rl,area/ag,AG,National Council,48,2008-11-22,,,male
 075dadb8-66ee-4c9c-b15f-1804dd73b34a,Pierre Triponez,"Triponez, Pierre",,,,RL,rl,area/be,BE,National Council,48,2008-11-22,,,male
 6a39d4b6-fe3a-42c6-8f35-237de188f06a,Pierre-François Veillon,"Veillon, Pierre-François",,,,V,v,area/vd,VD,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/1/13/Pierre-François_Veillon_(2007).jpg,male
-b67a4522-0356-4d71-89a5-7008fb3104d8,Pirmin Bischof,"Bischof, Pirmin",,,,CEg,ceg,area/so,SO,National Council,48,,,,male
+b67a4522-0356-4d71-89a5-7008fb3104d8,Pirmin Bischof,"Bischof, Pirmin",,,,CEg,ceg,area/so,SO,National Council,48,,,"https://upload.wikimedia.org/wikipedia/commons/c/cb/Pirmin_Bischof,_2007.jpg",male
 0e0efc04-8569-46f7-80d6-018de9f27eab,Pirmin Schwander,"Schwander, Pirmin",,,,V,v,area/sz,SZ,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/6/67/Pirmin_Schwander_(2007).jpg,male
 0f198783-2929-4da5-8774-45af31544d3a,Pius Segmüller,"Segmüller, Pius",,,,CEg,ceg,area/lu,LU,National Council,48,,,,male
 3a52944f-e859-4ecd-8a3d-234cef0abca7,Prisca Birrer-Heimo,"Birrer-Heimo, Prisca",,,,S,s,area/lu,LU,National Council,48,2010-05-31,,,female
 7b45b343-714c-4c80-8361-4494eb3cb787,Reto Wehrli,"Wehrli, Reto",,,,CEg,ceg,area/sz,SZ,National Council,48,,,,male
 22d73fc1-f41f-471a-bed5-5cec3155ae2e,Ricardo Lumengo,"Lumengo, Ricardo",,,,-,-,area/be,BE,National Council,48,2010-11-25,,,male
-ca00fcd1-4070-41e5-883e-45d04649a6d1,Roberto Schmidt,"Schmidt, Roberto",,,,CEg,ceg,area/vs,VS,National Council,48,,,,male
-6c983a28-9e75-44d9-aca5-93ec616703bd,Roger Nordmann,"Nordmann, Roger",,,,S,s,area/vd,VD,National Council,48,,,,male
+ca00fcd1-4070-41e5-883e-45d04649a6d1,Roberto Schmidt,"Schmidt, Roberto",,,,CEg,ceg,area/vs,VS,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/0/04/Roberto_Schmidt.jpg,male
+6c983a28-9e75-44d9-aca5-93ec616703bd,Roger Nordmann,"Nordmann, Roger",,,,S,s,area/vd,VD,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/6/64/Roger_Nordmann_(2007).jpg,male
 4c956315-a21a-4f47-9e85-405c1f2a0fde,Roland F. Borer,"Borer, Roland F.",,,,V,v,area/so,SO,National Council,48,,,,male
 1714accb-397f-406a-aa1c-89b341db6aad,Roland Rino Büchel,"Büchel, Roland Rino",,,,V,v,area/sg,SG,National Council,48,2010-03-01,,"https://upload.wikimedia.org/wikipedia/commons/d/da/Roland_Rino_Büchel,_2010.jpg",male
 611aa472-ad1a-4ec1-921a-3a7ab64c6507,Rudolf Joder,"Joder, Rudolf",,,,V,v,area/be,BE,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/6/61/Rudolf_Joder_(2007).jpg,male
@@ -185,7 +185,7 @@ a74104ee-99e6-4c07-8275-831980f46c91,Sebastian Frehner,"Frehner, Sebastian",,,,V
 f38a5587-3ddb-4a17-88e2-2ee230a48ce9,Sep Cathomas,"Cathomas, Sep",,,,CEg,ceg,area/gr,GR,National Council,48,,,,male
 a13dd9e3-b235-48be-a09a-767ebbbed32e,Silvia Schenker,"Schenker, Silvia",,,,S,s,area/bs,BS,National Council,48,,,,female
 e83fa140-ef3b-4bb5-b017-6579da3b6fe7,Simon Schenk,"Schenk, Simon",,,,V,v,area/be,BE,National Council,48,,,,male
-c5132244-82ec-4527-8672-ba081d6620a6,Stéphane Rossini,"Rossini, Stéphane",,,,S,s,area/vs,VS,National Council,48,,,,male
+c5132244-82ec-4527-8672-ba081d6620a6,Stéphane Rossini,"Rossini, Stéphane",,,,S,s,area/vs,VS,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/7/70/Stéphane_Rossini_(2007).jpg,male
 a21097d0-18b0-45e2-a8c4-515afb901ff2,Susanne Leutenegger Oberholzer,"Leutenegger Oberholzer, Susanne",,,,S,s,area/bl,BL,National Council,48,,,,female
 a83c5626-de80-45c4-82fc-4be549bc2dee,Sylvia Flückiger-Bäni,"Flückiger-Bäni, Sylvia",,,,V,v,area/ag,AG,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/b/b9/Sylvia_Flückiger-Bäni.jpg,female
 2fd61a08-1c0d-4873-908c-956a9871d270,Sylvie Perrinjaquet,"Perrinjaquet, Sylvie",,,,RL,rl,area/ne,NE,National Council,48,2008-11-22,,https://upload.wikimedia.org/wikipedia/commons/a/a7/Sylvie_perrinjaquet.jpg,female
@@ -208,12 +208,12 @@ ff7c5794-703c-4e0c-a086-e256c2ad83ee,Thomas Weibel,"Weibel, Thomas",,,,CEg,ceg,a
 345ef9b7-29a5-46e4-b89d-d155770150b9,Urs Hofmann,"Hofmann, Urs",,,,S,s,area/ag,AG,National Council,48,,2009-02-28,,male
 74e3eb51-f6e9-4d6a-8455-db2033e38637,Ursula Haller Vannini,"Haller Vannini, Ursula",,,,BD,bd,area/be,BE,National Council,48,2009-03-02,,https://upload.wikimedia.org/wikipedia/commons/2/2a/Ursula_Haller_2.jpg,female
 38643971-a6cc-4a4d-b470-78f9df804bf4,Ursula Wyss,"Wyss, Ursula",,,,S,s,area/be,BE,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/d/d6/Ursula_Wyss_2.jpg,female
-b39b9635-3275-48c7-92fd-481205c0ad93,Verena Diener Lenz,"Diener Lenz, Verena",,,,CEg,ceg,area/zh,ZH,National Council,48,,2007-12-05,,female
-fe70b82e-1227-4e29-9b7f-29dc9ccb8d73,Viola Amherd,"Amherd, Viola",,,,CEg,ceg,area/vs,VS,National Council,48,,,,female
+b39b9635-3275-48c7-92fd-481205c0ad93,Verena Diener Lenz,"Diener Lenz, Verena",,,,CEg,ceg,area/zh,ZH,National Council,48,,2007-12-05,https://upload.wikimedia.org/wikipedia/commons/7/7f/Verena_Diener.jpg,female
+fe70b82e-1227-4e29-9b7f-29dc9ccb8d73,Viola Amherd,"Amherd, Viola",,,,CEg,ceg,area/vs,VS,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/e/ec/Viola_Amherd_(2007).jpg,female
 2d813239-4322-4259-ad21-d3ae22967aae,Walter Donzé,"Donzé, Walter",,,,CEg,ceg,area/be,BE,National Council,48,,2010-09-12,,male
 44ad4922-d15b-498c-ad99-52981183df63,Walter Glur,"Glur, Walter",,,,V,v,area/ag,AG,National Council,48,,,,male
 e722d351-9838-40e3-84ce-bdd8103198b3,Walter Müller,"Müller, Walter",,,,RL,rl,area/sg,SG,National Council,48,2008-11-22,,,male
-649adfa1-be17-4108-a2b0-db4910720e69,Walter Wobmann,"Wobmann, Walter",,,,V,v,area/so,SO,National Council,48,,,,male
+649adfa1-be17-4108-a2b0-db4910720e69,Walter Wobmann,"Wobmann, Walter",,,,V,v,area/so,SO,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/0/05/Walter_Wobmann_(2007).jpg,male
 a294ca2c-16f7-40d5-9686-46ac1e9f9d30,Werner Marti,"Marti, Werner",,,,S,s,area/gl,GL,National Council,48,,2008-12-31,,male
 c4b0c2b0-a4c7-4fdc-bd8d-c5dfd0aa5fe3,Werner Messmer,"Messmer, Werner",,,,RL,rl,area/tg,TG,National Council,48,2008-11-22,,,male
 b20821d8-1c66-4d0a-af10-404971b0b035,Yvan Perrin,"Perrin, Yvan",,,,V,v,area/ne,NE,National Council,48,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Yvan_Perrin.jpg,male
