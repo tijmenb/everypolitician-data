@@ -1,7 +1,13 @@
 {
   "persons": [
     {
-      "id": "person/anthony_arthur_green",
+      "id": "44b28def-c01d-4f37-b957-f2ec111bb3f1",
+      "identifiers": [
+        {
+          "identifier": "anthony_arthur_green",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Anthony Arthur Green",
       "sources": [
         {
@@ -10,7 +16,13 @@
       ]
     },
     {
-      "id": "person/bernice_alicia_olsson",
+      "id": "1dee57c9-4872-44bf-aa9f-4abde5b9b91b",
+      "identifiers": [
+        {
+          "identifier": "bernice_alicia_olsson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Bernice Alicia Olsson",
       "sources": [
         {
@@ -20,7 +32,13 @@
     },
     {
       "email": "brian.isaac@helanta.co.sh",
-      "id": "person/brian_william_isaac",
+      "id": "a977daff-a537-4ff4-8b99-5955ff9a69b2",
+      "identifiers": [
+        {
+          "identifier": "brian_william_isaac",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/brian.jpg",
       "images": [
         {
@@ -36,7 +54,13 @@
     },
     {
       "email": "christine.scipio@helanta.co.sh",
-      "id": "person/christine_lilian_scipio-o’dean",
+      "id": "8a798398-710e-4d69-b95f-53be55b71dca",
+      "identifiers": [
+        {
+          "identifier": "christine_lilian_scipio-o’dean",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/christine.jpg",
       "images": [
         {
@@ -52,7 +76,13 @@
     },
     {
       "email": "Councillor.George@helanta.co.sh",
-      "id": "person/cyril_robert_george",
+      "id": "0a163df8-33ff-4b14-b3a4-c51729e7fa8e",
+      "identifiers": [
+        {
+          "identifier": "cyril_robert_george",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/DSC_0627.jpg",
       "images": [
         {
@@ -67,7 +97,13 @@
       ]
     },
     {
-      "id": "person/derek_franklin_thomas",
+      "id": "95b6e272-bdb4-4e56-8909-0762048df310",
+      "identifiers": [
+        {
+          "identifier": "derek_franklin_thomas",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Derek Franklin Thomas",
       "sources": [
         {
@@ -77,7 +113,13 @@
     },
     {
       "email": "Email:Councillor.Ellick@helanta.co.sh",
-      "id": "person/gavin_george_ellick",
+      "id": "83501731-2f0d-4485-a11a-d5d33f5cff4e",
+      "identifiers": [
+        {
+          "identifier": "gavin_george_ellick",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/eddie.jpg",
       "images": [
         {
@@ -92,7 +134,13 @@
       ]
     },
     {
-      "id": "person/ian_sebastian_rummery",
+      "id": "154a18fe-0b7c-40e4-a59d-8a6a414ffa97",
+      "identifiers": [
+        {
+          "identifier": "ian_sebastian_rummery",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Ian Sebastian Rummery",
       "sources": [
         {
@@ -102,7 +150,13 @@
     },
     {
       "email": "lawson.henry@helanta.co.sh",
-      "id": "person/lawson_arthur_henry",
+      "id": "ee7f0a90-5959-4d04-87b4-9ae9ed45f0aa",
+      "identifiers": [
+        {
+          "identifier": "lawson_arthur_henry",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/DSC_0606.jpg",
       "images": [
         {
@@ -117,7 +171,13 @@
       ]
     },
     {
-      "id": "person/leslie_paul_baldwin",
+      "id": "13adddcd-b62d-4080-9fbd-fe5bebb1acea",
+      "identifiers": [
+        {
+          "identifier": "leslie_paul_baldwin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Leslie Paul Baldwin",
       "sources": [
         {
@@ -127,7 +187,13 @@
     },
     {
       "email": "nigel.dollery@helanta.co.sh",
-      "id": "person/nigel_dollery",
+      "id": "05cabc01-f62d-4493-a145-fa7e04ca3f03",
+      "identifiers": [
+        {
+          "identifier": "nigel_dollery",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/adj-posterposter-2.jpg",
       "images": [
         {
@@ -143,7 +209,13 @@
     },
     {
       "email": "duncan.wilson@helanta.co.sh",
-      "id": "person/wilson_charles_duncan",
+      "id": "fadc01d8-f121-4103-93b3-965787f018ce",
+      "identifiers": [
+        {
+          "identifier": "wilson_charles_duncan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://www.sainthelena.gov.sh/wp-content/uploads/2013/02/tony.jpg",
       "images": [
         {
@@ -188,84 +260,84 @@
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/anthony_arthur_green",
+      "person_id": "05cabc01-f62d-4493-a145-fa7e04ca3f03",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/bernice_alicia_olsson",
+      "person_id": "0a163df8-33ff-4b14-b3a4-c51729e7fa8e",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/brian_william_isaac",
+      "person_id": "13adddcd-b62d-4080-9fbd-fe5bebb1acea",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/christine_lilian_scipio-o’dean",
+      "person_id": "154a18fe-0b7c-40e4-a59d-8a6a414ffa97",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/cyril_robert_george",
+      "person_id": "1dee57c9-4872-44bf-aa9f-4abde5b9b91b",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/derek_franklin_thomas",
+      "person_id": "44b28def-c01d-4f37-b957-f2ec111bb3f1",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/gavin_george_ellick",
+      "person_id": "83501731-2f0d-4485-a11a-d5d33f5cff4e",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/ian_sebastian_rummery",
+      "person_id": "8a798398-710e-4d69-b95f-53be55b71dca",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/lawson_arthur_henry",
+      "person_id": "95b6e272-bdb4-4e56-8909-0762048df310",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/leslie_paul_baldwin",
+      "person_id": "a977daff-a537-4ff4-8b99-5955ff9a69b2",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/nigel_dollery",
+      "person_id": "ee7f0a90-5959-4d04-87b4-9ae9ed45f0aa",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "IND",
       "organization_id": "legislature",
-      "person_id": "person/wilson_charles_duncan",
+      "person_id": "fadc01d8-f121-4103-93b3-965787f018ce",
       "role": "member"
     }
   ],
