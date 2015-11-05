@@ -4527,11 +4527,16 @@
     },
     {
       "birth_date": "1957-02-03",
+      "gender": "male",
       "id": "264ca37a-c37e-4875-8159-c8feddb890bd",
       "identifiers": [
         {
           "identifier": "210",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7106472",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gh/userfiles/mps/272_KYEI_MENSAH_BONSU_OSEI.jpg",
@@ -4540,7 +4545,35 @@
           "url": "http://www.parliament.gh/userfiles/mps/272_KYEI_MENSAH_BONSU_OSEI.jpg"
         }
       ],
-      "name": "Osei Kyei-Mensah-Bonsu,"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Osei_Kyei_Mensah_Bonsu"
+        }
+      ],
+      "name": "Osei Kyei-Mensah-Bonsu,",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Osei Kyei Mensah Bonsu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Osei Kyei Mensah Bonsu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Osei Kyei Mensah Bonsu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Osei Kyei Mensah Bonsu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-10-19",
