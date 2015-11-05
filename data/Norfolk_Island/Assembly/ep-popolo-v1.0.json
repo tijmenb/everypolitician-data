@@ -1,7 +1,13 @@
 {
   "persons": [
     {
-      "id": "person/david_e._buffett",
+      "id": "b29ebeb2-e544-4bf9-9c49-d54e95f44f5c",
+      "identifiers": [
+        {
+          "identifier": "david_e._buffett",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "David E. Buffett",
       "sources": [
         {
@@ -10,7 +16,13 @@
       ]
     },
     {
-      "id": "person/david_r._porter",
+      "id": "7d6b5d3b-84a2-40f8-97fd-6476da99bb70",
+      "identifiers": [
+        {
+          "identifier": "david_r._porter",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "David R. Porter",
       "sources": [
         {
@@ -19,7 +31,13 @@
       ]
     },
     {
-      "id": "person/haydn_p._evans",
+      "id": "8096d99f-f121-4162-92e8-5ab43be8ef5b",
+      "identifiers": [
+        {
+          "identifier": "haydn_p._evans",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Haydn P. Evans",
       "sources": [
         {
@@ -28,7 +46,13 @@
       ]
     },
     {
-      "id": "person/lisle_d.snell",
+      "id": "6408bc28-6862-4791-b51e-74f0b34f7244",
+      "identifiers": [
+        {
+          "identifier": "lisle_d.snell",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Lisle D.Snell",
       "sources": [
         {
@@ -37,7 +61,13 @@
       ]
     },
     {
-      "id": "person/melissa_ward",
+      "id": "898491b4-0ea0-4a71-99d4-a2eabbe3264e",
+      "identifiers": [
+        {
+          "identifier": "melissa_ward",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Melissa Ward",
       "sources": [
         {
@@ -46,7 +76,13 @@
       ]
     },
     {
-      "id": "person/robin_e._adams",
+      "id": "98fc4630-25bd-426a-9e42-197c402eda04",
+      "identifiers": [
+        {
+          "identifier": "robin_e._adams",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Robin E. Adams",
       "sources": [
         {
@@ -55,7 +91,13 @@
       ]
     },
     {
-      "id": "person/ronald_c._nobbs",
+      "id": "ee4e3369-1acb-4207-919e-f1555d23bb47",
+      "identifiers": [
+        {
+          "identifier": "ronald_c._nobbs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Ronald C. Nobbs",
       "sources": [
         {
@@ -64,7 +106,13 @@
       ]
     },
     {
-      "id": "person/ronald_j._ward",
+      "id": "20f7fa5e-d2e2-42de-a35b-52776cceb029",
+      "identifiers": [
+        {
+          "identifier": "ronald_j._ward",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Ronald J. Ward",
       "sources": [
         {
@@ -73,7 +121,13 @@
       ]
     },
     {
-      "id": "person/timothy_j.sheridan",
+      "id": "7de17b66-8b2e-4cf3-b9b8-f05aa0a82dfc",
+      "identifiers": [
+        {
+          "identifier": "timothy_j.sheridan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Timothy J.Sheridan",
       "sources": [
         {
@@ -111,63 +165,63 @@
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/david_e._buffett",
+      "person_id": "20f7fa5e-d2e2-42de-a35b-52776cceb029",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/david_r._porter",
+      "person_id": "6408bc28-6862-4791-b51e-74f0b34f7244",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/haydn_p._evans",
+      "person_id": "7d6b5d3b-84a2-40f8-97fd-6476da99bb70",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/lisle_d.snell",
+      "person_id": "7de17b66-8b2e-4cf3-b9b8-f05aa0a82dfc",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/melissa_ward",
+      "person_id": "8096d99f-f121-4162-92e8-5ab43be8ef5b",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/robin_e._adams",
+      "person_id": "898491b4-0ea0-4a71-99d4-a2eabbe3264e",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/ronald_c._nobbs",
+      "person_id": "98fc4630-25bd-426a-9e42-197c402eda04",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/ronald_j._ward",
+      "person_id": "b29ebeb2-e544-4bf9-9c49-d54e95f44f5c",
       "role": "member"
     },
     {
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "person/timothy_j.sheridan",
+      "person_id": "ee4e3369-1acb-4207-919e-f1555d23bb47",
       "role": "member"
     }
   ],
