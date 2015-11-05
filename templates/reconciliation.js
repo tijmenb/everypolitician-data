@@ -101,12 +101,12 @@ jQuery(function($) {
 
     var existingPersonHTML = _.map(match[1], function(uuid) {
       var person = _.findWhere(existingPeople, { uuid: uuid });
-      return renderTemplate('person', { person: person });
+      return renderTemplate('person', { person: person, field: existingField });
     });
 
     var html = renderTemplate('pairing', {
       existingPersonHTML: existingPersonHTML.join("\n"),
-      incomingPersonHTML: renderTemplate('person', { person: incomingPerson })
+      incomingPersonHTML: renderTemplate('person', { person: incomingPerson, field: incomingField })
     });
     $('.pairings').append(html);
   });
