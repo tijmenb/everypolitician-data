@@ -230,6 +230,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "d026b523-77a8-40c1-bc46-0d0ed5dbb1de",
       "identifiers": [
         {
@@ -3322,6 +3323,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bill_Morneau"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/William_Morneau"
         }
       ],
       "name": "Bill Morneau",
@@ -16708,14 +16713,77 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Jean-Yves",
       "id": "6b803fc2-03c4-4edd-ba3d-a36d20f65d61",
       "identifiers": [
         {
           "identifier": "jean-yves-duclos",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "171224299",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no93033152",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "179907182",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "43025904",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1685302",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jean-Yves_Duclos"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jean-Yves_Duclos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Yves_Duclos"
         }
       ],
       "name": "Jean-Yves Duclos",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jean-Yves Duclos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jean-Yves Duclos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jean-Yves Duclos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jean-Yves Duclos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jean-Yves Duclos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -20552,6 +20620,11 @@
         {
           "lang": "en",
           "name": "Ken McDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кен МакДональд",
           "note": "multilingual"
         }
       ],
@@ -26743,6 +26816,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "ee71ddfb-28fc-4606-b650-ca699f80cd38",
       "identifiers": [
         {
