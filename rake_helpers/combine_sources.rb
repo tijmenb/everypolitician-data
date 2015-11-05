@@ -191,6 +191,7 @@ namespace :merge_sources do
       header_line = File.open(file, &:gets)
       all_headers | CSV.parse_line(header_line).map { |h| remap(h.downcase) }
     end
+    all_headers |= [:id]
 
     merged_rows = []
 
