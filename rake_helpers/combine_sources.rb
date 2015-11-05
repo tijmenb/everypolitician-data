@@ -211,10 +211,13 @@ namespace :merge_sources do
         id_map = Hash[CSV.table(ids_file, converters: nil).map { |r| [r[:id], r[:uuid]] }]
       end
       table = csv_table(file)
-      abort "No id column found for #{src[:file]}" unless table.first.keys.include?(:id)
+
       table.each do |row|
+        # If the row has no ID, we'll need something we can treate as one
+        # This 'pseudo id' defaults to slugified 'name' unless provided 
+        row[:pseudoid] = row[:name].downcase.gsub(/\s+/, '_') unless (row[:id] || row[:pseudoid])
         # Assume that incoming data has no useful uuid column
-        row[:uuid] = id_map[row[:id]] ||= SecureRandom.uuid
+        row[:uuid] = id_map[row[:id] || row[:pseudoid]] ||= SecureRandom.uuid
         merged_rows << row.to_hash
       end
       CSV.open(ids_file, 'w') do |csv|
@@ -354,7 +357,7 @@ namespace :merge_sources do
     all_headers << :identifier__everypolitician_legacy
 
     merged_rows.each do |row|
-      row[:identifier__everypolitician_legacy] = row[:id]
+      row[:identifier__everypolitician_legacy] = row[:id] || row[:pseudoid]
       row[:id] = row[:uuid]
     end
 
