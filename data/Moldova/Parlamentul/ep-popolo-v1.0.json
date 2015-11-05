@@ -1,6 +1,28 @@
 {
   "persons": [
     {
+      "id": "15676146-0b4a-45f2-a1d3-72ea4d43ad63",
+      "identifiers": [
+        {
+          "identifier": "668",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=m00oBW14Q68%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=m00oBW14Q68%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Adrian Lebedinschi",
+      "sort_name": "Lebedinschi Adrian",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/668/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
       "birth_date": "1962-03-12",
       "email": "Alexandr.Bannicov@parlament.md",
       "gender": "male",
@@ -344,6 +366,7 @@
       "birth_date": "1975-11-27",
       "email": "Luminita.Bolohan@parlament.md",
       "gender": "male",
+      "given_name": "Andrian",
       "id": "58fff43a-4201-475b-b3e3-1750ed17fb5f",
       "identifiers": [
         {
@@ -683,8 +706,20 @@
           "url": "https://en.wikipedia.org/wiki/Gheorghe_Brega"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gheorghe_Brega"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Georgius_Brega"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Gheorghe_Brega"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Брега,_Георгий"
         }
       ],
       "name": "Brega Gheorghe",
@@ -702,6 +737,11 @@
         {
           "lang": "fr",
           "name": "Gheorghe Brega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Georgius Brega",
           "note": "multilingual"
         },
         {
@@ -768,6 +808,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "6a4cb09e-a7f0-4afc-9126-efa4925474b5",
       "identifiers": [
         {
@@ -2237,6 +2278,28 @@
       ]
     },
     {
+      "id": "5e1d11f2-2bf3-47cc-9b7e-d7631b540624",
+      "identifiers": [
+        {
+          "identifier": "669",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=T%2fdD3BTt37g%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=T%2fdD3BTt37g%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Iurie Cazacu",
+      "sort_name": "Cazacu Iurie",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/669/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
       "birth_date": "1971-01-01",
       "gender": "male",
       "given_name": "Iurie",
@@ -2858,6 +2921,7 @@
       "birth_date": "1953-03-10",
       "email": "Maria.Ciobanu@parlament.md",
       "gender": "female",
+      "given_name": "Maria",
       "id": "6386a0e4-39e8-492c-a522-24b0aeb338ca",
       "identifiers": [
         {
@@ -2877,12 +2941,41 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maria_Ciobanu"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Maria_Ciobanu_(deputat)"
         }
       ],
       "name": "Maria Ciobanu",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Maria Ciobanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maria Ciobanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maria Ciobanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Maria Ciobanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maria Ciobanu",
+          "note": "multilingual"
+        },
         {
           "lang": "ro",
           "name": "Maria Ciobanu",
@@ -4586,6 +4679,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Valerius_Streleț"
+        },
+        {
+          "note": "Wikipedia (nds)",
+          "url": "https://nds.wikipedia.org/wiki/Valeriu_Streleț"
         },
         {
           "note": "Wikipedia (pl)",
@@ -7121,6 +7218,13 @@
     },
     {
       "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "12",
+      "organization_id": "legislature",
+      "person_id": "15676146-0b4a-45f2-a1d3-72ea4d43ad63",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "10",
       "organization_id": "legislature",
       "person_id": "183e9f62-23e0-4b69-a9d4-20494e107f45",
@@ -7362,6 +7466,13 @@
       "on_behalf_of_id": "8",
       "organization_id": "legislature",
       "person_id": "5d86d227-ea12-487f-9044-28ce9ab6ecaf",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "9",
+      "organization_id": "legislature",
+      "person_id": "5e1d11f2-2bf3-47cc-9b7e-d7631b540624",
       "role": "member"
     },
     {
