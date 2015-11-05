@@ -2,37 +2,79 @@
   "persons": [
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/antonio_maria_vegliò",
+      "id": "40a28152-5aa9-41ce-9b01-e551a8e6e0b6",
+      "identifiers": [
+        {
+          "identifier": "antonio_maria_vegliò",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Antonio Maria Vegliò"
     },
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/attilio_nicora",
+      "id": "0b2612a9-022d-4f6e-b906-193cbdd1d3ee",
+      "identifiers": [
+        {
+          "identifier": "attilio_nicora",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Attilio Nicora"
     },
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/domenico_calcagno",
+      "id": "93d2a9b7-9c75-4291-94f8-5b2637a5d846",
+      "identifiers": [
+        {
+          "identifier": "domenico_calcagno",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Domenico Calcagno"
     },
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/giovanni_battista_re",
+      "id": "03b42003-34aa-44c8-81ec-957558d7004f",
+      "identifiers": [
+        {
+          "identifier": "giovanni_battista_re",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Giovanni Battista Re"
     },
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/giuseppe_bertello",
+      "id": "c9350a27-551e-4bb0-b7a6-913b539e0536",
+      "identifiers": [
+        {
+          "identifier": "giuseppe_bertello",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Giuseppe Bertello"
     },
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/jean-louis_tauran",
+      "id": "a0313d16-3ae5-47ed-a4ef-4635d8f3bf43",
+      "identifiers": [
+        {
+          "identifier": "jean-louis_tauran",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Jean-Louis Tauran"
     },
     {
       "honorific_prefix": "Cardinal",
-      "id": "person/leonardo_sandri",
+      "id": "47b455df-d704-4848-b84e-5ea95410adf9",
+      "identifiers": [
+        {
+          "identifier": "leonardo_sandri",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "name": "Leonardo Sandri"
     }
   ],
@@ -65,49 +107,49 @@
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/antonio_maria_vegliò",
+      "person_id": "03b42003-34aa-44c8-81ec-957558d7004f",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/attilio_nicora",
+      "person_id": "0b2612a9-022d-4f6e-b906-193cbdd1d3ee",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/domenico_calcagno",
+      "person_id": "40a28152-5aa9-41ce-9b01-e551a8e6e0b6",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/giovanni_battista_re",
+      "person_id": "47b455df-d704-4848-b84e-5ea95410adf9",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/giuseppe_bertello",
+      "person_id": "93d2a9b7-9c75-4291-94f8-5b2637a5d846",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/jean-louis_tauran",
+      "person_id": "a0313d16-3ae5-47ed-a4ef-4635d8f3bf43",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "_ind",
       "organization_id": "legislature",
-      "person_id": "person/leonardo_sandri",
+      "person_id": "c9350a27-551e-4bb0-b7a6-913b539e0536",
       "role": "member"
     }
   ],
