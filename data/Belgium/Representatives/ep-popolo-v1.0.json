@@ -9097,6 +9097,12 @@
     },
     {
       "birth_date": "1987-01-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "kristofcalvo"
+        }
+      ],
       "email": "eb.remaked@ovlac.fotsirk",
       "gender": "male",
       "given_name": "Kristof",
@@ -9137,6 +9143,14 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Kristof_Calvo"
+        },
+        {
+          "note": "facebook",
+          "url": "kristofcalvo"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kristofcalvo.be/"
         }
       ],
       "name": "Kristof Calvo",
@@ -11080,10 +11094,6 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Olivier_Chastel"
-        },
-        {
-          "note": "Wikipedia (wa)",
-          "url": "https://wa.wikipedia.org/wiki/Olivier_Chastel"
         },
         {
           "note": "website",
