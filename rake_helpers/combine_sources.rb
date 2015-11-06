@@ -255,11 +255,17 @@ namespace :merge_sources do
           incoming_field = merger[:incoming_field]
           existing_field = merger[:existing_field]
 
+          reconciled = CSV::Table.new([])
           if File.exist? rec_filename
             reconciled = CSV.table(rec_filename)
-          else
+          end
+          reconciler = Reconciler.new(merged_rows, merger, reconciled)
+          need_reconciling = incoming_data.find_all do |d|
+            reconciler.find_all(d).empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
+          end
+          if need_reconciling.any?
             warn "Need to create #{rec_file}".cyan
-            fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
+            fuzzer = Fuzzer.new(merged_rows, need_reconciling, merger)
             matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
             FileUtils.mkpath File.dirname rec_filename
             existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
