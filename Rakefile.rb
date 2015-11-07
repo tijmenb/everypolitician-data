@@ -58,7 +58,7 @@ task 'countries.json' do
       name: name,
       # Deprecated — will be removed soon!
       country: name,
-      code: meta['iso_code'] || name_to_iso_code(name),
+      code: (meta['iso_code'] || name_to_iso_code(name)).upcase,
       slug: slug,
       legislatures: hs.map { |h|
         json_file = h + '/ep-popolo-v1.0.json'
