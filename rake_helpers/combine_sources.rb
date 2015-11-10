@@ -27,7 +27,7 @@ class Fuzzer
         nil
       else
         matches = fuzzer.find_all_with_score(incoming_row[@_incoming_field])
-        unless matches
+        unless matches.any?
           warn "No matches for #{incoming_row}"
           next
         end
@@ -255,23 +255,32 @@ namespace :merge_sources do
           incoming_field = merger[:incoming_field]
           existing_field = merger[:existing_field]
 
+          reconciled = CSV::Table.new([])
           if File.exist? rec_filename
             reconciled = CSV.table(rec_filename)
-          else
+          end
+          reconciler = Reconciler.new(merged_rows, merger, reconciled)
+          need_reconciling = incoming_data.find_all do |d|
+            reconciler.find_all(d).to_a.empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
+          end
+          fuzzer = Fuzzer.new(merged_rows, need_reconciling, merger)
+          matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
+          FileUtils.mkpath File.dirname rec_filename
+          existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
+          templates_dir = File.expand_path('../../templates', __FILE__)
+          reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
+          reconciliation_scss = File.read(File.join(templates_dir, 'reconciliation.scss'))
+          engine = Sass::Engine.new(reconciliation_scss, syntax: :scss, load_paths: [templates_dir])
+          reconciliation_css = engine.render
+          html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
+          html_filename = rec_filename.gsub('.csv', '.html')
+          File.write(html_filename, html.result(binding))
+          if need_reconciling.any?
+            warn "#{need_reconciling.size} out of #{incoming_data.size} rows not reconciled".red
+          end
+          if !File.exist?(rec_filename)
             warn "Need to create #{rec_file}".cyan
-            fuzzer = Fuzzer.new(merged_rows, incoming_data, merger)
-            matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
-            FileUtils.mkpath File.dirname rec_filename
-            existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
-            templates_dir = File.expand_path('../../templates', __FILE__)
-            reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
-            reconciliation_scss = File.read(File.join(templates_dir, 'reconciliation.scss'))
-            engine = Sass::Engine.new(reconciliation_scss, syntax: :scss, load_paths: [templates_dir])
-            reconciliation_css = engine.render
-            html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
-            html_filename = rec_filename.gsub('.csv', '.html')
-            File.write(html_filename, html.result(binding))
-            abort "Created #{html_filename} — please check it and re-run".green
+            abort "Created #{html_filename} — please check it and re-run".green
           end
         end
 

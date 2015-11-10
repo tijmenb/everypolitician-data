@@ -47,7 +47,7 @@ var updateProgressBar = function updateProgressBar(){
 var generateCSV = function generateCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: window.votes
+    data: window.reconciled.concat(window.votes)
   });
 }
 
