@@ -261,7 +261,7 @@ namespace :merge_sources do
           end
           reconciler = Reconciler.new(merged_rows, merger, reconciled)
           need_reconciling = incoming_data.find_all do |d|
-            reconciler.find_all(d).empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
+            reconciler.find_all(d).to_a.empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
           end
           fuzzer = Fuzzer.new(merged_rows, need_reconciling, merger)
           matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
