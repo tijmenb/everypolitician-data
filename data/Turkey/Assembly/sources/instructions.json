@@ -20,7 +20,7 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": { 
-        "incoming_field": "wikipedia__tr",
+        "incoming_field": "orig",
         "existing_field": "wikipedia__tk"
       }
     },
