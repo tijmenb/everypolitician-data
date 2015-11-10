@@ -27,7 +27,7 @@ class Fuzzer
         nil
       else
         matches = fuzzer.find_all_with_score(incoming_row[@_incoming_field])
-        unless matches
+        unless matches.any?
           warn "No matches for #{incoming_row}"
           next
         end
