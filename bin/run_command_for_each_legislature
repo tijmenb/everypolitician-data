@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+#
+# This script changes into each legislature directory in turn and then runs this
+# scripts arguments as a command. If any of the commands fail to run then the
+# whole script will exit with a non-zero status.
+
+set -e
+
+if [[ $# = 0 ]]; then
+  echo "Usage: $0 <command>" 2>&1
+  exit -1
+fi
+
+for dir in data/*/*; do
+  if [[ -d "$dir" ]]; then
+    (
+      cd "$dir"
+      eval "$@"
+    )
+  fi
+done
