@@ -20,7 +20,9 @@ var vote = function vote($choice){
   var vote = [];
 
   if($choice.is('.skip-person')) {
-    // do nothing
+    // Insert a null value to indicate skip, these are removed when
+    // serializing to CSV.
+    window.votes.push( null );
   } else if($choice.is('.no-matches')){
     window.votes.push( [incomingPersonID, null] );
   } else {
@@ -47,7 +49,7 @@ var updateProgressBar = function updateProgressBar(){
 var generateCSV = function generateCSV(){
   return Papa.unparse({
     fields: ['id', 'uuid'],
-    data: window.reconciled.concat(window.votes)
+    data: window.reconciled.concat(_.compact(window.votes))
   });
 }
 
