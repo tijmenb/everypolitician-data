@@ -4092,7 +4092,6 @@
           "value": "http://twitter.com/RealBobKatter"
         }
       ],
-      "death_date": "1990-03-18",
       "email": "Bob.Katter.MP@aph.gov.au",
       "family_name": "Katter",
       "gender": "male",
@@ -11878,6 +11877,11 @@
         },
         {
           "lang": "es",
+          "name": "Graeme Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Graeme Campbell",
           "note": "multilingual"
         },
@@ -26897,16 +26901,54 @@
       ]
     },
     {
+      "birth_date": "1936-10-09",
+      "death_date": "1996-04-08",
       "family_name": "Young",
+      "gender": "male",
       "given_name": "Michael",
       "id": "bb37506f-47e7-4c98-9811-b0a829253830",
       "identifiers": [
         {
           "identifier": "10691",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "476287",
+          "scheme": "nlatrove"
+        },
+        {
+          "identifier": "91541329",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q15500212",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mick_Young"
         }
       ],
       "name": "Michael Young",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mick Young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mick Young",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mick Young",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Young, Michael",
       "sources": [
         {
@@ -32747,16 +32789,41 @@
       ]
     },
     {
+      "birth_date": "1918-09-05",
+      "death_date": "1990-03-18",
       "family_name": "Katter",
+      "gender": "male",
       "given_name": "Robert",
       "id": "cdda6599-192b-470c-916f-14bbbf04ef70",
       "identifiers": [
         {
           "identifier": "10353",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4932985",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Katter,_Sr."
         }
       ],
       "name": "Robert Katter",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bob Katter, Sr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bob Katter, Sr.",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Katter, Robert",
       "sources": [
         {
