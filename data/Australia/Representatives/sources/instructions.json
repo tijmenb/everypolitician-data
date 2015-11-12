@@ -52,6 +52,14 @@
       }
     },
     {
+      "file": "manual/guessed-emails.csv",
+      "type": "person",
+      "merge": { 
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
+      }
+    },
+    {
       "file": "ocd/divisions.csv",
       "create": {
         "type": "ocd",
