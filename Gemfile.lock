@@ -5,6 +5,13 @@ GIT
     csv_to_popolo (0.15.0)
       json
 
+GIT
+  remote: https://github.com/everypolitician/wikisnakker
+  revision: 6130a728fd57a51c882f58f67ad4c3defb944f84
+  branch: master
+  specs:
+    wikisnakker (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -39,6 +46,7 @@ DEPENDENCIES
   pry
   rake
   sass
+  wikisnakker!
   yajl-ruby
 
 BUNDLED WITH
