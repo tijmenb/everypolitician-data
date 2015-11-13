@@ -135,4 +135,17 @@ namespace :transform do
     raise "Memberships should not have embedded areas" if @json[:memberships].any? { |m| m.key? :area }
   end
 
+  #---------------------------------------------------------------------
+  # Add party wikidata information
+  #---------------------------------------------------------------------
+  task :write => :party_wikidata
+  task :party_wikidata => :load do
+    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'party' }.each do |src|
+      party_data = JSON.parse(File.read(src[:file]), symbolize_names: true)
+      @json[:organizations].each do |org|
+        next unless org[:classification] == 'party'
+        org.merge!(party_data.fetch(org[:id].sub(/^party\//, '').to_sym, {}))
+      end
+    end
+  end
 end
