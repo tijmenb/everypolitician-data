@@ -7469,11 +7469,17 @@
     },
     {
       "email": "soniabirdikenya@gmail.com",
+      "gender": "female",
+      "given_name": "Sonia",
       "id": "b771a3c8-3234-40cb-a7dd-a98c91d3651f",
       "identifiers": [
         {
           "identifier": "sunjeev-kour-birdi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16842239",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://info.mzalendo.com/media_root/cache/4b/f1/4bf14bb6978a4889836ac14c2a610aff.jpg",
@@ -7482,7 +7488,30 @@
           "url": "http://info.mzalendo.com/media_root/cache/4b/f1/4bf14bb6978a4889836ac14c2a610aff.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sonia_Birdi"
+        }
+      ],
       "name": "Sunjeev Kour Birdi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Sonia Birdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sonia Birdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sonia Birdi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/sunjeev-kour-birdi/"
@@ -8718,7 +8747,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mbeere_south",
+      "area_id": "area/embu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -9546,7 +9575,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kisumu_town_east",
+      "area_id": "area/kisumu_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -9562,7 +9591,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/taveta",
+      "area_id": "area/taita_taveta",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -10917,7 +10946,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/trans-nzoia",
+      "area_id": "area/samburu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -10997,7 +11026,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/wajir_east",
+      "area_id": "area/tarbaj",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -11754,8 +11783,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/kisumu_town_east",
-      "name": "Kisumu Town East",
+      "id": "area/kisumu_east",
+      "name": "Kisumu East",
       "type": "constituency"
     },
     {
@@ -12071,11 +12100,6 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mbeere_south",
-      "name": "Mbeere South",
       "type": "constituency"
     },
     {
@@ -12434,6 +12458,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/samburu",
+      "name": "Samburu",
+      "type": "constituency"
+    },
+    {
       "id": "area/samburu_east",
       "name": "Samburu East",
       "type": "constituency"
@@ -12539,8 +12568,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/taveta",
-      "name": "Taveta",
+      "id": "area/tarbaj",
+      "name": "Tarbaj",
       "type": "constituency"
     },
     {
