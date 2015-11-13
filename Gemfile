@@ -13,3 +13,7 @@ gem 'iso_country_codes'
 gem 'yajl-ruby', require: 'yajl'
 gem 'sass'
 gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch: 'refactor-recurse-proc'
+
+group :test do
+  gem 'minitest'
+end
