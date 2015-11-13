@@ -2435,10 +2435,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.pa.org.za/media_root/cache/d8/19/d8197775ad3e6fbacfa49ab91bff0341.jpg",
+      "image": "http://www.pa.org.za/media_root/cache/94/1b/941bbbfbd624f23a3cf8248dc8f7075b.jpg",
       "images": [
         {
-          "url": "http://www.pa.org.za/media_root/cache/d8/19/d8197775ad3e6fbacfa49ab91bff0341.jpg"
+          "url": "http://www.pa.org.za/media_root/cache/94/1b/941bbbfbd624f23a3cf8248dc8f7075b.jpg"
         }
       ],
       "name": "Daphne Zukiswa Rantho",
@@ -8379,7 +8379,6 @@
       ]
     },
     {
-      "birth_date": "1979-05-09",
       "email": "mmasutha@parliament.gov.za",
       "gender": "male",
       "given_name": "Michael",
@@ -8410,48 +8409,8 @@
       "name": "Michael Masutha",
       "other_names": [
         {
-          "lang": "da",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
           "name": "Michael Masutha",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Natasha Michael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Natasha Michael",
           "note": "multilingual"
         }
       ],
@@ -9820,12 +9779,17 @@
     },
     {
       "email": "nramatlhodi@parliament.gov.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "9d37aa5d-0a86-4978-ace6-b358115c556c",
       "identifiers": [
         {
           "identifier": "ngoako-abel-ramatlhodi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20981883",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/bf/c1/bfc1a648352ecc542f72e310b09df9a2.jpg",
@@ -9834,7 +9798,20 @@
           "url": "http://www.pa.org.za/media_root/cache/bf/c1/bfc1a648352ecc542f72e310b09df9a2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngoako_Ramatlhodi"
+        }
+      ],
       "name": "Ngoako Abel Ramatlhodi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ngoako Ramatlhodi",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.pa.org.za/person/ngoako-abel-ramatlhodi/"
@@ -12186,13 +12163,19 @@
       ]
     },
     {
+      "birth_date": "1943-07-18",
       "email": "sejmotau@mweb.co.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "2eee58c6-652b-48cb-abb8-5768581eb88b",
       "identifiers": [
         {
           "identifier": "sejamotopo-charles-motau",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7447062",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/fd/ab/fdabf9049e7f07b7f24f46564b73d9e1.jpg",
@@ -12201,7 +12184,55 @@
           "url": "http://www.pa.org.za/media_root/cache/fd/ab/fdabf9049e7f07b7f24f46564b73d9e1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sej_Motau"
+        }
+      ],
       "name": "Sejamotopo Charles Motau",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sej Motau",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.pa.org.za/person/sejamotopo-charles-motau/"
@@ -13161,29 +13192,6 @@
       ]
     },
     {
-      "email": "tmahambehlala@parliament.gov.za",
-      "honorific_prefix": "Ms",
-      "id": "36331feb-00b9-40cc-bf79-822dbb6086b3",
-      "identifiers": [
-        {
-          "identifier": "tandi-mahambehlala",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg",
-      "images": [
-        {
-          "url": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg"
-        }
-      ],
-      "name": "Tandi Mahambehlala",
-      "sources": [
-        {
-          "url": "http://www.pa.org.za/person/tandi-mahambehlala/"
-        }
-      ]
-    },
-    {
       "email": "tkenye@parliament.gov.za",
       "honorific_prefix": "Ms",
       "id": "0ff3ad8e-d9bd-4eae-adb7-689800338e25",
@@ -13352,6 +13360,29 @@
       ]
     },
     {
+      "email": "tmahambehlala@parliament.gov.za",
+      "honorific_prefix": "Ms",
+      "id": "36331feb-00b9-40cc-bf79-822dbb6086b3",
+      "identifiers": [
+        {
+          "identifier": "tandi-mahambehlala",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg"
+        }
+      ],
+      "name": "Thandi Mahambehlala",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/tandi-mahambehlala/"
+        }
+      ]
+    },
+    {
       "email": "ttobias-pokolo@parliament.gov.za",
       "honorific_prefix": "Ms",
       "id": "76288f1a-6284-4e67-b9a4-25a7233ce4bc",
@@ -13417,6 +13448,28 @@
       "sources": [
         {
           "url": "http://www.pa.org.za/person/richard-majola/"
+        }
+      ]
+    },
+    {
+      "honorific_prefix": "Mr",
+      "id": "ee2d1b87-9276-478f-bc30-9eda165f0884",
+      "identifiers": [
+        {
+          "identifier": "thembinkosi-rawula",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.pa.org.za/media_root/cache/d1/65/d1654c39073812ccd32304befa03e02d.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/d1/65/d1654c39073812ccd32304befa03e02d.jpg"
+        }
+      ],
+      "name": "Thembinkosi Rawula",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/thembinkosi-rawula/"
         }
       ]
     },
@@ -17425,6 +17478,13 @@
       "on_behalf_of_id": "ANC",
       "organization_id": "legislature",
       "person_id": "ee05a73d-2624-4b12-86c1-255a08da7361",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "EFF",
+      "organization_id": "legislature",
+      "person_id": "ee2d1b87-9276-478f-bc30-9eda165f0884",
       "role": "member"
     },
     {
