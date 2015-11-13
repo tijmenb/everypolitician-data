@@ -6,8 +6,8 @@ describe GroupWikidata do
 
   subject do
     GroupWikidata.new([
-      { id: 'pnp', wikidata_id: 'Q1076562' },
-      { id: 'ppd', wikidata_id: 'Q199319' }
+      { id: 'pnp', wikidata: 'Q1076562' },
+      { id: 'ppd', wikidata: 'Q199319' }
     ])
   end
 
