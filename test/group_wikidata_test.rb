@@ -23,5 +23,12 @@ describe GroupWikidata do
     it 'has an other_names key for each group' do
       subject.to_hash['pnp'].key?(:other_names).must_equal true
     end
+
+    it 'includes the wikidata id' do
+      subject.to_hash['pnp'].key?(:identifiers).must_equal true
+      wikidata_identifier = subject.to_hash['pnp'][:identifiers][0]
+      wikidata_identifier[:scheme].must_equal 'wikidata'
+      wikidata_identifier[:identifier].must_equal 'Q1076562'
+    end
   end
 end

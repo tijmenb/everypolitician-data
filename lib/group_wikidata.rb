@@ -26,6 +26,12 @@ class GroupWikidata
 
   def fields_for(result)
     {
+      identifiers: [
+        {
+          scheme: 'wikidata',
+          identifier: result.id
+        }
+      ],
       other_names: result.labels.values.map do |label|
         {
           lang: label['language'],
