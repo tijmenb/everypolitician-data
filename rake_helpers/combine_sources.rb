@@ -1,5 +1,5 @@
 require 'sass'
-require_relative '../lib/party_wikidata'
+require_relative '../lib/group_wikidata'
 
 class String
   def tidy
@@ -145,10 +145,10 @@ namespace :merge_sources do
         elsif c[:type] == 'ocd'
           remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + c[:source]
           IO.copy_stream(open(remote), i[:file])
-        elsif c[:type] == 'party-wikidata'
+        elsif c[:type] == 'group-wikidata'
           mapping = csv_table("sources/#{c[:source]}")
-          party_wikidata = PartyWikidata.new(mapping)
-          File.write(i[:file], JSON.pretty_generate(party_wikidata.to_hash))
+          group_wikidata = GroupWikidata.new(mapping)
+          File.write(i[:file], JSON.pretty_generate(group_wikidata.to_hash))
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end

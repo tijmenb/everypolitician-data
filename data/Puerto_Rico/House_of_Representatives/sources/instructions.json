@@ -30,11 +30,11 @@
       "type": "term"
     },
     {
-      "file": "wikidata/parties.json",
-      "type": "party",
+      "file": "wikidata/groups.json",
+      "type": "group",
       "create": {
-        "type": "party-wikidata",
-        "source": "manual/parties_wikidata.csv"
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
       }
     }
   ]

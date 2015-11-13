@@ -1,8 +1,8 @@
 require 'wikisnakker'
 
-# Takes an array of hashes containing party 'id' and 'wikidata_id' then returns
-# wikidata information about each party.
-class PartyWikidata
+# Takes an array of hashes containing group 'id' and 'wikidata_id' then returns
+# wikidata information about each group.
+class GroupWikidata
   attr_reader :wikidata_id_lookup
 
   def initialize(mapping)
@@ -12,10 +12,10 @@ class PartyWikidata
   end
 
   def to_hash
-    party_information = wikidata_results.map do |result|
+    group_information = wikidata_results.map do |result|
       [wikidata_id_lookup[result.id], fields_for(result)]
     end
-    Hash[party_information]
+    Hash[group_information]
   end
 
   def wikidata_results

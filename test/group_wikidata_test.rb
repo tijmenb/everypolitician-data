@@ -1,11 +1,11 @@
 require 'test_helper'
-require_relative '../lib/party_wikidata'
+require_relative '../lib/group_wikidata'
 
-describe PartyWikidata do
-  around { |test| VCR.use_cassette('party-wikidata', &test) }
+describe GroupWikidata do
+  around { |test| VCR.use_cassette('group-wikidata', &test) }
 
   subject do
-    PartyWikidata.new([
+    GroupWikidata.new([
       { id: 'pnp', wikidata_id: 'Q1076562' },
       { id: 'ppd', wikidata_id: 'Q199319' }
     ])
@@ -16,11 +16,11 @@ describe PartyWikidata do
       subject.to_hash.is_a?(Hash).must_equal true
     end
 
-    it 'has a key for each requested party' do
+    it 'has a key for each requested group' do
       subject.to_hash.key?('pnp').must_equal true
     end
 
-    it 'has an other_names key for each party' do
+    it 'has an other_names key for each group' do
       subject.to_hash['pnp'].key?(:other_names).must_equal true
     end
   end
