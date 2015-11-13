@@ -1,4 +1,5 @@
 require 'sass'
+require 'wikisnakker'
 
 class String
   def tidy
@@ -144,6 +145,22 @@ namespace :merge_sources do
         elsif c[:type] == 'ocd'
           remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + c[:source]
           IO.copy_stream(open(remote), i[:file])
+        elsif c[:type] == 'party-wikidata'
+          mapping = csv_table("sources/#{c[:source]}")
+          id_map = Hash[mapping.map { |item| [item[:wikidata_id], item[:id]] }]
+          results = Wikisnakker::Item.find(id_map.keys)
+          name_map = results.map do |result|
+            other_names = result.labels.values.map do |label|
+              {
+                lang: label['language'],
+                name: label['value'],
+                note: 'multilingual'
+              }
+            end
+            [id_map[result.id], { other_names: other_names }]
+          end
+          name_map = Hash[name_map]
+          File.write(i[:file], JSON.pretty_generate(name_map))
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end
