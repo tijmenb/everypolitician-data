@@ -28,6 +28,14 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "wikidata/parties.json",
+      "type": "party",
+      "create": {
+        "type": "wikisnakker",
+        "source": "manual/parties_wikidata.csv"
+      }
     }
   ]
 }
