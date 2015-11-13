@@ -5,16 +5,30 @@ GIT
     csv_to_popolo (0.15.0)
       json
 
+GIT
+  remote: https://github.com/everypolitician/wikisnakker
+  revision: 8deb59352152aefbb5873b70cbf10df6cd7aa877
+  branch: master
+  specs:
+    wikisnakker (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.3.8)
     coderay (1.1.0)
     colorize (0.7.7)
+    crack (0.4.2)
+      safe_yaml (~> 1.0.0)
     fuzzy_match (2.1.0)
+    hashdiff (0.2.2)
     iso_country_codes (0.7.1)
     json (1.8.3)
     method_source (0.8.2)
     mini_portile (0.6.2)
+    minitest (5.8.2)
+    minitest-around (0.3.2)
+      minitest (~> 5.0)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     pry (0.10.1)
@@ -22,8 +36,14 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rake (10.4.2)
+    safe_yaml (1.0.4)
     sass (3.4.19)
     slop (3.6.0)
+    vcr (3.0.0)
+    webmock (1.22.3)
+      addressable (>= 2.3.6)
+      crack (>= 0.3.2)
+      hashdiff
     yajl-ruby (1.2.1)
 
 PLATFORMS
@@ -35,10 +55,15 @@ DEPENDENCIES
   fuzzy_match
   iso_country_codes
   json
+  minitest
+  minitest-around
   nokogiri
   pry
   rake
   sass
+  vcr
+  webmock
+  wikisnakker!
   yajl-ruby
 
 BUNDLED WITH
