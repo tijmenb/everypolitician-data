@@ -1,5 +1,5 @@
 require 'sass'
-require 'wikisnakker'
+require_relative '../lib/party_wikidata'
 
 class String
   def tidy
@@ -147,20 +147,8 @@ namespace :merge_sources do
           IO.copy_stream(open(remote), i[:file])
         elsif c[:type] == 'party-wikidata'
           mapping = csv_table("sources/#{c[:source]}")
-          id_map = Hash[mapping.map { |item| [item[:wikidata_id], item[:id]] }]
-          results = Wikisnakker::Item.find(id_map.keys)
-          name_map = results.map do |result|
-            other_names = result.labels.values.map do |label|
-              {
-                lang: label['language'],
-                name: label['value'],
-                note: 'multilingual'
-              }
-            end
-            [id_map[result.id], { other_names: other_names }]
-          end
-          name_map = Hash[name_map]
-          File.write(i[:file], JSON.pretty_generate(name_map))
+          party_wikidata = PartyWikidata.new(mapping)
+          File.write(i[:file], JSON.pretty_generate(party_wikidata.to_hash))
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end
