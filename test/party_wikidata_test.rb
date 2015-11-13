@@ -1,7 +1,9 @@
-require 'minitest/autorun'
+require 'test_helper'
 require_relative '../lib/party_wikidata'
 
 describe PartyWikidata do
+  around { |test| VCR.use_cassette('party-wikidata', &test) }
+
   subject do
     PartyWikidata.new([
       { id: 'pnp', wikidata_id: 'Q1076562' },

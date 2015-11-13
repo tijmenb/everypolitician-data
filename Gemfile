@@ -16,4 +16,7 @@ gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch
 
 group :test do
   gem 'minitest'
+  gem 'minitest-around'
+  gem 'vcr'
+  gem 'webmock'
 end
