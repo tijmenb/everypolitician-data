@@ -33,7 +33,7 @@
       "file": "wikidata/parties.json",
       "type": "party",
       "create": {
-        "type": "wikisnakker",
+        "type": "party-wikidata",
         "source": "manual/parties_wikidata.csv"
       }
     }
