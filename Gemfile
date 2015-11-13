@@ -12,7 +12,7 @@ gem 'fuzzy_match'
 gem 'iso_country_codes'
 gem 'yajl-ruby', require: 'yajl'
 gem 'sass'
-gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch: 'refactor-recurse-proc'
+gem 'wikisnakker', git: 'https://github.com/everypolitician/wikisnakker', branch: 'master'
 
 group :test do
   gem 'minitest'
