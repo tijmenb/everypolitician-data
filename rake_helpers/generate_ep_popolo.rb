@@ -144,6 +144,8 @@ namespace :transform do
       group_data = JSON.parse(File.read(src[:file]), symbolize_names: true)
       @json[:organizations].each do |org|
         next unless org[:classification] == 'party'
+        # FIXME: This doesn't do a deep merge, so any nested arrays on 'org'
+        # will be clobbered if they appear in 'group_data'.
         org.merge!(group_data.fetch(org[:id].sub(/^party\//, '').to_sym, {}))
       end
     end
