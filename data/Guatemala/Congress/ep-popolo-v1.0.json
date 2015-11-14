@@ -4587,7 +4587,25 @@
     {
       "classification": "party",
       "id": "party/creo",
-      "name": "CREO"
+      "identifiers": [
+        {
+          "identifier": "Q5780134",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CREO",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Compromiso, Renovación y Orden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Commitment, Renewal and Order",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -4604,12 +4622,83 @@
     {
       "classification": "party",
       "id": "party/eg",
-      "name": "EG"
+      "identifiers": [
+        {
+          "identifier": "Q5375629",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "EG",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Encuentro por Guatemala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Encuentro por Guatemala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Encuentro por Guatemala",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/gana",
-      "name": "GANA"
+      "identifiers": [
+        {
+          "identifier": "Q1062788",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "GANA",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Grande Alliance nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "국민통합대연합",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gran Alianza Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Grand National Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Grote Nationale Alliantie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Gran Alianza Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wielki Sojusz Narodowy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "全国大联盟 (危地马拉)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -4619,47 +4708,379 @@
     {
       "classification": "party",
       "id": "party/lider",
-      "name": "LIDER"
+      "identifiers": [
+        {
+          "identifier": "Q5944368",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "LIDER",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Libertad Democrática Renovada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Renewed Democratic Liberty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Förnyade demokratiska frihetspartiet",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pp",
-      "name": "PP"
+      "identifiers": [
+        {
+          "identifier": "Q1803640",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Patriota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Патриотична партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Patriotic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Patriota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti patriote",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रवादी पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Patriottische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Патриотическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Patriotiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நாட்டுப்பற்றுக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "爱国党 (危地马拉)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Патріотична партія",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pri",
-      "name": "PRI"
+      "identifiers": [
+        {
+          "identifier": "Q731414",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PRI",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Front républicain guatémaltèque",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Guatemalan Republican Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Republicano Guatemalteco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ग्वाटेमाला गणतान्त्रिक मोर्चा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Guatemalteeks Republikeins Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Гватемальський республіканський фронт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гватемальский республиканский фронт",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pu",
-      "name": "PU"
+      "identifiers": [
+        {
+          "identifier": "Q2395412",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PU",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti unioniste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Unionista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Юнионистская партия",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/ucn",
-      "name": "UCN"
+      "identifiers": [
+        {
+          "identifier": "Q6979766",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UCN",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Unión del Cambio Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión del Cambio Nacional",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/une",
-      "name": "UNE"
+      "identifiers": [
+        {
+          "identifier": "Q1237557",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UNE",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Unidad Nacional de la Esperanza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Национално обединение на надеждата",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Unity of Hope",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unidad Nacional de la Esperanza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union nationale de l'espérance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unità Nazionale della Speranza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nationale Eenheid van de Hoop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Unidade Nacional da Esperança",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальный союз надежды",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "全国希望联盟党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Hoppets Nationella Union",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національний союз надії",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/urng",
-      "name": "URNG"
+      "identifiers": [
+        {
+          "identifier": "Q430960",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "URNG",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Unidad Revolucionaria Nacional Guatemalteca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unidad Revolucionaria Nacional Gutemalteca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Guatemalan National Revolutionary Unity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "unité révolutionnaire nationale guatémaltèque",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "ग्वाटेमाला राष्ट्रिय क्रान्तिकारी एकता",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Guatemalteekse Nationale Revolutionaire Eenheid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Unidad Revolucionária Nacional Guatemalteca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Unidad Revolucionaria Nacional Guatemalteca",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/viva",
-      "name": "VIVA"
+      "identifiers": [
+        {
+          "identifier": "Q6163926",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "VIVA",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Visión con Valores",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "VIVA",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/winaq",
-      "name": "WINAQ"
+      "identifiers": [
+        {
+          "identifier": "Q8023686",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "WINAQ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Winaq",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido WINAQ",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
