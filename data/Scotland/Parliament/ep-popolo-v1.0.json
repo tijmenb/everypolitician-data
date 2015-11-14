@@ -19110,12 +19110,158 @@
     {
       "classification": "party",
       "id": "conservative",
-      "name": "Conservative"
+      "identifiers": [
+        {
+          "identifier": "Q3243587",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Conservative",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Konserwatywna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Tòraidheachd na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Conservative Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Conservador Escocès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish Conservative and Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏格兰保守党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti conservateur écossais",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "green",
-      "name": "Green"
+      "identifiers": [
+        {
+          "identifier": "Q1256956",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Green",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Scottish Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Verd Escocès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πράσινοι της Σκωτίας",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Skota Verda Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Verde Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti vert écossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Uaine na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Verde Scozzese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Zielonych",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шотландская партия зелёных",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Scots Green Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Scottish Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Partìo Verde Scosexe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Scottish Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Partitu Virdi Scozzisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏格兰绿党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Şotlandiya Yaşıllar Partiyası",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -19125,12 +19271,113 @@
     {
       "classification": "party",
       "id": "labour",
-      "name": "Labour"
+      "identifiers": [
+        {
+          "identifier": "Q3179541",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Labour",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Làbarach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste écossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Laborista Escocès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Schottische Arbeiterpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏格兰工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Lafur yr Alban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Scottish Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "шотландская лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista Escocés",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "liberal-democrat",
-      "name": "Liberal Democrat"
+      "identifiers": [
+        {
+          "identifier": "Q3250438",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Liberal Democrat",
+      "other_names": [
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Libearal Deamocratach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Liberal Democrats",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Liberal Demòcrates Escocesos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Liberalnych Demokratów",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish Liberal Democrats",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -19140,22 +19387,509 @@
     {
       "classification": "party",
       "id": "sg",
-      "name": "SG"
+      "identifiers": [
+        {
+          "identifier": "Q975284",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "SG",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Solidarité",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Солидарность",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Solidaridad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Solidarity",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "sscup",
-      "name": "SSCUP"
+      "identifiers": [
+        {
+          "identifier": "Q7437975",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "SSCUP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Scottish Senior Citizens Unity Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "ssp",
-      "name": "SSP"
+      "identifiers": [
+        {
+          "identifier": "Q891900",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "SSP",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Socjalistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Sòisealach na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste écossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шотландская социалистическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialista Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialista Escocès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Socialista Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Scots Socialist Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب اشتراكي اسكتلندي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏格兰社会党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "scottish-national-party",
-      "name": "Scottish National Party"
+      "identifiers": [
+        {
+          "identifier": "Q10658",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Scottish National Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national écossais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Nacional Escocès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Skotská národní strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cv",
+          "name": "Шотланди наци партийĕ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Genedlaethol yr Alban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σκωτικό Εθνικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Skota Nacia Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Šoti Rahvuspartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Eskoziako Alderdi Nazionala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب ملی اسکاتلند",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Skotlannin kansallispuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Pàrtaidh Nàiseanta na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Nàiseanta na h-Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Nacional Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הלאומית הסקוטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "स्कॉटिश नैशनलिस्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Škotska nacionalna stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Nasional Skotlandia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale Scozzese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スコットランド国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kv",
+          "name": "Шотландса войтырлöн ютыр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kw",
+          "name": "Parti Kenedhlek Alban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mwl",
+          "name": "Partido Nacional Scocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit Nacional Escocés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Szkocka Partia Narodowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Nacional Escocês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Nacional Escocês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шотландская национальная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Scottis Naitional Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Škotska nacionalna stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Шкотска национална странка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "İskoçya Ulusal Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Шотландська національна партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Partìo Nasional Scosexe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "苏格兰民族党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "苏格兰民族党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蘇格蘭民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Шотландска национална партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Scot-tē Bîn-cho̍k Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Skoski þjóðarflokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Шатландская нацыянальная партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Şotlandiya Milli Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Skót Nemzeti Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Шкотска национална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب القومي الاسكتلندي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਸਕਾਟਿਸ਼ ਨੈਸ਼ਨਲਿਸਟ ਪਾਰਟੀ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "蘇格蘭民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "蘇格蘭民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "苏格兰民族党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "蘇格蘭民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "苏格兰民族党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "苏格兰民族党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "蘇格蘭民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Scottish National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "இசுக்கொட்டிய தேசியக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "스코틀랜드 국민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Skotske Nasjonale Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Național Scoțian",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
