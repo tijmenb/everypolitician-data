@@ -83,12 +83,42 @@ end
 @DATA_FILE = @SOURCE_DIR + '/members.csv'
 @INSTRUCTIONS_FILE = 'sources/instructions.json'
 
+def clean_instructions_file
+  json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
+end
+
 def load_instructions_file
-  json = json_load(@INSTRUCTIONS_FILE) || raise("Can't read #{@INSTRUCTIONS_FILE}")
+  json = clean_instructions_file
   json[:sources].each do |s|
     s[:file] = "sources/%s" % s[:file] unless s[:file][/sources/]
   end
   json
+end
+
+desc "Add a wikidata Parties file"
+task :build_parties do
+  instr = clean_instructions_file
+  sources = instr[:sources]
+  abort "Already have party instructions" if sources.find { |s| s[:type] == 'group' }
+
+  popolo = json_load('ep-popolo-v1.0.json')
+  groups = popolo[:memberships].group_by { |m| m[:on_behalf_of_id] }.sort_by { 
+    |m, ms| ms.count 
+  }.reverse.map { |m, ms| 
+    [ m, popolo[:organizations].find { |o| o[:id] == m }[:name] ].to_csv
+  }.join
+  FileUtils.mkpath('sources/manual')
+  File.write('sources/manual/group_wikidata.csv', "id,wikidata\n" + groups)
+
+  sources << { 
+    file: "wikidata/groups.json",
+    type: "group",
+    create: {
+      type: "group-wikidata",
+      source: "manual/group_wikidata.csv"
+    },
+  } 
+  File.write(@INSTRUCTIONS_FILE, JSON.pretty_generate(instr))
 end
 
 def instructions(key)

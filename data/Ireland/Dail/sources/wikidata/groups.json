@@ -1,0 +1,992 @@
+{
+  "FG": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q247135"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Φάιν Γκέιλ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gd",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gv",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "פיין גייל",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フィナ・ゲール",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "피네 게일",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Фине Гэл",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "爱尔兰统一党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Фіне Гел",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      },
+      {
+        "lang": "scn",
+        "name": "Fine Gael",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "LAB": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q503614"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "爱尔兰工党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "愛爾蘭工黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "愛爾蘭工黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Alderdi Laborista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Pracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti travailliste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "노동당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Laborista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Buruh",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Laburista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Laborista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Irish Labour Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "労働党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Εργατικό Κόμμα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Laburistička stranka",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Páirtí an Lucht Oibre",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Arbetarpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Irish Labour Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Trabalhista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Лейбористская партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Labour Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "İşçi Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Laborista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Työväenpuolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lt",
+        "name": "Airijos darbininkų partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Irish Labour Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gv",
+        "name": "Partee yn Lught Obbyr",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Labour Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Лейбористська партія (Ірландія)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Лабуристичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "爱尔兰工党",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "FF": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q216517"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "爱尔兰共和党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "愛爾蘭共和黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "愛爾蘭共和黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "爱尔兰共和党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "爱尔兰共和党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "愛爾蘭共和黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gd",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bs",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "피아나 페일",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "פיאנה פול",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フィアナ・フォイル",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Φιάνα Φάιλ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Soldatoj de Irlando",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Фианна Файл",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gv",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Фијана Фол",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "愛爾蘭共和黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Фіанна Файл",
+        "note": "multilingual"
+      },
+      {
+        "lang": "scn",
+        "name": "Fianna Fáil",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "SF": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q76382"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh",
+        "name": "新芬黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "af",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bn",
+        "name": "শিন ফেইন",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σιν Φέιν",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "شين فين",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Шинн Фейн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Шин Фејн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "Шин Фејн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Шинн Фейн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Шын Фэйн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "io",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kv",
+        "name": "Шинн Фейн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be",
+        "name": "Шын Фейн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "שין פיין",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "신페인",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "シン・フェイン党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "yue",
+        "name": "新芬黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "koi",
+        "name": "Шинн фейн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sk",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "la",
+        "name": "Sinn Fein",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cy",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "شن‌فن",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Шин Фейн",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "scn",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Շինֆեյներներ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "az",
+        "name": "Şin Feyn",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fy",
+        "name": "Sinn Féin",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "შინ ფეინი",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ta",
+        "name": "சின் பெயின்",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "REN": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q18720460"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Reboot Ireland",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Renua Éireann",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "SD": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q20682633"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Social Democrats (Ireland)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Na Daonlathaigh Shóisialta",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "SOC": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1549074"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Alderdi Sozialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Socjalistyczna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ga",
+        "name": "Páirtí Sóisialach",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Socialistische Partij",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Socialistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "המפלגה הסוציאליסטית",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "PBP": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q21218940"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh",
+        "name": "反紧缩联盟－人民先于利润",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Anti-Austerity Alliance–People Before Profit",
+        "note": "multilingual"
+      }
+    ]
+  }
+}
