@@ -17,7 +17,7 @@
         "scraper": "openaustralia/aus_mp_contact_details",
         "query": "SELECT aph_id, photo_url AS photo, email, facebook, website FROM data WHERE house = 'representatives'"
       },
-      "merge": { 
+      "merge": {
         "incoming_field": "aph_id",
         "existing_field": "identifier__aph"
       },
@@ -33,20 +33,22 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [{ 
-        "incoming_field": "wikipedia__en",
-        "existing_field": "wikipedia_name"
-      },
-      {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
-      }]
+      "merge": [
+        {
+          "incoming_field": "wikipedia__en",
+          "existing_field": "wikipedia_name"
+        },
+        {
+          "incoming_field": "name",
+          "existing_field": "name",
+          "reconciliation_file": "reconciliation/wikidata.csv"
+        }
+      ]
     },
     {
       "file": "manual/emails.csv",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "id",
         "existing_field": "aph_id"
       }
@@ -54,7 +56,7 @@
     {
       "file": "manual/guessed-emails.csv",
       "type": "person",
-      "merge": { 
+      "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
       }
@@ -65,7 +67,7 @@
         "type": "ocd",
         "source": "country-au/federal_electorates.csv"
       },
-      "merge": { 
+      "merge": {
         "overrides": {
           "Fraser, Australian Capital Territory": "ocd-division/country:au/territory:act/federal_electorate:fraser",
           "Northern Territory": ""
@@ -81,6 +83,14 @@
         "query": "SELECT * FROM terms"
       },
       "type": "term"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
