@@ -933,7 +933,25 @@
     {
       "classification": "party",
       "id": "dem",
-      "name": "Democratic"
+      "identifiers": [
+        {
+          "identifier": "Q5255716",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Democratic",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Demokratska stranka (Guam)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Guam",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -950,7 +968,25 @@
     {
       "classification": "party",
       "id": "rep",
-      "name": "Republican"
+      "identifiers": [
+        {
+          "identifier": "Q7314652",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Republican",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Republikanska stranka (Guam)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Republican Party of Guam",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
