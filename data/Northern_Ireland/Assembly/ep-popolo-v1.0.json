@@ -15290,17 +15290,346 @@
     {
       "classification": "party",
       "id": "alliance",
-      "name": "Alliance"
+      "identifiers": [
+        {
+          "identifier": "Q244927",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alliance",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit de l'Aliança d'Irlanda del Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de la Alianza de Irlanda del Norte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de l'Alliance de l'Irlande du Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Páirtí Comhghuaillíochta Thuaisceart Éireann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "北アイルランド同盟党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Альянс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія «Альянс»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "北愛爾蘭聯盟黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北愛爾蘭聯盟黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "北爱尔兰联盟党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito dell'Alleanza dell'Irlanda del Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Alliance Party of Northern Ireland",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "dup",
-      "name": "DUP"
+      "identifiers": [
+        {
+          "identifier": "Q215519",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "DUP",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "民主统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民主統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "民主統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民主统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "民主统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "民主統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Alderdi Demokratiko Unionista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Demokratyczna Partia Unionistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti unioniste démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Unionista Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Unionista Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Democratic Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主統一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δημοκρατικό Ενωτικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Páirtí Aontachtach Daonlathach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Democratic Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Unionistische partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Unionista Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая юнионистская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Demokratik Birlik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Unionista Democràtic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Demokraattinen unionistipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична юніоністська партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Unionistarum Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid yr Unoliaethwyr Democrataidd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Democratic Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Demokratická unionistická strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Democratic Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Folk-owerance Pairtie o the Ulster-British Cleek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Democratic Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "민주통일당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה היוניוניסטית הדמוקרטית",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "green",
-      "name": "Green"
+      "identifiers": [
+        {
+          "identifier": "Q1096979",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Green",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Roheline Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Verda Partio en Nord-Irlando",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Green Party in Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Green Party in Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Verd d'Irlanda del Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Green Party in Northern Ireland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Green Party in Northern Ireland",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -15320,12 +15649,43 @@
     {
       "classification": "party",
       "id": "niup",
-      "name": "NIUP"
+      "identifiers": [
+        {
+          "identifier": "Q7058534",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "NIUP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Northern Ireland Unionist Party",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "niwc",
-      "name": "NIWC"
+      "identifiers": [
+        {
+          "identifier": "Q7058538",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "NIWC",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Coalició de Dones d'Irlanda del Nord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Northern Ireland Women's Coalition",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -15342,17 +15702,511 @@
     {
       "classification": "party",
       "id": "pup",
-      "name": "PUP"
+      "identifiers": [
+        {
+          "identifier": "Q1817613",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PUP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Progressive Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "進歩統一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti unioniste progressiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Progressive Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Unionista Progressista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Progressive Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "An Páirtí Aontachtach Forásach",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "sinn-fein",
-      "name": "Sinn Féin"
+      "identifiers": [
+        {
+          "identifier": "Q76382",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sinn Féin",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "新芬黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "শিন ফেইন",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σιν Φέιν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "شين فين",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шинн Фейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Шин Фејн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Шин Фејн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Шинн Фейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Шын Фэйн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kv",
+          "name": "Шинн Фейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Шын Фейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "שין פיין",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "신페인",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シン・フェイン党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "新芬黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "koi",
+          "name": "Шинн фейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Sinn Fein",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "شن‌فن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Шин Фейн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Շինֆեյներներ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Şin Feyn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Sinn Féin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "შინ ფეინი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சின் பெயின்",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "social-democratic-and-labour-party",
-      "name": "Social Democratic and Labour Party"
+      "identifiers": [
+        {
+          "identifier": "Q175443",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Social Democratic and Labour Party",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Social Democratic and Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الاشتراكي العمالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialdemòcrata i Laborista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "SDLP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σοσιαλδημοκρατικό και Εργατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic and Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sociala Demokrata kaj Laborista Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata y Laborista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Alderdi Sozialdemokrata eta Laborista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosiaalidemokraattinen työväenpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social-démocrate et travailliste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Páirtí Sóisialta Daonlathach an Lucht Oibre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Socialdemócrata e Laborista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Social Democratico e Laburista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会民主労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "북아일랜드 사회민주노동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Šiaurės Airijos socialdemokratų ir darbininkų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Social Democratic and Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Socjaldemokratyczna Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая и лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Social Democratic and Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sosyal Demokrat İşçi Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціал-демократична і лейбористська партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社會民主及勞工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "社會民主及勞工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "社会民主及劳工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Social Democratic and Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Social Democratic and Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Social Democrata e Trabalhista",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -15362,22 +16216,259 @@
     {
       "classification": "party",
       "id": "traditional-unionist-voice",
-      "name": "Traditional Unionist Voice"
+      "identifiers": [
+        {
+          "identifier": "Q985076",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Traditional Unionist Voice",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Traditional Unionist Voice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Traditional Unionist Voice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Voz Unionista Tradicional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Voix unioniste traditionnelle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Glór Traidisiúnta Aondachtach",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Traditional Unionist Voice",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "ukup",
-      "name": "UKUP"
+      "identifiers": [
+        {
+          "identifier": "Q985706",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UKUP",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "英国统一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "英國統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "英國統一黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "UK Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Birleşik Krallık Birlik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Unionista del Regne Unit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "英國統一黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "uuap",
-      "name": "UUAP"
+      "identifiers": [
+        {
+          "identifier": "Q7893622",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UUAP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United Unionist Coalition",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "United Unionist Coalition",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "United Unionist Coalition",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "uup",
-      "name": "UUP"
+      "identifiers": [
+        {
+          "identifier": "Q841045",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UUP",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Unionista do Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ulsterska Partia Unionistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti unioniste d'Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ольстерская юнионистская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Unionista del Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Ulster Birlik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Unionista de l'Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Unionista dell'Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Unionista do Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Unoliaethol Ulster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アルスター統一党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ulsterska unionistička stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Páirtí Aontachtach Uladh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب ألستر الوحدوي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ulster Unionist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Юніоністська партія Ольстера",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "얼스터 통일당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ενωτικό Κόμμα του Όλστερ",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {

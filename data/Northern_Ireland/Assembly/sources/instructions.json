@@ -18,20 +18,30 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [{ 
-        "incoming_field": "parlid",
-        "existing_field": "identifier__datadotparl",
-        "report_missing": false
-      },
-      { 
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
-      }]
+      "merge": [
+        {
+          "incoming_field": "parlid",
+          "existing_field": "identifier__datadotparl",
+          "report_missing": false
+        },
+        {
+          "incoming_field": "name",
+          "existing_field": "name",
+          "reconciliation_file": "reconciliation/wikidata.csv"
+        }
+      ]
     },
     {
       "file": "manual/terms.csv",
       "type": "term"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
+      }
     }
   ]
 }
