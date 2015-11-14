@@ -26,6 +26,14 @@
       }
     },
     {
+      "file": "wikidata/parties.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/parties_wikidata.csv"
+      }
+    },
+    {
       "file": "morph/terms.csv",
       "type": "term",
       "create": {
