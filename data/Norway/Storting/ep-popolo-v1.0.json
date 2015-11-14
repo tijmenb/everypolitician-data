@@ -95366,12 +95366,288 @@
     {
       "classification": "party",
       "id": "ALP",
-      "name": "Anders Langes Parti"
+      "identifiers": [
+        {
+          "identifier": "Q12301433",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Anders Langes Parti",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Anders Langes Parti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "A",
-      "name": "Arbeiderpartiet"
+      "identifiers": [
+        {
+          "identifier": "Q190219",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Arbeiderpartiet",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "挪威工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "挪威工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "挪威工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "挪威工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "挪威工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "挪威工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Norvegiako Alderdi Laborista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מפלגת העבודה הנורבגית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "노동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista Noruego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Buruh Norway",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Munkáspárt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Laburista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido dos Traballadores Noruegueses",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Norra Töölispartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Buruh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ノルウェー労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Công đảng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Norwegian Labour Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Radnička stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Det Norske Arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Trabalhista Norueguês",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Laborista Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "su",
+          "name": "Partéy Buruh Norwégia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Норвежская рабочая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Norveç İşçi Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Muncitoresc Norvegian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Bargiidbellodat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Laborista Noruec",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Työväenpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Норвезька робітнича партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Arbeiðaraflokkurin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Arbeidarpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Norská strana práce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Работническа партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Laburistička stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Norvegijos darbo partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εργατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Лабуристичка партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمل النرويجي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio laboris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նորվեգական բանվորական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Norse Labour Pairty",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -95381,67 +95657,1256 @@
     {
       "classification": "party",
       "id": "DNF",
-      "name": "Det Nye Folkepartiet"
+      "identifiers": [
+        {
+          "identifier": "Q3773198",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Det Nye Folkepartiet",
+      "other_names": [
+        {
+          "lang": "nn",
+          "name": "Det Liberale Folkepartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Popular Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det Liberale Folkepartiet",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "FFF",
-      "name": "Framtid for Finnmark"
+      "identifiers": [
+        {
+          "identifier": "Q1812177",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Framtid for Finnmark",
+      "other_names": [
+        {
+          "lang": "nn",
+          "name": "Framtid for Finnmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Future for Finnmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Futur per Finnmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Framtid for Finnmark",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zukunft für Finnmark",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "FrP",
-      "name": "Fremskrittspartiet"
+      "identifiers": [
+        {
+          "identifier": "Q485665",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Fremskrittspartiet",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido do Progresso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Postępu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Alderdi Progresista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия прогресса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du progrès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Progress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Norveška partija napretka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Норвешка партија напретка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Ovddádusbellodat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit del Progrés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Haladás Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Edistyspuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія прогресу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito del Progresso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Framburðsflokkurin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Progressipartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fremskrittspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Framstegspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "進歩党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Партия на прогреса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Fremskrittspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Fremskrittspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fremskrittspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Fremskrittspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Fremskrittspartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Pokroková strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Προόδου (Νορβηγία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio progressus (Norvegia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Partì dël progress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Progreso (Noruega)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Норвешка партија напретка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "진보당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威進步黨",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "H",
-      "name": "Høyre"
+      "identifiers": [
+        {
+          "identifier": "Q586364",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Høyre",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Konzervatív Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Десница",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Conservador de Noruega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Conservative Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Konservativa Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Alderdi Kontserbadorea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Konservatiivipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Høgri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Destra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "保守党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Høgre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Консервативная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Хейре",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威保守党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Høyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Konservatif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Konzervativní strana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Συντηρητικό Κόμμα (Νορβηγία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido da Direita",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio conservativa (Norvegia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Кансерватыўная партыя, Нарвегія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب المحافظين النرويجي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "보수당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Конзервативна партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Olgešbellodat",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "KrF",
-      "name": "Kristelig Folkeparti"
+      "identifiers": [
+        {
+          "identifier": "Q1166025",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Kristelig Folkeparti",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Kristelig Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Христианская народная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti populaire chrétien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christian Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Risttalaš Álbmotbellodat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democristià",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kristillinen kansanpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Popolare Cristiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Kristlik Rahvapartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kristelig Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "キリスト教民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kristeleg Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Християнска народна партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristelig Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Kristelig Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kristelig Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kristelig Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威基督教民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χριστιανοδημοκρατικό Κόμμα (Νορβηγία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Demócrata Cristiano (Noruega)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio democratica Christiana (Norvegia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Хришћанско-демократска странка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Хришћанско-демократска странка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Hrišćansko-demokratska stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Християнсько-демократична партія (Норвегія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Kristelig Folkeparti (KrF)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "Kp",
-      "name": "Kystpartiet"
+      "identifiers": [
+        {
+          "identifier": "Q1580985",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Kystpartiet",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Kystpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kystpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "沿岸党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Береговая партия Норвегии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du littoral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Coastal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Costaner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Kystpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kystpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kystpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kystpartiet",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "MDG",
-      "name": "Miljøpartiet De Grønne"
+      "identifiers": [
+        {
+          "identifier": "Q1518568",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Miljøpartiet De Grønne",
+      "other_names": [
+        {
+          "lang": "et",
+          "name": "Roheline Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Miljøpartiet De Grønne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Ekologia Partio La Verduloj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Miljøpartiet Dei Grøne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "緑の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Zielonych",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Verd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Miljøpartiet De Grønne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Miljøpartiet De Grønne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Miljøpartiet De Grønne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Les Verts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Miljøpartiet De Grønne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Miljøpartiet De Grønne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πράσινο Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Green Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio viridis",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "NKP",
-      "name": "Norges Kommunistiske Parti"
+      "identifiers": [
+        {
+          "identifier": "Q587803",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Norges Kommunistiske Parti",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Norweska Partia Komunistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista de Noruega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Norges Kommunistiske Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Norges Kommunistiske Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Communist Party of Norway",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista de Noruega",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Norra Kommunistlik Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti communiste norvégien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Norges Kommunistiske Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая партия Норвегии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Norges Kommunistiska Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Norges Kommunistiske Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Communistische Partij van Noorwegen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威共产党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "RV",
-      "name": "Rød Valgallianse"
+      "identifiers": [
+        {
+          "identifier": "Q2601661",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Rød Valgallianse",
+      "other_names": [
+        {
+          "lang": "nn",
+          "name": "Raud Valallianse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Красный избирательный альянс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance populaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Red Electoral Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Aliança Electoral Roja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Röd valallians",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Rød Valgallianse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rød Valgallianse",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "Sp",
-      "name": "Senterpartiet"
+      "identifiers": [
+        {
+          "identifier": "Q493685",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Senterpartiet",
+      "other_names": [
+        {
+          "lang": "eo",
+          "name": "Centra Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Zentroko Alderdia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Центра",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Centre Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Guovddášbellodat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit de Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Keskustapuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito di Centro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Keskpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "中央党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Партия на центъра",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威中间党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Κέντρου (Νορβηγία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio centralis (Norvegia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Senterpartiet",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "SF",
-      "name": "Sosialistisk Folkeparti"
+      "identifiers": [
+        {
+          "identifier": "Q1771531",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sosialistisk Folkeparti",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Sosialistisk Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Popular Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sosialistisk Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sosialistisk folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sosialistisk Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sosialistisk Folkeparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du peuple socialiste",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "SVf",
-      "name": "Sosialistisk Valgforbund"
+      "identifiers": [
+        {
+          "identifier": "Q6791740",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sosialistisk Valgforbund",
+      "other_names": [
+        {
+          "lang": "nn",
+          "name": "Sosialistisk Valforbund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sosialistisk Valgforbund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sosialistisk Valgforbund",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "SV",
-      "name": "Sosialistisk Venstreparti"
+      "identifiers": [
+        {
+          "identifier": "Q488418",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sosialistisk Venstreparti",
+      "other_names": [
+        {
+          "lang": "eo",
+          "name": "Socialisma Maldekstra Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ezkerreko Alderdi Sozialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социалистическая левая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist Left Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de la Izquierda Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sosyalist Sol Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialista d'Esquerra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosialistinen vasemmistopuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito della Sinistra Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sotsialistlik Vasakpartei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会主義左翼党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Социалистическа лява партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sosialistisk venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sosialistisk Venstreparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σοσιαλιστικό Αριστερό Κόμμα (Νορβηγία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社會主義左派黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio sinistra socialistica (Norvegia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "社會主義左派黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "社会主义左派党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Sósíalíski vinstriflokkurinn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "사회주의 좌파당",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -95468,7 +96933,155 @@
     {
       "classification": "party",
       "id": "V",
-      "name": "Venstre"
+      "identifiers": [
+        {
+          "identifier": "Q500190",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Venstre",
+      "other_names": [
+        {
+          "lang": "eo",
+          "name": "Liberala Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Gurutbellodat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Liberaalipuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sinistra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ノルウェー自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Левица",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "挪威自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φιλελεύθερο Κόμμα (Νορβηγία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio liberalis (Norvegia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Либерална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Либерална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Liberalna partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Venstre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Liberális Párt",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
