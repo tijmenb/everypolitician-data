@@ -4757,17 +4757,381 @@
     {
       "classification": "party",
       "id": "party/casa-ce",
-      "name": "CASA-CE"
+      "identifiers": [
+        {
+          "identifier": "Q1129430",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CASA-CE",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Convergência Ampla de Salvação de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Convergência Ampla de Salvação de Angola - Coligação Eleitoral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Широкая конвергенция за спасение Анголы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Broad Convergence for the Salvation of Angola",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/fnla",
-      "name": "FNLA"
+      "identifiers": [
+        {
+          "identifier": "Q907051",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "FNLA",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Frente Nacional de Libertação de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Národný front pre oslobodenie Angoly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Narodowy Front Wyzwolenia Angoli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальный фронт освобождения Анголы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front national de libération de l'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Liberation Front of Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Nacional para la Liberación de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "FNLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "FNLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Nazionale di Liberazione dell'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Nacional de Libertação de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アンゴラ民族解放戦線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Národní fronta pro osvobození Angoly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "FNLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Национални ослободилачки фронт Анголе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "FNLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安哥拉民族解放阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національний фронт за звільнення Анголи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "앙골라 해방 민족 전선",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/mpla",
-      "name": "MPLA"
+      "identifiers": [
+        {
+          "identifier": "Q28551",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "MPLA",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "安哥拉人民解放运动",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ludowy Ruch Wyzwolenia Angoli - Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "앙골라 인민 해방 운동",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement populaire de libération de l'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Popular de Liberación de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "அங்கோலா மக்கள் விடுதலை இயக்கம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Movimento Popolare di Liberazione dell'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Movimento Popular de Libertação de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Gerakan Rakyat untuk Pembebasan Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アンゴラ解放人民運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "অ্যাঙ্গোলার গণমুক্তিআন্দোলন - শ্রম পার্টি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Volksbeweging voor de Bevrijding van Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحركة الشعبية لتحرير أنغولا - حزب العمل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "अंगोला मुक्ति जनता अंदोलन - श्रम दल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Movimento Popular de Libertação de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народное движение за освобождение Анголы — Партия труда",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Народни покрет за ослобођење Анголе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Movimientu Popular de Lliberación d'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Angola'nın Bağımsızlığı İçin Halk Hareketi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Mișcarea Populară de Eliberare a Angolei - Partidul Muncii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Moviment Popular per a l'Alliberament d'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народний рух за звільнення Анголи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Народно движение за освобождение на Ангола - Партия на труда",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "جنبش خلق برای آزادی آنگولا-حزب کار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एंगोला जनमुक्ति आंदोलन - श्रम दल",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "مقبول تحریک براۓ آزادی انگولا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მპლა",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Angolos liaudies judėjimas už išsivadavimą",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "MPLA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λαϊκό Κίνημα για την Ελευθερία της Ανγκόλα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Անգոլայի ազատագրության ժողովրդական շարժում",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -4784,12 +5148,268 @@
     {
       "classification": "party",
       "id": "party/prs",
-      "name": "PRS"
+      "identifiers": [
+        {
+          "identifier": "Q1674856",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PRS",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido de Renovação Social",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Renewal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会改革党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido de Renovação Social",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/unita",
-      "name": "UNITA"
+      "identifiers": [
+        {
+          "identifier": "Q28699",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UNITA",
+      "other_names": [
+        {
+          "lang": "lb",
+          "name": "União Nacional para a Independência Total de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "앙골라 완전 독립 민족 동맹",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union nationale pour l'indépendance totale de l'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión Nacional para la Independencia Total de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mwl",
+          "name": "Ounion Nacional para la Andependéncia Total de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione Nazionale per l'Indipendenza Totale dell'Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Unión Nacional para a Independencia Total de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Uni Nasional untuk Kemerdekaan Penuh Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "União Nacional para a Independência Total de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ইউনিটা",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アンゴラ全面独立民族同盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "يونيتا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Unita",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "अंगोला पूर्ण स्वतंत्रता राष्ट्रीय संघ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "União Nacional para a Independência Total de Angola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nacia Kuniĝo por la Tuta Sendependeco de Angolo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальный союз за полную независимость Анголы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Uniunea Națională pentru Independența Totală a Angolei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Národní svaz za úplnou nezávislost Angoly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "یونیتا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Национален съюз за пълна независимост на Ангола",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "युनिता",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "უნიტა",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Национална унија за потпуну независност Анголе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "争取安哥拉彻底独立全国联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ss",
+          "name": "UNITA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "争取安哥拉彻底独立全国联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "УНІТА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Unita",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "யுனிட்டா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "യൂണീറ്റ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
