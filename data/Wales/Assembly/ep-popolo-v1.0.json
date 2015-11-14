@@ -4601,22 +4601,339 @@
     {
       "classification": "party",
       "id": "party/plaid_cymru",
-      "name": "Plaid Cymru"
+      "identifiers": [
+        {
+          "identifier": "Q10691",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Plaid Cymru",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πλάιντ Κάμρυ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "プライド・カムリ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kv",
+          "name": "Кӧмри ютыр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kw",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Уэльса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Плайд Кімру",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "威尔士党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Партыя Уэльса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "웨일스 정당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פלייד קמרי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Pleyd Kamri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Plaid Cymru",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/welsh_conservative_party",
-      "name": "Welsh Conservative Party"
+      "identifiers": [
+        {
+          "identifier": "Q7981882",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Welsh Conservative Party",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Partit Conservador Gal·lès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Welsh Conservative Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Konzervativní strana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/welsh_labour",
-      "name": "Welsh Labour"
+      "identifiers": [
+        {
+          "identifier": "Q832685",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Welsh Labour",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Walijska Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Welsh Labour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Laborista Gal·lès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Munkáspárt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Laburista del Galles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Welsh Labour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Welsh Labour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Welsh Labour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Welsh Labour",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کارگر (ولز)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Llafur Cymru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Welsh Labour",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/welsh_liberal_democrats",
-      "name": "Welsh Liberal Democrats"
+      "identifiers": [
+        {
+          "identifier": "Q7981939",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Welsh Liberal Democrats",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Welsh Liberal Democrats",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
