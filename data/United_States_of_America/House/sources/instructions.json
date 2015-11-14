@@ -43,6 +43,14 @@
       }]
     },
     {
+      "file": "wikidata/parties.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/parties_wikidata.csv"
+      }
+    },
+    {
       "file": "ocd/divisions.csv",
       "create": {
         "type": "ocd",
