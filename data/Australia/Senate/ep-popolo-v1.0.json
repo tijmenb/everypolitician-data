@@ -2003,27 +2003,567 @@
     {
       "classification": "party",
       "id": "australian_greens",
-      "name": "Australian Greens"
+      "identifiers": [
+        {
+          "identifier": "Q781486",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Australian Greens",
+      "other_names": [
+        {
+          "lang": "el",
+          "name": "Πράσινοι (Αυστραλία)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstraliaj Verduloj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚绿党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аўстралійская партыя зялёных",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Xanh Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Verdi Australiani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Verts australiens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian vihreät",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Avstraliya Yaşıllar Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア緑の党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Verdes Australianos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийская партия зелёных",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის მწვანეთა პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Verdes Australianos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 녹색당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Avustralya Yeşilleri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Partido ng mga Luntian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Австралійська партія зелених",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆத்திரேலியப் பசுமைக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australian Greens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Le̍k Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "australian_labor_party",
-      "name": "Australian Labor Party"
+      "identifiers": [
+        {
+          "identifier": "Q216082",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Australian Labor Party",
+      "other_names": [
+        {
+          "lang": "nan",
+          "name": "Australia Lô-tōng Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳大利亞工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Australijska Partia Pracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 노동당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аўстралійская лейбарысцкая партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste australien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Laborista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "தொழிற் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Buruh Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Laburista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Buruh Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア労働党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Lao động Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αυστραλιανό Εργατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "澳洲工黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Australijska laburistička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمال الأسترالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Australiens arbetarparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Trabalhista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Aŭstralia Laborista Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Австралийская лейбористская партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Avustralya İşçi Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian työväenpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лейбористська партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australská strana práce",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کارگر استرالیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Australie Labor Pairty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ლეიბორისტული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Australijos darbininkų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Trabalhista Australiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳大利亚工党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Аустралијска лабуристичка партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit trabalhista australian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Australian Labor Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מפלגת הלייבור האוסטרלית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ավստրալիական լեյբորիստական կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคแรงงาน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ausztrál Munkáspárt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "australian_motoring_enthusiast_party",
-      "name": "Australian Motoring Enthusiast Party"
+      "identifiers": [
+        {
+          "identifier": "Q14866895",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Australian Motoring Enthusiast Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Australian Motoring Enthusiast Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲車愛好者黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트레일리아 자동차열광자당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Chhia Ài-hòⁿ-chiá Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "country_liberal_party",
-      "name": "Country Liberal Party"
+      "identifiers": [
+        {
+          "identifier": "Q2496080",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Country Liberal Party",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "地方自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Country Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Аграрная либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Аграрная ліберальная партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral rural",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Country Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Аграрна ліберальна партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Country Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Country Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Kok-ka Chū-iû Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "family_first_party",
-      "name": "Family First Party"
+      "identifiers": [
+        {
+          "identifier": "Q1395400",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Family First Party",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Семья прежде всего (Австралия)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Famille d'abord",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Родина передусім (Австралія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сям'я перш за ўсё, Аўстралія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "家族優先党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Family First Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "가족우선당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Ka-cho̍k Iu-sian Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -2033,7 +2573,35 @@
     {
       "classification": "party",
       "id": "liberal_democratic_party",
-      "name": "Liberal Democratic Party"
+      "identifiers": [
+        {
+          "identifier": "Q6540624",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Liberal Democratic Party",
+      "other_names": [
+        {
+          "lang": "sr",
+          "name": "Партија слободе и демократије",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "자유민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Chū-iû Bîn-chú Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -2043,7 +2611,40 @@
     {
       "classification": "party",
       "id": "palmer_united_party",
-      "name": "Palmer United Party"
+      "identifiers": [
+        {
+          "identifier": "Q15130081",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Palmer United Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Palmer United Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "帕爾默聯合黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti unifié de Palmer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "파머 통합당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Palmer Liân-ha̍p Tóng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -2060,7 +2661,140 @@
     {
       "classification": "party",
       "id": "the_nationals",
-      "name": "The Nationals"
+      "identifiers": [
+        {
+          "identifier": "Q946040",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "The Nationals",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Narodowa Partia Australii",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Нацыянальная партыя Аўстраліі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nationale Partei Australiens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional de Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Australian kansallispuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national d'Australie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale d'Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーストラリア国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ავსტრალიის ნაციონალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная партия Австралии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національна партія Австралії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đảng Quốc gia Úc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "澳大利亚国家党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "National Party of Australia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "澳洲國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الوطني الأسترالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஆத்திரேலியத் தேசியக் கட்சி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Nacional da Austrália",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Australia Kok-ka Tóng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Australská národní strana",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
