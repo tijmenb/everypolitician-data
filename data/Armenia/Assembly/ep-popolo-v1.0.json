@@ -1775,6 +1775,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Hrant Bagratyan",
+          "note": "multilingual"
+        },
+        {
           "lang": "ka",
           "name": "ჰრანტ ბაგრატიანი",
           "note": "multilingual"
@@ -2810,11 +2815,16 @@
     {
       "birth_date": "1965-05-08",
       "email": "nz@parliament.am",
+      "gender": "female",
       "id": "edc77df4-93c3-48ba-a531-9e70c6a601f3",
       "identifiers": [
         {
           "identifier": "1093",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4193010",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1093",
@@ -2823,7 +2833,43 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1093"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Նաիրա_Զոհրաբյան"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зограбян,_Наира_Вагановна"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Зограбян_Наїра_Ваганівна"
+        }
+      ],
       "name": "Naira Zohrabyan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Naira Zohrabyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նաիրա Զոհրաբյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зограбян, Наира Вагановна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Зограбян Наїра Ваганівна",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://parliament.am/deputies.php?sel=details&ID=1093&lang=eng"
