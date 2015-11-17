@@ -42,6 +42,14 @@
         "type": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "wikidata/areas.json",
+      "type": "area-wikidata",
+      "create": {
+        "type": "area-wikidata",
+        "source": "manual/area_wikidata.csv"
+      }
     }
   ]
 }
