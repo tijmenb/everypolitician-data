@@ -1,5 +1,6 @@
 require 'sass'
 require_relative '../lib/group_wikidata'
+require_relative '../lib/area_wikidata'
 
 class String
   def tidy
@@ -149,6 +150,10 @@ namespace :merge_sources do
           mapping = csv_table("sources/#{c[:source]}")
           group_wikidata = GroupWikidata.new(mapping)
           File.write(i[:file], JSON.pretty_generate(group_wikidata.to_hash))
+        elsif c[:type] == 'area-wikidata'
+          mapping = csv_table("sources/#{c[:source]}")
+          area_wikidata = AreaWikidata.new(mapping)
+          File.write(i[:file], JSON.pretty_generate(area_wikidata.to_hash))
         else
           raise "Don't know how to fetch #{i[:file]}" unless c[:type] == 'morph'
         end

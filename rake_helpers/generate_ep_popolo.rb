@@ -136,6 +136,21 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Add area wikidata information
+  #---------------------------------------------------------------------
+  task :write => :area_wikidata
+  task :area_wikidata => :load do
+    instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'area-wikidata' }.each do |src|
+      area_data = JSON.parse(File.read(src[:file]), symbolize_names: true)
+      @json[:areas].each do |area|
+        next unless area[:type] == 'constituency'
+        # FIXME: This doesn't do a deep merge. Nested arrays will be clobbered 
+        area.merge!(area_data.fetch(area[:id].sub(/^area\//, '').to_sym, {}))
+      end
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Add group wikidata information
   #---------------------------------------------------------------------
   task :write => :group_wikidata
@@ -150,4 +165,5 @@ namespace :transform do
       end
     end
   end
+
 end
