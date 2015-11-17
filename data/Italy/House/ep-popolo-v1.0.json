@@ -19720,7 +19720,7 @@
     },
     {
       "birth_date": "1978-08-04",
-      "email": "DIBATTISTA_A@CAMERA.IT",
+      "email": "aledibattista@tiscali.itmailto:dibattista_a@camera.it",
       "family_name": "Di Battista",
       "gender": "male",
       "given_name": "Alessandro",
@@ -55528,6 +55528,11 @@
     },
     {
       "classification": "party",
+      "id": "party/area_popolare_(ncd-udc)",
+      "name": "Area Popolare (NCD-UDC)"
+    },
+    {
+      "classification": "party",
       "id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "name": "FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE"
     },
@@ -55607,6 +55612,11 @@
       "classification": "party",
       "id": "party/movimento_5_stelle",
       "name": "MOVIMENTO 5 STELLE"
+    },
+    {
+      "classification": "party",
+      "id": "party/movimento_5_stelle",
+      "name": "Movimento 5 stelle"
     },
     {
       "classification": "party",
@@ -59536,10 +59546,9 @@
       "role": "member"
     },
     {
-      "area_id": "XX",
-      "end_date": "2013-12-10",
+      "area_id": "area/campania_2",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
       "organization_id": "legislature",
       "person_id": "8dfa9c0c-c200-4cb7-b862-dd51c630b912",
       "role": "member"
@@ -59654,7 +59663,7 @@
       "role": "member"
     },
     {
-      "area_id": "XV",
+      "area_id": "area/lazio_1",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
@@ -63283,6 +63292,11 @@
     {
       "id": "XXVII",
       "name": "VALLE D'AOSTA",
+      "type": "constituency"
+    },
+    {
+      "id": "area/campania_2",
+      "name": "Campania 2",
       "type": "constituency"
     },
     {
