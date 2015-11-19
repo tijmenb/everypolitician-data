@@ -8747,7 +8747,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/embu",
+      "area_id": "area/mbeere_south",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -9376,6 +9376,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/ruaraka",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/orange_democratic_movement",
+      "organization_id": "legislature",
+      "person_id": "64125136-c60a-4f12-9385-6d9aabcaa7b5",
+      "role": "member"
+    },
+    {
       "area_id": "area/kuria_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/kenya_african_national_union",
@@ -9440,7 +9448,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kilifi_north",
+      "area_id": "area/malindi",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -11703,11 +11711,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/kilifi_north",
-      "name": "Kilifi North",
-      "type": "constituency"
-    },
-    {
       "id": "area/kilifi_south",
       "name": "Kilifi South",
       "type": "constituency"
@@ -12105,6 +12108,11 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mbeere_south",
+      "name": "Mbeere South",
       "type": "constituency"
     },
     {
