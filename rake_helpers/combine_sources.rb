@@ -274,7 +274,7 @@ namespace :merge_sources do
             reconciler.find_all(d).to_a.empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
           end
 
-          if reconciled.headers != [:id, :uuid] && reconciled.headers.include?(:id)
+          if reconciled.headers != [:id, :uuid]
             warn "Legacy reconciliation CSV detected".red
             reconciled_rows = incoming_data.map do |row|
               found = reconciler.find_all(row, false).uniq { |r| r[:id] }
@@ -282,10 +282,16 @@ namespace :merge_sources do
               if found.size != 1
                 binding.pry
               end
+              unless row[:id]
+                warn "Can't automatically migrate legacy reconciliation for incoming data with no :id #{row}"
+                break
+              end
               CSV::Row.new([:id, :uuid], [row[:id], found.first[:uuid]])
             end
-            reconciled = CSV::Table.new(reconciled_rows.compact)
-            File.write(rec_filename, reconciled.to_csv)
+            if reconciled_rows
+              reconciled = CSV::Table.new(reconciled_rows.compact)
+              File.write(rec_filename, reconciled.to_csv)
+            end
           end
 
           fuzzer = Fuzzer.new(merged_rows, need_reconciling, merger)
