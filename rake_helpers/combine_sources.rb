@@ -68,7 +68,7 @@ class Reconciler
     @_lookup_by_uuid ||= @_existing_rows.group_by { |r| r[:uuid].to_s }
   end
 
-  def find_all(incoming_row)
+  def find_all(incoming_row, return_exact_match = true)
     if incoming_row[@_incoming_field].to_s.empty?
       # warn "#{incoming_row.reject { |k, v| v.nil? }} has no #{@_incoming_field}"
       return []
@@ -84,7 +84,7 @@ class Reconciler
       return existing[ preset[ "existing_#{@_existing_field}".to_sym ].downcase ]
     end
 
-    if exact_match = existing[ incoming_row[@_incoming_field].downcase ]
+    if return_exact_match && exact_match = existing[ incoming_row[@_incoming_field].downcase ]
       return exact_match
     end
 
@@ -273,6 +273,21 @@ namespace :merge_sources do
           need_reconciling = incoming_data.find_all do |d|
             reconciler.find_all(d).to_a.empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
           end
+
+          if reconciled.headers != [:id, :uuid] && reconciled.headers.include?(:id)
+            warn "Legacy reconciliation CSV detected".red
+            reconciled_rows = incoming_data.map do |row|
+              found = reconciler.find_all(row, false).uniq { |r| r[:id] }
+              next unless found.any?
+              if found.size != 1
+                binding.pry
+              end
+              CSV::Row.new([:id, :uuid], [row[:id], found.first[:uuid]])
+            end
+            reconciled = CSV::Table.new(reconciled_rows.compact)
+            File.write(rec_filename, reconciled.to_csv)
+          end
+
           fuzzer = Fuzzer.new(merged_rows, need_reconciling, merger)
           matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
           FileUtils.mkpath File.dirname rec_filename
