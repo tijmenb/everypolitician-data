@@ -2,6 +2,12 @@
   "persons": [
     {
       "birth_date": "1961-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/TOAdamVaughan"
+        }
+      ],
       "email": "Adam.Vaughan@parl.gc.ca",
       "gender": "male",
       "given_name": "Adam",
@@ -96,6 +102,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AhmedHussenMP"
+        }
+      ],
+      "email": "Ahmed.Hussen@parl.gc.ca",
       "gender": "male",
       "given_name": "Ahmed",
       "id": "4a5b0ae2-7b2d-4098-87d8-e9f21f48c3fc",
@@ -103,6 +116,10 @@
         {
           "identifier": "ahmed-hussen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89020",
+          "scheme": "represent"
         },
         {
           "identifier": "Q16211070",
@@ -230,6 +247,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AlainRayes"
+        }
+      ],
+      "email": "Alain.Rayes@parl.gc.ca",
       "gender": "male",
       "given_name": "Alain",
       "id": "d026b523-77a8-40c1-bc46-0d0ed5dbb1de",
@@ -237,6 +261,10 @@
         {
           "identifier": "alain-rayes",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88600",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21296174",
@@ -273,11 +301,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AlainaLockhart"
+        }
+      ],
+      "email": "Alaina.Lockhart@parl.gc.ca",
       "id": "aab176a0-738c-4e1d-9881-9a80e167b654",
       "identifiers": [
         {
           "identifier": "alaina-lockhart",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88357",
+          "scheme": "represent"
         }
       ],
       "name": "Alaina Lockhart",
@@ -425,6 +464,13 @@
     },
     {
       "birth_date": "1963-11-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AlexandraBrStL"
+        }
+      ],
+      "email": "Alexandra.Mendes@parl.gc.ca",
       "gender": "female",
       "given_name": "Alexandra",
       "id": "cc4baa7a-8eff-47fd-94fe-1ec70163e295",
@@ -434,14 +480,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "58621",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q2833301",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Alexandra_Mendes_2011.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/MendesAlexandra_LIB.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Alexandra_Mendes_2011.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/MendesAlexandra_LIB.jpg"
         }
       ],
       "links": [
@@ -693,12 +743,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AliEhsassi"
+        }
+      ],
+      "email": "Ali.Ehsassi@parl.gc.ca",
       "gender": "male",
       "id": "aabed860-eda7-460a-bb83-b2c20f7dcfe6",
       "identifiers": [
         {
           "identifier": "ali-ehsassi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89010",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21156200",
@@ -825,11 +886,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AMacGregor4CML"
+        }
+      ],
+      "email": "Alistair.MacGregor@parl.gc.ca",
       "id": "cc155c88-5225-4911-b482-31b1bb057c34",
       "identifiers": [
         {
           "identifier": "alistair-macgregor",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89269",
+          "scheme": "represent"
         }
       ],
       "name": "Alistair MacGregor",
@@ -840,12 +912,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Alupa_Clarke"
+        }
+      ],
+      "email": "Alupa.Clarke@parl.gc.ca",
       "gender": "male",
       "id": "2a287b93-d28d-45f1-93fb-352bac56c93d",
       "identifiers": [
         {
           "identifier": "alupa-clarke",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88404",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21158712",
@@ -883,12 +966,23 @@
     },
     {
       "birth_date": "1964-03-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/SohiAmarjeet"
+        }
+      ],
+      "email": "Amarjeet.Sohi@parl.gc.ca",
       "gender": "male",
       "id": "d74f3ee3-90b4-40f1-b5e7-40a76cd8210c",
       "identifiers": [
         {
           "identifier": "amarjeet-sohi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89163",
+          "scheme": "represent"
         },
         {
           "identifier": "Q4740296",
@@ -1064,6 +1158,13 @@
     },
     {
       "birth_date": "1957-12-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/_andrewleslie"
+        }
+      ],
+      "email": "Andrew.Leslie@parl.gc.ca",
       "family_name": "Leslie",
       "gender": "male",
       "given_name": "Andrew",
@@ -1072,6 +1173,10 @@
         {
           "identifier": "andrew-leslie",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88894",
+          "scheme": "represent"
         },
         {
           "identifier": "Q2846662",
@@ -1436,6 +1541,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AndyFillmoreHFX"
+        }
+      ],
+      "email": "Andy.Fillmore@parl.gc.ca",
       "family_name": "Fillmore",
       "gender": "male",
       "given_name": "Andy",
@@ -1444,6 +1556,10 @@
         {
           "identifier": "andy-fillmore",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88325",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21174009",
@@ -1876,11 +1992,21 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AngeloIacono"
+        }
+      ],
       "id": "79fe8e9c-7e7b-4154-bcd6-edf540ab1ba5",
       "identifiers": [
         {
           "identifier": "angelo-iacono",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71337",
+          "scheme": "represent"
         }
       ],
       "name": "Angelo Iacono",
@@ -1891,11 +2017,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/anitavandenbeld"
+        }
+      ],
+      "email": "Anita.Vandenbeld@parl.gc.ca",
       "id": "c2df2727-f0b4-4e9d-91b3-944cf66922f1",
       "identifiers": [
         {
           "identifier": "anita-vandenbeld",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71738",
+          "scheme": "represent"
         }
       ],
       "name": "Anita Vandenbeld",
@@ -1906,11 +2043,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/adhillonliberal"
+        }
+      ],
+      "email": "Anju.Dhillon@parl.gc.ca",
       "id": "b0c1d012-aaa7-4af7-bab9-c61dea2ed700",
       "identifiers": [
         {
           "identifier": "anju-dhillon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88453",
+          "scheme": "represent"
         }
       ],
       "name": "Anju Dhillon",
@@ -1922,6 +2070,12 @@
     },
     {
       "birth_date": "1982-08-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AnneMTQuach"
+        }
+      ],
       "email": "AnneMinh-Thu.Quach@parl.gc.ca",
       "gender": "female",
       "given_name": "Anne",
@@ -2175,9 +2329,10 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "AHousefather"
+          "value": "https://twitter.com/AHousefather"
         }
       ],
+      "email": "Anthony.Housefather@parl.gc.ca",
       "gender": "male",
       "given_name": "Anthony",
       "id": "e1e5cfc6-261e-4a6b-9593-957cb797496b",
@@ -2185,6 +2340,10 @@
         {
           "identifier": "anthony-housefather",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88558",
+          "scheme": "represent"
         },
         {
           "identifier": "Q4772746",
@@ -2233,6 +2392,13 @@
     },
     {
       "birth_date": "1961-05-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/AnthonyRota"
+        }
+      ],
+      "email": "Anthony.Rota@parl.gc.ca",
       "gender": "male",
       "given_name": "Anthony",
       "id": "34a158a3-65d5-4b3b-ae5d-48fada0d45de",
@@ -2242,14 +2408,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "25452",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q2852943",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Anthony_Rota.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/RotaAnthony_LIB.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Anthony_Rota.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/RotaAnthony_LIB.jpg"
         }
       ],
       "links": [
@@ -2317,11 +2487,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/viraniarif"
+        }
+      ],
+      "email": "Arif.Virani@parl.gc.ca",
       "id": "573adbb6-71ea-4fc6-9375-807dcd57e4de",
       "identifiers": [
         {
           "identifier": "arif-virani",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88910",
+          "scheme": "represent"
         }
       ],
       "name": "Arif Virani",
@@ -2397,11 +2578,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ArnoldViersen"
+        }
+      ],
+      "email": "Arnold.Viersen@parl.gc.ca",
       "id": "2fceb42f-7e86-44e3-b1f2-c8aef96bb62e",
       "identifiers": [
         {
           "identifier": "arnold-viersen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89211",
+          "scheme": "represent"
         }
       ],
       "name": "Arnold Viersen",
@@ -2505,12 +2697,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BardishKW"
+        }
+      ],
+      "email": "Bardish.Chagger@parl.gc.ca",
       "gender": "female",
       "id": "dc374b77-57a7-4d98-afa2-12beca7cbed5",
       "identifiers": [
         {
           "identifier": "bardish-chagger",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89000",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21402871",
@@ -2744,11 +2947,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BernJordan2015"
+        }
+      ],
+      "email": "Bernadette.Jordan@parl.gc.ca",
       "id": "cf8df06e-191f-4e7f-bb83-53673966ff33",
       "identifiers": [
         {
           "identifier": "bernadette-jordan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88340",
+          "scheme": "represent"
         }
       ],
       "name": "Bernadette Jordan",
@@ -2760,6 +2974,13 @@
     },
     {
       "birth_date": "1962-04-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GenereuxBernard"
+        }
+      ],
+      "email": "Bernard.Genereux@parl.gc.ca",
       "gender": "male",
       "given_name": "Bernard",
       "id": "1f986294-db4b-4fc6-a58b-aa8f312c84a1",
@@ -2769,14 +2990,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "63908",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q2898026",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bernard_Généreux.JPG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/GenereuxBernard.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bernard_Généreux.JPG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/GenereuxBernard.jpg"
         }
       ],
       "links": [
@@ -3113,6 +3338,12 @@
     },
     {
       "birth_date": "1947-06-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BevShipleyMP"
+        }
+      ],
       "email": "bev.shipley@parl.gc.ca",
       "gender": "male",
       "id": "9daf909d-56d2-4047-85b3-5280d03e7b0d",
@@ -3271,6 +3502,13 @@
     },
     {
       "birth_date": "1945-02-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/billcaseyns"
+        }
+      ],
+      "email": "Bill.Casey@parl.gc.ca",
       "gender": "male",
       "given_name": "Bill",
       "id": "30178333-e680-4fc3-bd0a-974a931ad716",
@@ -3284,8 +3522,18 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "51",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q2903153",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/CaseyBill_IND.jpg",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/CaseyBill_IND.jpg"
         }
       ],
       "links": [
@@ -3366,6 +3614,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Bill_Morneau"
+        }
+      ],
+      "email": "Bill.Morneau@parl.gc.ca",
       "gender": "male",
       "given_name": "Bill",
       "id": "9946591e-c601-43bb-8ce1-0c3851d3cd12",
@@ -3373,6 +3628,10 @@
         {
           "identifier": "bill-morneau",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88992",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21175197",
@@ -3419,6 +3678,12 @@
     },
     {
       "birth_date": "1968-12-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/blainecalkinsmp"
+        }
+      ],
       "email": "blaine.calkins@parl.gc.ca",
       "gender": "male",
       "given_name": "Blaine",
@@ -3611,6 +3876,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BratinaBobHESC"
+        }
+      ],
+      "email": "Bob.Bratina@parl.gc.ca",
       "gender": "male",
       "given_name": "Bob",
       "id": "e6a8c2a5-fd41-4493-a046-3d9de1e09961",
@@ -3618,6 +3890,10 @@
         {
           "identifier": "bob-bratina",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88775",
+          "scheme": "represent"
         },
         {
           "identifier": "Q4931915",
@@ -4023,12 +4299,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BobSaroya"
+        }
+      ],
+      "email": "Bob.Saroya@parl.gc.ca",
       "gender": "male",
       "id": "7d77d716-5e86-45e6-8480-8fa1acb17e9c",
       "identifiers": [
         {
           "identifier": "bob-saroya",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "58878",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21470126",
@@ -4224,6 +4511,13 @@
     },
     {
       "birth_date": "1960-11-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/VoteBorys"
+        }
+      ],
+      "email": "Borys.Wrzesnewskyj@parl.gc.ca",
       "gender": "male",
       "id": "a08c9763-d0c9-4f2e-8f28-8988ab9b10c4",
       "identifiers": [
@@ -4236,14 +4530,18 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "25468",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q2911380",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Borys_Wrzesnewskyj.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/WrzesnewskyjBoris_LIB.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Borys_Wrzesnewskyj.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/WrzesnewskyjBoris_LIB.jpg"
         }
       ],
       "links": [
@@ -4404,6 +4702,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BradTrostCPC"
+        }
+      ],
       "email": "brad.trost@parl.gc.ca",
       "id": "d16b71c6-c860-474e-ae23-23cb8eca44f6",
       "identifiers": [
@@ -4519,11 +4823,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BShanahanLib"
+        }
+      ],
+      "email": "Brenda.Shanahan@parl.gc.ca",
       "id": "77c10a8b-76b9-486f-b995-96a82a494223",
       "identifiers": [
         {
           "identifier": "brenda-shanahan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88442",
+          "scheme": "represent"
         }
       ],
       "name": "Brenda Shanahan",
@@ -4713,6 +5028,12 @@
     },
     {
       "birth_date": "1968-07-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BrianMasseMP"
+        }
+      ],
       "email": "brian.masse@parl.gc.ca",
       "gender": "male",
       "given_name": "Brian",
@@ -4908,11 +5229,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/bsansoucynpd"
+        }
+      ],
+      "email": "Brigitte.Sansoucy@parl.gc.ca",
       "id": "5a45e24a-ef29-4e09-8d7c-09645eb35a15",
       "identifiers": [
         {
           "identifier": "brigitte-sansoucy",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "53569",
+          "scheme": "represent"
         }
       ],
       "name": "Brigitte Sansoucy",
@@ -5004,6 +5336,12 @@
     },
     {
       "birth_date": "1957-12-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/bruce_stanton"
+        }
+      ],
       "email": "bruce.stanton@parl.gc.ca",
       "gender": "male",
       "given_name": "Bruce",
@@ -5186,11 +5524,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/_BryanMay"
+        }
+      ],
+      "email": "Bryan.May@parl.gc.ca",
       "id": "f0195709-4df9-4af2-8e7c-27e8640f5234",
       "identifiers": [
         {
           "identifier": "bryan-may",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71599",
+          "scheme": "represent"
         }
       ],
       "name": "Bryan May",
@@ -5202,6 +5551,12 @@
     },
     {
       "birth_date": "1964-09-28",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CandiceBergenMP"
+        }
+      ],
       "email": "candice.bergen@parl.gc.ca",
       "gender": "female",
       "given_name": "Candice",
@@ -5304,12 +5659,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CQualtro"
+        }
+      ],
+      "email": "Carla.Qualtrough@parl.gc.ca",
       "gender": "female",
       "id": "f302c313-e094-40f2-85c8-fa9e3f37d2bc",
       "identifiers": [
         {
           "identifier": "carla-qualtrough",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89272",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21384927",
@@ -5356,6 +5722,12 @@
     },
     {
       "birth_date": "1958-11-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CarolHughesMP"
+        }
+      ],
       "email": "carol.hughes@parl.gc.ca",
       "gender": "female",
       "given_name": "Carol",
@@ -5534,11 +5906,16 @@
       ]
     },
     {
+      "email": "Cathay.Wagantall@parl.gc.ca",
       "id": "0f7cd277-1005-4e3e-976e-23b2b3e215c8",
       "identifiers": [
         {
           "identifier": "cathay-wagantall",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89098",
+          "scheme": "represent"
         }
       ],
       "name": "Cathay Wagantall",
@@ -5550,6 +5927,13 @@
     },
     {
       "birth_date": "1971-08-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/cathmckenna"
+        }
+      ],
+      "email": "Catherine.McKenna@parl.gc.ca",
       "gender": "female",
       "given_name": "Catherine",
       "id": "01e8eb2b-c3ad-4a9a-9a25-dcd5e08c6124",
@@ -5557,6 +5941,10 @@
         {
           "identifier": "catherine-mckenna",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88892",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21335996",
@@ -5613,6 +6001,12 @@
     },
     {
       "birth_date": "1957-06-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Cathy_McLeod"
+        }
+      ],
       "email": "cathy.mcleod@parl.gc.ca",
       "gender": "female",
       "given_name": "Cathy",
@@ -5701,6 +6095,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/celinachavannes"
+        }
+      ],
+      "email": "Celina.Caesar-Chavannes@parl.gc.ca",
       "gender": "female",
       "given_name": "Celina",
       "id": "fd2a5cb0-2a60-42fd-80c2-7bd68466bac1",
@@ -5708,6 +6109,10 @@
         {
           "identifier": "celina-caesar-chavannes",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "86786",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21336060",
@@ -5735,11 +6140,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ChandraNepean"
+        }
+      ],
+      "email": "Chandra.Arya@parl.gc.ca",
       "id": "0068ee69-6842-482c-9ffc-b7c67854ceef",
       "identifiers": [
         {
           "identifier": "chandra-arya",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88860",
+          "scheme": "represent"
         }
       ],
       "name": "Chandra Arya",
@@ -5751,6 +6167,12 @@
     },
     {
       "birth_date": "1962-11-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CharlieAngusNDP"
+        }
+      ],
       "email": "charlie.angus@parl.gc.ca",
       "gender": "male",
       "given_name": "Charlie",
@@ -5953,6 +6375,12 @@
     },
     {
       "birth_date": "1960-05-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/cherylgallant"
+        }
+      ],
       "email": "cheryl.gallant@parl.gc.ca",
       "gender": "female",
       "given_name": "Cheryl",
@@ -6046,11 +6474,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CHardcastleNDP"
+        }
+      ],
+      "email": "Cheryl.Hardcastle@parl.gc.ca",
       "id": "ecf2e24c-27a4-41f0-aad1-8552a8ce7410",
       "identifiers": [
         {
           "identifier": "cheryl-hardcastle",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89012",
+          "scheme": "represent"
         }
       ],
       "name": "Cheryl Hardcastle",
@@ -6176,11 +6615,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Chris_Bittle"
+        }
+      ],
+      "email": "Chris.Bittle@parl.gc.ca",
       "id": "00390221-a0ac-4cd6-8e3f-75ab374ade6d",
       "identifiers": [
         {
           "identifier": "chris-bittle",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88934",
+          "scheme": "represent"
         }
       ],
       "name": "Chris Bittle",
@@ -6501,6 +6951,12 @@
     },
     {
       "birth_date": "1983-10-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MooreNpd"
+        }
+      ],
       "email": "Christine.Moore@parl.gc.ca",
       "gender": "female",
       "given_name": "Christine",
@@ -7041,6 +7497,12 @@
     },
     {
       "birth_date": "1962-04-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ColinCarrie"
+        }
+      ],
       "email": "colin.carrie@parl.gc.ca",
       "gender": "male",
       "given_name": "Colin",
@@ -7134,11 +7596,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/colinjmfraser"
+        }
+      ],
+      "email": "Colin.Fraser@parl.gc.ca",
       "id": "1df09c90-3cfc-4033-94de-f0bb85cee9b5",
       "identifiers": [
         {
           "identifier": "colin-fraser",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88346",
+          "scheme": "represent"
         }
       ],
       "name": "Colin Fraser",
@@ -7546,6 +8019,12 @@
     },
     {
       "birth_date": "1976-12-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DanAlbas"
+        }
+      ],
       "email": "Dan.Albas@parl.gc.ca",
       "gender": "male",
       "given_name": "Dan",
@@ -7724,11 +8203,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/danruimy2015"
+        }
+      ],
+      "email": "Dan.Ruimy@parl.gc.ca",
       "id": "35390ff2-8f7c-4158-8c8b-8b202ec4920b",
       "identifiers": [
         {
           "identifier": "dan-ruimy",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89304",
+          "scheme": "represent"
         }
       ],
       "name": "Dan Ruimy",
@@ -7740,6 +8230,13 @@
     },
     {
       "birth_date": "1960-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/stbdan"
+        }
+      ],
+      "email": "Dan.Vandal@parl.gc.ca",
       "gender": "male",
       "given_name": "Dan",
       "id": "b7484474-2fd6-44c9-b59d-583dfc5de35b",
@@ -7747,6 +8244,10 @@
         {
           "identifier": "dan-vandal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89045",
+          "scheme": "represent"
         },
         {
           "identifier": "Q5214525",
@@ -7799,11 +8300,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DBlaikieNDP"
+        }
+      ],
+      "email": "Daniel.Blaikie@parl.gc.ca",
       "id": "d8a40efc-de4a-4327-8a9b-058723a8d203",
       "identifiers": [
         {
           "identifier": "daniel-blaikie",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89032",
+          "scheme": "represent"
         }
       ],
       "name": "Daniel Blaikie",
@@ -7899,11 +8411,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/darrellsamson"
+        }
+      ],
+      "email": "Darrell.Samson@parl.gc.ca",
       "id": "2df0f2d6-7f1c-4183-905b-1b4c96d17a5a",
       "identifiers": [
         {
           "identifier": "darrell-samson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88333",
+          "scheme": "represent"
         }
       ],
       "name": "Darrell Samson",
@@ -7914,11 +8437,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DarrenFisherNS"
+        }
+      ],
+      "email": "Darren.Fisher@parl.gc.ca",
       "id": "3cc90118-c2d2-44e7-9a66-feefee8a147a",
       "identifiers": [
         {
           "identifier": "darren-fisher",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88323",
+          "scheme": "represent"
         }
       ],
       "name": "Darren Fisher",
@@ -8102,6 +8636,12 @@
     },
     {
       "birth_date": "1946-06-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DaveMacKenzieMP"
+        }
+      ],
       "email": "dave.mackenzie@parl.gc.ca",
       "gender": "male",
       "given_name": "Dave",
@@ -8294,6 +8834,12 @@
     },
     {
       "birth_date": "1954-10-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DaveChrisMP"
+        }
+      ],
       "email": "david.christopherson@parl.gc.ca",
       "gender": "male",
       "given_name": "David",
@@ -8391,6 +8937,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/daviddbgraham"
+        }
+      ],
+      "email": "David.Graham@parl.gc.ca",
       "family_name": "Graham",
       "gender": "male",
       "given_name": "David",
@@ -8399,6 +8952,10 @@
         {
           "identifier": "david-graham",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88504",
+          "scheme": "represent"
         },
         {
           "identifier": "Q19060376",
@@ -8551,6 +9108,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DavidLametti"
+        }
+      ],
+      "email": "David.Lametti@parl.gc.ca",
       "gender": "male",
       "given_name": "David",
       "id": "6d63c4d4-61cb-4ae3-9e96-03432fc2c24e",
@@ -8558,6 +9122,10 @@
         {
           "identifier": "david-lametti",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88501",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21064615",
@@ -8686,6 +9254,12 @@
     },
     {
       "birth_date": "1957-06-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DavidSweetMP"
+        }
+      ],
       "email": "david.sweet@parl.gc.ca",
       "gender": "male",
       "given_name": "David",
@@ -8784,6 +9358,12 @@
     },
     {
       "birth_date": "1941-03-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/davidtilson"
+        }
+      ],
       "email": "david.tilson@parl.gc.ca",
       "gender": "male",
       "given_name": "David",
@@ -8967,6 +9547,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DavidYurdiga"
+        }
+      ],
       "email": "David.Yurdiga@parl.gc.ca",
       "gender": "male",
       "given_name": "David",
@@ -9022,6 +9608,12 @@
     },
     {
       "birth_date": "1965-02-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DeanAllisonMP"
+        }
+      ],
       "email": "dean.allison@parl.gc.ca",
       "gender": "male",
       "given_name": "Dean",
@@ -9230,6 +9822,12 @@
     },
     {
       "birth_date": "1950-07-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/deepakobhrai"
+        }
+      ],
       "email": "deepak.obhrai@parl.gc.ca",
       "gender": "male",
       "given_name": "Deepak",
@@ -9618,11 +10216,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DenisLemieuxLib"
+        }
+      ],
+      "email": "Denis.Lemieux@parl.gc.ca",
       "id": "97d4a4da-661b-4499-b6e6-dc4cacca3b60",
       "identifiers": [
         {
           "identifier": "denis-lemieux",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88446",
+          "scheme": "represent"
         }
       ],
       "name": "Denis Lemieux",
@@ -9634,6 +10243,13 @@
     },
     {
       "birth_date": "1949-04-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DenisParadisPLC"
+        }
+      ],
+      "email": "Denis.Paradis@parl.gc.ca",
       "gender": "male",
       "given_name": "Denis",
       "id": "e0560c11-7bc4-4147-a87d-6acb615bf996",
@@ -9641,6 +10257,10 @@
         {
           "identifier": "denis-paradis",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "198",
+          "scheme": "represent"
         },
         {
           "identifier": "104696106",
@@ -9651,10 +10271,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Denis_Paradis.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/38/Paradd.JPG",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Denis_Paradis.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/38/Paradd.JPG"
         }
       ],
       "links": [
@@ -10210,12 +10830,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DiLebouthillier"
+        }
+      ],
+      "email": "Diane.Lebouthillier@parl.gc.ca",
       "gender": "female",
       "id": "bade011d-a91b-44b0-b4db-876160a45bb5",
       "identifiers": [
         {
           "identifier": "diane-lebouthillier",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88460",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21336098",
@@ -10271,6 +10902,13 @@
     },
     {
       "birth_date": "1958-10-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DianneLWatts"
+        }
+      ],
+      "email": "Dianne.Watts@parl.gc.ca",
       "gender": "female",
       "given_name": "Dianne",
       "id": "cbd37935-baa4-4f47-8280-b59fd7c96e5e",
@@ -10278,6 +10916,10 @@
         {
           "identifier": "dianne-watts",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89333",
+          "scheme": "represent"
         },
         {
           "identifier": "Q5271706",
@@ -10502,6 +11144,12 @@
     },
     {
       "birth_date": "1963-01-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DonDavies"
+        }
+      ],
       "email": "don.davies@parl.gc.ca",
       "family_name": "Davies",
       "gender": "male",
@@ -10596,11 +11244,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DonRusnakMP"
+        }
+      ],
+      "email": "Don.Rusnak@parl.gc.ca",
       "id": "4b7f08d3-6ede-4262-b111-ddfe46d3055e",
       "identifiers": [
         {
           "identifier": "don-rusnak",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88982",
+          "scheme": "represent"
         }
       ],
       "name": "Don Rusnak",
@@ -10611,11 +11270,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DougEyolfson"
+        }
+      ],
+      "email": "Doug.Eyolfson@parl.gc.ca",
       "id": "c47ec408-dd39-4a4c-8d50-b6ce6b08c682",
       "identifiers": [
         {
           "identifier": "doug-eyolfson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89027",
+          "scheme": "represent"
         }
       ],
       "name": "Doug Eyolfson",
@@ -10627,6 +11297,12 @@
     },
     {
       "birth_date": "1953-07-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/earl_dreeshen"
+        }
+      ],
       "email": "earl.dreeshen@parl.gc.ca",
       "gender": "male",
       "given_name": "Earl",
@@ -10716,6 +11392,12 @@
     },
     {
       "birth_date": "1955-06-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/HonEdFast"
+        }
+      ],
       "email": "ed.fast@parl.gc.ca",
       "gender": "male",
       "given_name": "Ed",
@@ -11018,7 +11700,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "ElizabethMay"
+          "value": "https://twitter.com/ElizabethMay"
         }
       ],
       "email": "Elizabeth.May@parl.gc.ca",
@@ -11353,6 +12035,12 @@
     },
     {
       "birth_date": "1973-01-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ErinOTooleMP"
+        }
+      ],
       "email": "Erin.OToole@parl.gc.ca",
       "gender": "male",
       "given_name": "Erin",
@@ -11441,6 +12129,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Erin_Weir"
+        }
+      ],
+      "email": "Erin.Weir@parl.gc.ca",
       "gender": "male",
       "given_name": "Erin",
       "id": "a9077336-21cd-4ad1-976f-2cc486ac8c0d",
@@ -11448,6 +12143,10 @@
         {
           "identifier": "erin-weir",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "31796",
+          "scheme": "represent"
         },
         {
           "identifier": "Q5389236",
@@ -11489,11 +12188,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/EvaNassifVimy"
+        }
+      ],
+      "email": "Eva.Nassif@parl.gc.ca",
       "id": "3e97f38e-4966-4a2a-bdd6-62cee1d03d75",
       "identifiers": [
         {
           "identifier": "eva-nassif",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "58806",
+          "scheme": "represent"
         }
       ],
       "name": "Eva Nassif",
@@ -11593,11 +12303,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/F_ElKhoury"
+        }
+      ],
+      "email": "Faycal.El-Khoury@parl.gc.ca",
       "id": "7f8df594-7a22-4e71-b1a9-4bd3c6f2b723",
       "identifiers": [
         {
           "identifier": "fayçal-el-khoury",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88515",
+          "scheme": "represent"
         }
       ],
       "name": "Fayçal El-Khoury",
@@ -11608,11 +12329,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/votetassi"
+        }
+      ],
+      "email": "Filomena.Tassi@parl.gc.ca",
       "id": "4956f50a-66ca-4d88-b10b-b27a74ef8134",
       "identifiers": [
         {
           "identifier": "filomena-tassi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88784",
+          "scheme": "represent"
         }
       ],
       "name": "Filomena Tassi",
@@ -11624,6 +12356,12 @@
     },
     {
       "birth_date": "1966-05-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/FinDonnelly"
+        }
+      ],
       "email": "fin.donnelly@parl.gc.ca",
       "gender": "male",
       "id": "53bdb6cc-0fc9-42f5-9504-059fc642be2b",
@@ -11708,11 +12446,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/fsorbara"
+        }
+      ],
+      "email": "Francesco.Sorbara@parl.gc.ca",
       "id": "f4a09fb5-6c8d-4ce7-ab86-46e98f9bbdc9",
       "identifiers": [
         {
           "identifier": "francesco-sorbara",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88999",
+          "scheme": "represent"
         }
       ],
       "name": "Francesco Sorbara",
@@ -11808,6 +12557,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Francis_Drouin"
+        }
+      ],
+      "email": "Francis.Drouin@parl.gc.ca",
       "gender": "male",
       "given_name": "Francis",
       "id": "2d51879f-f9c4-47c3-99fa-51208fcc3fe9",
@@ -11815,6 +12571,10 @@
         {
           "identifier": "francis-drouin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88756",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21155044",
@@ -11947,11 +12707,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/frankbaylis"
+        }
+      ],
+      "email": "Frank.Baylis@parl.gc.ca",
       "id": "72e5737d-cadc-42f4-ac18-e60f9cda6bc2",
       "identifiers": [
         {
           "identifier": "frank-baylis",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88578",
+          "scheme": "represent"
         }
       ],
       "name": "Frank Baylis",
@@ -12052,6 +12823,12 @@
     },
     {
       "birth_date": "1974-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/F_Choquette"
+        }
+      ],
       "email": "Francois.Choquette@parl.gc.ca",
       "gender": "male",
       "given_name": "François",
@@ -12320,6 +13097,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/FP_Champagne"
+        }
+      ],
+      "email": "Francois-Philippe.Champagne@parl.gc.ca",
       "gender": "male",
       "given_name": "François",
       "id": "a94766b3-7901-45f6-9e40-7259aaa0a7ab",
@@ -12327,6 +13111,10 @@
         {
           "identifier": "françois-philippe-champagne",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88633",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21159815",
@@ -12457,6 +13245,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Gabriel_SMarie"
+        }
+      ],
+      "email": "Gabriel.Ste-Marie@parl.gc.ca",
       "gender": "male",
       "given_name": "Gabriel",
       "id": "d5ee556a-23e2-43b0-895c-892edb579a87",
@@ -12464,6 +13259,10 @@
         {
           "identifier": "gabriel-ste-marie",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88485",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21177259",
@@ -12505,11 +13304,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/gagansikand"
+        }
+      ],
+      "email": "Gagan.Sikand@parl.gc.ca",
       "id": "91e9cdcc-6035-492f-87b9-c2c78d9a52d2",
       "identifiers": [
         {
           "identifier": "gagan-sikand",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88858",
+          "scheme": "represent"
         }
       ],
       "name": "Gagan Sikand",
@@ -12618,11 +13428,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GarnettGenuis"
+        }
+      ],
+      "email": "Garnett.Genuis@parl.gc.ca",
       "id": "2c769310-2c20-40ab-98a4-b2b267bc0921",
       "identifiers": [
         {
           "identifier": "garnett-genuis",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89226",
+          "scheme": "represent"
         }
       ],
       "name": "Garnett Genuis",
@@ -12731,6 +13552,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/gary_srp"
+        }
+      ],
+      "email": "Gary.Anandasangaree@parl.gc.ca",
       "gender": "male",
       "given_name": "Gary",
       "id": "1997e56a-830c-4e61-94ca-3aac5d71f42f",
@@ -12738,6 +13566,10 @@
         {
           "identifier": "gary-anandasangaree",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89449",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21160212",
@@ -12966,12 +13798,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GengTanMP"
+        }
+      ],
+      "email": "Geng.Tan@parl.gc.ca",
       "gender": "male",
       "id": "45563a12-a60a-4fc3-af92-4fc4da4d3e5d",
       "identifiers": [
         {
           "identifier": "geng-tan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88726",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21210275",
@@ -13108,11 +13951,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GeorginaNDP"
+        }
+      ],
+      "email": "Georgina.Jolibois@parl.gc.ca",
       "id": "b1607641-7723-4bbf-a47f-1f19f4f30fde",
       "identifiers": [
         {
           "identifier": "georgina-jolibois",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89065",
+          "scheme": "represent"
         }
       ],
       "name": "Georgina Jolibois",
@@ -13324,6 +14178,12 @@
     },
     {
       "birth_date": "1951-08-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GerryRitzMP"
+        }
+      ],
       "email": "gerry.ritz@parl.gc.ca",
       "gender": "male",
       "given_name": "Gerry",
@@ -13430,11 +14290,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GPTaylorMRD"
+        }
+      ],
+      "email": "Ginette.PetitpasTaylor@parl.gc.ca",
       "id": "8a8d8556-1d12-42c7-930e-689ea545556d",
       "identifiers": [
         {
           "identifier": "ginette-petitpas-taylor",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88364",
+          "scheme": "represent"
         }
       ],
       "name": "Ginette Petitpas Taylor",
@@ -13619,11 +14490,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GordJohns"
+        }
+      ],
+      "email": "Gord.Johns@parl.gc.ca",
       "id": "1413690d-8d99-4861-b4f6-add31f3767a9",
       "identifiers": [
         {
           "identifier": "gord-johns",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89263",
+          "scheme": "represent"
         }
       ],
       "name": "Gord Johns",
@@ -13745,12 +14627,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GregFergus"
+        }
+      ],
+      "email": "Greg.Fergus@parl.gc.ca",
       "gender": "male",
       "id": "07e0e4c7-d9bb-48c8-a053-39c4b8c26421",
       "identifiers": [
         {
           "identifier": "greg-fergus",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88478",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21281905",
@@ -13981,11 +14874,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Gudie"
+        }
+      ],
+      "email": "Gudie.Hutchings@parl.gc.ca",
       "id": "e80fe256-5e5a-47e3-bb89-8d556d1b780b",
       "identifiers": [
         {
           "identifier": "gudie-hutchings",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88292",
+          "scheme": "represent"
         }
       ],
       "name": "Gudie Hutchings",
@@ -13997,6 +14901,12 @@
     },
     {
       "birth_date": "1967-05-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GuyCaronNPD"
+        }
+      ],
       "email": "Guy.Caron@parl.gc.ca",
       "gender": "male",
       "given_name": "Guy",
@@ -14185,6 +15095,13 @@
     },
     {
       "birth_date": "1964-08-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/gerarddeltell"
+        }
+      ],
+      "email": "Gerard.Deltell@parl.gc.ca",
       "gender": "male",
       "given_name": "Gérard",
       "id": "82b7f73e-9283-4a32-9e54-620e75c738fb",
@@ -14192,6 +15109,10 @@
         {
           "identifier": "gérard-deltell",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88535",
+          "scheme": "represent"
         },
         {
           "identifier": "Q3123899",
@@ -14679,6 +15600,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1665",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q16195363",
           "scheme": "wikidata"
         }
@@ -14738,6 +15663,12 @@
     },
     {
       "birth_date": "1955-04-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/HLaverdiereNPD"
+        }
+      ],
       "email": "Helene.Laverdiere@parl.gc.ca",
       "gender": "female",
       "given_name": "Hélène",
@@ -14925,11 +15856,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/iamIqraKhalid"
+        }
+      ],
+      "email": "Iqra.Khalid@parl.gc.ca",
       "id": "f7f3d7c0-c861-407b-995e-c9518b65f421",
       "identifiers": [
         {
           "identifier": "iqra-khalid",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88849",
+          "scheme": "represent"
         }
       ],
       "name": "Iqra Khalid",
@@ -14941,6 +15883,12 @@
     },
     {
       "birth_date": "1951-08-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/irenemathyssen"
+        }
+      ],
       "email": "irene.mathyssen@parl.gc.ca",
       "gender": "female",
       "given_name": "Irene",
@@ -15676,6 +16624,12 @@
     },
     {
       "birth_date": "1964-01-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JacquesGourde"
+        }
+      ],
       "email": "jacques.gourde@parl.gc.ca",
       "gender": "male",
       "given_name": "Jacques",
@@ -15980,6 +16934,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/j_maloney"
+        }
+      ],
+      "email": "James.Maloney@parl.gc.ca",
       "gender": "male",
       "given_name": "James",
       "id": "1c409af8-bf80-4df2-a4aa-f848d9e0b444",
@@ -15987,6 +16948,10 @@
         {
           "identifier": "james-maloney",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88748",
+          "scheme": "represent"
         },
         {
           "identifier": "Q17386312",
@@ -16329,11 +17294,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Jamie_Schmale"
+        }
+      ],
+      "email": "Jamie.Schmale@parl.gc.ca",
       "id": "5d9154f9-ab90-486c-bf18-2b34d9c01b7b",
       "identifiers": [
         {
           "identifier": "jamie-schmale",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88770",
+          "scheme": "represent"
         }
       ],
       "name": "Jamie Schmale",
@@ -16344,6 +17320,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/janephilpott"
+        }
+      ],
+      "email": "Jane.Philpott@parl.gc.ca",
       "gender": "female",
       "given_name": "Jane",
       "id": "89123085-90bc-4bf3-8940-e18edbba0aae",
@@ -16351,6 +17334,10 @@
         {
           "identifier": "jane-philpott",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88835",
+          "scheme": "represent"
         },
         {
           "identifier": "Q19428856",
@@ -16481,6 +17468,12 @@
     },
     {
       "birth_date": "1968-05-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jkenney"
+        }
+      ],
       "email": "jason.kenney@parl.gc.ca",
       "gender": "male",
       "given_name": "Jason",
@@ -16592,11 +17585,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JatiSidhuLPC"
+        }
+      ],
+      "email": "Jati.Sidhu@parl.gc.ca",
       "id": "db750827-f7f4-44f4-8300-7a0a72f44fd5",
       "identifiers": [
         {
           "identifier": "jati-sidhu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89288",
+          "scheme": "represent"
         }
       ],
       "name": "Jati Sidhu",
@@ -16791,6 +17795,13 @@
     },
     {
       "birth_date": "1953-06-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jeanriouxplc"
+        }
+      ],
+      "email": "Jean.Rioux@parl.gc.ca",
       "gender": "male",
       "given_name": "Jean",
       "id": "41ec6d03-054b-49a8-9381-0e0c214dbcc1",
@@ -16798,6 +17809,10 @@
         {
           "identifier": "jean-rioux",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88623",
+          "scheme": "represent"
         },
         {
           "identifier": "26330442",
@@ -16958,11 +17973,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PLCLaPrairieJCP"
+        }
+      ],
+      "email": "Jean-Claude.Poissant@parl.gc.ca",
       "id": "99c24018-79ef-4689-ad17-42fba8950082",
       "identifiers": [
         {
           "identifier": "jean-claude-poissant",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88493",
+          "scheme": "represent"
         }
       ],
       "name": "Jean-Claude Poissant",
@@ -17151,6 +18177,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jyduclos"
+        }
+      ],
+      "email": "Jean-Yves.Duclos@parl.gc.ca",
       "gender": "male",
       "given_name": "Jean-Yves",
       "id": "6b803fc2-03c4-4edd-ba3d-a36d20f65d61",
@@ -17166,6 +18199,10 @@
         {
           "identifier": "no93033152",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "89408",
+          "scheme": "represent"
         },
         {
           "identifier": "179907182",
@@ -17342,11 +18379,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jenoconnell_"
+        }
+      ],
+      "email": "Jennifer.OConnell@parl.gc.ca",
       "id": "5ff8d817-97ca-4c20-a3c2-9e5e6c00ff6a",
       "identifiers": [
         {
           "identifier": "jennifer-o'connell",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88925",
+          "scheme": "represent"
         }
       ],
       "name": "Jennifer O'Connell",
@@ -17358,6 +18406,13 @@
     },
     {
       "birth_date": "1967-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JennyKwanBC"
+        }
+      ],
+      "email": "Jenny.Kwan@parl.gc.ca",
       "family_name": "Guan",
       "gender": "female",
       "given_name": "Jenny",
@@ -17370,6 +18425,10 @@
         {
           "identifier": "nm1924227",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "89346",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6179373",
@@ -17427,6 +18486,13 @@
     },
     {
       "birth_date": "1951-10-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jimcarr_wpg"
+        }
+      ],
+      "email": "Jim.Carr@parl.gc.ca",
       "gender": "male",
       "given_name": "Jim",
       "id": "f6eeb37c-e6f5-44ce-acdd-fa6c33dc22a1",
@@ -17434,6 +18500,10 @@
         {
           "identifier": "jim-carr",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89059",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6194065",
@@ -17485,6 +18555,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JimEglinski"
+        }
+      ],
       "email": "Jim.Eglinski@parl.gc.ca",
       "gender": "male",
       "given_name": "Jim",
@@ -18023,6 +19099,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Puglaas"
+        }
+      ],
+      "email": "Jody.Wilson-Raybould@parl.gc.ca",
       "gender": "female",
       "given_name": "Jody",
       "id": "2652a805-2706-4030-b3d2-b045d021ed79",
@@ -18030,6 +19113,10 @@
         {
           "identifier": "jody-wilson-raybould",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89494",
+          "scheme": "represent"
         },
         {
           "identifier": "Q19428900",
@@ -18380,6 +19467,13 @@
     },
     {
       "birth_date": "1963-04-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jpeschisolido"
+        }
+      ],
+      "email": "Joe.Peschisolido@parl.gc.ca",
       "gender": "male",
       "given_name": "Joe",
       "id": "62421cab-19d7-46e5-b690-b74ff71b9795",
@@ -18389,8 +19483,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1825",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q6211786",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/PeschC.jpg",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/PeschC.jpg"
         }
       ],
       "links": [
@@ -18547,11 +19651,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jwaldag"
+        }
+      ],
+      "email": "John.Aldag@parl.gc.ca",
       "id": "d4709a67-be0d-4943-8bd8-2f1ebdfac369",
       "identifiers": [
         {
           "identifier": "john-aldag",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89258",
+          "scheme": "represent"
         }
       ],
       "name": "John Aldag",
@@ -18692,6 +19807,12 @@
     },
     {
       "birth_date": "1971-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JohnBarlowMP"
+        }
+      ],
       "email": "John.Barlow@parl.gc.ca",
       "gender": "male",
       "given_name": "John",
@@ -18746,11 +19867,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JohnBrassardCPC"
+        }
+      ],
+      "email": "John.Brassard@parl.gc.ca",
       "id": "020e1aed-761c-46b2-bc53-d40bfb2062a3",
       "identifiers": [
         {
           "identifier": "john-brassard",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88674",
+          "scheme": "represent"
         }
       ],
       "name": "John Brassard",
@@ -19193,11 +20325,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JLNater"
+        }
+      ],
+      "email": "John.Nater@parl.gc.ca",
       "id": "bcfc5e84-9c30-484c-96f5-9adb1f15c4af",
       "identifiers": [
         {
           "identifier": "john-nater",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88917",
+          "scheme": "represent"
         }
       ],
       "name": "John Nater",
@@ -19208,11 +20351,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/voteoliver"
+        }
+      ],
+      "email": "John.Oliver@parl.gc.ca",
       "id": "7572e494-a27e-47eb-8177-77d688c58df3",
       "identifiers": [
         {
           "identifier": "john-oliver",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88881",
+          "scheme": "represent"
         }
       ],
       "name": "John Oliver",
@@ -19834,11 +20988,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JonathanWNV"
+        }
+      ],
+      "email": "Jonathan.Wilkinson@parl.gc.ca",
       "id": "448c8182-b71f-4a3b-b572-f12d864bbeab",
       "identifiers": [
         {
           "identifier": "jonathan-wilkinson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89300",
+          "scheme": "represent"
         }
       ],
       "name": "Jonathan Wilkinson",
@@ -20212,11 +21377,16 @@
       ]
     },
     {
+      "email": "Joel.Godin@parl.gc.ca",
       "id": "86857ac5-4d77-493c-9f58-b2c2bf8bc38b",
       "identifiers": [
         {
           "identifier": "joël-godin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89407",
+          "scheme": "represent"
         }
       ],
       "name": "Joël Godin",
@@ -20228,6 +21398,13 @@
     },
     {
       "birth_date": "1988-02-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JoelLightbound"
+        }
+      ],
+      "email": "Joel.Lightbound@parl.gc.ca",
       "gender": "male",
       "given_name": "Joël",
       "id": "d2052407-491d-45ea-84e2-b24387a6e9d9",
@@ -20235,6 +21412,10 @@
         {
           "identifier": "joël-lightbound",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88532",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21159821",
@@ -20272,6 +21453,12 @@
     },
     {
       "birth_date": "1952-06-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JudyFooteMP"
+        }
+      ],
       "email": "judy.foote@parl.gc.ca",
       "gender": "female",
       "given_name": "Judy",
@@ -20577,11 +21764,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/juliedabrusin"
+        }
+      ],
+      "email": "Julie.Dabrusin@parl.gc.ca",
       "id": "0cb25ef8-ab36-4b58-b611-ec1ebc262e3f",
       "identifiers": [
         {
           "identifier": "julie-dabrusin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88994",
+          "scheme": "represent"
         }
       ],
       "name": "Julie Dabrusin",
@@ -20592,11 +21790,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/JulieDzerowicz"
+        }
+      ],
+      "email": "Julie.Dzerowicz@parl.gc.ca",
       "id": "90fffd67-9ec0-4bfd-9aa6-c13fcb5dca42",
       "identifiers": [
         {
           "identifier": "julie-dzerowicz",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88721",
+          "scheme": "represent"
         }
       ],
       "name": "Julie Dzerowicz",
@@ -20654,11 +21863,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KamalKheraLib"
+        }
+      ],
+      "email": "Kamal.Khera@parl.gc.ca",
       "id": "bfd6ee3c-f716-42e5-9dbc-38cc379d7893",
       "identifiers": [
         {
           "identifier": "kamal-khera",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88705",
+          "scheme": "represent"
         }
       ],
       "name": "Kamal Khera",
@@ -20669,11 +21889,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KarenLudwigNB"
+        }
+      ],
+      "email": "Karen.Ludwig@parl.gc.ca",
       "id": "23e0bc51-218e-4ad9-955b-638d0c53a069",
       "identifiers": [
         {
           "identifier": "karen-ludwig",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88365",
+          "scheme": "represent"
         }
       ],
       "name": "Karen Ludwig",
@@ -20684,6 +21915,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/karenmccrimmon"
+        }
+      ],
+      "email": "Karen.McCrimmon@parl.gc.ca",
       "gender": "female",
       "given_name": "Karen",
       "id": "71a2f588-6e8a-4b3b-8acb-1b3af2593c5e",
@@ -20691,6 +21929,10 @@
         {
           "identifier": "karen-mccrimmon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71602",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6369875",
@@ -20759,11 +22001,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/karen_vecchio"
+        }
+      ],
+      "email": "Karen.Vecchio@parl.gc.ca",
       "id": "4e67d394-bebf-4850-a121-1d13c49a9094",
       "identifiers": [
         {
           "identifier": "karen-vecchio",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88742",
+          "scheme": "represent"
         }
       ],
       "name": "Karen Vecchio",
@@ -20774,11 +22027,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/karinagould"
+        }
+      ],
+      "email": "Karina.Gould@parl.gc.ca",
       "id": "d2384df6-1918-47be-b272-9d2ba4ed28f0",
       "identifiers": [
         {
           "identifier": "karina-gould",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88715",
+          "scheme": "represent"
         }
       ],
       "name": "Karina Gould",
@@ -20789,11 +22053,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/trudel_karine"
+        }
+      ],
+      "email": "Karine.Trudel@parl.gc.ca",
       "id": "3a3c7773-f0d7-4e09-9335-df303a1a5318",
       "identifiers": [
         {
           "identifier": "karine-trudel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88488",
+          "scheme": "represent"
         }
       ],
       "name": "Karine Trudel",
@@ -20804,11 +22079,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/VoteKateYoung"
+        }
+      ],
+      "email": "Kate.Young@parl.gc.ca",
       "id": "6b8077a3-e6be-48d5-90c0-5ac5f51d9cd7",
       "identifiers": [
         {
           "identifier": "kate-young",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88832",
+          "scheme": "represent"
         }
       ],
       "name": "Kate Young",
@@ -20978,6 +22264,12 @@
     },
     {
       "birth_date": "1961-11-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KellyBlockmp"
+        }
+      ],
       "email": "kelly.block@parl.gc.ca",
       "gender": "female",
       "given_name": "Kelly",
@@ -21062,11 +22354,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KellyMcCauleyMP"
+        }
+      ],
+      "email": "Kelly.McCauley@parl.gc.ca",
       "id": "56e8960e-e3fe-481c-a8e0-48b896052d6b",
       "identifiers": [
         {
           "identifier": "kelly-mccauley",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89179",
+          "scheme": "represent"
         }
       ],
       "name": "Kelly McCauley",
@@ -21077,11 +22380,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KenHardie"
+        }
+      ],
+      "email": "Ken.Hardie@parl.gc.ca",
       "id": "0fd4d633-9813-428d-bf0f-c31ae07c5605",
       "identifiers": [
         {
           "identifier": "ken-hardie",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89274",
+          "scheme": "represent"
         }
       ],
       "name": "Ken Hardie",
@@ -21093,6 +22407,13 @@
     },
     {
       "birth_date": "1959-06-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/avalonMPKen"
+        }
+      ],
+      "email": "Ken.McDonald@parl.gc.ca",
       "family_name": "Macdonald",
       "gender": "male",
       "given_name": "Ken",
@@ -21101,6 +22422,10 @@
         {
           "identifier": "ken-mcdonald",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88283",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21066146",
@@ -21234,6 +22559,13 @@
     },
     {
       "birth_date": "1969-12-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/kenthehr"
+        }
+      ],
+      "email": "Kent.Hehr@parl.gc.ca",
       "gender": "male",
       "given_name": "Kent",
       "id": "b6ea1d5a-7e9b-443c-8b55-4d94c1118e0b",
@@ -21241,6 +22573,10 @@
         {
           "identifier": "kent-hehr",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89111",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6391762",
@@ -21308,6 +22644,13 @@
     },
     {
       "birth_date": "1956-02-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KerryDiotte"
+        }
+      ],
+      "email": "Kerry.Diotte@parl.gc.ca",
       "gender": "male",
       "given_name": "Kerry",
       "id": "b3afbb2f-f820-4b63-b92d-425446cf6e9b",
@@ -21315,6 +22658,10 @@
         {
           "identifier": "kerry-diotte",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89150",
+          "scheme": "represent"
         },
         {
           "identifier": "Q16187047",
@@ -21547,6 +22894,12 @@
     },
     {
       "birth_date": "1958-11-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KevinASorenson"
+        }
+      ],
       "email": "kevin.sorenson@parl.gc.ca",
       "gender": "male",
       "given_name": "Kevin",
@@ -21647,11 +23000,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KevinWaugh_CPC"
+        }
+      ],
+      "email": "Kevin.Waugh@parl.gc.ca",
       "id": "07fbe77a-3215-436b-b974-b0d4fd3d9e42",
       "identifiers": [
         {
           "identifier": "kevin-waugh",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89084",
+          "scheme": "represent"
         }
       ],
       "name": "Kevin Waugh",
@@ -21662,11 +23026,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RuddKim"
+        }
+      ],
+      "email": "Kim.Rudd@parl.gc.ca",
       "id": "8bde2a14-fe49-47b1-9f30-3bc4465ce3ef",
       "identifiers": [
         {
           "identifier": "kim-rudd",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71718",
+          "scheme": "represent"
         }
       ],
       "name": "Kim Rudd",
@@ -21806,11 +23181,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/kylejpeterson"
+        }
+      ],
+      "email": "Kyle.Peterson@parl.gc.ca",
       "id": "216eb46f-858e-4cc8-a998-f4076c7eb8f5",
       "identifiers": [
         {
           "identifier": "kyle-peterson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71702",
+          "scheme": "represent"
         }
       ],
       "name": "Kyle Peterson",
@@ -22005,6 +23391,13 @@
     },
     {
       "birth_date": "1949-12-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LarryBagnell"
+        }
+      ],
+      "email": "Larry.Bagnell@parl.gc.ca",
       "gender": "male",
       "given_name": "Larry",
       "id": "c049fe59-efac-4fe6-bcb3-fd0bd2381c9b",
@@ -22014,8 +23407,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1796",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q3218024",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BagnellLarry_LIB.jpg",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BagnellLarry_LIB.jpg"
         }
       ],
       "links": [
@@ -22180,6 +23583,12 @@
     },
     {
       "birth_date": "1956-07-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LarryMillerMP"
+        }
+      ],
       "email": "larry.miller@parl.gc.ca",
       "family_name": "Miller",
       "gender": "male",
@@ -22468,6 +23877,12 @@
     },
     {
       "birth_date": "1946-09-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/L_MacAulay"
+        }
+      ],
       "email": "lawrence.macaulay@parl.gc.ca",
       "gender": "male",
       "given_name": "Lawrence",
@@ -22748,12 +24163,23 @@
     },
     {
       "birth_date": "1960-11-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Webber4Confed"
+        }
+      ],
+      "email": "Len.Webber@parl.gc.ca",
       "gender": "male",
       "id": "7295e7e6-5eee-4210-a135-e34bd69166a2",
       "identifiers": [
         {
           "identifier": "len-webber",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89116",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6522015",
@@ -23042,11 +24468,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LeonaAlleslev"
+        }
+      ],
+      "email": "Leona.Alleslev@parl.gc.ca",
       "id": "4dc1953c-ad5e-421b-96dd-d746359719bc",
       "identifiers": [
         {
           "identifier": "leona-alleslev",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88671",
+          "scheme": "represent"
         }
       ],
       "name": "Leona Alleslev",
@@ -23169,6 +24606,12 @@
     },
     {
       "birth_date": "1949-06-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LindaDuncanMP"
+        }
+      ],
       "email": "linda.duncan@parl.gc.ca",
       "gender": "female",
       "given_name": "Linda",
@@ -23263,6 +24706,13 @@
     },
     {
       "birth_date": "1960-07-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LapointeLinda"
+        }
+      ],
+      "email": "Linda.Lapointe@parl.gc.ca",
       "gender": "female",
       "given_name": "Linda",
       "id": "b6c7b83b-6bf8-4fb0-949c-54bf7ff7929f",
@@ -23270,6 +24720,10 @@
         {
           "identifier": "linda-lapointe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88601",
+          "scheme": "represent"
         },
         {
           "identifier": "Q3241356",
@@ -23351,7 +24805,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "lraitt"
+          "value": "https://twitter.com/lraitt"
         }
       ],
       "email": "lisa.raitt@parl.gc.ca",
@@ -23539,11 +24993,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LloydLongfield"
+        }
+      ],
+      "email": "Lloyd.Longfield@parl.gc.ca",
       "id": "bbc27547-a86c-41c6-b11b-dca9e1480eb4",
       "identifiers": [
         {
           "identifier": "lloyd-longfield",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88761",
+          "scheme": "represent"
         }
       ],
       "name": "Lloyd Longfield",
@@ -23740,11 +25205,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LucBerthold"
+        }
+      ],
+      "email": "Luc.Berthold@parl.gc.ca",
       "id": "eee16bdf-34a1-4a47-aa98-e3717f456692",
       "identifiers": [
         {
           "identifier": "luc-berthold",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88541",
+          "scheme": "represent"
         }
       ],
       "name": "Luc Berthold",
@@ -23756,6 +25232,13 @@
     },
     {
       "birth_date": "1960-01-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LucTerjo1"
+        }
+      ],
+      "email": "Luc.Theriault@parl.gc.ca",
       "gender": "male",
       "given_name": "Luc",
       "id": "d24fe762-6772-47d5-9b52-f696d31eddb3",
@@ -23763,6 +25246,10 @@
         {
           "identifier": "luc-thériault",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88552",
+          "scheme": "represent"
         },
         {
           "identifier": "Q1396130",
@@ -24027,12 +25514,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MajidJowhari"
+        }
+      ],
+      "email": "Majid.Jowhari@parl.gc.ca",
       "gender": "male",
       "id": "f54d608b-6fc7-484d-bcdc-e0d7e2203010",
       "identifiers": [
         {
           "identifier": "majid-jowhari",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88929",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21156165",
@@ -24466,11 +25964,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MarcMillerVM"
+        }
+      ],
+      "email": "Marc.Miller@parl.gc.ca",
       "id": "9c716078-7177-4ca3-939a-83d298c3ef15",
       "identifiers": [
         {
           "identifier": "marc-miller",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88660",
+          "scheme": "represent"
         }
       ],
       "name": "Marc Miller",
@@ -24481,11 +25990,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/marcgserre"
+        }
+      ],
+      "email": "Marc.Serre@parl.gc.ca",
       "id": "a6eae866-4327-4809-bb9a-d89667baf5cc",
       "identifiers": [
         {
           "identifier": "marc-serré",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88874",
+          "scheme": "represent"
         }
       ],
       "name": "Marc Serré",
@@ -24581,12 +26101,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/marcomendicino"
+        }
+      ],
+      "email": "Marco.Mendicino@parl.gc.ca",
       "gender": "male",
       "id": "44f52531-41d4-4d64-8573-28be86255592",
       "identifiers": [
         {
           "identifier": "marco-mendicino",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88738",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21336208",
@@ -24717,12 +26248,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/mclaudebibeau"
+        }
+      ],
+      "email": "Marie-Claude.Bibeau@parl.gc.ca",
       "gender": "female",
       "id": "af94bcaf-9fd5-4882-98fd-94f04db55b0a",
       "identifiers": [
         {
           "identifier": "marie-claude-bibeau",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88449",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21356553",
@@ -24848,11 +26390,16 @@
       ]
     },
     {
+      "email": "Marilyn.Gladu@parl.gc.ca",
       "id": "40947b68-5857-49b5-b413-131842492c33",
       "identifiers": [
         {
           "identifier": "marilyn-gladu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88938",
+          "scheme": "represent"
         }
       ],
       "name": "Marilyn Gladu",
@@ -24863,12 +26410,17 @@
       ]
     },
     {
+      "email": "Marilene.Gill@parl.gc.ca",
       "gender": "female",
       "id": "f92bde9a-2d7d-4360-93af-9f54a8759068",
       "identifiers": [
         {
           "identifier": "marilène-gill",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88538",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21167969",
@@ -24905,6 +26457,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Mario_Beaulieu"
+        }
+      ],
+      "email": "Mario.Beaulieu@parl.gc.ca",
       "gender": "male",
       "given_name": "Mario",
       "id": "042c6bb2-8058-4e2a-aaf2-16a82dd9e436",
@@ -24912,6 +26471,10 @@
         {
           "identifier": "mario-beaulieu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "376",
+          "scheme": "represent"
         },
         {
           "identifier": "Q17174697",
@@ -24959,6 +26522,12 @@
     },
     {
       "birth_date": "1955-10-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MarjBoutinSweet"
+        }
+      ],
       "email": "Marjolaine.Boutin-Sweet@parl.gc.ca",
       "family_name": "Boutin",
       "gender": "female",
@@ -25242,6 +26811,13 @@
     },
     {
       "birth_date": "1975-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MarkGerretsen"
+        }
+      ],
+      "email": "Mark.Gerretsen@parl.gc.ca",
       "gender": "male",
       "given_name": "Mark",
       "id": "6e465927-b428-43b5-bfa5-5496659550b3",
@@ -25249,6 +26825,10 @@
         {
           "identifier": "mark-gerretsen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88802",
+          "scheme": "represent"
         },
         {
           "identifier": "Q16215273",
@@ -25292,6 +26872,13 @@
     },
     {
       "birth_date": "1974-10-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/markhollandlib"
+        }
+      ],
+      "email": "Mark.Holland@parl.gc.ca",
       "gender": "male",
       "given_name": "Mark",
       "id": "09ae0c58-52bb-473a-b1b2-27c06b5a8af9",
@@ -25309,14 +26896,18 @@
           "scheme": "nndb"
         },
         {
+          "identifier": "25508",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q3294109",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mark_podium.PNG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/HollandMark_LIB.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mark_podium.PNG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/HollandMark_LIB.jpg"
         }
       ],
       "links": [
@@ -25389,6 +26980,12 @@
     },
     {
       "birth_date": "1978-03-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/markstrahl"
+        }
+      ],
       "email": "Mark.Strahl@parl.gc.ca",
       "gender": "male",
       "given_name": "Mark",
@@ -25571,11 +27168,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MartinBowRiver"
+        }
+      ],
+      "email": "Martin.Shields@parl.gc.ca",
       "id": "940fe124-01a4-4bde-bcb1-2480271e3fce",
       "identifiers": [
         {
           "identifier": "martin-shields",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89109",
+          "scheme": "represent"
         }
       ],
       "name": "Martin Shields",
@@ -25587,12 +27195,23 @@
     },
     {
       "birth_date": "1984-08-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/VoteTABBARA"
+        }
+      ],
+      "email": "Marwan.Tabbara@parl.gc.ca",
       "gender": "male",
       "id": "bfe8cdc6-eb40-473c-9f0f-d382f1b0c174",
       "identifiers": [
         {
           "identifier": "marwan-tabbara",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88813",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21471154",
@@ -25621,6 +27240,13 @@
     },
     {
       "birth_date": "1955-02-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MPMihychuk"
+        }
+      ],
+      "email": "MaryAnn.Mihychuk@parl.gc.ca",
       "gender": "female",
       "given_name": "Maryann",
       "id": "66c91109-0649-442f-a8cb-cf130cfd75c0",
@@ -25628,6 +27254,10 @@
         {
           "identifier": "maryann-mihychuk",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89037",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6778737",
@@ -25688,6 +27318,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MaryamMonsef"
+        }
+      ],
+      "email": "Maryam.Monsef@parl.gc.ca",
       "gender": "female",
       "given_name": "Maryam",
       "id": "4205d3db-a1f5-424d-8691-27011ac5c915",
@@ -25695,6 +27332,10 @@
         {
           "identifier": "maryam-monsef",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88922",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21162694",
@@ -25914,11 +27555,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MattDeCourcey"
+        }
+      ],
+      "email": "Matt.DeCourcey@parl.gc.ca",
       "id": "dea1f938-f047-4f5f-bb78-126fe67c3e2f",
       "identifiers": [
         {
           "identifier": "matt-decourcey",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88355",
+          "scheme": "represent"
         }
       ],
       "name": "Matt DeCourcey",
@@ -25929,6 +27581,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/jeneroux"
+        }
+      ],
+      "email": "Matt.Jeneroux@parl.gc.ca",
       "gender": "male",
       "given_name": "Matt",
       "id": "46f7eb18-aebc-4a5d-a94a-958029eb108b",
@@ -25936,6 +27595,10 @@
         {
           "identifier": "matt-jeneroux",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89167",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6788847",
@@ -26000,6 +27663,12 @@
     },
     {
       "birth_date": "1988-05-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MattDube"
+        }
+      ],
       "email": "Matthew.Dube@parl.gc.ca",
       "gender": "male",
       "given_name": "Matthew",
@@ -26273,6 +27942,12 @@
     },
     {
       "birth_date": "1955-06-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Mauril_Belanger"
+        }
+      ],
       "email": "mauril.belanger@parl.gc.ca",
       "gender": "male",
       "id": "c5391105-42ab-4b5c-8de0-3d8c42205e12",
@@ -26366,6 +28041,12 @@
     },
     {
       "birth_date": "1963-01-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MaximeBernier"
+        }
+      ],
       "email": "maxime.bernier@parl.gc.ca",
       "gender": "male",
       "given_name": "Maxime",
@@ -26569,11 +28250,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MelArnold2015"
+        }
+      ],
+      "email": "Mel.Arnold@parl.gc.ca",
       "id": "daa2a687-37a2-487c-8552-14505d082bbd",
       "identifiers": [
         {
           "identifier": "mel-arnold",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89294",
+          "scheme": "represent"
         }
       ],
       "name": "Mel Arnold",
@@ -26662,6 +28354,12 @@
     },
     {
       "birth_date": "1971-11-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MichaelChongMP"
+        }
+      ],
       "email": "michael.chong@parl.gc.ca",
       "gender": "male",
       "given_name": "Michael",
@@ -26773,11 +28471,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Cooper4SAE"
+        }
+      ],
+      "email": "Michael.Cooper@parl.gc.ca",
       "id": "a5476875-2a9c-4742-a59c-cda858f49599",
       "identifiers": [
         {
           "identifier": "michael-cooper",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89219",
+          "scheme": "represent"
         }
       ],
       "name": "Michael Cooper",
@@ -26788,11 +28497,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LevittMichael"
+        }
+      ],
+      "email": "Michael.Levitt@parl.gc.ca",
       "id": "668b974c-b074-4dda-836d-414572665d3f",
       "identifiers": [
         {
           "identifier": "michael-levitt",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89018",
+          "scheme": "represent"
         }
       ],
       "name": "Michael Levitt",
@@ -26804,6 +28524,13 @@
     },
     {
       "birth_date": "1959-09-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MMcLeodNWT"
+        }
+      ],
+      "email": "Michael.McLeod@parl.gc.ca",
       "gender": "male",
       "given_name": "Michael",
       "id": "65a4ef51-dd6e-4edb-b576-8bad6767a859",
@@ -26811,6 +28538,10 @@
         {
           "identifier": "michael-mcleod",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89374",
+          "scheme": "represent"
         },
         {
           "identifier": "Q6832752",
@@ -26873,11 +28604,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/boudrias2015"
+        }
+      ],
+      "email": "Michel.Boudrias@parl.gc.ca",
       "id": "a6253088-efc1-4391-ac52-afd27cb19918",
       "identifiers": [
         {
           "identifier": "michel-boudrias",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88651",
+          "scheme": "represent"
         }
       ],
       "name": "Michel Boudrias",
@@ -26888,6 +28630,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MPicardLiberal"
+        }
+      ],
+      "email": "Michel.Picard@parl.gc.ca",
       "gender": "male",
       "given_name": "Michel",
       "id": "128e1a97-64b2-4b00-8495-18fdd45cacd6",
@@ -26895,6 +28644,10 @@
         {
           "identifier": "michel-picard",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71529",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21178739",
@@ -26935,7 +28688,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "MichelleRempel"
+          "value": "https://twitter.com/MichelleRempel"
         }
       ],
       "email": "Michelle.Rempel@parl.gc.ca",
@@ -27143,11 +28896,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MikeBossio"
+        }
+      ],
+      "email": "Mike.Bossio@parl.gc.ca",
       "id": "4095e6ca-8475-4f9b-aea3-37a7c47f7af8",
       "identifiers": [
         {
           "identifier": "mike-bossio",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88786",
+          "scheme": "represent"
         }
       ],
       "name": "Mike Bossio",
@@ -27159,6 +28923,12 @@
     },
     {
       "birth_date": "1969-06-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MikeLakeMP"
+        }
+      ],
       "email": "mike.lake@parl.gc.ca",
       "gender": "male",
       "given_name": "Mike",
@@ -27441,12 +29211,17 @@
       ]
     },
     {
+      "email": "Monique.Pauze@parl.gc.ca",
       "gender": "female",
       "id": "ee71ddfb-28fc-4606-b650-ca699f80cd38",
       "identifiers": [
         {
           "identifier": "monique-pauzé",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88595",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21286025",
@@ -27487,7 +29262,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "MurrayRankin"
+          "value": "https://twitter.com/MurrayRankin"
         }
       ],
       "email": "Murray.Rankin@parl.gc.ca",
@@ -27673,6 +29448,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/melaniejoly"
+        }
+      ],
+      "email": "Melanie.Joly@parl.gc.ca",
       "gender": "female",
       "given_name": "Mélanie",
       "id": "25cd0ef1-cfc9-4f8b-8367-d2b14f9e2775",
@@ -27680,6 +29462,10 @@
         {
           "identifier": "mélanie-joly",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88384",
+          "scheme": "represent"
         },
         {
           "identifier": "Q15054353",
@@ -27742,6 +29528,12 @@
     },
     {
       "birth_date": "1972-07-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/nathancullen"
+        }
+      ],
       "email": "nathan.cullen@parl.gc.ca",
       "gender": "male",
       "given_name": "Nathan",
@@ -27844,11 +29636,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/beynate"
+        }
+      ],
+      "email": "Nathaniel.Erskine-Smith@parl.gc.ca",
       "id": "96d39d8b-612e-455b-baf5-ed596e9f5eab",
       "identifiers": [
         {
           "identifier": "nathaniel-erskine-smith",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88687",
+          "scheme": "represent"
         }
       ],
       "name": "Nathaniel Erskine-Smith",
@@ -27860,6 +29663,13 @@
     },
     {
       "birth_date": "1977-06-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/NavdeepSBains"
+        }
+      ],
+      "email": "Navdeep.Bains@parl.gc.ca",
       "gender": "male",
       "id": "abd1552d-63fb-41b1-af55-d54903cfed9a",
       "identifiers": [
@@ -27868,14 +29678,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "25471",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q3337237",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NavdeepBains_2011.JPG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BainsNavdeep_Lib.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NavdeepBains_2011.JPG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BainsNavdeep_Lib.jpg"
         }
       ],
       "links": [
@@ -27979,11 +29793,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/NeilREllis"
+        }
+      ],
+      "email": "Neil.Ellis@parl.gc.ca",
       "id": "4b14234e-98d1-4097-a49c-914911d32200",
       "identifiers": [
         {
           "identifier": "neil-ellis",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88683",
+          "scheme": "represent"
         }
       ],
       "name": "Neil Ellis",
@@ -27994,11 +29819,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/NickWhalenMP"
+        }
+      ],
+      "email": "Nick.Whalen@parl.gc.ca",
       "id": "bde5ba1a-6c62-42d5-ae91-031765d35653",
       "identifiers": [
         {
           "identifier": "nick-whalen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88296",
+          "scheme": "represent"
         }
       ],
       "name": "Nick Whalen",
@@ -28009,11 +29845,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DiIorioLiberal"
+        }
+      ],
+      "email": "Nicola.DiIorio@parl.gc.ca",
       "id": "bbacc99c-6674-419a-9abd-1d8aa5e0742c",
       "identifiers": [
         {
           "identifier": "nicola-di-iorio",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88627",
+          "scheme": "represent"
         }
       ],
       "name": "Nicola Di Iorio",
@@ -28025,6 +29872,12 @@
     },
     {
       "birth_date": "1982-09-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/nikiashton"
+        }
+      ],
       "email": "niki.ashton@parl.gc.ca",
       "gender": "female",
       "given_name": "Niki",
@@ -28467,6 +30320,12 @@
     },
     {
       "birth_date": "1969-10-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/OmarAlghabra"
+        }
+      ],
       "gender": "male",
       "given_name": "Omar",
       "id": "b2f66ed9-9e23-4c4f-9dbd-0d26bdcc3d3c",
@@ -28474,6 +30333,10 @@
         {
           "identifier": "omar-alghabra",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89535",
+          "scheme": "represent"
         },
         {
           "identifier": "Q3351821",
@@ -28973,11 +30836,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PamDamoff"
+        }
+      ],
+      "email": "Pam.Damoff@parl.gc.ca",
       "id": "957ac7cf-dbf0-4873-b937-419b3b6b3787",
       "identifiers": [
         {
           "identifier": "pam-damoff",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88884",
+          "scheme": "represent"
         }
       ],
       "name": "Pam Damoff",
@@ -29220,11 +31094,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PatriceFinnigan"
+        }
+      ],
+      "email": "Pat.Finnigan@parl.gc.ca",
       "id": "bfa3d80b-4f94-4405-9560-ec260c8f588e",
       "identifiers": [
         {
           "identifier": "pat-finnigan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88360",
+          "scheme": "represent"
         }
       ],
       "name": "Pat Finnigan",
@@ -29235,11 +31120,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/votepatkelly"
+        }
+      ],
+      "email": "Pat.Kelly@parl.gc.ca",
       "id": "73fa1a96-868c-4a86-b7ab-08f49d06e7bb",
       "identifiers": [
         {
           "identifier": "pat-kelly",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89130",
+          "scheme": "represent"
         }
       ],
       "name": "Pat Kelly",
@@ -29721,11 +31617,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/LefebvrePaul"
+        }
+      ],
+      "email": "Paul.Lefebvre@parl.gc.ca",
       "id": "d8f57f33-a2a6-4a96-9939-b1fb35b7b11f",
       "identifiers": [
         {
           "identifier": "paul-lefebvre",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88973",
+          "scheme": "represent"
         }
       ],
       "name": "Paul Lefebvre",
@@ -30024,6 +31931,13 @@
     },
     {
       "birth_date": "1966-10-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/votefonseca"
+        }
+      ],
+      "email": "Peter.Fonseca@parl.gc.ca",
       "gender": "male",
       "given_name": "Peter",
       "id": "80a4eb8a-6095-4c79-bfaa-16082a804a2d",
@@ -30031,6 +31945,10 @@
         {
           "identifier": "peter-fonseca",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71692",
+          "scheme": "represent"
         },
         {
           "identifier": "Q7174026",
@@ -30103,11 +32021,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/pfragiskatos"
+        }
+      ],
+      "email": "Peter.Fragiskatos@parl.gc.ca",
       "id": "66ccd537-1f51-4e0b-8040-38d65fe0a916",
       "identifiers": [
         {
           "identifier": "peter-fragiskatos",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88827",
+          "scheme": "represent"
         }
       ],
       "name": "Peter Fragiskatos",
@@ -30213,6 +32142,12 @@
     },
     {
       "birth_date": "1962-04-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MPJulian"
+        }
+      ],
       "email": "peter.julian@parl.gc.ca",
       "gender": "male",
       "given_name": "Peter",
@@ -30307,6 +32242,12 @@
     },
     {
       "birth_date": "1943-07-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/KentThornhillMP"
+        }
+      ],
       "email": "peter.kent@parl.gc.ca",
       "gender": "male",
       "given_name": "Peter",
@@ -30681,11 +32622,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PeterSchiefke"
+        }
+      ],
+      "email": "Peter.Schiefke@parl.gc.ca",
       "id": "afd06319-9573-4b0f-9584-f0fd451d327f",
       "identifiers": [
         {
           "identifier": "peter-schiefke",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88649",
+          "scheme": "represent"
         }
       ],
       "name": "Peter Schiefke",
@@ -30791,6 +32743,12 @@
     },
     {
       "birth_date": "1963-04-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PeterVanLoan"
+        }
+      ],
       "email": "peter.vanloan@parl.gc.ca",
       "gender": "male",
       "given_name": "Peter",
@@ -31072,11 +33030,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/pierrebretonplc"
+        }
+      ],
+      "email": "Pierre.Breton@parl.gc.ca",
       "id": "d44476b4-1836-41d6-93fc-5d82392defa9",
       "identifiers": [
         {
           "identifier": "pierre-breton",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "58707",
+          "scheme": "represent"
         }
       ],
       "name": "Pierre Breton",
@@ -31321,6 +33290,12 @@
     },
     {
       "birth_date": "1963-06-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/pierrenantel"
+        }
+      ],
       "email": "Pierre.Nantel@parl.gc.ca",
       "gender": "male",
       "given_name": "Pierre",
@@ -31400,6 +33375,7 @@
       ]
     },
     {
+      "email": "Pierre.Paul-Hus@parl.gc.ca",
       "gender": "male",
       "given_name": "Pierre",
       "id": "e6747e3e-3034-43e0-9c63-e98ca603a84a",
@@ -31407,6 +33383,10 @@
         {
           "identifier": "pierre-paul-hus",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "71454",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21158711",
@@ -31444,6 +33424,12 @@
     },
     {
       "birth_date": "1979-06-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PierrePoilievre"
+        }
+      ],
       "email": "pierre.poilievre@parl.gc.ca",
       "gender": "male",
       "given_name": "Pierre",
@@ -31533,6 +33519,12 @@
     },
     {
       "birth_date": "1991-05-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/PLDusseault"
+        }
+      ],
       "email": "Pierre-Luc.Dusseault@parl.gc.ca",
       "gender": "male",
       "given_name": "Pierre",
@@ -31617,11 +33609,16 @@
       ]
     },
     {
+      "email": "Rachael.Harder@parl.gc.ca",
       "id": "4d83e238-e011-496e-b8dc-a6a25997426b",
       "identifiers": [
         {
           "identifier": "rachael-harder",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89200",
+          "scheme": "represent"
         }
       ],
       "name": "Rachael Harder",
@@ -31632,11 +33629,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RABlaney"
+        }
+      ],
+      "email": "Rachel.Blaney@parl.gc.ca",
       "id": "a9549488-12c7-49fc-9f17-124d87abd024",
       "identifiers": [
         {
           "identifier": "rachel-blaney",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89354",
+          "scheme": "represent"
         }
       ],
       "name": "Rachel Blaney",
@@ -31647,11 +33655,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RajLiberal"
+        }
+      ],
+      "email": "Raj.Grewal@parl.gc.ca",
       "id": "81f6d5a4-14ef-46d5-b7e9-a3271a11b617",
       "identifiers": [
         {
           "identifier": "raj-grewal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88694",
+          "scheme": "represent"
         }
       ],
       "name": "Raj Grewal",
@@ -31662,11 +33681,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/1rajsaini"
+        }
+      ],
+      "email": "Raj.Saini@parl.gc.ca",
       "id": "3632eea2-b7b7-4c04-ac74-d68f25b5042e",
       "identifiers": [
         {
           "identifier": "raj-saini",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88807",
+          "scheme": "represent"
         }
       ],
       "name": "Raj Saini",
@@ -31812,11 +33842,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/sangharamesh"
+        }
+      ],
+      "email": "Ramesh.Sangha@parl.gc.ca",
       "id": "cb37351e-7b88-4248-85ec-b4b129293950",
       "identifiers": [
         {
           "identifier": "ramesh-sangha",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88692",
+          "scheme": "represent"
         }
       ],
       "name": "Ramesh Sangha",
@@ -31827,11 +33868,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ramezayoub"
+        }
+      ],
+      "email": "Ramez.Ayoub@parl.gc.ca",
       "id": "7ce5ca79-b60b-4155-8392-efcfff744319",
       "identifiers": [
         {
           "identifier": "ramez-ayoub",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88419",
+          "scheme": "represent"
         }
       ],
       "name": "Ramez Ayoub",
@@ -31843,6 +33895,12 @@
     },
     {
       "birth_date": "1951-08-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/r_garrison"
+        }
+      ],
       "email": "Randall.Garrison@parl.gc.ca",
       "gender": "male",
       "given_name": "Randall",
@@ -31931,11 +33989,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/randeepssarai"
+        }
+      ],
+      "email": "Randeep.Sarai@parl.gc.ca",
       "id": "4a5c21df-9e58-4eb7-ab2a-f2bc103983e4",
       "identifiers": [
         {
           "identifier": "randeep-sarai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89339",
+          "scheme": "represent"
         }
       ],
       "name": "Randeep Sarai",
@@ -31946,11 +34015,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/R_Boissonnault"
+        }
+      ],
+      "email": "Randy.Boissonnault@parl.gc.ca",
       "id": "49f15f9a-24aa-49d0-861a-22d2c6595a60",
       "identifiers": [
         {
           "identifier": "randy-boissonnault",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89147",
+          "scheme": "represent"
         }
       ],
       "name": "Randy Boissonnault",
@@ -32417,11 +34497,16 @@
       ]
     },
     {
+      "email": "Rene.Arseneault@parl.gc.ca",
       "id": "cc6634bf-e7eb-4627-9dd1-8eadf1eb7819",
       "identifiers": [
         {
           "identifier": "rené-arseneault",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89383",
+          "scheme": "represent"
         }
       ],
       "name": "René Arseneault",
@@ -32432,12 +34517,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/reloif"
+        }
+      ],
+      "email": "Rheal.Fortin@parl.gc.ca",
       "gender": "male",
       "id": "cbf67124-9c28-4698-b4e6-970b48cee90c",
       "identifiers": [
         {
           "identifier": "rhéal-fortin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88605",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21159929",
@@ -32474,6 +34570,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CanningsNDP"
+        }
+      ],
+      "email": "Richard.Cannings@parl.gc.ca",
       "gender": "male",
       "given_name": "Richard",
       "id": "6420ce4b-615c-4639-b1d2-4baa0793a394",
@@ -32481,6 +34584,10 @@
         {
           "identifier": "richard-cannings",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89327",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21228464",
@@ -33204,6 +35311,12 @@
     },
     {
       "birth_date": "1952-04-29",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/HonRobNicholson"
+        }
+      ],
       "email": "rob.nicholson@parl.gc.ca",
       "gender": "male",
       "given_name": "Rob",
@@ -33413,6 +35526,12 @@
     },
     {
       "birth_date": "1960-05-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RobertAubinNPD"
+        }
+      ],
       "email": "Robert.Aubin@parl.gc.ca",
       "gender": "male",
       "given_name": "Robert",
@@ -33681,11 +35800,16 @@
       ]
     },
     {
+      "email": "Robert.Kitchen@parl.gc.ca",
       "id": "fc360f93-8311-4a12-9251-6ab668a85b7c",
       "identifiers": [
         {
           "identifier": "robert-kitchen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89095",
+          "scheme": "represent"
         }
       ],
       "name": "Robert Kitchen",
@@ -33697,6 +35821,12 @@
     },
     {
       "birth_date": "1951-07-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RobertSopuck"
+        }
+      ],
       "email": "robert.sopuck@parl.gc.ca",
       "gender": "male",
       "given_name": "Robert",
@@ -33776,11 +35906,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DrRobbieO"
+        }
+      ],
+      "email": "Robert-Falcon.Ouellette@parl.gc.ca",
       "id": "ddaadf04-910b-40ed-981c-234fab9a3e4b",
       "identifiers": [
         {
           "identifier": "robert-falcon-ouellette",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89466",
+          "scheme": "represent"
         }
       ],
       "name": "Robert-Falcon Ouellette",
@@ -34094,6 +36235,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RomeoSaganash"
+        }
+      ],
       "email": "Romeo.Saganash@parl.gc.ca",
       "id": "64d282db-116a-4aaa-8edf-d3ba639cd6da",
       "identifiers": [
@@ -34307,6 +36454,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RonLiepert"
+        }
+      ],
+      "email": "Ron.Liepert@parl.gc.ca",
       "gender": "male",
       "given_name": "Ron",
       "id": "82ca07c1-b51c-4b53-b287-1ec14cede09d",
@@ -34314,6 +36468,10 @@
         {
           "identifier": "ron-liepert",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89139",
+          "scheme": "represent"
         },
         {
           "identifier": "Q7364077",
@@ -34361,11 +36519,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RonMcKinnonLib"
+        }
+      ],
+      "email": "Ron.McKinnon@parl.gc.ca",
       "id": "0af873c8-ebcd-4385-bb2b-c8480f821b0d",
       "identifiers": [
         {
           "identifier": "ron-mckinnon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "59293",
+          "scheme": "represent"
         }
       ],
       "name": "Ron McKinnon",
@@ -34377,6 +36546,12 @@
     },
     {
       "birth_date": "1969-03-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RonaAmbrose"
+        }
+      ],
       "email": "rona.ambrose@parl.gc.ca",
       "gender": "female",
       "id": "493da50c-c1a5-499d-9b56-70126a49b99f",
@@ -34725,11 +36900,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MPRubySahota"
+        }
+      ],
+      "email": "Ruby.Sahota@parl.gc.ca",
       "id": "9f42aedd-7abb-4883-a260-e8cfa4e167e8",
       "identifiers": [
         {
           "identifier": "ruby-sahota",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88698",
+          "scheme": "represent"
         }
       ],
       "name": "Ruby Sahota",
@@ -34835,6 +37021,12 @@
     },
     {
       "birth_date": "1984-04-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RE_Brosseau"
+        }
+      ],
       "email": "RuthEllen.Brosseau@parl.gc.ca",
       "gender": "female",
       "given_name": "Ruth",
@@ -35195,11 +37387,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Remi_Masse1"
+        }
+      ],
+      "email": "Remi.Masse@parl.gc.ca",
       "id": "79040cec-bdec-4a4e-817c-2b5b9d90e429",
       "identifiers": [
         {
           "identifier": "rémi-massé",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88397",
+          "scheme": "represent"
         }
       ],
       "name": "Rémi Massé",
@@ -35295,11 +37498,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/SalmaZahid15"
+        }
+      ],
+      "email": "Salma.Zahid@parl.gc.ca",
       "id": "18565559-4fcc-4fd8-b42c-b9b99f47edae",
       "identifiers": [
         {
           "identifier": "salma-zahid",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88950",
+          "scheme": "represent"
         }
       ],
       "name": "Salma Zahid",
@@ -35708,11 +37922,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/sduvall07"
+        }
+      ],
+      "email": "Scott.Duvall@parl.gc.ca",
       "id": "d9359c7a-1af0-436e-abc9-c95e36d81413",
       "identifiers": [
         {
           "identifier": "scott-duvall",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88780",
+          "scheme": "represent"
         }
       ],
       "name": "Scott Duvall",
@@ -35723,6 +37948,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ScottReidCPC"
+        }
+      ],
       "email": "scott.reid@parl.gc.ca",
       "id": "cc9f1422-7729-4ab0-bb66-cf7045d7c8da",
       "identifiers": [
@@ -35868,9 +38099,10 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "SeamusORegan"
+          "value": "https://twitter.com/SeamusORegan"
         }
       ],
+      "email": "Seamus.ORegan@parl.gc.ca",
       "gender": "male",
       "given_name": "Seamus",
       "id": "8f28982e-5fd2-4e8e-8c48-c414babc806a",
@@ -35882,6 +38114,10 @@
         {
           "identifier": "nm1159925",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "88299",
+          "scheme": "represent"
         },
         {
           "identifier": "Q7440780",
@@ -36054,11 +38290,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/electseanfraser"
+        }
+      ],
+      "email": "Sean.Fraser@parl.gc.ca",
       "id": "deebce9a-ba90-4785-bf1e-5103a38be83d",
       "identifiers": [
         {
           "identifier": "sean-fraser",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88316",
+          "scheme": "represent"
         }
       ],
       "name": "Sean Fraser",
@@ -36069,11 +38316,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/sergecormierlib"
+        }
+      ],
+      "email": "Serge.Cormier@parl.gc.ca",
       "id": "a0fb0527-1b06-43f7-9dae-26bf00ef2705",
       "identifiers": [
         {
           "identifier": "serge-cormier",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88350",
+          "scheme": "represent"
         }
       ],
       "name": "Serge Cormier",
@@ -36084,11 +38342,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ShannonLStubbs"
+        }
+      ],
+      "email": "Shannon.Stubbs@parl.gc.ca",
       "id": "0cfb092d-bf74-493e-8286-ed6985338323",
       "identifiers": [
         {
           "identifier": "shannon-stubbs",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89198",
+          "scheme": "represent"
         }
       ],
       "name": "Shannon Stubbs",
@@ -36099,11 +38368,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Shaun_Chen"
+        }
+      ],
+      "email": "Shaun.Chen@parl.gc.ca",
       "id": "2ce33031-f036-48ac-8c7c-06f4de6916c2",
       "identifiers": [
         {
           "identifier": "shaun-chen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88953",
+          "scheme": "represent"
         }
       ],
       "name": "Shaun Chen",
@@ -36114,11 +38394,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/s_malcolmson"
+        }
+      ],
+      "email": "Sheila.Malcolmson@parl.gc.ca",
       "id": "730f0060-81aa-45a1-b2ac-997a78d49b8a",
       "identifiers": [
         {
           "identifier": "sheila-malcolmson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89486",
+          "scheme": "represent"
         }
       ],
       "name": "Sheila Malcolmson",
@@ -36216,11 +38507,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/sherirbenson"
+        }
+      ],
+      "email": "Sheri.Benson@parl.gc.ca",
       "id": "65a6db66-ba8a-4e22-b9df-ddac94542b44",
       "identifiers": [
         {
           "identifier": "sheri-benson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89090",
+          "scheme": "represent"
         }
       ],
       "name": "Sheri Benson",
@@ -36231,11 +38533,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/SherryRomanado"
+        }
+      ],
+      "email": "Sherry.Romanado@parl.gc.ca",
       "id": "57ecefbf-620f-439b-bc17-210745792c75",
       "identifiers": [
         {
           "identifier": "sherry-romanado",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88521",
+          "scheme": "represent"
         }
       ],
       "name": "Sherry Romanado",
@@ -36246,12 +38559,17 @@
       ]
     },
     {
+      "email": "Simon.Marcil@parl.gc.ca",
       "gender": "male",
       "id": "4600b1f9-9307-4d6c-becf-edf43ff86819",
       "identifiers": [
         {
           "identifier": "simon-marcil",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88544",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21400450",
@@ -36288,11 +38606,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/SoniaLiberal"
+        }
+      ],
+      "email": "Sonia.Sidhu@parl.gc.ca",
       "id": "c9a9abcc-66cd-4509-96e6-ed4863b06172",
       "identifiers": [
         {
           "identifier": "sonia-sidhu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88703",
+          "scheme": "represent"
         }
       ],
       "name": "Sonia Sidhu",
@@ -36396,11 +38725,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Fuhr2015"
+        }
+      ],
+      "email": "Stephen.Fuhr@parl.gc.ca",
       "id": "3a3fb683-2ac1-4cbb-860a-2d337e2c58be",
       "identifiers": [
         {
           "identifier": "stephen-fuhr",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89279",
+          "scheme": "represent"
         }
       ],
       "name": "Stephen Fuhr",
@@ -36412,6 +38752,12 @@
     },
     {
       "birth_date": "1959-04-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/stephenharper"
+        }
+      ],
       "email": "stephen.harper@parl.gc.ca",
       "family_name": "Harper",
       "gender": "male",
@@ -37454,6 +39800,12 @@
     },
     {
       "birth_date": "1965-04-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/StevenBlaneyPCC"
+        }
+      ],
       "email": "steven.blaney@parl.gc.ca",
       "gender": "male",
       "given_name": "Steven",
@@ -37690,6 +40042,12 @@
     },
     {
       "birth_date": "1955-09-28",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/HonStephaneDion"
+        }
+      ],
       "email": "stephane.dion@parl.gc.ca",
       "gender": "male",
       "given_name": "Stéphane",
@@ -37987,11 +40345,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/stephanelauzon5"
+        }
+      ],
+      "email": "Stephane.Lauzon@parl.gc.ca",
       "id": "fd602c23-a9f7-4d01-8c16-2ebefd00a20a",
       "identifiers": [
         {
           "identifier": "stéphane-lauzon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88394",
+          "scheme": "represent"
         }
       ],
       "name": "Stéphane Lauzon",
@@ -38003,6 +40372,13 @@
     },
     {
       "birth_date": "1960-10-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/sukhdhaliwal"
+        }
+      ],
+      "email": "Sukh.Dhaliwal@parl.gc.ca",
       "gender": "male",
       "id": "92cf3e51-5b9d-450e-8226-f50e5a71b35f",
       "identifiers": [
@@ -38011,14 +40387,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "31098",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q3503377",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sukh_Dhaliwal.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/DhaliwalSukh_LIB.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sukh_Dhaliwal.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/DhaliwalSukh_LIB.jpg"
         }
       ],
       "links": [
@@ -38169,6 +40549,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/SvenTrueNorth"
+        }
+      ],
+      "email": "Sven.Spengemann@parl.gc.ca",
       "gender": "male",
       "given_name": "Sven",
       "id": "4a05556d-5fd4-4001-a2ad-f20e2cd047db",
@@ -38176,6 +40563,10 @@
         {
           "identifier": "sven-spengemann",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88852",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21175255",
@@ -38289,6 +40680,13 @@
     },
     {
       "birth_date": "1962-12-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/SylviePCC2015"
+        }
+      ],
+      "email": "Sylvie.Boucher@parl.gc.ca",
       "gender": "female",
       "given_name": "Sylvie",
       "id": "32f40ef3-f3a6-4d52-b78a-7eaf1fdb3fc1",
@@ -38298,8 +40696,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "35320",
+          "scheme": "represent"
+        },
+        {
           "identifier": "Q3507287",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BoucherSylvie_CPC.jpg",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BoucherSylvie_CPC.jpg"
         }
       ],
       "links": [
@@ -38477,6 +40885,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/TedFalkCPC"
+        }
+      ],
       "email": "Ted.Falk@parl.gc.ca",
       "gender": "male",
       "given_name": "Ted",
@@ -38918,11 +41332,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/terrybeech"
+        }
+      ],
+      "email": "Terry.Beech@parl.gc.ca",
       "id": "e1ec8894-bd78-49d5-9fc5-5d90d9b399bf",
       "identifiers": [
         {
           "identifier": "terry-beech",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89236",
+          "scheme": "represent"
         }
       ],
       "name": "Terry Beech",
@@ -38933,6 +41358,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/TerryDuguid"
+        }
+      ],
+      "email": "Terry.Duguid@parl.gc.ca",
       "gender": "male",
       "given_name": "Terry",
       "id": "1b88ceb6-5dd6-4000-a34e-7d7553805a16",
@@ -38940,6 +41372,10 @@
         {
           "identifier": "terry-duguid",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "31119",
+          "scheme": "represent"
         },
         {
           "identifier": "Q7704329",
@@ -39012,11 +41448,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/VoteTerry"
+        }
+      ],
+      "email": "Terry.Sheehan@parl.gc.ca",
       "id": "2fed1681-9e6d-4edb-be19-ee7399e366bd",
       "identifiers": [
         {
           "identifier": "terry-sheehan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88944",
+          "scheme": "represent"
         }
       ],
       "name": "Terry Sheehan",
@@ -39027,6 +41474,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ThomasMulcair"
+        }
+      ],
       "email": "thomas.mulcair@parl.gc.ca",
       "id": "23b5d7bb-5adf-4c18-b47b-c57638abc901",
       "identifiers": [
@@ -39242,11 +41695,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ToddDohertyMP"
+        }
+      ],
+      "email": "Todd.Doherty@parl.gc.ca",
       "id": "ceda6509-ed5c-4c40-a8d4-bf01107b3f23",
       "identifiers": [
         {
           "identifier": "todd-doherty",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89249",
+          "scheme": "represent"
         }
       ],
       "name": "Todd Doherty",
@@ -39257,11 +41721,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/tomaszkmiec"
+        }
+      ],
+      "email": "Tom.Kmiec@parl.gc.ca",
       "id": "d63c37ea-791e-4845-9808-2ab4e617a285",
       "identifiers": [
         {
           "identifier": "tom-kmiec",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89136",
+          "scheme": "represent"
         }
       ],
       "name": "Tom Kmiec",
@@ -39469,11 +41944,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/traceyram"
+        }
+      ],
+      "email": "Tracey.Ramsey@parl.gc.ca",
       "id": "7566447b-bed1-47bb-ac4c-1b770b91a0c5",
       "identifiers": [
         {
           "identifier": "tracey-ramsey",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88745",
+          "scheme": "represent"
         }
       ],
       "name": "Tracey Ramsey",
@@ -39582,11 +42068,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/VBadawey"
+        }
+      ],
+      "email": "Vance.Badawey@parl.gc.ca",
       "id": "29a50e8e-d8ac-42ff-b738-d694a07a4aad",
       "identifiers": [
         {
           "identifier": "vance-badawey",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88867",
+          "scheme": "represent"
         }
       ],
       "name": "Vance Badawey",
@@ -39883,11 +42380,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/WayneLongSJ"
+        }
+      ],
+      "email": "Wayne.Long@parl.gc.ca",
       "id": "3e474078-0118-4ef8-8384-32ed8241987b",
       "identifiers": [
         {
           "identifier": "wayne-long",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88368",
+          "scheme": "represent"
         }
       ],
       "name": "Wayne Long",
@@ -39987,11 +42495,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/WayneStetski"
+        }
+      ],
+      "email": "Wayne.Stetski@parl.gc.ca",
       "id": "65f76152-78d9-49e8-bfb0-21be8926317b",
       "identifiers": [
         {
           "identifier": "wayne-stetski",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89281",
+          "scheme": "represent"
         }
       ],
       "name": "Wayne Stetski",
@@ -40115,12 +42634,17 @@
       ]
     },
     {
+      "email": "Xavier.Barsalou-Duval@parl.gc.ca",
       "gender": "male",
       "id": "f04fa90b-5118-490a-abcc-4d47b40f07a9",
       "identifiers": [
         {
           "identifier": "xavier-barsalou-duval",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88422",
+          "scheme": "represent"
         },
         {
           "identifier": "Q21284594",
@@ -40158,6 +42682,13 @@
     },
     {
       "birth_date": "1951-01-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Yasmin_Ratansi"
+        }
+      ],
+      "email": "Yasmin.Ratansi@parl.gc.ca",
       "gender": "female",
       "given_name": "Yasmin",
       "id": "94d50ec3-c2e3-4c05-b59d-326fe88ad532",
@@ -40167,12 +42698,22 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "25449",
+          "scheme": "represent"
+        },
+        {
           "identifier": "78230892",
           "scheme": "viaf"
         },
         {
           "identifier": "Q3571913",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/RatansiYasmin_LIB.jpg",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/RatansiYasmin_LIB.jpg"
         }
       ],
       "links": [
@@ -40244,11 +42785,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/YRobillardPLC"
+        }
+      ],
+      "email": "Yves.Robillard@parl.gc.ca",
       "id": "d66db042-8065-40ad-a0ae-cc857aebccfa",
       "identifiers": [
         {
           "identifier": "yves-robillard",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "88617",
+          "scheme": "represent"
         }
       ],
       "name": "Yves Robillard",
@@ -40459,11 +43011,22 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/ziad4manning"
+        }
+      ],
+      "email": "Ziad.Aboultaif@parl.gc.ca",
       "id": "0a0c27f8-3e24-4553-9e53-1f09d046e974",
       "identifiers": [
         {
           "identifier": "ziad-aboultaif",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "89156",
+          "scheme": "represent"
         }
       ],
       "name": "Ziad Aboultaif",
@@ -40805,134 +43368,6 @@
         {
           "lang": "zh",
           "name": "加拿大民主与力量党",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "party/bloc_québécois",
-      "identifiers": [
-        {
-          "identifier": "Q735105",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Bloc Québécois",
-      "other_names": [
-        {
-          "lang": "la",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ar",
-          "name": "الكتلة الكيبيكية",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Bloc québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Bloc québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Blocco del Québec",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ブロック・ケベコワ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "퀘벡 블록",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Blok Quebecu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Bloco Quebequense",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Квебекский блок",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ta",
-          "name": "கியூபெக்வா கட்சி",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Квебекський блок",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "魁人政團",
-          "note": "multilingual"
-        },
-        {
-          "lang": "yue",
-          "name": "魁人政團",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Bloc Québécois",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Bloc Québécois",
           "note": "multilingual"
         }
       ]
@@ -42375,6 +44810,7 @@
     "sources": [
       "https://en.wikipedia.org/",
       "https://morph.io/tmtmtmtm/represent-ca",
+      "https://morph.io/tmtmtmtm/represent-ca",
       "http://wikidata.org/"
     ]
   },
@@ -42382,7 +44818,7 @@
     {
       "area_id": "area/ontario_(st._catharines)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "00390221-a0ac-4cd6-8e3f-75ab374ade6d",
       "role": "member"
@@ -42390,7 +44826,7 @@
     {
       "area_id": "area/ontario_(nepean)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0068ee69-6842-482c-9ffc-b7c67854ceef",
       "role": "member"
@@ -42446,7 +44882,7 @@
     {
       "area_id": "area/ontario_(ottawa_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "01e8eb2b-c3ad-4a9a-9a25-dcd5e08c6124",
       "role": "member"
@@ -42470,7 +44906,7 @@
     {
       "area_id": "area/quebec_(bourassa)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "021ad8b2-57cc-46cd-ad73-f7bfa49830b3",
       "role": "member",
@@ -42519,7 +44955,7 @@
     {
       "area_id": "area/ontario_(scarborough—agincourt)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "04f3fc3d-69b4-48c6-bae1-108e866db415",
       "role": "member",
@@ -42552,7 +44988,7 @@
     {
       "area_id": "area/ontario_(scarborough_southwest)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "07b475ae-f247-4f26-9e92-a9160d2c68c4",
       "role": "member"
@@ -42560,7 +44996,7 @@
     {
       "area_id": "area/quebec_(hull—aylmer)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "07e0e4c7-d9bb-48c8-a053-39c4b8c26421",
       "role": "member"
@@ -42576,7 +45012,7 @@
     {
       "area_id": "area/quebec_(laurentides—labelle)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0869a397-7466-4ae2-81e0-467eaf75f677",
       "role": "member"
@@ -42600,7 +45036,7 @@
     {
       "area_id": "area/ontario_(ajax)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "09ae0c58-52bb-473a-b1b2-27c06b5a8af9",
       "role": "member"
@@ -42616,7 +45052,7 @@
     {
       "area_id": "area/alberta_(calgary_skyview)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0ac080f5-ef12-4735-9f72-b2e2a974ed56",
       "role": "member"
@@ -42624,7 +45060,7 @@
     {
       "area_id": "area/british_columbia_(coquitlam—port_coquitlam)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0af873c8-ebcd-4385-bb2b-c8480f821b0d",
       "role": "member"
@@ -42648,7 +45084,7 @@
     {
       "area_id": "area/ontario_(toronto_centre)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0c5251d6-e60b-4126-9ecc-62f7c50a23fe",
       "role": "member",
@@ -42673,7 +45109,7 @@
     {
       "area_id": "area/ontario_(toronto—danforth)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0cb25ef8-ab36-4b58-b611-ec1ebc262e3f",
       "role": "member"
@@ -42770,7 +45206,7 @@
     {
       "area_id": "area/british_columbia_(fleetwood—port_kells)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "0fd4d633-9813-428d-bf0f-c31ae07c5605",
       "role": "member"
@@ -42794,7 +45230,7 @@
     {
       "area_id": "area/quebec_(montarville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "128e1a97-64b2-4b00-8495-18fdd45cacd6",
       "role": "member"
@@ -42858,7 +45294,7 @@
     {
       "area_id": "area/ontario_(scarborough_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "18565559-4fcc-4fd8-b42c-b9b99f47edae",
       "role": "member"
@@ -42882,7 +45318,7 @@
     {
       "area_id": "area/ontario_(scarborough—rouge_park)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "1997e56a-830c-4e61-94ca-3aac5d71f42f",
       "role": "member"
@@ -42938,7 +45374,7 @@
     {
       "area_id": "area/manitoba_(winnipeg_south)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "1b88ceb6-5dd6-4000-a34e-7d7553805a16",
       "role": "member"
@@ -42979,7 +45415,7 @@
     {
       "area_id": "area/ontario_(etobicoke—lakeshore)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "1c409af8-bf80-4df2-a4aa-f848d9e0b444",
       "role": "member"
@@ -43011,7 +45447,7 @@
     {
       "area_id": "area/nova_scotia_(west_nova)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "1df09c90-3cfc-4033-94de-f0bb85cee9b5",
       "role": "member"
@@ -43067,7 +45503,7 @@
     {
       "area_id": "area/ontario_(newmarket—aurora)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "216eb46f-858e-4cc8-a998-f4076c7eb8f5",
       "role": "member"
@@ -43123,7 +45559,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick_southwest)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "23e0bc51-218e-4ad9-955b-638d0c53a069",
       "role": "member"
@@ -43156,7 +45592,7 @@
     {
       "area_id": "area/quebec_(ahuntsic-cartierville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "25cd0ef1-cfc9-4f8b-8367-d2b14f9e2775",
       "role": "member"
@@ -43188,7 +45624,7 @@
     {
       "area_id": "area/british_columbia_(vancouver_granville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2652a805-2706-4030-b3d2-b045d021ed79",
       "role": "member"
@@ -43260,7 +45696,7 @@
     {
       "area_id": "area/ontario_(niagara_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "29a50e8e-d8ac-42ff-b738-d694a07a4aad",
       "role": "member"
@@ -43276,7 +45712,7 @@
     {
       "area_id": "area/ontario_(thunder_bay—superior_north)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2a8ff148-50eb-490c-a67a-242c43dcad13",
       "role": "member"
@@ -43324,7 +45760,7 @@
     {
       "area_id": "area/ontario_(scarborough_north)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2ce33031-f036-48ac-8c7c-06f4de6916c2",
       "role": "member"
@@ -43341,7 +45777,7 @@
     {
       "area_id": "area/ontario_(glengarry—prescott—russell)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2d51879f-f9c4-47c3-99fa-51208fcc3fe9",
       "role": "member"
@@ -43382,7 +45818,7 @@
     {
       "area_id": "area/nova_scotia_(sackville—preston—chezzetcook)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2df0f2d6-7f1c-4183-905b-1b4c96d17a5a",
       "role": "member"
@@ -43406,7 +45842,7 @@
     {
       "area_id": "area/ontario_(sault_ste._marie)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2fed1681-9e6d-4edb-be19-ee7399e366bd",
       "role": "member"
@@ -43414,7 +45850,7 @@
     {
       "area_id": "area/nova_scotia_(cumberland—colchester)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "30178333-e680-4fc3-bd0a-974a931ad716",
       "role": "member"
@@ -43422,7 +45858,7 @@
     {
       "area_id": "area/ontario_(orléans)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3197e371-3a85-4ced-8b6a-104c562baca8",
       "role": "member"
@@ -43494,7 +45930,7 @@
     {
       "area_id": "area/ontario_(nipissing—timiskaming)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "34a158a3-65d5-4b3b-ae5d-48fada0d45de",
       "role": "member"
@@ -43510,7 +45946,7 @@
     {
       "area_id": "area/british_columbia_(pitt_meadows—maple_ridge)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "35390ff2-8f7c-4158-8c8b-8b202ec4920b",
       "role": "member"
@@ -43534,7 +45970,7 @@
     {
       "area_id": "area/ontario_(kitchener_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3632eea2-b7b7-4c04-ac74-d68f25b5042e",
       "role": "member"
@@ -43606,7 +46042,7 @@
     {
       "area_id": "area/british_columbia_(kelowna—lake_country)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3a3fb683-2ac1-4cbb-860a-2d337e2c58be",
       "role": "member"
@@ -43646,7 +46082,7 @@
     {
       "area_id": "area/prince_edward_island_(egmont)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3c5a1553-1fd2-404c-ba2d-f66748cfd190",
       "role": "member"
@@ -43654,7 +46090,7 @@
     {
       "area_id": "area/quebec_(gatineau)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
       "role": "member"
@@ -43662,7 +46098,7 @@
     {
       "area_id": "area/nova_scotia_(dartmouth—cole_harbour)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3cc90118-c2d2-44e7-9a66-feefee8a147a",
       "role": "member"
@@ -43686,7 +46122,7 @@
     {
       "area_id": "area/new_brunswick_(saint_john—rothesay)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3e474078-0118-4ef8-8384-32ed8241987b",
       "role": "member"
@@ -43694,7 +46130,7 @@
     {
       "area_id": "area/quebec_(vimy)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "3e97f38e-4966-4a2a-bdd6-62cee1d03d75",
       "role": "member"
@@ -43727,7 +46163,7 @@
     {
       "area_id": "area/ontario_(hastings—lennox_and_addington)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4095e6ca-8475-4f9b-aea3-37a7c47f7af8",
       "role": "member"
@@ -43767,7 +46203,7 @@
     {
       "area_id": "area/quebec_(saint-jean)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "41ec6d03-054b-49a8-9381-0e0c214dbcc1",
       "role": "member"
@@ -43775,7 +46211,7 @@
     {
       "area_id": "area/ontario_(peterborough—kawartha)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4205d3db-a1f5-424d-8691-27011ac5c915",
       "role": "member"
@@ -43815,7 +46251,7 @@
     {
       "area_id": "area/british_columbia_(north_vancouver)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "448c8182-b71f-4a3b-b572-f12d864bbeab",
       "role": "member"
@@ -43832,7 +46268,7 @@
     {
       "area_id": "area/ontario_(eglinton—lawrence)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "44f52531-41d4-4d64-8573-28be86255592",
       "role": "member"
@@ -43840,7 +46276,7 @@
     {
       "area_id": "area/ontario_(don_valley_north)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "45563a12-a60a-4fc3-af92-4fc4da4d3e5d",
       "role": "member"
@@ -43984,7 +46420,7 @@
     {
       "area_id": "area/ontario_(hamilton_west—ancaster—dundas)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4956f50a-66ca-4d88-b10b-b27a74ef8134",
       "role": "member"
@@ -44016,7 +46452,7 @@
     {
       "area_id": "area/alberta_(edmonton_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "49f15f9a-24aa-49d0-861a-22d2c6595a60",
       "role": "member"
@@ -44024,7 +46460,7 @@
     {
       "area_id": "area/ontario_(mississauga—lakeshore)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4a05556d-5fd4-4001-a2ad-f20e2cd047db",
       "role": "member"
@@ -44032,7 +46468,7 @@
     {
       "area_id": "area/ontario_(york_south—weston)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4a5b0ae2-7b2d-4098-87d8-e9f21f48c3fc",
       "role": "member"
@@ -44040,7 +46476,7 @@
     {
       "area_id": "area/british_columbia_(surrey_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4a5c21df-9e58-4eb7-ab2a-f2bc103983e4",
       "role": "member"
@@ -44056,7 +46492,7 @@
     {
       "area_id": "area/ontario_(bay_of_quinte)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4b14234e-98d1-4097-a49c-914911d32200",
       "role": "member"
@@ -44064,7 +46500,7 @@
     {
       "area_id": "area/ontario_(thunder_bay—rainy_river)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4b7f08d3-6ede-4262-b111-ddfe46d3055e",
       "role": "member"
@@ -44088,7 +46524,7 @@
     {
       "area_id": "area/ontario_(aurora—oak_ridges—richmond_hill)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "4dc1953c-ad5e-421b-96dd-d746359719bc",
       "role": "member"
@@ -44217,7 +46653,7 @@
     {
       "area_id": "area/ontario_(parkdale—high_park)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "573adbb6-71ea-4fc6-9375-807dcd57e4de",
       "role": "member"
@@ -44257,7 +46693,7 @@
     {
       "area_id": "area/quebec_(longueuil—charles-lemoyne)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "57ecefbf-620f-439b-bc17-210745792c75",
       "role": "member"
@@ -44436,7 +46872,7 @@
     {
       "area_id": "area/ontario_(pickering—uxbridge)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "5ff8d817-97ca-4c20-a3c2-9e5e6c00ff6a",
       "role": "member"
@@ -44476,7 +46912,7 @@
     {
       "area_id": "area/british_columbia_(steveston—richmond_east)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "62421cab-19d7-46e5-b690-b74ff71b9795",
       "role": "member"
@@ -44484,7 +46920,7 @@
     {
       "area_id": "area/quebec_(honoré-mercier)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "624715ff-91bc-4d9a-ba0c-e352a451b2fe",
       "role": "member"
@@ -44540,7 +46976,7 @@
     {
       "area_id": "area/the_north_(northwest_territories)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "65a4ef51-dd6e-4edb-b576-8bad6767a859",
       "role": "member"
@@ -44580,7 +47016,7 @@
     {
       "area_id": "area/ontario_(york_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "668b974c-b074-4dda-836d-414572665d3f",
       "role": "member"
@@ -44588,7 +47024,7 @@
     {
       "area_id": "area/manitoba_(kildonan—st._paul)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "66c91109-0649-442f-a8cb-cf130cfd75c0",
       "role": "member"
@@ -44596,7 +47032,7 @@
     {
       "area_id": "area/ontario_(london_north_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "66ccd537-1f51-4e0b-8040-38d65fe0a916",
       "role": "member"
@@ -44700,7 +47136,7 @@
     {
       "area_id": "area/quebec_(québec)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "6b803fc2-03c4-4edd-ba3d-a36d20f65d61",
       "role": "member"
@@ -44708,7 +47144,7 @@
     {
       "area_id": "area/ontario_(london_west)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "6b8077a3-e6be-48d5-90c0-5ac5f51d9cd7",
       "role": "member"
@@ -44749,7 +47185,7 @@
     {
       "area_id": "area/quebec_(lasalle—Émard—verdun)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "6d63c4d4-61cb-4ae3-9e96-03432fc2c24e",
       "role": "member"
@@ -44773,7 +47209,7 @@
     {
       "area_id": "area/ontario_(kingston_and_the_islands)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "6e465927-b428-43b5-bfa5-5496659550b3",
       "role": "member"
@@ -44813,7 +47249,7 @@
     {
       "area_id": "area/ontario_(kanata—carleton)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "71a2f588-6e8a-4b3b-8acb-1b3af2593c5e",
       "role": "member"
@@ -44837,7 +47273,7 @@
     {
       "area_id": "area/quebec_(pierrefonds—dollard)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "72e5737d-cadc-42f4-ac18-e60f9cda6bc2",
       "role": "member"
@@ -44893,7 +47329,7 @@
     {
       "area_id": "area/the_north_(nunavut)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "7401da7f-0c23-4295-a6eb-19860d1e1eb9",
       "role": "member"
@@ -44949,7 +47385,7 @@
     {
       "area_id": "area/ontario_(oakville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "7572e494-a27e-47eb-8177-77d688c58df3",
       "role": "member"
@@ -45014,7 +47450,7 @@
     {
       "area_id": "area/quebec_(châteauguay—lacolle)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "77c10a8b-76b9-486f-b995-96a82a494223",
       "role": "member"
@@ -45031,7 +47467,7 @@
     {
       "area_id": "area/quebec_(avignon—la_mitis—matane—matapédia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "79040cec-bdec-4a4e-817c-2b5b9d90e429",
       "role": "member"
@@ -45047,7 +47483,7 @@
     {
       "area_id": "area/quebec_(alfred-pellan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "79fe8e9c-7e7b-4154-bcd6-edf540ab1ba5",
       "role": "member"
@@ -45071,7 +47507,7 @@
     {
       "area_id": "area/quebec_(thérèse-de_blainville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "7ce5ca79-b60b-4155-8392-efcfff744319",
       "role": "member"
@@ -45119,7 +47555,7 @@
     {
       "area_id": "area/quebec_(laval—les_Îles)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "7f8df594-7a22-4e71-b1a9-4bd3c6f2b723",
       "role": "member"
@@ -45127,7 +47563,7 @@
     {
       "area_id": "area/ontario_(mississauga_east—cooksville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "80a4eb8a-6095-4c79-bfaa-16082a804a2d",
       "role": "member"
@@ -45135,7 +47571,7 @@
     {
       "area_id": "area/ontario_(brampton_east)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "81f6d5a4-14ef-46d5-b7e9-a3271a11b617",
       "role": "member"
@@ -45223,7 +47659,7 @@
     {
       "area_id": "area/ontario_(markham—stouffville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "89123085-90bc-4bf3-8940-e18edbba0aae",
       "role": "member"
@@ -45247,7 +47683,7 @@
     {
       "area_id": "area/new_brunswick_(moncton—riverview—dieppe)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "8a8d8556-1d12-42c7-930e-689ea545556d",
       "role": "member"
@@ -45280,7 +47716,7 @@
     {
       "area_id": "area/ontario_(northumberland—peterborough_south)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "8bde2a14-fe49-47b1-9f30-3bc4465ce3ef",
       "role": "member"
@@ -45297,7 +47733,7 @@
     {
       "area_id": "area/quebec_(pontiac)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "8ec82372-d491-4f6b-bada-2a9d1dd7df53",
       "role": "member"
@@ -45305,7 +47741,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(st._john's_south—mount_pearl)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "8f28982e-5fd2-4e8e-8c48-c414babc806a",
       "role": "member"
@@ -45353,7 +47789,7 @@
     {
       "area_id": "area/ontario_(davenport)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "90fffd67-9ec0-4bfd-9aa6-c13fcb5dca42",
       "role": "member"
@@ -45369,7 +47805,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(avalon)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "91af82e0-63a3-4de8-97fd-889cead06cc9",
       "role": "member"
@@ -45377,7 +47813,7 @@
     {
       "area_id": "area/ontario_(mississauga—streetsville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "91e9cdcc-6035-492f-87b9-c2c78d9a52d2",
       "role": "member"
@@ -45393,7 +47829,7 @@
     {
       "area_id": "area/british_columbia_(surrey—newton)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "92cf3e51-5b9d-450e-8226-f50e5a71b35f",
       "role": "member"
@@ -45425,7 +47861,7 @@
     {
       "area_id": "area/ontario_(don_valley_east)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "94d50ec3-c2e3-4c05-b59d-326fe88ad532",
       "role": "member"
@@ -45441,7 +47877,7 @@
     {
       "area_id": "area/ontario_(oakville_north—burlington)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "957ac7cf-dbf0-4873-b937-419b3b6b3787",
       "role": "member"
@@ -45481,7 +47917,7 @@
     {
       "area_id": "area/ontario_(beaches—east_york)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "96d39d8b-612e-455b-baf5-ed596e9f5eab",
       "role": "member"
@@ -45489,7 +47925,7 @@
     {
       "area_id": "area/quebec_(chicoutimi—le_fjord)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "97d4a4da-661b-4499-b6e6-dc4cacca3b60",
       "role": "member"
@@ -45497,7 +47933,7 @@
     {
       "area_id": "area/ontario_(toronto_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "9946591e-c601-43bb-8ce1-0c3851d3cd12",
       "role": "member"
@@ -45513,7 +47949,7 @@
     {
       "area_id": "area/quebec_(la_prairie)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "99c24018-79ef-4689-ad17-42fba8950082",
       "role": "member"
@@ -45553,7 +47989,7 @@
     {
       "area_id": "area/quebec_(ville-marie—le_sud-ouest—Île-des-sœurs)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "9c716078-7177-4ca3-939a-83d298c3ef15",
       "role": "member"
@@ -45611,7 +48047,7 @@
     {
       "area_id": "area/ontario_(brampton_north)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "9f42aedd-7abb-4883-a260-e8cfa4e167e8",
       "role": "member"
@@ -45635,7 +48071,7 @@
     {
       "area_id": "area/ontario_(etobicoke_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "a08c9763-d0c9-4f2e-8f28-8988ab9b10c4",
       "role": "member"
@@ -45651,7 +48087,7 @@
     {
       "area_id": "area/new_brunswick_(acadie—bathurst)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "a0fb0527-1b06-43f7-9dae-26bf00ef2705",
       "role": "member"
@@ -45683,7 +48119,7 @@
     {
       "area_id": "area/ontario_(king—vaughan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "a48e22ec-ed25-49fb-8840-5536ebccd097",
       "role": "member"
@@ -45739,7 +48175,7 @@
     {
       "area_id": "area/ontario_(nickel_belt)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "a6eae866-4327-4809-bb9a-d89667baf5cc",
       "role": "member"
@@ -45787,7 +48223,7 @@
     {
       "area_id": "area/quebec_(saint-maurice—champlain)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "a94766b3-7901-45f6-9e40-7259aaa0a7ab",
       "role": "member"
@@ -45835,7 +48271,7 @@
     {
       "area_id": "area/new_brunswick_(fundy_royal)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "aab176a0-738c-4e1d-9881-9a80e167b654",
       "role": "member"
@@ -45843,7 +48279,7 @@
     {
       "area_id": "area/ontario_(willowdale)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "aabed860-eda7-460a-bb83-b2c20f7dcfe6",
       "role": "member"
@@ -45859,7 +48295,7 @@
     {
       "area_id": "area/ontario_(mississauga—malton)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "abd1552d-63fb-41b1-af55-d54903cfed9a",
       "role": "member"
@@ -45924,7 +48360,7 @@
     {
       "area_id": "area/quebec_(compton—stanstead)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "af94bcaf-9fd5-4882-98fd-94f04db55b0a",
       "role": "member"
@@ -45932,7 +48368,7 @@
     {
       "area_id": "area/quebec_(vaudreuil—soulanges)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "afd06319-9573-4b0f-9584-f0fd451d327f",
       "role": "member"
@@ -45940,7 +48376,7 @@
     {
       "area_id": "area/quebec_(dorval—lachine—lasalle)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b0c1d012-aaa7-4af7-bab9-c61dea2ed700",
       "role": "member"
@@ -45988,7 +48424,7 @@
     {
       "area_id": "area/quebec_(papineau)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b223d01e-1fd4-463b-a320-558a21f95114",
       "role": "member"
@@ -46004,7 +48440,7 @@
     {
       "area_id": "area/ontario_(mississauga_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b2f66ed9-9e23-4c4f-9dbd-0d26bdcc3d3c",
       "role": "member"
@@ -46076,7 +48512,7 @@
     {
       "area_id": "area/british_columbia_(vancouver_south)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b6b52143-5eae-4b31-a39d-bade3bb7bce8",
       "role": "member"
@@ -46084,7 +48520,7 @@
     {
       "area_id": "area/quebec_(rivière-des-mille-Îles)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b6c7b83b-6bf8-4fb0-949c-54bf7ff7929f",
       "role": "member"
@@ -46092,7 +48528,7 @@
     {
       "area_id": "area/alberta_(calgary_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b6ea1d5a-7e9b-443c-8b55-4d94c1118e0b",
       "role": "member"
@@ -46116,7 +48552,7 @@
     {
       "area_id": "area/manitoba_(saint_boniface—saint_vital)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "b7484474-2fd6-44c9-b59d-583dfc5de35b",
       "role": "member"
@@ -46148,7 +48584,7 @@
     {
       "area_id": "area/quebec_(gaspésie—les_Îles-de-la-madeleine)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bade011d-a91b-44b0-b4db-876160a45bb5",
       "role": "member"
@@ -46189,7 +48625,7 @@
     {
       "area_id": "area/quebec_(saint-léonard—saint-michel)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bbacc99c-6674-419a-9abd-1d8aa5e0742c",
       "role": "member"
@@ -46197,7 +48633,7 @@
     {
       "area_id": "area/ontario_(guelph)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bbc27547-a86c-41c6-b11b-dca9e1480eb4",
       "role": "member"
@@ -46245,7 +48681,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(st._john's_east)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bde5ba1a-6c62-42d5-ae91-031765d35653",
       "role": "member"
@@ -46262,7 +48698,7 @@
     {
       "area_id": "area/new_brunswick_(miramichi—grand_lake)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bfa3d80b-4f94-4405-9560-ec260c8f588e",
       "role": "member"
@@ -46270,7 +48706,7 @@
     {
       "area_id": "area/ontario_(brampton_west)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bfd6ee3c-f716-42e5-9dbc-38cc379d7893",
       "role": "member"
@@ -46278,7 +48714,7 @@
     {
       "area_id": "area/ontario_(kitchener_south—hespeler)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bfe8cdc6-eb40-473c-9f0f-d382f1b0c174",
       "role": "member"
@@ -46286,7 +48722,7 @@
     {
       "area_id": "area/the_north_(yukon)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "c049fe59-efac-4fe6-bcb3-fd0bd2381c9b",
       "role": "member"
@@ -46311,7 +48747,7 @@
     {
       "area_id": "area/ontario_(ottawa_west—nepean)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "c2df2727-f0b4-4e9d-91b3-944cf66922f1",
       "role": "member"
@@ -46327,7 +48763,7 @@
     {
       "area_id": "area/manitoba_(charleswood—st._james—assiniboia—headingley)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "c47ec408-dd39-4a4c-8d50-b6ce6b08c682",
       "role": "member"
@@ -46375,7 +48811,7 @@
     {
       "area_id": "area/british_columbia_(west_vancouver—sunshine_coast—sea_to_sky_country)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "c63802f9-d464-411d-a385-971c2a005408",
       "role": "member"
@@ -46471,7 +48907,7 @@
     {
       "area_id": "area/ontario_(brampton_south)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "c9a9abcc-66cd-4509-96e6-ed4863b06172",
       "role": "member"
@@ -46479,7 +48915,7 @@
     {
       "area_id": "area/ontario_(brampton_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "cb37351e-7b88-4248-85ec-b4b129293950",
       "role": "member"
@@ -46535,7 +48971,7 @@
     {
       "area_id": "area/quebec_(brossard—saint-lambert)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "cc4baa7a-8eff-47fd-94fe-1ec70163e295",
       "role": "member"
@@ -46543,7 +48979,7 @@
     {
       "area_id": "area/new_brunswick_(madawaska—restigouche)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "cc6634bf-e7eb-4627-9dd1-8eadf1eb7819",
       "role": "member"
@@ -46615,7 +49051,7 @@
     {
       "area_id": "area/nova_scotia_(south_shore—st._margaret's)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "cf8df06e-191f-4e7f-bb83-53673966ff33",
       "role": "member"
@@ -46623,7 +49059,7 @@
     {
       "area_id": "area/nova_scotia_(halifax)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "cfb32652-cb1e-47e4-ae73-d4b9f0cabb69",
       "role": "member"
@@ -46671,7 +49107,7 @@
     {
       "area_id": "area/quebec_(louis-hébert)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d2052407-491d-45ea-84e2-b24387a6e9d9",
       "role": "member"
@@ -46695,7 +49131,7 @@
     {
       "area_id": "area/ontario_(burlington)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d2384df6-1918-47be-b272-9d2ba4ed28f0",
       "role": "member"
@@ -46735,7 +49171,7 @@
     {
       "area_id": "area/quebec_(shefford)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d44476b4-1836-41d6-93fc-5d82392defa9",
       "role": "member"
@@ -46743,7 +49179,7 @@
     {
       "area_id": "area/british_columbia_(cloverdale—langley_city)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d4709a67-be0d-4943-8bd8-2f1ebdfac369",
       "role": "member"
@@ -46858,7 +49294,7 @@
     {
       "area_id": "area/quebec_(marc-aurèle-fortin)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d66db042-8065-40ad-a0ae-cc857aebccfa",
       "role": "member"
@@ -46882,7 +49318,7 @@
     {
       "area_id": "area/alberta_(edmonton_mill_woods)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d74f3ee3-90b4-40f1-b5e7-40a76cd8210c",
       "role": "member"
@@ -46914,7 +49350,7 @@
     {
       "area_id": "area/ontario_(sudbury)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "d8f57f33-a2a6-4a96-9939-b1fb35b7b11f",
       "role": "member"
@@ -46954,7 +49390,7 @@
     {
       "area_id": "area/british_columbia_(mission—matsqui—fraser_canyon)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "db750827-f7f4-44f4-8300-7a0a72f44fd5",
       "role": "member"
@@ -46962,7 +49398,7 @@
     {
       "area_id": "area/ontario_(waterloo)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "dc374b77-57a7-4d98-afa2-12beca7cbed5",
       "role": "member"
@@ -47026,7 +49462,7 @@
     {
       "area_id": "area/manitoba_(winnipeg_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "ddaadf04-910b-40ed-981c-234fab9a3e4b",
       "role": "member"
@@ -47043,7 +49479,7 @@
     {
       "area_id": "area/new_brunswick_(fredericton)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "dea1f938-f047-4f5f-bb78-126fe67c3e2f",
       "role": "member"
@@ -47083,7 +49519,7 @@
     {
       "area_id": "area/nova_scotia_(central_nova)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "deebce9a-ba90-4785-bf1e-5103a38be83d",
       "role": "member"
@@ -47140,7 +49576,7 @@
     {
       "area_id": "area/quebec_(brome—missisquoi)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "e0560c11-7bc4-4147-a87d-6acb615bf996",
       "role": "member"
@@ -47164,7 +49600,7 @@
     {
       "area_id": "area/quebec_(mount_royal)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "e1e5cfc6-261e-4a6b-9593-957cb797496b",
       "role": "member"
@@ -47172,7 +49608,7 @@
     {
       "area_id": "area/british_columbia_(burnaby_north—seymour)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "e1ec8894-bd78-49d5-9fc5-5d90d9b399bf",
       "role": "member"
@@ -47220,7 +49656,7 @@
     {
       "area_id": "area/ontario_(don_valley_west)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "e4e443e3-6cd4-4188-a4ef-04fd07bb573e",
       "role": "member"
@@ -47295,7 +49731,7 @@
     {
       "area_id": "area/ontario_(hamilton_east—stoney_creek)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "e6a8c2a5-fd41-4493-a046-3d9de1e09961",
       "role": "member"
@@ -47319,7 +49755,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(long_range_mountains)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "e80fe256-5e5a-47e3-bb89-8d556d1b780b",
       "role": "member"
@@ -47416,7 +49852,7 @@
     {
       "area_id": "area/ontario_(cambridge)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "f0195709-4df9-4af2-8e7c-27e8640f5234",
       "role": "member"
@@ -47464,7 +49900,7 @@
     {
       "area_id": "area/british_columbia_(delta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "f302c313-e094-40f2-85c8-fa9e3f37d2bc",
       "role": "member"
@@ -47528,7 +49964,7 @@
     {
       "area_id": "area/ontario_(vaughan—woodbridge)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "f4a09fb5-6c8d-4ce7-ab86-46e98f9bbdc9",
       "role": "member"
@@ -47560,7 +49996,7 @@
     {
       "area_id": "area/ontario_(richmond_hill)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "f54d608b-6fc7-484d-bcdc-e0d7e2203010",
       "role": "member"
@@ -47576,7 +50012,7 @@
     {
       "area_id": "area/manitoba_(winnipeg_south_centre)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "f6eeb37c-e6f5-44ce-acdd-fa6c33dc22a1",
       "role": "member"
@@ -47592,7 +50028,7 @@
     {
       "area_id": "area/ontario_(mississauga—erin_mills)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "f7f3d7c0-c861-407b-995e-c9518b65f421",
       "role": "member"
@@ -47648,7 +50084,7 @@
     {
       "area_id": "area/new_brunswick_(tobique—mactaquac)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "fd1d349b-da8c-4e8e-af02-18b0169d5888",
       "role": "member"
@@ -47656,7 +50092,7 @@
     {
       "area_id": "area/ontario_(whitby)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "fd2a5cb0-2a60-42fd-80c2-7bd68466bac1",
       "role": "member"
@@ -47664,7 +50100,7 @@
     {
       "area_id": "area/quebec_(argenteuil—la_petite-nation)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "fd602c23-a9f7-4d01-8c16-2ebefd00a20a",
       "role": "member"
@@ -47696,7 +50132,7 @@
     {
       "area_id": "area/ontario_(kenora)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "fecb5767-d696-422b-831d-6b74237c16ac",
       "role": "member"
