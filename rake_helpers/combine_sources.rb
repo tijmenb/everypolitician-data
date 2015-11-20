@@ -267,7 +267,7 @@ namespace :merge_sources do
 
           reconciled = CSV::Table.new([])
           if File.exist? rec_filename
-            reconciled = CSV.table(rec_filename)
+            reconciled = CSV.table(rec_filename, converters: nil)
           end
           reconciler = Reconciler.new(merged_rows, merger, reconciled)
           need_reconciling = incoming_data.find_all do |d|
