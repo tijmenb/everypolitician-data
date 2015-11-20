@@ -59,22 +59,18 @@
       {% } %}
             <h1>{{ person[field] || person.name }}</h1>
             <dl>
-              {% if(person.gender){ %}
-                <dt>Gender:</dt>
-                <dd>{{ person.gender }}</dd>
-              {% } %}
-              {% if(person.birth_date){ %}
-                <dt>Born:</dt>
-                <dd>{{ person.birth_date }}</dd>
-              {% } %}
-              {% if(person.death_date){ %}
-                <dt>Died:</dt>
-                <dd>{{ person.death_date }}</dd>
-              {% } %}
-              {% if(person.area){ %}
-                <dt>Represents:</dt>
-                <dd>{{ person.area }}</dd>
-              {% } %}
+              {% fields.forEach(function(field) { %}
+                {% if(field !== 'id' && person[field]){ %}
+                  <dt>{{ field }}:</dt>
+                  <dd>
+                  {% if (field == 'image') { %}
+                    <img src="{{ person[field] }}" width="150">
+                  {% } else { %}
+                    {{ person[field] }}
+                  {% } %}
+                  </dd>
+                {% } %}
+              {% }) %}
             </dl>
         </div>
     </script>
