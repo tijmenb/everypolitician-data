@@ -93,22 +93,36 @@ var updateUndoButton = function updateUndoButton(){
 
 jQuery(function($) {
   $.each(matches, function(i, match) {
-    var incomingPerson = _.findWhere(incomingPeople, { id: match[0] });
-    var existingPerson = _.findWhere(existingPeople, { uuid: match[1][0] });
+    var incomingPerson = match.incoming;
+    var existingPerson = match.existing[0][0];
 
     // Skip exact matches for now
     if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
       return;
     }
-
-    var existingPersonHTML = _.map(match[1], function(uuid) {
-      var person = _.findWhere(existingPeople, { uuid: uuid });
-      return renderTemplate('person', { person: person, field: existingField });
+    var incomingPersonFields = _.filter(Object.keys(incomingPerson), function(field) {
+      return incomingPerson[field];
     });
+    var existingPersonHTML = _.map(match.existing, function(existing) {
+      var person = existing[0];
+      var fields = _.intersection(incomingPersonFields, Object.keys(person));
+      return renderTemplate('person', { person: person, field: existingField, fields: fields });
+    });
+
+    var fields = match.existing.map(function(existing) {
+      var person = existing[0];
+      return Object.keys(person);
+    });
+
+    var commonFields = _.intersection(incomingPersonFields, _.uniq(_.flatten(fields)));
 
     var html = renderTemplate('pairing', {
       existingPersonHTML: existingPersonHTML.join("\n"),
-      incomingPersonHTML: renderTemplate('person', { person: incomingPerson, field: incomingField })
+      incomingPersonHTML: renderTemplate('person', {
+        person: incomingPerson,
+        field: incomingField,
+        fields: commonFields
+      })
     });
     $('.pairings').append(html);
   });

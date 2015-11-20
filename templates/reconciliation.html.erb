@@ -9,8 +9,6 @@
       window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
       window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
       window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
-      window.existingPeople = <%= Yajl::Encoder.encode(existing_people, html_safe: true) %>;
-      window.incomingPeople = <%= Yajl::Encoder.encode(need_reconciling, html_safe: true) %>;
       window.votes = [];
       window.reconciled = <%= Yajl::Encoder.encode(reconciled.map(&:fields), html_safe: true) %>;
     </script>
@@ -35,12 +33,6 @@
     </div>
 
     <div class="pairings"></div>
-
-    <!--
-    <a href="#" id="generate-csv">Generate CSV</a>
-    <p>Paste this CSV into <code><%= rec_filename %></code></p>
-    <textarea id="csv-output" rows="10"></textarea>
-    -->
 
     <script type="text/html" id="pairing">
         <div class="pairing">
@@ -67,22 +59,18 @@
       {% } %}
             <h1>{{ person[field] || person.name }}</h1>
             <dl>
-              {% if(person.gender){ %}
-                <dt>Gender:</dt>
-                <dd>{{ person.gender }}</dd>
-              {% } %}
-              {% if(person.birth_date){ %}
-                <dt>Born:</dt>
-                <dd>{{ person.birth_date }}</dd>
-              {% } %}
-              {% if(person.death_date){ %}
-                <dt>Died:</dt>
-                <dd>{{ person.death_date }}</dd>
-              {% } %}
-              {% if(person.area){ %}
-                <dt>Represents:</dt>
-                <dd>{{ person.area }}</dd>
-              {% } %}
+              {% fields.forEach(function(field) { %}
+                {% if(field !== 'id' && person[field]){ %}
+                  <dt>{{ field }}:</dt>
+                  <dd>
+                  {% if (field == 'image') { %}
+                    <img src="{{ person[field] }}" width="150">
+                  {% } else { %}
+                    {{ person[field] }}
+                  {% } %}
+                  </dd>
+                {% } %}
+              {% }) %}
             </dl>
         </div>
     </script>

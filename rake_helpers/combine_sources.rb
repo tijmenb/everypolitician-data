@@ -1,46 +1,12 @@
 require 'sass'
 require_relative '../lib/group_wikidata'
 require_relative '../lib/area_wikidata'
+require_relative '../lib/reconciliation'
 
 class String
   def tidy
     self.gsub(/[[:space:]]+/, ' ').strip
   end
-end
-
-class Fuzzer
-
-  def initialize(existing_rows, incoming_rows, instructions)
-    @_existing_rows = existing_rows
-    @_incoming_rows = incoming_rows
-    @_instructions  = instructions
-    @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
-    @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-  end
-
-  def fuzzer
-    @_fuzzer ||= FuzzyMatch.new(@_existing_rows.uniq { |r| r[:uuid] }, read: @_existing_field)
-  end
-
-  def find_all
-    @_incoming_rows.map do |incoming_row|
-      if incoming_row[@_incoming_field].to_s.empty?
-        warn "No #{@_incoming_field} in #{incoming_row}".red
-        nil
-      else
-        matches = fuzzer.find_all_with_score(incoming_row[@_incoming_field])
-        unless matches.any?
-          warn "No matches for #{incoming_row}"
-          next
-        end
-        matched_uuids = matches[0...3].map { |match| match.first[:uuid] }
-        data = [incoming_row[:id], matched_uuids, matches.first[1].to_f * 100]
-        warn "Fuzzed #{data.to_s}"
-        data
-      end
-    end.compact
-  end
-
 end
 
 class Reconciler
@@ -257,67 +223,14 @@ namespace :merge_sources do
           merger[:report_missing] = (i == approaches.size - 1)
         end
 
+
         # TODO complain if this isn't the last step — all prior ones
         # should be exact matches
-        if rec_file = merger[:reconciliation_file]
-          rec_filename = File.join "sources", rec_file
-
-          incoming_field = merger[:incoming_field]
-          existing_field = merger[:existing_field]
-
-          reconciled = CSV::Table.new([])
-          if File.exist? rec_filename
-            reconciled = CSV.table(rec_filename, converters: nil)
-          end
-          reconciler = Reconciler.new(merged_rows, merger, reconciled)
-          need_reconciling = incoming_data.find_all do |d|
-            reconciler.find_all(d).to_a.empty? && !reconciled.any? { |r| r[:id].to_s == d[:id] }
-          end
-
-          if reconciled.headers != [:id, :uuid]
-            warn "Legacy reconciliation CSV detected".red
-            reconciled_rows = incoming_data.map do |row|
-              found = reconciler.find_all(row, false).uniq { |r| r[:id] }
-              next unless found.any?
-              if found.size != 1
-                binding.pry
-              end
-              unless row[:id]
-                warn "Can't automatically migrate legacy reconciliation for incoming data with no :id #{row}"
-                break
-              end
-              CSV::Row.new([:id, :uuid], [row[:id], found.first[:uuid]])
-            end
-            if reconciled_rows
-              reconciled = CSV::Table.new(reconciled_rows.compact)
-              File.write(rec_filename, reconciled.to_csv)
-            end
-          end
-
-          fuzzer = Fuzzer.new(merged_rows, need_reconciling, merger)
-          matched = fuzzer.find_all.sort_by { |m| m.last }.reverse
-          FileUtils.mkpath File.dirname rec_filename
-          existing_people = merged_rows.uniq { |row| row[:uuid] }.sort_by { |row| row[:name] }
-          templates_dir = File.expand_path('../../templates', __FILE__)
-          reconciliation_js = File.read(File.join(templates_dir, 'reconciliation.js'))
-          reconciliation_scss = File.read(File.join(templates_dir, 'reconciliation.scss'))
-          engine = Sass::Engine.new(reconciliation_scss, syntax: :scss, load_paths: [templates_dir])
-          reconciliation_css = engine.render
-          html = ERB.new(File.read(File.join(templates_dir, 'reconciliation.html.erb')))
-          html_filename = rec_filename.gsub('.csv', '.html')
-          File.write(html_filename, html.result(binding))
-          if need_reconciling.any?
-            warn "#{need_reconciling.size} out of #{incoming_data.size} rows not reconciled".red
-          end
-          if !File.exist?(rec_filename)
-            warn "Need to create #{rec_file}".cyan
-            abort "Created #{html_filename} — please check it and re-run".green
-          end
-        end
-
+        reconciliation = Reconciliation::Interface.new(merged_rows, incoming_data, merger)
+        reconciliation.generate!
 
         unmatched = []
-        reconciler = Reconciler.new(merged_rows, merger, reconciled)
+        reconciler = Reconciler.new(merged_rows, merger, reconciliation.reconciled)
         incoming_data.each do |incoming_row|
 
           incoming_row[:identifier__wikidata] ||= incoming_row[:id] if pd[:type] == 'wikidata'
