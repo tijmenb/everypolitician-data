@@ -18,7 +18,7 @@ module Reconciliation
       LegacyCsv.try_to_upgrade(reconciler, reconciled, incoming_data)
 
       FileUtils.mkdir_p(File.dirname(csv_file))
-      File.write(html_file, render)
+      File.write(html_file, template.render)
       if need_reconciling.any?
         warn "#{need_reconciling.size} out of #{incoming_data.size} rows " \
           'not reconciled'.red
@@ -36,6 +36,15 @@ module Reconciliation
 
     private
 
+    def template
+      @template ||= Template.new(
+        matched: matched,
+        reconciled: reconciled,
+        incoming_field: merger[:incoming_field],
+        existing_field: merger[:existing_field]
+      )
+    end
+
     def need_reconciling
       @need_reconciling ||= incoming_data.find_all do |d|
         reconciler.find_all(d).to_a.empty? && !reconciled.any? do |r|
@@ -48,68 +57,20 @@ module Reconciliation
       @csv_file ||= File.join('sources', merger[:reconciliation_file])
     end
 
-    def render
-      template.result(binding)
-    end
-
     def html_file
       @html_file ||= csv_file.gsub('.csv', '.html')
-    end
-
-    def fuzzer
-      @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merger)
     end
 
     def matched
       @matched ||= fuzzer.find_all.sort_by { |row| row[:existing].first[1] }.reverse
     end
 
+    def fuzzer
+      @fuzzer ||= Fuzzer.new(merged_rows, need_reconciling, merger)
+    end
+
     def reconciler
       @reconciler ||= Reconciler.new(merged_rows, merger, reconciled)
-    end
-
-    def incoming_field
-      merger[:incoming_field]
-    end
-
-    def existing_field
-      merger[:existing_field]
-    end
-
-    def template
-      ERB.new(reconciliation_html)
-    end
-
-    def templates_dir
-      @templates_dir ||= File.expand_path('../../../templates', __FILE__)
-    end
-
-    def reconciliation_html
-      @reconciliation_html ||= File.read(
-        File.join(templates_dir, 'reconciliation.html.erb')
-      )
-    end
-
-    def reconciliation_js
-      @reconciliation_js ||= File.read(
-        File.join(templates_dir, 'reconciliation.js')
-      )
-    end
-
-    def reconciliation_scss
-      @reconciliation_scss ||= File.read(
-        File.join(templates_dir, 'reconciliation.scss')
-      )
-    end
-
-    def reconciliation_css
-      @reconciliation_css ||= sass_engine.render
-    end
-
-    def sass_engine
-      @sass_engine ||= Sass::Engine.new(
-        reconciliation_scss, syntax: :scss, load_paths: [templates_dir]
-      )
     end
   end
 end
