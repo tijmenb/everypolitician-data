@@ -23,14 +23,14 @@ module Reconciliation
         warn "#{need_reconciling.size} out of #{incoming_data.size} rows " \
           'not reconciled'.red
       end
-      return if File.exist?(csv_file)
+      return if csv_file_exists?
       warn "Need to create #{csv_file}".cyan
       abort "Created #{html_file} — please check it and re-run".green
     end
 
     def reconciled
       reconciled = CSV::Table.new([])
-      reconciled = CSV.table(csv_file, converters: nil) if File.exist?(csv_file)
+      reconciled = CSV.table(csv_file, converters: nil) if csv_file_exists?
       reconciled
     end
 
@@ -53,7 +53,12 @@ module Reconciliation
       end
     end
 
+    def csv_file_exists?
+      csv_file && File.exist?(csv_file)
+    end
+
     def csv_file
+      return unless merger[:reconciliation_file]
       @csv_file ||= File.join('sources', merger[:reconciliation_file])
     end
 
