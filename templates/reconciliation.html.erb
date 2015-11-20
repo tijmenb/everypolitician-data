@@ -9,8 +9,6 @@
       window.existingField = <%= Yajl::Encoder.encode(existing_field, html_safe: true) %>
       window.incomingField = <%= Yajl::Encoder.encode(incoming_field, html_safe: true) %>
       window.matches = <%= Yajl::Encoder.encode(matched, html_safe: true) %>;
-      window.existingPeople = <%= Yajl::Encoder.encode(existing_people, html_safe: true) %>;
-      window.incomingPeople = <%= Yajl::Encoder.encode(need_reconciling, html_safe: true) %>;
       window.votes = [];
       window.reconciled = <%= Yajl::Encoder.encode(reconciled.map(&:fields), html_safe: true) %>;
     </script>

@@ -61,17 +61,11 @@ module Reconciliation
     end
 
     def matched
-      @matched ||= fuzzer.find_all.sort_by(&:last).reverse
+      @matched ||= fuzzer.find_all.sort_by { |row| row[:existing].first[1] }.reverse
     end
 
     def reconciler
       @reconciler ||= Reconciler.new(merged_rows, merger, reconciled)
-    end
-
-    def existing_people
-      @existing_people ||= merged_rows
-                           .uniq { |row| row[:uuid] }
-                           .sort_by { |row| row[:name] }
     end
 
     def incoming_field

@@ -9,41 +9,6 @@ class String
   end
 end
 
-class Fuzzer
-
-  def initialize(existing_rows, incoming_rows, instructions)
-    @_existing_rows = existing_rows
-    @_incoming_rows = incoming_rows
-    @_instructions  = instructions
-    @_existing_field = instructions[:existing_field].to_sym rescue raise("Need an `existing_field` to match on")
-    @_incoming_field = instructions[:incoming_field].to_sym rescue raise("Need an `incoming_field` to match on")
-  end
-
-  def fuzzer
-    @_fuzzer ||= FuzzyMatch.new(@_existing_rows.uniq { |r| r[:uuid] }, read: @_existing_field)
-  end
-
-  def find_all
-    @_incoming_rows.map do |incoming_row|
-      if incoming_row[@_incoming_field].to_s.empty?
-        warn "No #{@_incoming_field} in #{incoming_row}".red
-        nil
-      else
-        matches = fuzzer.find_all_with_score(incoming_row[@_incoming_field])
-        unless matches.any?
-          warn "No matches for #{incoming_row}"
-          next
-        end
-        matched_uuids = matches[0...3].map { |match| match.first[:uuid] }
-        data = [incoming_row[:id], matched_uuids, matches.first[1].to_f * 100]
-        warn "Fuzzed #{data.to_s}"
-        data
-      end
-    end.compact
-  end
-
-end
-
 class Reconciler
 
   def initialize(existing_rows, instructions, reconciled_csv)

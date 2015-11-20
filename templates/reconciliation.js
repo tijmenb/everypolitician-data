@@ -93,16 +93,16 @@ var updateUndoButton = function updateUndoButton(){
 
 jQuery(function($) {
   $.each(matches, function(i, match) {
-    var incomingPerson = _.findWhere(incomingPeople, { id: match[0] });
-    var existingPerson = _.findWhere(existingPeople, { uuid: match[1][0] });
+    var incomingPerson = match.incoming;
+    var existingPerson = match.existing[0][0];
 
     // Skip exact matches for now
     if (incomingPerson[incomingField].toLowerCase() == existingPerson[existingField].toLowerCase()) {
       return;
     }
 
-    var existingPersonHTML = _.map(match[1], function(uuid) {
-      var person = _.findWhere(existingPeople, { uuid: uuid });
+    var existingPersonHTML = _.map(match.existing, function(existing) {
+      var person = existing[0];
       return renderTemplate('person', { person: person, field: existingField });
     });
 
