@@ -13,7 +13,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/estonia-riigikogu",
-        "query": "SELECT id,name,image,phone,email,source FROM data"
+        "query": "SELECT id,name,image,phone,email,source FROM data ORDER BY id"
       },
       "merge": {
         "incoming_field": "id",
@@ -26,7 +26,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/estonia-riigikogu-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "wikidata",
       "merge": {
