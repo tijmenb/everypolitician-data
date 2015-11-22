@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
-        "query": "SELECT *, LOWER(REPLACE(name, ' ', '-')) AS id FROM data"
+        "query": "SELECT *, LOWER(REPLACE(name, ' ', '-')) AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
@@ -25,7 +25,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/represent-ca",
-        "query": "SELECT *, id AS identifier__represent FROM data"
+        "query": "SELECT *, id AS identifier__represent FROM data ORDER BY id"
       },
       "source": "https://morph.io/tmtmtmtm/represent-ca",
       "type": "person",
@@ -43,7 +43,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/canada-house-of-commons-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
