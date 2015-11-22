@@ -1163,12 +1163,6 @@
     },
     {
       "birth_date": "1957-12-01",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "https://twitter.com/_andrewleslie"
-        }
-      ],
       "email": "Andrew.Leslie@parl.gc.ca",
       "family_name": "Leslie",
       "gender": "male",
@@ -3665,7 +3659,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/William_Morneau"
+          "url": "https://fr.wikipedia.org/wiki/Bill_Morneau"
         }
       ],
       "name": "Bill Morneau",
@@ -3682,7 +3676,7 @@
         },
         {
           "lang": "fr",
-          "name": "William Morneau",
+          "name": "Bill Morneau",
           "note": "multilingual"
         }
       ],
@@ -15757,6 +15751,7 @@
     },
     {
       "birth_date": "1963-08-18",
+      "email": "Hunter.Tootoo@parl.gc.ca",
       "gender": "male",
       "given_name": "Hunter",
       "id": "7401da7f-0c23-4295-a6eb-19860d1e1eb9",
@@ -15871,6 +15866,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Hélène_Laverdière"
+        },
+        {
+          "note": "website",
+          "url": "http://helenelaverdiere.ndp.ca/"
         }
       ],
       "name": "Hélène Laverdière",
@@ -17128,6 +17127,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/James_Maloney_(lawyer)"
+        },
+        {
+          "note": "website",
+          "url": "http://jamesmaloney.liberal.ca/"
         }
       ],
       "name": "James Maloney",
@@ -43611,258 +43614,7 @@
     },
     {
       "classification": "party",
-      "id": "forces_et_démocratie",
-      "identifiers": [
-        {
-          "identifier": "Q18338405",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Bloc Québécois",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Forces et Démocratie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Strength in Democracy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Forces et Démocratie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Forces et Démocratie",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "加拿大民主与力量党",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "conservative",
-      "identifiers": [
-        {
-          "identifier": "Q488523",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Conservative",
-      "other_names": [
-        {
-          "lang": "zh-hans",
-          "name": "加拿大保守党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "加拿大保守黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hk",
-          "name": "加拿大保守黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Konserwatywna Partia Kanady",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti conservateur du Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "캐나다 보수당",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uz",
-          "name": "Kanada Konservativ Partiyasi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Partido Conservador de Canadá",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ta",
-          "name": "கனடா பழமைவாதக் கட்சி",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Partito Conservatore del Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Partai Konservatif Kanada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Konservative Partei Kanadas",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "カナダ保守党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Đảng Bảo thủ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Conservative Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Konzervativna stranka",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Kanadas konservativa parti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ar",
-          "name": "حزب المحافظين الكندي",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Conservative Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Partido Conservador do Canadá",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Konservisma Partio",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Консервативная партия Канады",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-el",
-          "name": "Konzervativna partija Kanade",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-ec",
-          "name": "Конзервативна партија Канаде",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Conservador del Canadà",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Kanadan konservatiivipuolue",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Консервативна партія Канади",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Factio Conservativa Canadae",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Plaid Geidwadol Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Konzervativní strana Kanady",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bg",
-          "name": "Консервативна партия на Канада",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Konzervativna stranka",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Συντηρητικό Κόμμα του Καναδά",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Конзервативна партија Канаде",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "加拿大保守黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Canadas konservative parti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ms",
-          "name": "Parti Konservatif Kanada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "th",
-          "name": "พรรคอนุรักษนิยม",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fa",
-          "name": "حزب محافظه‌کار کانادا",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "independent",
-      "name": "Conservative"
-    },
-    {
-      "classification": "party",
-      "id": "party/conservative",
       "identifiers": [
         {
           "identifier": "Q488523",
@@ -44423,448 +44175,7 @@
     },
     {
       "classification": "party",
-      "id": "party/liberal",
-      "identifiers": [
-        {
-          "identifier": "Q138345",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Liberal",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Liberale Partei Kanadas",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ar",
-          "name": "حزب الأحرار الكندي",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bg",
-          "name": "Либерална партия на Канада",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Liberal del Canadà",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Liberální strana Kanady",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Plaid Ryddfrydol Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Liberal Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Liberal Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Partido Liberal de Canadá",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fa",
-          "name": "حزب لیبرال کانادا",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Kanadan liberaalipuolue",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti libéral du Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Liberalna stranka Kanade",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Partai Liberal Kanada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Partito Liberale del Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "カナダ自由党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "캐나다 자유당",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Factio Liberalis Canadae",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Liberal Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pdc",
-          "name": "Liberal Paerdi vun Kanadaa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Liberalna Partia Kanady",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Partido Liberal do Canadá",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Либеральная партия Канады",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Liberalna stranka Kanade",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Либерална партија Канаде",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Kanadas liberala parti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ta",
-          "name": "கனடா லிபிரல் கட்சி",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Ліберальна партія Канади",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "加拿大自由党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Partit Liberal del Canadà",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Canadas liberale parti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de-ch",
-          "name": "Liberale Partei Kanadas",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Φιλελεύθερο Κόμμα του Καναδά",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Liberal Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Liberal Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt-br",
-          "name": "Partido Liberal do Canadá",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ms",
-          "name": "Parti Liberal Kanada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "yue",
-          "name": "加拿大自由黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "th",
-          "name": "พรรคเสรีนิยม",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mk",
-          "name": "Либерална партија на Канада",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Kanadai Liberális Párt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Partidul Liberal din Canada",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "ndp",
-      "identifiers": [
-        {
-          "identifier": "Q130765",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "NDP",
-      "other_names": [
-        {
-          "lang": "zh-hans",
-          "name": "加拿大新民主党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "加拿大新民主黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hk",
-          "name": "加拿大新民主黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "加拿大新民主党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-sg",
-          "name": "加拿大新民主党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-tw",
-          "name": "加拿大新民主黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Nowa Demokratyczna Partia Kanady",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Nouveau Parti démocratique",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "신민주당",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Nuevo Partido Democrático",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ta",
-          "name": "கனடா புதிய ஜனநாயகக் கட்சி",
-          "note": "multilingual"
-        },
-        {
-          "lang": "af",
-          "name": "New Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Nuovo Partito Democratico",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Novo Partido Democrático",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Neue Demokratische Partei",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "新民主党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "yue",
-          "name": "新民主黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "New Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Nova demokratska stranka",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ar",
-          "name": "الحزب الديمقراطي الجديد",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "New Democratic Party of Canada",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Nya demokratiska partiet",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Novo Partido Democrático",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Nov-Demokratia Partio",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Новая демократическая партия",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Yeni Demokratik Parti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Nou Partit Democràtic",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Uusi demokraattinen puolue",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Нова демократична партія Канади",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Nova Factio Democratica",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Plaid Ddemocrataidd Newydd",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "New Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fa",
-          "name": "حزب دموکرات جدید",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bg",
-          "name": "Нова демократическа партия",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Nova demokratska stranka",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lt",
-          "name": "Kanados naujosios demokratijos partija",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "New Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Νέο Δημοκρατικό Κόμμα",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "加拿大新民主党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "New Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "th",
-          "name": "พรรคประชาธิปไตยใหม่",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "party/ndp",
       "identifiers": [
         {
           "identifier": "Q130765",
@@ -45303,7 +44614,7 @@
     {
       "area_id": "area/alberta_(edmonton—st._albert)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "09a66bcf-886d-4ba1-a121-2224db68d1d8",
       "role": "member"
@@ -45577,7 +44888,7 @@
     {
       "area_id": "area/british_columbia_(nanaimo—alberni)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "19766d21-4f4b-4131-ac47-49623230c584",
       "role": "member"
@@ -45875,7 +45186,7 @@
     {
       "area_id": "area/quebec_(saint-maurice—champlain)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "25ea20cd-a3cf-4589-80f9-4a59776ed981",
       "role": "member"
@@ -46011,7 +45322,7 @@
     {
       "area_id": "area/quebec_(saint-léonard—saint-michel)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "2c6331b3-3233-4faa-9995-b6f760538f39",
       "role": "member"
@@ -46904,7 +46215,7 @@
     {
       "area_id": "area/quebec_(repentigny)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "forces_et_démocratie",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "55023916-a4cc-477a-99c5-b4c3cb29d7ae",
       "role": "member"
@@ -47339,7 +46650,7 @@
     {
       "area_id": "area/quebec_(montcalm)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "692164a2-cbe5-4250-8178-a36dfc6371ca",
       "role": "member"
@@ -47347,7 +46658,7 @@
     {
       "area_id": "area/ontario_(thunder_bay—superior_north)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "green_party",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "69292acd-8be9-4a61-b4a6-584f6ed7fc5f",
       "role": "member"
@@ -48386,7 +47697,7 @@
     {
       "area_id": "area/quebec_(haute-gaspésie—la_mitis—matane—matapédia)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "forces_et_démocratie",
+      "on_behalf_of_id": "bloc_québécois",
       "organization_id": "legislature",
       "person_id": "a47c4ff2-541a-42a6-9f56-fd199c298e50",
       "role": "member"
@@ -48811,7 +48122,7 @@
     {
       "area_id": "area/quebec_(richmond—arthabaska)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "bloc_québécois",
       "organization_id": "legislature",
       "person_id": "b7007740-2b4a-427a-80aa-b34de92ed1b4",
       "role": "member"
@@ -48867,7 +48178,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(avalon)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "liberal",
       "organization_id": "legislature",
       "person_id": "bb339676-688e-44cf-89c0-a9bb12ff84db",
       "role": "member"
@@ -48924,7 +48235,7 @@
     {
       "area_id": "area/quebec_(verchères—les_patriotes)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "bc9b8d17-b4e9-4a00-a9b7-19b9f76d49c6",
       "role": "member"
@@ -49094,7 +48405,7 @@
     {
       "area_id": "area/ontario_(mississauga—brampton_south)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "conservative",
       "organization_id": "legislature",
       "person_id": "c66ef461-4e32-45c5-8395-d7c8f5ae2616",
       "role": "member"
@@ -50022,7 +49333,7 @@
     {
       "area_id": "area/quebec_(laval)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "e7887bf1-b000-48ca-8767-922b2d32b175",
       "role": "member"
@@ -50151,7 +49462,7 @@
     {
       "area_id": "area/quebec_(ahuntsic)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "bloc_québécois",
       "organization_id": "legislature",
       "person_id": "f11e49dc-fab9-4aac-9fea-2cca465280e9",
       "role": "member"
@@ -50295,7 +49606,7 @@
     {
       "area_id": "area/quebec_(jonquière—alma)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "ndp",
       "organization_id": "legislature",
       "person_id": "f74a3f50-b91f-4e8b-8fd1-5943f1bdbc66",
       "role": "member"
