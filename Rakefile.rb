@@ -62,6 +62,7 @@ task 'countries.json' do
       slug: slug,
       legislatures: hs.map { |h|
         json_file = h + '/ep-popolo-v1.0.json'
+        name_file = h + '/names.csv'
         popolo = json_from(json_file)
 
         cmd = "git --no-pager log --format='%h|%at' -1 #{h}"
@@ -73,6 +74,7 @@ task 'countries.json' do
           slug: lslug,
           sources_directory: "#{h}/sources",
           popolo: json_file,
+          names: name_file,
           lastmod: lastmod,
           person_count: popolo[:persons].size,
           sha: sha,
