@@ -1,8 +1,8 @@
 require 'wikisnakker'
 
-# Takes an array of hashes containing group 'id' and 'wikidata' then returns
-# wikidata information about each group.
-class GroupWikidata
+# Takes an array of hashes containing an 'id' and 'wikidata' then returns
+# wikidata information about each item.
+class WikidataLookup
   attr_reader :wikidata_id_lookup
 
   def initialize(mapping)
@@ -12,17 +12,17 @@ class GroupWikidata
   end
 
   def to_hash
-    group_information = wikidata_results.map do |result|
+    information = wikidata_results.map do |result|
       [wikidata_id_lookup[result.id], fields_for(result)]
     end
-    Hash[group_information]
+    Hash[information]
   end
+
+  private
 
   def wikidata_results
     @wikidata_results ||= Wikisnakker::Item.find(wikidata_id_lookup.keys)
   end
-
-  private
 
   def fields_for(result)
     {
