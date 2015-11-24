@@ -19,16 +19,18 @@
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
-      "merge": [{ 
-        "incoming_field": "identifier__riksdagen",
-        "existing_field": "id",
-        "report_missing": false
-      },
-      {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
-      }]
+      "merge": [
+        {
+          "incoming_field": "identifier__riksdagen",
+          "existing_field": "id",
+          "report_missing": false
+        },
+        {
+          "incoming_field": "name",
+          "existing_field": "name",
+          "reconciliation_file": "reconciliation/wikidata.csv"
+        }
+      ]
     },
     {
       "file": "morph/terms.csv",
@@ -37,6 +39,14 @@
         "type": "morph",
         "scraper": "dracos/scraper-sweden-riksdagen",
         "query": "SELECT * FROM terms"
+      }
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "create": {
+        "type": "group-wikidata",
+        "source": "manual/group_wikidata.csv"
       }
     }
   ]
