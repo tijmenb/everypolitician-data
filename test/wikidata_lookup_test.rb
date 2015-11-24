@@ -1,11 +1,11 @@
 require 'test_helper'
-require_relative '../lib/group_wikidata'
+require_relative '../lib/wikidata_lookup'
 
-describe GroupWikidata do
-  around { |test| VCR.use_cassette('group-wikidata', &test) }
+describe WikidataLookup do
+  around { |test| VCR.use_cassette('wikidata-lookup', &test) }
 
   subject do
-    GroupWikidata.new([
+    WikidataLookup.new([
       { id: 'pnp', wikidata: 'Q1076562' },
       { id: 'ppd', wikidata: 'Q199319' }
     ])
@@ -16,11 +16,11 @@ describe GroupWikidata do
       subject.to_hash.is_a?(Hash).must_equal true
     end
 
-    it 'has a key for each requested group' do
+    it 'has a key for each requested item' do
       subject.to_hash.key?('pnp').must_equal true
     end
 
-    it 'has an other_names key for each group' do
+    it 'has an other_names key for each item' do
       subject.to_hash['pnp'].key?(:other_names).must_equal true
     end
 
