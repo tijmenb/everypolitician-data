@@ -314,7 +314,13 @@ namespace :merge_sources do
       all_headers << :identifier__everypolitician_legacy
 
       merged_rows.each do |row|
-        row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy]
+        if legacy.key? row[:uuid] 
+          row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy] 
+        else
+          # TODO: we can remove this once everything is running smoothly
+          # This is primarily to spot any initial problems.
+          warn "No legacy ID for #{row[:uuid]}"
+        end
         row[:id] = row[:uuid]
       end
     end
