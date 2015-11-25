@@ -7059,10 +7059,18 @@
         "sources_directory": "data/Singapore/Parliament/sources",
         "popolo": "data/Singapore/Parliament/ep-popolo-v1.0.json",
         "names": "data/Singapore/Parliament/names.csv",
-        "lastmod": "1448466499",
-        "person_count": 376,
-        "sha": "8a94d0b",
+        "lastmod": "1448473730",
+        "person_count": 397,
+        "sha": "18aecaf",
         "legislative_periods": [
+          {
+            "end_date": "Present",
+            "id": "term/13",
+            "name": "13th Parliament",
+            "start_date": "2016-01-15",
+            "slug": "13",
+            "csv": "data/Singapore/Parliament/term-13.csv"
+          },
           {
             "end_date": "2015-08-25",
             "id": "term/12",
