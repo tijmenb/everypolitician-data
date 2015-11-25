@@ -1,6 +1,6 @@
 module Reconciliation
   class LegacyCsv
-    def self.try_to_upgrade(reconciler, reconciled, incoming_data)
+    def self.try_to_upgrade(reconciler, reconciled, incoming_data, csv_file)
       if reconciled.any? && reconciled.headers != [:id, :uuid]
         warn 'Legacy reconciliation CSV detected'.red
         reconciled_rows = incoming_data.map do |row|
