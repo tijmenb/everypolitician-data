@@ -307,11 +307,16 @@ namespace :merge_sources do
       end
     end
 
-    all_headers << :identifier__everypolitician_legacy
+    legacy_id_file = 'sources/manual/legacy-ids.csv'
+    if File.exist? legacy_id_file
+      legacy = CSV.table(legacy_id_file, converters: nil).group_by { |r| r[:id] }
 
-    merged_rows.each do |row|
-      row[:identifier__everypolitician_legacy] = row[:id] || row[:pseudoid]
-      row[:id] = row[:uuid]
+      all_headers << :identifier__everypolitician_legacy
+
+      merged_rows.each do |row|
+        row[:identifier__everypolitician_legacy] = legacy[ row[:uuid ] ].first[:legacy]
+        row[:id] = row[:uuid]
+      end
     end
 
     # Then write it all out
