@@ -28,7 +28,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/costa-rica-election-2014",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "type": "person",
       "merge": { 
