@@ -1,5 +1,0 @@
-# This should all move to morph.io, but currently blows its memory limits
-# so for now you can load the data by:
-
-ruby $(git rev-parse --show-toplevel)/bin/parlparse_to_csv.rb instructions.json > data.csv
-
