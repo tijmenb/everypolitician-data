@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/saint-helena-election-2013",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "source": "https://en.wikipedia.org/wiki/Saint_Helena_general_election,_2013",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/saint-helena-legislative-council",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "source": "http://www.sainthelena.gov.sh/your-council/",
       "type": "person",
