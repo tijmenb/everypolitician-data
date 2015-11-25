@@ -15,7 +15,7 @@ module Reconciliation
       return unless merger[:reconciliation_file]
 
       # FIXME: Remove this once all CSVs have 'id,uuid' headers.
-      LegacyCsv.try_to_upgrade(reconciler, reconciled, incoming_data)
+      LegacyCsv.try_to_upgrade(reconciler, reconciled, incoming_data, csv_file)
 
       FileUtils.mkdir_p(File.dirname(csv_file))
       File.write(html_file, template.render)
