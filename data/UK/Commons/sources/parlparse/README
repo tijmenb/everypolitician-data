@@ -1,6 +1,0 @@
-# This should all move to morph.io, but currently blows its memory limits
-# so for now you can load the data by:
-
-curl -o twfy.json https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json 
-
-ruby $(git rev-parse --show-toplevel)/bin/parlparse_to_csv.rb instructions.json > data.csv
