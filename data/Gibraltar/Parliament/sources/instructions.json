@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "andylolz/gibraltar-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "source": "https://morph.io/andylolz/gibraltar-wikipedia",
       "type": "person",
