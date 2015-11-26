@@ -933,6 +933,7 @@
     {
       "email": "anders.schroder@riksdagen.se",
       "gender": "male",
+      "given_name": "Anders",
       "id": "e52d00f3-2ad6-4088-a6f2-d607384931c9",
       "identifiers": [
         {
@@ -1354,6 +1355,10 @@
         {
           "identifier": "0138741628520",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0138741628520",
+          "scheme": "riksdagen"
         },
         {
           "identifier": "Q18237639",
