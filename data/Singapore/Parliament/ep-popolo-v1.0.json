@@ -3631,27 +3631,6 @@
       ]
     },
     {
-      "id": "7dce9eeb-1d32-482a-aa3d-6bb9142a93f7",
-      "identifiers": [
-        {
-          "identifier": "lee-bee-wah-11",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.gov.sg/sites/default/files/LEE%20BEE%20WAH2_0.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/LEE%20BEE%20WAH2_0.jpg"
-        }
-      ],
-      "name": "Lee Bee Wah",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.sg/history/11th-parliament"
-        }
-      ]
-    },
-    {
       "id": "99dadda1-6170-439d-97e1-b32a57168d14",
       "identifiers": [
         {
@@ -11900,20 +11879,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "7dce9eeb-1d32-482a-aa3d-6bb9142a93f7",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "party/people’s_action_party",
-      "organization_id": "legislature",
-      "person_id": "7dce9eeb-1d32-482a-aa3d-6bb9142a93f7",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
@@ -16157,11 +16122,10 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "Present",
       "id": "term/13",
       "name": "13th Parliament",
       "organization_id": "legislature",
-      "start_date": "2016-01-15"
+      "start_date": "2016--01-15"
     }
   ],
   "areas": [
