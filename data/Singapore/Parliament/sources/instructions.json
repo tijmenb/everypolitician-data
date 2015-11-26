@@ -22,7 +22,6 @@
       "merge": { 
         "incoming_field": "name",
         "existing_field": "name",
-        "term_match": true,
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
