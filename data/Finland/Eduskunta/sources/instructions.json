@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/finland-eduskunta-kansanmuisti",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://kansanmuisti.fi/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/finland-eduskunta-wikidata",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "wikidata",
