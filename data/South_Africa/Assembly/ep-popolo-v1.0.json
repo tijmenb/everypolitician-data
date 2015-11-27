@@ -9285,28 +9285,6 @@
       ]
     },
     {
-      "honorific_prefix": "Tshoganetso",
-      "id": "d190770d-2a7b-48ed-82cf-59c55b3b99aa",
-      "identifiers": [
-        {
-          "identifier": "tshoganetso-mpho-adolphina-tongwane",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
-      "images": [
-        {
-          "url": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
-        }
-      ],
-      "name": "Mpho Adolphina Tongwane",
-      "sources": [
-        {
-          "url": "http://www.pa.org.za/person/tshoganetso-mpho-adolphina-tongwane/"
-        }
-      ]
-    },
-    {
       "email": "mrabotapi@parliament.gov.za",
       "honorific_prefix": "Mr",
       "id": "58dbced2-7174-4c7b-9f54-14f9aa32fbd3",
@@ -12866,6 +12844,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Siyabonga Cwele",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Siyabonga Cwele",
           "note": "multilingual"
@@ -13891,6 +13874,29 @@
       "sources": [
         {
           "url": "http://www.pa.org.za/person/tshoganetso-mpho-adolphina-gasebonwe-tongwane/"
+        }
+      ]
+    },
+    {
+      "email": "tgasebonwe@parliament.gov.za",
+      "honorific_prefix": "Mrs",
+      "id": "d190770d-2a7b-48ed-82cf-59c55b3b99aa",
+      "identifiers": [
+        {
+          "identifier": "tshoganetso-mpho-adolphina-tongwane",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
+        }
+      ],
+      "name": "Tshoganetso Mpho Adolphina Tongwane",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/tshoganetso-mpho-adolphina-tongwane/"
         }
       ]
     },
@@ -18270,6 +18276,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/northern_cape",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "ANC",
       "organization_id": "legislature",
