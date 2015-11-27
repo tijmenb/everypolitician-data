@@ -8747,7 +8747,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mbeere_south",
+      "area_id": "area/embu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -8978,9 +8978,9 @@
       "role": "member"
     },
     {
-      "area_id": "area/bomachoge",
+      "area_id": "area/bomachoge_chache",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
+      "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "3a4d1a35-4dda-4907-a1af-0ec0bb07b971",
       "role": "member"
@@ -9583,7 +9583,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/kisumu_town_east",
+      "area_id": "area/kisumu_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -9599,7 +9599,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/taita_taveta",
+      "area_id": "area/taveta",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -11036,7 +11036,7 @@
     {
       "area_id": "area/tarbaj",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
+      "on_behalf_of_id": "IND",
       "organization_id": "legislature",
       "person_id": "fd36bc76-a626-49aa-86dc-e1ce7c740cde",
       "role": "member"
@@ -11186,13 +11186,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/bomachoge",
-      "name": "Bomachoge",
+      "id": "area/bomachoge_borabu",
+      "name": "Bomachoge Borabu",
       "type": "constituency"
     },
     {
-      "id": "area/bomachoge_borabu",
-      "name": "Bomachoge Borabu",
+      "id": "area/bomachoge_chache",
+      "name": "Bomachoge Chache",
       "type": "constituency"
     },
     {
@@ -11786,8 +11786,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/kisumu_town_east",
-      "name": "Kisumu Town East",
+      "id": "area/kisumu_east",
+      "name": "Kisumu East",
       "type": "constituency"
     },
     {
@@ -12108,11 +12108,6 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mbeere_south",
-      "name": "Mbeere South",
       "type": "constituency"
     },
     {
@@ -12578,6 +12573,11 @@
     {
       "id": "area/tarbaj",
       "name": "Tarbaj",
+      "type": "constituency"
+    },
+    {
+      "id": "area/taveta",
+      "name": "Taveta",
       "type": "constituency"
     },
     {
