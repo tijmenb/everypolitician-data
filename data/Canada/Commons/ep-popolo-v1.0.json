@@ -38189,6 +38189,7 @@
       ]
     },
     {
+      "birth_date": "1964-01-25",
       "contact_details": [
         {
           "type": "twitter",
@@ -38196,15 +38197,37 @@
         }
       ],
       "email": "scott.reid@parl.gc.ca",
+      "gender": "male",
+      "given_name": "Scott",
       "id": "cc9f1422-7729-4ab0-bb66-cf7045d7c8da",
       "identifiers": [
+        {
+          "identifier": "12380964b",
+          "scheme": "bnf"
+        },
         {
           "identifier": "scott-reid",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0000 7833 2970",
+          "scheme": "isni"
+        },
+        {
           "identifier": "1827",
           "scheme": "represent"
+        },
+        {
+          "identifier": "149400438",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "105406376",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3476240",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/ReidScott_CPC.jpg",
@@ -38215,11 +38238,66 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Scott_Reid_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Scott_Jeffrey_Reid"
+        },
+        {
           "note": "website",
           "url": "http://www.scottreid.ca"
         }
       ],
       "name": "Scott Reid",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Scott Jeffrey Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Scott Reid",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
@@ -38764,6 +38842,12 @@
         {
           "identifier": "89090",
           "scheme": "represent"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://sheribenson.ndp.ca"
         }
       ],
       "name": "Sheri Benson",
@@ -42225,6 +42309,12 @@
         {
           "identifier": "88745",
           "scheme": "represent"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://traceyramsey.ndp.ca"
         }
       ],
       "name": "Tracey Ramsey",
