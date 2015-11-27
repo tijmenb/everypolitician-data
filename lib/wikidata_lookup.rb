@@ -39,6 +39,31 @@ class WikidataLookup
           note: 'multilingual'
         }
       end
-    }
+    }.merge(other_fields_for(result))
+  end
+
+  # to override in subclasses
+  def other_fields_for(result)
+    {}
   end
 end
+
+class GroupLookup < WikidataLookup
+
+  def other_fields_for(result)
+    {
+      links: links(result)
+    }.reject { |k, v| v.nil? }
+  end
+
+  def links(result)
+    url = result.P856 or return nil
+    return [
+      {
+        url: url.value,
+        note: "website",
+      }
+    ]
+  end
+end
+

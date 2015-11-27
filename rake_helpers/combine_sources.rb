@@ -113,7 +113,7 @@ namespace :merge_sources do
           IO.copy_stream(open(remote), i[:file])
         elsif c[:type] == 'group-wikidata'
           mapping = csv_table("sources/#{c[:source]}")
-          group_wikidata = WikidataLookup.new(mapping)
+          group_wikidata = GroupLookup.new(mapping)
           File.write(i[:file], JSON.pretty_generate(group_wikidata.to_hash))
         elsif c[:type] == 'area-wikidata'
           mapping = csv_table("sources/#{c[:source]}")
