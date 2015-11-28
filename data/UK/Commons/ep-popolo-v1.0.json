@@ -13160,6 +13160,9 @@
       "sort_name": "O'Hara, Brendan"
     },
     {
+      "birth_date": "1942-04-01",
+      "gender": "male",
+      "given_name": "Brian",
       "id": "b6f4dcb2-f8e5-4626-9739-9d80fe90ff15",
       "identifiers": [
         {
@@ -13169,9 +13172,73 @@
         {
           "identifier": "11742",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "mr-brian-binley",
+          "scheme": "hansard"
+        },
+        {
+          "identifier": "commons/mr-brian-binley/1550",
+          "scheme": "parliamentdotuk"
+        },
+        {
+          "identifier": "Q263767",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Brian Binley"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Brian_Binley"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Brian_Binley"
+        }
+      ],
+      "name": "Brian Binley",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Brian Binley",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1936-08-24",
@@ -26910,8 +26977,15 @@
       "sort_name": "Warburton, David"
     },
     {
+      "birth_date": "1953-06-24",
+      "gender": "male",
+      "given_name": "David",
       "id": "6ad5ac26-0020-4479-afb5-c0db9212de09",
       "identifiers": [
+        {
+          "identifier": "135194525",
+          "scheme": "bnf"
+        },
         {
           "identifier": "3923",
           "scheme": "datadotparl"
@@ -26919,9 +26993,91 @@
         {
           "identifier": "24946",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0001 1437 6963",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "david-ward-2",
+          "scheme": "journalisted"
+        },
+        {
+          "identifier": "commons/mr-david-ward/3923",
+          "scheme": "parliamentdotuk"
+        },
+        {
+          "identifier": "07314505X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "10004999",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q263589",
+          "scheme": "wikidata"
         }
       ],
-      "name": "David Ward"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mr_David_Ward_MP.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mr_David_Ward_MP.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Ward_(politician)"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/דייוויד_וורד"
+        }
+      ],
+      "name": "David Ward",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "David Ward",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Ward",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "David Ward",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "دیوید وارد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Ward",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "דייוויד וורד",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Ward",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дэвид Уорд",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "5bf9e3a2-5dc4-4d86-a09f-9d89d6b610f2",
@@ -29695,6 +29851,16 @@
         },
         {
           "lang": "nl",
+          "name": "Douglas Carswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Douglas Carswell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
           "name": "Douglas Carswell",
           "note": "multilingual"
         },
@@ -33052,7 +33218,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fi",
+          "name": "Francie Molloy",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Francie Molloy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Francie Molloy",
           "note": "multilingual"
         }
@@ -70359,7 +70535,7 @@
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/pages/Martin-Docherty-for-West-Dunbartonshire/1022409794455334?fref=nf"
+          "url": "http://www.facebook.com/MartinDochertySNP"
         },
         {
           "note": "website",
@@ -106891,6 +107067,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ουίλιαμ Χέιγκ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "William Hague",
           "note": "multilingual"
@@ -107814,10 +107995,6 @@
         {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Zac_Goldsmith"
-        },
-        {
-          "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/Zac_Goldsmith"
         },
         {
           "note": "Wikipedia (commons)",
