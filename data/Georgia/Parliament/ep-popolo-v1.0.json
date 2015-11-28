@@ -4403,6 +4403,7 @@
       ]
     },
     {
+      "birth_date": "1957-10-28",
       "contact_details": [
         {
           "type": "phone",
@@ -4414,11 +4415,16 @@
         }
       ],
       "email": "SShavgulidze@parliament.ge",
+      "gender": "male",
       "id": "f7941694-8f92-4d10-94bc-56bd6f7fcbc1",
       "identifiers": [
         {
           "identifier": "502",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12870563",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%90%E1%83%95%E1%83%92%E1%83%A3%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A8%E1%83%90%E1%83%9A%E1%83%95%E1%83%90_jpg_200x168_q85.jpg",
@@ -4428,6 +4434,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/შალვა_შავგულიძე"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/shalvashavgulidzeforvake"
@@ -4442,6 +4452,18 @@
         }
       ],
       "name": "Shalva Shavgulidze",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Shalva Shavgulidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "შალვა შავგულიძე",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/502/shalva-shavgulize/"
