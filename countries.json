@@ -7635,10 +7635,18 @@
         "sources_directory": "data/Switzerland/National_Council/sources",
         "popolo": "data/Switzerland/National_Council/ep-popolo-v1.0.json",
         "names": "data/Switzerland/National_Council/names.csv",
-        "lastmod": "1448791988",
-        "person_count": 1165,
-        "sha": "ffcdb08",
+        "lastmod": "1448798781",
+        "person_count": 1216,
+        "sha": "3ad1443",
         "legislative_periods": [
+          {
+            "end_date": "2019-11-29",
+            "id": "term/50",
+            "name": "50. Legislatur",
+            "start_date": "2015-11-30",
+            "slug": "50",
+            "csv": "data/Switzerland/National_Council/term-50.csv"
+          },
           {
             "end_date": "2015-11-29",
             "id": "term/49",
@@ -7667,7 +7675,7 @@
             "end_date": "2003-11-30",
             "id": "term/46",
             "name": "46. Legislatur",
-            "start_date": "1999-12-01",
+            "start_date": "1999-12-06",
             "slug": "46",
             "csv": "data/Switzerland/National_Council/term-46.csv"
           },
