@@ -6520,32 +6520,821 @@
     {
       "classification": "party",
       "id": "party/be",
-      "name": "BE"
+      "identifiers": [
+        {
+          "identifier": "Q884840",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.bloco.org/"
+        }
+      ],
+      "name": "BE",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Левый блок (Португалия)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "bloc de gauche (Portugal)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Left Bloc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Links Blok",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Bloco de Esquerda (Portugal)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Bloc d'Esquerra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bloco de Esquerda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Bloco de Esquerda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Blocco di Sinistra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bloco de Esquerda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лівий блок (Португалія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ezkerreko Blokea (Portugal)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vasemmistoblokki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Bloco de Esquerda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "左翼ブロック",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Blok Lewicy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "左翼集團",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αριστερό Μπλοκ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/cds-pp",
-      "name": "CDS-PP"
+      "identifiers": [
+        {
+          "identifier": "Q1054298",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.cds.pt/"
+        }
+      ],
+      "name": "CDS-PP",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Народная партия (Португалия)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti populaire (Portugal)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic and Social Centre – People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "CDS - Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Centro Democrático e Social – Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Centro Democratico Sociale - Partito Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Centro Democrático e Social – Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Centro Democrático Social-Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народна партія Португалії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主社会中道・人民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Centrum Demokratyczne i Społeczne – Partia Ludowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民主和社会中心党-人民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Centre Democràtic Social / Partit Popular (Portugal)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "民主和社会中心党-人民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Centro Democrático e Social – Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λαϊκό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "CDS – People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "CDS – People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "CDS - Partido Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Centro Democrático e Social - Partido Popular (CDS/PP)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pcp",
-      "name": "PCP"
+      "identifiers": [
+        {
+          "identifier": "Q769829",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pcp.pt/"
+        }
+      ],
+      "name": "PCP",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti communiste portugais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Comunista Portuguès",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Comunista Português",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Portuguese Communist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista Portugués",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Portugalgo Alderdi Komunista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Portugalin kommunistinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Comunista Portugués",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Comunista Portoghese",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ポルトガル共産党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პორტუგალიის კომუნისტური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Comunista Português",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Portugalska Partia Komunistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Comunista Português",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Португальская коммунистическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Комунистичка партија Португалије",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido Comunista Português",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Portekiz Komünist Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Комуністична партія Португалії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "پرتگالی کمیونسٹ پارٹی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "葡萄牙共產黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πορτογαλικό Κομμουνιστικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Portugals Kommunistiske Parti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/pev",
-      "name": "PEV"
+      "identifiers": [
+        {
+          "identifier": "Q978086",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.osverdes.pt/"
+        }
+      ],
+      "name": "PEV",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Ecologista Os Verdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Ecologista-Els Verds",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Os Verdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ecologist Party \"The Greens\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Ekologia &quot;La Verduloj&quot;",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Ecologista \"Os Verdes\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Berdeak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Les Verts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Ecologista \"I Verdi\"",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პორტუგალიის მწვანეები",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Ekologistyczna &quot;Zieloni&quot;",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Ecologista Os Verdes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия «зелёных»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido Ecologista “Os Verdes”",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія Зелених",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/ps",
-      "name": "PS"
+      "identifiers": [
+        {
+          "identifier": "Q847263",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ps.pt/"
+        }
+      ],
+      "name": "PS",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "社会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "社會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "社會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Alderdi Sozialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Socjalistyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социалистическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "사회당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sosyalist Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Partido Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціалістична партія Португалії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Socialistica Lusitaniae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Socijalistička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პორტუგალიის სოციალისტური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Portugalijos socialistų partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Socialistpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сацыялістычная партыя Партугаліі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Socialista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалистичка партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σοσιαλιστικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Portugala Socialista Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Socialistisk Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Socialista (PS)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/psd",
-      "name": "PSD"
+      "identifiers": [
+        {
+          "identifier": "Q595575",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.psd.pt/"
+        }
+      ],
+      "name": "PSD",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Partito Social Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialdemòcrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialdemokrata Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Social Demócrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Alderdi Sozialdemokrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sosiaalidemokraattinen puolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "parti social-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הסוציאל-דמוקרטית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "პორტუგალიის სოციალ-დემოკრატიული პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Socjaldemokratyczna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социал-демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Socijaldemokratska partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sosyal Demokrat Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Соціал-демократична партія Португалії",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社會民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Social Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Social Democrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалдемократска партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σοσιαλδημοκρατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Portugals Socialdemokratiske Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Sosial Demokrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Social-Democrat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Social Democrata - Partido Popular Democrático (PPD/PSD)",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
