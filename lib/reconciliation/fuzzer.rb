@@ -18,7 +18,7 @@ module Reconciliation
     def find_all
       incoming_rows.map do |incoming_row|
         if incoming_row[incoming_field].to_s.empty?
-          warn "No #{incoming_field} in #{incoming_row}".red
+          warn "No #{incoming_field} in #{incoming_row.reject { |k, v| v.to_s.empty? }}".red
           next
         end
         matches = fuzzer.find_all_with_score(incoming_row[incoming_field])
