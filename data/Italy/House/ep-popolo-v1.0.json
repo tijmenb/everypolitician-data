@@ -32662,6 +32662,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "IT\\ICCU\\CFIV\\321928",
+          "scheme": "sbn_it"
+        },
+        {
           "identifier": "Q15117583",
           "scheme": "wikidata"
         }
@@ -59428,11 +59432,21 @@
     },
     {
       "area_id": "V",
+      "end_date": "2015-11-26",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "83e29204-319b-4bcf-bf63-e538d151661b",
       "role": "member"
+    },
+    {
+      "area_id": "V",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "83e29204-319b-4bcf-bf63-e538d151661b",
+      "role": "member",
+      "start_date": "2015-11-26"
     },
     {
       "area_id": "XVI",
