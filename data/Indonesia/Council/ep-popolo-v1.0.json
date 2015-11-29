@@ -616,6 +616,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "nm2935141",
+          "scheme": "imdb"
+        },
+        {
           "identifier": "265a1690-c742-4e90-8f84-9b4441acfe71",
           "scheme": "musicbrainz"
         },
@@ -652,6 +656,11 @@
       "other_names": [
         {
           "lang": "es",
+          "name": "Anang Hermansyah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Anang Hermansyah",
           "note": "multilingual"
         },
@@ -3261,6 +3270,21 @@
       ]
     },
     {
+      "id": "a84bc1b3-7249-4a01-b533-dc359f5c4b9a",
+      "image": "http://dpr.go.id/doksigota/photo/149_Dr._Ir._HETIFAH,_M.P.P..jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/149_Dr._Ir._HETIFAH,_M.P.P..jpg"
+        }
+      ],
+      "name": "Dr. Ir. HETIFAH SJAIFUDIAN, M.P.P.",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "30e38c43-4c1e-46f3-98cf-b6863912f092",
       "identifiers": [
         {
@@ -3871,6 +3895,11 @@
         },
         {
           "lang": "en",
+          "name": "Muhaimin Iskandar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Muhaimin Iskandar",
           "note": "multilingual"
         },
@@ -4938,6 +4967,21 @@
       ]
     },
     {
+      "id": "7e2584f8-b7dc-4aa0-9ed1-bd08fbfc964a",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "Drs. H.MOHAMMAD IDHAM SAMAWI",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "c4ceff21-00f3-4a50-bba1-9ba0704bdfb9",
       "identifiers": [
         {
@@ -5057,6 +5101,21 @@
         }
       ],
       "name": "Drs. KH. CHOIRUL MUNA",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "3988e217-d159-4cee-91cb-5b0a3c0052ac",
+      "image": "http://dpr.go.id/doksigota/photo/552_Drs._M._MARTRI_AGOENG_.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/552_Drs._M._MARTRI_AGOENG_.jpg"
+        }
+      ],
+      "name": "Drs. M. MARTRI AGOENG",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -5224,6 +5283,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Teuku_Taufiqulhadi"
+        },
+        {
+          "note": "website",
+          "url": "http://www.taufiqulhadi.com"
         }
       ],
       "name": "Drs. T. TAUFIQULHADI, M.Si.",
@@ -5662,27 +5725,6 @@
       ]
     },
     {
-      "id": "a8781de1-7614-4930-ad0b-9f10c803bc1b",
-      "identifiers": [
-        {
-          "identifier": "1526",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://dpr.go.id/doksigota/photo/1526.jpg",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/1526.jpg"
-        }
-      ],
-      "name": "ENI MAULANI SARAGIH, SE, SPD",
-      "sources": [
-        {
-          "url": "http://dpr.go.id/en/anggota"
-        }
-      ]
-    },
-    {
       "id": "9d3593bb-8484-4cfa-98aa-a7ece70ac80f",
       "identifiers": [
         {
@@ -5893,6 +5935,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Fahri_Hamzah"
+        },
+        {
+          "note": "website",
+          "url": "http://fahrihamzah.com/"
         }
       ],
       "name": "FAHRI HAMZAH, SE.",
@@ -8296,6 +8342,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "nm1209916",
+          "scheme": "imdb"
+        },
+        {
           "identifier": "Q12507597",
           "scheme": "wikidata"
         }
@@ -9745,6 +9795,27 @@
         }
       ],
       "name": "Hj. ENDANG MARIA ASTUTI, S.Sg, SH",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
+      "id": "a8781de1-7614-4930-ad0b-9f10c803bc1b",
+      "identifiers": [
+        {
+          "identifier": "1526",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://dpr.go.id/doksigota/photo/1526.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1526.jpg"
+        }
+      ],
+      "name": "Hj. ENI MAULANI SARAGIH",
       "sources": [
         {
           "url": "http://dpr.go.id/en/anggota"
@@ -11370,6 +11441,21 @@
       ]
     },
     {
+      "id": "c2a78197-0e31-4670-891f-38a5f2d6a616",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "name": "Ir. H.A. Junaidi Auly, M.M.",
+      "sources": [
+        {
+          "url": "http://dpr.go.id/en/anggota"
+        }
+      ]
+    },
+    {
       "id": "175beb7f-13f9-4cae-ad1f-b46e9cd10b9a",
       "identifiers": [
         {
@@ -11721,9 +11807,13 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Nurdin_Tampubolon"
+        },
+        {
+          "note": "website",
+          "url": "http://www.nurdintampubolon.com"
         }
       ],
-      "name": "Ir. NURDIN TAMPUBOLON",
+      "name": "Ir. NURDIN TAMPUBOLON,MM",
       "other_names": [
         {
           "lang": "id",
@@ -15267,6 +15357,7 @@
       ]
     },
     {
+      "birth_date": "1960-10-14",
       "gender": "female",
       "id": "234bcab5-14bf-4d40-8210-9db73da9caee",
       "identifiers": [
@@ -16298,6 +16389,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Зулкифли_Хасан"
+        },
+        {
+          "note": "website",
+          "url": "http://www.zulhasan.com/"
         }
       ],
       "name": "ZULKIFLI HASAN, SE., MM.",
@@ -17605,6 +17700,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/jawa_tengah_iv",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/prosperous_justice_party_faction",
+      "organization_id": "legislature",
+      "person_id": "3988e217-d159-4cee-91cb-5b0a3c0052ac",
+      "role": "member"
+    },
+    {
       "area_id": "area/jawa_timur_i",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/golkar_party_faction",
@@ -18701,6 +18804,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/d.i._yogyakarta",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/indonesian_democratic_party_of_struggle_faction",
+      "organization_id": "legislature",
+      "person_id": "7e2584f8-b7dc-4aa0-9ed1-bd08fbfc964a",
+      "role": "member"
+    },
+    {
       "area_id": "area/banten_i",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/national_democrat_party_faction",
@@ -19589,6 +19700,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kalimantan_timur",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/golkar_party_faction",
+      "organization_id": "legislature",
+      "person_id": "a84bc1b3-7249-4a01-b533-dc359f5c4b9a",
+      "role": "member"
+    },
+    {
       "area_id": "area/jawa_timur_x",
       "legislative_period_id": "term/18",
       "on_behalf_of_id": "party/golkar_party_faction",
@@ -19962,6 +20081,14 @@
       "on_behalf_of_id": "party/prosperous_justice_party_faction",
       "organization_id": "legislature",
       "person_id": "c2924839-3ae9-4008-849e-b3ff4e0d96a4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lampung_ii",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/prosperous_justice_party_faction",
+      "organization_id": "legislature",
+      "person_id": "c2a78197-0e31-4670-891f-38a5f2d6a616",
       "role": "member"
     },
     {
