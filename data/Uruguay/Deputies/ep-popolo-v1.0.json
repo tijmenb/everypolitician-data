@@ -2348,27 +2348,482 @@
     {
       "classification": "party",
       "id": "party/partido_asamblea_popular",
-      "name": "PARTIDO ASAMBLEA POPULAR"
+      "identifiers": [
+        {
+          "identifier": "Q2012277",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.asambleapopular.webcindario.com/"
+        }
+      ],
+      "name": "PARTIDO ASAMBLEA POPULAR",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Asamblea Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Popular Assembly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Assemblea Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Assemblea Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "人民大会",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_colorado",
-      "name": "PARTIDO COLORADO"
+      "identifiers": [
+        {
+          "identifier": "Q1430823",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidocolorado.com.uy/"
+        }
+      ],
+      "name": "PARTIDO COLORADO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Колорадо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Colorado Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคโกโลราโด",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія Колорадо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "コロラド党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "कोलोरादो पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Coloradopartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "乌拉圭红党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Uruqvay Kolorado Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Κολοράδο",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Colorado Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Colorado Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Coloradopartiet",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_frente_amplio",
-      "name": "PARTIDO FRENTE AMPLIO"
+      "identifiers": [
+        {
+          "identifier": "Q1066799",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteamplio.org.uy/"
+        }
+      ],
+      "name": "PARTIDO FRENTE AMPLIO",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Frente Ampla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "广泛阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "廣泛陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "廣泛陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Szeroki Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "광역전선",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Широкий фронт",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front large",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Broad Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Amplio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Front Ampli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Ampio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Fronte Ampla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Frente Amplio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "拡大戦線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ব্রড ফ্রন্ট(উরুগুয়ে)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frente Amplio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Breed Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "广泛阵线",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Frente Amplio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Широкий фронт",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_independiente",
-      "name": "PARTIDO INDEPENDIENTE"
+      "identifiers": [
+        {
+          "identifier": "Q1624802",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidoindependiente.org/"
+        }
+      ],
+      "name": "PARTIDO INDEPENDIENTE",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Independent Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Indipendente",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/partido_nacional",
-      "name": "PARTIDO NACIONAL"
+      "identifiers": [
+        {
+          "identifier": "Q1549793",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidonacional.com.uy"
+        }
+      ],
+      "name": "PARTIDO NACIONAL",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Partido Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Narodowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "राष्ट्रिय पार्टी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Национална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Nacional de l'Uruguai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Національна партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nationale Partij (Uruguay)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit Nacional d'Uruguai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Partido Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "乌拉圭白党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Uruqvay Milli Partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εθνικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Nacional",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "meta": {
